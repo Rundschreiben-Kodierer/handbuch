@@ -1,0 +1,30 @@
+<ul class="language-switcher">
+    {{ $currentPage := .Page }}
+    {{ range $.Site.Languages }}
+        <li>
+			{{ $langCode := .Lang }}
+            {{ $translatedPage := $currentPage }}
+            {{ $translationExists := false }}
+            <!-- Loop through available translations to find the corresponding one -->
+            {{ range $currentPage.AllTranslations }}
+                {{ if eq .Lang $langCode }}
+                    {{ $translatedPage = . }}
+                    {{ $translationExists = true }}
+                    <!-- Break once a matching translation is found -->
+                    {{ break }}
+                {{ end }}
+            {{ end }}
+            <!-- Generate the link based on translation availability -->
+            {{ if $translationExists }}
+                {{ if eq $currentPage.Lang $langCode }}
+                    <a class="active" href="{{ $translatedPage.RelPermalink }}">{{ upper $langCode }}</a>
+                {{ else }}
+                    <a href="{{ $translatedPage.RelPermalink }}">{{ upper $langCode }}</a>
+                {{ end }}
+            {{ else }}
+                <a class="disabled" href="javascript:void(0);">{{ upper $langCode }}</a>
+            {{ end }}
+        </li>
+    {{- end }}
+</ul>
+

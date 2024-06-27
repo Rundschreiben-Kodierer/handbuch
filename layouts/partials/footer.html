@@ -1,0 +1,28 @@
+<footer>
+  <div class="footer-item footer-item-info">
+    &copy; {{ now.Year }} {{ T "copyright" }} | 
+    v{{ .Site.Params.version }}
+    (
+    {{ if (and (isset .Site.Params "githash") (not (eq .Site.Params.gitHash ""))) }}
+    {{ .Site.Params.gitHash }}, 
+    {{ end }}
+
+    {{ if (and (isset .Site.Params "builddatetime") (not (eq .Site.Params.buildDatetime ""))) }}
+    {{ .Site.Params.buildDatetime }}
+    {{ else }}
+    {{ $t := time.Now }}
+    {{ $t  | time.Format ":date_medium" }} {{ $t  | time.Format ":time_medium" }}
+    {{ end }}
+    )
+  </div>
+  <ul class="footer-item footer-item-links">
+    <li>
+      <a href="{{ T "legal_link" }}" target="_blank" style="margin-right: 1em;">{{ T "legal_text" }}</a>
+    </li>
+    <li>
+      <a href="{{ T "legal_link" }}" title="legal-link-logo">
+        <img decoding="async" loading="lazy" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-nd.png" width="118" height="41" align="right" alt="legal-link-logo" />
+      </a>
+    </li>
+  </ul>
+</footer>

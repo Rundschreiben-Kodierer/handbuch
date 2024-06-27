@@ -1,0 +1,30 @@
+[copyright]
+other = "Federal Statistical Office"
+[legal_text]
+other = "Terms of use"
+[legal_link]
+other = "https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en"
+[home_text]
+other = "Home"
+[project_text]
+other = "SpiGes"
+[project_link]
+other = "https://www.spiges.admin.ch"
+
+# collapsible block shortcode
+[collapsible_block_click_to_expand_click_text]
+other = "Click here to expand..."
+[collapsible_block_click_to_collapse_click_text]
+other = "Click here to collapse..."
+[collapsible_block_click_to_expand_collapse_tooltip_text]
+other = "Click here to expand/collapse"
+
+# collapsible group command shortcode
+[collapsible_group_command_expand_all_click_text]
+other = "Expand all"
+[collapsible_group_command_collapse_all_click_text]
+other = "Collapse all"
+[collapsible_group_command_click_to_expand_collapse_all_tooltip_text]
+other = "Click here to expand/collapse all"
+[project_title]
+other = "Manual SpiGes"

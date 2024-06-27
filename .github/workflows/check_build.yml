@@ -1,0 +1,194 @@
+# Check build after pushing on main, during Pull-Request, or manually with any branch, with optional deployment on test environment
+name: Check Build
+
+on:
+  # Runs on pushes targeting the main branch
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+    inputs:
+      deploymentEnabled:
+        description: 'The built website must be deployed'
+        required: false
+        default: true
+        type: boolean
+
+env:
+  TARGET_REPOSITORY: 'spiges/handbook-test'
+  TARGET_BRANCH: 'main'
+  KEEP_TARGET_HISTORY: false
+  DEPLOYED_BASE_URL: 'https://spiges.github.io/handbook-test/'
+  DEPLOYED_BASE_NAME: 'handbook-test'
+  # Versions
+  GO_VERSION: '1.22.2'
+  NODE_VERSION: '20.12.1'
+  DART_SASS_VERSION: 'latest/stable' # Only one stable version available through Snap. It is not possible to select a specific version for an extended period.
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+# Default to bash
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  stylelintCheck:
+    name: SCSS Lint Check
+    runs-on: ubuntu-latest
+    if: github.event_name == 'pull_request'
+    permissions:
+      contents: read
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+      - run: 'npm ci'
+      - uses: reviewdog/action-stylelint@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          reporter: github-pr-review
+          filter_mode: added
+          fail_on_error: true
+          stylelint_config: '.stylelintrc.json'
+          stylelint_input: '**/assets/scss/*.scss'
+
+  eslintCheck:
+    name: Javascript Lint Check
+    needs: [stylelintCheck]
+    runs-on: ubuntu-latest
+    if: always() && github.event_name == 'pull_request'
+    permissions:
+      contents: read
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+      - run: 'npm ci'
+      - uses: reviewdog/action-eslint@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          reporter: github-pr-review
+          filter_mode: added
+          fail_on_error: true
+          eslint_flags: "--debug --stats --ignore-pattern '{public/,node_modules/}' assets/js/"
+
+  markdownlintCheck:
+    name: Markdown Lint Check
+    needs: [eslintCheck]
+    runs-on: ubuntu-latest
+    if: always() && github.event_name == 'pull_request'
+    permissions:
+      contents: read
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+      - run: 'npm ci'
+      - uses: reviewdog/action-markdownlint@v0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          reporter: github-pr-review
+          filter_mode: added
+          fail_on_error: true
+          markdownlint_flags: '**/content/**/*.md --ignore node_modules --ignore public --config .markdownlint.json'
+
+  # Build job
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install Go
+        uses: actions/setup-go@v5
+        with:
+          cache: false # to avoid Warning: "Restore cache failed: Dependencies file is not found in /home/runner/work/handbook/handbook. Supported file pattern: go.sum"
+          go-version: ${{ env.GO_VERSION }}
+
+      - name: Install Dart Sass
+        run: sudo snap install dart-sass --channel=${{ env.DART_SASS_VERSION }}
+
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Update Hugo config
+        run: |
+          baseURL=${{ env.DEPLOYED_BASE_URL }}
+          echo "baseURL: $baseURL"
+          sed -i "s|baseURL[[:space:]]*=[[:space:]]*'.*'|baseURL = '$baseURL'|" hugo.toml
+
+          baseName=${{ env.DEPLOYED_BASE_NAME }}
+          echo "baseName: $baseName"
+          sed -i "s|baseName[[:space:]]*=[[:space:]]*'.*'|baseName = '$baseName'|" hugo.toml
+
+          buildDatetime=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
+          echo "buildDatetime: $buildDatetime"
+          sed -i "s/buildDatetime[[:space:]]*=[[:space:]]*\".*\"/buildDatetime = \"$buildDatetime\"/" hugo.toml
+
+          gitHash=$(git rev-parse --short HEAD)
+          echo "git hash: $gitHash"
+          sed -i "s/gitHash[[:space:]]*=[[:space:]]*\".*\"/gitHash = \"$gitHash\"/" hugo.toml
+
+          version=$(grep 'version[[:space:]]*=' hugo.toml | sed 's/version[[:space:]]*=[[:space:]]*"\([^"]*\)"/\1/')
+          echo "Current version: $version"
+
+          branch_name=$(echo $GITHUB_REF | sed 's|refs/heads/||')
+          echo "Current branch: $branch_name" 
+          new_version="${version}+${branch_name}"
+          echo "New version: $new_version"
+          sed -i "s|version[[:space:]]*=[[:space:]]*\"${version}\"|version = \"${new_version}\"|" hugo.toml
+
+      - name: Set Test style (blue lines)
+        run: |
+          sed -i "s|\$ob-venetian-red:[[:space:]]*#.*;|\$ob-venetian-red: #004ddc;|" assets/scss/_variables_project.scss
+
+      - name: Build project using npm
+        env:
+          BASE_URL: ${{ env.DEPLOYED_BASE_URL }}
+        run: npm run build:ci:production
+
+      - name: Copy README.md and LICENSE.md files in public directory
+        run: |
+          echo "This repository contents the built SpiGes-Documentation project website for testing" > README.md
+          cp README.md public/
+          cp LICENSE.md public/
+
+      - name: Deploy to the specified environment
+        # Runs only if:
+        #   previous step successed
+        #   AND the trigger is not a pull-request
+        #   AND
+        #     the trigger is automatic (push)
+        #     OR the trigger is manual and 'deploymentEnabled' parameter is true
+        if: success() && github.event_name != 'pull_request' && (github.event_name != 'workflow_dispatch' || github.event.inputs.deploymentEnabled == 'true')
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: ${{ env.TARGET_BRANCH }}
+          build_dir: public
+          repo: ${{ env.TARGET_REPOSITORY }}
+          keep_history: ${{ env.KEEP_TARGET_HISTORY }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.TEST_REPO_TOKEN }}

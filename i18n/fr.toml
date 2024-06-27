@@ -1,0 +1,26 @@
+[copyright]
+other = "Office fédéral de la statistique"
+[legal_text]
+other = "Droits d'usage"
+[legal_link]
+other = "https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr"
+[home_text]
+other = "Home"
+[project_text]
+other = "SpiGes"
+[project_link]
+other = "https://www.spiges.admin.ch"
+[collapsible_block_click_to_expand_click_text]
+other = "Réponse"
+[collapsible_block_click_to_collapse_click_text]
+other = "Réponse"
+[collapsible_group_command_expand_all_click_text]
+other = "Tout ouvrir"
+[collapsible_group_command_collapse_all_click_text]
+other = "Tout fermer"
+[collapsible_block_click_to_expand_collapse_tooltip_text]
+other = "Cliquez ici pour développer/réduire"
+[collapsible_group_command_click_to_expand_collapse_all_tooltip_text]
+other = "Cliquez ici pour tout développer/réduire"
+[project_title]
+other = "Manuel SpiGes"

@@ -1,0 +1,7 @@
+.faq-block {
+  // This selector is temporary and aims for the FAQ implementation using direct markdown instead of the new shortcode `numberedList`.
+  // When `numberedList` is used in all the FAQ pages, this selector can be removed.
+  li > p {
+    margin-bottom: 0px;
+  }
+}

@@ -1,0 +1,20 @@
+<!-- collapsibleGroupCommand.html -->
+{{ $groupId := .Get "groupId" | default ""}}
+{{ $class := .Get "class" | default ""}}
+{{ $collapsedText := .Get "customCollapsedText" | default (T "collapsible_group_command_expand_all_click_text") }}
+{{ $expandedText := .Get "customExpandedText" | default (T "collapsible_group_command_collapse_all_click_text") }}
+{{ $tooltipText := .Get "customTooltipText" | default (T "collapsible_group_command_click_to_expand_collapse_all_tooltip_text") }}
+{{ $tooltipEnabled := eq (.Get "tooltipEnabled" | default "true") "true" }}
+<span class="collapsible-group-command {{$class}}"
+     collapsed-text="{{$collapsedText}}"
+     expanded-text="{{$expandedText}}"
+     group-id="{{$groupId}}"
+>
+    {{ if $tooltipEnabled }}
+        <i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="{{$tooltipText}}"></i>
+    {{ else }}
+        <i class="collapsible-group-command__icon fas"></i>
+    {{ end }}
+    <button type="button" class="collapsible-group-command__button"></button>
+</span>
+    

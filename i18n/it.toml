@@ -1,0 +1,26 @@
+[copyright]
+other = "Ufficio federale di statistica"
+[legal_text]
+other = "Indicazioni giuridiche"
+[legal_link]
+other = "https://creativecommons.org/licenses/by-nc-nd/4.0/deed.it"
+[home_text]
+other = "Home"
+[project_text]
+other = "SpiGes"
+[project_link]
+other = "https://www.spiges.admin.ch"
+[collapsible_block_click_to_expand_click_text]
+other = "Risposta"
+[collapsible_block_click_to_collapse_click_text]
+other = "Risposta"
+[collapsible_group_command_expand_all_click_text]
+other = "Espandere tutto"
+[collapsible_group_command_collapse_all_click_text]
+other = "Comprimere tutto"
+[collapsible_block_click_to_expand_collapse_tooltip_text]
+other = "Clicca qui per espandere/comprimere"
+[collapsible_group_command_click_to_expand_collapse_all_tooltip_text]
+other = "Clicca qui per espandere/comprimere tutto"
+[project_title]
+other = "SpiGes manuali"

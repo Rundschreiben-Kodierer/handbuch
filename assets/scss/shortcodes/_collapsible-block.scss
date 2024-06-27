@@ -1,0 +1,16 @@
+.collapsible-block {
+  .collapsible-block__content {
+    display: none;
+    padding: 0px 10px 10px 10px;
+    margin-top: 5px;
+    width: 100%;
+  }
+
+  .collapsible-block__icon {
+    @include hover-point-cursor;
+  }
+
+  .collapsible-block__button {
+    @include link-hover-effect-button;
+  }
+}

@@ -1,0 +1,17 @@
+{{/* 
+  Shortcode for converting Markdown content to HTML.
+
+  This shortcode uses the `markdownify` function to convert Markdown-formatted text
+  within its content to HTML. It's particularly useful for rendering user-provided
+  Markdown content dynamically in templates or in shortcodes which don't markdownify the inner part, 
+  allowing for flexible content management.
+
+  Example:
+  {{<markdown>}}
+      Here is some Markdown content:
+      - **Bold** text
+      - _Italic_ text
+      - An [Example link](http://example.com)
+  {{</markdown>}}
+*/}}
+{{ .Inner | markdownify }}

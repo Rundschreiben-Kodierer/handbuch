@@ -1,0 +1,30 @@
+{{/* 
+  Generates a numbered list with optional custom classes.
+
+  This shortcode creates an ordered list (`<ol>`) HTML element, allowing the user
+  to add custom classes for styling purposes.
+
+  The main reason of providing this shortcode is that using markdown numberered list doesn't work well 
+  when shortcodes are used inside a numbered item. Indeed, the HTML result could contain more than one <ol> element.
+
+  Parameters:
+  - class: A string containing one or more CSS class names to be added to the `<ol>` element.
+           This parameter is optional and defaults to an empty string if not provided.
+
+  Example:
+  To use this shortcode in your content, you can include it like this:
+    {{<numberedList>}}
+
+    {{<listItem>}}
+    Wen kontaktiert das Spital, wenn es inhaltliche Fragen betreffend der SpiGes Erhebung hat?
+    {{<collapsibleBlock groupId="Rollen">}}
+    Bei fachlichen oder technischen Fragen zur SpiGes wendet sich das Spital primär an seine zuständige kantonale Erhebungsstelle.
+    {{</collapsibleBlock>}}
+    {{</listItem>}}
+    ...
+    {{</numberedList>}}
+*/}}
+{{ $class := .Get "class" | default ""}}
+<ol class="numbered-list {{$class}}">
+    {{ .Inner }}
+</ol>

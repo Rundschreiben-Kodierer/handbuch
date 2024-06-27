@@ -1,0 +1,60 @@
+name: Generate and provide the Hugo cache directory for a Windows environment
+
+on:
+  workflow_dispatch:
+
+env:
+  GO_VERSION: '1.22.2'
+  NODE_VERSION: '20.12.1'
+  DART_SASS_VERSION: '1.72.0'
+
+jobs:
+  build-and-upload:
+    runs-on: windows-latest
+
+    steps:
+      - name: Install Go
+        uses: actions/setup-go@v5
+        with:
+          cache: false # to avoid Warning: "Restore cache failed: Dependencies file is not found in /home/runner/work/handbook/handbook. Supported file pattern: go.sum"
+          go-version: ${{ env.GO_VERSION }}
+
+      - name: Install Dart Sass
+        run: choco install sass --version ${{ env.DART_SASS_VERSION }}
+
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build project
+        env:
+          BASE_URL: ${{ env.DEPLOYED_BASE_URL }}
+        run: npm run build
+
+      - name: Find Hugo cache directory
+        id: find-cache
+        shell: pwsh
+        run: |
+          $cachePath = Join-Path $env:LOCALAPPDATA 'hugo_cache'
+          echo "HUGO_CACHE_DIR=$cachePath" | Out-File -FilePath $env:GITHUB_ENV -Encoding utf8
+
+      - name: Install 7zip
+        run: choco install 7zip.install -y
+
+      - name: Compress Hugo cache directory
+        run: 7z a -tzip hugo_cache.zip ${{ env.HUGO_CACHE_DIR }}
+
+      - name: Upload hugo_cache.zip
+        uses: actions/upload-artifact@v4
+        with:
+          name: hugo-cache
+          path: hugo_cache.zip

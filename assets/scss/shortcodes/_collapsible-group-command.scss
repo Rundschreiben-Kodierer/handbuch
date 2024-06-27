@@ -1,0 +1,9 @@
+.collapsible-group-command {
+  .collapsible-group-command__button {
+    @include link-hover-effect-button;
+  }
+
+  .collapsible-group-command__icon {
+    @include hover-point-cursor;
+  }
+}

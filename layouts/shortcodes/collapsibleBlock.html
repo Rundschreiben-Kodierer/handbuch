@@ -1,0 +1,29 @@
+<!-- 
+  Generates a customizable collapsible block component.
+  This component features dynamic text for expanded and collapsed states, optional tooltips, and custom styling.
+-->
+{{ $groupId := .Get "groupId" | default ""}}
+{{ $class := .Get "class" | default ""}}
+{{ $collapsedText := .Get "customCollapsedText" | default (T "collapsible_block_click_to_expand_click_text") }}
+{{ $expandedText := .Get "customExpandedText" | default (T "collapsible_block_click_to_collapse_click_text") }}
+{{ $tooltipText := .Get "customTooltipText" | default (T "collapsible_block_click_to_expand_collapse_tooltip_text")}}
+{{ $tooltipEnabled := eq (.Get "tooltipEnabled" | default "true") "true" }}
+<div class="collapsible-block {{$class}}" 
+     group-id="{{$groupId}}"
+     collapsed-text="{{$collapsedText}}"
+     expanded-text="{{$expandedText}}"
+>
+    <span>
+        {{ if $tooltipEnabled }}
+            <i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="{{$tooltipText}}"></i>
+        {{ else }}
+            <i class="collapsible-block__icon fas"></i>
+        {{ end }}
+        <button type="button" class="collapsible-block__button"></button>
+    </span>
+    
+    <div class="collapsible-block__content">
+        {{ .Inner }}
+    </div>
+</div>
+    

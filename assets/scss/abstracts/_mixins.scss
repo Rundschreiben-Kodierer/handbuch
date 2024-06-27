@@ -1,0 +1,18 @@
+@mixin hover-point-cursor {
+  cursor: pointer;
+}
+
+@mixin hover-effect {
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+@mixin link-hover-effect-button {
+  border: none;
+  background-color: unset;
+  text-align: left;
+  color: blue;
+
+  @include hover-effect;
+}

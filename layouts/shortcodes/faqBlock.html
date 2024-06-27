@@ -1,0 +1,29 @@
+{{/* 
+  Shortcode for creating a FAQ block with optional custom classes.
+
+  This shortcode generates a `div` element with the class 'faq-block' and allows for additional
+  custom classes to be added. It is designed to encapsulate FAQ content providing a consistent and customizable style.
+
+  Parameters:
+  - class: A string containing one or more CSS class names to be added to the `div` element.
+           This parameter is optional and defaults to an empty string if not provided.
+
+  Example:
+    {{<faq-block>}}
+    Um alle Fragen zu öffnen: {{<collapsibleGroupCommand groupId="Rollen">}}
+
+    {{<numberedList>}}
+
+    {{<listItem>}}
+    Wen kontaktiert das Spital, wenn es inhaltliche Fragen betreffend der SpiGes Erhebung hat?
+    {{<collapsibleBlock groupId="Rollen">}}
+    Bei fachlichen oder technischen Fragen zur SpiGes wendet sich das Spital primär an seine zuständige kantonale Erhebungsstelle.
+    {{</collapsibleBlock>}}
+    {{</listItem>}}
+    ...
+    {{</faq-block>}}
+*/}}
+{{ $class := .Get "class" | default ""}}
+<div class="faq-block {{$class}}">
+    {{ .Inner }}
+</div>

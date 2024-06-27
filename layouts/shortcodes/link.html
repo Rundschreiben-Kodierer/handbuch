@@ -1,0 +1,21 @@
+{{/* Shortcode "link" to manage properly the link usage.
+  Parameters:
+  - url: URL of the link
+  - newTab: Boolean indicating whether the link must open a new tab.
+*/}}
+
+{{ $url := .Get "url" }}
+{{ $newTab := .Get "newTab" | default "false" }}
+
+{{ if strings.HasPrefix $url "/" }}
+  {{ $url = printf "%s%s%s"
+    (.Site.BaseURL | replaceRE "/+$" "") .Site.LanguagePrefix $url
+  }}
+{{ end }}
+
+
+<a
+  href="{{ $url }}"
+  {{ if eq $newTab "true" }}target="_blank" rel="noopener noreferrer"{{ end }}
+  >{{ .Inner }}</a
+>

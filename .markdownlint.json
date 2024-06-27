@@ -1,0 +1,30 @@
+{
+    "default": true,
+    "MD007": {
+        "indent": 4
+    },
+    "MD010": false,
+    "MD013": {
+        "stern": true,
+        "line_length": 99999,
+        "code_block_line_length": 80,
+        "heading_line_length": 120
+    },
+    "MD024": {
+        "siblings_only": true
+    },
+    "MD033": {
+        "allowed_elements": [
+            "collapsibleGroupCommand",
+            "collapsibleBlock",
+            "insertImage",
+            "alert",
+            "numberedList",
+            "listItem",
+            "faqBlock",
+            "markdown",
+            "link",
+            "lineBreak"
+        ]
+    }
+}
