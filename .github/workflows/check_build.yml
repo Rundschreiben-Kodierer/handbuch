@@ -190,4 +190,5 @@ jobs:
           build_dir: public
           repo: ${{ env.TARGET_REPOSITORY }}
           keep_history: ${{ env.KEEP_TARGET_HISTORY }}
+        env:
           github_token: ${{ secrets.GITHUB_TOKEN }}
