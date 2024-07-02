@@ -1,4 +1,4 @@
-# Release Notes - SpiGes Documentation Version [@VersionNumber]
+# Release Notes - Rundschreiben-Kodierer Documentation Version [@VersionNumber]
 
 **Release Date:** @ReleaseDate
 
@@ -30,6 +30,6 @@
 
 ## Contributors
 
-- **SpiGes documentation team** - Description of their contribution.
+- **Rundschreiben-Kodierer documentation team** - Description of their contribution.
 
-**Thank you for continuing to use SpiGes documentation. We hope these updates make your experience even better.**
+**Thank you for continuing to use Rundschreiben-Kodierer documentation. We hope these updates make your experience even better.**

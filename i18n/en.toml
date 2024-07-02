@@ -7,9 +7,7 @@ other = "https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en"
 [home_text]
 other = "Home"
 [project_text]
-other = "SpiGes"
-[project_link]
-other = "https://www.spiges.admin.ch"
+other = "Rundschreiben Kodierer"
 
 # collapsible block shortcode
 [collapsible_block_click_to_expand_click_text]
@@ -27,4 +25,4 @@ other = "Collapse all"
 [collapsible_group_command_click_to_expand_collapse_all_tooltip_text]
 other = "Click here to expand/collapse all"
 [project_title]
-other = "Manual SpiGes"
+other = "Manual Rundschreiben Kodierer"

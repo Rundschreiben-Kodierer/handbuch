@@ -19,11 +19,11 @@ on:
         type: boolean
 
 env:
-  TARGET_REPOSITORY: 'spiges/handbook-test'
+  TARGET_REPOSITORY: 'rundschreiben-kodierer/handbuch-test'
   TARGET_BRANCH: 'main'
   KEEP_TARGET_HISTORY: false
-  DEPLOYED_BASE_URL: 'https://spiges.github.io/handbook-test/'
-  DEPLOYED_BASE_NAME: 'handbook-test'
+  DEPLOYED_BASE_URL: 'https://rundschreiben-kodierer.github.io/handbuch-test/'
+  DEPLOYED_BASE_NAME: 'handbuch-test'
   # Versions
   GO_VERSION: '1.22.2'
   NODE_VERSION: '20.12.1'
@@ -172,7 +172,7 @@ jobs:
 
       - name: Copy README.md and LICENSE.md files in public directory
         run: |
-          echo "This repository contents the built SpiGes-Documentation project website for testing" > README.md
+          echo "This repository contents the built Rundschreiben-Kodierer-Documentation project website for testing" > README.md
           cp README.md public/
           cp LICENSE.md public/
 

@@ -7,9 +7,8 @@ other = "https://creativecommons.org/licenses/by-nc-nd/4.0/deed.it"
 [home_text]
 other = "Home"
 [project_text]
-other = "SpiGes"
-[project_link]
-other = "https://www.spiges.admin.ch"
+other = "Rundschreiben Kodierer"
+
 [collapsible_block_click_to_expand_click_text]
 other = "Risposta"
 [collapsible_block_click_to_collapse_click_text]
@@ -23,4 +22,4 @@ other = "Clicca qui per espandere/comprimere"
 [collapsible_group_command_click_to_expand_collapse_all_tooltip_text]
 other = "Clicca qui per espandere/comprimere tutto"
 [project_title]
-other = "SpiGes manuali"
+other = "Rundschreiben Kodierer manuali"
