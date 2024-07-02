@@ -191,4 +191,4 @@ jobs:
           repo: ${{ env.TARGET_REPOSITORY }}
           keep_history: ${{ env.KEEP_TARGET_HISTORY }}
         env:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
