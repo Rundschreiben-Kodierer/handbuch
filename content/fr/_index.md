@@ -7,8 +7,8 @@ weight: 0
 type: docs
 ---
 
-Willkomen bei Rundschreiben-Kodierer-Handbuch
+Bienvenue dans le manuel
 
 {{<alert color="info">}}
-Die Dokumentation befindet sich im Aufbau.
+La documentation est en cours de construction.
 {{</alert>}}
