@@ -1,10 +1,8 @@
 ---
 title: 0774
-slug: rollen
+slug: 0774
 description: "01.01.2023 Informationen und Präzisierungen zur Palliative Care"
-weight: 10
+weight: 440
 type: docs
 keywords: []
 ---
-
-text en markdown
