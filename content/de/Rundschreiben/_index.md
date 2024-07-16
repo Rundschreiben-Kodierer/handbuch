@@ -7,16 +7,18 @@ type: docs
 keywords: []
 ---
 
-- <font color="red">0756</font>   <b>01.07.2024</b>   <b>«Exklusivum – Kode weglassen» bei Komplexbehandlungen</b> \ &nbsp;
-adfsasfasfda éalsdfkaj&nbsp; ésaldfj éaslfdja ésladskjaf éslkfjfj ésaldfj ésaldfk jséadlflkj ésaldfkj ésldkfj lésdkfj élsdkfj élsdkjf ésadklkjaf élskadslkjaf élaksdjf élksdslkjaf élkasdjf élkjsdafé lkjsadéfl kjsadélflé kjésdalfk jéalsdffkj élsadfkj édsalfkj ésdalfdslkjj éldsafdkj élasdfkja élasdfj élasdkfdkj éladskfdkj élsdafdkj éldskfj éldsfdj élsdakfdja élsadslkjaf élsd dsj félsadkjaf él adfafdasdfasf
+- <font color="red">0756</font>   <b>01.07.2024</b>   <b>«Exklusivum – Kode weglassen» bei Komplexbehandlungen</b>  
+
+adfsasfasfda éalsdfkaj ésaldfj  
+éaslfdja ésladskjaf éslkfjfj  
+ésaldfj ésaldfk jséadlflkj ésaldfkj ésldkfj  
+lésdkfj élsdkfj élsdkjf ésadklkjaf élskadslkjaf élaksdjf élksdslkjaf élkasdjf élkjsdafé lkjsadéfl kjsadélflé kjésdalfk jéalsdffkj élsadfkj édsalfkj ésdalfdslkjj éldsafdkj élasdfkja élasdfj élasdkfdkj éladskfdkj élsdafdkj éldskfj éldsfdj élsdakfdja élsadslkjaf élsd dsj félsadkjaf él adfafdasdfasf
 
 - List
 - List 2
     - Sub-level list 1 with four spaces
-    - Sub-level list 2 with four spaces
-
-
-In der Einleitung der CHOP im Abschnitt «Technische Bemerkungen zur CHOP» - «Zusatzinformationen» steht
+    - Sub-level list 2 with four spaces  
+    In der Einleitung der CHOP im Abschnitt «Technische Bemerkungen zur CHOP» - «Zusatzinformationen» steht
 […]
 Ein «Exklusivum - Kode weglassen» hingegen, schliesst die gemeinsame Kodierung von zwei Kodes zum Zeitpunkt X für die Lokalisation Y aus.
 Beispiel: Da eine Rektumresektion bereits Teil einer totalen Proktokolektomie ist, wird unter der 3-stelligen Kategorie 48.6- «Sonstige Rektumresektion» ein «Exklusivum - Kode weglassen» aufgeführt: EXKL. «Kode weglassen - Kolektomie und Proktokolektomie 
