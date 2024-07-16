@@ -7,4 +7,4 @@ type: docs
 keywords: []
 ---
 
-text en markdown LOLO
+text en markdown LOLO COPY
