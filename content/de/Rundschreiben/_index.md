@@ -8,8 +8,7 @@ keywords: []
 ---
 
 - <font color="red">0756</font>   <b>01.07.2024</b>   <b>«Exklusivum – Kode weglassen» bei Komplexbehandlungen</b>
-adfsasfasfda
-adfafdasdfasf
+adfsasfasfda éalsdfkaj ésaldfj éaslfdja ésladskjaf éslkfjfj ésaldfj ésaldfk jséadlflkj ésaldfkj ésldkfj lésdkfj élsdkfj élsdkjf ésadklkjaf élskadslkjaf élaksdjf élksdslkjaf élkasdjf élkjsdafé lkjsadéfl kjsadélflé kjésdalfk jéalsdffkj élsadfkj édsalfkj ésdalfdslkjj éldsafdkj élasdfkja élasdfj élasdkfdkj éladskfdkj élsdafdkj éldskfj éldsfdj élsdakfdja élsadslkjaf élsd dsj félsadkjaf él adfafdasdfasf
 
 - List
 - List 2
