@@ -7,7 +7,7 @@ type: docs
 keywords: []
 ---
 
-<font color="red">"0756"</p> *Tabspace* <b>01.07.2024</b>*Tabspace**<b>«Exklusivum – Kode weglassen» bei Komplexbehandlungen</b>
+<font color="red">"0756"</font>   <b>01.07.2024</b>   <b>«Exklusivum – Kode weglassen» bei Komplexbehandlungen</b>
 
 In der Einleitung der CHOP im Abschnitt «Technische Bemerkungen zur CHOP» - «Zusatzinformationen» steht
 […]
