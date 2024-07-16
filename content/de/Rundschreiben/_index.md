@@ -7,7 +7,7 @@ type: docs
 keywords: []
 ---
 
-[color=#26B260]0756[/color]  <b>01.07.2024</b>   <b>«Exklusivum – Kode weglassen» bei Komplexbehandlungen</b>
+<font color="red">0756[/color]  <b>01.07.2024</b>     <b>«Exklusivum – Kode weglassen» bei Komplexbehandlungen</b>
 
 In der Einleitung der CHOP im Abschnitt «Technische Bemerkungen zur CHOP» - «Zusatzinformationen» steht
 […]
