@@ -7,14 +7,16 @@ type: docs
 keywords: []
 ---
 
-<font color="red">0756</font>   <b>01.07.2024</b>   <b>«Exklusivum – Kode weglassen» bei Komplexbehandlungen</b>
+- <font color="red">0756</font>   <b>01.07.2024</b>   <b>«Exklusivum – Kode weglassen» bei Komplexbehandlungen</b>
+adfsasfasfda
+adfafdasdfasf
 
 - List
 - List 2
     - Sub-level list 1 with four spaces
     - Sub-level list 2 with four spaces
 
-    
+
 In der Einleitung der CHOP im Abschnitt «Technische Bemerkungen zur CHOP» - «Zusatzinformationen» steht
 […]
 Ein «Exklusivum - Kode weglassen» hingegen, schliesst die gemeinsame Kodierung von zwei Kodes zum Zeitpunkt X für die Lokalisation Y aus.
