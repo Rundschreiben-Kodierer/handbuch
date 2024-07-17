@@ -27,9 +27,10 @@ zur gesonderten Kodierung in den Mindestmerkmalen sind vorhanden.
 Beispiel: «Exklusiva – Kode weglassen» unter 93.8A.1- «Palliativmedizinische Assessment», die auf 93.8A.2- und 93.8B.- verweisen. Wird eine palliativmedizinische Komplexbehandlung oder eine spezialisierte Palliative Care durchgeführt ist das palliativmedizinische Assessment nicht zusätzlich zu kodieren.
 
 
-~adfsasfasfda éalsdfkaj ésaldfj  
-~~éaslfdja ésladskjaf éslkfjfj  
-~~~ésaldfj ésaldfk jséadlflkj ésaldfkj ésldkfj  
+\t adfsasfasfda éalsdfkaj ésaldfj
+éaslfdja ésladskjaf éslkfjfj  
+
+\t\t\t ésaldfj ésaldfk jséadlflkj ésaldfkj ésldkfj  
 lésdkfj élsdkfj élsdkjf ésadklkjaf élskadslkjaf élaksdjf élksdslkjaf élkasdjf élkjsdafé lkjsadéfl kjsadélflé kjésdalfk jéalsdffkj élsadfkj édsalfkj ésdalfdslkjj éldsafdkj élasdfkja élasdfj élasdkfdkj éladskfdkj élsdafdkj éldskfj éldsfdj élsdakfdja élsadslkjaf élsd dsj félsadkjaf él adfafdasdfasf
 
 - List
