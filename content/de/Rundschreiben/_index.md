@@ -20,7 +20,6 @@ Für Komplexbehandlungen ist zu ergänzen:
 Besteht ein «Exklusivum – Kode weglassen» zwischen zwei Komplexbehandlungen, so ist die zeitgleiche Kodierung beider Komplexbehandlungen nicht erlaubt. Erfolgen die zwei Komplexbehandlungen zeitlich versetzt, können beide Komplexbehandlungen 
 erfasst werden.  
 <br>
-<br>
 Beispiel: «Exklusiva – Kode weglassen» zwischen 93.8A.2- «Palliativmedizinische Komplexbehandlung, nach Anzahl Behandlungstage» und 93.8B.- «Spezialisierte Palliative Care». Wird eine spezialisierte Palliative Care während zwei Wochen durchgeführt, darf nicht gleichzeitig in diesen zwei Wochen eine palliativmedizinische Komplexbehandlung erfasst werden.  
 Diagnostische Verfahren, die Bedingung für die Komplexbehandlung sind bzw. Teil von dieser sind, werden nicht zusätzlich kodiert. 
 Hier gibt das «Exklusivum – Kode weglassen» einen grundsätzlichen Ausschluss an. Ausnahme: «Kodiere ebenso» oder Angaben 
