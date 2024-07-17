@@ -26,6 +26,23 @@ Hier gibt das «Exklusivum – Kode weglassen» einen grundsätzlichen Ausschlus
 zur gesonderten Kodierung in den Mindestmerkmalen sind vorhanden.  
 Beispiel: «Exklusiva – Kode weglassen» unter 93.8A.1- «Palliativmedizinische Assessment», die auf 93.8A.2- und 93.8B.- verweisen. Wird eine palliativmedizinische Komplexbehandlung oder eine spezialisierte Palliative Care durchgeführt ist das palliativmedizinische Assessment nicht zusätzlich zu kodieren.
 
+- <font color="red">0757</font>   <b>01.07.2024</b>   <b>Informationen und Präzisierungen zur Palliative Care</b>  
+Folgende Präzisierungen betreffen die Elementgruppe 93.8A.2- «Palliativmedizinische Komplexbehandlung, nach Anzahl Behandlungstage» und die Subkategorie 93.8B.- «Spezialisierte Palliative Care».
+
+- <font color="red">0757/1</font>   <b>Standardisiertes palliativmedizinisches Basisassessment</b>  
+93.8A.2-:Mindestmerkmal Punkt 2, Eintrittsabklärung, Assessment:  
+Durchführung eines standardisierten palliativmedizinischen Basisassessments (PBA). […]  
+93.8B.-: Mindestmerkmal Punkt 2, Eintrittsabklärung, Assessment:  
+a) Durchführung eines standardisierten palliativmedizinischen Basisassessments (PBA) inklusive Erfassung von Komplexität und Instabilität.   
+[…]  
+**Ist SENS ebenfalls ein standardisiertes palliativmedizinisches Basisassessment (PBA)?**  
+Mit dem SENS-Assessment werden folgende Bereiche der Palliativversorgung abgedeckt: Symptommanagement, Entscheidungsfindung/ End of Life Vorbereitung, Netzwerk-Organisation, Support der Angehörigen. SENS integriert alle Themenbereiche der gängigen Ziele, Definitionen und Modelle. Somit ist auch ein dokumentiertes SENS-Assessment als standardisiertes palliativmedizinisches Basisassessment für die Kodes 93.8A.2- und 93.8B.- anzuerkennen.  
+**Kann ein einzelnes Assessmentinstrument als palliativmedizinisches Basisassessment zählen?**  
+Die alleinige Durchführung eines Assessmentinstrumentes (z. B. ESAS) zur Erfassung der körperlichen Dimension ist nicht als vollständiges PBA anzuerkennen. In einem PBA müssen die biologischen, psychologischen, sozialen und spirituellen Dimensionen berücksichtigt werden  
+
+- <font color="red">0757/2</font>   <b> Therapiebereiche</b>
+
+
 
 \t adfsasfasfda éalsdfkaj ésaldfj
 éaslfdja ésladskjaf éslkfjfj  
