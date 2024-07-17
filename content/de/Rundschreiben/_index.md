@@ -15,6 +15,7 @@ Beispiel: Da eine Rektumresektion bereits Teil einer totalen Proktokolektomie is
 (45.8-)».  
 […]    
 <LineBreak>
+<LineBreak>
 Für Komplexbehandlungen ist zu ergänzen:  
 Besteht ein «Exklusivum – Kode weglassen» zwischen zwei Komplexbehandlungen, so ist die zeitgleiche Kodierung beider Komplexbehandlungen nicht erlaubt. Erfolgen die zwei Komplexbehandlungen zeitlich versetzt, können beide Komplexbehandlungen 
 erfasst werden.  
