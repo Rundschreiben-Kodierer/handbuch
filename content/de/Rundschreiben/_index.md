@@ -14,12 +14,6 @@ Ein «Exklusivum - Kode weglassen» hingegen, schliesst die gemeinsame Kodierung
 Beispiel: Da eine Rektumresektion bereits Teil einer totalen Proktokolektomie ist, wird unter der 3-stelligen Kategorie 48.6- «Sonstige Rektumresektion» ein «Exklusivum - Kode weglassen» aufgeführt: EXKL. «Kode weglassen - Kolektomie und Proktokolektomie 
 (45.8-)».  
 […]
-
-{{<collapsibleBlock groupId="Rollen" customCollapsedText="Die Präzisierung 0814 wird im Rundschreiben 2024 Nr. 1 gestrichen" customExpandedText="Die Präzisierung 0814 wird im Rundschreiben 2024 Nr. 1 gestrichen">}}
-Spezifische Kodes für die gecoverten Koronararterien-Stents 
-wurden in der CHOP 2024 gebildet.
-{{</collapsibleBlock>}}
-
 <lineBreak>
 <lineBreak>
 Für Komplexbehandlungen ist zu ergänzen:  
