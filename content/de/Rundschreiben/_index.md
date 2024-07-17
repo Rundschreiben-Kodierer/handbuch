@@ -42,7 +42,37 @@ Die alleinige Durchführung eines Assessmentinstrumentes (z. B. ESAS) zur Erfass
 
 - <font color="red">0757/2</font>   <b> Therapiebereiche</b>
 
+- <font color="red">0758</font>  <b>01.07.2024</b>   <b>93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach 
+Anzahl Behandlungstage»</b>  
 
+- <font color="red">0758/1</font>   <b> Berechnung der Aufenthaltstage für Kodes der Elementegruppe 93.59.5-</b>  
+Zur Berechnung der Behandlungstage unter den CHOP-Kodes 93.59.50 bis 93.59.53 «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage» darf bei Erfüllung der Mindestmerkmale der Eintritts- sowie Austrittstag nur als ein Behandlungstag angerechnet werden.
+
+- <font color="red">0758/2</font>   <b>Abgrenzung 93.59.5- und 99.84.1-, 99.84.2-, 99.84.3-</b>  
+Unter den Elementegruppen 99.84.1- «Kontaktisolierung, nach Anzahl Behandlungstage», 99.84.2- «Tröpfchenisolierung, […]» und 99.84.3- «Aerosolisolierung, […]» ist folgendes «Exklusivum – Kode weglassen» angegeben:  
+Exkl. «Kode weglassen - Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl 
+Behandlungstage (93.59.5-)».  
+Dies bedeutet, dass die zeitgleiche Kodierung von 93.59.5- und 99.84.1-, 99.84.2-, 99.84.3- nicht gestattet ist. Werden 99.84.1-, 99.84.2-, 99.84.3- zeitlich versetzt erbracht zur 93.59.5- können die Kodes im gleichen Fall erfasst werden. Die Erfassung von 99.84.1-, 99.84.2-, 99.84.3- darf nie für das gleiche Zeitintervall wie 93.59.5- erfolgen.
+
+- <font color="red">0759</font>  <b>01.07.2024</b>   <b> Lateralitätsmarkierung</b>  
+Die Angabe der Lateralität ist nur bei paarigen Organen ein Muss (entsprechende Kennzeichnung in der CHOP mit «[L]» in der PDFDatei oder «Lateral» in der CSV-Datei). Bei nicht paarigen Organen oder Körperteilen «kann» die Lateralität erfasst werden, «muss» aber nicht.
+
+- <font color="red">0760</font>  <b>01.07.2024</b>   <b>Pflege-Komplexbehandlungen – Zuordnung einer Pflegeintervention nur zu einer Leistungsgruppe</b>  
+Pflege-Komplexbehandlungen – Zuordnung einer Pflegeintervention nur zu einer Leistungsgruppe Pflegeinterventionen könnten theoretisch mehreren Leistungsgruppen zugeordnet werden. In der Pflege-Komplexbehandlung darf eine geleistete Pflegeintervention jedoch nur einer Leistungsgruppe zugeordnet werden. Dies bedeutet nicht, dass sie zwingend der Leistungsgruppe zugeordnet wird in der bereits Aufwandspunkte für diesen Tag erfasst wurden.  
+<br>
+Beispiel <font color="green">1</font>: Ein <font color="green">«</font> Transfer auf die Toilette<font color="green">» könnte im Rahmen des Pflegeinterventionsprofils 1.1 der Leistungsgruppe 1 «Bewegung» oder im Rahmen des Pflegeinterventionsprofils 3.1 der Leistungsgruppe 3 «Ausscheidung» geleistet werden. Wenn die Aktivität 
+unter der Leistungsgruppe 1 erfasst wird, darf sie nicht zusätzlich bei der Leistungsgruppe 3 erfasst werden, oder umgekehrt. Die Aktivität darf nur einem der zwei Pflegeinterventionsprofile zugeordnet werden.
+<br>
+Beispiel 2: Eine «Hygienemassnahme» könnte im Rahmen des Pflegeinterventionsprofils 2.1 der Leistungsgruppe 2 «Körperpflege» oder im Rahmen des Pflegeinterventionsprofils 3.1 der Leistungsgruppe 3 «Ausscheidung» geleistet werden. Wenn die Aktivität unter der Leistungsgruppe 2 erfasst wird, darf sie nicht zusätzlich bei der Leistungsgruppe 3 erfasst werden, oder umgekehrt. Die Aktivität darf nur einem der zwei Pflegeinterventionsprofile zugeordnet werden</font>
+
+0763 01.01.2024 Präzisierung zur Anwendung des Messinstrumentes FIM™
+Die Präzisierung 0763 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersatzlos gestrichen.
+0764 01.01.2024 Berechnung der Aufenthaltstage bei Anwendung des CHOP-Kodes 93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»
+Die Präzisierung 0764 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersetzt durch die Präzisierung 0758
+
+
+0758 01.07.2024 93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach 
+Anzahl Behandlungstage»
 
 \t adfsasfasfda éalsdfkaj ésaldfj
 éaslfdja ésladskjaf éslkfjfj  
