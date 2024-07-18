@@ -6,6 +6,10 @@ weight: 440
 type: docs
 keywords: []
 ---
+Alle Regelung öffnen : {{<collapsibleGroupCommand groupId="RS2024_2">}}
+
+
+
 
 {{<collapsibleBlock groupId="RS2024_2" customCollapsedText="0756   01.07.2024   «Exklusivum – Kode weglassen» bei Komplexbehandlungen" customExpandedText="0756   01.07.2024   «Exklusivum – Kode weglassen» bei Komplexbehandlungen">}}
 {{<markdown>}}
@@ -37,7 +41,7 @@ Beispiel: «Exklusiva – Kode weglassen» unter 93.8A.1- «Palliativmedizinisch
 Folgende Präzisierungen betreffen die Elementgruppe 93.8A.2- «Palliativmedizinische Komplexbehandlung, nach Anzahl Behandlungstage» und die Subkategorie 93.8B.- «Spezialisierte Palliative Care».
 {{</markdown>}}
 {{</collapsibleBlock>}}
-r
+
 - <font color="red">0757/1</font>   <b>Standardisiertes palliativmedizinisches Basisassessment</b>  
 93.8A.2-:Mindestmerkmal Punkt 2, Eintrittsabklärung, Assessment:  
 Durchführung eines standardisierten palliativmedizinischen Basisassessments (PBA). […]  
