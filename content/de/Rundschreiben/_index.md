@@ -127,16 +127,22 @@ Beispiel 2: Eine «Hygienemassnahme» könnte im Rahmen des Pflegeinterventionsp
 
 {{<collapsibleBlock groupId="RS2024_2" customCollapsedText="0763  01.01.2024   Präzisierung zur Anwendung des Messinstrumentes FIM™" customExpandedText="0763  01.01.2024   Präzisierung zur Anwendung des Messinstrumentes FIM™">}}
 {{<markdown>}}
-- <font color="green">
+<font color="green">
 ~~0763~~</font><b> ~~01.01.2024~~ </b>   <b>~~Präzisierung zur Anwendung des Messinstrumentes FIM™~~</b>  
 Die Präzisierung 0763 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersatzlos gestrichen.
 
 {{</markdown>}}
 {{</collapsibleBlock>}}
-0763 01.01.2024 Präzisierung zur Anwendung des Messinstrumentes FIM™
-Die Präzisierung 0763 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersatzlos gestrichen.
-0764 01.01.2024 Berechnung der Aufenthaltstage bei Anwendung des CHOP-Kodes 93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»
+
+
+
+{{<collapsibleBlock groupId="RS2024_2" customCollapsedText="0764  01.01.2024   Präzisierung zur Anwendung des Messinstrumentes FIM™" customExpandedText="0763  01.01.2024   Präzisierung zur Anwendung des Messinstrumentes FIM™">}}
+{{<markdown>}}
+<font color="green">
+~~0763~~</font><b> ~~01.01.2024~~ </b>   <b>~~Berechnung der Aufenthaltstage bei Anwendung des CHOP-Kodes 93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»~~</b>  
 Die Präzisierung 0764 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersetzt durch die Präzisierung 0758.
+{{</markdown>}}
+{{</collapsibleBlock>}}
 
 
 
