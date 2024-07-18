@@ -1,6 +1,6 @@
 ---
-title: "Rundschreiben für Kodiererinnen und Kodierer 2024 Nr. 2"
-slug: Rundschreiben
+title: Rundschreiben2024_2
+slug: RS2024_2
 description: "5 Informationen und Präzisierungen"
 weight: 440
 type: docs
