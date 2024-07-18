@@ -57,17 +57,19 @@ Die alleinige Durchführung eines Assessmentinstrumentes (z. B. ESAS) zur Erfass
 {{</markdown>}}
 {{</collapsibleBlock>}}
 
-{{</collapsibleBlock>}}
-- <font color="red">0757/1</font>   <b>Standardisiertes palliativmedizinisches Basisassessment</b>  
-93.8A.2-:Mindestmerkmal Punkt 2, Eintrittsabklärung, Assessment:  
-Durchführung eines standardisierten palliativmedizinischen Basisassessments (PBA). […]  
-93.8B.-: Mindestmerkmal Punkt 2, Eintrittsabklärung, Assessment:  
-a) Durchführung eines standardisierten palliativmedizinischen Basisassessments (PBA) inklusive Erfassung von Komplexität und Instabilität.   
+{{<collapsibleBlock groupId="RS2024_2_757" customCollapsedText="0757/2 Therapiebereiche" customExpandedText="0757/2 Therapiebereiche">}}
+{{<markdown>}}
+- <font color="red">0757/2</font>   <b> Therapiebereiche</b>
+93.8A.2-:Mindestmerkmal Punkt 3, Behandlungsteam und Therapie:  
 […]  
-**Ist SENS ebenfalls ein standardisiertes palliativmedizinisches Basisassessment (PBA)?**  
-Mit dem SENS-Assessment werden folgende Bereiche der Palliativversorgung abgedeckt: Symptommanagement, Entscheidungsfindung/ End of Life Vorbereitung, Netzwerk-Organisation, Support der Angehörigen. SENS integriert alle Themenbereiche der gängigen Ziele, Definitionen und Modelle. Somit ist auch ein dokumentiertes SENS-Assessment als standardisiertes palliativmedizinisches Basisassessment für die Kodes 93.8A.2- und 93.8B.- anzuerkennen.  
-**Kann ein einzelnes Assessmentinstrument als palliativmedizinisches Basisassessment zählen?**  
-Die alleinige Durchführung eines Assessmentinstrumentes (z. B. ESAS) zur Erfassung der körperlichen Dimension ist nicht als vollständiges PBA anzuerkennen. In einem PBA müssen die biologischen, psychologischen, sozialen und spirituellen Dimensionen berücksichtigt werden  
+b) Multidisziplinäres Behandlungsteam, bestehend aus Ärztin/Arzt, Pflegepersonal sowie Therapeutinnen/Therapeuten aus folgenden Therapiebereichen: Sozialarbeit/-pädagogik, Psychologie, Physiotherapie, Ergotherapie, Logopädie, Ernährungsberatung/therapie, Seelsorge, Kunsttherapie.  
+c) Ärztliche Leistung, Pflege sowie mindestens zwei der oben genannten Therapiebereiche kommen insgesamt mindestens 6 Stunden pro Behandlungswoche (7 Kalendertage) um Einsatz. Zu deren Leistungen gehören auch dokumentierte Patienten-, Angehörigen- und Familiengespräche, die von allen hier aufgeführten Berufsgruppen erbracht werden können.  
+Die erbrachten Leistungen erfolgen in patientenbezogenen, unterschiedlichen Kombinationen
+{{</markdown>}}
+{{</collapsibleBlock>}}
+
+
+{{</collapsibleBlock>}}
 
 - <font color="red">0757/2</font>   <b> Therapiebereiche</b>
 93.8A.2-:Mindestmerkmal Punkt 3, Behandlungsteam und Therapie:  
