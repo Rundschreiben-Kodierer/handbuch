@@ -13,7 +13,7 @@ keywords: []
 
 {{<collapsibleBlock groupId="RS2024_2" customCollapsedText="0756   01.07.2024   «Exklusivum – Kode weglassen» bei Komplexbehandlungen" customExpandedText="0756   01.07.2024   «Exklusivum – Kode weglassen» bei Komplexbehandlungen">}}
 {{<markdown>}}
-- <p style="color: #00FF00;">0756</p><b>01.07.2024</b><b>«Exklusivum – Kode weglassen» bei Komplexbehandlungen</b>  
+- <p style="color: #00FF00;">0756</font><b>01.07.2024</b><b>«Exklusivum – Kode weglassen» bei Komplexbehandlungen</b>  
 In der Einleitung der CHOP im Abschnitt «Technische Bemerkungen zur CHOP» - «Zusatzinformationen» steht
 […]  
 Ein «Exklusivum - Kode weglassen» hingegen, schliesst die gemeinsame Kodierung von zwei Kodes zum Zeitpunkt X für die Lokalisation Y aus.  
@@ -37,14 +37,14 @@ Beispiel: «Exklusiva – Kode weglassen» unter 93.8A.1- «Palliativmedizinisch
 
 {{<collapsibleBlock groupId="RS2024_2" customCollapsedText="0757 01.07.2024 Informationen und Präzisierungen zur Palliative Care" customExpandedText="0757 01.07.2024 Informationen und Präzisierungen zur Palliative Care">}}
 {{<markdown>}}
-- <p style="color: #00FF00;">0757</p><b>01.07.2024</b>   <b>Informationen und Präzisierungen zur Palliative Care</b>  
+- <p style="color: #00FF00;">0757</font><b>01.07.2024</b>   <b>Informationen und Präzisierungen zur Palliative Care</b>  
 Folgende Präzisierungen betreffen die Elementgruppe 93.8A.2- «Palliativmedizinische Komplexbehandlung, nach Anzahl Behandlungstage» und die Subkategorie 93.8B.- «Spezialisierte Palliative Care».
 {{</markdown>}}
  {{<collapsibleGroupCommand groupId="RS2024_2_757">}}
 
 &nbsp&nbsp{{<collapsibleBlock groupId="RS2024_2_757" customCollapsedText="0757/1 Standardisiertes palliativmedizinisches Basisassessment" customExpandedText="0757/1 Standardisiertes palliativmedizinisches Basisassessment">}}
 {{<markdown>}}
-- <p style="color: #00FF00;">0757/1</p><b>Standardisiertes palliativmedizinisches Basisassessment</b>  
+- <font color="green">0757/1</font><b>Standardisiertes palliativmedizinisches Basisassessment</b>  
 93.8A.2-:Mindestmerkmal Punkt 2, Eintrittsabklärung, Assessment:  
 Durchführung eines standardisierten palliativmedizinischen Basisassessments (PBA). […]  
 93.8B.-: Mindestmerkmal Punkt 2, Eintrittsabklärung, Assessment:  
@@ -59,7 +59,7 @@ Die alleinige Durchführung eines Assessmentinstrumentes (z. B. ESAS) zur Erfass
 
 {{<collapsibleBlock groupId="RS2024_2_757" customCollapsedText="0757/2 Therapiebereiche" customExpandedText="0757/2 Therapiebereiche">}}
 {{<markdown>}}
-- <p style="color: #00FF00;">0757/2</p><b> Therapiebereiche</b>
+- <font color="green">0757/2</font><b> Therapiebereiche</b>
 93.8A.2-:Mindestmerkmal Punkt 3, Behandlungsteam und Therapie:  
 […]  
 b) Multidisziplinäres Behandlungsteam, bestehend aus Ärztin/Arzt, Pflegepersonal sowie Therapeutinnen/Therapeuten aus folgenden Therapiebereichen: Sozialarbeit/-pädagogik, Psychologie, Physiotherapie, Ergotherapie, Logopädie, Ernährungsberatung/therapie, Seelsorge, Kunsttherapie.  
@@ -70,7 +70,7 @@ Die erbrachten Leistungen erfolgen in patientenbezogenen, unterschiedlichen Komb
 
 {{<collapsibleBlock groupId="RS2024_2_757" customCollapsedText="0757/3 Teambesprechung" customExpandedText="0757/3 Teambesprechung">}}
 {{<markdown>}}
-- <p style="color: #00FF00;">>0757/3</p><b>Teambesprechung</b>
+- <font color="green">>0757/3</font><b>Teambesprechung</b>
 93.8A.2-:Mindestmerkmal Punkt 4, Therapieplanung und -kontrolle:  
 […]  
 b) Wöchentliche interprofessionelle Teambesprechung mit Dokumentation bisheriger Behandlungsergebnisse und weiterer Behandlungsziele.
@@ -84,19 +84,19 @@ b) Wöchentliche interprofessionelle Teambesprechung mit Dokumentation bisherige
 {{<collapsibleBlock groupId="RS2024_2" customCollapsedText="0758  01.07.2024   93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»" customExpandedText="0758  01.07.2024   93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»">}}
 {{<markdown>}}
 
-- <p style="color: #00FF00;">0758</p><b>01.07.2024</b>   <b>93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»</b>  
+- <font color="green">0758</font><b>01.07.2024</b>   <b>93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»</b>  
 {{</markdown>}}
 
 {{<collapsibleBlock groupId="RS2024_2_758" customCollapsedText="0758/1  Berechnung der Aufenthaltstage für Kodes der Elementegruppe 93.59.5-" customExpandedText="0758/1  Berechnung der Aufenthaltstage für Kodes der Elementegruppe 93.59.5-">}}
 {{<markdown>}}
-- <p style="color: #00FF00;">0758/1</p><b>Berechnung der Aufenthaltstage für Kodes der Elementegruppe 93.59.5-</b>  
+- <font color="green">0758/1</font><b>Berechnung der Aufenthaltstage für Kodes der Elementegruppe 93.59.5-</b>  
 Zur Berechnung der Behandlungstage unter den CHOP-Kodes 93.59.50 bis 93.59.53 «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage» darf bei Erfüllung der Mindestmerkmale der Eintritts- sowie Austrittstag nur als ein Behandlungstag angerechnet werden.
 {{</markdown>}}
 {{</collapsibleBlock>}}
 
 {{<collapsibleBlock groupId="RS2024_2_758" customCollapsedText="0758/2 Abgrenzung 93.59.5- und 99.84.1-, 99.84.2-, 99.84.3-" customExpandedText="0758/2 Abgrenzung 93.59.5- und 99.84.1-, 99.84.2-, 99.84.3-">}}
 {{<markdown>}}
-- <p style="color: #00FF00;">/p><b>Abgrenzung 93.59.5- und 99.84.1-, 99.84.2-, 99.84.3-</b>  
+- <font color="green"</font><b>Abgrenzung 93.59.5- und 99.84.1-, 99.84.2-, 99.84.3-</b>  
 Unter den Elementegruppen 99.84.1- «Kontaktisolierung, nach Anzahl Behandlungstage», 99.84.2- «Tröpfchenisolierung, […]» und 99.84.3- «Aerosolisolierung, […]» ist folgendes «Exklusivum – Kode weglassen» angegeben:  
 Exkl. «Kode weglassen - Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl 
 Behandlungstage (93.59.5-)».  
@@ -108,7 +108,7 @@ Dies bedeutet, dass die zeitgleiche Kodierung von 93.59.5- und 99.84.1-, 99.84.2
 
 {{<collapsibleBlock groupId="RS2024_2" customCollapsedText="0759 01.07.2024 Lateralitätsmarkierung" customExpandedText="0759 01.07.2024 Lateralitätsmarkierung">}}
 {{<markdown>}}
-- <p style="color: #00FF00;">0759</p><b>01.07.2024</b>   <b>Lateralitätsmarkierung</b>  
+- <font color="green">0759</font><b>01.07.2024</b>   <b>Lateralitätsmarkierung</b>  
 Die Angabe der Lateralität ist nur bei paarigen Organen ein Muss (entsprechende Kennzeichnung in der CHOP mit «[L]» in der PDFDatei oder «Lateral» in der CSV-Datei). Bei nicht paarigen Organen oder Körperteilen «kann» die Lateralität erfasst werden, «muss» aber nicht.
 {{</markdown>}}
 
@@ -116,11 +116,11 @@ Die Angabe der Lateralität ist nur bei paarigen Organen ein Muss (entsprechende
 
 {{<collapsibleBlock groupId="RS2024_2" customCollapsedText="0760  01.07.2024   Pflege-Komplexbehandlungen – Zuordnung einer Pflegeintervention nur zu einer Leistungsgruppe" customExpandedText="0760  01.07.2024   Pflege-Komplexbehandlungen – Zuordnung einer Pflegeintervention nur zu einer Leistungsgruppe">}}
 {{<markdown>}}
-- <p style="color: #00FF00;">0760</p><b>01.07.2024</b>   <b>Pflege-Komplexbehandlungen – Zuordnung einer Pflegeintervention nur zu einer Leistungsgruppe</b>  
+- <font color="green">0760</font><b>01.07.2024</b>   <b>Pflege-Komplexbehandlungen – Zuordnung einer Pflegeintervention nur zu einer Leistungsgruppe</b>  
 Pflege-Komplexbehandlungen – Zuordnung einer Pflegeintervention nur zu einer Leistungsgruppe Pflegeinterventionen könnten theoretisch mehreren Leistungsgruppen zugeordnet werden. In der Pflege-Komplexbehandlung darf eine geleistete Pflegeintervention jedoch nur einer Leistungsgruppe zugeordnet werden. Dies bedeutet nicht, dass sie zwingend der Leistungsgruppe zugeordnet wird in der bereits Aufwandspunkte für diesen Tag erfasst wurden.  
 
 <p style="color: #00FF00;">Ceci est un texte en vert fluo.</p>
-Beispiel <p style="color: #00FF00;">>1</p>: Ein <p style="color: #00FF00;">«</p> Transfer auf die Toilette<p style="color: #00FF00;">» könnte im Rahmen des Pflegeinterventionsprofils 1.1 der Leistungsgruppe 1 «Bewegung» oder im Rahmen des Pflegeinterventionsprofils 3.1 der Leistungsgruppe 3 «Ausscheidung» geleistet werden. Wenn die Aktivität 
+Beispiel <font color="green">1</font>: Ein <font color="green">«</font> Transfer auf die Toilette<p style="color: #00FF00;">» könnte im Rahmen des Pflegeinterventionsprofils 1.1 der Leistungsgruppe 1 «Bewegung» oder im Rahmen des Pflegeinterventionsprofils 3.1 der Leistungsgruppe 3 «Ausscheidung» geleistet werden. Wenn die Aktivität 
 unter der Leistungsgruppe 1 erfasst wird, darf sie nicht zusätzlich bei der Leistungsgruppe 3 erfasst werden, oder umgekehrt. Die Aktivität darf nur einem der zwei Pflegeinterventionsprofile zugeordnet werden.
 <br>
 Beispiel 2: Eine «Hygienemassnahme» könnte im Rahmen des Pflegeinterventionsprofils 2.1 der Leistungsgruppe 2 «Körperpflege» oder im Rahmen des Pflegeinterventionsprofils 3.1 der Leistungsgruppe 3 «Ausscheidung» geleistet werden. Wenn die Aktivität unter der Leistungsgruppe 2 erfasst wird, darf sie nicht zusätzlich bei der Leistungsgruppe 3 erfasst werden, oder umgekehrt. Die Aktivität darf nur einem der zwei Pflegeinterventionsprofile zugeordnet werden</p>
@@ -130,7 +130,7 @@ Beispiel 2: Eine «Hygienemassnahme» könnte im Rahmen des Pflegeinterventionsp
 
 0763 01.01.2024 Präzisierung zur Anwendung des Messinstrumentes FIM™
 Die Präzisierung 0763 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersatzlos gestrichen.
-0764 01.01.2024 Berechnung der Aufenthaltstage bei Anwendung des CHOP-Kodes 93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»
+0764 01.01.2024 Berechnung der Aufenthaltstage bei Anwendung des CHOP-Kodes 93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»
 Die Präzisierung 0764 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersetzt durch die Präzisierung 0758
 
 
