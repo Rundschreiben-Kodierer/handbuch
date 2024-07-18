@@ -30,4 +30,89 @@ Beispiel: «Exklusiva – Kode weglassen» unter 93.8A.1- «Palliativmedizinisch
 {{</markdown>}}
 {{</collapsibleBlock>}}
 
+- <font color="red">0757</font>   <b>01.07.2024</b>   <b>Informationen und Präzisierungen zur Palliative Care</b>  
+Folgende Präzisierungen betreffen die Elementgruppe 93.8A.2- «Palliativmedizinische Komplexbehandlung, nach Anzahl Behandlungstage» und die Subkategorie 93.8B.- «Spezialisierte Palliative Care».
 
+- <font color="red">0757/1</font>   <b>Standardisiertes palliativmedizinisches Basisassessment</b>  
+93.8A.2-:Mindestmerkmal Punkt 2, Eintrittsabklärung, Assessment:  
+Durchführung eines standardisierten palliativmedizinischen Basisassessments (PBA). […]  
+93.8B.-: Mindestmerkmal Punkt 2, Eintrittsabklärung, Assessment:  
+a) Durchführung eines standardisierten palliativmedizinischen Basisassessments (PBA) inklusive Erfassung von Komplexität und Instabilität.   
+[…]  
+**Ist SENS ebenfalls ein standardisiertes palliativmedizinisches Basisassessment (PBA)?**  
+Mit dem SENS-Assessment werden folgende Bereiche der Palliativversorgung abgedeckt: Symptommanagement, Entscheidungsfindung/ End of Life Vorbereitung, Netzwerk-Organisation, Support der Angehörigen. SENS integriert alle Themenbereiche der gängigen Ziele, Definitionen und Modelle. Somit ist auch ein dokumentiertes SENS-Assessment als standardisiertes palliativmedizinisches Basisassessment für die Kodes 93.8A.2- und 93.8B.- anzuerkennen.  
+**Kann ein einzelnes Assessmentinstrument als palliativmedizinisches Basisassessment zählen?**  
+Die alleinige Durchführung eines Assessmentinstrumentes (z. B. ESAS) zur Erfassung der körperlichen Dimension ist nicht als vollständiges PBA anzuerkennen. In einem PBA müssen die biologischen, psychologischen, sozialen und spirituellen Dimensionen berücksichtigt werden  
+
+- <font color="red">0757/2</font>   <b> Therapiebereiche</b>
+93.8A.2-:Mindestmerkmal Punkt 3, Behandlungsteam und Therapie:  
+[…]  
+b) Multidisziplinäres Behandlungsteam, bestehend aus Ärztin/Arzt, Pflegepersonal sowie Therapeutinnen/Therapeuten aus folgenden Therapiebereichen: Sozialarbeit/-pädagogik, Psychologie, Physiotherapie, Ergotherapie, Logopädie, Ernährungsberatung/therapie, Seelsorge, Kunsttherapie.  
+c) Ärztliche Leistung, Pflege sowie mindestens zwei der oben genannten Therapiebereiche kommen insgesamt mindestens 6 Stunden pro Behandlungswoche (7 Kalendertage) um Einsatz. Zu deren Leistungen gehören auch dokumentierte Patienten-, Angehörigen- und Familiengespräche, die von allen hier aufgeführten Berufsgruppen erbracht werden können.  
+Die erbrachten Leistungen erfolgen in patientenbezogenen, unterschiedlichen Kombinationen
+
+- <font color="red">0757/3</font>   <b>Teambesprechung</b>
+93.8A.2-:Mindestmerkmal Punkt 4, Therapieplanung und -kontrolle:  
+[…]  
+b) Wöchentliche interprofessionelle Teambesprechung mit Dokumentation bisheriger Behandlungsergebnisse und weiterer Behandlungsziele.
+93.8B.-: Mindestmerkmal Punkt 5, Therapieplanung und -kontrolle:  
+[…]  
+b) Wöchentliche interprofessionelle Teambesprechung mit Dokumentation bisheriger Behandlungsergebnisse und weiterer Behandlungsziele.
+-->
+- <font color="red">0758</font>  <b>01.07.2024</b>   <b>93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach 
+Anzahl Behandlungstage»</b>  
+
+- <font color="red">0758/1</font>   <b> Berechnung der Aufenthaltstage für Kodes der Elementegruppe 93.59.5-</b>  
+Zur Berechnung der Behandlungstage unter den CHOP-Kodes 93.59.50 bis 93.59.53 «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage» darf bei Erfüllung der Mindestmerkmale der Eintritts- sowie Austrittstag nur als ein Behandlungstag angerechnet werden.
+
+- <font color="red">0758/2</font>   <b>Abgrenzung 93.59.5- und 99.84.1-, 99.84.2-, 99.84.3-</b>  
+Unter den Elementegruppen 99.84.1- «Kontaktisolierung, nach Anzahl Behandlungstage», 99.84.2- «Tröpfchenisolierung, […]» und 99.84.3- «Aerosolisolierung, […]» ist folgendes «Exklusivum – Kode weglassen» angegeben:  
+Exkl. «Kode weglassen - Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl 
+Behandlungstage (93.59.5-)».  
+Dies bedeutet, dass die zeitgleiche Kodierung von 93.59.5- und 99.84.1-, 99.84.2-, 99.84.3- nicht gestattet ist. Werden 99.84.1-, 99.84.2-, 99.84.3- zeitlich versetzt erbracht zur 93.59.5- können die Kodes im gleichen Fall erfasst werden. Die Erfassung von 99.84.1-, 99.84.2-, 99.84.3- darf nie für das gleiche Zeitintervall wie 93.59.5- erfolgen.
+
+- <font color="red">0759</font>  <b>01.07.2024</b>   <b> Lateralitätsmarkierung</b>  
+Die Angabe der Lateralität ist nur bei paarigen Organen ein Muss (entsprechende Kennzeichnung in der CHOP mit «[L]» in der PDFDatei oder «Lateral» in der CSV-Datei). Bei nicht paarigen Organen oder Körperteilen «kann» die Lateralität erfasst werden, «muss» aber nicht.
+
+- <font color="red">0760</font>  <b>01.07.2024</b>   <b>Pflege-Komplexbehandlungen – Zuordnung einer Pflegeintervention nur zu einer Leistungsgruppe</b>  
+Pflege-Komplexbehandlungen – Zuordnung einer Pflegeintervention nur zu einer Leistungsgruppe Pflegeinterventionen könnten theoretisch mehreren Leistungsgruppen zugeordnet werden. In der Pflege-Komplexbehandlung darf eine geleistete Pflegeintervention jedoch nur einer Leistungsgruppe zugeordnet werden. Dies bedeutet nicht, dass sie zwingend der Leistungsgruppe zugeordnet wird in der bereits Aufwandspunkte für diesen Tag erfasst wurden.  
+<br>
+Beispiel <font color="color:#FF5733;">1</font>: Ein <font color="green">«</font> Transfer auf die Toilette<font color="green">» könnte im Rahmen des Pflegeinterventionsprofils 1.1 der Leistungsgruppe 1 «Bewegung» oder im Rahmen des Pflegeinterventionsprofils 3.1 der Leistungsgruppe 3 «Ausscheidung» geleistet werden. Wenn die Aktivität 
+unter der Leistungsgruppe 1 erfasst wird, darf sie nicht zusätzlich bei der Leistungsgruppe 3 erfasst werden, oder umgekehrt. Die Aktivität darf nur einem der zwei Pflegeinterventionsprofile zugeordnet werden.
+<br>
+Beispiel 2: Eine «Hygienemassnahme» könnte im Rahmen des Pflegeinterventionsprofils 2.1 der Leistungsgruppe 2 «Körperpflege» oder im Rahmen des Pflegeinterventionsprofils 3.1 der Leistungsgruppe 3 «Ausscheidung» geleistet werden. Wenn die Aktivität unter der Leistungsgruppe 2 erfasst wird, darf sie nicht zusätzlich bei der Leistungsgruppe 3 erfasst werden, oder umgekehrt. Die Aktivität darf nur einem der zwei Pflegeinterventionsprofile zugeordnet werden</font>
+
+0763 01.01.2024 Präzisierung zur Anwendung des Messinstrumentes FIM™
+Die Präzisierung 0763 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersatzlos gestrichen.
+0764 01.01.2024 Berechnung der Aufenthaltstage bei Anwendung des CHOP-Kodes 93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»
+Die Präzisierung 0764 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersetzt durch die Präzisierung 0758
+
+
+0758 01.07.2024 93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach 
+Anzahl Behandlungstage»
+
+\t adfsasfasfda éalsdfkaj ésaldfj
+éaslfdja ésladskjaf éslkfjfj  
+
+\t\t\t ésaldfj ésaldfk jséadlflkj ésaldfkj ésldkfj  
+lésdkfj élsdkfj élsdkjf ésadklkjaf élskadslkjaf élaksdjf élksdslkjaf élkasdjf élkjsdafé lkjsadéfl kjsadélflé kjésdalfk jéalsdffkj élsadfkj édsalfkj ésdalfdslkjj éldsafdkj élasdfkja élasdfj élasdkfdkj éladskfdkj élsdafdkj éldskfj éldsfdj élsdakfdja élsadslkjaf élsd dsj félsadkjaf él adfafdasdfasf
+
+- List
+- List 2
+    - Sub-level list 1 with four spaces
+    - Sub-level list 2 with four spaces  
+    In der Einleitung der CHOP im Abschnitt «Technische Bemerkungen zur CHOP» - «Zusatzinformationen» steht
+[…]
+Ein «Exklusivum - Kode weglassen» hingegen, schliesst die gemeinsame Kodierung von zwei Kodes zum Zeitpunkt X für die Lokalisation Y aus.
+Beispiel: Da eine Rektumresektion bereits Teil einer totalen Proktokolektomie ist, wird unter der 3-stelligen Kategorie 48.6- «Sonstige Rektumresektion» ein «Exklusivum - Kode weglassen» aufgeführt: EXKL. «Kode weglassen - Kolektomie und Proktokolektomie 
+(45.8-)».
+[…]
+Für Komplexbehandlungen ist zu ergänzen:
+Besteht ein «Exklusivum – Kode weglassen» zwischen zwei Komplexbehandlungen, so ist die zeitgleiche Kodierung beider Komplexbehandlungen nicht erlaubt. Erfolgen die zwei Komplexbehandlungen zeitlich versetzt, können beide Komplexbehandlungen 
+erfasst werden.
+Beispiel: «Exklusiva – Kode weglassen» zwischen 93.8A.2- «Palliativmedizinische Komplexbehandlung, nach Anzahl Behandlungstage» und 93.8B.- «Spezialisierte Palliative Care». Wird eine spezialisierte Palliative Care während zwei Wochen durchgeführt, darf
+nicht gleichzeitig in diesen zwei Wochen eine palliativmedizinische Komplexbehandlung erfasst werden.
+Diagnostische Verfahren, die Bedingung für die Komplexbehandlung sind bzw. Teil von dieser sind, werden nicht zusätzlich kodiert. 
+Hier gibt das «Exklusivum – Kode weglassen» einen grundsätzlichen Ausschluss an. Ausnahme: «Kodiere ebenso» oder Angaben 
+zur gesonderten Kodierung in den Mindestmerkmalen sind vorhanden.
+Beispiel: «Exklusiva – Kode weglassen» unter 93.8A.1- «Palliativmedizinische Assessment», die auf 93.8A.2- und 93.8B.- verweisen. Wird eine palliativmedizinische Komplexbehandlung oder eine spezialisierte Palliative Care durchgeführt ist das palliativmedizinische Assessment nicht zusätzlich zu kodieren.
