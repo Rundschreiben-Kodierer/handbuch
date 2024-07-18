@@ -118,7 +118,6 @@ Die Angabe der Lateralität ist nur bei paarigen Organen ein Muss (entsprechende
 {{<markdown>}}
 - <font color="green">0760</font><b> 01.07.2024 </b>   <b>Pflege-Komplexbehandlungen – Zuordnung einer Pflegeintervention nur zu einer Leistungsgruppe</b>  
 Pflege-Komplexbehandlungen – Zuordnung einer Pflegeintervention nur zu einer Leistungsgruppe Pflegeinterventionen könnten theoretisch mehreren Leistungsgruppen zugeordnet werden. In der Pflege-Komplexbehandlung darf eine geleistete Pflegeintervention jedoch nur einer Leistungsgruppe zugeordnet werden. Dies bedeutet nicht, dass sie zwingend der Leistungsgruppe zugeordnet wird in der bereits Aufwandspunkte für diesen Tag erfasst wurden.  
-
 <p style="color: #00FF00;">Ceci est un texte en vert fluo.</p>
 Beispiel <font color="green">1</font>: Ein <font color="green">«</font> Transfer auf die Toilette<p style="color: #00FF00;">» könnte im Rahmen des Pflegeinterventionsprofils 1.1 der Leistungsgruppe 1 «Bewegung» oder im Rahmen des Pflegeinterventionsprofils 3.1 der Leistungsgruppe 3 «Ausscheidung» geleistet werden. Wenn die Aktivität 
 unter der Leistungsgruppe 1 erfasst wird, darf sie nicht zusätzlich bei der Leistungsgruppe 3 erfasst werden, oder umgekehrt. Die Aktivität darf nur einem der zwei Pflegeinterventionsprofile zugeordnet werden.
