@@ -6,6 +6,28 @@ weight: 440
 type: docs
 keywords: []
 ---
+{{<collapsibleBlock groupId="RS2024_1" 
+customCollapsedText=
+{{<markdown>}}
+- <font color="red">0756</font>   <b>01.07.2024</b>   <b>«Exklusivum – Kode weglassen» bei Komplexbehandlungen</b>  
+{{</markdown>}}
+customExpandedText=
+{{<markdown>}}
+"Die Präzisierung 0814 wird im Rundschreiben 2024 Nr. 1 gestrichen">}} Spezifische Kodes für die gecoverten Koronararterien-Stents wurden in der CHOP 2024 gebildet.
+{{</markdown>}}}}
+
+{{<markdown>}}
+text à ouvrir
+{{</markdown>}}
+{{</collapsibleBlock>}}
+
+
+{{<collapsibleBlock groupId="Rollen" customCollapsedText="Die Präzisierung 0814 wird im Rundschreiben 2024 Nr. 1 gestrichen" customExpandedText="Die Präzisierung 0814 wird im Rundschreiben 2024 Nr. 1 gestrichen">}}
+Spezifische Kodes für die gecoverten Koronararterien-Stents 
+wurden in der CHOP 2024 gebildet.
+{{</collapsibleBlock>}}
+
+
 
 - <font color="red">0756</font>   <b>01.07.2024</b>   <b>«Exklusivum – Kode weglassen» bei Komplexbehandlungen</b>  
 In der Einleitung der CHOP im Abschnitt «Technische Bemerkungen zur CHOP» - «Zusatzinformationen» steht
