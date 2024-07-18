@@ -1,5 +1,5 @@
 ---
-title: Rundschreiben
+title: "Rundschreiben für Kodiererinnen und Kodierer 2024 Nr. 2"
 slug: Rundschreiben
 description: "5 Informationen und Präzisierungen"
 weight: 440
@@ -7,10 +7,7 @@ type: docs
 keywords: []
 ---
 
-
-
-
-{{<collapsibleBlock groupId="RS2024_1" customCollapsedText="0756   01.07.2024   «Exklusivum – Kode weglassen» bei Komplexbehandlungen" customExpandedText="0756   01.07.2024   «Exklusivum – Kode weglassen» bei Komplexbehandlungen">}}
+{{<collapsibleBlock groupId="RS2024_2" customCollapsedText="0756   01.07.2024   «Exklusivum – Kode weglassen» bei Komplexbehandlungen" customExpandedText="0756   01.07.2024   «Exklusivum – Kode weglassen» bei Komplexbehandlungen">}}
 {{<markdown>}}
 - <font color="red">0756</font>   <b>01.07.2024</b>   <b>«Exklusivum – Kode weglassen» bei Komplexbehandlungen</b>  
 In der Einleitung der CHOP im Abschnitt «Technische Bemerkungen zur CHOP» - «Zusatzinformationen» steht
@@ -33,26 +30,9 @@ Beispiel: «Exklusiva – Kode weglassen» unter 93.8A.1- «Palliativmedizinisch
 {{</markdown>}}
 {{</collapsibleBlock>}}
 
-
-
-- <font color="red">0756</font>   <b>01.07.2024</b>   <b>«Exklusivum – Kode weglassen» bei Komplexbehandlungen</b>  
-In der Einleitung der CHOP im Abschnitt «Technische Bemerkungen zur CHOP» - «Zusatzinformationen» steht
-[…]  
-Ein «Exklusivum - Kode weglassen» hingegen, schliesst die gemeinsame Kodierung von zwei Kodes zum Zeitpunkt X für die Lokalisation Y aus.  
-Beispiel: Da eine Rektumresektion bereits Teil einer totalen Proktokolektomie ist, wird unter der 3-stelligen Kategorie 48.6- «Sonstige Rektumresektion» ein «Exklusivum - Kode weglassen» aufgeführt: EXKL. «Kode weglassen - Kolektomie und Proktokolektomie 
-(45.8-)».  
-[…]
-<br>
-<br>
-Für Komplexbehandlungen ist zu ergänzen:  
-Besteht ein «Exklusivum – Kode weglassen» zwischen zwei Komplexbehandlungen, so ist die zeitgleiche Kodierung beider Komplexbehandlungen nicht erlaubt. Erfolgen die zwei Komplexbehandlungen zeitlich versetzt, können beide Komplexbehandlungen 
-erfasst werden.  
-<br>
-Beispiel: «Exklusiva – Kode weglassen» zwischen 93.8A.2- «Palliativmedizinische Komplexbehandlung, nach Anzahl Behandlungstage» und 93.8B.- «Spezialisierte Palliative Care». Wird eine spezialisierte Palliative Care während zwei Wochen durchgeführt, darf nicht gleichzeitig in diesen zwei Wochen eine palliativmedizinische Komplexbehandlung erfasst werden.  
-Diagnostische Verfahren, die Bedingung für die Komplexbehandlung sind bzw. Teil von dieser sind, werden nicht zusätzlich kodiert. 
-Hier gibt das «Exklusivum – Kode weglassen» einen grundsätzlichen Ausschluss an. Ausnahme: «Kodiere ebenso» oder Angaben 
-zur gesonderten Kodierung in den Mindestmerkmalen sind vorhanden.  
-Beispiel: «Exklusiva – Kode weglassen» unter 93.8A.1- «Palliativmedizinische Assessment», die auf 93.8A.2- und 93.8B.- verweisen. Wird eine palliativmedizinische Komplexbehandlung oder eine spezialisierte Palliative Care durchgeführt ist das palliativmedizinische Assessment nicht zusätzlich zu kodieren.
+{{<collapsibleBlock groupId="RS2024_2" customCollapsedText="0757 01.07.2024 Informationen und Präzisierungen zur Palliative Care" customExpandedText="0757 01.07.2024 Informationen und Präzisierungen zur Palliative Care">}}
+{{<markdown>}}
+{{</markdown>}}
 
 - <font color="red">0757</font>   <b>01.07.2024</b>   <b>Informationen und Präzisierungen zur Palliative Care</b>  
 Folgende Präzisierungen betreffen die Elementgruppe 93.8A.2- «Palliativmedizinische Komplexbehandlung, nach Anzahl Behandlungstage» und die Subkategorie 93.8B.- «Spezialisierte Palliative Care».
@@ -69,6 +49,19 @@ Mit dem SENS-Assessment werden folgende Bereiche der Palliativversorgung abgedec
 Die alleinige Durchführung eines Assessmentinstrumentes (z. B. ESAS) zur Erfassung der körperlichen Dimension ist nicht als vollständiges PBA anzuerkennen. In einem PBA müssen die biologischen, psychologischen, sozialen und spirituellen Dimensionen berücksichtigt werden  
 
 - <font color="red">0757/2</font>   <b> Therapiebereiche</b>
+93.8A.2-:Mindestmerkmal Punkt 3, Behandlungsteam und Therapie:  
+[…]  
+b) Multidisziplinäres Behandlungsteam, bestehend aus Ärztin/Arzt, Pflegepersonal sowie Therapeutinnen/Therapeuten aus folgenden Therapiebereichen: Sozialarbeit/-pädagogik, Psychologie, Physiotherapie, Ergotherapie, Logopädie, Ernährungsberatung/therapie, Seelsorge, Kunsttherapie.  
+c) Ärztliche Leistung, Pflege sowie mindestens zwei der oben genannten Therapiebereiche kommen insgesamt mindestens 6 Stunden pro Behandlungswoche (7 Kalendertage) um Einsatz. Zu deren Leistungen gehören auch dokumentierte Patienten-, Angehörigen- und Familiengespräche, die von allen hier aufgeführten Berufsgruppen erbracht werden können.  
+Die erbrachten Leistungen erfolgen in patientenbezogenen, unterschiedlichen Kombinationen
+
+- <font color="red">0757/3</font>   <b>Teambesprechung</b>
+93.8A.2-:Mindestmerkmal Punkt 4, Therapieplanung und -kontrolle:  
+[…]  
+b) Wöchentliche interprofessionelle Teambesprechung mit Dokumentation bisheriger Behandlungsergebnisse und weiterer Behandlungsziele.
+93.8B.-: Mindestmerkmal Punkt 5, Therapieplanung und -kontrolle:  
+[…]  
+b) Wöchentliche interprofessionelle Teambesprechung mit Dokumentation bisheriger Behandlungsergebnisse und weiterer Behandlungsziele.
 
 - <font color="red">0758</font>  <b>01.07.2024</b>   <b>93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach 
 Anzahl Behandlungstage»</b>  
