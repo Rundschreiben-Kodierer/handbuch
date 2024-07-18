@@ -30,8 +30,14 @@ Beispiel: «Exklusiva – Kode weglassen» unter 93.8A.1- «Palliativmedizinisch
 {{</markdown>}}
 {{</collapsibleBlock>}}
 
+
+{{<collapsibleBlock groupId="RS2024_2" customCollapsedText="0757 01.07.2024 Informationen und Präzisierungen zur Palliative Care" customExpandedText="0757 01.07.2024 Informationen und Präzisierungen zur Palliative Care">}}
+{{<markdown>}}
+
 - <font color="red">0757</font>   <b>01.07.2024</b>   <b>Informationen und Präzisierungen zur Palliative Care</b>  
 Folgende Präzisierungen betreffen die Elementgruppe 93.8A.2- «Palliativmedizinische Komplexbehandlung, nach Anzahl Behandlungstage» und die Subkategorie 93.8B.- «Spezialisierte Palliative Care».
+
+{{</markdown>}}
 
 - <font color="red">0757/1</font>   <b>Standardisiertes palliativmedizinisches Basisassessment</b>  
 93.8A.2-:Mindestmerkmal Punkt 2, Eintrittsabklärung, Assessment:  
