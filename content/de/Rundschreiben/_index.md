@@ -30,6 +30,4 @@ Beispiel: «Exklusiva – Kode weglassen» unter 93.8A.1- «Palliativmedizinisch
 {{</markdown>}}
 {{</collapsibleBlock>}}
 
-{{<collapsibleBlock groupId="RS2024_2" customCollapsedText="0757 01.07.2024 Informationen und Präzisierungen zur Palliative Care" customExpandedText="0757 01.07.2024 Informationen und Präzisierungen zur Palliative Care">}}
-asdf
 
