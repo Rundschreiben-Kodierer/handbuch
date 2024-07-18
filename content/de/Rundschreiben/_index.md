@@ -55,7 +55,7 @@ Die alleinige Durchführung eines Assessmentinstrumentes (z. B. ESAS) zur Erfass
 b) Multidisziplinäres Behandlungsteam, bestehend aus Ärztin/Arzt, Pflegepersonal sowie Therapeutinnen/Therapeuten aus folgenden Therapiebereichen: Sozialarbeit/-pädagogik, Psychologie, Physiotherapie, Ergotherapie, Logopädie, Ernährungsberatung/therapie, Seelsorge, Kunsttherapie.  
 c) Ärztliche Leistung, Pflege sowie mindestens zwei der oben genannten Therapiebereiche kommen insgesamt mindestens 6 Stunden pro Behandlungswoche (7 Kalendertage) um Einsatz. Zu deren Leistungen gehören auch dokumentierte Patienten-, Angehörigen- und Familiengespräche, die von allen hier aufgeführten Berufsgruppen erbracht werden können.  
 Die erbrachten Leistungen erfolgen in patientenbezogenen, unterschiedlichen Kombinationen
-
+<!--
 - <font color="red">0757/3</font>   <b>Teambesprechung</b>
 93.8A.2-:Mindestmerkmal Punkt 4, Therapieplanung und -kontrolle:  
 […]  
@@ -63,7 +63,7 @@ b) Wöchentliche interprofessionelle Teambesprechung mit Dokumentation bisherige
 93.8B.-: Mindestmerkmal Punkt 5, Therapieplanung und -kontrolle:  
 […]  
 b) Wöchentliche interprofessionelle Teambesprechung mit Dokumentation bisheriger Behandlungsergebnisse und weiterer Behandlungsziele.
-
+-->
 - <font color="red">0758</font>  <b>01.07.2024</b>   <b>93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach 
 Anzahl Behandlungstage»</b>  
 
