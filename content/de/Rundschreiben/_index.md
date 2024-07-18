@@ -49,6 +49,7 @@ Mit dem SENS-Assessment werden folgende Bereiche der Palliativversorgung abgedec
 **Kann ein einzelnes Assessmentinstrument als palliativmedizinisches Basisassessment zählen?**  
 Die alleinige Durchführung eines Assessmentinstrumentes (z. B. ESAS) zur Erfassung der körperlichen Dimension ist nicht als vollständiges PBA anzuerkennen. In einem PBA müssen die biologischen, psychologischen, sozialen und spirituellen Dimensionen berücksichtigt werden  
 
+<!--
 - <font color="red">0757/2</font>   <b> Therapiebereiche</b>
 93.8A.2-:Mindestmerkmal Punkt 3, Behandlungsteam und Therapie:  
 […]  
