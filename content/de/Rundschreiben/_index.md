@@ -8,7 +8,13 @@ keywords: []
 ---
 
 
-{{<collapsibleBlock groupId="RS2024_1" customCollapsedText="Die Präzisierung 0814 wird im Rundschreiben 2024 Nr. 1 gestrichen" customExpandedText="Die Präzisierung 0814 wird im Rundschreiben 2024 Nr. 1 gestrichen">}}
+
+
+{{<collapsibleBlock groupId="RS2024_1" customCollapsedText="0756   01.07.2024   «Exklusivum – Kode weglassen» bei Komplexbehandlungen" customExpandedText="0756   01.07.2024   «Exklusivum – Kode weglassen» bei Komplexbehandlungen">}}
+{{<markdown>}}
+- Il ne s'agit que d'un relevé test de SwissDRG SA. Si le passage définitif à OCP devait avoir lieu, les coûts d'utilisation des immobilisations par centre de charges dans SpiGes seraient livrés selon OCP au lieu de REKOLE® et les coûts d'utilisation des immobilisations REKOLE® seraient relevés sous forme de somme. 
+- En résumé, les coûts d’utilisation des immobilisations doivent être représentés selon les méthodes suivantes :
+{{</markdown>}}
 Spezifische Kodes für die gecoverten Koronararterien-Stents 
 wurden in der CHOP 2024 gebildet.
 {{</collapsibleBlock>}}
