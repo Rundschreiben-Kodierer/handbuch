@@ -40,7 +40,6 @@ Beispiel: «Exklusiva – Kode weglassen» unter 93.8A.1- «Palliativmedizinisch
 - <font color="red">0757</font>   <b>01.07.2024</b>   <b>Informationen und Präzisierungen zur Palliative Care</b>  
 Folgende Präzisierungen betreffen die Elementgruppe 93.8A.2- «Palliativmedizinische Komplexbehandlung, nach Anzahl Behandlungstage» und die Subkategorie 93.8B.- «Spezialisierte Palliative Care».
 {{</markdown>}}
-{{</collapsibleBlock>}}
 
 
 {{<collapsibleBlock groupId="RS2024_2_757" customCollapsedText="0757/1 Standardisiertes palliativmedizinisches Basisassessment" customExpandedText="0757/1 Standardisiertes palliativmedizinisches Basisassessment">}}
@@ -58,7 +57,7 @@ Die alleinige Durchführung eines Assessmentinstrumentes (z. B. ESAS) zur Erfass
 {{</markdown>}}
 {{</collapsibleBlock>}}
 
-
+{{</collapsibleBlock>}}
 - <font color="red">0757/1</font>   <b>Standardisiertes palliativmedizinisches Basisassessment</b>  
 93.8A.2-:Mindestmerkmal Punkt 2, Eintrittsabklärung, Assessment:  
 Durchführung eines standardisierten palliativmedizinischen Basisassessments (PBA). […]  
