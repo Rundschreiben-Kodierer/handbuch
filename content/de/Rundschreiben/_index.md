@@ -68,16 +68,8 @@ Die erbrachten Leistungen erfolgen in patientenbezogenen, unterschiedlichen Komb
 {{</markdown>}}
 {{</collapsibleBlock>}}
 
-
-{{</collapsibleBlock>}}
-
-- <font color="red">0757/2</font>   <b> Therapiebereiche</b>
-93.8A.2-:Mindestmerkmal Punkt 3, Behandlungsteam und Therapie:  
-[…]  
-b) Multidisziplinäres Behandlungsteam, bestehend aus Ärztin/Arzt, Pflegepersonal sowie Therapeutinnen/Therapeuten aus folgenden Therapiebereichen: Sozialarbeit/-pädagogik, Psychologie, Physiotherapie, Ergotherapie, Logopädie, Ernährungsberatung/therapie, Seelsorge, Kunsttherapie.  
-c) Ärztliche Leistung, Pflege sowie mindestens zwei der oben genannten Therapiebereiche kommen insgesamt mindestens 6 Stunden pro Behandlungswoche (7 Kalendertage) um Einsatz. Zu deren Leistungen gehören auch dokumentierte Patienten-, Angehörigen- und Familiengespräche, die von allen hier aufgeführten Berufsgruppen erbracht werden können.  
-Die erbrachten Leistungen erfolgen in patientenbezogenen, unterschiedlichen Kombinationen
-
+{{<collapsibleBlock groupId="RS2024_2_757" customCollapsedText="0757/3 Teambesprechung" customExpandedText="0757/3 Teambesprechung">}}
+{{<markdown>}}
 - <font color="red">0757/3</font>   <b>Teambesprechung</b>
 93.8A.2-:Mindestmerkmal Punkt 4, Therapieplanung und -kontrolle:  
 […]  
@@ -85,7 +77,11 @@ b) Wöchentliche interprofessionelle Teambesprechung mit Dokumentation bisherige
 93.8B.-: Mindestmerkmal Punkt 5, Therapieplanung und -kontrolle:  
 […]  
 b) Wöchentliche interprofessionelle Teambesprechung mit Dokumentation bisheriger Behandlungsergebnisse und weiterer Behandlungsziele.
--->
+{{</markdown>}}
+{{</collapsibleBlock>}}
+
+{{</collapsibleBlock>}}
+
 - <font color="red">0758</font>  <b>01.07.2024</b>   <b>93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach 
 Anzahl Behandlungstage»</b>  
 
