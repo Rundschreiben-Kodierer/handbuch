@@ -79,6 +79,7 @@ b) Wöchentliche interprofessionelle Teambesprechung mit Dokumentation bisherige
 b) Wöchentliche interprofessionelle Teambesprechung mit Dokumentation bisheriger Behandlungsergebnisse und weiterer Behandlungsziele.
 {{</markdown>}}
 {{</collapsibleBlock>}}
+{{</collapsibleBlock>}}
 
 {{<collapsibleBlock groupId="RS2024_2" customCollapsedText="0758  01.07.2024   93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage" customExpandedText="0758  01.07.2024   93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage">}}
 {{<markdown>}}
@@ -88,8 +89,6 @@ Anzahl Behandlungstage»</b>
 {{</markdown>}}
 {{</collapsibleBlock>}}
 
-
-{{</collapsibleBlock>}}
 
 - <font color="red">0758/1</font>   <b> Berechnung der Aufenthaltstage für Kodes der Elementegruppe 93.59.5-</b>  
 Zur Berechnung der Behandlungstage unter den CHOP-Kodes 93.59.50 bis 93.59.53 «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage» darf bei Erfüllung der Mindestmerkmale der Eintritts- sowie Austrittstag nur als ein Behandlungstag angerechnet werden.
