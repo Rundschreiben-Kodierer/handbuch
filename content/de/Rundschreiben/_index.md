@@ -94,11 +94,15 @@ Zur Berechnung der Behandlungstage unter den CHOP-Kodes 93.59.50 bis 93.59.53 «
 {{</markdown>}}
 {{</collapsibleBlock>}}
 
+{{<collapsibleBlock groupId="RS2024_2_758" customCollapsedText="0758/2 Abgrenzung 93.59.5- und 99.84.1-, 99.84.2-, 99.84.3-" customExpandedText="0758/2 Abgrenzung 93.59.5- und 99.84.1-, 99.84.2-, 99.84.3-">}}
+{{<markdown>}}
 - <font color="red">0758/2</font>   <b>Abgrenzung 93.59.5- und 99.84.1-, 99.84.2-, 99.84.3-</b>  
 Unter den Elementegruppen 99.84.1- «Kontaktisolierung, nach Anzahl Behandlungstage», 99.84.2- «Tröpfchenisolierung, […]» und 99.84.3- «Aerosolisolierung, […]» ist folgendes «Exklusivum – Kode weglassen» angegeben:  
 Exkl. «Kode weglassen - Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl 
 Behandlungstage (93.59.5-)».  
 Dies bedeutet, dass die zeitgleiche Kodierung von 93.59.5- und 99.84.1-, 99.84.2-, 99.84.3- nicht gestattet ist. Werden 99.84.1-, 99.84.2-, 99.84.3- zeitlich versetzt erbracht zur 93.59.5- können die Kodes im gleichen Fall erfasst werden. Die Erfassung von 99.84.1-, 99.84.2-, 99.84.3- darf nie für das gleiche Zeitintervall wie 93.59.5- erfolgen.
+{{</markdown>}}
+{{</collapsibleBlock>}}
 
 {{</collapsibleBlock>}}
 
