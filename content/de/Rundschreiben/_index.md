@@ -81,15 +81,18 @@ b) Wöchentliche interprofessionelle Teambesprechung mit Dokumentation bisherige
 {{</collapsibleBlock>}}
 {{</collapsibleBlock>}}
 
-{{<collapsibleBlock groupId="RS2024_2" customCollapsedText="0758  01.07.2024   93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage" customExpandedText="0758  01.07.2024   93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage">}}
+{{<collapsibleBlock groupId="RS2024_2" customCollapsedText="0758  01.07.2024   93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»" customExpandedText="0758  01.07.2024   93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»">}}
 {{<markdown>}}
 
-- <font color="red">0758</font>  <b>01.07.2024</b>   <b>93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach 
-Anzahl Behandlungstage»</b>  
+- <font color="red">0758</font>  <b>01.07.2024</b>   <b>93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»</b>  
 {{</markdown>}}
 
-- <font color="red">0758/1</font>   <b> Berechnung der Aufenthaltstage für Kodes der Elementegruppe 93.59.5-</b>  
+{{<collapsibleBlock groupId="RS2024_2_758" customCollapsedText="0758/1  Berechnung der Aufenthaltstage für Kodes der Elementegruppe 93.59.5-" customExpandedText="0758/1  Berechnung der Aufenthaltstage für Kodes der Elementegruppe 93.59.5-">}}
+{{<markdown>}}
+- <font color="red">0758/1</font>   <b>Berechnung der Aufenthaltstage für Kodes der Elementegruppe 93.59.5-</b>  
 Zur Berechnung der Behandlungstage unter den CHOP-Kodes 93.59.50 bis 93.59.53 «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage» darf bei Erfüllung der Mindestmerkmale der Eintritts- sowie Austrittstag nur als ein Behandlungstag angerechnet werden.
+{{</markdown>}}
+{{</collapsibleBlock>}}
 
 - <font color="red">0758/2</font>   <b>Abgrenzung 93.59.5- und 99.84.1-, 99.84.2-, 99.84.3-</b>  
 Unter den Elementegruppen 99.84.1- «Kontaktisolierung, nach Anzahl Behandlungstage», 99.84.2- «Tröpfchenisolierung, […]» und 99.84.3- «Aerosolisolierung, […]» ist folgendes «Exklusivum – Kode weglassen» angegeben:  
