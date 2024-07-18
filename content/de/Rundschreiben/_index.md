@@ -1,5 +1,5 @@
 ---
-title: Rundschreiben2024_2
+title: "Rundschreiben für Kodiererinnen und Kodierer 2024 Nr. 2"
 slug: RS2024_2
 description: "5 Informationen und Präzisierungen"
 weight: 440
@@ -29,3 +29,11 @@ zur gesonderten Kodierung in den Mindestmerkmalen sind vorhanden.
 Beispiel: «Exklusiva – Kode weglassen» unter 93.8A.1- «Palliativmedizinische Assessment», die auf 93.8A.2- und 93.8B.- verweisen. Wird eine palliativmedizinische Komplexbehandlung oder eine spezialisierte Palliative Care durchgeführt ist das palliativmedizinische Assessment nicht zusätzlich zu kodieren.
 {{</markdown>}}
 {{</collapsibleBlock>}}
+
+{{<collapsibleBlock groupId="RS2024_2" customCollapsedText="0757 01.07.2024 Informationen und Präzisierungen zur Palliative Care" customExpandedText="0757 01.07.2024 Informationen und Präzisierungen zur Palliative Care">}}
+{{<markdown>}}
+- <font color="red">0757</font>   <b>01.07.2024</b>   <b>Informationen und Präzisierungen zur Palliative Care</b>  
+Folgende Präzisierungen betreffen die Elementgruppe 93.8A.2- «Palliativmedizinische Komplexbehandlung, nach Anzahl Behandlungstage» und die Subkategorie 93.8B.- «Spezialisierte Palliative Care».
+{{</markdown>}}
+
+
