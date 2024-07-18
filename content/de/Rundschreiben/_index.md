@@ -29,11 +29,12 @@ zur gesonderten Kodierung in den Mindestmerkmalen sind vorhanden.
 Beispiel: «Exklusiva – Kode weglassen» unter 93.8A.1- «Palliativmedizinische Assessment», die auf 93.8A.2- und 93.8B.- verweisen. Wird eine palliativmedizinische Komplexbehandlung oder eine spezialisierte Palliative Care durchgeführt ist das palliativmedizinische Assessment nicht zusätzlich zu kodieren.
 {{</markdown>}}
 {{</collapsibleBlock>}}
-
+<!--
 {{<collapsibleBlock groupId="RS2024_2" customCollapsedText="0757 01.07.2024 Informationen und Präzisierungen zur Palliative Care" customExpandedText="0757 01.07.2024 Informationen und Präzisierungen zur Palliative Care">}}
 {{<markdown>}}
 asfdasf
 {{</markdown>}}
+-->
 
 - <font color="red">0757</font>   <b>01.07.2024</b>   <b>Informationen und Präzisierungen zur Palliative Care</b>  
 Folgende Präzisierungen betreffen die Elementgruppe 93.8A.2- «Palliativmedizinische Komplexbehandlung, nach Anzahl Behandlungstage» und die Subkategorie 93.8B.- «Spezialisierte Palliative Care».
@@ -56,7 +57,7 @@ Die alleinige Durchführung eines Assessmentinstrumentes (z. B. ESAS) zur Erfass
 b) Multidisziplinäres Behandlungsteam, bestehend aus Ärztin/Arzt, Pflegepersonal sowie Therapeutinnen/Therapeuten aus folgenden Therapiebereichen: Sozialarbeit/-pädagogik, Psychologie, Physiotherapie, Ergotherapie, Logopädie, Ernährungsberatung/therapie, Seelsorge, Kunsttherapie.  
 c) Ärztliche Leistung, Pflege sowie mindestens zwei der oben genannten Therapiebereiche kommen insgesamt mindestens 6 Stunden pro Behandlungswoche (7 Kalendertage) um Einsatz. Zu deren Leistungen gehören auch dokumentierte Patienten-, Angehörigen- und Familiengespräche, die von allen hier aufgeführten Berufsgruppen erbracht werden können.  
 Die erbrachten Leistungen erfolgen in patientenbezogenen, unterschiedlichen Kombinationen
-<!--
+
 - <font color="red">0757/3</font>   <b>Teambesprechung</b>
 93.8A.2-:Mindestmerkmal Punkt 4, Therapieplanung und -kontrolle:  
 […]  
