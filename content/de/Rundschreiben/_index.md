@@ -134,8 +134,6 @@ Die Präzisierung 0763 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersatzlos g
 {{</markdown>}}
 {{</collapsibleBlock>}}
 
-
-
 {{<collapsibleBlock groupId="RS2024_2" customCollapsedText="0764  01.01.2024   Berechnung der Aufenthaltstage bei Anwendung des CHOP-Kodes 93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage" customExpandedText="0764  01.01.2024   Berechnung der Aufenthaltstage bei Anwendung des CHOP-Kodes 93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage">}}
 {{<markdown>}}
 <font color="green">
