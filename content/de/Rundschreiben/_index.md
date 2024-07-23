@@ -42,7 +42,7 @@ Folgende Präzisierungen betreffen die Elementgruppe 93.8A.2- «Palliativmedizin
 {{</markdown>}}
  {{<collapsibleGroupCommand groupId="RS2024_2_757">}}
 
-&nbsp&nbsp{{<collapsibleBlock groupId="RS2024_2_757" customCollapsedText="0757/1 Standardisiertes palliativmedizinisches Basisassessment" customExpandedText="0757/1 Standardisiertes palliativmedizinisches Basisassessment">}}
+{{<collapsibleBlock groupId="RS2024_2_757" customCollapsedText="0757/1 Standardisiertes palliativmedizinisches Basisassessment" customExpandedText="0757/1 Standardisiertes palliativmedizinisches Basisassessment">}}
 {{<markdown>}}
 - <font color="green">0757/1</font><b> Standardisiertes palliativmedizinisches Basisassessment</b>  
 93.8A.2-:Mindestmerkmal Punkt 2, Eintrittsabklärung, Assessment:  
