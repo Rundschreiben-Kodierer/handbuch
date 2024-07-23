@@ -34,9 +34,6 @@ Beispiel: «Exklusiva – Kode weglassen» unter 93.8A.1- «Palliativmedizinisch
 {{</markdown>}}
 {{</collapsibleBlock>}}
 
-<h2 id="cuisine">La cuisine</h2>
-
-
 
 {{<collapsibleBlock groupId="RS2024_2" customCollapsedText="0757 01.07.2024 Informationen und Präzisierungen zur Palliative Care" customExpandedText="0757 01.07.2024 Informationen und Präzisierungen zur Palliative Care">}}
 {{<markdown>}}
@@ -83,6 +80,9 @@ b) Wöchentliche interprofessionelle Teambesprechung mit Dokumentation bisherige
 {{</markdown>}}
 {{</collapsibleBlock>}}
 {{</collapsibleBlock>}}
+
+id="0758">La cuisine<
+<h2 id="0758">La cuisine</h2>
 
  <h2="#0758">Section 1</h2>{{<collapsibleBlock groupId="RS2024_2" customCollapsedText="0758  01.07.2024   93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»" customExpandedText="0758  01.07.2024   93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»">}}
 {{<markdown>}}
@@ -159,8 +159,7 @@ Die Präzisierung 0763 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersatzlos g
  ~~Berechnung der Aufenthaltstage bei Anwendung des CHOP-Kodes 93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»~~
 
  </b>  
-Die Präzisierung 0764 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersetzt durch die Präzisierung 0758 <a href="#0758">revenir au 758</a>.
-    <a href="#cuisine">La cuisine</a><br>
+Die Präzisierung 0764 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersetzt durch die Präzisierung <a href="#0758">0758</a><br>
 
 {{</markdown>}}
 
