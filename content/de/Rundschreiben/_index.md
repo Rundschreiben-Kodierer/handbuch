@@ -199,3 +199,20 @@ Diagnostische Verfahren, die Bedingung für die Komplexbehandlung sind bzw. Teil
 Hier gibt das «Exklusivum – Kode weglassen» einen grundsätzlichen Ausschluss an. Ausnahme: «Kodiere ebenso» oder Angaben 
 zur gesonderten Kodierung in den Mindestmerkmalen sind vorhanden.
 Beispiel: «Exklusiva – Kode weglassen» unter 93.8A.1- «Palliativmedizinische Assessment», die auf 93.8A.2- und 93.8B.- verweisen. Wird eine palliativmedizinische Komplexbehandlung oder eine spezialisierte Palliative Care durchgeführt ist das palliativmedizinische Assessment nicht zusätzlich zu kodieren.
+
+
+
+<h1>Ma grande page</h1>
+<p>
+Découvrez nos conseils d’aménagement pour :<br>
+    <a href="#cuisine">La cuisine</a><br>
+    <a href="#jardin">Le jardin</a><br>
+    <a href="#salon">Le salon</a><br>
+</p>
+<h2 id="cuisine">La cuisine</h2>
+<p>... (beaucoup de texte) ...</p>
+<h2 id="jardin">Le jardin</h2>
+<p>... (beaucoup de texte) ...</p>
+<h2 id="salon">Le salon</h2>
+<p>... (beaucoup de texte) ...</p>
+
