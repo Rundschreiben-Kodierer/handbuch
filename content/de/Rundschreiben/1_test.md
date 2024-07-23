@@ -129,3 +129,42 @@ Découvrez nos conseils d’aménagement pour :<br>
     <a href="#jardin">Le jardin</a><br>
     <a href="#salon">Le salon</a><br>
 </p>
+
+
+
+
+ ~~01.01.2024~~
+ </b>   <b>
+
+ 
+ ~~Berechnung der Aufenthaltstage bei Anwendung des CHOP-Kodes 93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»~~
+
+ </b>  
+Die Präzisierung 0764 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersetzt durch die Präzisierung <a href="#0758">0758</a><br>
+
+
+
+<font color="green">
+
+ ~~0764~~
+
+
+
+
+
+</font><b>
+
+<p style="color: #00FF00;">Ceci est un texte en vert fluo.</p>
+
+
+
+
+{{<lineBreak>}}
+{{<lineBreak>}}
+{{<lineBreak>}}
+{{<lineBreak>}}
+
+sadfsfasfsafsaf
+asdfasfasfd
+&nbsp&nbsp
+asfdsadfasdf
