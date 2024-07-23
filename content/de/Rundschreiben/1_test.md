@@ -168,3 +168,29 @@ sadfsfasfsafsaf
 asdfasfasfd
 &nbsp&nbsp
 asfdsadfasdf
+
+
+
+# Introduction
+
+Bienvenue dans ce document. Nous allons explorer plusieurs sections.
+
+## Section 1: Présentation
+
+Ceci est la section 1. Vous pouvez [aller à la Section 2](#section-2-principale) ou [revenir à l'introduction](#introduction).
+
+## Section 2: Détails
+
+### Sous-section 2.1
+
+Ceci est la sous-section 2.1. Vous pouvez [revenir à la Section 1](#section-1-présentation).
+
+### Sous-section 2.2
+
+Ceci est la sous-section 2.2. Vous pouvez [revenir à la Sous-section 2.1](#sous-section-21).
+
+## Conclusion
+
+Merci d'avoir lu ce document. Vous pouvez [revenir au début](#introduction).
+
+
