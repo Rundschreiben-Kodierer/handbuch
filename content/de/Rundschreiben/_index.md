@@ -81,6 +81,9 @@ b) Wöchentliche interprofessionelle Teambesprechung mit Dokumentation bisherige
 {{</collapsibleBlock>}}
 {{</collapsibleBlock>}}
 
+<h2 id="cuisinexx">La cuisineyy</h2>
+
+
 <a href="#cuisine">La cuisine</a><br>
 
 <h2 id="0777">ceci est le 0758</h2>
@@ -136,7 +139,7 @@ Beispiel 2: Eine «Hygienemassnahme» könnte im Rahmen des Pflegeinterventionsp
 Die Präzisierung 0763 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersatzlos gestrichen.
 
 {{</markdown>}}
-{{</collapsibleBlock>}}
+
 {{<collapsibleBlock groupId="RS2024_2" customCollapsedText="0764  01.01.2024   Berechnung der Aufenthaltstage bei Anwendung des CHOP-Kodes 93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage" customExpandedText="0764  01.01.2024   Berechnung der Aufenthaltstage bei Anwendung des CHOP-Kodes 93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage">}}
 {{<lineBreak>}}
 {{<lineBreak>}}
@@ -204,6 +207,6 @@ Hier gibt das «Exklusivum – Kode weglassen» einen grundsätzlichen Ausschlus
 zur gesonderten Kodierung in den Mindestmerkmalen sind vorhanden.
 Beispiel: «Exklusiva – Kode weglassen» unter 93.8A.1- «Palliativmedizinische Assessment», die auf 93.8A.2- und 93.8B.- verweisen. Wird eine palliativmedizinische Komplexbehandlung oder eine spezialisierte Palliative Care durchgeführt ist das palliativmedizinische Assessment nicht zusätzlich zu kodieren.
 
-<h2 id="cuisine">La cuisine</h2>
 
 
+<a href="#cuisine">La cuisine</a><br>
