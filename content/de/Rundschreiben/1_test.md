@@ -1,6 +1,6 @@
 ---
-title: "test"
-slug: test
+title: "test ancre"
+slug: test_ancre
 description: "Kodierung von 00.44 «Massnahme auf Gefässbifurkation» mit Kodes unter 36.03.- und 36.08.-"
 weight: 10
 type: docs
