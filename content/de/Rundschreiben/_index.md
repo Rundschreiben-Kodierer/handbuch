@@ -81,13 +81,7 @@ b) Wöchentliche interprofessionelle Teambesprechung mit Dokumentation bisherige
 {{</collapsibleBlock>}}
 {{</collapsibleBlock>}}
 
-<h2 id="cuisine">La cuisineyy</h2>
-
-
-
-<h2 id="0777">ceci est le 0758</h2>
-
- {{<collapsibleBlock groupId="RS2024_2" customCollapsedText="0758  01.07.2024   93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»" customExpandedText="0758  01.07.2024   93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»">}}
+ <h2="#0758">Section 1</h2>{{<collapsibleBlock groupId="RS2024_2" customCollapsedText="0758  01.07.2024   93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»" customExpandedText="0758  01.07.2024   93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»">}}
 {{<markdown>}}
 
 - <font color="green">0758</font><b> 01.07.2024 </b>   <b>93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»</b>  
@@ -138,7 +132,7 @@ Beispiel 2: Eine «Hygienemassnahme» könnte im Rahmen des Pflegeinterventionsp
 Die Präzisierung 0763 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersatzlos gestrichen.
 
 {{</markdown>}}
-
+{{</collapsibleBlock>}}
 {{<collapsibleBlock groupId="RS2024_2" customCollapsedText="0764  01.01.2024   Berechnung der Aufenthaltstage bei Anwendung des CHOP-Kodes 93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage" customExpandedText="0764  01.01.2024   Berechnung der Aufenthaltstage bei Anwendung des CHOP-Kodes 93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage">}}
 {{<lineBreak>}}
 {{<lineBreak>}}
@@ -162,7 +156,7 @@ Die Präzisierung 0763 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersatzlos g
  ~~Berechnung der Aufenthaltstage bei Anwendung des CHOP-Kodes 93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»~~
 
  </b>  
-Die Präzisierung 0764 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersetzt durch die Präzisierung 0758 <a href="0777">revenir au 758</a>.
+Die Präzisierung 0764 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersetzt durch die Präzisierung 0758 <a href="#0758">revenir au 758</a>.
 {{</markdown>}}
 
 
@@ -205,6 +199,3 @@ Diagnostische Verfahren, die Bedingung für die Komplexbehandlung sind bzw. Teil
 Hier gibt das «Exklusivum – Kode weglassen» einen grundsätzlichen Ausschluss an. Ausnahme: «Kodiere ebenso» oder Angaben 
 zur gesonderten Kodierung in den Mindestmerkmalen sind vorhanden.
 Beispiel: «Exklusiva – Kode weglassen» unter 93.8A.1- «Palliativmedizinische Assessment», die auf 93.8A.2- und 93.8B.- verweisen. Wird eine palliativmedizinische Komplexbehandlung oder eine spezialisierte Palliative Care durchgeführt ist das palliativmedizinische Assessment nicht zusätzlich zu kodieren.
-
-<a href="#cuisine">La cuisine</a>
-
