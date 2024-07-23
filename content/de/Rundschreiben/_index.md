@@ -135,16 +135,26 @@ Die Präzisierung 0763 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersatzlos g
 {{</collapsibleBlock>}}
 
 {{<collapsibleBlock groupId="RS2024_2" customCollapsedText="0764  01.01.2024   Berechnung der Aufenthaltstage bei Anwendung des CHOP-Kodes 93.59.5-" customExpandedText="0764  01.01.2024   Berechnung der Aufenthaltstage bei Anwendung des CHOP-Kodes 93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage">}}
-{{<lineBreak>}}
-{{<lineBreak>}}
-{{<lineBreak>}}
-{{<lineBreak>}}
 {{<markdown>}}
  ~~Berechnung der Aufenthaltstage bei Anwendung des CHOP-Kodes 93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»~~
-Die Präzisierung 0764 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersetzt durch die Präzisierung <a href="#0758">0758</a> ersetzt
 {{</markdown>}}
+{{<lineBreak>}}
+Die Präzisierung 0764 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersetzt durch die Präzisierung <a href="#0758">0758</a> ersetzt
 
 {{</collapsibleBlock>}}
+
+
+{{<lineBreak>}}
+{{<lineBreak>}}
+{{<lineBreak>}}
+{{<lineBreak>}}
+{{<lineBreak>}}
+{{<lineBreak>}}
+{{<lineBreak>}}
+{{<lineBreak>}}
+{{<lineBreak>}}
+{{<lineBreak>}}
+{{<lineBreak>}}
 
 0763 01.01.2024 Präzisierung zur Anwendung des Messinstrumentes FIM™
 Die Präzisierung 0763 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersatzlos gestrichen.
