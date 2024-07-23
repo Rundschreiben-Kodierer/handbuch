@@ -81,10 +81,9 @@ b) Wöchentliche interprofessionelle Teambesprechung mit Dokumentation bisherige
 {{</collapsibleBlock>}}
 {{</collapsibleBlock>}}
 
-<h2 id="cuisinexx">La cuisineyy</h2>
+<h2 id="cuisine">La cuisineyy</h2>
 
 
-<a href="#cuisine">La cuisine</a><br>
 
 <h2 id="0777">ceci est le 0758</h2>
 
