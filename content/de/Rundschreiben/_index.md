@@ -13,7 +13,7 @@ keywords: []
 
 {{<collapsibleBlock groupId="RS2024_2" customCollapsedText="0756   01.07.2024   «Exklusivum – Kode weglassen» bei Komplexbehandlungen" customExpandedText="0756   01.07.2024   «Exklusivum – Kode weglassen» bei Komplexbehandlungen">}}
 {{<markdown>}}
-- <font color="green">0756</font><b> 01.07.2024 </b><b>«Exklusivum – Kode weglassen» bei Komplexbehandlungen</b>  
+- <font color="green">0756</font><b>"   01.07.2024   "</b><b>«Exklusivum – Kode weglassen» bei Komplexbehandlungen</b>  
 In der Einleitung der CHOP im Abschnitt «Technische Bemerkungen zur CHOP» - «Zusatzinformationen» steht
 […]  
 Ein «Exklusivum - Kode weglassen» hingegen, schliesst die gemeinsame Kodierung von zwei Kodes zum Zeitpunkt X für die Lokalisation Y aus.  
@@ -81,7 +81,7 @@ b) Wöchentliche interprofessionelle Teambesprechung mit Dokumentation bisherige
 {{</collapsibleBlock>}}
 {{</collapsibleBlock>}}
 
-{{<collapsibleBlock groupId="RS2024_2" customCollapsedText="0758  01.07.2024   93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»" customExpandedText="0758  01.07.2024   93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»">}}
+ <a href="#0758">{{<collapsibleBlock groupId="RS2024_2" customCollapsedText="0758  01.07.2024   93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»" customExpandedText="0758  01.07.2024   93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»">}}
 {{<markdown>}}
 
 - <font color="green">0758</font><b> 01.07.2024 </b>   <b>93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»</b>  
@@ -133,26 +133,37 @@ Die Präzisierung 0763 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersatzlos g
 
 {{</markdown>}}
 {{</collapsibleBlock>}}
-
 {{<collapsibleBlock groupId="RS2024_2" customCollapsedText="0764  01.01.2024   Berechnung der Aufenthaltstage bei Anwendung des CHOP-Kodes 93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage" customExpandedText="0764  01.01.2024   Berechnung der Aufenthaltstage bei Anwendung des CHOP-Kodes 93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage">}}
+{{<lineBreak>}}
+{{<lineBreak>}}
+{{<lineBreak>}}
+{{<lineBreak>}}
 {{<markdown>}}
 <font color="green">
-~~0764~~
+
+ ~~0764~~
+
+
+
+
+
 </font><b>
 
  ~~01.01.2024~~
  </b>   <b>
+
  
  ~~Berechnung der Aufenthaltstage bei Anwendung des CHOP-Kodes 93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»~~
 
  </b>  
-Die Präzisierung 0764 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersetzt durch die Präzisierung 0758.
+Die Präzisierung 0764 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersetzt durch die Präzisierung 0758 <a href="#0758">revenir au 758</a>.
 {{</markdown>}}
-{{</collapsibleBlock>}}
 
 
 
 <p style="color: #00FF00;">Ceci est un texte en vert fluo.</p>
+
+{{</collapsibleBlock>}}
 
 0763 01.01.2024 Präzisierung zur Anwendung des Messinstrumentes FIM™
 Die Präzisierung 0763 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersatzlos gestrichen.
