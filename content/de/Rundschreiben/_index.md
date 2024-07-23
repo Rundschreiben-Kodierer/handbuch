@@ -80,6 +80,7 @@ b) Wöchentliche interprofessionelle Teambesprechung mit Dokumentation bisherige
 {{</markdown>}}
 {{</collapsibleBlock>}}
 {{</collapsibleBlock>}}
+
 <h1 id="0758"></h1>
 
  {{<collapsibleBlock groupId="RS2024_2" customCollapsedText="0758  01.07.2024   93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»" customExpandedText="0758  01.07.2024   93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»">}}
