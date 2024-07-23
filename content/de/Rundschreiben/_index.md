@@ -129,6 +129,7 @@ Beispiel 2: Eine «Hygienemassnahme» könnte im Rahmen des Pflegeinterventionsp
 {{<collapsibleBlock groupId="RS2024_2" customCollapsedText="0763  01.01.2024   Präzisierung zur Anwendung des Messinstrumentes FIM™" customExpandedText="0763  01.01.2024   Präzisierung zur Anwendung des Messinstrumentes FIM™">}}
 {{<markdown>}}
 <font color="green">
+
 ~~0763~~</font><b> ~~01.01.2024~~ </b>   <b>~~Präzisierung zur Anwendung des Messinstrumentes FIM™~~</b>  
 Die Präzisierung 0763 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersatzlos gestrichen.
 {{</markdown>}}
