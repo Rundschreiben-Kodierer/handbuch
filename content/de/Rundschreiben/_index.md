@@ -10,8 +10,7 @@ keywords: []
 
 
 
-- <font color="green">0756</font><b>"   01.07.2024   "</b><b>«Exklusivum – Kode weglassen» bei Komplexbehandlungen</b>  
-{{<collapsibleBlock groupId="RS2024_2" customCollapsedText="Regelung öffnen" customExpandedText="Regelung schliessen">}}
+- <font color="green">0756</font><b>"   01.07.2024   "</b><b>«Exklusivum – Kode weglassen» bei Komplexbehandlungen</b>  {{<collapsibleBlock groupId="RS2024_2" customCollapsedText="Regelung öffnen" customExpandedText="Regelung schliessen">}}
 {{<markdown>}}
 - <font color="green">0756</font><b>"   01.07.2024   "</b><b>«Exklusivum – Kode weglassen» bei Komplexbehandlungen</b>  
 In der Einleitung der CHOP im Abschnitt «Technische Bemerkungen zur CHOP» - «Zusatzinformationen» steht
