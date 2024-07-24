@@ -10,7 +10,7 @@ keywords: []
 
 
 
-
+- <font color="green">0756</font><b>"   01.07.2024   "</b><b>«Exklusivum – Kode weglassen» bei Komplexbehandlungen</b>  
 {{<collapsibleBlock groupId="RS2024_2" customCollapsedText="0756   01.07.2024   «Exklusivum – Kode weglassen» bei Komplexbehandlungen" customExpandedText="0756   01.07.2024   «Exklusivum – Kode weglassen» bei Komplexbehandlungen">}}
 {{<markdown>}}
 - <font color="green">0756</font><b>"   01.07.2024   "</b><b>«Exklusivum – Kode weglassen» bei Komplexbehandlungen</b>  
