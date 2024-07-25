@@ -6,7 +6,8 @@ weight: 440
 type: docs
 keywords: []
 ---
-{{<collapsibleGroupCommand groupId="RS2024_2">}}
+
+{{<collapsibleGroupCommand groupId="RS2024_test">}}
 {{<collapsibleBlock groupId="RS2024_2" customCollapsedText="test parm" customExpandedText="Test parm ouvert" customTooltipText="customTooltipText" tooltipEnabled="tooltipEnabled" >}}
 
 
@@ -14,6 +15,7 @@ keywords: []
 - <font color="green">0756</font><b>"   01.07.2024   "</b><b>«Exklusivum – Kode weglassen» bei Komplexbehandlungen</b>  
 {{<collapsibleBlock groupId="RS2024_2" customCollapsedText="Regelung öffnen" customExpandedText="Regelung schliessen">}}
 {{<markdown>}}
+
 - <font color="green">0756</font><b>"   01.07.2024   "</b><b>«Exklusivum – Kode weglassen» bei Komplexbehandlungen</b>  
 In der Einleitung der CHOP im Abschnitt «Technische Bemerkungen zur CHOP» - «Zusatzinformationen» steht
 […]  
