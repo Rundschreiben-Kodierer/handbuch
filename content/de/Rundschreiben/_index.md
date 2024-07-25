@@ -150,10 +150,10 @@ In den Beachte zu den Komplexbehandlungen oder Komplexdiagnostiken angegebene Au
 von «Einsatz von mindestens x Therapiebereichen» oder «Mindestens x der folgenden Massnahmen», bedeuten, dass mindestens 
 x verschiedene der aufgelisteten Therapiebereiche oder Massnahmen zum Einsatz kommen. Der Einsatz / die Durchführung von xmal der gleichen Massnahme / des gleichen Therapiebereichs erfüllt die Mindestanforderungen nicht.
 Beispiel: Unter 99.A6.- «Neurologische Komplexdiagnostik» wird im «Beachte» folgende Auflistung aufgeführt
-
-Beachte: […]
-mind. 3 der folgenden Massnahmen:
-- LP (Liquorentnahme über Lumbalpunktion),
+{{<lineBreak>}}
+<BLOCKQUOTE><BLOCKQUOTE><BLOCKQUOTE>Beachte: <BLOCKQUOTE><BLOCKQUOTE>[…]
+<BLOCKQUOTE><BLOCKQUOTE><BLOCKQUOTE><BLOCKQUOTE><BLOCKQUOTE>mind. 3 der folgenden Massnahmen:
+<BLOCKQUOTE><BLOCKQUOTE><BLOCKQUOTE><BLOCKQUOTE><BLOCKQUOTE>- <BLOCKQUOTE>LP (Liquorentnahme über Lumbalpunktion),
 - craniale und spinale MRI,
 - funktionelle Bildgebung (z. B. PET, SPECT),
 - Diffusion Imaging, Perfusion Imaging
