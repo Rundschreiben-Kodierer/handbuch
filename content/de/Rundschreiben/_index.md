@@ -164,6 +164,10 @@ Beispiel: Unter 99.A6.- «Neurologische Komplexdiagnostik» wird im «Beachte» 
 - Elektroenzephalographie [EEG] (mobiles Langzeit-EEG über mindestens 24 Stunden oder mehr 
 und polygraphisches Nachtschlaf-EEG und video- und radiotelemetriertes elektroenzephalographischem Monitoring über mindestens 4 Stunden und Orthostase-EEG) 
  
+
+<p> Site du &nsbsp ZERO</p>
+<p>Site du &emsp ZERO</p>
+
 Wird dreimal ein EEG durchgeführt ohne zwei weitere der aufgelisteten Massnahmen sind die Mindestmerkmale nicht erfüllt und ein 
 Kode der Subkategorie 99.A6.- kann nicht erfasst werden.
 Werden hingegen ein craniales MRI, eine neurophysiologische Diagnostik sowie ein mobiles Langzeit-EEG über mindestens 24 
