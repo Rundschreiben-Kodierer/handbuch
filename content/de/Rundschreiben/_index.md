@@ -144,12 +144,21 @@ Die Präzisierung 0764 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersetzt dur
 
 {{</collapsibleBlock>}}
 
-
 {{<collapsibleBlock groupId="RS2024_2" customCollapsedText="0761  01.01.2024   Auflistung von Massnahmen in den Komplexbehandlungen oder Komplexdiagnostiken" customExpandedText="0761  01.01.2024   Auflistung von Massnahmen in den Komplexbehandlungen oder Komplexdiagnostiken">}}
 In den Beachte zu den Komplexbehandlungen oder Komplexdiagnostiken angegebene Auflistungen, die auf Sätze folgen im Sinne 
 von «Einsatz von mindestens x Therapiebereichen» oder «Mindestens x der folgenden Massnahmen», bedeuten, dass mindestens 
 x verschiedene der aufgelisteten Therapiebereiche oder Massnahmen zum Einsatz kommen. Der Einsatz / die Durchführung von xmal der gleichen Massnahme / des gleichen Therapiebereichs erfüllt die Mindestanforderungen nicht.
 Beispiel: Unter 99.A6.- «Neurologische Komplexdiagnostik» wird im «Beachte» folgende Auflistung aufgeführt
+
+
+Site du &nsbsp 1 on continue là
+Site du &emsp 5 ici aussi
+
+
+{{<lineBreak>}}
+{{<lineBreak>}}
+{{<lineBreak>}}
+
 {{<lineBreak>}}
 <BLOCKQUOTE><BLOCKQUOTE><BLOCKQUOTE>Beachte: <BLOCKQUOTE><BLOCKQUOTE>[…]
 <BLOCKQUOTE><BLOCKQUOTE><BLOCKQUOTE><BLOCKQUOTE><BLOCKQUOTE>mind. 3 der folgenden Massnahmen:
