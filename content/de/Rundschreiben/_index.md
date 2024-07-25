@@ -150,10 +150,17 @@ von «Einsatz von mindestens x Therapiebereichen» oder «Mindestens x der folge
 x verschiedene der aufgelisteten Therapiebereiche oder Massnahmen zum Einsatz kommen. Der Einsatz / die Durchführung von xmal der gleichen Massnahme / des gleichen Therapiebereichs erfüllt die Mindestanforderungen nicht.
 Beispiel: Unter 99.A6.- «Neurologische Komplexdiagnostik» wird im «Beachte» folgende Auflistung aufgeführt
 
+{{<lineBreak>}}
+{{<lineBreak>}}
 
-Site du &nsbsp 1 on continue là
+Site du &nsbsp &nsbsp &nsbsp &nsbsp &nsbsp 1 on continue là
 Site du &emsp 5 ici aussi
+{{<lineBreak>}}
 
+test  nbsp &nbsp; (« non breaking space ») va nous permettre d’ajouter une espace simple dit espace « insécable » ;
+test ensp &ensp; (« en space ») va nous permettre de créer une espace double ;
+test emsp &emsp; (« em space ») va nous permettre de créer une espace quadruple ;
+test thinsp &thinsp;  (« thin space ») va nous permettre de créer un espace très fin (demi-espace).
 
 {{<lineBreak>}}
 {{<lineBreak>}}
