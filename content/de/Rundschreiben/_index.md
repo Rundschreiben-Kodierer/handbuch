@@ -149,7 +149,6 @@ In den Beachte zu den Komplexbehandlungen oder Komplexdiagnostiken angegebene Au
 von «Einsatz von mindestens x Therapiebereichen» oder «Mindestens x der folgenden Massnahmen», bedeuten, dass mindestens 
 x verschiedene der aufgelisteten Therapiebereiche oder Massnahmen zum Einsatz kommen. Der Einsatz / die Durchführung von xmal der gleichen Massnahme / des gleichen Therapiebereichs erfüllt die Mindestanforderungen nicht.{{<lineBreak>}}
 Beispiel: Unter 99.A6.- «Neurologische Komplexdiagnostik» wird im «Beachte» folgende Auflistung aufgeführt
-&emsp; &emsp; 
 
 
 Wird dreimal ein EEG durchgeführt ohne zwei weitere der aufgelisteten Massnahmen sind die Mindestmerkmale nicht erfüllt und ein 
