@@ -169,6 +169,28 @@ Kode der Subkategorie 99.A6.- kann nicht erfasst werden.
 Werden hingegen ein craniales MRI, eine neurophysiologische Diagnostik sowie ein mobiles Langzeit-EEG über mindestens 24 
 Stunden durchgeführt mit Erfüllen der anderen Mindestmerkmale, kann ein Kode der Subkategorie 99.A6.- erfasst werden.
 
+<P> ceci est un paragraphe </P>
+
+<BLOCKQUOTE><P>Texte tabul&eacute;</P>
+
+<BLOCKQUOTE>
+
+<P>deux fois</P>
+
+</BLOCKQUOTE>
+
+</BLOCKQUOTE>
+
+<CENTER>Texte centr&eacute;</CENTER>
+
+<Div Align=RIGHT> texte justifié à droite </Div>
+
+<Div Align=Center> texte justifié <BR> au centre </Div>
+
+<Div Align=Left> texte justifié <BR> à <BR> gauche </Div>
+
+<P ALIGN=RIGHT> ceci est un paragraphe <BR> align&eacute; sur la droite</P>
+
 
 {{<markdown>}}
  ~~Berechnung der Aufenthaltstage bei Anwendung des CHOP-Kodes 93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»~~
