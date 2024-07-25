@@ -121,6 +121,7 @@ Die Angabe der Lateralität ist nur bei paarigen Organen ein Muss (entsprechende
 Pflege-Komplexbehandlungen – Zuordnung einer Pflegeintervention nur zu einer Leistungsgruppe Pflegeinterventionen könnten theoretisch mehreren Leistungsgruppen zugeordnet werden. In der Pflege-Komplexbehandlung darf eine geleistete Pflegeintervention jedoch nur einer Leistungsgruppe zugeordnet werden. Dies bedeutet nicht, dass sie zwingend der Leistungsgruppe zugeordnet wird in der bereits Aufwandspunkte für diesen Tag erfasst wurden.  
 Beispiel <font color="green">1</font>: Ein <font color="green">«</font> Transfer auf die Toilette<font color="green">» könnte im Rahmen des Pflegeinterventionsprofils 1.1 der Leistungsgruppe 1 «Bewegung» oder im Rahmen des Pflegeinterventionsprofils 3.1 der Leistungsgruppe 3 «Ausscheidung» geleistet werden. Wenn die Aktivität 
 unter der Leistungsgruppe 1 erfasst wird, darf sie nicht zusätzlich bei der Leistungsgruppe 3 erfasst werden, oder umgekehrt. Die Aktivität darf nur einem der zwei Pflegeinterventionsprofile zugeordnet werden.  
+  
 Beispiel 2: Eine «Hygienemassnahme» könnte im Rahmen des Pflegeinterventionsprofils 2.1 der Leistungsgruppe 2 «Körperpflege» oder im Rahmen des Pflegeinterventionsprofils 3.1 der Leistungsgruppe 3 «Ausscheidung» geleistet werden. Wenn die Aktivität unter der Leistungsgruppe 2 erfasst wird, darf sie nicht zusätzlich bei der Leistungsgruppe 3 erfasst werden, oder umgekehrt. Die Aktivität darf nur einem der zwei Pflegeinterventionsprofile zugeordnet werden</font>
 {{</markdown>}}
 {{</collapsibleBlock>}}
@@ -142,6 +143,41 @@ Die Präzisierung 0763 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersatzlos g
 Die Präzisierung 0764 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersetzt durch die Präzisierung <a href="#0758">0758</a> ersetzt
 
 {{</collapsibleBlock>}}
+
+
+{{<collapsibleBlock groupId="RS2024_2" customCollapsedText="0761  01.01.2024   Auflistung von Massnahmen in den Komplexbehandlungen oder Komplexdiagnostiken" customExpandedText="0761  01.01.2024   Auflistung von Massnahmen in den Komplexbehandlungen oder Komplexdiagnostiken">}}
+In den Beachte zu den Komplexbehandlungen oder Komplexdiagnostiken angegebene Auflistungen, die auf Sätze folgen im Sinne 
+von «Einsatz von mindestens x Therapiebereichen» oder «Mindestens x der folgenden Massnahmen», bedeuten, dass mindestens 
+x verschiedene der aufgelisteten Therapiebereiche oder Massnahmen zum Einsatz kommen. Der Einsatz / die Durchführung von xmal der gleichen Massnahme / des gleichen Therapiebereichs erfüllt die Mindestanforderungen nicht.
+Beispiel: Unter 99.A6.- «Neurologische Komplexdiagnostik» wird im «Beachte» folgende Auflistung aufgeführt
+
+Beachte: […]
+mind. 3 der folgenden Massnahmen:
+- LP (Liquorentnahme über Lumbalpunktion),
+- craniale und spinale MRI,
+- funktionelle Bildgebung (z. B. PET, SPECT),
+- Diffusion Imaging, Perfusion Imaging
+- volumetrische und morphometrische Bildanalyse, 
+- elektrophysiologische (neurophysiologische) Diagnostik,
+- neurosonologische/psychologische/psychiatrische Diagnostik,
+- neuropsychologische Diagnostik,
+- Elektroenzephalographie [EEG] (mobiles Langzeit-EEG über mindestens 24 Stunden oder mehr 
+und polygraphisches Nachtschlaf-EEG und video- und radiotelemetriertes elektroenzephalographischem Monitoring über mindestens 4 Stunden und Orthostase-EEG) 
+ 
+Wird dreimal ein EEG durchgeführt ohne zwei weitere der aufgelisteten Massnahmen sind die Mindestmerkmale nicht erfüllt und ein 
+Kode der Subkategorie 99.A6.- kann nicht erfasst werden.
+Werden hingegen ein craniales MRI, eine neurophysiologische Diagnostik sowie ein mobiles Langzeit-EEG über mindestens 24 
+Stunden durchgeführt mit Erfüllen der anderen Mindestmerkmale, kann ein Kode der Subkategorie 99.A6.- erfasst werden.
+
+
+{{<markdown>}}
+ ~~Berechnung der Aufenthaltstage bei Anwendung des CHOP-Kodes 93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»~~
+{{</markdown>}}
+{{<lineBreak>}}
+Die Präzisierung 0764 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersetzt durch die Präzisierung <a href="#0758">0758</a> ersetzt
+
+{{</collapsibleBlock>}}
+
 
 
 {{<lineBreak>}}
