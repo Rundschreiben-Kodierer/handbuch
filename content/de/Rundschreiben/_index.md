@@ -147,98 +147,27 @@ Die Präzisierung 0764 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersetzt dur
 {{<collapsibleBlock groupId="RS2024_2" customCollapsedText="0761  01.01.2024   Auflistung von Massnahmen in den Komplexbehandlungen oder Komplexdiagnostiken" customExpandedText="0761  01.01.2024   Auflistung von Massnahmen in den Komplexbehandlungen oder Komplexdiagnostiken">}}
 In den Beachte zu den Komplexbehandlungen oder Komplexdiagnostiken angegebene Auflistungen, die auf Sätze folgen im Sinne 
 von «Einsatz von mindestens x Therapiebereichen» oder «Mindestens x der folgenden Massnahmen», bedeuten, dass mindestens 
-x verschiedene der aufgelisteten Therapiebereiche oder Massnahmen zum Einsatz kommen. Der Einsatz / die Durchführung von xmal der gleichen Massnahme / des gleichen Therapiebereichs erfüllt die Mindestanforderungen nicht.
+x verschiedene der aufgelisteten Therapiebereiche oder Massnahmen zum Einsatz kommen. Der Einsatz / die Durchführung von xmal der gleichen Massnahme / des gleichen Therapiebereichs erfüllt die Mindestanforderungen nicht.{{<lineBreak>}}
 Beispiel: Unter 99.A6.- «Neurologische Komplexdiagnostik» wird im «Beachte» folgende Auflistung aufgeführt
-
-{{<lineBreak>}}
-{{<lineBreak>}}
-
-Site du &nsbsp &nsbsp &nsbsp &nsbsp &nsbsp 1 on continue là
-Site du &emsp 5 ici aussi
-{{<lineBreak>}}
-
-{{<lineBreak>}}
-test  nbsp &nbsp; (« non breaking space ») va nous permettre d’ajouter une espace simple dit espace « insécable » ;
-{{<lineBreak>}}
-test ensp &ensp; (« en space ») va nous permettre de créer une espace double ;
-{{<lineBreak>}}
-test emsp &emsp; (« em space ») va nous permettre de créer une espace quadruple ;
-{{<lineBreak>}}
-test thinsp &thinsp;  (« thin space ») va nous permettre de créer un espace très fin (demi-espace).
-{{<lineBreak>}}
-
-{{<lineBreak>}}
-{{<lineBreak>}}
-{{<lineBreak>}}
-
-{{<lineBreak>}}
-<BLOCKQUOTE><BLOCKQUOTE><BLOCKQUOTE>Beachte: <BLOCKQUOTE><BLOCKQUOTE>[…]
-<BLOCKQUOTE><BLOCKQUOTE><BLOCKQUOTE><BLOCKQUOTE><BLOCKQUOTE>mind. 3 der folgenden Massnahmen:
-<BLOCKQUOTE><BLOCKQUOTE><BLOCKQUOTE><BLOCKQUOTE><BLOCKQUOTE>- <BLOCKQUOTE>LP (Liquorentnahme über Lumbalpunktion),
-- craniale und spinale MRI,
-- funktionelle Bildgebung (z. B. PET, SPECT),
-- Diffusion Imaging, Perfusion Imaging
-- volumetrische und morphometrische Bildanalyse, 
-- elektrophysiologische (neurophysiologische) Diagnostik,
-- neurosonologische/psychologische/psychiatrische Diagnostik,
-- neuropsychologische Diagnostik,
-- Elektroenzephalographie [EEG] (mobiles Langzeit-EEG über mindestens 24 Stunden oder mehr 
-und polygraphisches Nachtschlaf-EEG und video- und radiotelemetriertes elektroenzephalographischem Monitoring über mindestens 4 Stunden und Orthostase-EEG) 
+&emsp;&emsp;&emsp;&emsp;Beachte: &emsp;&emsp;&emsp;&emsp;[…]
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;mind. 3 der folgenden Massnahmen:
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- LP (Liquorentnahme über Lumbalpunktion),
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- craniale und spinale MRI,
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- funktionelle Bildgebung (z. B. PET, SPECT),
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- Diffusion Imaging, Perfusion Imaging
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- volumetrische und morphometrische Bildanalyse, 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- elektrophysiologische (neurophysiologische) Diagnostik,
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- neurosonologische/psychologische/psychiatrische Diagnostik,
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- neuropsychologische Diagnostik,
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- Elektroenzephalographie [EEG] (mobiles Langzeit-EEG über mindestens 24 Stunden oder mehr 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;und polygraphisches Nachtschlaf-EEG und video- und radiotelemetriertes elektroenzephalographischem Monitoring über mindestens 4 Stunden und Orthostase-EEG) 
  
-
-Site du &nsbsp 1 on continue là
-Site du &emsp 5 ici aussi
-
-
 Wird dreimal ein EEG durchgeführt ohne zwei weitere der aufgelisteten Massnahmen sind die Mindestmerkmale nicht erfüllt und ein 
 Kode der Subkategorie 99.A6.- kann nicht erfasst werden.
 Werden hingegen ein craniales MRI, eine neurophysiologische Diagnostik sowie ein mobiles Langzeit-EEG über mindestens 24 
 Stunden durchgeführt mit Erfüllen der anderen Mindestmerkmale, kann ein Kode der Subkategorie 99.A6.- erfasst werden.
 
-<P> ceci est un paragraphe </P>
 
-<BLOCKQUOTE><P>Texte tabul&eacute;</P>
-
-<BLOCKQUOTE>
-
-<P>deux fois</P>
-
-</BLOCKQUOTE>
-
-</BLOCKQUOTE>
-
-<CENTER>Texte centr&eacute;</CENTER>
-
-<Div Align=RIGHT> texte justifié à droite </Div>
-
-<Div Align=Center> texte justifié <BR> au centre </Div>
-
-<Div Align=Left> texte justifié <BR> à <BR> gauche </Div>
-
-<P ALIGN=RIGHT> ceci est un paragraphe <BR> align&eacute; sur la droite</P>
-
-
-{{<markdown>}}
- ~~Berechnung der Aufenthaltstage bei Anwendung des CHOP-Kodes 93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»~~
-{{</markdown>}}
-{{<lineBreak>}}
-Die Präzisierung 0764 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersetzt durch die Präzisierung <a href="#0758">0758</a> ersetzt
-
-{{</collapsibleBlock>}}
-
-
-
-{{<lineBreak>}}
-{{<lineBreak>}}
-{{<lineBreak>}}
-{{<lineBreak>}}
-{{<lineBreak>}}
-{{<lineBreak>}}
-{{<lineBreak>}}
-{{<lineBreak>}}
-{{<lineBreak>}}
-{{<lineBreak>}}
-{{<lineBreak>}}
 
 0763 01.01.2024 Präzisierung zur Anwendung des Messinstrumentes FIM™
 Die Präzisierung 0763 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersatzlos gestrichen.
