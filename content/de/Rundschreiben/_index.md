@@ -150,47 +150,7 @@ von «Einsatz von mindestens x Therapiebereichen» oder «Mindestens x der folge
 x verschiedene der aufgelisteten Therapiebereiche oder Massnahmen zum Einsatz kommen. Der Einsatz / die Durchführung von xmal der gleichen Massnahme / des gleichen Therapiebereichs erfüllt die Mindestanforderungen nicht.{{<lineBreak>}}
 Beispiel: Unter 99.A6.- «Neurologische Komplexdiagnostik» wird im «Beachte» folgende Auflistung aufgeführt
 
-
-Wird dreimal ein EEG durchgeführt ohne zwei weitere der aufgelisteten Massnahmen sind die Mindestmerkmale nicht erfüllt und ein 
-Kode der Subkategorie 99.A6.- kann nicht erfasst werden.
-Werden hingegen ein craniales MRI, eine neurophysiologische Diagnostik sowie ein mobiles Langzeit-EEG über mindestens 24 
-Stunden durchgeführt mit Erfüllen der anderen Mindestmerkmale, kann ein Kode der Subkategorie 99.A6.- erfasst werden.
+&emsp;&emsp;&emsp;3 emsp
 
 
-
-0763 01.01.2024 Präzisierung zur Anwendung des Messinstrumentes FIM™
-Die Präzisierung 0763 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersatzlos gestrichen.
-0764 01.01.2024 Berechnung der Aufenthaltstage bei Anwendung des CHOP-Kodes 93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»
-Die Präzisierung 0764 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersetzt durch die Präzisierung 0758
-
-
-0758 01.07.2024 93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach 
-Anzahl Behandlungstage»
-
-\t adfsasfasfda éalsdfkaj ésaldfj
-éaslfdja ésladskjaf éslkfjfj  
-
-\t\t\t ésaldfj ésaldfk jséadlflkj ésaldfkj ésldkfj  
-lésdkfj élsdkfj élsdkjf ésadklkjaf élskadslkjaf élaksdjf élksdslkjaf élkasdjf élkjsdafé lkjsadéfl kjsadélflé kjésdalfk jéalsdffkj élsadfkj édsalfkj ésdalfdslkjj éldsafdkj élasdfkja élasdfj élasdkfdkj éladskfdkj élsdafdkj éldskfj éldsfdj élsdakfdja élsadslkjaf élsd dsj félsadkjaf él adfafdasdfasf
-
-- List
-- List 2
-    - Sub-level list 1 with four spaces
-    - Sub-level list 2 with four spaces  
-    In der Einleitung der CHOP im Abschnitt «Technische Bemerkungen zur CHOP» - «Zusatzinformationen» steht
-[…]
-Ein «Exklusivum - Kode weglassen» hingegen, schliesst die gemeinsame Kodierung von zwei Kodes zum Zeitpunkt X für die Lokalisation Y aus.
-Beispiel: Da eine Rektumresektion bereits Teil einer totalen Proktokolektomie ist, wird unter der 3-stelligen Kategorie 48.6- «Sonstige Rektumresektion» ein «Exklusivum - Kode weglassen» aufgeführt: EXKL. «Kode weglassen - Kolektomie und Proktokolektomie 
-(45.8-)».
-[…]
-Für Komplexbehandlungen ist zu ergänzen:
-Besteht ein «Exklusivum – Kode weglassen» zwischen zwei Komplexbehandlungen, so ist die zeitgleiche Kodierung beider Komplexbehandlungen nicht erlaubt. Erfolgen die zwei Komplexbehandlungen zeitlich versetzt, können beide Komplexbehandlungen 
-erfasst werden.
-Beispiel: «Exklusiva – Kode weglassen» zwischen 93.8A.2- «Palliativmedizinische Komplexbehandlung, nach Anzahl Behandlungstage» und 93.8B.- «Spezialisierte Palliative Care». Wird eine spezialisierte Palliative Care während zwei Wochen durchgeführt, darf
-nicht gleichzeitig in diesen zwei Wochen eine palliativmedizinische Komplexbehandlung erfasst werden.
-Diagnostische Verfahren, die Bedingung für die Komplexbehandlung sind bzw. Teil von dieser sind, werden nicht zusätzlich kodiert. 
-Hier gibt das «Exklusivum – Kode weglassen» einen grundsätzlichen Ausschluss an. Ausnahme: «Kodiere ebenso» oder Angaben 
-zur gesonderten Kodierung in den Mindestmerkmalen sind vorhanden.
-Beispiel: «Exklusiva – Kode weglassen» unter 93.8A.1- «Palliativmedizinische Assessment», die auf 93.8A.2- und 93.8B.- verweisen. Wird eine palliativmedizinische Komplexbehandlung oder eine spezialisierte Palliative Care durchgeführt ist das palliativmedizinische Assessment nicht zusätzlich zu kodieren.
-
-
+{{</collapsibleBlock>}}
