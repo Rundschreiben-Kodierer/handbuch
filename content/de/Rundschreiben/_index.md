@@ -7,10 +7,20 @@ type: docs
 keywords: []
 ---
 {{<collapsibleGroupCommand groupId="RS2024_2">}}
+{{<collapsibleBlock groupId="RS2024_2" customCollapsedText="test parm" customExpandedText="Test parm ouvert" customTooltipText="customTooltipText" tooltipEnabled="tooltipEnabled" >}}
+
+
+[comment]: {{ $groupId := .Get "groupId" | default ""}}
+[comment]: {{ $class := .Get "class" | default ""}}
+[comment]: {{ $collapsedText := .Get "customCollapsedText" | default (T "collapsible_block_click_to_expand_click_text") }}
+[comment]: {{ $expandedText := .Get "customExpandedText" | default (T "collapsible_block_click_to_collapse_click_text") }}
+[comment]: {{ $tooltipText := .Get "customTooltipText" | default (T "collapsible_block_click_to_expand_collapse_tooltip_text")}}
+[comment]: {{ $tooltipEnabled := eq (.Get "tooltipEnabled" | default "true") "true" }}
 
 
 
-- <font color="green">0756</font><b>"   01.07.2024   "</b><b>«Exklusivum – Kode weglassen» bei Komplexbehandlungen</b>  {{<collapsibleBlock groupId="RS2024_2" customCollapsedText="Regelung öffnen" customExpandedText="Regelung schliessen">}}
+- <font color="green">0756</font><b>"   01.07.2024   "</b><b>«Exklusivum – Kode weglassen» bei Komplexbehandlungen</b>  
+{{<collapsibleBlock groupId="RS2024_2" customCollapsedText="Regelung öffnen" customExpandedText="Regelung schliessen">}}
 {{<markdown>}}
 - <font color="green">0756</font><b>"   01.07.2024   "</b><b>«Exklusivum – Kode weglassen» bei Komplexbehandlungen</b>  
 In der Einleitung der CHOP im Abschnitt «Technische Bemerkungen zur CHOP» - «Zusatzinformationen» steht
