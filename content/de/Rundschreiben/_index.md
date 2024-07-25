@@ -157,10 +157,15 @@ Site du &nsbsp &nsbsp &nsbsp &nsbsp &nsbsp 1 on continue là
 Site du &emsp 5 ici aussi
 {{<lineBreak>}}
 
+{{<lineBreak>}}
 test  nbsp &nbsp; (« non breaking space ») va nous permettre d’ajouter une espace simple dit espace « insécable » ;
+{{<lineBreak>}}
 test ensp &ensp; (« en space ») va nous permettre de créer une espace double ;
+{{<lineBreak>}}
 test emsp &emsp; (« em space ») va nous permettre de créer une espace quadruple ;
+{{<lineBreak>}}
 test thinsp &thinsp;  (« thin space ») va nous permettre de créer un espace très fin (demi-espace).
+{{<lineBreak>}}
 
 {{<lineBreak>}}
 {{<lineBreak>}}
