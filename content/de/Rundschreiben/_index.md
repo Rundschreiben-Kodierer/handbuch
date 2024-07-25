@@ -165,8 +165,9 @@ Beispiel: Unter 99.A6.- «Neurologische Komplexdiagnostik» wird im «Beachte» 
 und polygraphisches Nachtschlaf-EEG und video- und radiotelemetriertes elektroenzephalographischem Monitoring über mindestens 4 Stunden und Orthostase-EEG) 
  
 
-<p> Site du &nsbsp ZERO</p>
-<p>Site du &emsp ZERO</p>
+Site du &nsbsp 1 on continue là
+Site du &emsp 5 ici aussi
+
 
 Wird dreimal ein EEG durchgeführt ohne zwei weitere der aufgelisteten Massnahmen sind die Mindestmerkmale nicht erfüllt und ein 
 Kode der Subkategorie 99.A6.- kann nicht erfasst werden.
