@@ -150,6 +150,12 @@ Die Präzisierung 0764 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersetzt dur
 
 ![Texte alternatif](C:\PIEM\0761.png "Le titre de mon image")
 
+<img
+  src={require('\\adb.intra.admin.ch\Userhome$\BFS-01\U80853691\data\Documents\PAE\Superuser\GitHub\RS\0761.png').default}
+  alt="Exemple de bannière"
+/>
+
+
 &emsp;&emsp;&emsp;
 
 {{</collapsibleBlock>}}
