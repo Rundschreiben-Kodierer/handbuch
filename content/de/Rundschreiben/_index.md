@@ -155,6 +155,10 @@ Die Präzisierung 0764 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersetzt dur
   alt="Exemple de bannière"
 />
 
+<img
+  src={require('C:\PIEM\0761.png').default}
+  alt="Exemple de bannière"
+/>
 
 &emsp;&emsp;&emsp;
 
