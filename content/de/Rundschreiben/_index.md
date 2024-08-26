@@ -180,3 +180,11 @@ Beispiel: Unter 99.A6.- «Neurologische Komplexdiagnostik» wird im «Beachte» 
 
 
 {{</collapsibleBlock>}}
+
+{{<collapsibleBlock groupId="RS2024_2" customCollapsedText="0761  01.01.2024   Auflistung von Massnahmen in den Komplexbehandlungen oder Komplexdiagnostiken" customExpandedText="0761  01.01.2024   Auflistung von Massnahmen in den Komplexbehandlungen oder Komplexdiagnostiken">}}
+
+{{<insertImage image="0761.png" class="edge max-w-90">}} 
+
+
+
+{{</collapsibleBlock>}}
