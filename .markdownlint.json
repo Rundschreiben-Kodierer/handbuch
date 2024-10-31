@@ -24,7 +24,17 @@
             "faqBlock",
             "markdown",
             "link",
-            "lineBreak"
+            "lineBreak",
+            "article",
+            "indent",
+            "div",
+            "span",
+            "table",
+            "td",
+            "tr",
+            "th",
+            "br",
+            "strong"
         ]
     }
 }

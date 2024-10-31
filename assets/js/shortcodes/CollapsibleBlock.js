@@ -142,7 +142,9 @@ export class CollapsibleBlock {
    */
   expand(){
     this.#isExpanded = true;
-    this.#buttonElement.textContent  = this.#expandedText;
+    if(this.#expandedText !== null && this.#expandedText !== '') {
+      this.#buttonElement.textContent  = this.#expandedText;
+    }
     this.#contentElement.style.display = CollapsibleBlock.#expandedDisplayClass;
     this.#iconElement.classList.remove(CollapsibleConstants.collapseIconClass);
     this.#iconElement.classList.add(CollapsibleConstants.expandIconClass);
@@ -154,7 +156,9 @@ export class CollapsibleBlock {
    */
   collapse(){
     this.#isExpanded = false;
-    this.#buttonElement.textContent  = this.#collapsedText;
+    if(this.#collapsedText !== null && this.#collapsedText !== '') {
+      this.#buttonElement.textContent  = this.#collapsedText;
+    }
     this.#contentElement.style.display = CollapsibleBlock.#collapsedDisplayClass;
     this.#iconElement.classList.remove(CollapsibleConstants.expandIconClass);
     this.#iconElement.classList.add(CollapsibleConstants.collapseIconClass);

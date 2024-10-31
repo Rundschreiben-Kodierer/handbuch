@@ -1,0 +1,33 @@
+{{ $class := .Get "class" | default "" }}
+{{ $headerClass := .Get "headerClass" | default "" }}
+{{ $bodyClass := .Get "bodyClass" | default "" }}
+{{ $number := .Get "number" }}
+{{ $numberColor := .Get "numberColor" | default "green" }}
+{{ $date := .Get "date" | default "" }}
+{{ $title := .Get "title" }}
+{{ $groupId := .Get "groupId" | default "" }}
+
+
+<div
+  class="article collapsible-block {{ $class }}"
+  group-id="{{ $groupId }}"
+  collapsed-text=""
+  expanded-text=""
+>
+  <span class="article-header {{ $headerClass }}">
+    <i class="collapsible-block__icon fas"></i>
+
+    <button type="button" class="collapsible-block__button">
+      <span class="article-number" style="color: {{ $numberColor }};"
+        >{{ $number }}
+      </span>
+      {{ with $date }}
+        <span class="article-date">{{ . }}</span>
+      {{ end }}
+      <span class="article-title">{{ $title }}</span>
+    </button>
+  </span>
+  <div class="article-body collapsible-block__content {{ $bodyClass }}">
+    {{ .Inner }}
+  </div>
+</div>

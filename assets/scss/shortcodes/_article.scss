@@ -1,0 +1,53 @@
+.article {
+    .collapsible-block__button {
+        &:hover {
+            text-decoration: none;
+        }
+
+        color: inherit;
+    }
+}
+
+.article-header {
+    align-items: center;
+    font-size: 1em;
+
+    .article-number {
+        margin-right: 40px;
+        font-weight: bold;
+    }
+    
+    .article-date {
+        margin-right: 40px;
+        font-weight: bold;
+    }
+    
+    .article-title {
+        font-size: 1em;
+        font-weight: bold;
+    }
+}
+
+.article-body {
+    margin-top: 10px;
+    font-size: 1em;
+    color: #333333;
+}
+
+.green-text {
+    .article-number {
+        color: green;
+    }
+    
+    .article-date {
+        color: green;
+    }
+    
+    .article-title {
+        color: green;
+    }
+
+    .collapsible-block__content {
+        color: green;
+    }
+}
