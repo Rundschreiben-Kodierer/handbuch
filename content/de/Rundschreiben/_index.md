@@ -6,6 +6,7 @@ weight: 440
 type: docs
 keywords: []
 ---
+
 {{<article number="0756" date="01.07.2024" title="«Exklusivum – Kode weglassen» bei Komplexbehandlungen" collapsibleClass="d-inline-block">}}
 {{<markdown>}}
 In der Einleitung der CHOP im Abschnitt «Technische Bemerkungen zur CHOP» - «Zusatzinformationen» steht
@@ -25,6 +26,21 @@ Beispiel: «Exklusiva – Kode weglassen» unter 93.8A.1- «Palliativmedizinisch
 {{<article number="0757" date="01.07.2024" title="Informationen und Präzisierungen zur Palliative Care" collapsibleClass="d-inline-block">}}
 {{<markdown>}}
 Folgende Präzisierungen betreffen die Elementgruppe 93.8A.2- «Palliativmedizinische Komplexbehandlung, nach Anzahl Behand-lungstage» und die Subkategorie 93.8B.- «Spezialisierte Palliative Care».
+{{</markdown>}}
+{{</article>}}
+
+{{<article number="0757/1" title="Standardisiertes palliativmedizinisches Basisassessment" collapsibleClass="d-inline-block">}}
+{{<markdown>}}
+93.8A.2-: Mindestmerkmal Punkt 2, Eintrittsabklärung, Assessment:  
+Durchführung eines standardisierten palliativmedizinischen Basisassessments (PBA). […]  
+93.8B.-: Mindestmerkmal Punkt 2, Eintrittsabklärung, Assessment:  
+a) Durchführung eines standardisierten palliativmedizinischen Basisassessments (PBA) inklusive Erfassung von Komplexi-tät und Instabilität.  
+[…]  
+  
+**Ist SENS ebenfalls ein standardisiertes palliativmedizinisches Basisassessment (PBA)?**  
+Mit dem SENS-Assessment werden folgende Bereiche der Palliativversorgung abgedeckt: Symptommanagement, Entscheidungsfin-dung/ End of Life Vorbereitung, Netzwerk-Organisation, Support der Angehörigen. SENS integriert alle Themenbereiche der gängi-gen Ziele, Definitionen und Modelle. Somit ist auch ein dokumentiertes SENS-Assessment als standardisiertes palliativmedizini-sches Basisassessment für die Kodes 93.8A.2- und 93.8B.- anzuerkennen.  
+**Kann ein einzelnes Assessmentinstrument als palliativmedizinisches Basisassessment zählen?**  
+Die alleinige Durchführung eines Assessmentinstrumentes (z. B. ESAS) zur Erfassung der körperlichen Dimension ist nicht als voll-ständiges PBA anzuerkennen. In einem PBA müssen die biologischen, psychologischen, sozialen und spirituellen Dimensionen be-rücksichtigt werden.
 {{</markdown>}}
 {{</article>}}
 
