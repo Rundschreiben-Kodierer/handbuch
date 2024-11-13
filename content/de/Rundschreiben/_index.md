@@ -29,7 +29,7 @@ Folgende Präzisierungen betreffen die Elementgruppe 93.8A.2- «Palliativmedizin
 {{</markdown>}}
 {{</article>}}
 
-{{<article number="0757/1" title="Standardisiertes palliativmedizinisches Basisassessment" collapsibleClass="d-inline-block">}}
+{{<article number="0757/1" date="          " title="Standardisiertes palliativmedizinisches Basisassessment" collapsibleClass="d-inline-block">}}
 {{<markdown>}}
 93.8A.2-: Mindestmerkmal Punkt 2, Eintrittsabklärung, Assessment:  
 Durchführung eines standardisierten palliativmedizinischen Basisassessments (PBA). […]  
@@ -44,7 +44,7 @@ Die alleinige Durchführung eines Assessmentinstrumentes (z. B. ESAS) zur Erfass
 {{</markdown>}}
 {{</article>}}
 
-{{<article number="0757/2" title="Therapiebereiche" groupId="RS2024_2_757">}}
+{{<article number="0757/2" date="          " title="Therapiebereiche" groupId="RS2024_2_757">}}
 93.8A.2-: Mindestmerkmal Punkt 3, Behandlungsteam und Therapie:  
 {{<indent level="5">}}
 {{<markdown>}}
@@ -101,6 +101,24 @@ b) Ärztliche Leistung, Pflege sowie mindestens zwei der unter Mindestmerkmal Pu
 {{</markdown>}}
 {{</indent>}}
 {{</article>}}
+
+{{<article number="0757/3" date="          " title="Teambesprechung" collapsibleClass="d-inline-block">}}
+{{<markdown>}}
+93.8A.2-: Mindestmerkmal Punkt 4, Therapieplanung und -kontrolle:  
+[…]  
+b) Wöchentliche interprofessionelle Teambesprechung mit Dokumentation bisheriger Behandlungsergebnisse und weiterer Behandlungsziele.  
+93.8B.-: Mindestmerkmal Punkt 5, Therapieplanung und -kontrolle:  
+[…]  
+b) Wöchentliche interprofessionelle Teambesprechung mit Dokumentation bisheriger Behandlungsergebnisse und weiterer Behandlungsziele.  
+  
+**Was ist unter wöchentlicher interprofessioneller Teambesprechung zu verstehen?**  
+Die wöchentliche interprofessionelle Teambesprechung bei der palliativmedizinischen Komplexbehandlung und der spezialisierten Palliative Care ist wie folgt zu verstehen: «wöchentlich» ist struktur- und nicht patientenbezogen. Das bedeutet, dass im klinischen Betrieb mindestens einmal pro Woche eine interprofessionelle Teambesprechung stattfindet.  
+  
+Beispiel:  
+Der Patient ist 10 Tage hospitalisiert (von Montag der Woche 1 bis Mittwoch der Woche 2). Der Patient tritt am Mittwoch der 2. Wo-che aus oder verstirbt. Die Teambesprechungen finden jeweils donnerstags statt. Für die 2. Woche ist das strukturbezogene Min-destmerkmal ebenfalls erfüllt.  
+Unter «interprofessionell» ist zu verstehen, dass im Minimum Arzt, Pflege und eine weitere Berufsgruppe an der Teambespre-chung teilnehmen.{{</markdown>}}
+{{</article>}}
+
 
 {{<article class="green-text" number="0757/4" title="Fallzusammenführung und PBA">}}
 {{<markdown>}}
