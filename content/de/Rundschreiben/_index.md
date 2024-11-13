@@ -126,6 +126,28 @@ Bei einer Fallzusammenführung mit palliativmedizinischer Komplexbehandlung im e
 {{</markdown>}}
 {{</article>}}
 
+{{<article number="0758" date="01.07.2024" title="93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»" collapsibleClass="d-inline-block">}}
+{{</article>}}
+
+{{<article number="0758/1" title="Berechnung der Aufenthaltstage für Kodes der Elementegruppe 93.59.5-" collapsibleClass="d-inline-block">}}
+{{<markdown>}}
+Zur Berechnung der Behandlungstage unter den CHOP-Kodes 93.59.50 bis 93.59.53 «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage» darf bei Erfüllung der Mindestmerkmale der Eintritts- sowie Austrittstag nur als ein Behandlungstag angerechnet werden.
+{{</article>}}
+
+{{<article number="0758/2" title="Abgrenzung 93.59.5- und 99.84.1-, 99.84.2-, 99.84.3-" collapsibleClass="d-inline-block">}}
+{{<markdown>}}
+Unter den Elementegruppen 99.84.1- «Kontaktisolierung, nach Anzahl Behandlungstage», 99.84.2- «Tröpfchenisolierung, […]» und 99.84.3- «Aerosolisolierung, […]» ist folgendes «Exklusivum – Kode weglassen» angegeben:  
+Exkl. «Kode weglassen - Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage (93.59.5-)».  
+Dies bedeutet, dass die zeitgleiche Kodierung von 93.59.5- und 99.84.1-, 99.84.2-, 99.84.3- nicht gestattet ist. Werden 99.84.1-, 99.84.2-, 99.84.3- zeitlich versetzt erbracht zur 93.59.5- können die Kodes im gleichen Fall erfasst werden. Die Erfassung von 99.84.1-, 99.84.2-, 99.84.3- darf nie für das gleiche Zeitintervall wie 93.59.5- erfolgen.
+{{</article>}}
+
+{{<article number="0759"  date="01.07.2024" title="Lateralitätsmarkierung" collapsibleClass="d-inline-block">}}
+{{<markdown>}}
+Die Angabe der Lateralität ist nur bei paarigen Organen ein Muss (entsprechende Kennzeichnung in der CHOP mit «[L]» in der PDF-Datei oder «Lateral» in der CSV-Datei). Bei nicht paarigen Organen oder Körperteilen «kann» die Lateralität erfasst werden, «muss» aber nicht.
+{{</article>}}
+
+
+
 - <font color="green">0756</font><b>"   01.07.2024   "</b><b>«Exklusivum – Kode weglassen» bei Komplexbehandlungen</b>  
 {{<collapsibleBlock groupId="RS2024_2" customCollapsedText="Regelung öffnen" customExpandedText="Regelung schliessen">}}
 
