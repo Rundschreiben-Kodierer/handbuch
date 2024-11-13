@@ -44,7 +44,7 @@ Die alleinige Durchführung eines Assessmentinstrumentes (z. B. ESAS) zur Erfass
 {{</markdown>}}
 {{</article>}}
 
-{{<article number="0757/2" date="          " title="Therapiebereiche" groupId="RS2024_2_757">}}
+{{<article number="0757/2" title="Therapiebereiche" groupId="RS2024_2_757">}}
 93.8A.2-: Mindestmerkmal Punkt 3, Behandlungsteam und Therapie:  
 {{<indent level="5">}}
 {{<markdown>}}
@@ -102,7 +102,7 @@ b) Ärztliche Leistung, Pflege sowie mindestens zwei der unter Mindestmerkmal Pu
 {{</indent>}}
 {{</article>}}
 
-{{<article number="0757/3" date="          " title="Teambesprechung" collapsibleClass="d-inline-block">}}
+{{<article number="0757/3" title="Teambesprechung" collapsibleClass="d-inline-block">}}
 {{<markdown>}}
 93.8A.2-: Mindestmerkmal Punkt 4, Therapieplanung und -kontrolle:  
 […]  
