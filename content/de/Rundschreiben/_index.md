@@ -146,6 +146,7 @@ Dies bedeutet, dass die zeitgleiche Kodierung von 93.59.5- und 99.84.1-, 99.84.2
 {{<article number="0759"  date="01.07.2024" title="Lateralitätsmarkierung" collapsibleClass="d-inline-block">}}
 {{<markdown>}}
 Die Angabe der Lateralität ist nur bei paarigen Organen ein Muss (entsprechende Kennzeichnung in der CHOP mit «[L]» in der PDF-Datei oder «Lateral» in der CSV-Datei). Bei nicht paarigen Organen oder Körperteilen «kann» die Lateralität erfasst werden, «muss» aber nicht.
+{{</markdown>}}
 {{</article>}}
 
 
