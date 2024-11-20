@@ -7,13 +7,12 @@ type: docs
 keywords: []
 ---
 
-{{<markdown>}}Das aktuelle Rundschreiben enthält alle, ab 1. Juli 2024 gültigen «Informationen und Präzisierungen».
+{{<markdown>}}Das aktuelle Rundschreiben enthält alle, ab 1. Juli 2024 gültigen «Informationen und Präzisierungen».  
 Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Löschungen in rot~~</font>
   
 **Beschreibung der Nummerierung**  
 Die «Informationen und Präzisierungen» sind aufsteigend aufgelistet, wobei die neuesten oder aktualisierten Informationen die tiefste Nummer tragen.  
-Z. B.: 
-{{</markdown>}}
+Z. B.:{{</markdown>}}
 {{<indent level="5">}}
 {{<markdown>}}
 0999 (Nummer) 01.01.2012 (gültig seit/ab)  
@@ -121,11 +120,13 @@ b) Ärztliche Leistung, Pflege sowie mindestens zwei der unter Mindestmerkmal Pu
 {{<article number="0757/3" title="Teambesprechung" collapsibleClass="d-inline-block">}}
 {{<markdown>}}
 93.8A.2-: Mindestmerkmal Punkt 4, Therapieplanung und -kontrolle:  
+{{<indent level="4">}}
 […]  
 b) Wöchentliche interprofessionelle Teambesprechung mit Dokumentation bisheriger Behandlungsergebnisse und weiterer Behandlungsziele.  
 93.8B.-: Mindestmerkmal Punkt 5, Therapieplanung und -kontrolle:  
 […]  
 b) Wöchentliche interprofessionelle Teambesprechung mit Dokumentation bisheriger Behandlungsergebnisse und weiterer Behandlungsziele.  
+{{</indent>}}
   
 **Was ist unter wöchentlicher interprofessioneller Teambesprechung zu verstehen?**  
 Die wöchentliche interprofessionelle Teambesprechung bei der palliativmedizinischen Komplexbehandlung und der spezialisierten Palliative Care ist wie folgt zu verstehen: «wöchentlich» ist struktur- und nicht patientenbezogen. Das bedeutet, dass im klinischen Betrieb mindestens einmal pro Woche eine interprofessionelle Teambesprechung stattfindet.  
