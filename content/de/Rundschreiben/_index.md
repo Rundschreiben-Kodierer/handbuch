@@ -16,7 +16,7 @@ Z. B.: 0999 (Nummer) 01.01.2012 (gültig seit/ab)
 0998 01.01.2012
 [...]
 0852 01.07.2017 usw
-
+{{</markdown>}}
 
 {{<article class="green-text" number="0757/4" title="Fallzusammenführung und PBA">}}
 {{<markdown>}}
