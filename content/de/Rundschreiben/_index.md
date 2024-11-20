@@ -7,6 +7,15 @@ type: docs
 keywords: []
 ---
 
+Das aktuelle Rundschreiben enthält alle, ab 1. Juli 2024 gültigen «Informationen und Präzisierungen».
+Legende: Neuerungen in grün, Löschungen in rot
+Beschreibung der Nummerierung
+Die «Informationen und Präzisierungen» sind aufsteigend aufgelistet, wobei die neuesten oder aktualisierten Informationen die tiefste Nummer tragen.
+Z. B.: 0999 (Nummer) 01.01.2012 (gültig seit/ab)
+0998 01.01.2012
+[...]
+0852 01.07.2017 usw
+
 {{<article number="0756" date="01.07.2024" title="«Exklusivum – Kode weglassen» bei Komplexbehandlungen" collapsibleClass="d-inline-block">}}
 {{<markdown>}}
 In der Einleitung der CHOP im Abschnitt «Technische Bemerkungen zur CHOP» - «Zusatzinformationen» steht
