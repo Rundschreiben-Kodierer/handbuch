@@ -152,8 +152,10 @@ Zur Berechnung der Behandlungstage unter den CHOP-Kodes 93.59.50 bis 93.59.53 «
 
 {{<article number="0758/2" title="Abgrenzung 93.59.5- und 99.84.1-, 99.84.2-, 99.84.3-" collapsibleClass="d-inline-block">}}
 {{<markdown>}}
-Unter den Elementegruppen 99.84.1- «Kontaktisolierung, nach Anzahl Behandlungstage», 99.84.2- «Tröpfchenisolierung, […]» und 99.84.3- «Aerosolisolierung, […]» ist folgendes «Exklusivum – Kode weglassen» angegeben:  
+Unter den Elementegruppen 99.84.1- «Kontaktisolierung, nach Anzahl Behandlungstage», 99.84.2- «Tröpfchenisolierung, […]» und 99.84.3- «Aerosolisolierung, […]» ist folgendes «Exklusivum – Kode weglassen» angegeben:
+{{<indent level="4">}}
 Exkl. «Kode weglassen - Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage (93.59.5-)».  
+{{</indent>}}
 Dies bedeutet, dass die zeitgleiche Kodierung von 93.59.5- und 99.84.1-, 99.84.2-, 99.84.3- nicht gestattet ist. Werden 99.84.1-, 99.84.2-, 99.84.3- zeitlich versetzt erbracht zur 93.59.5- können die Kodes im gleichen Fall erfasst werden. Die Erfassung von 99.84.1-, 99.84.2-, 99.84.3- darf nie für das gleiche Zeitintervall wie 93.59.5- erfolgen.
 {{</markdown>}}
 {{</article>}}
@@ -161,6 +163,17 @@ Dies bedeutet, dass die zeitgleiche Kodierung von 93.59.5- und 99.84.1-, 99.84.2
 {{<article number="0759"  date="01.07.2024" title="Lateralitätsmarkierung" collapsibleClass="d-inline-block">}}
 {{<markdown>}}
 Die Angabe der Lateralität ist nur bei paarigen Organen ein Muss (entsprechende Kennzeichnung in der CHOP mit «[L]» in der PDF-Datei oder «Lateral» in der CSV-Datei). Bei nicht paarigen Organen oder Körperteilen «kann» die Lateralität erfasst werden, «muss» aber nicht.
+{{</markdown>}}
+{{</article>}}
+
+{{<article number="0760"  date="01.07.2024" title="Pflege-Komplexbehandlungen – Zuordnung einer Pflegeintervention nur zu einer Leistungs-gruppe" collapsibleClass="d-inline-block">}}
+{{<markdown>}}
+Pflegeinterventionen könnten theoretisch mehreren Leistungsgruppen zugeordnet werden. In der Pflege-Komplexbehandlung darf eine geleistete Pflegeintervention jedoch nur einer Leistungsgruppe zugeordnet werden. Dies bedeutet nicht, dass sie zwingend der Leistungsgruppe zugeordnet wird in der bereits Aufwandspunkte für diesen Tag erfasst wurden.
+  
+Beispiel <font color="green">1</font>: Ein «Transfer auf die Toilette
+ <font color="green">» könnte im Rahmen des Pflegeinterventionsprofils 1.1 der Leistungsgruppe 1 «Bewegung» oder im Rahmen des Pflegeinterventionsprofils 3.1 der Leistungsgruppe 3 «Ausscheidung» geleistet werden. Wenn die Aktivität unter der Leistungsgruppe 1 erfasst wird, darf sie nicht zusätzlich bei der Leistungsgruppe 3 erfasst werden, oder umgekehrt. Die Aktivität darf nur einem der zwei Pflegeinterventionsprofile zugeordnet werden.  
+Beispiel 2: Eine «Hygienemassnahme» könnte im Rahmen des Pflegeinterventionsprofils 2.1 der Leistungsgruppe 2 «Körperpflege» oder im Rahmen des Pflegeinterventionsprofils 3.1 der Leistungsgruppe 3 «Ausscheidung» geleistet werden. Wenn die Aktivität unter der Leistungsgruppe 2 erfasst wird, darf sie nicht zusätzlich bei der Leistungsgruppe 3 erfasst werden, oder umgekehrt. Die Aktivität darf nur einem der zwei Pflegeinterventionsprofile zugeordnet werden.
+</font>
 {{</markdown>}}
 {{</article>}}
 
