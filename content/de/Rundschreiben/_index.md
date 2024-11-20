@@ -184,7 +184,8 @@ Beispiel: Unter 99.A6.- «Neurologische Komplexdiagnostik» wird im «Beachte» 
   
 {{<indent level="4">}}
 Beachte: […]  
-mind. 3 der folgenden Massnahmen:  
+{{<indent level="6">}}
+mind. 3 der folgenden Massnahmen:
 - LP (Liquorentnahme über Lumbalpunktion),  
 - craniale und spinale MRI,  
 - funktionelle Bildgebung (z. B. PET, SPECT),  
@@ -194,6 +195,7 @@ mind. 3 der folgenden Massnahmen:
 - neurosonologische/psychologische/psychiatrische Diagnostik,  
 - neuropsychologische Diagnostik,  
 - Elektroenzephalographie [EEG] (mobiles Langzeit-EEG über mindestens 24 Stunden oder mehr und polygraphisches Nachtschlaf-EEG und video- und radiotelemetriertes elektroenzephalographi-schem Monitoring über mindestens 4 Stunden und Orthostase-EEG)  
+{{</indent>}}
 {{</indent>}}
 
 Wird dreimal ein EEG durchgeführt ohne zwei weitere der aufgelisteten Massnahmen sind die Mindestmerkmale nicht erfüllt und ein Kode der Subkategorie 99.A6.- kann nicht erfasst werden.  
