@@ -177,6 +177,34 @@ Beispiel 2: Eine «Hygienemassnahme» könnte im Rahmen des Pflegeinterventionsp
 {{</markdown>}}
 {{</article>}}
 
+{{<article number="0761"  date="01.07.2024" title="Auflistung von Massnahmen in den Komplexbehandlungen oder Komplexdiagnostiken
+" collapsibleClass="d-inline-block">}}
+{{<markdown>}}
+In den Beachte zu den Komplexbehandlungen oder Komplexdiagnostiken angegebene Auflistungen, die auf Sätze folgen im Sinne von «Einsatz von mindestens x Therapiebereichen» oder «Mindestens x der folgenden Massnahmen», bedeuten, dass mindestens x verschiedene der aufgelisteten Therapiebereiche oder Massnahmen zum Einsatz kommen. Der Einsatz / die Durchführung von x-mal der gleichen Massnahme / des gleichen Therapiebereichs erfüllt die Mindestanforderungen nicht.
+Beispiel: Unter 99.A6.- «Neurologische Komplexdiagnostik» wird im «Beachte» folgende Auflistung aufgeführt:  
+  
+{{<indent level="4">}}
+Beachte: […]  
+mind. 3 der folgenden Massnahmen:  
+- LP (Liquorentnahme über Lumbalpunktion),  
+- craniale und spinale MRI,  
+- funktionelle Bildgebung (z. B. PET, SPECT),  
+- Diffusion Imaging, Perfusion Imaging  
+- volumetrische und morphometrische Bildanalyse,  
+- elektrophysiologische (neurophysiologische) Diagnostik,  
+- neurosonologische/psychologische/psychiatrische Diagnostik,  
+- neuropsychologische Diagnostik,  
+- Elektroenzephalographie [EEG] (mobiles Langzeit-EEG über mindestens 24 Stunden oder mehr und polygraphisches Nachtschlaf-EEG und video- und radiotelemetriertes elektroenzephalographi-schem Monitoring über mindestens 4 Stunden und Orthostase-EEG)  
+{{</indent>}}
+
+Wird dreimal ein EEG durchgeführt ohne zwei weitere der aufgelisteten Massnahmen sind die Mindestmerkmale nicht erfüllt und ein Kode der Subkategorie 99.A6.- kann nicht erfasst werden.  
+Werden hingegen ein craniales MRI, eine neurophysiologische Diagnostik sowie ein mobiles Langzeit-EEG über mindestens 24 Stunden durchgeführt mit Erfüllen der anderen Mindestmerkmale, kann ein Kode der Subkategorie 99.A6.- erfasst werden.
+
+
+{{</markdown>}}
+{{</article>}}
+
+
 
 
 - <font color="green">0756</font><b>"   01.07.2024   "</b><b>«Exklusivum – Kode weglassen» bei Komplexbehandlungen</b>  
