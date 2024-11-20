@@ -205,9 +205,43 @@ Werden hingegen ein craniales MRI, eine neurophysiologische Diagnostik sowie ein
 {{</markdown>}}
 {{</article>}}
 
+{{<article number="0762"  date="01.07.2024" title="Berücksichtigte Therapiedauer" collapsibleClass="d-inline-block">}}
+{{<markdown>}}
+Bei einer Gruppentherapie ist die gesamte Therapiedauer zu zählen, an der die Patientin / der Patient anwesend ist. Z. B. wenn fünf Patient/innen an einer Stunde Gruppentherapie teilgenommen haben, werden bei jeder Patientin/jedem Patienten 60 Minuten Thera-piedauer angerechnet.  
+Wird bei einer Gruppen- oder Einzeltherapie die gleiche Therapieart / Therapieleistung durch zwei oder mehr Therapeuten / Pflege-fachpersonen erbracht, ist die erbrachte Therapiezeit einmal zu zählen. Es gilt unabhängig von der Anzahl der Therapeuten, die Therapiezeit am/an den Patienten.  
+Ausnahme: Es bestehen CHOP-Kodes, bei denen im Beachte angegeben ist, dass die gleiche Therapieart / Therapieleistung, die durch zwei oder mehr Therapeutinnen / Therapeuten / Pflegefachpersonen erbracht wird, die Zeit pro Therapeutin / Therapeut / Pfle-gefachperson zu zählen ist.
+{{</markdown>}}
+{{</article>}}
+
+{{<article number="0763"  date="01.07.2024" title="Präzisierung zur Anwendung des Messinstrumentes FIM™" collapsibleClass="d-inline-block">}}
+{{<markdown>}}
+Die Präzisierung 0763 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersatzlos gestrichen.
+{{</markdown>}}
+{{</article>}}
 
 
 
+{{<article number="0764"  date="01.07.2024" title="Berechnung der Aufenthaltstage bei Anwendung des CHOP-Kodes 93.59.5- «Komplexbehand-lung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»" collapsibleClass="d-inline-block">}}
+{{<markdown>}}
+Die Präzisierung 0764 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersetzt durch die Präzisierung 0758.
+{{</markdown>}}
+{{</article>}}
+
+
+
+{{<article number="0765"  date="01.07.2024" title="Alleiniger Schaft- oder Kopfwechsel bei einer (inversen) Schultergelenk-Endoprothese" collapsibleClass="d-inline-block">}}
+{{<markdown>}}
+In der CHOP gibt es keine spezifischen Kodes für den Schaftwechsel bei einer inversen Schultergelenk-Endoprothese. Bis zur Bil-dung von spezifischen Kodes sind für das Entfernen des Schafts der Kode 80.01.09 «Arthrotomie zur Prothesenentfernung an der Schulter, sonstige» und für die Implantation (bei einem Wechsel) der Kode 81.81.35 «Implantation Inlay, Kopf sowie Schaft, Totalen-doprothese Schultergelenk, bei Wechsel von Komponenten» zu erfassen.  
+Bei einem alleinigen Wechsel vom Prothesenkopf sind die CHOP-Kodes 80.01.09 «Arthrotomie zur Prothesenentfernung an der Schulter, sonstige» + 81.81.34 «Implantation Inlay sowie Kopf, Totalendoprothese Schultergelenk, bei Wechsel von Komponenten» zu verwenden.
+{{</markdown>}}
+{{</article>}}
+  
+  
+  
+  
+  
+  
+  
 - <font color="green">0756</font><b>"   01.07.2024   "</b><b>«Exklusivum – Kode weglassen» bei Komplexbehandlungen</b>  
 {{<collapsibleBlock groupId="RS2024_2" customCollapsedText="Regelung öffnen" customExpandedText="Regelung schliessen">}}
 
