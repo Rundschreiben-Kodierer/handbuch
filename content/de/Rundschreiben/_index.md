@@ -16,9 +16,9 @@ Z. B.:
 {{</markdown>}}
 {{<indent level="5">}}
 {{<markdown>}}
-0999 (Nummer) 01.01.2012 (gültig seit/ab)
-0998 01.01.2012
-[...]
+0999 (Nummer) 01.01.2012 (gültig seit/ab)  
+0998 01.01.2012  
+[...]  
 0852 01.07.2017 usw
 {{</markdown>}}
 {{</indent>}}
