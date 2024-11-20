@@ -14,12 +14,11 @@ Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Lö
 Die «Informationen und Präzisierungen» sind aufsteigend aufgelistet, wobei die neuesten oder aktualisierten Informationen die tiefste Nummer tragen.  
 Z. B.: 
 {{<indent level="5">}}
-{{<markdown>}}
+
 0999 (Nummer) 01.01.2012 (gültig seit/ab)
 0998 01.01.2012
 [...]
 0852 01.07.2017 usw
-{{</markdown>}}
 {{</indent>}}
 
 {{<article number="0756" date="01.07.2024" title="«Exklusivum – Kode weglassen» bei Komplexbehandlungen" collapsibleClass="d-inline-block">}}
