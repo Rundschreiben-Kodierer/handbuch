@@ -23,3 +23,11 @@ Z. B.:{{</markdown>}} {{<indent level="5">}}{{<markdown>}}
 <a id="0758"></a>
 {{<article number="0758" date="01.07.2024" title="93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»" collapsibleClass="d-inline-block" >}}
 {{</article>}}
+
+<a id="0758/1"></a>
+{{<article number="0758/1" title="Berechnung der Aufenthaltstage für Kodes der Elementegruppe 93.59.5-" collapsibleClass="d-inline-block" >}}
+{{<markdown>}}
+Zur Berechnung der Behandlungstage unter den CHOP-Kodes 93.59.50 bis 93.59.53 «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage» darf bei Erfüllung der Mindestmerkmale der Eintritts- sowie Austrittstag nur als ein Behandlungstag angerechnet werden.
+{{</markdown>}}
+{{</article>}}
+
