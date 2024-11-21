@@ -20,8 +20,13 @@ Z. B.:{{</markdown>}} {{<indent level="5">}}{{<markdown>}}
 {{</markdown>}}
 {{</indent>}}
 
+
+
+{{<collapsibleGroupCommand groupId="RS2024_2">}}
+
+
 <a id="0756"></a>
-{{<article number="0756" date="01.07.2024" title="«Exklusivum – Kode weglassen» bei Komplexbehandlungen" collapsibleClass="d-inline-block" >}}
+{{<article number="0756" date="01.07.2024" title="«Exklusivum – Kode weglassen» bei Komplexbehandlungen" collapsibleClass="d-inline-block" collapsibleBlock groupId="RS2024_2">}}
 {{<markdown>}}
 In der Einleitung der CHOP im Abschnitt «Technische Bemerkungen zur CHOP» - «Zusatzinformationen» steht
 […]  
