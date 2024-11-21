@@ -55,7 +55,7 @@ Folgende Präzisierungen betreffen die Elementgruppe 93.8A.2- «Palliativmedizin
 
 
 <a id="0757/1"></a>
-{{<article number="0757/1" date="          " title="Standardisiertes palliativmedizinisches Basisassessment" collapsibleClass="d-inline-block" groupId="RS2024_2" >}}
+{{<article number="0757/1" title="Standardisiertes palliativmedizinisches Basisassessment" collapsibleClass="d-inline-block" groupId="RS2024_2" >}}
 {{<markdown>}}
 93.8A.2-: Mindestmerkmal Punkt 2, Eintrittsabklärung, Assessment:  
 Durchführung eines standardisierten palliativmedizinischen Basisassessments (PBA). […]  
