@@ -20,6 +20,14 @@ Z. B.:{{</markdown>}} {{<indent level="5">}}{{<markdown>}}
 {{</markdown>}}
 {{</indent>}}
 
+<a id="0757/4"></a>
+{{<article class="green-text" number="0757/4" title="Fallzusammenführung und PBA" >}}
+{{<markdown>}}
+Bei einer Fallzusammenführung mit palliativmedizinischer Komplexbehandlung im ersten Fall ist nach der Rückkehr der Patientin / des Patienten das PBA zu aktualisieren (d.h. nicht, dass es vollständig erneut durchgeführt werden muss. Es kann auch nur doku-mentiert werden, dass die Werte des vorherigen PBAs weiter gelten.).
+{{</markdown>}}
+{{</article>}}
+
+
 <a id="0758"></a>
 {{<article number="0758" date="01.07.2024" title="93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»" collapsibleClass="d-inline-block" >}}
 {{</article>}}
