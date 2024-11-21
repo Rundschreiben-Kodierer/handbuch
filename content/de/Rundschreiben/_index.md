@@ -45,7 +45,7 @@ Beispiel: «Exklusiva – Kode weglassen» unter 93.8A.1- «Palliativmedizinisch
 
 
 <a id="0757"></a>
-{{<article number="0757" date="01.07.2024" title="Informationen und Präzisierungen zur Palliative Care" collapsibleClass="d-inline-block" >}}
+{{<article number="0757" date="01.07.2024" title="Informationen und Präzisierungen zur Palliative Care" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
 {{<markdown>}}
 Folgende Präzisierungen betreffen die Elementgruppe 93.8A.2- «Palliativmedizinische Komplexbehandlung, nach Anzahl Behand-lungstage» und die Subkategorie 93.8B.- «Spezialisierte Palliative Care».
 {{</markdown>}}
@@ -55,7 +55,7 @@ Folgende Präzisierungen betreffen die Elementgruppe 93.8A.2- «Palliativmedizin
 
 
 <a id="0757/1"></a>
-{{<article number="0757/1" date="          " title="Standardisiertes palliativmedizinisches Basisassessment" collapsibleClass="d-inline-block" >}}
+{{<article number="0757/1" date="          " title="Standardisiertes palliativmedizinisches Basisassessment" collapsibleClass="d-inline-block" groupId="RS2024_2" >}}
 {{<markdown>}}
 93.8A.2-: Mindestmerkmal Punkt 2, Eintrittsabklärung, Assessment:  
 Durchführung eines standardisierten palliativmedizinischen Basisassessments (PBA). […]  
@@ -71,7 +71,7 @@ Die alleinige Durchführung eines Assessmentinstrumentes (z. B. ESAS) zur Erfass
 {{</article>}}
 
 <a id="0757/2"></a>
-{{<article number="0757/2" title="Therapiebereiche" groupId="RS2024_2_757" >}}
+{{<article number="0757/2" title="Therapiebereiche" groupId="RS2024_2_757" groupId="RS2024_2">}}
 93.8A.2-: Mindestmerkmal Punkt 3, Behandlungsteam und Therapie:  
 {{<indent level="5">}}
 {{<markdown>}}
@@ -131,7 +131,7 @@ b) Ärztliche Leistung, Pflege sowie mindestens zwei der unter Mindestmerkmal Pu
 
 
 <a id="0757/3"></a>
-{{<article number="0757/3" title="Teambesprechung" collapsibleClass="d-inline-block" >}}
+{{<article number="0757/3" title="Teambesprechung" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
 {{<markdown>}}
 93.8A.2-: Mindestmerkmal Punkt 4, Therapieplanung und -kontrolle:
 {{<indent level="4">}}
@@ -152,7 +152,7 @@ Unter «interprofessionell» ist zu verstehen, dass im Minimum Arzt, Pflege und 
 
 
 <a id="0757/4"></a>
-{{<article class="green-text" number="0757/4" title="Fallzusammenführung und PBA" >}}
+{{<article class="green-text" number="0757/4" title="Fallzusammenführung und PBA" groupId="RS2024_2">}}
 {{<markdown>}}
 Bei einer Fallzusammenführung mit palliativmedizinischer Komplexbehandlung im ersten Fall ist nach der Rückkehr der Patientin / des Patienten das PBA zu aktualisieren (d.h. nicht, dass es vollständig erneut durchgeführt werden muss. Es kann auch nur doku-mentiert werden, dass die Werte des vorherigen PBAs weiter gelten.).
 {{</markdown>}}
