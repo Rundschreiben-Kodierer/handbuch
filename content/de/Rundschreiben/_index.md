@@ -21,7 +21,6 @@ Z. B.:{{</markdown>}} {{<indent level="5">}}{{<markdown>}}
 {{</indent>}}
 
 
-
 <a id="0756"></a>
 {{<article number="0756" date="01.07.2024" title="«Exklusivum – Kode weglassen» bei Komplexbehandlungen" collapsibleClass="d-inline-block"> }}
 {{<markdown>}}
@@ -38,4 +37,5 @@ Beispiel: «Exklusiva – Kode weglassen» zwischen 93.8A.2- «Palliativmedizini
 Diagnostische Verfahren, die Bedingung für die Komplexbehandlung sind bzw. Teil von dieser sind, werden nicht zusätzlich kodiert. Hier gibt das «Exklusivum – Kode weglassen» einen grundsätzlichen Ausschluss an. Ausnahme: «Kodiere ebenso» oder Angaben zur gesonderten Kodierung in den Mindestmerkmalen sind vorhanden.  
 Beispiel: «Exklusiva – Kode weglassen» unter 93.8A.1- «Palliativmedizinische Assessment», die auf 93.8A.2- und 93.8B.- verwei-sen. Wird eine palliativmedizinische Komplexbehandlung oder eine spezialisierte Palliative Care durchgeführt ist das palliativmedizi-nische Assessment nicht zusätzlich zu kodieren.{{</markdown>}}
 {{</article>}}
+{{</markdown>}}
 
