@@ -213,7 +213,7 @@ Ausnahme: Es bestehen CHOP-Kodes, bei denen im Beachte angegeben ist, dass die g
 {{</markdown>}}
 {{</article>}}
 
-{{<article number="0763"  date="01.07.2024" title="Präzisierung zur Anwendung des Messinstrumentes FIM™" collapsibleClass="d-inline-block">}}
+{{<article class="red" number="~~0763~~"  date="~~01.07.2024~~" title="~~Präzisierung zur Anwendung des Messinstrumentes FIM~~™" collapsibleClass="d-inline-block">}}
 {{<markdown>}}
 Die Präzisierung 0763 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersatzlos gestrichen.
 {{</markdown>}}
@@ -221,7 +221,7 @@ Die Präzisierung 0763 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersatzlos g
 
 
 
-{{<article number="0764"  date="01.07.2024" title="Berechnung der Aufenthaltstage bei Anwendung des CHOP-Kodes 93.59.5- «Komplexbehand-lung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»" collapsibleClass="d-inline-block">}}
+{{<article nclass="red" umber="0764"  date="01.07.2024" title="Berechnung der Aufenthaltstage bei Anwendung des CHOP-Kodes 93.59.5- «Komplexbehand-lung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»" collapsibleClass="d-inline-block">}}
 {{<markdown>}}
 Die Präzisierung 0764 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersetzt durch die Präzisierung 0758.
 {{</markdown>}}
