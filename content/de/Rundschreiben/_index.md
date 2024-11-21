@@ -152,7 +152,7 @@ Bei einer Fallzusammenführung mit palliativmedizinischer Komplexbehandlung im e
 
 
 <a id="0758"></a>
-{{<article number="0758" date="01.07.2024" title="93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<article number="0758" date="01.07.2024" title="93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»" collapsibleClass="d-inline-block" >}}
 {{</article>}}
 
 <a id="0758/1"></a>
@@ -181,7 +181,7 @@ Die Angabe der Lateralität ist nur bei paarigen Organen ein Muss (entsprechende
 {{</article>}}
 
 <a id="0760"></a>
-{{<article number="0760"  date="01.07.2024" title="Pflege-Komplexbehandlungen – Zuordnung einer Pflegeintervention nur zu einer Leistungs-gruppe" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<article number="0760"  date="01.07.2024" title="Pflege-Komplexbehandlungen – Zuordnung einer Pflegeintervention nur zu einer Leistungs-gruppe" collapsibleClass="d-inline-block" >}}
 {{<markdown>}}
 Pflegeinterventionen könnten theoretisch mehreren Leistungsgruppen zugeordnet werden. In der Pflege-Komplexbehandlung darf eine geleistete Pflegeintervention jedoch nur einer Leistungsgruppe zugeordnet werden. Dies bedeutet nicht, dass sie zwingend der Leistungsgruppe zugeordnet wird in der bereits Aufwandspunkte für diesen Tag erfasst wurden.
   
@@ -248,7 +248,7 @@ Die Präzisierung 0764 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersetzt dur
 
 
 <a id="0765"></a>
-{{<article number="0765"  date="01.07.2024" title="Alleiniger Schaft- oder Kopfwechsel bei einer (inversen) Schultergelenk-Endoprothese" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<article number="0765"  date="01.07.2024" title="Alleiniger Schaft- oder Kopfwechsel bei einer (inversen) Schultergelenk-Endoprothese" collapsibleClass="d-inline-block" >}}
 {{<markdown>}}
 In der CHOP gibt es keine spezifischen Kodes für den Schaftwechsel bei einer inversen Schultergelenk-Endoprothese. Bis zur Bil-dung von spezifischen Kodes sind für das Entfernen des Schafts der Kode 80.01.09 «Arthrotomie zur Prothesenentfernung an der Schulter, sonstige» und für die Implantation (bei einem Wechsel) der Kode 81.81.35 «Implantation Inlay, Kopf sowie Schaft, Totalen-doprothese Schultergelenk, bei Wechsel von Komponenten» zu erfassen.  
 Bei einem alleinigen Wechsel vom Prothesenkopf sind die CHOP-Kodes 80.01.09 «Arthrotomie zur Prothesenentfernung an der Schulter, sonstige» + 81.81.34 «Implantation Inlay sowie Kopf, Totalendoprothese Schultergelenk, bei Wechsel von Komponenten» zu verwenden.
