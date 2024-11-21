@@ -142,7 +142,7 @@ Bei einer Fallzusammenführung mit palliativmedizinischer Komplexbehandlung im e
 {{</article>}}
 
 
-id="0758"
+## "0758"
 
 
 {{<article number="0758" date="01.07.2024" title="93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»" collapsibleClass="d-inline-block">}}
