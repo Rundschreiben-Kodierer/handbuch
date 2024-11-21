@@ -20,12 +20,6 @@ Z. B.:{{</markdown>}} {{<indent level="5">}}{{<markdown>}}
 {{</markdown>}}
 {{</indent>}}
 
-
-<a id="0757"></a>
-{{<article number="0757" date="01.07.2024" title="Informationen und Präzisierungen zur Palliative Care" collapsibleClass="d-inline-block" >>}}
-{{<markdown>}}
-Folgende Präzisierungen betreffen die Elementgruppe 93.8A.2- «Palliativmedizinische Komplexbehandlung, nach Anzahl Behand-lungstage» und die Subkategorie 93.8B.- «Spezialisierte Palliative Care».
-{{</markdown>}}
+<a id="0758"></a>
+{{<article number="0758" date="01.07.2024" title="93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»" collapsibleClass="d-inline-block" >}}
 {{</article>}}
-
-
