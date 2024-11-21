@@ -160,18 +160,18 @@ Bei einer Fallzusammenführung mit palliativmedizinischer Komplexbehandlung im e
 
 
 <a id="0758"></a>
-{{<article number="0758" date="01.07.2024" title="93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»" collapsibleClass="d-inline-block" >}}
+{{<article number="0758" date="01.07.2024" title="93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
 {{</article>}}
 
 <a id="0758/1"></a>
-{{<article number="0758/1" title="Berechnung der Aufenthaltstage für Kodes der Elementegruppe 93.59.5-" collapsibleClass="d-inline-block" >}}
+{{<article number="0758/1" title="Berechnung der Aufenthaltstage für Kodes der Elementegruppe 93.59.5-" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
 {{<markdown>}}
 Zur Berechnung der Behandlungstage unter den CHOP-Kodes 93.59.50 bis 93.59.53 «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage» darf bei Erfüllung der Mindestmerkmale der Eintritts- sowie Austrittstag nur als ein Behandlungstag angerechnet werden.
 {{</markdown>}}
 {{</article>}}
 
 <a id="0758/2"></a>
-{{<article number="0758/2" title="Abgrenzung 93.59.5- und 99.84.1-, 99.84.2-, 99.84.3-" collapsibleClass="d-inline-block" >}}
+{{<article number="0758/2" title="Abgrenzung 93.59.5- und 99.84.1-, 99.84.2-, 99.84.3-" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
 {{<markdown>}}
 Unter den Elementegruppen 99.84.1- «Kontaktisolierung, nach Anzahl Behandlungstage», 99.84.2- «Tröpfchenisolierung, […]» und 99.84.3- «Aerosolisolierung, […]» ist folgendes «Exklusivum – Kode weglassen» angegeben:
 {{<indent level="4">}}
@@ -182,14 +182,14 @@ Dies bedeutet, dass die zeitgleiche Kodierung von 93.59.5- und 99.84.1-, 99.84.2
 {{</article>}}
 
 <a id="0759"></a>
-{{<article number="0759"  date="01.07.2024" title="Lateralitätsmarkierung" collapsibleClass="d-inline-block" >}}
+{{<article number="0759"  date="01.07.2024" title="Lateralitätsmarkierung" collapsibleClass="d-inline-block" groupId="RS2024_2" >}}
 {{<markdown>}}
 Die Angabe der Lateralität ist nur bei paarigen Organen ein Muss (entsprechende Kennzeichnung in der CHOP mit «[L]» in der PDF-Datei oder «Lateral» in der CSV-Datei). Bei nicht paarigen Organen oder Körperteilen «kann» die Lateralität erfasst werden, «muss» aber nicht.
 {{</markdown>}}
 {{</article>}}
 
 <a id="0760"></a>
-{{<article number="0760"  date="01.07.2024" title="Pflege-Komplexbehandlungen – Zuordnung einer Pflegeintervention nur zu einer Leistungs-gruppe" collapsibleClass="d-inline-block" >}}
+{{<article number="0760"  date="01.07.2024" title="Pflege-Komplexbehandlungen – Zuordnung einer Pflegeintervention nur zu einer Leistungs-gruppe" collapsibleClass="d-inline-block"groupId="RS2024_2" >}}
 {{<markdown>}}
 Pflegeinterventionen könnten theoretisch mehreren Leistungsgruppen zugeordnet werden. In der Pflege-Komplexbehandlung darf eine geleistete Pflegeintervention jedoch nur einer Leistungsgruppe zugeordnet werden. Dies bedeutet nicht, dass sie zwingend der Leistungsgruppe zugeordnet wird in der bereits Aufwandspunkte für diesen Tag erfasst wurden.
   
@@ -201,7 +201,7 @@ Beispiel 2: Eine «Hygienemassnahme» könnte im Rahmen des Pflegeinterventionsp
 {{</article>}}
 
 <a id="0761"></a>
-{{<article number="0761"  date="01.07.2024" title="Auflistung von Massnahmen in den Komplexbehandlungen oder Komplexdiagnostiken" collapsibleClass="d-inline-block" >}}
+{{<article number="0761"  date="01.07.2024" title="Auflistung von Massnahmen in den Komplexbehandlungen oder Komplexdiagnostiken" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
 {{<markdown>}}
 In den Beachte zu den Komplexbehandlungen oder Komplexdiagnostiken angegebene Auflistungen, die auf Sätze folgen im Sinne von «Einsatz von mindestens x Therapiebereichen» oder «Mindestens x der folgenden Massnahmen», bedeuten, dass mindestens x verschiedene der aufgelisteten Therapiebereiche oder Massnahmen zum Einsatz kommen. Der Einsatz / die Durchführung von x-mal der gleichen Massnahme / des gleichen Therapiebereichs erfüllt die Mindestanforderungen nicht.
 Beispiel: Unter 99.A6.- «Neurologische Komplexdiagnostik» wird im «Beachte» folgende Auflistung aufgeführt:  
@@ -229,7 +229,7 @@ Werden hingegen ein craniales MRI, eine neurophysiologische Diagnostik sowie ein
 {{</markdown>}}
 {{</article>}}
 
-{{<article number="0762"  date="01.07.2024" title="Berücksichtigte Therapiedauer" collapsibleClass="d-inline-block" >}}
+{{<article number="0762"  date="01.07.2024" title="Berücksichtigte Therapiedauer" collapsibleClass="d-inline-block" groupId="RS2024_2" >}}
 {{<markdown>}}
 Bei einer Gruppentherapie ist die gesamte Therapiedauer zu zählen, an der die Patientin / der Patient anwesend ist. Z. B. wenn fünf Patient/innen an einer Stunde Gruppentherapie teilgenommen haben, werden bei jeder Patientin/jedem Patienten 60 Minuten Thera-piedauer angerechnet.  
 Wird bei einer Gruppen- oder Einzeltherapie die gleiche Therapieart / Therapieleistung durch zwei oder mehr Therapeuten / Pflege-fachpersonen erbracht, ist die erbrachte Therapiezeit einmal zu zählen. Es gilt unabhängig von der Anzahl der Therapeuten, die Therapiezeit am/an den Patienten.  
@@ -238,7 +238,7 @@ Ausnahme: Es bestehen CHOP-Kodes, bei denen im Beachte angegeben ist, dass die g
 {{</article>}}
 
 <a id="0763"></a>
-{{<article class="red" number="~~0763~~"  date="~~01.07.2024~~" title="~~Präzisierung zur Anwendung des Messinstrumentes FIM~~™" collapsibleClass="d-inline-block" >}}
+{{<article class="red" number="~~0763~~"  date="~~01.07.2024~~" title="~~Präzisierung zur Anwendung des Messinstrumentes FIM~~™" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
 {{<markdown>}}
 Die Präzisierung 0763 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersatzlos gestrichen.
 {{</markdown>}}
@@ -246,7 +246,7 @@ Die Präzisierung 0763 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersatzlos g
 
 
 <a id="0764"></a>
-{{<article class="red" number="0764"  date="01.07.2024" title="Berechnung der Aufenthaltstage bei Anwendung des CHOP-Kodes 93.59.5- «Komplexbehand-lung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»" collapsibleClass="d-inline-block" >}}
+{{<article class="red" number="0764"  date="01.07.2024" title="Berechnung der Aufenthaltstage bei Anwendung des CHOP-Kodes 93.59.5- «Komplexbehand-lung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
 {{<markdown>}}
 Die Präzisierung 0764 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersetzt durch die Präzisierung <a href="#0758">0758</a>
 
@@ -256,7 +256,7 @@ Die Präzisierung 0764 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersetzt dur
 
 
 <a id="0765"></a>
-{{<article number="0765"  date="01.07.2024" title="Alleiniger Schaft- oder Kopfwechsel bei einer (inversen) Schultergelenk-Endoprothese" collapsibleClass="d-inline-block" >}}
+{{<article number="0765"  date="01.07.2024" title="Alleiniger Schaft- oder Kopfwechsel bei einer (inversen) Schultergelenk-Endoprothese" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
 {{<markdown>}}
 In der CHOP gibt es keine spezifischen Kodes für den Schaftwechsel bei einer inversen Schultergelenk-Endoprothese. Bis zur Bil-dung von spezifischen Kodes sind für das Entfernen des Schafts der Kode 80.01.09 «Arthrotomie zur Prothesenentfernung an der Schulter, sonstige» und für die Implantation (bei einem Wechsel) der Kode 81.81.35 «Implantation Inlay, Kopf sowie Schaft, Totalen-doprothese Schultergelenk, bei Wechsel von Komponenten» zu erfassen.  
 Bei einem alleinigen Wechsel vom Prothesenkopf sind die CHOP-Kodes 80.01.09 «Arthrotomie zur Prothesenentfernung an der Schulter, sonstige» + 81.81.34 «Implantation Inlay sowie Kopf, Totalendoprothese Schultergelenk, bei Wechsel von Komponenten» zu verwenden.
