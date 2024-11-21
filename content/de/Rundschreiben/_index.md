@@ -255,8 +255,9 @@ Bei einem alleinigen Wechsel vom Prothesenkopf sind die CHOP-Kodes 80.01.09 «Ar
   
   
   
+ 
   
-  
+{{<collapsibleGroupCommand groupId="RS2024_2">}}
   
   
 - <font color="green">0756</font><b>"   01.07.2024   "</b><b>«Exklusivum – Kode weglassen» bei Komplexbehandlungen</b>  
