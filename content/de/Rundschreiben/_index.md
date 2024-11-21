@@ -20,6 +20,31 @@ Z. B.:{{</markdown>}} {{<indent level="5">}}{{<markdown>}}
 {{</markdown>}}
 {{</indent>}}
 
+<a id="0756"></a>
+{{<article number="0756" date="01.07.2024" title="«Exklusivum – Kode weglassen» bei Komplexbehandlungen" collapsibleClass="d-inline-block"> }}
+{{<markdown>}}
+In der Einleitung der CHOP im Abschnitt «Technische Bemerkungen zur CHOP» - «Zusatzinformationen» steht
+[…]  
+Ein «Exklusivum - Kode weglassen» hingegen, schliesst die gemeinsame Kodierung von zwei Kodes zum Zeitpunkt X für die Lokali-sation Y aus.  
+Beispiel: Da eine Rektumresektion bereits Teil einer totalen Proktokolektomie ist, wird unter der 3-stelligen Kategorie 48.6- «Sons-tige Rektumresektion» ein «Exklusivum - Kode weglassen» aufgeführt: EXKL. «Kode weglassen - Kolektomie und Proktokolektomie (45.8-)».  
+[…]  
+  
+Für Komplexbehandlungen ist zu ergänzen:  
+Besteht ein «Exklusivum – Kode weglassen» zwischen zwei Komplexbehandlungen, so ist die zeitgleiche Kodierung beider Kom-plexbehandlungen nicht erlaubt. Erfolgen die zwei Komplexbehandlungen zeitlich versetzt, können beide Komplexbehandlungen erfasst werden.  
+Beispiel: «Exklusiva – Kode weglassen» zwischen 93.8A.2- «Palliativmedizinische Komplexbehandlung, nach Anzahl Behandlungs-tage» und 93.8B.- «Spezialisierte Palliative Care». Wird eine spezialisierte Palliative Care während zwei Wochen durchgeführt, darf nicht gleichzeitig in diesen zwei Wochen eine palliativmedizinische Komplexbehandlung erfasst werden.  
+  
+Diagnostische Verfahren, die Bedingung für die Komplexbehandlung sind bzw. Teil von dieser sind, werden nicht zusätzlich kodiert. Hier gibt das «Exklusivum – Kode weglassen» einen grundsätzlichen Ausschluss an. Ausnahme: «Kodiere ebenso» oder Angaben zur gesonderten Kodierung in den Mindestmerkmalen sind vorhanden.  
+Beispiel: «Exklusiva – Kode weglassen» unter 93.8A.1- «Palliativmedizinische Assessment», die auf 93.8A.2- und 93.8B.- verwei-sen. Wird eine palliativmedizinische Komplexbehandlung oder eine spezialisierte Palliative Care durchgeführt ist das palliativmedizi-nische Assessment nicht zusätzlich zu kodieren.{{</markdown>}}
+{{</article>}}
+{{</markdown>}}
+
+<a id="0757"></a>
+{{<article number="0757" date="01.07.2024" title="Informationen und Präzisierungen zur Palliative Care" collapsibleClass="d-inline-block" >>}}
+{{<markdown>}}
+Folgende Präzisierungen betreffen die Elementgruppe 93.8A.2- «Palliativmedizinische Komplexbehandlung, nach Anzahl Behand-lungstage» und die Subkategorie 93.8B.- «Spezialisierte Palliative Care».
+{{</markdown>}}
+{{</article>}}
+
 
 <a id="0757/1"></a>
 {{<article number="0757/1" date="          " title="Standardisiertes palliativmedizinisches Basisassessment" collapsibleClass="d-inline-block" >}}
