@@ -141,6 +141,8 @@ Bei einer Fallzusammenführung mit palliativmedizinischer Komplexbehandlung im e
 {{</markdown>}}
 {{</article>}}
 
+<h2 id="0758">La cuisine</h2>
+
 {{<article number="0758" date="01.07.2024" title="93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»" collapsibleClass="d-inline-block">}}
 {{</article>}}
 
@@ -223,6 +225,10 @@ Die Präzisierung 0763 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersatzlos g
 {{<article class="red" number="0764"  date="01.07.2024" title="Berechnung der Aufenthaltstage bei Anwendung des CHOP-Kodes 93.59.5- «Komplexbehand-lung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»" collapsibleClass="d-inline-block">}}
 {{<markdown>}}
 Die Präzisierung 0764 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersetzt durch die Präzisierung 0758.
+<p>
+    <a href="#0758">0758</a><br>
+</p>
+
 {{</markdown>}}
 {{</article>}}
 
