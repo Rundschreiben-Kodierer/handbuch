@@ -21,6 +21,7 @@ Z. B.:{{</markdown>}} {{<indent level="5">}}{{<markdown>}}
 {{</indent>}}
 
 
+{{<collapsibleGroupCommand groupId="RS2024_2">}}
 
 
 <a id="0756"></a>
