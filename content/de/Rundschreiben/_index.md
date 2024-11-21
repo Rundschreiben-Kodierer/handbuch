@@ -20,6 +20,7 @@ Z. B.:{{</markdown>}} {{<indent level="5">}}{{<markdown>}}
 {{</markdown>}}
 {{</indent>}}
 
+<a id="0756"></a>
 {{<article number="0756" date="01.07.2024" title="«Exklusivum – Kode weglassen» bei Komplexbehandlungen" collapsibleClass="d-inline-block">}}
 {{<markdown>}}
 In der Einleitung der CHOP im Abschnitt «Technische Bemerkungen zur CHOP» - «Zusatzinformationen» steht
@@ -36,12 +37,14 @@ Diagnostische Verfahren, die Bedingung für die Komplexbehandlung sind bzw. Teil
 Beispiel: «Exklusiva – Kode weglassen» unter 93.8A.1- «Palliativmedizinische Assessment», die auf 93.8A.2- und 93.8B.- verwei-sen. Wird eine palliativmedizinische Komplexbehandlung oder eine spezialisierte Palliative Care durchgeführt ist das palliativmedizi-nische Assessment nicht zusätzlich zu kodieren.{{</markdown>}}
 {{</article>}}
 
+<a id="0757"></a>
 {{<article number="0757" date="01.07.2024" title="Informationen und Präzisierungen zur Palliative Care" collapsibleClass="d-inline-block">}}
 {{<markdown>}}
 Folgende Präzisierungen betreffen die Elementgruppe 93.8A.2- «Palliativmedizinische Komplexbehandlung, nach Anzahl Behand-lungstage» und die Subkategorie 93.8B.- «Spezialisierte Palliative Care».
 {{</markdown>}}
 {{</article>}}
 
+<a id="0757/1"></a>
 {{<article number="0757/1" date="          " title="Standardisiertes palliativmedizinisches Basisassessment" collapsibleClass="d-inline-block">}}
 {{<markdown>}}
 93.8A.2-: Mindestmerkmal Punkt 2, Eintrittsabklärung, Assessment:  
@@ -57,6 +60,7 @@ Die alleinige Durchführung eines Assessmentinstrumentes (z. B. ESAS) zur Erfass
 {{</markdown>}}
 {{</article>}}
 
+<a id="0757/2"></a>
 {{<article number="0757/2" title="Therapiebereiche" groupId="RS2024_2_757">}}
 93.8A.2-: Mindestmerkmal Punkt 3, Behandlungsteam und Therapie:  
 {{<indent level="5">}}
@@ -115,6 +119,7 @@ b) Ärztliche Leistung, Pflege sowie mindestens zwei der unter Mindestmerkmal Pu
 {{</indent>}}
 {{</article>}}
 
+<a id="0757/3"></a>
 {{<article number="0757/3" title="Teambesprechung" collapsibleClass="d-inline-block">}}
 {{<markdown>}}
 93.8A.2-: Mindestmerkmal Punkt 4, Therapieplanung und -kontrolle:
@@ -135,6 +140,7 @@ Unter «interprofessionell» ist zu verstehen, dass im Minimum Arzt, Pflege und 
 {{</article>}}
 
 
+<a id="0757/4"></a>
 {{<article class="green-text" number="0757/4" title="Fallzusammenführung und PBA">}}
 {{<markdown>}}
 Bei einer Fallzusammenführung mit palliativmedizinischer Komplexbehandlung im ersten Fall ist nach der Rückkehr der Patientin / des Patienten das PBA zu aktualisieren (d.h. nicht, dass es vollständig erneut durchgeführt werden muss. Es kann auch nur doku-mentiert werden, dass die Werte des vorherigen PBAs weiter gelten.).
@@ -143,12 +149,10 @@ Bei einer Fallzusammenführung mit palliativmedizinischer Komplexbehandlung im e
 
 
 <a id="0758"></a>
-
 {{<article number="0758" date="01.07.2024" title="93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»" collapsibleClass="d-inline-block">}}
 {{</article>}}
 
 <a id="0758/1"></a>
-
 {{<article number="0758/1" title="Berechnung der Aufenthaltstage für Kodes der Elementegruppe 93.59.5-" collapsibleClass="d-inline-block">}}
 {{<markdown>}}
 Zur Berechnung der Behandlungstage unter den CHOP-Kodes 93.59.50 bis 93.59.53 «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage» darf bei Erfüllung der Mindestmerkmale der Eintritts- sowie Austrittstag nur als ein Behandlungstag angerechnet werden.
@@ -167,13 +171,13 @@ Dies bedeutet, dass die zeitgleiche Kodierung von 93.59.5- und 99.84.1-, 99.84.2
 {{</article>}}
 
 <a id="0759"></a>
-
 {{<article number="0759"  date="01.07.2024" title="Lateralitätsmarkierung" collapsibleClass="d-inline-block">}}
 {{<markdown>}}
 Die Angabe der Lateralität ist nur bei paarigen Organen ein Muss (entsprechende Kennzeichnung in der CHOP mit «[L]» in der PDF-Datei oder «Lateral» in der CSV-Datei). Bei nicht paarigen Organen oder Körperteilen «kann» die Lateralität erfasst werden, «muss» aber nicht.
 {{</markdown>}}
 {{</article>}}
 
+<a id="0760"></a>
 {{<article number="0760"  date="01.07.2024" title="Pflege-Komplexbehandlungen – Zuordnung einer Pflegeintervention nur zu einer Leistungs-gruppe" collapsibleClass="d-inline-block">}}
 {{<markdown>}}
 Pflegeinterventionen könnten theoretisch mehreren Leistungsgruppen zugeordnet werden. In der Pflege-Komplexbehandlung darf eine geleistete Pflegeintervention jedoch nur einer Leistungsgruppe zugeordnet werden. Dies bedeutet nicht, dass sie zwingend der Leistungsgruppe zugeordnet wird in der bereits Aufwandspunkte für diesen Tag erfasst wurden.
@@ -185,6 +189,7 @@ Beispiel 2: Eine «Hygienemassnahme» könnte im Rahmen des Pflegeinterventionsp
 {{</markdown>}}
 {{</article>}}
 
+<a id="0761"></a>
 {{<article number="0761"  date="01.07.2024" title="Auflistung von Massnahmen in den Komplexbehandlungen oder Komplexdiagnostiken" collapsibleClass="d-inline-block">}}
 {{<markdown>}}
 In den Beachte zu den Komplexbehandlungen oder Komplexdiagnostiken angegebene Auflistungen, die auf Sätze folgen im Sinne von «Einsatz von mindestens x Therapiebereichen» oder «Mindestens x der folgenden Massnahmen», bedeuten, dass mindestens x verschiedene der aufgelisteten Therapiebereiche oder Massnahmen zum Einsatz kommen. Der Einsatz / die Durchführung von x-mal der gleichen Massnahme / des gleichen Therapiebereichs erfüllt die Mindestanforderungen nicht.
@@ -221,6 +226,7 @@ Ausnahme: Es bestehen CHOP-Kodes, bei denen im Beachte angegeben ist, dass die g
 {{</markdown>}}
 {{</article>}}
 
+<a id="0763"></a>
 {{<article class="red" number="~~0763~~"  date="~~01.07.2024~~" title="~~Präzisierung zur Anwendung des Messinstrumentes FIM~~™" collapsibleClass="d-inline-block">}}
 {{<markdown>}}
 Die Präzisierung 0763 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersatzlos gestrichen.
@@ -228,6 +234,7 @@ Die Präzisierung 0763 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersatzlos g
 {{</article>}}
 
 
+<a id="0764"></a>
 {{<article class="red" number="0764"  date="01.07.2024" title="Berechnung der Aufenthaltstage bei Anwendung des CHOP-Kodes 93.59.5- «Komplexbehand-lung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»" collapsibleClass="d-inline-block">}}
 {{<markdown>}}
 Die Präzisierung 0764 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersetzt durch die Präzisierung <a href="#0758">0758</a>
@@ -237,6 +244,7 @@ Die Präzisierung 0764 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersetzt dur
 
 
 
+<a id="0765"></a>
 {{<article number="0765"  date="01.07.2024" title="Alleiniger Schaft- oder Kopfwechsel bei einer (inversen) Schultergelenk-Endoprothese" collapsibleClass="d-inline-block">}}
 {{<markdown>}}
 In der CHOP gibt es keine spezifischen Kodes für den Schaftwechsel bei einer inversen Schultergelenk-Endoprothese. Bis zur Bil-dung von spezifischen Kodes sind für das Entfernen des Schafts der Kode 80.01.09 «Arthrotomie zur Prothesenentfernung an der Schulter, sonstige» und für die Implantation (bei einem Wechsel) der Kode 81.81.35 «Implantation Inlay, Kopf sowie Schaft, Totalen-doprothese Schultergelenk, bei Wechsel von Komponenten» zu erfassen.  
