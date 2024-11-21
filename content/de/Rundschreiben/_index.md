@@ -20,8 +20,11 @@ Z. B.:{{</markdown>}} {{<indent level="5">}}{{<markdown>}}
 {{</markdown>}}
 {{</indent>}}
 
+
+
+
 <a id="0756"></a>
-{{<article number="0756" date="01.07.2024" title="«Exklusivum – Kode weglassen» bei Komplexbehandlungen" collapsibleClass="d-inline-block">}}
+{{<article number="0756" date="01.07.2024" title="«Exklusivum – Kode weglassen» bei Komplexbehandlungen" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
 {{<markdown>}}
 In der Einleitung der CHOP im Abschnitt «Technische Bemerkungen zur CHOP» - «Zusatzinformationen» steht
 […]  
@@ -290,7 +293,7 @@ Beispiel: «Exklusiva – Kode weglassen» unter 93.8A.1- «Palliativmedizinisch
 - <font color="green">0757</font><b> 01.07.2024 </b>   <b>Informationen und Präzisierungen zur Palliative Care</b>  
 Folgende Präzisierungen betreffen die Elementgruppe 93.8A.2- «Palliativmedizinische Komplexbehandlung, nach Anzahl Behandlungstage» und die Subkategorie 93.8B.- «Spezialisierte Palliative Care».
 {{</markdown>}}
- {{<collapsibleGroupCommand groupId="RS2024_2_757">}}
+{{<collapsibleGroupCommand groupId="RS2024_2_757">}}
 
 {{<collapsibleBlock groupId="RS2024_2_757" customCollapsedText="0757/1 Standardisiertes palliativmedizinisches Basisassessment" customExpandedText="0757/1 Standardisiertes palliativmedizinisches Basisassessment">}}
 {{<markdown>}}
