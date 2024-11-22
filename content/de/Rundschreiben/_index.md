@@ -512,8 +512,7 @@ Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückfl
 <a id="0819"></a>
 {{<article number="0819"  date="01.07.2020" title="7A.A2 Growing rod – Zusatzkode – Segmente beim spezifischen Eingriff" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
 {{<markdown>}}
-Wird eine bestehende Knieendoprothese, unabhängig vom Typ, durch eine andere Knieendoprothese ersetzt, ist für die Implantation der Kode mit der Bezeichnung «bei einem Prothesenwechsel» zu wählen. Z. B. Explantation einer Hemiendoprothese und Implanta-tion einer Totalendoprothese am gleichen Knie: für die Implantation muss der Kode 81.54.31 «Implantation einer Standard-Totalen-doprothese des Kniegelenks bei einem Prothesenwechsel» erfasst werden und nicht der Kode 81.54.21 «Erstimplantation einer Standard-Totalendoprothese des Kniegelenks».  
-Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückflächenersatz eingesetzt, muss der Kode 81.54.42 «Implantation eines Patella-Rückflächenersatz bei einem Wechsel» erfasst werden und nicht der Kode 81.54.27 «Erstimplantation eines Patella-Rückflächenersatzes».
+Der Kode 7A.A2 «Implantation von mitwachsenden oder expandierenden Systemen, Wirbelsäule» ist ein Zusatzkode und kann da-her nicht alleine kodiert werden. Beim Eingriff handelt es sich um eine dynamische Stabilisierung der Wirbelsäule. Zur Zählung der behandelten Segmente werden nur die Segmente an denen das System befestigt wird berücksichtigt. 7A.72.12 «Dynamische Stabi-lisierung der Wirbelsäule, Zugang dorsal und dorsolateral, 2 Segmente» bildet den Eingriff ab.
 {{</markdown>}}
 {{</article>}}
 
@@ -522,8 +521,8 @@ Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückfl
 <a id="0820"></a>
 {{<article number="0820"  date="01.07.2020" title="Verwendung der Zusatzkodes U69.3-! «Sekundäre Schlüsselnummern für die Art des Konsums psychotroper Substanzen bei durch diese verursachten psychischen und Verhaltensstörungen»" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
 {{<markdown>}}
-Wird eine bestehende Knieendoprothese, unabhängig vom Typ, durch eine andere Knieendoprothese ersetzt, ist für die Implantation der Kode mit der Bezeichnung «bei einem Prothesenwechsel» zu wählen. Z. B. Explantation einer Hemiendoprothese und Implanta-tion einer Totalendoprothese am gleichen Knie: für die Implantation muss der Kode 81.54.31 «Implantation einer Standard-Totalen-doprothese des Kniegelenks bei einem Prothesenwechsel» erfasst werden und nicht der Kode 81.54.21 «Erstimplantation einer Standard-Totalendoprothese des Kniegelenks».  
-Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückflächenersatz eingesetzt, muss der Kode 81.54.42 «Implantation eines Patella-Rückflächenersatz bei einem Wechsel» erfasst werden und nicht der Kode 81.54.27 «Erstimplantation eines Patella-Rückflächenersatzes».
+Grundsätzlich sind die Hinweise bei den entsprechenden Schlüsselnummern F10 – F19 «Psychische und Verhaltensstörungen durch psychotrope Substanzen» in der ICD-10-GM zu beachten.  
+Ergänzend dazu wird der nichtintravenöse Konsum von Kokain mit dem Kode U69.36! «Nichtintravenöser Konsum sonstiger Stimu-lanzien, ausser Koffein» zusätzlich zum zutreffenden Kode aus F14.- «Psychische und Verhaltensstörungen durch Kokain» abgebil-det.
 {{</markdown>}}
 {{</article>}}
 
@@ -531,8 +530,7 @@ Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückfl
 <a id="0826"></a>
 {{<article number="0826"  date="01.07.2020" title="Einweggebrauch-VAC-Pumpensysteme" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
 {{<markdown>}}
-Wird eine bestehende Knieendoprothese, unabhängig vom Typ, durch eine andere Knieendoprothese ersetzt, ist für die Implantation der Kode mit der Bezeichnung «bei einem Prothesenwechsel» zu wählen. Z. B. Explantation einer Hemiendoprothese und Implanta-tion einer Totalendoprothese am gleichen Knie: für die Implantation muss der Kode 81.54.31 «Implantation einer Standard-Totalen-doprothese des Kniegelenks bei einem Prothesenwechsel» erfasst werden und nicht der Kode 81.54.21 «Erstimplantation einer Standard-Totalendoprothese des Kniegelenks».  
-Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückflächenersatz eingesetzt, muss der Kode 81.54.42 «Implantation eines Patella-Rückflächenersatz bei einem Wechsel» erfasst werden und nicht der Kode 81.54.27 «Erstimplantation eines Patella-Rückflächenersatzes».
+Einweggebrauch-VAC-Pumpensysteme werden neu mit dem Kode 93.57.21 «Applikation eines epikutanen (Vakuum)-verbandes» kodiert.
 {{</markdown>}}
 {{</article>}}
 
@@ -540,8 +538,8 @@ Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückfl
 <a id="0834"></a>
 {{<article number="0834"  date="01.07.2020" title="Lithiumintoxikation" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
 {{<markdown>}}
-Wird eine bestehende Knieendoprothese, unabhängig vom Typ, durch eine andere Knieendoprothese ersetzt, ist für die Implantation der Kode mit der Bezeichnung «bei einem Prothesenwechsel» zu wählen. Z. B. Explantation einer Hemiendoprothese und Implanta-tion einer Totalendoprothese am gleichen Knie: für die Implantation muss der Kode 81.54.31 «Implantation einer Standard-Totalen-doprothese des Kniegelenks bei einem Prothesenwechsel» erfasst werden und nicht der Kode 81.54.21 «Erstimplantation einer Standard-Totalendoprothese des Kniegelenks».  
-Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückflächenersatz eingesetzt, muss der Kode 81.54.42 «Implantation eines Patella-Rückflächenersatz bei einem Wechsel» erfasst werden und nicht der Kode 81.54.27 «Erstimplantation eines Patella-Rückflächenersatzes».
+Wie wird eine Lithiumintoxikation abgebildet?
+Lithium wird in Kombination mit Antidepressiva bei schweren Depressionen, die auf die üblichen Behandlungen nicht ansprechen, verwendet. Lithium wird, aber auch bei der Behandlung akuter Phasen und der Langzeitprophylaxe manisch-depressiver Erkrankun-gen verwendet. Lithium gehört zur Kategorie der **Stimmungsstabilisatoren**. Bei einer Lithiumintoxikation in diesem Zusammenhang ist der Kode T43.8 «Vergiftung durch psychotrope Substanzen, anderenorts nicht klassifiziert, sonstige psychotrope Substanzen, anderenorts nicht klassifiziert» zu erfassen und **nicht** der Kode T43.2 «Vergiftung durch psychotrope Substanzen, anderenorts nicht klassifiziert, sonstige und nicht näher bezeichnete Antidepressiva».
 {{</markdown>}}
 {{</article>}}
 
@@ -549,8 +547,8 @@ Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückfl
 <a id="0845"></a>
 {{<article number="0845"  date="01.07.2020" title="Kollagenmatrix zur autologen Chondrozytentransplantation oder als azelluläres Implantat" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
 {{<markdown>}}
-Wird eine bestehende Knieendoprothese, unabhängig vom Typ, durch eine andere Knieendoprothese ersetzt, ist für die Implantation der Kode mit der Bezeichnung «bei einem Prothesenwechsel» zu wählen. Z. B. Explantation einer Hemiendoprothese und Implanta-tion einer Totalendoprothese am gleichen Knie: für die Implantation muss der Kode 81.54.31 «Implantation einer Standard-Totalen-doprothese des Kniegelenks bei einem Prothesenwechsel» erfasst werden und nicht der Kode 81.54.21 «Erstimplantation einer Standard-Totalendoprothese des Kniegelenks».  
-Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückflächenersatz eingesetzt, muss der Kode 81.54.42 «Implantation eines Patella-Rückflächenersatz bei einem Wechsel» erfasst werden und nicht der Kode 81.54.27 «Erstimplantation eines Patella-Rückflächenersatzes».
+Wird bei einer subchondralen Knocheneröffnung eines Gelenks eine native Kollagenmatrix (d.h. ohne autologe kultivierte Chondro-zyten) eingebracht, ist, in Abhängigkeit vom Zugang, der Eingriff mit dem Kode «Subchondrale Knocheneröffnung am …Gelenk mit Einbringen eines azellulären Implantats, arthroskopisch» oder mit dem Kode «Subchondrale Knocheneröffnung am …Gelenk mit Einbringen eines azellulären Implantats, offen chirurgisch» abzubilden. Die Kodes der Elementegruppen 81.9A.3- «Autogene matrix-induzierte Chondrozytentransplantation an Gelenken, arthroskopisch» bzw. 81.9A.4- «Autogene matrixinduzierte Chondrozyten-transplantation an Gelenken, offen chirurgisch» dürfen in diesem Fall nicht kodiert werden.  
+Zum Beispiel bedeutet dies für das Kniegelenk, dass bei einer subchondralen Knocheneröffnung mit Einbringen einer nativen Kol-lagenmatrix der 81.47.25 «Subchondrale Knocheneröffnung am Kniegelenk mit Einbringen eines azellulären Implantats, arthrosko-pisch» oder 81.47.28 «Subchondrale Knocheneröffnung am Kniegelenk mit Einbringen eines azellulären Implantats, offen chirur-gisch» zu verwenden ist. Die Kodes 81.9A.3C «Autogene matrixinduzierte Chondrozytentransplantation an Gelenken, Kniegelenk, arthroskopisch » bzw. 81.9A.4C «Autogene matrixinduzierte Chondrozytentransplantation an Gelenken, Kniegelenk, offen chirur-gisch» sind in diesem Fall nicht zu verwenden.
 {{</markdown>}}
 {{</article>}}
 
@@ -558,8 +556,7 @@ Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückfl
 <a id="0855"></a>
 {{<article number="0855"  date="01.07.2020" title="54.98.- Peritonealdialyse" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
 {{<markdown>}}
-Wird eine bestehende Knieendoprothese, unabhängig vom Typ, durch eine andere Knieendoprothese ersetzt, ist für die Implantation der Kode mit der Bezeichnung «bei einem Prothesenwechsel» zu wählen. Z. B. Explantation einer Hemiendoprothese und Implanta-tion einer Totalendoprothese am gleichen Knie: für die Implantation muss der Kode 81.54.31 «Implantation einer Standard-Totalen-doprothese des Kniegelenks bei einem Prothesenwechsel» erfasst werden und nicht der Kode 81.54.21 «Erstimplantation einer Standard-Totalendoprothese des Kniegelenks».  
-Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückflächenersatz eingesetzt, muss der Kode 81.54.42 «Implantation eines Patella-Rückflächenersatz bei einem Wechsel» erfasst werden und nicht der Kode 81.54.27 «Erstimplantation eines Patella-Rückflächenersatzes».
+Ein Kode der Subkategorie 54.98.- «Peritonealdialyse» darf auch dann kodiert werden, wenn der Patient/-in diese selbstständig durchführt. Die dazu benötigten Materialien, wie zum Beispiel Spülflüssigkeit usw., müssen dabei von der stationären Abteilung zur Verfügung gestellt werden.
 {{</markdown>}}
 {{</article>}}
 
@@ -567,8 +564,14 @@ Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückfl
 <a id="0871"></a>
 {{<article number="0871"  date="01.07.2020" title="CHOP: Definition «endovaskulär»" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
 {{<markdown>}}
-Wird eine bestehende Knieendoprothese, unabhängig vom Typ, durch eine andere Knieendoprothese ersetzt, ist für die Implantation der Kode mit der Bezeichnung «bei einem Prothesenwechsel» zu wählen. Z. B. Explantation einer Hemiendoprothese und Implanta-tion einer Totalendoprothese am gleichen Knie: für die Implantation muss der Kode 81.54.31 «Implantation einer Standard-Totalen-doprothese des Kniegelenks bei einem Prothesenwechsel» erfasst werden und nicht der Kode 81.54.21 «Erstimplantation einer Standard-Totalendoprothese des Kniegelenks».  
-Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückflächenersatz eingesetzt, muss der Kode 81.54.42 «Implantation eines Patella-Rückflächenersatz bei einem Wechsel» erfasst werden und nicht der Kode 81.54.27 «Erstimplantation eines Patella-Rückflächenersatzes».
+Endovaskuläre Interventionen sind Eingriffe innerhalb eines Blutgefässes, wobei dieses am Zielort der Behandlung nicht eröffnet wird. Inhaltlich ähnlich ist der Begriff interventionelles Verfahren. Mit einem Katheter gelangt der Arzt nach Punktion einer Arterie (meistens in der Leiste) unter Bildgebung an die erkrankte Stelle. Dort kann die erkrankte Arterie mit speziellen Kathetern behandelt werden. Beispiele für endovaskuläre Interventionen sind:
+{{<indent level="4">}}
+- Ballondilatation (PTA)
+- Rotationsatherektomie
+- Einlage eines Endograft
+- Einlage eines Stents
+- Einbringen eines Stentgrafts
+{{</indent>}}
 {{</markdown>}}
 {{</article>}}
 
@@ -608,7 +611,7 @@ Bei der informatischen Stichwortsuche nach Blutgruppen-assoziierten Kodes gibt e
 {{</indent>}}
 Es muss zurzeit unter O wie «Otto» und 0 «Null» gesucht werden, um alle Kodes zu finden.
   
-**2010 92.24 Teleradiotherapie mit Photonen**
+**2010 92.24 Teleradiotherapie mit Photonen**  
 92.24.1- «…mit bildgestützter Einstellung» sind Therapien mit und 92.24.2- «…ohne bildgestützte Einstellung» sind Therapien ohne bildgestützte Einstellung. Das Stichwort «bildgestützte Einstellung» bzw. «bildgestützte Bestrahlung» (IGRT) bedeutet, dass man im Bestrahlungsraum am bereits positionierten Patienten Röntgen- oder Schnittbilder anfertigt.  
 Solche Anlagen können im Bestrahlungsraum (Röntgensystem, mobiles CT, Ultraschall) oder als Zusätze direkt an den Bestrah-lungsgeräten angebracht sein. Diese Bildgebung ist von der Bestrahlungsplanung unabhängig und erfordert entsprechende Gerät-schaften. Dadurch lassen sich die Patienten- und die Zielvolumenpositionierung mit den Aufnahmen aus der Bestrahlungsplanung vergleichen. Man kann hierdurch sofort Lagerungskorrekturen des Patienten vornehmen.  
 Beispielsweise kann durch eine CT bei einem Patienten mit Prostatakarzinom die Füllung von Harnblase und Rektum kontrolliert und die daraus resultierende Position der Prostata bestimmt werden. Durch eine kontinuierliche Erfassung der Patienten- oder Or-ganbewegungen ist es auch möglich, eine Nachjustierung des Strahls während der Bestrahlung selbst vorzunehmen («adaptive Radiotherapie»)
