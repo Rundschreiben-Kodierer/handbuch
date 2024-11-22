@@ -409,9 +409,9 @@ Bei z. B. vorbestehender Spondylodese L2 – L4 und aktuell Neufusion der Segmen
 {{<markdown>}}
 Folgende Kodes haben eine Unterteilung nach Anzahl der implantierten Stents/Prothesen. Es gibt für diese Stent-/Prothesen-Typen keine Summen-Kodes über den gesamten Aufenthalt.
 {{<indent level="4">}}
-42.81.- Einsetzen eines permanenten Tubus in den Ösophagus
-51.87.- Endoskopische Einlage oder Wechsel von Stent in den Gallengang
-51.9A.- Einlage oder Wechsel von Stent in den Gallengang
+42.81.- Einsetzen eines permanenten Tubus in den Ösophagus  
+51.87.- Endoskopische Einlage oder Wechsel von Stent in den Gallengang  
+51.9A.- Einlage oder Wechsel von Stent in den Gallengang  
 {{</indent>}}
 Je Eingriff ist der Kode mit der entsprechenden Anzahl von eingesetzten Stents/Prothesen auszuwählen und einmal pro Eingriff zu erfassen.
 Beispiel: Am Tag X werden zwei selbstexpandierende Prothesen in den Ösophagus eingesetzt. Am Tag Y wird eine selbstexpandie-rende Prothese ausgewechselt.
@@ -442,8 +442,47 @@ Je Eingriff ist der Kode so oft zu kodieren, wie Stents/Prothesen implantiert wu
   
 Beispiel: Am Tag X werden zwei nicht selbstexpandierende Prothesen am Darm eingelegt. Am Tag Y werden beide entfernt und durch eine selbstexpandierende Prothese ersetzt.
 Kodierung:  
-Tag X: 46.99.51 «Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Darm, offen chirurgisch» wird zweimal kodiert.
-Tag Y: 46.99.71 «Entfernen einer Prothese am Darm, offen chirurgisch» wird zweimal kodiert.
+Tag X: 46.99.51 «Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Darm, offen chirurgisch» wird zweimal kodiert.  
+Tag Y: 46.99.71 «Entfernen einer Prothese am Darm, offen chirurgisch» wird zweimal kodiert.  
 46.99.61 «Einlegen oder Wechsel einer selbstexpandierenden Prothese am Darm, offen chirurgisch» wird einmal erfasst.
 {{</markdown>}}
 {{</article>}}
+
+
+<a id="0793"></a>
+{{<article number="0793"  date="01.01.2022" title="Kodierung Ulcus hypertonicum (Martorell)" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<markdown>}}
+Beim Ulcus (cruris) hypertonicum handelt es sich um eine spezielle Form des Ulcus cruris, die vorwiegend am laterodorsalen Unter-schenkel oder über der Achillessehne auftritt. Die meisten Betroffenen weisen einen markanten, langzeitig bestehenden Hypertonus auf, in ca. 60% der Fälle kombiniert mit einem Diabetes mellitus Typ 2.  
+Zur Ätiologie des Ulcus hypertonicum gibt es drei Erklärungsansätze: die ischämisierende Arteriosklerose, die Mediakalzinose der pathologischen Arteriolen und die lokalen Entzündungsvorgänge.  
+Die Arteriosklerose in der Subkutis steht für die Pathogenese der Hautnekrose dabei im Vordergrund.  
+Auch wenn die Erkrankung pathogenetisch auf eine Arteriosklerose zurückzuführen ist, ist die eigentliche Grundursache die Hypertonie.  
+Einen spezifischen ICD-10-GM-Kode zur Verschlüsselung eines Ulcus hypertonicum (Martorell) gibt es nicht.  
+Für das Ulcus hypertonicum (Martorell) empfehlen wir deshalb folgende Kodekombination:
+  
+L97 Ulcus cruris, anderenorts nicht klassifiziert zusammen mit der Kreuz-Stern-Kombination aus dem zutreffenden Kode  
+I10.-† bis I15.-† und L99.8* Sonstige näher bezeichnete Krankheiten der Haut und der Unterhaut bei anderenorts klassifizierten Krankheiten.  
+Durch diese Erfassung kann das Ulcus hypertonicum von anderen Ulcus cruris-Arten unterschieden werden.
+{{</markdown>}}
+{{</article>}}
+
+
+<a id="0801"></a>
+{{<article number="0801"  date="01.07.2021" title="Kodierung transileosakrale Verschraubung einer Os sacrum-Fraktur" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<markdown>}}
+Bei einfachen transalaren Sakrumfrakturen (z. B. im Rahmen einer osteoporotischen Fraktur) mit stabiler Wirbelsäule ist der Kode 7A.49 «Osteosynthese einzelner Wirbel, Kyphoplastie oder Vertebroplastie, sonstige» gefolgt von 81.29.10 «Arthrodese am Iliosakralgelenk» zu kodieren.
+  
+Bei Os sacrum-Frakturen, die zu einer Instabilität der Wirbelsäule führen (meist im Rahmen eines Polytraumas auftretend), ist bei dorsalem/dorsolateralem (inkl. perkutanem) Zugang der 7A.73.11 «Nicht-dynamische Stabilisierung der Wirbelsäule durch Osteo-synthese ohne Fusion der Wirbel, Zugang dorsal und dorsolateral, 1 Segment» gefolgt von 81.29.10 «Arthrodese am Iliosakralge-lenk» zu kodieren.
+{{</markdown>}}
+{{</article>}}
+
+
+<a id="0808"></a>
+{{<article number="0801"  date="01.01.2021" title="Wechsel einer Knieendoprothese und Implantation weiterer/anderer Komponenten" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<markdown>}}
+Wird eine bestehende Knieendoprothese, unabhängig vom Typ, durch eine andere Knieendoprothese ersetzt, ist für die Implantation der Kode mit der Bezeichnung «bei einem Prothesenwechsel» zu wählen. Z. B. Explantation einer Hemiendoprothese und Implanta-tion einer Totalendoprothese am gleichen Knie: für die Implantation muss der Kode 81.54.31 «Implantation einer Standard-Totalen-doprothese des Kniegelenks bei einem Prothesenwechsel» erfasst werden und nicht der Kode 81.54.21 «Erstimplantation einer Standard-Totalendoprothese des Kniegelenks».  
+Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückflächenersatz eingesetzt, muss der Kode 81.54.42 «Implantation eines Patella-Rückflächenersatz bei einem Wechsel» erfasst werden und nicht der Kode 81.54.27 «Erstimplantation eines Patella-Rückflächenersatzes».
+{{</markdown>}}
+{{</article>}}
+
+
+
