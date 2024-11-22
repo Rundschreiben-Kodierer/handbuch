@@ -523,7 +523,77 @@ Die über den Aufenthalt implantierten aortalen Stent-Grafts in die Aorta thorac
 _Fallbeispiel 2_  
 Fall: Ein Stent-Graft ohne Öffnung wird während einer ersten Intervention am Tag X in die abdominale Aorta implantiert. Während einer zweiten Intervention am Tag Y wird ein Stent-Graft mit einer Öffnung in die abdominale Aorta implantiert. Beide Interventionen finden in einem stationären Aufenthalt statt.  
 
+_Kodierung:_
+Der Kode 39.71.21 «Endovaskuläre Implantation in die Aorta abdominalis von Stent-Grafts [Stent-Prothesen], ohne Öffnung» ist einmal für den Tag X zu erfassen.  
+Der Kode 39.71.22 «Endovaskuläre ist Implantation in die Aorta abdominalis von Stent-Grafts [Stent-Prothesen], mit 1 Öffnung» ist einmal für Tag Y zu erfassen.  
+Die über den Aufenthalt implantierten aortalen Stent-Grafts in die Aorta thoracica, thoracoabdominalis und abdominalis werden sum-miert. Der entsprechende Zusatzkode der Elementegruppe 39.78.6- wird mit dem Datum des ersten Interventionstages erfasst, in diesem Fall der 39.78.61 «2 implantierte aortale Stent-Grafts».  
+  
+_Fallbeispiel 3_  
+Fall: Ein Stent-Graft mit 2 Öffnungen wird in die Aorta thoracoabdominalis implantiert.  
+_Kodierung:_  
+Der Kode 39.73.43 «Endovaskuläre Implantation in die Aorta thoracoabdominalis von Stent-Grafts [Stent-Prothesen], mit 2 Öffnun-gen» ist einmal zu erfassen.  
+Über den gesamten stationären Aufenthalt wurde nur ein aortaler Stent-Graft implantiert. Es ist somit kein Zusatzkode der Elemente-gruppe 39.78.6- «Anzahl der implantierten aortalen Stent-Grafts [Stent-Prothesen]» zu erfassen.  
+  
+_Fallbeispiel 4_  
+Fall: An einem Eingriffsdatum werden ein Stent-Graft mit einer Öffnung in die Aorta thoracica und ein weiterer Stent-Graft ohne Öff-nung in die Aorta abdominalis implantiert. Beide Stent-Grafts stehen nicht in Verbindung.  
+_Kodierung:_  
+Der Kode 39.73.32 «Endovaskuläre Implantation in die Aorta thoracica von Stent-Grafts [Stent-Prothesen], mit 1 Öffnung» wird am Eingriffsdatum einmal erfasst.  
+Der Kode 39.71.21 «Endovaskuläre Implantation in die Aorta abdominalis von Stent-Grafts [Stent-Prothesen], ohne Öffnung» wird am Eingriffsdatum einmal erfasst.  
+Der Zusatzkode 39.78.61 «2 implantierte aortale Stent-Grafts» wird mit dem Datum des ersten Interventionstages erfasst.  
+  
+**Erfassen der Anzahl der in die A. iliaca, den tiefen Venen, abdominalen und viszeralen Gefässen implantierten Stent-Grafts**
+Bei den iliakalen Stent-Grafts ohne Seitenarme ist die Anzahl der implantierten Stent-Grafts im selben Kode wie der Eingriff und das Material kombiniert (siehe Fallbeispiele 1, 2 und 3). Die Kodes unter 39.7A.1- «Endovaskuläre Implantation in Beckenarterien von Stent-Grafts [Stent-Prothesen], iliakal, ohne Öffnung, nach Anzahl Stent-Prothesen» sind pro Eingriffsdatum zu erfassen.  
+Bei den Kodes für Stent-Grafts in die tiefen Venen und in anderen abdominalen und viszeralen Gefässen, wird die Anzahl nicht be-reits im Kode angegeben, d. h. falls mehrere Stent-Grafts implantiert werden, ist jedes Implantat einzeln zu kodieren (siehe Fallbei-spiele 4 und 5).  
+  
+Ein Kode zur Angabe der gesamt implantierten Stent-Grafts in die A. iliaca und andere Gefässe ausser der Aorta gibt es nicht.  
+  
+_Fallbeispiel 1_  
+Werden während einer Intervention drei Stent-Grafts ohne Seitenarme in die A. iliaca implantiert, so ist der Kode 39.7A.13 «En-dovaskuläre Implantation, iliakal, 3 Stent-Prothesen, ohne Öffnung» einmal für das Interventionsdatum zu kodieren.  
+  
+_Fallbeispiel 2_  
+Wird in einem stationären Aufenthalt in einer ersten Intervention am Tag X ein Stent-Graft ohne Seitenarm in die A. iliaca implantiert und in einer zweiten Intervention am Tag Y ein weiterer Stent-Graft ohne Seitenarm in die A. iliaca, so ist der Kode 39.7A.11 «En-dovaskuläre Implantation, iliakal, 1 Stent-Prothese, ohne Öffnung» einmal am Tag X und einmal am Tag Y zu erfassen.  
+  
+_Fallbeispiel 3_  
+Werden in einer Intervention in die linke A. iliaca interna ein Stent-Graft [Stent-Prothese] und in derselben Intervention in die rechte A. iliaca interna ein Stent-Graft implantiert, so ist der Kode 39.7A.11 «Endovaskuläre Implantation, iliakal, 1 Stent-Prothese, ohne Öffnung» zweimal zu erfassen, einmal mit der Lateralitätsmarkierung links und einmal mit der Lateralitätsmarkierung rechts.  
+__
+_Fallbeispiel 4_  
+Werden an einem Interventionsdatum zwei Stent-Grafts in die V. cava implantiert, ist zweimal der Kode 39.7A.31 «Endovaskuläre Implantation eines Stent-Grafts [Stent-Prothese] in die V. cava» zu erfassen.  
+  
+_Fallbeispiel 5_  
+Werden an einem Interventionsdatum X und an einem weiteren Interventionsdatum Y jeweils ein Stent-Graft in die V. cava implan-tiert, ist pro Interventionsdatum einmal der Kode 39.7A.31 «Endovaskuläre Implantation eines Stent-Grafts [Stent-Prothese] in die V. cava» zu erfassen.  
+  
+**Erfassen der Anzahl der (perkutan-) transluminal implantierten Stents**  
+Bei den Kodes unter 39.B- «(Perkutan-) transluminale Implantation von Stents in Blutgefässe» wird jeder implantierte Stent einzeln kodiert. Werden z. B. drei Stents ohne Medikamenten-Freisetzung in Arterien des Oberschenkels und zwei Stents ohne Medikamen-ten-Freisetzung in Arterien des Unterschenkels implantiert, wird der 39.B1.G1 dreimal kodiert und der 39.B1.H1 zweimal. Die Ge-samtsumme, der über den Aufenthalt implantieren Stents, wird berechnet und mit einem Kode unter 39.C1.- «Anzahl der implantier-ten Stents», am Datum des ersten Interventionstages erfasst. Im vorherigen Beispiel 5 Stents, 39.C1.15 «5 implantierte Stents».  
+  
+**Erfassen der Anzahl der in den Koronararterien implantierten Stents**  
 
+Die Implantation von Stents in die Koronararterien ist unter den Subkategorien 36.03.- «Koronarangioplastik am offenen Thorax» und 36.08.- «Implantation von Stents in Koronararterien, perkutan-transluminal» abgebildet.  
+Die Kodes sind pro Eingriff/Intervention, so oft wie implantiert, für den jeweiligen Stent-Typ zu erfassen.  
+Wurden z. B. medikamentenfreisetzende Stents während eines Eingriffs/einer Intervention in mehrere Koronararterien implantiert, ist der Kode mit der Angabe «in mehrere Koronararterien» zu wählen und so oft zu kodieren wie Stents von diesem Typ implantiert wurden.  
+Es gibt keinen spezifischen Kode für die gesamte Summe der implantierten Stents in die Koronararterien.  
+  
+_Fallbeispiel 1_  
+Fall: Am Tag X wird ein medikamentenfreisetzender Stent, perkutan-transluminal in eine Koronararterie implantiert. Am Tag Y wer-den zwei medikamentenfreisetzende Stents, offen chirurgisch in eine Koronararterie implantiert.  
+_Kodierung:_  
+Der Kode 36.08.21 «Implantation perkutan-transluminal von Stents mit Medikamentenfreisetzung, in einer Koronararterie» ist einmal zu erfassen.
+Der Kode 36.03.51 «Endarteriektomie von Koronararterien, offen chirurgisch, mit Implantation von Stents mit Medikamentenfreiset-zung, in einer Koronararterie» ist zweimal zu erfassen.  
+  
+_Fallbeispiel 2_  
+Fall: Am Tag X wird ein selbstexpandierender Stent in eine Koronararterie implantiert. Am Tag Y wird ein selbstexpandierender Stent in eine andere Koronararterie implantiert.    
+_Kodierung:_  
+Der Kode 36.08.23 «Implantation perkutan-transluminal von selbstexpandierenden Stents mit Medikamentenfreisetzung, in einer Koronararterie» wird zweimal erfasst mit unterschiedlichen Interventionsdaten.  
+  
+_Fallbeispiel 3_  
+Fall: Koronare PTCA mit 4 Stents (alle medikamentenfreisetzend) (2 RIVA (ramus interventricularis anterior (RIVA)), 1 RCX (ramus circumflex artery), 1 RCA (right coronary artery)) in einem Eingriff  
+_Kodierung:_
+Der Kode 36.08.22 «Implantation perkutan-transluminal von Stents mit Medikamentenfreisetzung, in mehreren Koronararterien» ist viermal zu erfassen.  
+  
+_Fallbeispiel 4_  
+Fall: Koronare PTCA mit 4 Stents (RIVA 1 medikamentenfreisetzender Stent, RCA 2 BMS (bare metal stents), RCX 1 selbstexpan-dierend medikamentenfreisetzender Stent) in einem Eingriff.  
+Zu erfassen sind:  
+Für RIVA einmal 36.08.21 «Implantation perkutan-transluminal von Stents mit Medikamentenfreisetzung, in einer Koronararterie»
+Für RCA zweimal 36.08.11 «Implantation perkutan-transluminal von Stents ohne Medikamentenfreisetzung, in einer Koronararterie» und einmal den Zusatzkode 39.C2.12 «Bare metal Stent»  
+Für RCX einmal 36.08.23 «Implantation perkutan-transluminal von selbstexpandierenden Stents mit Medikamentenfreisetzung, in einer Koronararterie»
 
 
 {{</markdown>}}
