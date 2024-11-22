@@ -269,6 +269,7 @@ Für die Subkategorien 7A.71.- bis 7A.74.- erfolgte die Aufgliederung in 5. Stel
 Die dorsolateralen Zugänge zählen zu den dorsalen Zugängen. Sprich das Segment wird nicht doppelt gezählt, wenn es von dorsal sowie dorsolateral operiert wird.
 Im Beispiel der folgenden Abbildung erfolgte eine Spondylodese über sechs Wirbeln, d.h. über fünf Segmente. Drei Segmente wer-den von dorsal und/oder dorsolateral operiert, 4 Segmente von ventral. Es werden somit ein Kode für drei Segmente «dorsal und dorsolateral» sowie ein Kode für vier Segmente «ventral» erfasst. Zusätzlich wird der entsprechende Kode der Subkategorie 7A.B4.- «Summe der operierten Segmente der Wirbelsäule» für fünf Segmente kodiert.  
   
+    
 {{</markdown>}}
 {{<insertImage image="do-d-14.04.jpg" class="edge max-w-90">}}
 {{</article>}}
@@ -285,13 +286,29 @@ Die Elementegruppe 39.78.5- umfasst drei Zusatzkodes:
 - 39.78.53 «Ende der untersten Stent-Grafts (Stent-Prothesen), aortobiiliakal»
 {{</indent>}}
   
+    
 {{</markdown>}}
 {{<insertImage image="0767_a.png" class="edge max-w-90">}}
 {{<markdown>}}
 
 Die aortomonoiliakal oder aortobiiliakal endenden Stent-Grafts können mit Stent-Grafts in der linken und/oder rechten A. iliaca com-munis verlängert werden (weitere Stent-Grafts werden dann anmodelliert). Die entsprechenden Kodes der Elementegruppen 39.7A.1- «Endovaskuläre Implantation in Beckenarterien von Stent-Grafts (Stent-Prothesen), iliakal, ohne Seitenarm, nach Anzahl Stent-Prothesen» und 39.7A.2- «Endovaskuläre Implantation in Beckenarterien von Stent-Grafts (Stent-Prothesen), iliakal mit Ver-sorgung von Seitenast» sind in diesem Fall zusätzlich zu kodieren.  
+  
 Folgende Tabelle illustriert die verschiedenen Situationen:  
   
+  
 {{</markdown>}}
+{{<insertImage image="0767_b.png" class="edge max-w-90">}}
+{{<insertImage image="0767_c.png" class="edge max-w-90">}}
 {{</article>}}
 
+<a id="0768"></a>
+{{<article number="0768"  date="01.01.2024" title="Gefässverschlusskörper vs. Embolie-Protektionssysteme" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<markdown>}}
+In der CHOP existieren Kodes für gefässverschliessende Operationen/Interventionen, die s.g. Embolisationen mit Coils, Plugs, Schirmen usw., z. B. 39.79.2- «Coil-Embolisation oder -Verschluss von sonstigen Gefässen», 39.79.5- «Selektive Embolisation von sonstigen Gefässen mit Schirmen» oder 39.79.A- «Selektive Embolisation von sonstigen Gefässen mit Plugs» usw.  
+Des Weiteren stehen die Zusatzkodes aus der Subkategorie 00.4A.- «Anzahl verwendeter endovaskulärer Coils» und 00.4G.- «Ein-setzen von Gefässverschlusskörpern» zur Verfügung.  
+Die Zusatzkodes der Elementegruppen von 00.4G.2- bis 00.4G.6-«Eingesetzte vaskuläre Schirme in [...], nach Anzahl», gelten nur für die Abbildung der verwendeten Devices im Kontext von gefässverschliessenden Operationen/Interventionen (z. B. selektive Em-bolisationen) als Zusatzkodes. Die Kodes unter 00.4G.- sind für Embolie-Protektionssysteme nicht zu verwenden.  
+  
+Der Zusatzkode 39.E1 «Verwendung eines Embolie-Protektionssystems» ermöglicht die Erfassung von periinterventionellen Embo-lie-Protektionssystemen.
+Die Kodes 38.7X.11 «Einsetzen eines Embolie-Protektionssystems in die Vena cava, offen chirurgisch», 38.7X.21 «Einsetzen eines Embolie-Protektionssystems in die Vena cava, perkutan transluminal», 39.75.13 «Perkutan-transluminale Gefässintervention, sons-tige Gefässe, Embolie-Protektionssystem (periphere oder viszerale Gefässe)» stellen permanente Systeme dar.
+{{</markdown>}}
+{{</article>}}
