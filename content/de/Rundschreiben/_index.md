@@ -269,7 +269,7 @@ Für die Subkategorien 7A.71.- bis 7A.74.- erfolgte die Aufgliederung in 5. Stel
 Die dorsolateralen Zugänge zählen zu den dorsalen Zugängen. Sprich das Segment wird nicht doppelt gezählt, wenn es von dorsal sowie dorsolateral operiert wird.
 Im Beispiel der folgenden Abbildung erfolgte eine Spondylodese über sechs Wirbeln, d.h. über fünf Segmente. Drei Segmente wer-den von dorsal und/oder dorsolateral operiert, 4 Segmente von ventral. Es werden somit ein Kode für drei Segmente «dorsal und dorsolateral» sowie ein Kode für vier Segmente «ventral» erfasst. Zusätzlich wird der entsprechende Kode der Subkategorie 7A.B4.- «Summe der operierten Segmente der Wirbelsäule» für fünf Segmente kodiert.  
   
-    
+  
 {{</markdown>}}
 {{<insertImage image="do-d-14.04.jpg" class="edge max-w-90">}}
 {{</article>}}
@@ -329,7 +329,6 @@ Eine perkutan-transluminale Thrombektomie an Lungengefässen mittels Thrombusent
 {{</article>}}
 
 
-
 <a id="0770"></a>
 {{<article class="red" number="0770"  date="01.01.2024" title="Pflege-Komplexbehandlungen – Zuordnung einer Pflegeintervention nur zu einer Leistungs-gruppe" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
 {{<markdown>}}
@@ -344,3 +343,29 @@ Die Präzisierung 0770 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersetzt dur
 Bei Aufenthalten in der Rehabilitation von weniger als sieben Tagen mit weniger als 300 Minuten ist der absolute Minuten-Wert zu berücksichtigen und nicht die potentielle pro rata Hochrechnung auf sieben Tage. Die Kodes BA.x0 «[…], mit weniger als 300 Thera-pieminuten pro Woche» stehen für diese Fälle zur Verfügung.
 {{</markdown>}}
 {{</article>}}
+
+<a id="0774"></a>
+{{<article class="red" number="0774"  date="01.01.2023" title="Informationen und Präzisierungen zur Palliative Care" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<markdown>}}
+Die Präzisierung 0774 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersetzt durch die Präzisierung <a href="#0757">0757</a>
+{{</markdown>}}
+{{</article>}}
+
+
+<a id="0775"></a>
+{{<article number="0775"  date="01.01.2023" title="Peritoneallavage" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<markdown>}}
+Die diagnostische oder therapeutische Peritoneallavage mittels Punktion ist mit dem Kode 54.91 «Perkutane abdominale Drainage (Punktion)» zu erfassen. Das Exklusivum «Peritoneallavage (54.25)» unter dem Kode 54.91 ist somit zu ignorieren. Das Exklusivum «Diagnostische Aszitespunktion (54.26)» unter dem Kode 54.91 gilt weiterhin.  
+Die diagnostische oder therapeutische Peritoneallavage per Laparoskopie oder per Laparotomie (offen chirurgisch) ist mit dem Kode 54.25 «Peritoneallavage» zu erfassen. Bei einer laparoskopisch durchgeführten Peritoneallavage ist der Kode 54.21.20 «Laparosko-pie, Zugangsweg für chirurgische (therapeutische) Interventionen» zusätzlich zu kodieren.
+{{</markdown>}}
+{{</article>}}
+
+
+<a id="0775"></a>
+{{<article number="0780"  date="01.07.2022" title="Kodierung der CHOP Subkategorien 94.3D.- «1:1-Betreuung bei psychischen und psychosomati-schen Störungen in der Erwachsenenpsychiatrie» und 94.3E.- «[…] in der Kinder- und Jugendpsychiatrie»" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<markdown>}}
+Das Mindestmerkmal Punkt 3 _«Therapie»_, der Subkategorien 94.3D.- und 94.3E.- spezifiziert: _«1:1-Betreuung bedeutet, dass eine ausgebildete Fachperson des unter Mindestmerkmal Punkt 4 genannten Behandlungsteams eine einzelne Patientin/einen einzelnen Patienten individuell über einen Zeitraum von mindestens 2 Stunden ohne Unterbrechung fortlaufend betreut»_.
+Die CHOP erfordert keine physische Anwesenheit im selben Raum. So kann eine kontinuierliche Einzelbetreuung durch eine Scheibe oder einen Bildschirm als 1:1-Betreuung berücksichtigt werden, sofern die anderen Mindestmerkmale eingehalten werden.
+{{</markdown>}}
+{{</article>}}
+
