@@ -417,25 +417,25 @@ Je Eingriff ist der Kode mit der entsprechenden Anzahl von eingesetzten Stents/P
 Beispiel: Am Tag X werden zwei selbstexpandierende Prothesen in den Ösophagus eingesetzt. Am Tag Y wird eine selbstexpandie-rende Prothese ausgewechselt.
   
 Kodierung  
-Tag X: 42.81.41 «Einsetzen und Wechsel von zwei selbstexpandierenden Prothesen (permanenter Tubus) in den Ösophagus, endoskopisch»
-Tag Y: 42.81.40 «Einsetzen und Wechsel einer selbstexpandierenden Prothese (permanenter Tubus) in den Ösophagus, endo-skopisch»
+Tag X: 42.81.41 «Einsetzen und Wechsel von zwei selbstexpandierenden Prothesen (permanenter Tubus) in den Ösophagus, endoskopisch»  
+Tag Y: 42.81.40 «Einsetzen und Wechsel einer selbstexpandierenden Prothese (permanenter Tubus) in den Ösophagus, endo-skopisch»  
 Folgende Kodes geben jeweils nur «eines Stents» oder «Stent», bzw. «einer Prothese» an. Es gibt für diese Stent-/Prothesen-Ty-pen keine Summen-Kodes über den gesamten Aufenthalt.
 {{<indent level="4">}}
-09.83 Konjunktivozystorhinostomie mit Einsetzen von Tubus oder Stent
-31.93 Ersetzen eines Larynx- oder Trachea-Stents
-31.96 Einsetzen eines Larynx- oder Trachea-Stents
-33.91.2- Bronchusdilatation, endoskopisch, mit Einlegen oder Wechsel eines Stents/Stent-Grafts
-44.99.5- Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Magen
-44.99.6- Einlegen oder Wechsel einer selbstexpandierenden Prothese am Magen
-46.99.5- Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Darm
-46.99.6- Einlegen oder Wechsel einer selbstexpandierenden Prothese am Darm
-48.99.50 Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese im Rektum
-48.99.60 Einlegen oder Wechsel einer selbstexpandierenden Prothese im Rektum
-52.93.- Endoskopische Einlage, Wechsel oder Entfernen von Stent (Prothese) in den Ductus pancreaticus
-52.95.4- Einlage oder Wechsel eines nicht selbstexpandierenden Stents (Prothese) in den Pankreasgang, offen chirur-gisch oder laparoskopisch
-52.95.5- Einlage oder Wechsel eines selbstexpandierenden Stents (Prothese) in den Pankreasgang, offen chirurgisch oder laparoskopisch
-58.99.10 Sonstige Operationen an Urethra und Periurethralgewebe, Einlegen und Wechsel eines Stents in die Urethra
-60.99.31 Einlegen eines Stents in die prostatische Harnröhre
+09.83 Konjunktivozystorhinostomie mit Einsetzen von Tubus oder Stent  
+31.93 Ersetzen eines Larynx- oder Trachea-Stents  
+31.96 Einsetzen eines Larynx- oder Trachea-Stents  
+33.91.2- Bronchusdilatation, endoskopisch, mit Einlegen oder Wechsel eines Stents/Stent-Grafts  
+44.99.5- Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Magen  
+44.99.6- Einlegen oder Wechsel einer selbstexpandierenden Prothese am Magen  
+46.99.5- Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Darm  
+46.99.6- Einlegen oder Wechsel einer selbstexpandierenden Prothese am Darm  
+48.99.50 Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese im Rektum  
+48.99.60 Einlegen oder Wechsel einer selbstexpandierenden Prothese im Rektum  
+52.93.- Endoskopische Einlage, Wechsel oder Entfernen von Stent (Prothese) in den Ductus pancreaticus  
+52.95.4- Einlage oder Wechsel eines nicht selbstexpandierenden Stents (Prothese) in den Pankreasgang, offen chirur-gisch oder laparoskopisch  
+52.95.5- Einlage oder Wechsel eines selbstexpandierenden Stents (Prothese) in den Pankreasgang, offen chirurgisch oder laparoskopisch  
+58.99.10 Sonstige Operationen an Urethra und Periurethralgewebe, Einlegen und Wechsel eines Stents in die Urethra  
+60.99.31 Einlegen eines Stents in die prostatische Harnröhre  
 {{</indent>}}
   
 Je Eingriff ist der Kode so oft zu kodieren, wie Stents/Prothesen implantiert wurden.
