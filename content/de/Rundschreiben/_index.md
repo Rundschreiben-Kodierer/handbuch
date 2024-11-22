@@ -269,20 +269,7 @@ Für die Subkategorien 7A.71.- bis 7A.74.- erfolgte die Aufgliederung in 5. Stel
 Die dorsolateralen Zugänge zählen zu den dorsalen Zugängen. Sprich das Segment wird nicht doppelt gezählt, wenn es von dorsal sowie dorsolateral operiert wird.
 Im Beispiel der folgenden Abbildung erfolgte eine Spondylodese über sechs Wirbeln, d.h. über fünf Segmente. Drei Segmente wer-den von dorsal und/oder dorsolateral operiert, 4 Segmente von ventral. Es werden somit ein Kode für drei Segmente «dorsal und dorsolateral» sowie ein Kode für vier Segmente «ventral» erfasst. Zusätzlich wird der entsprechende Kode der Subkategorie 7A.B4.- «Summe der operierten Segmente der Wirbelsäule» für fünf Segmente kodiert.
 {{</markdown>}}
-
-![Texte alternatif](C:\PIEM\0761.png "Le titre de mon image")
-
-<img
-  src={require('\\adb.intra.admin.ch\Userhome$\BFS-01\U80853691\data\Documents\PAE\Superuser\GitHub\RS\0761.png').default}
-  alt="Exemple de bannière"
-/>
-
-<img
-  src={require('C:\PIEM\0761.png').default}
-  alt="Exemple de bannière"
-/>
-
-
+{{<insertImage image="do-d-14.04.jpg" class="edge max-w-90">}}
 {{</article>}}
   
 
