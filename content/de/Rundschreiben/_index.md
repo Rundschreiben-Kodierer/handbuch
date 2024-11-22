@@ -328,3 +328,19 @@ Eine perkutan-transluminale Thrombektomie an Lungengefässen mittels Thrombusent
 {{</markdown>}}
 {{</article>}}
 
+
+
+<a id="0770"></a>
+{{<article class="red" number="0770"  date="01.01.2024" title="Pflege-Komplexbehandlungen – Zuordnung einer Pflegeintervention nur zu einer Leistungs-gruppe" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<markdown>}}
+Die Präzisierung 0770 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersetzt durch die Präzisierung <a href="#0760">0760</a>
+{{</markdown>}}
+{{</article>}}
+
+
+<a id="0771"></a>
+{{<article number="0771"  date="01.01.2024" title="BA.X0 Art der Rehabilitation, mit weniger als 300 Therapieminuten pro Woche" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<markdown>}}
+Bei Aufenthalten in der Rehabilitation von weniger als sieben Tagen mit weniger als 300 Minuten ist der absolute Minuten-Wert zu berücksichtigen und nicht die potentielle pro rata Hochrechnung auf sieben Tage. Die Kodes BA.x0 «[…], mit weniger als 300 Thera-pieminuten pro Woche» stehen für diese Fälle zur Verfügung.
+{{</markdown>}}
+{{</article>}}
