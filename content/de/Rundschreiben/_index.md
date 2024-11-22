@@ -494,8 +494,38 @@ Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückfl
 <a id="0810"></a>
 {{<article number="0810"  date="01.01.2021" title="Erfassen der Anzahl implantierter Stents und Stent-Grafts" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
 {{<markdown>}}
-Wird eine bestehende Knieendoprothese, unabhängig vom Typ, durch eine andere Knieendoprothese ersetzt, ist für die Implantation der Kode mit der Bezeichnung «bei einem Prothesenwechsel» zu wählen. Z. B. Explantation einer Hemiendoprothese und Implanta-tion einer Totalendoprothese am gleichen Knie: für die Implantation muss der Kode 81.54.31 «Implantation einer Standard-Totalen-doprothese des Kniegelenks bei einem Prothesenwechsel» erfasst werden und nicht der Kode 81.54.21 «Erstimplantation einer Standard-Totalendoprothese des Kniegelenks».  
-Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückflächenersatz eingesetzt, muss der Kode 81.54.42 «Implantation eines Patella-Rückflächenersatz bei einem Wechsel» erfasst werden und nicht der Kode 81.54.27 «Erstimplantation eines Patella-Rückflächenersatzes».
+Diese Präzisierung ist wie folgt gegliedert:
+{{<indent level="4">}}
+• Erfassen der Anzahl der aortalen Stent-Grafts
+• Erfassen der Anzahl der in die A. iliaca, den tiefen Venen, abdominalen und viszeralen Gefässen implantierten Stent-Grafts
+• Erfassen der Anzahl der (perkutan-) transluminal implantierten Stents
+• Erfassen der Anzahl der in den Koronararterien implantierten Stents
+• Erfassen der Anzahl von Stents falls im stationären Fall Stents sowohl in die Koronararterien als auch in andere Gefässe implantiert werden
+• Grund für die Angabe der Gesamtanzahl der im Rahmen eines stationären Aufenthaltes implantierten Stents, bzw. Stent-grafts
+{{</indent>}}
+  
+Die Angabe der Kodes in den Fallbeispielen bezieht sich auf die implantierten Stents und Stent-Grafts. Dem stationären Fall ent-sprechend ist die Kodierung zu vervollständigen.
+  
+**Erfassen der Anzahl der aortalen Stent-Grafts**  
+Die aortalen Stent-Grafts sind unter den Subkategorien 39.71.- «Endovaskuläre Implantation eines Stent-Grafts [Stent-Prothesen] an der abdominalen Aorta» und 39.73.- «Endovaskuläre Implantation eines Stent-Grafts [Stent-Prothesen] an der Aorta ascendens, dem Aortenbogen, der thorakalen und thorako-abdominalen Aorta» abgebildet.  
+  
+Unter beiden Subkategorien gibt es folgendes «Beachte»:  
+«Falls mehrere Stent-Grafts [Stent-Prothesen] an der […] Aorta implantiert werden, ist jedes Implantat gesondert zu kodieren».
+Und folgendes «Kodiere ebenso»:  
+«Anzahl der implantierten aortalen Stent-Grafts [Stent-Prothesen] (39.78.6-)»  
+  
+_Fallbeispiel 1_
+Fall: Zwei Stent-Grafts mit je einer Öffnung werden in die abdominale Aorta während einer Intervention innerhalb eines stationären Aufenthaltes implantiert.
+_Kodierung:_  
+Der Kode 39.71.22 «Endovaskuläre Implantation in die Aorta abdominalis von Stent-Grafts [Stent-Prothesen], mit 1 Öffnung» ist zweimal zu erfassen.  
+Die über den Aufenthalt implantierten aortalen Stent-Grafts in die Aorta thoracica, thoracoabdominalis und abdominalis werden sum-miert und der entsprechende Zusatzkode der Elementegruppe 39.78.6- mit dem Datum des ersten Interventionstages erfasst, in diesem Fall der 39.78.61 «2 implantierte aortale Stent-Grafts».  
+  
+_Fallbeispiel 2_  
+Fall: Ein Stent-Graft ohne Öffnung wird während einer ersten Intervention am Tag X in die abdominale Aorta implantiert. Während einer zweiten Intervention am Tag Y wird ein Stent-Graft mit einer Öffnung in die abdominale Aorta implantiert. Beide Interventionen finden in einem stationären Aufenthalt statt.  
+
+
+
+
 {{</markdown>}}
 {{</article>}}
 
