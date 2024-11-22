@@ -361,11 +361,89 @@ Die diagnostische oder therapeutische Peritoneallavage per Laparoskopie oder per
 {{</article>}}
 
 
-<a id="0775"></a>
+<a id="0780"></a>
 {{<article number="0780"  date="01.07.2022" title="Kodierung der CHOP Subkategorien 94.3D.- «1:1-Betreuung bei psychischen und psychosomati-schen Störungen in der Erwachsenenpsychiatrie» und 94.3E.- «[…] in der Kinder- und Jugendpsychiatrie»" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
 {{<markdown>}}
-Das Mindestmerkmal Punkt 3 _«Therapie»_, der Subkategorien 94.3D.- und 94.3E.- spezifiziert: _«1:1-Betreuung bedeutet, dass eine ausgebildete Fachperson des unter Mindestmerkmal Punkt 4 genannten Behandlungsteams eine einzelne Patientin/einen einzelnen Patienten individuell über einen Zeitraum von mindestens 2 Stunden ohne Unterbrechung fortlaufend betreut»_.
+Das Mindestmerkmal Punkt 3 _«Therapie»_, der Subkategorien 94.3D.- und 94.3E.- spezifiziert: _«1:1-Betreuung bedeutet, dass eine ausgebildete Fachperson des unter Mindestmerkmal Punkt 4 genannten Behandlungsteams eine einzelne Patientin/einen einzelnen Patienten individuell über einen Zeitraum von mindestens 2 Stunden ohne Unterbrechung fortlaufend betreut»_.  
 Die CHOP erfordert keine physische Anwesenheit im selben Raum. So kann eine kontinuierliche Einzelbetreuung durch eine Scheibe oder einen Bildschirm als 1:1-Betreuung berücksichtigt werden, sofern die anderen Mindestmerkmale eingehalten werden.
 {{</markdown>}}
 {{</article>}}
 
+
+<a id="0782"></a>
+{{<article number="0782"  date="01.07.2022" title="Komplexbehandlungen - Kode «[…], bis 6 Behandlungstage" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<markdown>}}
+Die Kodes «[…], bis 6 Behandlungstage» werden in Fällen erfasst, bei denen während des stationären Aufenthalts an maximal 6 Behandlungstagen die jeweils genannte Komplexbehandlung durchgeführt wurde. Diese Kodes beinhalten keine Mindestanzahl Behandlungstage. D. h. bei diesen Kodes entfallen die Mindestmerkmale, die sich auf eine Woche oder bestimmte Anzahl Behand-lungstage beziehen. Mindestmerkmale, wie Indikationen, Assessments, Behandlungsinfrastruktur (z. B. Zertifizierung) und Qualifika-tionen sind einzuhalten.
+{{</markdown>}}
+{{</article>}}
+
+
+<a id="0785"></a>
+{{<article number="0785"  date="01.07.2022" title="Hydronephrose und Infektion" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<markdown>}}
+Die ICD-10-GM-Kodes der 4-stelligen Subkategorie N13.6- «Pyonephrose» werden nur bei einer dokumentierten Infektion der Niere verschlüsselt. Dies betrifft auch den endständigen Kode N13.68 «Sonstige und nicht näher bezeichnete Pyonephrose».  
+Eine Hydronephrose durch Ureterstein mit Harnwegsinfektion nicht näher bezeichneter Lokalisation wird mit N13.21 «Hydroneph-rose bei Obstruktion durch Ureterstein» und N39.0 «Harnwegsinfektion, Lokalisation nicht näher bezeichnet» verschlüsselt.
+{{</markdown>}}
+{{</article>}}
+
+
+<a id="0786"></a>
+{{<article number="0786"  date="01.01.2022" title="93.8C.1- Referenzdokument" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<markdown>}}
+In der CHOP 2022 wurde die «Neurologisch-neurochirurgische Frührehabilitation, nach Anzahl Behandlungstage» von der Kode-Nummer 93.89.1- auf 93.8C.1- verschoben. Im «Mindestmerkmal Punkt 0, Definition und Referenzdokument» der Elementegruppe 93.8C.1- wird im Titel des Referenzdokuments weiterhin die alte Kode-Nummer genannt. Der Inhalt des Referenzdokuments gilt dennoch für die neue Kode-Nummer 93.8C.1-.
+{{</markdown>}}
+{{</article>}}
+
+
+<a id="0788"></a>
+{{<article number="0788"  date="01.01.2022" title="Spondylodese: Zählung der Segmente bei Stabwechsel und bei Verlängerung" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<markdown>}}
+Die Segmente, bei denen anlässlich eines Revisionseingriffs an der Wirbelsäule nur die Stäbe entfernt (und diese z. B. durch län-gere Stäbe ersetzt werden bei Anschlusssegment-Pathologie) und bei denen sonst keine operativen Massnahmen an den Wirbel-körpern vorgenommen werden, wie z. B. Einsetzen neuer Pedikelschrauben oder eines Cages, Dekortizierung der Facettengelenke, Anlage von lokalem Knochen oder Knochenersatzmaterial, fliessen nicht in die Zählung der operierten Segmente mit ein.
+Ad Zählen der Segmente bei Überbrückung:  
+Bei z. B. vorbestehender Spondylodese L2 – L4 und aktuell Neufusion der Segmente L1/L2 und L4/L5 wird dies mit dem zutreffen-den CHOP-Kode für 2 Segmente abgebildet, falls wie oben erwähnt, an den Wirbelkörpern L2 – L4 ausser der Stabanlage keine weiteren Massnahmen durchgeführt wurden.
+{{</markdown>}}
+{{</article>}}
+
+<a id="0789"></a>
+{{<article number="0789"  date="01.01.2022" title="Erfassen von nicht-vaskulären Stents/Prothesen" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<markdown>}}
+Folgende Kodes haben eine Unterteilung nach Anzahl der implantierten Stents/Prothesen. Es gibt für diese Stent-/Prothesen-Typen keine Summen-Kodes über den gesamten Aufenthalt.
+{{<indent level="4">}}
+42.81.- Einsetzen eines permanenten Tubus in den Ösophagus
+51.87.- Endoskopische Einlage oder Wechsel von Stent in den Gallengang
+51.9A.- Einlage oder Wechsel von Stent in den Gallengang
+{{</indent>}}
+Je Eingriff ist der Kode mit der entsprechenden Anzahl von eingesetzten Stents/Prothesen auszuwählen und einmal pro Eingriff zu erfassen.
+Beispiel: Am Tag X werden zwei selbstexpandierende Prothesen in den Ösophagus eingesetzt. Am Tag Y wird eine selbstexpandie-rende Prothese ausgewechselt.
+  
+Kodierung  
+Tag X: 42.81.41 «Einsetzen und Wechsel von zwei selbstexpandierenden Prothesen (permanenter Tubus) in den Ösophagus, endoskopisch»
+Tag Y: 42.81.40 «Einsetzen und Wechsel einer selbstexpandierenden Prothese (permanenter Tubus) in den Ösophagus, endo-skopisch»
+Folgende Kodes geben jeweils nur «eines Stents» oder «Stent», bzw. «einer Prothese» an. Es gibt für diese Stent-/Prothesen-Ty-pen keine Summen-Kodes über den gesamten Aufenthalt.
+{{<indent level="4">}}
+09.83 Konjunktivozystorhinostomie mit Einsetzen von Tubus oder Stent
+31.93 Ersetzen eines Larynx- oder Trachea-Stents
+31.96 Einsetzen eines Larynx- oder Trachea-Stents
+33.91.2- Bronchusdilatation, endoskopisch, mit Einlegen oder Wechsel eines Stents/Stent-Grafts
+44.99.5- Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Magen
+44.99.6- Einlegen oder Wechsel einer selbstexpandierenden Prothese am Magen
+46.99.5- Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Darm
+46.99.6- Einlegen oder Wechsel einer selbstexpandierenden Prothese am Darm
+48.99.50 Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese im Rektum
+48.99.60 Einlegen oder Wechsel einer selbstexpandierenden Prothese im Rektum
+52.93.- Endoskopische Einlage, Wechsel oder Entfernen von Stent (Prothese) in den Ductus pancreaticus
+52.95.4- Einlage oder Wechsel eines nicht selbstexpandierenden Stents (Prothese) in den Pankreasgang, offen chirur-gisch oder laparoskopisch
+52.95.5- Einlage oder Wechsel eines selbstexpandierenden Stents (Prothese) in den Pankreasgang, offen chirurgisch oder laparoskopisch
+58.99.10 Sonstige Operationen an Urethra und Periurethralgewebe, Einlegen und Wechsel eines Stents in die Urethra
+60.99.31 Einlegen eines Stents in die prostatische Harnröhre
+{{</indent>}}
+  
+Je Eingriff ist der Kode so oft zu kodieren, wie Stents/Prothesen implantiert wurden.
+  
+Beispiel: Am Tag X werden zwei nicht selbstexpandierende Prothesen am Darm eingelegt. Am Tag Y werden beide entfernt und durch eine selbstexpandierende Prothese ersetzt.
+Kodierung:  
+Tag X: 46.99.51 «Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Darm, offen chirurgisch» wird zweimal kodiert.
+Tag Y: 46.99.71 «Entfernen einer Prothese am Darm, offen chirurgisch» wird zweimal kodiert.
+46.99.61 «Einlegen oder Wechsel einer selbstexpandierenden Prothese am Darm, offen chirurgisch» wird einmal erfasst.
+{{</markdown>}}
+{{</article>}}
