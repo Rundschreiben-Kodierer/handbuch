@@ -477,12 +477,142 @@ Bei Os sacrum-Frakturen, die zu einer Instabilität der Wirbelsäule führen (me
 
 
 <a id="0808"></a>
-{{<article number="0801"  date="01.01.2021" title="Wechsel einer Knieendoprothese und Implantation weiterer/anderer Komponenten" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<article number="0808"  date="01.01.2021" title="Wechsel einer Knieendoprothese und Implantation weiterer/anderer Komponenten" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
 {{<markdown>}}
 Wird eine bestehende Knieendoprothese, unabhängig vom Typ, durch eine andere Knieendoprothese ersetzt, ist für die Implantation der Kode mit der Bezeichnung «bei einem Prothesenwechsel» zu wählen. Z. B. Explantation einer Hemiendoprothese und Implanta-tion einer Totalendoprothese am gleichen Knie: für die Implantation muss der Kode 81.54.31 «Implantation einer Standard-Totalen-doprothese des Kniegelenks bei einem Prothesenwechsel» erfasst werden und nicht der Kode 81.54.21 «Erstimplantation einer Standard-Totalendoprothese des Kniegelenks».  
 Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückflächenersatz eingesetzt, muss der Kode 81.54.42 «Implantation eines Patella-Rückflächenersatz bei einem Wechsel» erfasst werden und nicht der Kode 81.54.27 «Erstimplantation eines Patella-Rückflächenersatzes».
 {{</markdown>}}
 {{</article>}}
 
+
+
+
+
+
+
+
+<a id="0810"></a>
+{{<article number="0810"  date="01.01.2021" title="Erfassen der Anzahl implantierter Stents und Stent-Grafts" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<markdown>}}
+Wird eine bestehende Knieendoprothese, unabhängig vom Typ, durch eine andere Knieendoprothese ersetzt, ist für die Implantation der Kode mit der Bezeichnung «bei einem Prothesenwechsel» zu wählen. Z. B. Explantation einer Hemiendoprothese und Implanta-tion einer Totalendoprothese am gleichen Knie: für die Implantation muss der Kode 81.54.31 «Implantation einer Standard-Totalen-doprothese des Kniegelenks bei einem Prothesenwechsel» erfasst werden und nicht der Kode 81.54.21 «Erstimplantation einer Standard-Totalendoprothese des Kniegelenks».  
+Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückflächenersatz eingesetzt, muss der Kode 81.54.42 «Implantation eines Patella-Rückflächenersatz bei einem Wechsel» erfasst werden und nicht der Kode 81.54.27 «Erstimplantation eines Patella-Rückflächenersatzes».
+{{</markdown>}}
+{{</article>}}
+
+
+<a id="0818"></a>
+{{<article number="0818"  date="01.07.2020" title="Zusatzkode 00.9C.- «Einzeitige Eingriffe an Hand oder Fuss»" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<markdown>}}
+Wird eine bestehende Knieendoprothese, unabhängig vom Typ, durch eine andere Knieendoprothese ersetzt, ist für die Implantation der Kode mit der Bezeichnung «bei einem Prothesenwechsel» zu wählen. Z. B. Explantation einer Hemiendoprothese und Implanta-tion einer Totalendoprothese am gleichen Knie: für die Implantation muss der Kode 81.54.31 «Implantation einer Standard-Totalen-doprothese des Kniegelenks bei einem Prothesenwechsel» erfasst werden und nicht der Kode 81.54.21 «Erstimplantation einer Standard-Totalendoprothese des Kniegelenks».  
+Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückflächenersatz eingesetzt, muss der Kode 81.54.42 «Implantation eines Patella-Rückflächenersatz bei einem Wechsel» erfasst werden und nicht der Kode 81.54.27 «Erstimplantation eines Patella-Rückflächenersatzes».
+{{</markdown>}}
+{{</article>}}
+
+
+<a id="0819"></a>
+{{<article number="0819"  date="01.07.2020" title="7A.A2 Growing rod – Zusatzkode – Segmente beim spezifischen Eingriff" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<markdown>}}
+Wird eine bestehende Knieendoprothese, unabhängig vom Typ, durch eine andere Knieendoprothese ersetzt, ist für die Implantation der Kode mit der Bezeichnung «bei einem Prothesenwechsel» zu wählen. Z. B. Explantation einer Hemiendoprothese und Implanta-tion einer Totalendoprothese am gleichen Knie: für die Implantation muss der Kode 81.54.31 «Implantation einer Standard-Totalen-doprothese des Kniegelenks bei einem Prothesenwechsel» erfasst werden und nicht der Kode 81.54.21 «Erstimplantation einer Standard-Totalendoprothese des Kniegelenks».  
+Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückflächenersatz eingesetzt, muss der Kode 81.54.42 «Implantation eines Patella-Rückflächenersatz bei einem Wechsel» erfasst werden und nicht der Kode 81.54.27 «Erstimplantation eines Patella-Rückflächenersatzes».
+{{</markdown>}}
+{{</article>}}
+
+
+
+<a id="0820"></a>
+{{<article number="0820"  date="01.07.2020" title="Verwendung der Zusatzkodes U69.3-! «Sekundäre Schlüsselnummern für die Art des Konsums psychotroper Substanzen bei durch diese verursachten psychischen und Verhaltensstörungen»" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<markdown>}}
+Wird eine bestehende Knieendoprothese, unabhängig vom Typ, durch eine andere Knieendoprothese ersetzt, ist für die Implantation der Kode mit der Bezeichnung «bei einem Prothesenwechsel» zu wählen. Z. B. Explantation einer Hemiendoprothese und Implanta-tion einer Totalendoprothese am gleichen Knie: für die Implantation muss der Kode 81.54.31 «Implantation einer Standard-Totalen-doprothese des Kniegelenks bei einem Prothesenwechsel» erfasst werden und nicht der Kode 81.54.21 «Erstimplantation einer Standard-Totalendoprothese des Kniegelenks».  
+Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückflächenersatz eingesetzt, muss der Kode 81.54.42 «Implantation eines Patella-Rückflächenersatz bei einem Wechsel» erfasst werden und nicht der Kode 81.54.27 «Erstimplantation eines Patella-Rückflächenersatzes».
+{{</markdown>}}
+{{</article>}}
+
+
+<a id="0826"></a>
+{{<article number="0826"  date="01.07.2020" title="Einweggebrauch-VAC-Pumpensysteme" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<markdown>}}
+Wird eine bestehende Knieendoprothese, unabhängig vom Typ, durch eine andere Knieendoprothese ersetzt, ist für die Implantation der Kode mit der Bezeichnung «bei einem Prothesenwechsel» zu wählen. Z. B. Explantation einer Hemiendoprothese und Implanta-tion einer Totalendoprothese am gleichen Knie: für die Implantation muss der Kode 81.54.31 «Implantation einer Standard-Totalen-doprothese des Kniegelenks bei einem Prothesenwechsel» erfasst werden und nicht der Kode 81.54.21 «Erstimplantation einer Standard-Totalendoprothese des Kniegelenks».  
+Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückflächenersatz eingesetzt, muss der Kode 81.54.42 «Implantation eines Patella-Rückflächenersatz bei einem Wechsel» erfasst werden und nicht der Kode 81.54.27 «Erstimplantation eines Patella-Rückflächenersatzes».
+{{</markdown>}}
+{{</article>}}
+
+
+<a id="0834"></a>
+{{<article number="0834"  date="01.07.2020" title="Lithiumintoxikation" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<markdown>}}
+Wird eine bestehende Knieendoprothese, unabhängig vom Typ, durch eine andere Knieendoprothese ersetzt, ist für die Implantation der Kode mit der Bezeichnung «bei einem Prothesenwechsel» zu wählen. Z. B. Explantation einer Hemiendoprothese und Implanta-tion einer Totalendoprothese am gleichen Knie: für die Implantation muss der Kode 81.54.31 «Implantation einer Standard-Totalen-doprothese des Kniegelenks bei einem Prothesenwechsel» erfasst werden und nicht der Kode 81.54.21 «Erstimplantation einer Standard-Totalendoprothese des Kniegelenks».  
+Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückflächenersatz eingesetzt, muss der Kode 81.54.42 «Implantation eines Patella-Rückflächenersatz bei einem Wechsel» erfasst werden und nicht der Kode 81.54.27 «Erstimplantation eines Patella-Rückflächenersatzes».
+{{</markdown>}}
+{{</article>}}
+
+
+<a id="0845"></a>
+{{<article number="0845"  date="01.07.2020" title="Kollagenmatrix zur autologen Chondrozytentransplantation oder als azelluläres Implantat" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<markdown>}}
+Wird eine bestehende Knieendoprothese, unabhängig vom Typ, durch eine andere Knieendoprothese ersetzt, ist für die Implantation der Kode mit der Bezeichnung «bei einem Prothesenwechsel» zu wählen. Z. B. Explantation einer Hemiendoprothese und Implanta-tion einer Totalendoprothese am gleichen Knie: für die Implantation muss der Kode 81.54.31 «Implantation einer Standard-Totalen-doprothese des Kniegelenks bei einem Prothesenwechsel» erfasst werden und nicht der Kode 81.54.21 «Erstimplantation einer Standard-Totalendoprothese des Kniegelenks».  
+Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückflächenersatz eingesetzt, muss der Kode 81.54.42 «Implantation eines Patella-Rückflächenersatz bei einem Wechsel» erfasst werden und nicht der Kode 81.54.27 «Erstimplantation eines Patella-Rückflächenersatzes».
+{{</markdown>}}
+{{</article>}}
+
+
+<a id="0855"></a>
+{{<article number="0855"  date="01.07.2020" title="54.98.- Peritonealdialyse" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<markdown>}}
+Wird eine bestehende Knieendoprothese, unabhängig vom Typ, durch eine andere Knieendoprothese ersetzt, ist für die Implantation der Kode mit der Bezeichnung «bei einem Prothesenwechsel» zu wählen. Z. B. Explantation einer Hemiendoprothese und Implanta-tion einer Totalendoprothese am gleichen Knie: für die Implantation muss der Kode 81.54.31 «Implantation einer Standard-Totalen-doprothese des Kniegelenks bei einem Prothesenwechsel» erfasst werden und nicht der Kode 81.54.21 «Erstimplantation einer Standard-Totalendoprothese des Kniegelenks».  
+Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückflächenersatz eingesetzt, muss der Kode 81.54.42 «Implantation eines Patella-Rückflächenersatz bei einem Wechsel» erfasst werden und nicht der Kode 81.54.27 «Erstimplantation eines Patella-Rückflächenersatzes».
+{{</markdown>}}
+{{</article>}}
+
+
+<a id="0871"></a>
+{{<article number="0871"  date="01.07.2020" title="CHOP: Definition «endovaskulär»" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<markdown>}}
+Wird eine bestehende Knieendoprothese, unabhängig vom Typ, durch eine andere Knieendoprothese ersetzt, ist für die Implantation der Kode mit der Bezeichnung «bei einem Prothesenwechsel» zu wählen. Z. B. Explantation einer Hemiendoprothese und Implanta-tion einer Totalendoprothese am gleichen Knie: für die Implantation muss der Kode 81.54.31 «Implantation einer Standard-Totalen-doprothese des Kniegelenks bei einem Prothesenwechsel» erfasst werden und nicht der Kode 81.54.21 «Erstimplantation einer Standard-Totalendoprothese des Kniegelenks».  
+Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückflächenersatz eingesetzt, muss der Kode 81.54.42 «Implantation eines Patella-Rückflächenersatz bei einem Wechsel» erfasst werden und nicht der Kode 81.54.27 «Erstimplantation eines Patella-Rückflächenersatzes».
+{{</markdown>}}
+{{</article>}}
+
+
+
+<a id="0879"></a>
+{{<article number="0879"  date="01.07.2020" title="39.99.21 Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbro-chenem Aortenbogen" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<markdown>}}
+Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Methode mit einem präzisen Kode aus Kapitel 7 abge-bildet. Gibt es einen präzisen Kode, wird 39.99.21 nicht kodiert.
+{{</markdown>}}
+{{</article>}}
+
+
+<a id="0897"></a>
+{{<article number="0897"  date="01.07.2020" title="80.76.10 Arthroskopische Synovektomie am Kniegelenk/80.76.20 Offene Synovektomie am Knie-gelenk" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<markdown>}}
+Die Resektion von Plica oder Hoffa-Fettkörper am Knie wird mit diesen Kodes abgebildet.
+{{</markdown>}}
+{{</article>}}
+
+
+<a id="0903"></a>
+{{<article number="0903"  date="01.07.2020" title="51.99.00 - 51.99.14, 51.99.91, 51.99.99 Sonstige Operationen an den Gallenwegen" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<markdown>}}
+Diese Kodes sind nur für offen chirurgische oder laparoskopische Eingriffe abzubilden.
+{{</markdown>}}
+{{</article>}}
+
+
+<a id="0941"></a>
+{{<article number="0941"  date="01.07.2020" title="ABO/AB0 Suchbegriff" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<markdown>}}
+Bei der informatischen Stichwortsuche nach Blutgruppen-assoziierten Kodes gibt es sprachliche Unterschiede:
+{{<indent level="4">}}
+- im Deutschen und Italienischen müsste die Blutgruppe immer mit 0 abgebildet sein,  
+- im Französischen mit O.
+{{</indent>}}
+Es muss zurzeit unter O wie «Otto» und 0 «Null» gesucht werden, um alle Kodes zu finden.
+  
+**2010 92.24 Teleradiotherapie mit Photonen**
+92.24.1- «…mit bildgestützter Einstellung» sind Therapien mit und 92.24.2- «…ohne bildgestützte Einstellung» sind Therapien ohne bildgestützte Einstellung. Das Stichwort «bildgestützte Einstellung» bzw. «bildgestützte Bestrahlung» (IGRT) bedeutet, dass man im Bestrahlungsraum am bereits positionierten Patienten Röntgen- oder Schnittbilder anfertigt.  
+Solche Anlagen können im Bestrahlungsraum (Röntgensystem, mobiles CT, Ultraschall) oder als Zusätze direkt an den Bestrah-lungsgeräten angebracht sein. Diese Bildgebung ist von der Bestrahlungsplanung unabhängig und erfordert entsprechende Gerät-schaften. Dadurch lassen sich die Patienten- und die Zielvolumenpositionierung mit den Aufnahmen aus der Bestrahlungsplanung vergleichen. Man kann hierdurch sofort Lagerungskorrekturen des Patienten vornehmen.  
+Beispielsweise kann durch eine CT bei einem Patienten mit Prostatakarzinom die Füllung von Harnblase und Rektum kontrolliert und die daraus resultierende Position der Prostata bestimmt werden. Durch eine kontinuierliche Erfassung der Patienten- oder Or-ganbewegungen ist es auch möglich, eine Nachjustierung des Strahls während der Bestrahlung selbst vorzunehmen («adaptive Radiotherapie»)
+{{</markdown>}}
+{{</article>}}
 
 
