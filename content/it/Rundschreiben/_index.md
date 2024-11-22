@@ -1,22 +1,22 @@
 ---
-title: "Rundschreiben für Kodiererinnen und Kodierer 2024 Nr. 2"
+title: "Circolare per le codificatrici e i codificatori 2024 n. 2"
 slug: RS2024_2
-description: "5 Informationen und Präzisierungen"
+description: "Informazioni e precisazioni"
 weight: 440
 type: docs
 keywords: []
 ---
 
-{{<markdown>}}Das aktuelle Rundschreiben enthält alle, ab 1. Juli 2024 gültigen «Informationen und Präzisierungen».  
-Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Löschungen in rot~~</font>
+{{<markdown>}}La presente circolare contiene tutte le «Informazioni e precisazioni» valevoli dal 1° luglio 2024.  
+Legenda: <font color="green">novità in verde</font>, <font color="red">~~cancellazioni in rosso~~</font>
   
-**Beschreibung der Nummerierung**  
-Die «Informationen und Präzisierungen» sind aufsteigend aufgelistet, wobei die neuesten oder aktualisierten Informationen die tiefste Nummer tragen.  
-Z. B.:{{</markdown>}} {{<indent level="5">}}{{<markdown>}}
-0999 (Nummer) 01.01.2012 (gültig seit/ab)  
+**Descrizione della numerazione**  
+Le «Informazioni e precisazioni» sono elencate in base a numerazione crescente. Le informazioni più recenti o più aggiornate hanno il numero più basso.  
+Es.:{{</markdown>}} {{<indent level="5">}}{{<markdown>}}
+0999 (Numero) 01.01.2012 (valevole dal)  
 0998 01.01.2012  
 [...]  
-0852 01.07.2017 usw
+0852 01.07.2017 ecc.
 {{</markdown>}}
 {{</indent>}}
 
