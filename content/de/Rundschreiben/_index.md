@@ -503,8 +503,9 @@ Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückfl
 <a id="0818"></a>
 {{<article number="0818"  date="01.07.2020" title="Zusatzkode 00.9C.- «Einzeitige Eingriffe an Hand oder Fuss»" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
 {{<markdown>}}
-Wird eine bestehende Knieendoprothese, unabhängig vom Typ, durch eine andere Knieendoprothese ersetzt, ist für die Implantation der Kode mit der Bezeichnung «bei einem Prothesenwechsel» zu wählen. Z. B. Explantation einer Hemiendoprothese und Implanta-tion einer Totalendoprothese am gleichen Knie: für die Implantation muss der Kode 81.54.31 «Implantation einer Standard-Totalen-doprothese des Kniegelenks bei einem Prothesenwechsel» erfasst werden und nicht der Kode 81.54.21 «Erstimplantation einer Standard-Totalendoprothese des Kniegelenks».  
-Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückflächenersatz eingesetzt, muss der Kode 81.54.42 «Implantation eines Patella-Rückflächenersatz bei einem Wechsel» erfasst werden und nicht der Kode 81.54.27 «Erstimplantation eines Patella-Rückflächenersatzes».
+Folgende Tabelle präzisiert die Kodierung von Eingriffskode und Zusatzkode bei einzeitigen Mehrfacheingriffen, am Beispiel der Hand.
+
+
 {{</markdown>}}
 {{</article>}}
 
