@@ -287,7 +287,6 @@ Die Elementegruppe 39.78.5- umfasst drei Zusatzkodes:
   
 {{</markdown>}}
 {{<insertImage image="0767_a.png" class="edge max-w-90">}}
-{{</article>}}
 {{<markdown>}}
 
 Die aortomonoiliakal oder aortobiiliakal endenden Stent-Grafts können mit Stent-Grafts in der linken und/oder rechten A. iliaca com-munis verlängert werden (weitere Stent-Grafts werden dann anmodelliert). Die entsprechenden Kodes der Elementegruppen 39.7A.1- «Endovaskuläre Implantation in Beckenarterien von Stent-Grafts (Stent-Prothesen), iliakal, ohne Seitenarm, nach Anzahl Stent-Prothesen» und 39.7A.2- «Endovaskuläre Implantation in Beckenarterien von Stent-Grafts (Stent-Prothesen), iliakal mit Ver-sorgung von Seitenast» sind in diesem Fall zusätzlich zu kodieren.  
