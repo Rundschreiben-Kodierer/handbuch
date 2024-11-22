@@ -227,7 +227,7 @@ Werden hingegen ein craniales MRI, eine neurophysiologische Diagnostik sowie ein
 {{</markdown>}}
 {{</article>}}
 
-{{<article number="0762"  date="01.07.2024" title="Berücksichtigte Therapiedauer" collapsibleClass="d-inline-block" groupId="RS2024_2" >}}
+{{<article number="0762"  date="01.01.2024" title="Berücksichtigte Therapiedauer" collapsibleClass="d-inline-block" groupId="RS2024_2" >}}
 {{<markdown>}}
 Bei einer Gruppentherapie ist die gesamte Therapiedauer zu zählen, an der die Patientin / der Patient anwesend ist. Z. B. wenn fünf Patient/innen an einer Stunde Gruppentherapie teilgenommen haben, werden bei jeder Patientin/jedem Patienten 60 Minuten Thera-piedauer angerechnet.  
 Wird bei einer Gruppen- oder Einzeltherapie die gleiche Therapieart / Therapieleistung durch zwei oder mehr Therapeuten / Pflege-fachpersonen erbracht, ist die erbrachte Therapiezeit einmal zu zählen. Es gilt unabhängig von der Anzahl der Therapeuten, die Therapiezeit am/an den Patienten.  
@@ -236,7 +236,7 @@ Ausnahme: Es bestehen CHOP-Kodes, bei denen im Beachte angegeben ist, dass die g
 {{</article>}}
 
 <a id="0763"></a>
-{{<article class="red" number="~~0763~~"  date="~~01.07.2024~~" title="~~Präzisierung zur Anwendung des Messinstrumentes FIM~~™" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<article class="red" number="~~0763~~"  date="~~01.01.2024~~" title="~~Präzisierung zur Anwendung des Messinstrumentes FIM~~™" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
 {{<markdown>}}
 Die Präzisierung 0763 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersatzlos gestrichen.
 {{</markdown>}}
@@ -244,7 +244,7 @@ Die Präzisierung 0763 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersatzlos g
 
 
 <a id="0764"></a>
-{{<article class="red" number="0764"  date="01.07.2024" title="Berechnung der Aufenthaltstage bei Anwendung des CHOP-Kodes 93.59.5- «Komplexbehand-lung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<article class="red" number="0764"  date="01.01.2024" title="Berechnung der Aufenthaltstage bei Anwendung des CHOP-Kodes 93.59.5- «Komplexbehand-lung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
 {{<markdown>}}
 Die Präzisierung 0764 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersetzt durch die Präzisierung <a href="#0758">0758</a>
 
@@ -254,7 +254,7 @@ Die Präzisierung 0764 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersetzt dur
 
 
 <a id="0765"></a>
-{{<article number="0765"  date="01.07.2024" title="Alleiniger Schaft- oder Kopfwechsel bei einer (inversen) Schultergelenk-Endoprothese" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<article number="0765"  date="01.01.2024" title="Alleiniger Schaft- oder Kopfwechsel bei einer (inversen) Schultergelenk-Endoprothese" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
 {{<markdown>}}
 In der CHOP gibt es keine spezifischen Kodes für den Schaftwechsel bei einer inversen Schultergelenk-Endoprothese. Bis zur Bil-dung von spezifischen Kodes sind für das Entfernen des Schafts der Kode 80.01.09 «Arthrotomie zur Prothesenentfernung an der Schulter, sonstige» und für die Implantation (bei einem Wechsel) der Kode 81.81.35 «Implantation Inlay, Kopf sowie Schaft, Totalen-doprothese Schultergelenk, bei Wechsel von Komponenten» zu erfassen.  
 Bei einem alleinigen Wechsel vom Prothesenkopf sind die CHOP-Kodes 80.01.09 «Arthrotomie zur Prothesenentfernung an der Schulter, sonstige» + 81.81.34 «Implantation Inlay sowie Kopf, Totalendoprothese Schultergelenk, bei Wechsel von Komponenten» zu verwenden.
@@ -263,13 +263,36 @@ Bei einem alleinigen Wechsel vom Prothesenkopf sind die CHOP-Kodes 80.01.09 «Ar
   
 
 <a id="0766"></a>
-{{<article number="0766"  date="01.07.2024" title="7A.7- Stabilisierung der Wirbelsäule und Stellungskorrektur – Zugang dorsal und/oder dorsolate-ral" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<article number="0766"  date="01.01.2024" title="7A.7- Stabilisierung der Wirbelsäule und Stellungskorrektur – Zugang dorsal und/oder dorsolate-ral" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
 {{<markdown>}}
 Für die Subkategorien 7A.71.- bis 7A.74.- erfolgte die Aufgliederung in 5. Stelle für den Zugang «dorsal und dorsolateral», bzw. «ventral», in 6. Stelle nach der Anzahl behandelter Segmente (aufgegliedert bis 14 und mehr). Das «und» ist gemäss CHOP-Kon-ventionen als «und/oder» zu verstehen. Das «Beachte» unter 7A.7- «Stabilisierung der Wirbelsäule und Stellungskorrektur» lautet: «Erfolgt der Zugang für gewisse Segmente von dorsal sowie von ventral, so ist für das gesamte Eingriffsgebiet die gesamte Anzahl der Segmente die von dorsal operiert wurden mit einem Kode anzugeben, sowie die gesamte Anzahl der Segmente, die von ventral operiert wurden mit einem anderen Kode. Zusätzlich wird der Zusatzkode der gesamten Anzahl operierter Segmente angegeben.»  
 Die dorsolateralen Zugänge zählen zu den dorsalen Zugängen. Sprich das Segment wird nicht doppelt gezählt, wenn es von dorsal sowie dorsolateral operiert wird.
 Im Beispiel der folgenden Abbildung erfolgte eine Spondylodese über sechs Wirbeln, d.h. über fünf Segmente. Drei Segmente wer-den von dorsal und/oder dorsolateral operiert, 4 Segmente von ventral. Es werden somit ein Kode für drei Segmente «dorsal und dorsolateral» sowie ein Kode für vier Segmente «ventral» erfasst. Zusätzlich wird der entsprechende Kode der Subkategorie 7A.B4.- «Summe der operierten Segmente der Wirbelsäule» für fünf Segmente kodiert.  
+  
 {{</markdown>}}
 {{<insertImage image="do-d-14.04.jpg" class="edge max-w-90">}}
 {{</article>}}
   
+<a id="0767"></a>
+{{<article number="0767"  date="01.01.2024" title="Auflistung von Massnahmen in den Komplexbehandlungen oder Komplexdiagnostiken" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<markdown>}}
+Bei den Kodes der Subkategorie 39.71.- «Endovaskuläre Implantation eines Stent-Grafts [Stent-Prothesen] an der abdominalen Aorta» und der Elementegruppe 39.73.4- «Endovaskuläre Implantation von Stent-Grafts [Stent-Prothesen] in die Aorta thoracoabdo-minalis» ist mit den Zusatzkodes 39.78.5- «Ende der untersten Stent-Grafts [Stent-Prothesen]» anzugeben, wie der Stent-Graft en-det.  
+Die Elementegruppe 39.78.5- umfasst drei Zusatzkodes:  
+  
+{{<indent level="4">}}
+- 39.78.51 «Ende des untersten Stent-Grafts (Stent-Prothese), aortal»
+- 39.78.52 «Ende des untersten Stent-Grafts (Stent-Prothese), aortomonoiliakal»
+- 39.78.53 «Ende der untersten Stent-Grafts (Stent-Prothesen), aortobiiliakal»
+{{</indent>}}
+  
+{{</markdown>}}
+{{<insertImage image="0767_a.png" class="edge max-w-90">}}
+{{</article>}}
+{{<markdown>}}
+
+Die aortomonoiliakal oder aortobiiliakal endenden Stent-Grafts können mit Stent-Grafts in der linken und/oder rechten A. iliaca com-munis verlängert werden (weitere Stent-Grafts werden dann anmodelliert). Die entsprechenden Kodes der Elementegruppen 39.7A.1- «Endovaskuläre Implantation in Beckenarterien von Stent-Grafts (Stent-Prothesen), iliakal, ohne Seitenarm, nach Anzahl Stent-Prothesen» und 39.7A.2- «Endovaskuläre Implantation in Beckenarterien von Stent-Grafts (Stent-Prothesen), iliakal mit Ver-sorgung von Seitenast» sind in diesem Fall zusätzlich zu kodieren.  
+Folgende Tabelle illustriert die verschiedenen Situationen:  
+  
+{{</markdown>}}
+{{</article>}}
 
