@@ -269,6 +269,7 @@ Für die Subkategorien 7A.71.- bis 7A.74.- erfolgte die Aufgliederung in 5. Stel
 Die dorsolateralen Zugänge zählen zu den dorsalen Zugängen. Sprich das Segment wird nicht doppelt gezählt, wenn es von dorsal sowie dorsolateral operiert wird.
 Im Beispiel der folgenden Abbildung erfolgte eine Spondylodese über sechs Wirbeln, d.h. über fünf Segmente. Drei Segmente wer-den von dorsal und/oder dorsolateral operiert, 4 Segmente von ventral. Es werden somit ein Kode für drei Segmente «dorsal und dorsolateral» sowie ein Kode für vier Segmente «ventral» erfasst. Zusätzlich wird der entsprechende Kode der Subkategorie 7A.B4.- «Summe der operierten Segmente der Wirbelsäule» für fünf Segmente kodiert.  
    
+  
 {{</markdown>}}
 
 {{<lineBreak>}}
@@ -289,14 +290,13 @@ Die Elementegruppe 39.78.5- umfasst drei Zusatzkodes:
   
 In der folgenden Tabelle wurde die Bedeutung des jeweiligen Zusatzkodes graphisch dargestellt.
 {{</markdown>}}
-{{<lineBreak>}}
 {{<insertImage image="0767_a.png" class="edge max-w-90">}}
 {{<markdown>}}
   
+{{<lineBreak>}}
 Die aortomonoiliakal oder aortobiiliakal endenden Stent-Grafts können mit Stent-Grafts in der linken und/oder rechten A. iliaca com-munis verlängert werden (weitere Stent-Grafts werden dann anmodelliert). Die entsprechenden Kodes der Elementegruppen 39.7A.1- «Endovaskuläre Implantation in Beckenarterien von Stent-Grafts (Stent-Prothesen), iliakal, ohne Seitenarm, nach Anzahl Stent-Prothesen» und 39.7A.2- «Endovaskuläre Implantation in Beckenarterien von Stent-Grafts (Stent-Prothesen), iliakal mit Ver-sorgung von Seitenast» sind in diesem Fall zusätzlich zu kodieren.  
   
 Folgende Tabelle illustriert die verschiedenen Situationen:  
-{{<lineBreak>}}
 {{</markdown>}}
 {{<insertImage image="0767_b.png" class="edge max-w-90">}}
 {{<insertImage image="0767_c.png" class="edge max-w-90">}}
