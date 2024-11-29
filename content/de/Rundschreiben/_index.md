@@ -637,8 +637,8 @@ Folgende Tabelle präzisiert die Kodierung von Eingriffskode und Zusatzkode bei 
 
 
 
-|Einzeitige Mehrfacheingriffe an der Hand - Beispiel|
-||Eingriff|00.9C.1- Einzeitige Mehrfacheingriffe an Mittelhand- und Fingerstrahlen|
+ |Einzeitige Mehrfacheingriffe an der Hand - Beispiel |
+| |Eingriff |00.9C.1- Einzeitige Mehrfacheingriffe an Mittelhand- und Fingerstrahlen |
 |Fall|Beschreibung|Eingriffskode|Lateralität|Zusatzkode|Titel|Lateralität|
 | Fall 1|Eingriff vom Typ A am Finger des 2. Strahls der linken Hand|Kode des Eingriffs vom Typ A|Einseitig Links Kein| Kode|
 |Fall 2|Eingriff vom Typ A am Finger des 2. Strahls der linken Hand  Eingriff vom Typ B am Finger des 3. Strahls der rechten Hand|Kode des Eingriffs vom Typ A|Einseitig Links|Kein Kode|
