@@ -594,7 +594,35 @@ Zu erfassen sind:
 Für RIVA einmal 36.08.21 «Implantation perkutan-transluminal von Stents mit Medikamentenfreisetzung, in einer Koronararterie»
 Für RCA zweimal 36.08.11 «Implantation perkutan-transluminal von Stents ohne Medikamentenfreisetzung, in einer Koronararterie» und einmal den Zusatzkode 39.C2.12 «Bare metal Stent»  
 Für RCX einmal 36.08.23 «Implantation perkutan-transluminal von selbstexpandierenden Stents mit Medikamentenfreisetzung, in einer Koronararterie»
-
+  
+**Erfassen der Anzahl von Stents falls im stationären Fall Stents sowohl in die Koronararterien als auch in andere Gefässe implantiert werden**  
+Es ist nicht zulässig die Anzahl der implantierten Koronararterienstents mit der Anzahl der peripher implantierten Blutgefässstents zu addieren.  
+Ein Zusatzkode der Subkategorie 39.C1.- «Anzahl der implantierten Stents» ist nur zu erfassen für die Summe der insgesamt im-plantierten peripheren Gefässstents im Gesamtfall.  
+  
+_Fallbeispiel 1_  
+In einer ersten Intervention am Tag X: Koronare PTCA mit 4 Stents (alle medikamentenfreisetzend) (2 RIVA, 1 RCX, 1 RCA)
+In einer zweiten Intervention am Tag X: PTA und 1 Stent (nicht medikamentenfreisetzend) A. femoralis  
+  
+Zu erfassen sind am Tag X:  
+Viermal der Kode 36.08.22 «Implantation perkutan-transluminal von Stents mit Medikamentenfreisetzung, in mehreren Koronararterien»  
+Der angebrachte Kode der Subkategorie 39.75.- «Perkutan-transluminale Gefässintervention, sonstige Gefässe»  
+Einmal der Kode 39.B1.G1 «(Perkutan-)transluminale Implantation von Stents ohne Medikamentenfreisetzung, Arterien vom Oberschenkel»  
+Und der Kode 39.C1.11 «1 implantierter Stent»  
+  
+_Fallbeispiel 2_  
+In einer ersten Operation am Tag X: Koronare PTCA mit 4 Stents (alle medikamentenfreisetzend) (2 RIVA, 1 RCX, 1 RCA)
+In einer zweiten Operation am Tag Y: PTA und 1 Stent (nicht medikamentenfreisetzend) A. femoralis  
+  
+Zu erfassen sind am Tag X:  
+Viermal der Kode 36.08.22 «Implantation perkutan-transluminal von Stents mit Medikamentenfreisetzung, in mehreren Koronararte-rien»  
+  
+Zu erfassen sind am Tag Y:  
+Der angebrachte Kode der Subkategorie 39.75.- «Perkutan-transluminale Gefässintervention, sonstige Gefässe»
+Einmal der Kode 39.B1.G1 «(Perkutan-)transluminale Implantation von Stents ohne Medikamentenfreisetzung, Arterien vom Ober-schenkel» und der Kode 39.C1.11 «1 implantierter Stent»  
+  
+*Grund für die Angabe der Gesamtanzahl der im Rahmen eines stationären Aufenthaltes implantierten Stents, bzw. Stent-Grafts*  
+  
+Analog der Logik bei den Bypass-Anastomosen zur Revaskularisation (s. 36.1C.- «Bypass-Anastomose zur Myokard-Revaskularisa-tion, nach gesamter Anzahl»), dienen die Kodes unter der Elementegruppe 39.78.6- «Anzahl der implantierten aortalen Stent-Grafts [Stent-Prothesen]» und der Subkategorie 39.C1.- «Anzahl der implantierten Stents» als Identifikatoren von Fällen mit der Implanta-tion von mehreren aortalen Stent-Grafts, bzw. peripheren Stents.
 
 {{</markdown>}}
 {{</article>}}
