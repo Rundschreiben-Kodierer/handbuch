@@ -630,10 +630,10 @@ Analog der Logik bei den Bypass-Anastomosen zur Revaskularisation (s. 36.1C.- «
 {{<markdown>}}
 Folgende Tabelle präzisiert die Kodierung von Eingriffskode und Zusatzkode bei einzeitigen Mehrfacheingriffen, am Beispiel der Hand.
   
- | En-tête 1 | En-tête 2 | En-tête 3 |
-|-----------|-----------|-----------|
-| Cellule 1 | Cellule 2 | Cellule 3 |
-| Cellule 4 | Cellule 5 | Cellule 6 |
+ | Einzeitige Mehrfacheingriffe an der Hand - Beispiel |
+|-----------|-----------|-----------| Cellule 3 |
+| Cellule 1 | Cellule 2 | Cellule 3 | Cellule 3 | Cellule 3 |
+| Cellule 4 | Cellule 5 | Cellule 6 | Cellule 3 |
 
 
 
