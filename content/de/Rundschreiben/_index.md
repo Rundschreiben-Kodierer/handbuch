@@ -629,6 +629,27 @@ Analog der Logik bei den Bypass-Anastomosen zur Revaskularisation (s. 36.1C.- «
 {{<article number="0818"  date="01.07.2020" title="Zusatzkode 00.9C.- «Einzeitige Eingriffe an Hand oder Fuss»" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
 {{<markdown>}}
 Folgende Tabelle präzisiert die Kodierung von Eingriffskode und Zusatzkode bei einzeitigen Mehrfacheingriffen, am Beispiel der Hand.
+
+| Colonne unique |
+|----------------|
+| Donnée 1       |
+
+| Colonne 1 | Colonne 2 | Colonne 3 |
+|-----------|-----------|-----------|
+| Donnée 1  | Donnée 2  | Donnée 3  |
+
+| Colonne 1 | Colonne 2 | Colonne 3 | Colonne 4 | Colonne 5 | Colonne 6 | Colonne 7 |
+|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
+| Donnée 1  | Donnée 2  | Donnée 3  | Donnée 4  | Donnée 5  | Donnée 6  | Donnée 7  |
+
+
+| En-tête 1 | En-tête 2 | En-tête 3 |
+|-----------|-----------|-----------|
+| Cellule 1 | Cellule 2 | Cellule 3 |
+| Cellule 4 | Cellule 5 | Cellule 6 |
+
+
+
   
  | Einzeitige Mehrfacheingriffe an der Hand - Beispiel |
 |-----------|-----------|-----------| Cellule 3 |
