@@ -628,6 +628,7 @@ Analog der Logik bei den Bypass-Anastomosen zur Revaskularisation (s. 36.1C.- «
 <a id="0818"></a>
 {{<article number="0818"  date="01.07.2020" title="Zusatzkode 00.9C.- «Einzeitige Eingriffe an Hand oder Fuss»" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
 
+**DEBUT**
 
 <html xmlns:v="urn:schemas-microsoft-com:vml"
 xmlns:o="urn:schemas-microsoft-com:office:office"
@@ -646,9 +647,9 @@ href="Einzeitige%20Mehrfacheingriffe%20an%20der%20Hand_fichiers/filelist.xml">
  <o:DocumentProperties>
   <o:Author>Emery Pierre Alec BFS</o:Author>
   <o:LastAuthor>Emery Pierre Alec BFS</o:LastAuthor>
-  <o:Revision>1</o:Revision>
+  <o:Revision>2</o:Revision>
   <o:Created>2024-11-29T09:52:00Z</o:Created>
-  <o:LastSaved>2024-11-29T09:53:00Z</o:LastSaved>
+  <o:LastSaved>2024-11-29T10:02:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
   <o:Words>454</o:Words>
   <o:Characters>2501</o:Characters>
@@ -664,6 +665,7 @@ href="Einzeitige%20Mehrfacheingriffe%20an%20der%20Hand_fichiers/themedata.thmx">
 href="Einzeitige%20Mehrfacheingriffe%20an%20der%20Hand_fichiers/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
+  <w:Zoom>120</w:Zoom>
   <w:GrammarState>Clean</w:GrammarState>
   <w:TrackMoves>false</w:TrackMoves>
   <w:TrackFormatting/>
@@ -1946,8 +1948,10 @@ span.Titre3Car
 	mso-ansi-font-size:14.0pt;
 	mso-bidi-font-size:14.0pt;
 	font-family:"Times New Roman",serif;
+	mso-ascii-font-family:"Times New Roman";
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Times New Roman";
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:major-bidi;
 	color:#0F4761;
@@ -1961,8 +1965,10 @@ span.Titre4Car
 	mso-style-locked:yes;
 	mso-style-link:"Titre 4";
 	font-family:"Times New Roman",serif;
+	mso-ascii-font-family:"Times New Roman";
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Times New Roman";
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:major-bidi;
 	color:#0F4761;
@@ -1977,8 +1983,10 @@ span.Titre5Car
 	mso-style-locked:yes;
 	mso-style-link:"Titre 5";
 	font-family:"Times New Roman",serif;
+	mso-ascii-font-family:"Times New Roman";
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Times New Roman";
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:major-bidi;
 	color:#0F4761;
@@ -1992,14 +2000,28 @@ span.Titre6Car
 	mso-style-locked:yes;
 	mso-style-link:"Titre 6";
 	font-family:"Times New Roman",serif;
+	mso-ascii-font-family:"Times New Roman";
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Times New Roman";
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:major-bidi;
 	color:#595959;
 	mso-themecolor:text1;
 	mso-themetint:166;
 	font-style:italic;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;}
 span.Titre7Car
 	{mso-style-name:"Titre 7 Car";
 	mso-style-noshow:yes;
@@ -2008,8 +2030,10 @@ span.Titre7Car
 	mso-style-locked:yes;
 	mso-style-link:"Titre 7";
 	font-family:"Times New Roman",serif;
+	mso-ascii-font-family:"Times New Roman";
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Times New Roman";
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:major-bidi;
 	color:#595959;
@@ -2023,8 +2047,10 @@ span.Titre8Car
 	mso-style-locked:yes;
 	mso-style-link:"Titre 8";
 	font-family:"Times New Roman",serif;
+	mso-ascii-font-family:"Times New Roman";
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Times New Roman";
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:major-bidi;
 	color:#272727;
@@ -2039,8 +2065,10 @@ span.Titre9Car
 	mso-style-locked:yes;
 	mso-style-link:"Titre 9";
 	font-family:"Times New Roman",serif;
+	mso-ascii-font-family:"Times New Roman";
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Times New Roman";
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:major-bidi;
 	color:#272727;
@@ -2074,8 +2102,10 @@ span.Sous-titreCar
 	mso-ansi-font-size:14.0pt;
 	mso-bidi-font-size:14.0pt;
 	font-family:"Times New Roman",serif;
+	mso-ascii-font-family:"Times New Roman";
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Times New Roman";
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:major-bidi;
 	color:#595959;
@@ -2116,9 +2146,6 @@ span.GramE
 .MsoChpDefault
 	{mso-style-type:export-only;
 	mso-default-props:yes;
-	font-size:11.0pt;
-	mso-ansi-font-size:11.0pt;
-	mso-bidi-font-size:11.0pt;
 	font-family:"Aptos",sans-serif;
 	mso-ascii-font-family:Aptos;
 	mso-ascii-theme-font:minor-latin;
@@ -2128,12 +2155,10 @@ span.GramE
 	mso-hansi-theme-font:minor-latin;
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:0pt;
+	mso-ligatures:none;
 	mso-ansi-language:DE-CH;
 	mso-fareast-language:EN-US;}
-.MsoPapDefault
-	{mso-style-type:export-only;
-	margin-bottom:8.0pt;
-	line-height:107%;}
 @page WordSection1
 	{size:21.0cm 841.95pt;
 	margin:72.0pt 72.0pt 72.0pt 72.0pt;
@@ -2155,11 +2180,7 @@ div.WordSection1
 	mso-style-priority:99;
 	mso-style-parent:"";
 	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
-	mso-para-margin-top:0cm;
-	mso-para-margin-right:0cm;
-	mso-para-margin-bottom:8.0pt;
-	mso-para-margin-left:0cm;
-	line-height:107%;
+	mso-para-margin:0cm;
 	mso-pagination:widow-orphan;
 	font-size:11.0pt;
 	font-family:"Aptos",sans-serif;
@@ -2167,8 +2188,6 @@ div.WordSection1
 	mso-ascii-theme-font:minor-latin;
 	mso-hansi-font-family:Aptos;
 	mso-hansi-theme-font:minor-latin;
-	mso-font-kerning:1.0pt;
-	mso-ligatures:standardcontextual;
 	mso-ansi-language:DE-CH;
 	mso-fareast-language:EN-US;}
 </style>
@@ -2191,8 +2210,9 @@ div.WordSection1
   <td width=663 colspan=7 valign=top style='width:497.1pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:9.5pt'>
   <p class=MsoNormal style='line-height:normal'><a name="_GoBack"></a><b><span
-  lang=DE-CH style='mso-bidi-font-size:8.5pt;color:black'>Einzeitige
-  Mehrfacheingriffe an der Hand - Beispiel<o:p></o:p></span></b></p>
+  lang=DE-CH style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Einzeitige Mehrfacheingriffe an der Hand -
+  Beispiel<o:p></o:p></span></b></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:1;height:21.6pt'>
@@ -2200,7 +2220,8 @@ div.WordSection1
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 3.5pt 0cm 3.5pt;height:21.6pt'>
   <p class=MsoNormal align=center style='text-align:center;line-height:normal'><span
-  lang=DE-CH style='mso-bidi-font-size:8.5pt;color:black'>&nbsp;<o:p></o:p></span></p>
+  lang=DE-CH style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>&nbsp;<o:p></o:p></span></p>
   </td>
   <td width=149 colspan=2 valign=top style='width:111.4pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2208,7 +2229,8 @@ div.WordSection1
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 3.5pt 0cm 3.5pt;height:21.6pt'>
   <p class=MsoNormal style='line-height:normal'><b><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Eingriff<o:p></o:p></span></b></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Eingriff<o:p></o:p></span></b></p>
   </td>
   <td width=326 colspan=3 valign=top style='width:244.2pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2216,8 +2238,9 @@ div.WordSection1
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 3.5pt 0cm 3.5pt;height:21.6pt'>
   <p class=MsoNormal style='line-height:normal'><b><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt'>00.9C.1- <span style='color:black'>Einzeitige
-  Mehrfacheingriffe an Mittelhand- und Fingerstrahlen<o:p></o:p></span></span></b></p>
+  style='mso-bidi-font-size:8.5pt;mso-font-kerning:1.0pt;mso-ligatures:standardcontextual'>00.9C.1-
+  <span style='color:black'>Einzeitige Mehrfacheingriffe an Mittelhand- und
+  Fingerstrahlen<o:p></o:p></span></span></b></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:2;height:8.95pt'>
@@ -2226,49 +2249,56 @@ div.WordSection1
   solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
   0cm 3.5pt 0cm 3.5pt;height:8.95pt'>
   <p class=MsoNormal style='line-height:normal'><b><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Fall<o:p></o:p></span></b></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Fall<o:p></o:p></span></b></p>
   </td>
   <td width=151 valign=top style='width:4.0cm;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 3.5pt 0cm 3.5pt;height:8.95pt'>
   <p class=MsoNormal style='line-height:normal'><b><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Beschreibung<o:p></o:p></span></b></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Beschreibung<o:p></o:p></span></b></p>
   </td>
-  <td width=76 valign=top style='width:57.05pt;border-top:none;border-left:
+  <td width=85 valign=top style='width:63.65pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 3.5pt 0cm 3.5pt;height:8.95pt'>
   <p class=MsoNormal style='line-height:normal'><b><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Eingriffskode<o:p></o:p></span></b></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Eingriffskode<o:p></o:p></span></b></p>
   </td>
-  <td width=72 valign=top style='width:54.35pt;border-top:none;border-left:
+  <td width=64 valign=top style='width:47.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 3.5pt 0cm 3.5pt;height:8.95pt'>
   <p class=MsoNormal style='line-height:normal'><b><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Lateralit t<o:p></o:p></span></b></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Lateralit t<o:p></o:p></span></b></p>
   </td>
   <td width=89 valign=top style='width:67.0pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 3.5pt 0cm 3.5pt;height:8.95pt'>
   <p class=MsoNormal style='line-height:normal'><b><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Zusatzkode<o:p></o:p></span></b></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Zusatzkode<o:p></o:p></span></b></p>
   </td>
   <td width=159 valign=top style='width:119.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 3.5pt 0cm 3.5pt;height:8.95pt'>
   <p class=MsoNormal style='line-height:normal'><b><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Titel<o:p></o:p></span></b></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Titel<o:p></o:p></span></b></p>
   </td>
   <td width=77 valign=top style='width:58.1pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 3.5pt 0cm 3.5pt;height:8.95pt'>
   <p class=MsoNormal style='line-height:normal'><b><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Lateralit t<o:p></o:p></span></b></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Lateralit t<o:p></o:p></span></b></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:3;height:18.1pt'>
@@ -2277,30 +2307,34 @@ div.WordSection1
   solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;background:
   #DCE6F1;padding:0cm 3.5pt 0cm 3.5pt;height:18.1pt'>
   <p class=MsoNormal style='line-height:normal'><b><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Fall 1<o:p></o:p></span></b></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Fall 1<o:p></o:p></span></b></p>
   </td>
   <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-bottom-alt:
   solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;background:
   #DCE6F1;padding:0cm 3.5pt 0cm 3.5pt;height:18.1pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Eingriff vom Typ A am Finger des
-  2. Strahls der linken Hand<o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Eingriff vom Typ A am Finger des 2. Strahls
+  der linken Hand<o:p></o:p></span></p>
   </td>
-  <td width=76 valign=top style='width:57.05pt;border-top:none;border-left:
+  <td width=85 valign=top style='width:63.65pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   background:#DCE6F1;padding:0cm 3.5pt 0cm 3.5pt;height:18.1pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Kode des Eingriffs <span
-  class=GramE>vom Typ</span> A<o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Kode des Eingriffs <span class=GramE>vom
+  Typ</span> A<o:p></o:p></span></p>
   </td>
-  <td width=72 valign=top style='width:54.35pt;border-top:none;border-left:
+  <td width=64 valign=top style='width:47.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   background:#DCE6F1;padding:0cm 3.5pt 0cm 3.5pt;height:18.1pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Einseitig Links<o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Einseitig Links<o:p></o:p></span></p>
   </td>
   <td width=326 colspan=3 style='width:244.2pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2308,7 +2342,8 @@ div.WordSection1
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   background:#DCE6F1;padding:0cm 3.5pt 0cm 3.5pt;height:18.1pt'>
   <p class=MsoNormal align=center style='text-align:center;line-height:normal'><span
-  lang=DE-CH style='mso-bidi-font-size:8.5pt;color:black'>Kein Kode<o:p></o:p></span></p>
+  lang=DE-CH style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Kein Kode<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:4;height:18.1pt'>
@@ -2317,7 +2352,8 @@ div.WordSection1
   solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
   0cm 3.5pt 0cm 3.5pt;height:18.1pt'>
   <p class=MsoNormal style='line-height:normal'><b><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Fall 2<o:p></o:p></span></b></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Fall 2<o:p></o:p></span></b></p>
   </td>
   <td width=151 rowspan=2 style='width:4.0cm;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2325,48 +2361,54 @@ div.WordSection1
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 3.5pt 0cm 3.5pt;height:18.1pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Eingriff vom Typ A am Finger des
-  2. Strahls der linken Hand<br>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Eingriff vom Typ A am Finger des 2. Strahls
+  der linken Hand<br>
   Eingriff vom Typ B am Finger des 3. Strahls der rechten Hand<o:p></o:p></span></p>
   </td>
-  <td width=76 valign=top style='width:57.05pt;border-top:none;border-left:
+  <td width=85 valign=top style='width:63.65pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 3.5pt 0cm 3.5pt;height:18.1pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Kode des Eingriffs <span
-  class=GramE>vom Typ</span> A<o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Kode des Eingriffs <span class=GramE>vom
+  Typ</span> A<o:p></o:p></span></p>
   </td>
-  <td width=72 valign=top style='width:54.35pt;border-top:none;border-left:
+  <td width=64 valign=top style='width:47.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 3.5pt 0cm 3.5pt;height:18.1pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Einseitig Links<o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Einseitig Links<o:p></o:p></span></p>
   </td>
   <td width=326 colspan=3 rowspan=2 style='width:244.2pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:18.1pt'>
   <p class=MsoNormal align=center style='text-align:center;line-height:normal'><span
-  lang=DE-CH style='mso-bidi-font-size:8.5pt;color:black'>Kein Kode<o:p></o:p></span></p>
+  lang=DE-CH style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Kein Kode<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:5;height:18.1pt'>
-  <td width=76 valign=top style='width:57.05pt;border-top:none;border-left:
+  <td width=85 valign=top style='width:63.65pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 3.5pt 0cm 3.5pt;height:18.1pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Kode des Eingriffs <span
-  class=GramE>vom Typ</span> B<o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Kode des Eingriffs <span class=GramE>vom
+  Typ</span> B<o:p></o:p></span></p>
   </td>
-  <td width=72 valign=top style='width:54.35pt;border-top:none;border-left:
+  <td width=64 valign=top style='width:47.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 3.5pt 0cm 3.5pt;height:18.1pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Einseitig <span class=GramE>Rechts</span><o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Einseitig <span class=GramE>Rechts</span><o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:6;height:18.1pt'>
@@ -2375,7 +2417,8 @@ div.WordSection1
   solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;background:
   #DCE6F1;padding:0cm 3.5pt 0cm 3.5pt;height:18.1pt'>
   <p class=MsoNormal style='line-height:normal'><b><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Fall 3<o:p></o:p></span></b></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Fall 3<o:p></o:p></span></b></p>
   </td>
   <td width=151 rowspan=2 style='width:4.0cm;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2383,24 +2426,27 @@ div.WordSection1
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   background:#DCE6F1;padding:0cm 3.5pt 0cm 3.5pt;height:18.1pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Eingriff vom Typ A am Finger des
-  2. Strahls der linken Hand<br>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Eingriff vom Typ A am Finger des 2. Strahls
+  der linken Hand<br>
   Eingriff vom Typ B an der Mittelhand, 2. Strahl der linken Hand<o:p></o:p></span></p>
   </td>
-  <td width=76 valign=top style='width:57.05pt;border-top:none;border-left:
+  <td width=85 valign=top style='width:63.65pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   background:#DCE6F1;padding:0cm 3.5pt 0cm 3.5pt;height:18.1pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Kode des Eingriffs <span
-  class=GramE>vom Typ</span> A<o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Kode des Eingriffs <span class=GramE>vom
+  Typ</span> A<o:p></o:p></span></p>
   </td>
-  <td width=72 valign=top style='width:54.35pt;border-top:none;border-left:
+  <td width=64 valign=top style='width:47.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   background:#DCE6F1;padding:0cm 3.5pt 0cm 3.5pt;height:18.1pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Einseitig Links<o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Einseitig Links<o:p></o:p></span></p>
   </td>
   <td width=326 colspan=3 rowspan=2 style='width:244.2pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2408,24 +2454,27 @@ div.WordSection1
   mso-border-alt:solid windowtext .5pt;background:#DCE6F1;padding:0cm 3.5pt 0cm 3.5pt;
   height:18.1pt'>
   <p class=MsoNormal align=center style='text-align:center;line-height:normal'><span
-  lang=DE-CH style='mso-bidi-font-size:8.5pt;color:black'>Kein Kode<o:p></o:p></span></p>
+  lang=DE-CH style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Kein Kode<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:7;height:18.1pt'>
-  <td width=76 valign=top style='width:57.05pt;border-top:none;border-left:
+  <td width=85 valign=top style='width:63.65pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   background:#DCE6F1;padding:0cm 3.5pt 0cm 3.5pt;height:18.1pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Kode des Eingriffs <span
-  class=GramE>vom Typ</span> B<o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Kode des Eingriffs <span class=GramE>vom
+  Typ</span> B<o:p></o:p></span></p>
   </td>
-  <td width=72 valign=top style='width:54.35pt;border-top:none;border-left:
+  <td width=64 valign=top style='width:47.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   background:#DCE6F1;padding:0cm 3.5pt 0cm 3.5pt;height:18.1pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Einseitig Links<o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Einseitig Links<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:8;height:36.3pt'>
@@ -2433,33 +2482,37 @@ div.WordSection1
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 3.5pt 0cm 3.5pt;height:36.3pt'>
   <p class=MsoNormal style='line-height:normal'><b><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Fall 4<o:p></o:p></span></b></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Fall 4<o:p></o:p></span></b></p>
   </td>
   <td width=151 rowspan=2 style='width:4.0cm;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:36.3pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Eingriff vom Typ A an Fingern
-  des 2. und 3. Strahls der linken Hand<br>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Eingriff vom Typ A an Fingern des 2. und 3.
+  Strahls der linken Hand<br>
   Eingriff vom Typ B am Finger, des 3. Strahls der linken Hand<o:p></o:p></span></p>
   </td>
-  <td width=76 valign=top style='width:57.05pt;border-top:none;border-left:
+  <td width=85 valign=top style='width:63.65pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 3.5pt 0cm 3.5pt;height:36.3pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Kode des Eingriffs <span
-  class=GramE>vom Typ</span> A<o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Kode des Eingriffs <span class=GramE>vom
+  Typ</span> A<o:p></o:p></span></p>
   </td>
-  <td width=72 valign=top style='width:54.35pt;border-top:none;border-left:
+  <td width=64 valign=top style='width:47.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 3.5pt 0cm 3.5pt;height:36.3pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Einseitig Links<o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Einseitig Links<o:p></o:p></span></p>
   </td>
   <td width=89 valign=top style='width:67.0pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2467,7 +2520,8 @@ div.WordSection1
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 3.5pt 0cm 3.5pt;height:36.3pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt'>00.9C.11<span style='color:black'><o:p></o:p></span></span></p>
+  style='mso-bidi-font-size:8.5pt;mso-font-kerning:1.0pt;mso-ligatures:standardcontextual'>00.9C.11<span
+  style='color:black'><o:p></o:p></span></span></p>
   </td>
   <td width=159 valign=top style='width:119.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2475,8 +2529,9 @@ div.WordSection1
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 3.5pt 0cm 3.5pt;height:36.3pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Einzeitige Mehrfacheingriffe an
-  2 Mittelhand- und Fingerstrahlen<o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Einzeitige Mehrfacheingriffe an 2
+  Mittelhand- und Fingerstrahlen<o:p></o:p></span></p>
   </td>
   <td width=77 valign=top style='width:58.1pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2484,24 +2539,27 @@ div.WordSection1
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 3.5pt 0cm 3.5pt;height:36.3pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Einseitig Links<o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Einseitig Links<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:9;height:18.1pt'>
-  <td width=76 valign=top style='width:57.05pt;border-top:none;border-left:
+  <td width=85 valign=top style='width:63.65pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 3.5pt 0cm 3.5pt;height:18.1pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Kode des Eingriffs <span
-  class=GramE>vom Typ</span> B<o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Kode des Eingriffs <span class=GramE>vom
+  Typ</span> B<o:p></o:p></span></p>
   </td>
-  <td width=72 valign=top style='width:54.35pt;border-top:none;border-left:
+  <td width=64 valign=top style='width:47.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 3.5pt 0cm 3.5pt;height:18.1pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Einseitig Links<o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Einseitig Links<o:p></o:p></span></p>
   </td>
   <td width=326 colspan=3 valign=top style='width:244.2pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid black 1.0pt;
@@ -2509,7 +2567,8 @@ div.WordSection1
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid black .5pt;
   padding:0cm 3.5pt 0cm 3.5pt;height:18.1pt'>
   <p class=MsoNormal align=center style='text-align:center;line-height:normal'><span
-  lang=DE-CH style='mso-bidi-font-size:8.5pt;color:black'>Kein Kode<o:p></o:p></span></p>
+  lang=DE-CH style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Kein Kode<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:10;height:36.3pt'>
@@ -2518,55 +2577,64 @@ div.WordSection1
   solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;background:
   #DCE6F1;padding:0cm 3.5pt 0cm 3.5pt;height:36.3pt'>
   <p class=MsoNormal style='line-height:normal'><b><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Fall 5<o:p></o:p></span></b></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Fall 5<o:p></o:p></span></b></p>
   </td>
   <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-bottom-alt:
   solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;background:
   #DCE6F1;padding:0cm 3.5pt 0cm 3.5pt;height:36.3pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Eingriff vom Typ A an den
-  Fingern der 2., 3. und 4. Strahlen der linken Hand<o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Eingriff vom Typ A an den Fingern der 2.,
+  3. und 4. Strahlen der linken Hand<o:p></o:p></span></p>
   </td>
-  <td width=76 valign=top style='width:57.05pt;border-top:none;border-left:
+  <td width=85 valign=top style='width:63.65pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   background:#DCE6F1;padding:0cm 3.5pt 0cm 3.5pt;height:36.3pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Kode des Eingriffs <span
-  class=GramE>vom Typ</span> A<o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Kode des Eingriffs <span class=GramE>vom
+  Typ</span> A<o:p></o:p></span></p>
   </td>
-  <td width=72 valign=top style='width:54.35pt;border-top:none;border-left:
+  <td width=64 valign=top style='width:47.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   background:#DCE6F1;padding:0cm 3.5pt 0cm 3.5pt;height:36.3pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Einseitig Links<o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Einseitig Links<o:p></o:p></span></p>
   </td>
   <td width=89 valign=top style='width:67.0pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   background:#DCE6F1;padding:0cm 3.5pt 0cm 3.5pt;height:36.3pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black;mso-color-alt:windowtext'>00.9C.12</span><span
-  lang=DE-CH style='mso-bidi-font-size:8.5pt'><o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-color-alt:windowtext;
+  mso-font-kerning:1.0pt;mso-ligatures:standardcontextual'>00.9C.12</span><span
+  lang=DE-CH style='mso-bidi-font-size:8.5pt;mso-font-kerning:1.0pt;mso-ligatures:
+  standardcontextual'><o:p></o:p></span></p>
   </td>
   <td width=159 valign=top style='width:119.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   background:#DCE6F1;padding:0cm 3.5pt 0cm 3.5pt;height:36.3pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black;mso-color-alt:windowtext'>Einzeitige
+  style='mso-bidi-font-size:8.5pt;color:black;mso-color-alt:windowtext;
+  mso-font-kerning:1.0pt;mso-ligatures:standardcontextual'>Einzeitige
   Mehrfacheingriffe an 3 Mittelhand- und Fingerstrahlen</span><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt'><o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;mso-font-kerning:1.0pt;mso-ligatures:standardcontextual'><o:p></o:p></span></p>
   </td>
   <td width=77 valign=top style='width:58.1pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   background:#DCE6F1;padding:0cm 3.5pt 0cm 3.5pt;height:36.3pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black;mso-color-alt:windowtext'>Einseitig
-  Links</span><span lang=DE-CH style='mso-bidi-font-size:8.5pt'><o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-color-alt:windowtext;
+  mso-font-kerning:1.0pt;mso-ligatures:standardcontextual'>Einseitig Links</span><span
+  lang=DE-CH style='mso-bidi-font-size:8.5pt;mso-font-kerning:1.0pt;mso-ligatures:
+  standardcontextual'><o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:11;height:36.3pt'>
@@ -2575,7 +2643,8 @@ div.WordSection1
   solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
   0cm 3.5pt 0cm 3.5pt;height:36.3pt'>
   <p class=MsoNormal style='line-height:normal'><b><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Fall 6<o:p></o:p></span></b></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Fall 6<o:p></o:p></span></b></p>
   </td>
   <td width=151 rowspan=2 style='width:4.0cm;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2583,84 +2652,91 @@ div.WordSection1
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 3.5pt 0cm 3.5pt;height:36.3pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Eingriff vom Typ A an den
-  Fingern der 2., 3. und 4. Strahlen der linken Hand, sowie an den Fingern der
-  4. und 5. Strahlen der rechten Hand<o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Eingriff vom Typ A an den Fingern der 2.,
+  3. und 4. Strahlen der linken Hand, sowie an den Fingern der 4. und 5.
+  Strahlen der rechten Hand<o:p></o:p></span></p>
   </td>
-  <td width=76 valign=top style='width:57.05pt;border-top:none;border-left:
+  <td width=85 valign=top style='width:63.65pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 3.5pt 0cm 3.5pt;height:36.3pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Kode des Eingriffs <span
-  class=GramE>vom Typ</span> A<o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Kode des Eingriffs <span class=GramE>vom
+  Typ</span> A<o:p></o:p></span></p>
   </td>
-  <td width=72 valign=top style='width:54.35pt;border-top:none;border-left:
+  <td width=64 valign=top style='width:47.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 3.5pt 0cm 3.5pt;height:36.3pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Beidseitig<o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Beidseitig<o:p></o:p></span></p>
   </td>
   <td width=89 valign=top style='width:67.0pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 3.5pt 0cm 3.5pt;height:36.3pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt'>00.9C.12<o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;mso-font-kerning:1.0pt;mso-ligatures:standardcontextual'>00.9C.12<o:p></o:p></span></p>
   </td>
   <td width=159 valign=top style='width:119.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 3.5pt 0cm 3.5pt;height:36.3pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt'>Einzeitige Mehrfacheingriffe an 3
-  Mittelhand- und Fingerstrahlen<o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;mso-font-kerning:1.0pt;mso-ligatures:standardcontextual'>Einzeitige
+  Mehrfacheingriffe an 3 Mittelhand- und Fingerstrahlen<o:p></o:p></span></p>
   </td>
   <td width=77 valign=top style='width:58.1pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 3.5pt 0cm 3.5pt;height:36.3pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt'>Einseitig Links<o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;mso-font-kerning:1.0pt;mso-ligatures:standardcontextual'>Einseitig
+  Links<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:12;height:36.3pt'>
-  <td width=76 valign=top style='width:57.05pt;border-top:none;border-left:
+  <td width=85 valign=top style='width:63.65pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 3.5pt 0cm 3.5pt;height:36.3pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>&nbsp;<o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>&nbsp;<o:p></o:p></span></p>
   </td>
-  <td width=72 valign=top style='width:54.35pt;border-top:none;border-left:
+  <td width=64 valign=top style='width:47.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 3.5pt 0cm 3.5pt;height:36.3pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>&nbsp;<o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>&nbsp;<o:p></o:p></span></p>
   </td>
   <td width=89 valign=top style='width:67.0pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 3.5pt 0cm 3.5pt;height:36.3pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt'>00.9C.11<o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;mso-font-kerning:1.0pt;mso-ligatures:standardcontextual'>00.9C.11<o:p></o:p></span></p>
   </td>
   <td width=159 valign=top style='width:119.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 3.5pt 0cm 3.5pt;height:36.3pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt'>Einzeitige Mehrfacheingriffe an 2
-  Mittelhand- und Fingerstrahlen<o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;mso-font-kerning:1.0pt;mso-ligatures:standardcontextual'>Einzeitige
+  Mehrfacheingriffe an 2 Mittelhand- und Fingerstrahlen<o:p></o:p></span></p>
   </td>
   <td width=77 valign=top style='width:58.1pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 3.5pt 0cm 3.5pt;height:36.3pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt'>Einseitig <span class=GramE>Rechts</span><o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;mso-font-kerning:1.0pt;mso-ligatures:standardcontextual'>Einseitig
+  <span class=GramE>Rechts</span><o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:13;height:36.3pt'>
@@ -2669,7 +2745,8 @@ div.WordSection1
   solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;background:
   #DCE6F1;padding:0cm 3.5pt 0cm 3.5pt;height:36.3pt'>
   <p class=MsoNormal style='line-height:normal'><b><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Fall 7<o:p></o:p></span></b></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Fall 7<o:p></o:p></span></b></p>
   </td>
   <td width=151 rowspan=3 style='width:4.0cm;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2677,50 +2754,57 @@ div.WordSection1
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   background:#DCE6F1;padding:0cm 3.5pt 0cm 3.5pt;height:36.3pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Eingriff vom Typ A am Finger des
-  2. Strahls der linken Hand<br>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Eingriff vom Typ A am Finger des 2. Strahls
+  der linken Hand<br>
   Eingriff vom Typ B am Mittelhandknochen des 3. Strahls der linken Hand<br>
   Eingriff vom Typ C an den Fingern des 3. und 4. Strahls der linken Hand<o:p></o:p></span></p>
   </td>
-  <td width=76 valign=top style='width:57.05pt;border-top:none;border-left:
+  <td width=85 valign=top style='width:63.65pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   background:#DCE6F1;padding:0cm 3.5pt 0cm 3.5pt;height:36.3pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Kode des Eingriffs <span
-  class=GramE>vom Typ</span> A<o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Kode des Eingriffs <span class=GramE>vom
+  Typ</span> A<o:p></o:p></span></p>
   </td>
-  <td width=72 valign=top style='width:54.35pt;border-top:none;border-left:
+  <td width=64 valign=top style='width:47.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   background:#DCE6F1;padding:0cm 3.5pt 0cm 3.5pt;height:36.3pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Einseitig Links<o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Einseitig Links<o:p></o:p></span></p>
   </td>
   <td width=326 colspan=3 valign=top style='width:244.2pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   background:#DCE6F1;padding:0cm 3.5pt 0cm 3.5pt;height:36.3pt'>
   <p class=MsoNormal align=center style='text-align:center;line-height:normal'><span
-  lang=DE-CH style='mso-bidi-font-size:8.5pt;color:black;mso-color-alt:windowtext'>Kein
-  Kode</span><span lang=DE-CH style='mso-bidi-font-size:8.5pt'><o:p></o:p></span></p>
+  lang=DE-CH style='mso-bidi-font-size:8.5pt;color:black;mso-color-alt:windowtext;
+  mso-font-kerning:1.0pt;mso-ligatures:standardcontextual'>Kein Kode</span><span
+  lang=DE-CH style='mso-bidi-font-size:8.5pt;mso-font-kerning:1.0pt;mso-ligatures:
+  standardcontextual'><o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:14;height:18.1pt'>
-  <td width=76 valign=top style='width:57.05pt;border-top:none;border-left:
+  <td width=85 valign=top style='width:63.65pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   background:#DCE6F1;padding:0cm 3.5pt 0cm 3.5pt;height:18.1pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Kode des Eingriffs <span
-  class=GramE>vom Typ</span> B<o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Kode des Eingriffs <span class=GramE>vom
+  Typ</span> B<o:p></o:p></span></p>
   </td>
-  <td width=72 valign=top style='width:54.35pt;border-top:none;border-left:
+  <td width=64 valign=top style='width:47.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   background:#DCE6F1;padding:0cm 3.5pt 0cm 3.5pt;height:18.1pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Einseitig Links<o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Einseitig Links<o:p></o:p></span></p>
   </td>
   <td width=326 colspan=3 valign=top style='width:244.2pt;border-top:none;
   border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
@@ -2729,48 +2813,56 @@ div.WordSection1
   black;mso-border-right-alt:black;mso-border-style-alt:solid;mso-border-width-alt:
   .5pt;background:#DCE6F1;padding:0cm 3.5pt 0cm 3.5pt;height:18.1pt'>
   <p class=MsoNormal align=center style='text-align:center;line-height:normal'><span
-  lang=DE-CH style='mso-bidi-font-size:8.5pt;color:black;mso-color-alt:windowtext'>Kein
-  Kode</span><span lang=DE-CH style='mso-bidi-font-size:8.5pt'><o:p></o:p></span></p>
+  lang=DE-CH style='mso-bidi-font-size:8.5pt;color:black;mso-color-alt:windowtext;
+  mso-font-kerning:1.0pt;mso-ligatures:standardcontextual'>Kein Kode</span><span
+  lang=DE-CH style='mso-bidi-font-size:8.5pt;mso-font-kerning:1.0pt;mso-ligatures:
+  standardcontextual'><o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:15;height:18.1pt'>
-  <td width=76 valign=top style='width:57.05pt;border-top:none;border-left:
+  <td width=85 valign=top style='width:63.65pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   background:#DCE6F1;padding:0cm 3.5pt 0cm 3.5pt;height:18.1pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Kode des Eingriffs <span
-  class=GramE>vom Typ</span> C<o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Kode des Eingriffs <span class=GramE>vom
+  Typ</span> C<o:p></o:p></span></p>
   </td>
-  <td width=72 valign=top style='width:54.35pt;border-top:none;border-left:
+  <td width=64 valign=top style='width:47.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   background:#DCE6F1;padding:0cm 3.5pt 0cm 3.5pt;height:18.1pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Einseitig Links<o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Einseitig Links<o:p></o:p></span></p>
   </td>
   <td width=89 style='width:67.0pt;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-bottom-alt:
   solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;background:
   #DCE6F1;padding:0cm 3.5pt 0cm 3.5pt;height:18.1pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black;mso-color-alt:windowtext'>00.9C.11</span><span
-  lang=DE-CH style='mso-bidi-font-size:8.5pt'><o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-color-alt:windowtext;
+  mso-font-kerning:1.0pt;mso-ligatures:standardcontextual'>00.9C.11</span><span
+  lang=DE-CH style='mso-bidi-font-size:8.5pt;mso-font-kerning:1.0pt;mso-ligatures:
+  standardcontextual'><o:p></o:p></span></p>
   </td>
   <td width=159 style='width:119.1pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   background:#DCE6F1;padding:0cm 3.5pt 0cm 3.5pt;height:18.1pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Einzeitige Mehrfacheingriffe an
-  2 Mittelhand- und Fingerstrahlen<o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Einzeitige Mehrfacheingriffe an 2
+  Mittelhand- und Fingerstrahlen<o:p></o:p></span></p>
   </td>
   <td width=77 style='width:58.1pt;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-bottom-alt:
   solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;background:
   #DCE6F1;padding:0cm 3.5pt 0cm 3.5pt;height:18.1pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Einseitig Links<o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Einseitig Links<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:16;height:36.3pt'>
@@ -2779,7 +2871,8 @@ div.WordSection1
   solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
   0cm 3.5pt 0cm 3.5pt;height:36.3pt'>
   <p class=MsoNormal style='line-height:normal'><b><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Fall 8<o:p></o:p></span></b></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Fall 8<o:p></o:p></span></b></p>
   </td>
   <td width=151 rowspan=2 style='width:4.0cm;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2787,65 +2880,73 @@ div.WordSection1
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 3.5pt 0cm 3.5pt;height:36.3pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Eingriff vom Typ A an den
-  Fingern des 2. und 3. Strahls der linken Hand<br>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Eingriff vom Typ A an den Fingern des 2.
+  und 3. Strahls der linken Hand<br>
   Eingriff vom Typ B an den Fingern des 2. und 3. Strahls der </span><span
-  lang=DE-CH style='mso-bidi-font-size:8.5pt'>rechten<span style='color:#00B050'>
-  </span><span style='color:black'>Hand<o:p></o:p></span></span></p>
+  lang=DE-CH style='mso-bidi-font-size:8.5pt;mso-font-kerning:1.0pt;mso-ligatures:
+  standardcontextual'>rechten<span style='color:#00B050'> </span><span
+  style='color:black'>Hand<o:p></o:p></span></span></p>
   </td>
-  <td width=76 valign=top style='width:57.05pt;border-top:none;border-left:
+  <td width=85 valign=top style='width:63.65pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 3.5pt 0cm 3.5pt;height:36.3pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Kode des Eingriffs <span
-  class=GramE>vom Typ</span> A<o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Kode des Eingriffs <span class=GramE>vom
+  Typ</span> A<o:p></o:p></span></p>
   </td>
-  <td width=72 valign=top style='width:54.35pt;border-top:none;border-left:
+  <td width=64 valign=top style='width:47.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 3.5pt 0cm 3.5pt;height:36.3pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Einseitig Links<o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Einseitig Links<o:p></o:p></span></p>
   </td>
   <td width=89 valign=top style='width:67.0pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 3.5pt 0cm 3.5pt;height:36.3pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt'>00.9C.11<o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;mso-font-kerning:1.0pt;mso-ligatures:standardcontextual'>00.9C.11<o:p></o:p></span></p>
   </td>
   <td width=159 valign=top style='width:119.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 3.5pt 0cm 3.5pt;height:36.3pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Einzeitige Mehrfacheingriffe an
-  2 Mittelhand- und Fingerstrahlen<o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Einzeitige Mehrfacheingriffe an 2
+  Mittelhand- und Fingerstrahlen<o:p></o:p></span></p>
   </td>
   <td width=77 valign=top style='width:58.1pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 3.5pt 0cm 3.5pt;height:36.3pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Einseitig Links<o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Einseitig Links<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:17;height:18.1pt'>
-  <td width=76 valign=top style='width:57.05pt;border-top:none;border-left:
+  <td width=85 valign=top style='width:63.65pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 3.5pt 0cm 3.5pt;height:18.1pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Kode des Eingriffs <span
-  class=GramE>vom Typ</span> B<o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Kode des Eingriffs <span class=GramE>vom
+  Typ</span> B<o:p></o:p></span></p>
   </td>
-  <td width=72 valign=top style='width:54.35pt;border-top:none;border-left:
+  <td width=64 valign=top style='width:47.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 3.5pt 0cm 3.5pt;height:18.1pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Einseitig <span class=GramE>Rechts</span><o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Einseitig <span class=GramE>Rechts</span><o:p></o:p></span></p>
   </td>
   <td width=89 valign=top style='width:67.0pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid black 1.0pt;
@@ -2853,7 +2954,7 @@ div.WordSection1
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid black .5pt;
   padding:0cm 3.5pt 0cm 3.5pt;height:18.1pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt'>00.9C.11<o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;mso-font-kerning:1.0pt;mso-ligatures:standardcontextual'>00.9C.11<o:p></o:p></span></p>
   </td>
   <td width=159 valign=top style='width:119.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid black 1.0pt;
@@ -2861,8 +2962,9 @@ div.WordSection1
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid black .5pt;
   padding:0cm 3.5pt 0cm 3.5pt;height:18.1pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Einzeitige Mehrfacheingriffe an
-  2 Mittelhand- und Fingerstrahlen<o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Einzeitige Mehrfacheingriffe an 2
+  Mittelhand- und Fingerstrahlen<o:p></o:p></span></p>
   </td>
   <td width=77 valign=top style='width:58.1pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid black 1.0pt;
@@ -2870,7 +2972,8 @@ div.WordSection1
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid black .5pt;
   padding:0cm 3.5pt 0cm 3.5pt;height:18.1pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Einseitig <span class=GramE>Rechts</span><o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Einseitig <span class=GramE>Rechts</span><o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:18;height:36.3pt'>
@@ -2879,7 +2982,8 @@ div.WordSection1
   solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;background:
   #DCE6F1;padding:0cm 3.5pt 0cm 3.5pt;height:36.3pt'>
   <p class=MsoNormal style='line-height:normal'><b><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Fall 9<o:p></o:p></span></b></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Fall 9<o:p></o:p></span></b></p>
   </td>
   <td width=151 rowspan=2 style='width:4.0cm;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2887,64 +2991,73 @@ div.WordSection1
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   background:#DCE6F1;padding:0cm 3.5pt 0cm 3.5pt;height:36.3pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Eingriff vom Typ A an den
-  Fingern des 2. und 3. Strahls der linken Hand<br>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Eingriff vom Typ A an den Fingern des 2.
+  und 3. Strahls der linken Hand<br>
   Eingriff vom Typ B am Finger des 2. Strahls der rechten Hand<o:p></o:p></span></p>
   </td>
-  <td width=76 valign=top style='width:57.05pt;border-top:none;border-left:
+  <td width=85 valign=top style='width:63.65pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   background:#DCE6F1;padding:0cm 3.5pt 0cm 3.5pt;height:36.3pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Kode des Eingriffs <span
-  class=GramE>vom Typ</span> A<o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Kode des Eingriffs <span class=GramE>vom
+  Typ</span> A<o:p></o:p></span></p>
   </td>
-  <td width=72 valign=top style='width:54.35pt;border-top:none;border-left:
+  <td width=64 valign=top style='width:47.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   background:#DCE6F1;padding:0cm 3.5pt 0cm 3.5pt;height:36.3pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Einseitig Links<o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Einseitig Links<o:p></o:p></span></p>
   </td>
   <td width=89 valign=top style='width:67.0pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   background:#DCE6F1;padding:0cm 3.5pt 0cm 3.5pt;height:36.3pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black;mso-color-alt:windowtext'>00.9C.11</span><span
-  lang=DE-CH style='mso-bidi-font-size:8.5pt'><o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-color-alt:windowtext;
+  mso-font-kerning:1.0pt;mso-ligatures:standardcontextual'>00.9C.11</span><span
+  lang=DE-CH style='mso-bidi-font-size:8.5pt;mso-font-kerning:1.0pt;mso-ligatures:
+  standardcontextual'><o:p></o:p></span></p>
   </td>
   <td width=159 valign=top style='width:119.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   background:#DCE6F1;padding:0cm 3.5pt 0cm 3.5pt;height:36.3pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Einzeitige Mehrfacheingriffe an
-  2 Mittelhand- und Fingerstrahlen<o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Einzeitige Mehrfacheingriffe an 2
+  Mittelhand- und Fingerstrahlen<o:p></o:p></span></p>
   </td>
   <td width=77 valign=top style='width:58.1pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   background:#DCE6F1;padding:0cm 3.5pt 0cm 3.5pt;height:36.3pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Einseitig Links<o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Einseitig Links<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:19;mso-yfti-lastrow:yes;height:18.1pt'>
-  <td width=76 valign=top style='width:57.05pt;border-top:none;border-left:
+  <td width=85 valign=top style='width:63.65pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   background:#DCE6F1;padding:0cm 3.5pt 0cm 3.5pt;height:18.1pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Kode des Eingriffs <span
-  class=GramE>vom Typ</span> B<o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Kode des Eingriffs <span class=GramE>vom
+  Typ</span> B<o:p></o:p></span></p>
   </td>
-  <td width=72 valign=top style='width:54.35pt;border-top:none;border-left:
+  <td width=64 valign=top style='width:47.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   background:#DCE6F1;padding:0cm 3.5pt 0cm 3.5pt;height:18.1pt'>
   <p class=MsoNormal style='line-height:normal'><span lang=DE-CH
-  style='mso-bidi-font-size:8.5pt;color:black'>Einseitig <span class=GramE>Rechts</span><o:p></o:p></span></p>
+  style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Einseitig <span class=GramE>Rechts</span><o:p></o:p></span></p>
   </td>
   <td width=326 colspan=3 valign=top style='width:244.2pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid black 1.0pt;
@@ -2952,7 +3065,8 @@ div.WordSection1
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid black .5pt;
   background:#DCE6F1;padding:0cm 3.5pt 0cm 3.5pt;height:18.1pt'>
   <p class=MsoNormal align=center style='text-align:center;line-height:normal'><span
-  lang=DE-CH style='mso-bidi-font-size:8.5pt;color:black'>Kein Kode<o:p></o:p></span></p>
+  lang=DE-CH style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
+  mso-ligatures:standardcontextual'>Kein Kode<o:p></o:p></span></p>
   </td>
  </tr>
 </table>
@@ -2964,6 +3078,10 @@ div.WordSection1
 </body>
 
 </html>
+
+
+**FIN**
+
 
 
 
