@@ -562,7 +562,7 @@ _Fallbeispiel 5_
 Werden an einem Interventionsdatum X und an einem weiteren Interventionsdatum Y jeweils ein Stent-Graft in die V. cava implan-tiert, ist pro Interventionsdatum einmal der Kode 39.7A.31 «Endovaskuläre Implantation eines Stent-Grafts [Stent-Prothese] in die V. cava» zu erfassen.  
   
 **Erfassen der Anzahl der (perkutan-) transluminal implantierten Stents**  
-Bei den Kodes unter 39.B- «(Perkutan-) transluminale Implantation von Stents in Blutgefässe» wird jeder implantierte Stent einzeln kodiert. Werden z. B. drei Stents ohne Medikamenten-Freisetzung in Arterien des Oberschenkels und zwei Stents ohne Medikamen-ten-Freisetzung in Arterien des Unterschenkels implantiert, wird der 39.B1.G1 dreimal kodiert und der 39.B1.H1 zweimal. Die Ge-samtsumme, der über den Aufenthalt implantieren Stents, wird berechnet und mit einem Kode unter 39.C1.- «Anzahl der implantier-ten Stents», am Datum des ersten Interventionstages erfasst. Im vorherigen Beispiel 5 Stents, 39.C1.15 «5 implantierte Stents».  
+Bei den Kodes unter 39.B- «(Perkutan-) transluminale Implantation von Stents in Blutgefässe» wird jeder implantierte Stent einzeln kodiert. Werden z. B. drei Stents ohne Medikamenten-Freisetzung in Arterien des Oberschenkels und zwei Stents ohne Medikamen-ten-Freisetzung in Arterien des Unterschenkels implantiert, wird der 39.B1.G1 dreimal kodiert und der 39.B1.H1 zweimal. Die Gesamtsumme, der über den Aufenthalt implantieren Stents, wird berechnet und mit einem Kode unter 39.C1.- «Anzahl der implantier-ten Stents», am Datum des ersten Interventionstages erfasst. Im vorherigen Beispiel 5 Stents, 39.C1.15 «5 implantierte Stents».  
   
 **Erfassen der Anzahl der in den Koronararterien implantierten Stents**  
 Die Implantation von Stents in die Koronararterien ist unter den Subkategorien 36.03.- «Koronarangioplastik am offenen Thorax» und 36.08.- «Implantation von Stents in Koronararterien, perkutan-transluminal» abgebildet.  
@@ -629,7 +629,12 @@ Analog der Logik bei den Bypass-Anastomosen zur Revaskularisation (s. 36.1C.- «
 {{<article number="0818"  date="01.07.2020" title="Zusatzkode 00.9C.- «Einzeitige Eingriffe an Hand oder Fuss»" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
 {{<markdown>}}
 Folgende Tabelle präzisiert die Kodierung von Eingriffskode und Zusatzkode bei einzeitigen Mehrfacheingriffen, am Beispiel der Hand.
-
+  
+ | En-tête 1 | En-tête 2 | En-tête 3 |
+|-----------|-----------|-----------|
+| Cellule 1 | Cellule 2 | Cellule 3 |
+| Cellule 4 | Cellule 5 | Cellule 6 |
+ 
 
 {{</markdown>}}
 {{</article>}}
