@@ -268,6 +268,7 @@ Bei einem alleinigen Wechsel vom Prothesenkopf sind die CHOP-Kodes 80.01.09 «Ar
 Für die Subkategorien 7A.71.- bis 7A.74.- erfolgte die Aufgliederung in 5. Stelle für den Zugang «dorsal und dorsolateral», bzw. «ventral», in 6. Stelle nach der Anzahl behandelter Segmente (aufgegliedert bis 14 und mehr). Das «und» ist gemäss CHOP-Kon-ventionen als «und/oder» zu verstehen. Das «Beachte» unter 7A.7- «Stabilisierung der Wirbelsäule und Stellungskorrektur» lautet: «Erfolgt der Zugang für gewisse Segmente von dorsal sowie von ventral, so ist für das gesamte Eingriffsgebiet die gesamte Anzahl der Segmente die von dorsal operiert wurden mit einem Kode anzugeben, sowie die gesamte Anzahl der Segmente, die von ventral operiert wurden mit einem anderen Kode. Zusätzlich wird der Zusatzkode der gesamten Anzahl operierter Segmente angegeben.»  
 Die dorsolateralen Zugänge zählen zu den dorsalen Zugängen. Sprich das Segment wird nicht doppelt gezählt, wenn es von dorsal sowie dorsolateral operiert wird.
 Im Beispiel der folgenden Abbildung erfolgte eine Spondylodese über sechs Wirbeln, d.h. über fünf Segmente. Drei Segmente wer-den von dorsal und/oder dorsolateral operiert, 4 Segmente von ventral. Es werden somit ein Kode für drei Segmente «dorsal und dorsolateral» sowie ein Kode für vier Segmente «ventral» erfasst. Zusätzlich wird der entsprechende Kode der Subkategorie 7A.B4.- «Summe der operierten Segmente der Wirbelsäule» für fünf Segmente kodiert.  
+   
 {{</markdown>}}
 
 {{<lineBreak>}}
@@ -2279,7 +2280,7 @@ div.WordSection1
   padding:0cm 3.5pt 0cm 3.5pt;height:8.95pt'>
   <p class=MsoNormal style='line-height:normal'><b><span lang=DE-CH
   style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
-  mso-ligatures:standardcontextual'>Lateralit t<o:p></o:p></span></b></p>
+  mso-ligatures:standardcontextual'>Lateralität<o:p></o:p></span></b></p>
   </td>
   <td width=89 valign=top style='width:67.0pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2303,7 +2304,7 @@ div.WordSection1
   padding:0cm 3.5pt 0cm 3.5pt;height:8.95pt'>
   <p class=MsoNormal style='line-height:normal'><b><span lang=DE-CH
   style='mso-bidi-font-size:8.5pt;color:black;mso-font-kerning:1.0pt;
-  mso-ligatures:standardcontextual'>Lateralit t<o:p></o:p></span></b></p>
+  mso-ligatures:standardcontextual'>Lateralität<o:p></o:p></span></b></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:3;height:18.1pt'>
