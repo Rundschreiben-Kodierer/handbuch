@@ -496,11 +496,11 @@ Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückfl
 {{<markdown>}}
 Diese Präzisierung ist wie folgt gegliedert:
 {{<indent level="4">}}
-• Erfassen der Anzahl der aortalen Stent-Grafts
-• Erfassen der Anzahl der in die A. iliaca, den tiefen Venen, abdominalen und viszeralen Gefässen implantierten Stent-Grafts
-• Erfassen der Anzahl der (perkutan-) transluminal implantierten Stents
-• Erfassen der Anzahl der in den Koronararterien implantierten Stents
-• Erfassen der Anzahl von Stents falls im stationären Fall Stents sowohl in die Koronararterien als auch in andere Gefässe implantiert werden
+• Erfassen der Anzahl der aortalen Stent-Grafts  
+• Erfassen der Anzahl der in die A. iliaca, den tiefen Venen, abdominalen und viszeralen Gefässen implantierten Stent-Grafts  
+• Erfassen der Anzahl der (perkutan-) transluminal implantierten Stents  
+• Erfassen der Anzahl der in den Koronararterien implantierten Stents  
+• Erfassen der Anzahl von Stents falls im stationären Fall Stents sowohl in die Koronararterien als auch in andere Gefässe implantiert werden  
 • Grund für die Angabe der Gesamtanzahl der im Rahmen eines stationären Aufenthaltes implantierten Stents, bzw. Stent-grafts
 {{</indent>}}
   
@@ -515,27 +515,27 @@ Und folgendes «Kodiere ebenso»:
 «Anzahl der implantierten aortalen Stent-Grafts [Stent-Prothesen] (39.78.6-)»  
   
 _Fallbeispiel 1_  
-Fall: Zwei Stent-Grafts mit je einer Öffnung werden in die abdominale Aorta während einer Intervention innerhalb eines stationären Aufenthaltes implantiert.
-_Kodierung:_  
+Fall: Zwei Stent-Grafts mit je einer Öffnung werden in die abdominale Aorta während einer Intervention innerhalb eines stationären Aufenthaltes implantiert.  
+Kodierung:  
 Der Kode 39.71.22 «Endovaskuläre Implantation in die Aorta abdominalis von Stent-Grafts [Stent-Prothesen], mit 1 Öffnung» ist zweimal zu erfassen.  
 Die über den Aufenthalt implantierten aortalen Stent-Grafts in die Aorta thoracica, thoracoabdominalis und abdominalis werden sum-miert und der entsprechende Zusatzkode der Elementegruppe 39.78.6- mit dem Datum des ersten Interventionstages erfasst, in diesem Fall der 39.78.61 «2 implantierte aortale Stent-Grafts».  
   
 _Fallbeispiel 2_  
 Fall: Ein Stent-Graft ohne Öffnung wird während einer ersten Intervention am Tag X in die abdominale Aorta implantiert. Während einer zweiten Intervention am Tag Y wird ein Stent-Graft mit einer Öffnung in die abdominale Aorta implantiert. Beide Interventionen finden in einem stationären Aufenthalt statt.  
-_Kodierung:_  
+Kodierung:  
 Der Kode 39.71.21 «Endovaskuläre Implantation in die Aorta abdominalis von Stent-Grafts [Stent-Prothesen], ohne Öffnung» ist einmal für den Tag X zu erfassen.  
 Der Kode 39.71.22 «Endovaskuläre ist Implantation in die Aorta abdominalis von Stent-Grafts [Stent-Prothesen], mit 1 Öffnung» ist einmal für Tag Y zu erfassen.  
 Die über den Aufenthalt implantierten aortalen Stent-Grafts in die Aorta thoracica, thoracoabdominalis und abdominalis werden sum-miert. Der entsprechende Zusatzkode der Elementegruppe 39.78.6- wird mit dem Datum des ersten Interventionstages erfasst, in diesem Fall der 39.78.61 «2 implantierte aortale Stent-Grafts».  
   
 _Fallbeispiel 3_  
 Fall: Ein Stent-Graft mit 2 Öffnungen wird in die Aorta thoracoabdominalis implantiert.  
-_Kodierung:_  
+Kodierung:  
 Der Kode 39.73.43 «Endovaskuläre Implantation in die Aorta thoracoabdominalis von Stent-Grafts [Stent-Prothesen], mit 2 Öffnun-gen» ist einmal zu erfassen.  
 Über den gesamten stationären Aufenthalt wurde nur ein aortaler Stent-Graft implantiert. Es ist somit kein Zusatzkode der Elemente-gruppe 39.78.6- «Anzahl der implantierten aortalen Stent-Grafts [Stent-Prothesen]» zu erfassen.  
   
 _Fallbeispiel 4_  
 Fall: An einem Eingriffsdatum werden ein Stent-Graft mit einer Öffnung in die Aorta thoracica und ein weiterer Stent-Graft ohne Öff-nung in die Aorta abdominalis implantiert. Beide Stent-Grafts stehen nicht in Verbindung.  
-_Kodierung:_  
+Kodierung:  
 Der Kode 39.73.32 «Endovaskuläre Implantation in die Aorta thoracica von Stent-Grafts [Stent-Prothesen], mit 1 Öffnung» wird am Eingriffsdatum einmal erfasst.  
 Der Kode 39.71.21 «Endovaskuläre Implantation in die Aorta abdominalis von Stent-Grafts [Stent-Prothesen], ohne Öffnung» wird am Eingriffsdatum einmal erfasst.  
 Der Zusatzkode 39.78.61 «2 implantierte aortale Stent-Grafts» wird mit dem Datum des ersten Interventionstages erfasst.  
