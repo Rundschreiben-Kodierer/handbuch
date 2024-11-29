@@ -634,7 +634,51 @@ Folgende Tabelle präzisiert die Kodierung von Eingriffskode und Zusatzkode bei 
 |-----------|-----------|-----------|
 | Cellule 1 | Cellule 2 | Cellule 3 |
 | Cellule 4 | Cellule 5 | Cellule 6 |
- 
+
+
+
+|Einzeitige Mehrfacheingriffe an der Hand - Beispiel|
+||Eingriff|00.9C.1- Einzeitige Mehrfacheingriffe an Mittelhand- und Fingerstrahlen|
+|Fall|Beschreibung|Eingriffskode|Lateralität|Zusatzkode|Titel|Lateralität|
+| Fall 1|Eingriff vom Typ A am Finger des 2. Strahls der linken Hand|Kode des Eingriffs vom Typ A|Einseitig Links Kein| Kode|
+|Fall 2|Eingriff vom Typ A am Finger des 2. Strahls der linken Hand  Eingriff vom Typ B am Finger des 3. Strahls der rechten Hand|Kode des Eingriffs vom Typ A|Einseitig Links|Kein Kode|
+Kode des Ein-griffs vom Typ B
+Einseitig Rechts Fall 3 Eingriff vom Typ A am Fin-ger des 2. Strahls der lin-ken Hand Eingriff vom Typ B an der Mittelhand, 2. Strahl der linken Hand Kode des Ein-griffs vom Typ A Einseitig Links Kein Kode Kode des Ein-griffs vom Typ B Einseitig Links
+Fall 4
+Eingriff vom Typ A an Fin-gern des 2. und 3. Strahls der linken Hand Eingriff vom Typ B am Fin-ger, des 3. Strahls der lin-ken Hand
+Kode des Ein-griffs vom Typ A
+Einseitig Links
+00.9C.11
+Einzeitige Mehrfacheingriffe an 2 Mittelhand- und Finger-strahlen
+Einseitig Links
+Kode des Ein-griffs vom Typ B
+Einseitig Links
+Kein Kode Fall 5 Eingriff vom Typ A an den Fingern der 2., 3. und 4. Strahlen der linken Hand Kode des Ein-griffs vom Typ A Einseitig Links 00.9C.12 Einzeitige Mehrfacheingriffe an 3 Mittelhand- und Finger-strahlen Einseitig Links
+Fall 6
+Eingriff vom Typ A an den Fingern der 2., 3. und 4. Strahlen der linken Hand, sowie an den Fingern der 4. und 5. Strahlen der rechten Hand
+Kode des Ein-griffs vom Typ A
+Beidseitig
+00.9C.12
+Einzeitige Mehrfacheingriffe an 3 Mittelhand- und Finger-strahlen
+Einseitig Links
+00.9C.11
+Einzeitige Mehrfacheingriffe an 2 Mittelhand- und Finger-strahlen
+Einseitig Rechts Fall 7 Eingriff vom Typ A am Fin-ger des 2. Strahls der lin-ken Hand Eingriff vom Typ B am Mit-telhandknochen des 3. Strahls der linken Hand Eingriff vom Typ C an den Fingern des 3. und 4. Strahls der linken Hand Kode des Ein-griffs vom Typ A Einseitig Links Kein Kode Kode des Ein-griffs vom Typ B Einseitig Links Kein Kode Kode des Ein-griffs vom Typ C Einseitig Links 00.9C.11 Einzeitige Mehrfacheingriffe an 2 Mittelhand- und Finger-strahlen Einseitig Links
+Fall 8
+Eingriff vom Typ A an den Fingern des 2. und 3. Strahls der linken Hand Eingriff vom Typ B an den Fingern des 2. und 3. Strahls der rechten Hand
+Kode des Ein-griffs vom Typ A
+Einseitig Links
+00.9C.11
+Einzeitige Mehrfacheingriffe an 2 Mittelhand- und Finger-strahlen
+Einseitig Links
+Kode des Ein-griffs vom Typ B
+Einseitig Rechts
+00.9C.11
+Einzeitige Mehrfacheingriffe an 2 Mittelhand- und Finger-strahlen
+Einseitig Rechts Fall 9 Eingriff vom Typ A an den Fingern des 2. und 3. Strahls der linken Hand Eingriff vom Typ B am Fin-ger des 2. Strahls der rechten Hand Kode des Ein-griffs vom Typ A Einseitig Links 00.9C.11 Einzeitige Mehrfacheingriffe an 2 Mittelhand- und Finger-strahlen Einseitig Links Kode des Ein-griffs vom Typ B Einseitig Rechts Kein Kode
+
+
+
 
 {{</markdown>}}
 {{</article>}}
