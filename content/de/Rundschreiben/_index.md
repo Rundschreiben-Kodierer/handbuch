@@ -658,6 +658,20 @@ Folgende Tabelle präzisiert die Kodierung von Eingriffskode und Zusatzkode bei 
 
 
 
+| Einzeitige Mehrfacheingriffe an der Hand - Beispiel |
+|----------------|
+| Donnée 1       |
+|-----------|-----------|-----------|
+| Donnée 1  | Donnée 2  | Donnée 3  |
+
+| Colonne 1 | Colonne 2 | Colonne 3 | Colonne 4 | Colonne 5 | Colonne 6 | Colonne 7 |
+|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
+| Donnée 1  | Donnée 2  | Donnée 3  | Donnée 4  | Donnée 5  | Donnée 6  | Donnée 7  |
+
+
+
+
+
  |Einzeitige Mehrfacheingriffe an der Hand - Beispiel |
 | |Eingriff |00.9C.1- Einzeitige Mehrfacheingriffe an Mittelhand- und Fingerstrahlen |
 |Fall|Beschreibung|Eingriffskode|Lateralität|Zusatzkode|Titel|Lateralität|
