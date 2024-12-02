@@ -1,5 +1,5 @@
 ---
-title: "Rundschreiben für Kodiererinnen und Kodierer 2024 Nr. 2"
+title: "Anhang"
 slug: RS2024_2
 description: "5 Informationen und Präzisierungen"
 weight: 440
