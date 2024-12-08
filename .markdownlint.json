@@ -25,6 +25,8 @@
             "markdown",
             "link",
             "lineBreak",
+            "grid",
+            "column",
             "article",
             "indent",
             "div",

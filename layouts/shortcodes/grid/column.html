@@ -1,0 +1,4 @@
+{{ $class := .Get "class" | default "" }}
+<div class="col {{ $class }}">
+  {{ .Inner }}
+</div>
