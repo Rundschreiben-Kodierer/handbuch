@@ -3,9 +3,15 @@
 {{ $bodyClass := .Get "bodyClass" | default "" }}
 {{ $number := .Get "number" }}
 {{ $numberColor := .Get "numberColor" | default "green" }}
+{{ $removed := .Get "removed" | default "false" }}
 {{ $date := .Get "date" | default "" }}
 {{ $title := .Get "title" }}
 {{ $groupId := .Get "groupId" | default "" }}
+{{ $buttonClass := "" }}
+{{ if eq $removed "true" }}
+  {{ $buttonClass = "crossed-out-text" }}
+  {{ $numberColor = "red" }}
+{{ end }}
 
 
 <div
@@ -17,7 +23,7 @@
   <span class="article-header {{ $headerClass }}">
     <i class="collapsible-block__icon fas"></i>
 
-    <button type="button" class="collapsible-block__button">
+    <button type="button" class="collapsible-block__button {{ $buttonClass }}">
       <span class="article-number" style="color: {{ $numberColor }};"
         >{{ $number }}
       </span>

@@ -51,3 +51,28 @@
         color: green;
     }
 }
+
+.article-header .crossed-out-text {
+    position: relative;
+}
+  
+.article-header .crossed-out-text::after {
+    content: '';
+    position: absolute;
+    top: 50%; /* Center the crossed out line */
+    left: 0;
+    right: 0;
+    height: 1px; /* Height of the line */
+    background-color: red; /* Color of the crossed out text */
+    transform: translateY(-50%); /* Center verticaly */
+    width: 100%; /* Take all the width of the container */
+    z-index: -1; /* Put the line behind the other elements */
+}
+  
+.article-header .crossed-out-text .article-number,
+.article-header .crossed-out-text .article-date,
+.article-header .crossed-out-text .article-title {
+    display: inline-block;
+    color: red; /* Color of the crossed out text */
+    position: relative;
+}

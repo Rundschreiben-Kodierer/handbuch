@@ -252,8 +252,7 @@ Ausnahme: Es bestehen CHOP-Kodes, bei denen im Beachte angegeben ist, dass die g
 {{</markdown>}}
 {{</article>}}
 
-<a id="0763"></a>
-{{<article class="red" number="~~0763~~"  date="~~01.01.2024~~" title="~~Präzisierung zur Anwendung des Messinstrumentes FIM~~™" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<article number="0763" date="01.01.2024" title="Präzisierung zur Anwendung des Messinstrumentes FIM™" collapsibleClass="d-inline-block" groupId="RS2024_2" removed="true">}}
 {{<markdown>}}
 Die Präzisierung 0763 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersatzlos gestrichen.
 {{</markdown>}}
