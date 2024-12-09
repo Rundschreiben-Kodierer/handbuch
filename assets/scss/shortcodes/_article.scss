@@ -9,22 +9,29 @@
 }
 
 .article-header {
-    align-items: center;
+    align-items: baseline;
     font-size: 1em;
 
     .article-number {
         margin-right: 40px;
+        min-width: 60px;
         font-weight: bold;
     }
     
     .article-date {
         margin-right: 40px;
+        min-width: 100px;
         font-weight: bold;
     }
     
     .article-title {
         font-size: 1em;
         font-weight: bold;
+        white-space: break-spaces;
+        display: inline-flex;
+        align-items: flex-start;
+        word-wrap: break-word;
+        width: 80%;
     }
 }
 
