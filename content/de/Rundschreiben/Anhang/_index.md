@@ -7,22 +7,35 @@ type: docs
 keywords: []
 ---
 
-{{<markdown>}}Das aktuelle Rundschreiben enthält alle, ab 1. Juli 2024 gültigen «Informationen und Präzisierungen».  
+Das aktuelle Rundschreiben enthält alle, ab 1. Juli 2024 gültigen «Informationen und Präzisierungen».  
 Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Löschungen in rot~~</font>
   
 **Beschreibung der Nummerierung**  
 Die «Informationen und Präzisierungen» sind aufsteigend aufgelistet, wobei die neuesten oder aktualisierten Informationen die tiefste Nummer tragen.  
-Z. B.:{{</markdown>}} {{<indent level="5">}}{{<markdown>}}
-0999 (Nummer) 01.01.2012 (gültig seit/ab)  
-0998 01.01.2012  
+{{<grid class="ps-0">}}
+    {{<grid/column>}}
+Z. B.:  
+    {{</grid/column>}}
+    {{<grid/column>}}
+        {{<markdown>}}
+0999 (Nummer)  
+0998  
 [...]  
-0852 01.07.2017 usw
-{{</markdown>}}
-{{</indent>}}
+0852  
+        {{</markdown>}}
+    {{</grid/column>}}
+    {{<grid/column>}}
+        {{<markdown>}}
+01.01.2012 (gültig seit/ab)  
+01.01.2012  
+&nbsp;  
+01.07.2017 usw  
+        {{</markdown>}}
+    {{</grid/column>}}
+{{</grid>}}
 
 {{<collapsibleGroupCommand groupId="RS2024_2">}}
 
-<a id="0756"></a>
 {{<article number="0756" date="01.07.2024" title="«Exklusivum – Kode weglassen» bei Komplexbehandlungen" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
 {{<markdown>}}
 In der Einleitung der CHOP im Abschnitt «Technische Bemerkungen zur CHOP» - «Zusatzinformationen» steht
@@ -40,14 +53,12 @@ Beispiel: «Exklusiva – Kode weglassen» unter 93.8A.1- «Palliativmedizinisch
 {{</markdown>}}
 {{</article>}}
 
-
 <a id="0757"></a>
 {{<article number="0757" date="01.07.2024" title="Informationen und Präzisierungen zur Palliative Care" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
 {{<markdown>}}
 Folgende Präzisierungen betreffen die Elementgruppe 93.8A.2- «Palliativmedizinische Komplexbehandlung, nach Anzahl Behand-lungstage» und die Subkategorie 93.8B.- «Spezialisierte Palliative Care».
 {{</markdown>}}
 {{</article>}}
-
 
 <a id="0757/1"></a>
 {{<article number="0757/1" title="Standardisiertes palliativmedizinisches Basisassessment" collapsibleClass="d-inline-block" groupId="RS2024_2" >}}
@@ -124,7 +135,6 @@ b) Ärztliche Leistung, Pflege sowie mindestens zwei der unter Mindestmerkmal Pu
 {{</indent>}}
 {{</article>}}
 
-
 <a id="0757/3"></a>
 {{<article number="0757/3" title="Teambesprechung" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
 {{<markdown>}}
@@ -145,14 +155,12 @@ Der Patient ist 10 Tage hospitalisiert (von Montag der Woche 1 bis Mittwoch der 
 Unter «interprofessionell» ist zu verstehen, dass im Minimum Arzt, Pflege und eine weitere Berufsgruppe an der Teambespre-chung teilnehmen.{{</markdown>}}
 {{</article>}}
 
-
 <a id="0757/4"></a>
 {{<article class="green-text" number="0757/4" title="Fallzusammenführung und PBA" groupId="RS2024_2">}}
 {{<markdown>}}
 Bei einer Fallzusammenführung mit palliativmedizinischer Komplexbehandlung im ersten Fall ist nach der Rückkehr der Patientin / des Patienten das PBA zu aktualisieren (d.h. nicht, dass es vollständig erneut durchgeführt werden muss. Es kann auch nur doku-mentiert werden, dass die Werte des vorherigen PBAs weiter gelten.).
 {{</markdown>}}
 {{</article>}}
-
 
 <a id="0758"></a>
 {{<article number="0758" date="01.07.2024" title="93.59.5- «Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
@@ -200,11 +208,19 @@ Beispiel 2: Eine «Hygienemassnahme» könnte im Rahmen des Pflegeinterventionsp
 {{<markdown>}}
 In den Beachte zu den Komplexbehandlungen oder Komplexdiagnostiken angegebene Auflistungen, die auf Sätze folgen im Sinne von «Einsatz von mindestens x Therapiebereichen» oder «Mindestens x der folgenden Massnahmen», bedeuten, dass mindestens x verschiedene der aufgelisteten Therapiebereiche oder Massnahmen zum Einsatz kommen. Der Einsatz / die Durchführung von x-mal der gleichen Massnahme / des gleichen Therapiebereichs erfüllt die Mindestanforderungen nicht.
 Beispiel: Unter 99.A6.- «Neurologische Komplexdiagnostik» wird im «Beachte» folgende Auflistung aufgeführt:  
-  
+ {{</markdown>}}
+
 {{<indent level="4">}}
+    {{<grid>}}
+        {{<grid/column>}}
+        {{<markdown>}}
 Beachte: […]  
-{{<indent level="6">}}
-mind. 3 der folgenden Massnahmen:
+        {{</markdown>}}
+        {{</grid/column>}}
+        {{<grid/column>}}
+            {{<markdown>}}
+mind. 3 der folgenden Massnahmen:  
+
 - LP (Liquorentnahme über Lumbalpunktion),  
 - craniale und spinale MRI,  
 - funktionelle Bildgebung (z. B. PET, SPECT),  
@@ -213,17 +229,21 @@ mind. 3 der folgenden Massnahmen:
 - elektrophysiologische (neurophysiologische) Diagnostik,  
 - neurosonologische/psychologische/psychiatrische Diagnostik,  
 - neuropsychologische Diagnostik,  
-- Elektroenzephalographie [EEG] (mobiles Langzeit-EEG über mindestens 24 Stunden oder mehr und polygraphisches Nachtschlaf-EEG und video- und radiotelemetriertes elektroenzephalographi-schem Monitoring über mindestens 4 Stunden und Orthostase-EEG)  
-{{</indent>}}
+- Elektroenzephalographie [EEG] (mobiles Langzeit-EEG über mindestens 24 Stunden  
+ oder mehr und polygraphisches Nachtschlaf-EEG und video- und radiotelemetriertes  
+ elektroenzephalographi-schem Monitoring über mindestens 4 Stunden und Orthostase-EEG)  
+            {{</markdown>}}
+        {{</grid/column>}}
+    {{</grid>}}
 {{</indent>}}
 
+{{<markdown>}}
 Wird dreimal ein EEG durchgeführt ohne zwei weitere der aufgelisteten Massnahmen sind die Mindestmerkmale nicht erfüllt und ein Kode der Subkategorie 99.A6.- kann nicht erfasst werden.  
 Werden hingegen ein craniales MRI, eine neurophysiologische Diagnostik sowie ein mobiles Langzeit-EEG über mindestens 24 Stunden durchgeführt mit Erfüllen der anderen Mindestmerkmale, kann ein Kode der Subkategorie 99.A6.- erfasst werden.
-
-
 {{</markdown>}}
 {{</article>}}
 
+<a id="0762"></a>
 {{<article number="0762"  date="01.01.2024" title="Berücksichtigte Therapiedauer" collapsibleClass="d-inline-block" groupId="RS2024_2" >}}
 {{<markdown>}}
 Bei einer Gruppentherapie ist die gesamte Therapiedauer zu zählen, an der die Patientin / der Patient anwesend ist. Z. B. wenn fünf Patient/innen an einer Stunde Gruppentherapie teilgenommen haben, werden bei jeder Patientin/jedem Patienten 60 Minuten Thera-piedauer angerechnet.  
@@ -233,12 +253,11 @@ Ausnahme: Es bestehen CHOP-Kodes, bei denen im Beachte angegeben ist, dass die g
 {{</article>}}
 
 <a id="0763"></a>
-{{<article class="red" number="~~0763~~"  date="~~01.01.2024~~" title="~~Präzisierung zur Anwendung des Messinstrumentes FIM~~™" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<article number="0763" date="01.01.2024" title="Präzisierung zur Anwendung des Messinstrumentes FIM™" collapsibleClass="d-inline-block" groupId="RS2024_2" removed="true" bodyClass="grey-color">}}
 {{<markdown>}}
 Die Präzisierung 0763 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersatzlos gestrichen.
 {{</markdown>}}
 {{</article>}}
-
 
 <a id="0764"></a>
 {{<article class="red" number="0764"  date="01.01.2024" title="Berechnung der Aufenthaltstage bei Anwendung des CHOP-Kodes 93.59.5- «Komplexbehand-lung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
@@ -248,8 +267,6 @@ Die Präzisierung 0764 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersetzt dur
 {{</markdown>}}
 {{</article>}}
 
-
-
 <a id="0765"></a>
 {{<article number="0765"  date="01.01.2024" title="Alleiniger Schaft- oder Kopfwechsel bei einer (inversen) Schultergelenk-Endoprothese" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
 {{<markdown>}}
@@ -258,15 +275,13 @@ Bei einem alleinigen Wechsel vom Prothesenkopf sind die CHOP-Kodes 80.01.09 «Ar
 {{</markdown>}}
 {{</article>}}
   
-
 <a id="0766"></a>
 {{<article number="0766"  date="01.01.2024" title="7A.7- Stabilisierung der Wirbelsäule und Stellungskorrektur – Zugang dorsal und/oder dorsolate-ral" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
 {{<markdown>}}
 Für die Subkategorien 7A.71.- bis 7A.74.- erfolgte die Aufgliederung in 5. Stelle für den Zugang «dorsal und dorsolateral», bzw. «ventral», in 6. Stelle nach der Anzahl behandelter Segmente (aufgegliedert bis 14 und mehr). Das «und» ist gemäss CHOP-Kon-ventionen als «und/oder» zu verstehen. Das «Beachte» unter 7A.7- «Stabilisierung der Wirbelsäule und Stellungskorrektur» lautet: «Erfolgt der Zugang für gewisse Segmente von dorsal sowie von ventral, so ist für das gesamte Eingriffsgebiet die gesamte Anzahl der Segmente die von dorsal operiert wurden mit einem Kode anzugeben, sowie die gesamte Anzahl der Segmente, die von ventral operiert wurden mit einem anderen Kode. Zusätzlich wird der Zusatzkode der gesamten Anzahl operierter Segmente angegeben.»  
 Die dorsolateralen Zugänge zählen zu den dorsalen Zugängen. Sprich das Segment wird nicht doppelt gezählt, wenn es von dorsal sowie dorsolateral operiert wird.
 Im Beispiel der folgenden Abbildung erfolgte eine Spondylodese über sechs Wirbeln, d.h. über fünf Segmente. Drei Segmente wer-den von dorsal und/oder dorsolateral operiert, 4 Segmente von ventral. Es werden somit ein Kode für drei Segmente «dorsal und dorsolateral» sowie ein Kode für vier Segmente «ventral» erfasst. Zusätzlich wird der entsprechende Kode der Subkategorie 7A.B4.- «Summe der operierten Segmente der Wirbelsäule» für fünf Segmente kodiert.  
-   
-  
+
 {{</markdown>}}
 
 {{<lineBreak>}}
@@ -280,6 +295,7 @@ Im Beispiel der folgenden Abbildung erfolgte eine Spondylodese über sechs Wirbe
 Bei den Kodes der Subkategorie 39.71.- «Endovaskuläre Implantation eines Stent-Grafts [Stent-Prothesen] an der abdominalen Aorta» und der Elementegruppe 39.73.4- «Endovaskuläre Implantation von Stent-Grafts [Stent-Prothesen] in die Aorta thoracoabdo-minalis» ist mit den Zusatzkodes 39.78.5- «Ende der untersten Stent-Grafts [Stent-Prothesen]» anzugeben, wie der Stent-Graft en-det.  
 Die Elementegruppe 39.78.5- umfasst drei Zusatzkodes:  
 {{<indent level="4">}}
+
 - 39.78.51 «Ende des untersten Stent-Grafts (Stent-Prothese), aortal»
 - 39.78.52 «Ende des untersten Stent-Grafts (Stent-Prothese), aortomonoiliakal»
 - 39.78.53 «Ende der untersten Stent-Grafts (Stent-Prothesen), aortobiiliakal»
@@ -317,6 +333,7 @@ Die Kodes 38.7X.11 «Einsetzen eines Embolie-Protektionssystems in die Vena cava
 Eine perkutan-transluminale Thrombektomie an Lungengefässen mittels Thrombusentfernungssystem lässt sich anhand von einem Kode und zwei Zusatzkodes erfassen:
 
 {{<indent level="4">}}
+
 - 39.75.17 «Perkutan-transluminale Thrombektomie, sonstige Gefässe»
 - 00.4B.13 «PTKI an Lungengefässen»
 - Zutreffende Zusatzkodes der Elementegruppe 00.4F.2- «Einsatz von kathetergeführten Thrombus- und Fremdkörperent-fernungs-Systemen, nach Anzahl Systeme»
@@ -325,14 +342,12 @@ Eine perkutan-transluminale Thrombektomie an Lungengefässen mittels Thrombusent
 {{</markdown>}}
 {{</article>}}
 
-
 <a id="0770"></a>
 {{<article class="red" number="0770"  date="01.01.2024" title="Pflege-Komplexbehandlungen – Zuordnung einer Pflegeintervention nur zu einer Leistungs-gruppe" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
 {{<markdown>}}
 Die Präzisierung 0770 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersetzt durch die Präzisierung <a href="#0760">0760</a>
 {{</markdown>}}
 {{</article>}}
-
 
 <a id="0771"></a>
 {{<article number="0771"  date="01.01.2024" title="BA.X0 Art der Rehabilitation, mit weniger als 300 Therapieminuten pro Woche" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
@@ -348,7 +363,6 @@ Die Präzisierung 0774 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersetzt dur
 {{</markdown>}}
 {{</article>}}
 
-
 <a id="0775"></a>
 {{<article number="0775"  date="01.01.2023" title="Peritoneallavage" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
 {{<markdown>}}
@@ -356,7 +370,6 @@ Die diagnostische oder therapeutische Peritoneallavage mittels Punktion ist mit 
 Die diagnostische oder therapeutische Peritoneallavage per Laparoskopie oder per Laparotomie (offen chirurgisch) ist mit dem Kode 54.25 «Peritoneallavage» zu erfassen. Bei einer laparoskopisch durchgeführten Peritoneallavage ist der Kode 54.21.20 «Laparosko-pie, Zugangsweg für chirurgische (therapeutische) Interventionen» zusätzlich zu kodieren.
 {{</markdown>}}
 {{</article>}}
-
 
 <a id="0780"></a>
 {{<article number="0780"  date="01.07.2022" title="Kodierung der CHOP Subkategorien 94.3D.- «1:1-Betreuung bei psychischen und psychosomati-schen Störungen in der Erwachsenenpsychiatrie» und 94.3E.- «[…] in der Kinder- und Jugendpsychiatrie»" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
@@ -366,14 +379,12 @@ Die CHOP erfordert keine physische Anwesenheit im selben Raum. So kann eine kont
 {{</markdown>}}
 {{</article>}}
 
-
 <a id="0782"></a>
 {{<article number="0782"  date="01.07.2022" title="Komplexbehandlungen - Kode «[…], bis 6 Behandlungstage" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
 {{<markdown>}}
 Die Kodes «[…], bis 6 Behandlungstage» werden in Fällen erfasst, bei denen während des stationären Aufenthalts an maximal 6 Behandlungstagen die jeweils genannte Komplexbehandlung durchgeführt wurde. Diese Kodes beinhalten keine Mindestanzahl Behandlungstage. D. h. bei diesen Kodes entfallen die Mindestmerkmale, die sich auf eine Woche oder bestimmte Anzahl Behand-lungstage beziehen. Mindestmerkmale, wie Indikationen, Assessments, Behandlungsinfrastruktur (z. B. Zertifizierung) und Qualifika-tionen sind einzuhalten.
 {{</markdown>}}
 {{</article>}}
-
 
 <a id="0785"></a>
 {{<article number="0785"  date="01.07.2022" title="Hydronephrose und Infektion" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
@@ -383,14 +394,12 @@ Eine Hydronephrose durch Ureterstein mit Harnwegsinfektion nicht näher bezeichn
 {{</markdown>}}
 {{</article>}}
 
-
 <a id="0786"></a>
 {{<article number="0786"  date="01.01.2022" title="93.8C.1- Referenzdokument" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
 {{<markdown>}}
 In der CHOP 2022 wurde die «Neurologisch-neurochirurgische Frührehabilitation, nach Anzahl Behandlungstage» von der Kode-Nummer 93.89.1- auf 93.8C.1- verschoben. Im «Mindestmerkmal Punkt 0, Definition und Referenzdokument» der Elementegruppe 93.8C.1- wird im Titel des Referenzdokuments weiterhin die alte Kode-Nummer genannt. Der Inhalt des Referenzdokuments gilt dennoch für die neue Kode-Nummer 93.8C.1-.
 {{</markdown>}}
 {{</article>}}
-
 
 <a id="0788"></a>
 {{<article number="0788"  date="01.01.2022" title="Spondylodese: Zählung der Segmente bei Stabwechsel und bei Verlängerung" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
@@ -445,7 +454,6 @@ Tag Y: 46.99.71 «Entfernen einer Prothese am Darm, offen chirurgisch» wird zwe
 {{</markdown>}}
 {{</article>}}
 
-
 <a id="0793"></a>
 {{<article number="0793"  date="01.01.2022" title="Kodierung Ulcus hypertonicum (Martorell)" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
 {{<markdown>}}
@@ -462,7 +470,6 @@ Durch diese Erfassung kann das Ulcus hypertonicum von anderen Ulcus cruris-Arten
 {{</markdown>}}
 {{</article>}}
 
-
 <a id="0801"></a>
 {{<article number="0801"  date="01.07.2021" title="Kodierung transileosakrale Verschraubung einer Os sacrum-Fraktur" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
 {{<markdown>}}
@@ -472,7 +479,6 @@ Bei Os sacrum-Frakturen, die zu einer Instabilität der Wirbelsäule führen (me
 {{</markdown>}}
 {{</article>}}
 
-
 <a id="0808"></a>
 {{<article number="0808"  date="01.01.2021" title="Wechsel einer Knieendoprothese und Implantation weiterer/anderer Komponenten" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
 {{<markdown>}}
@@ -480,13 +486,6 @@ Wird eine bestehende Knieendoprothese, unabhängig vom Typ, durch eine andere Kn
 Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückflächenersatz eingesetzt, muss der Kode 81.54.42 «Implantation eines Patella-Rückflächenersatz bei einem Wechsel» erfasst werden und nicht der Kode 81.54.27 «Erstimplantation eines Patella-Rückflächenersatzes».
 {{</markdown>}}
 {{</article>}}
-
-
-
-
-
-
-
 
 <a id="0810"></a>
 {{<article number="0810"  date="01.01.2021" title="Erfassen der Anzahl implantierter Stents und Stent-Grafts" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
@@ -574,7 +573,7 @@ Der Kode 36.08.21 «Implantation perkutan-transluminal von Stents mit Medikament
 Der Kode 36.03.51 «Endarteriektomie von Koronararterien, offen chirurgisch, mit Implantation von Stents mit Medikamentenfreiset-zung, in einer Koronararterie» ist zweimal zu erfassen.  
   
 _Fallbeispiel 2_  
-Fall: Am Tag X wird ein selbstexpandierender Stent in eine Koronararterie implantiert. Am Tag Y wird ein selbstexpandierender Stent in eine andere Koronararterie implantiert.    
+Fall: Am Tag X wird ein selbstexpandierender Stent in eine Koronararterie implantiert. Am Tag Y wird ein selbstexpandierender Stent in eine andere Koronararterie implantiert.
 Kodierung:  
 Der Kode 36.08.23 «Implantation perkutan-transluminal von selbstexpandierenden Stents mit Medikamentenfreisetzung, in einer Koronararterie» wird zweimal erfasst mit unterschiedlichen Interventionsdaten.  
   
@@ -624,7 +623,6 @@ Analog der Logik bei den Bypass-Anastomosen zur Revaskularisation (s. 36.1C.- «
 
 <a id="0818"></a>
 {{<article number="0818"  date="01.07.2020" title="Zusatzkode 00.9C.- «Einzeitige Eingriffe an Hand oder Fuss»" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
-
 
 {{<markdown>}}
 Folgende Tabelle präzisiert die Kodierung von Eingriffskode und Zusatzkode bei einzeitigen Mehrfacheingriffen, am Beispiel der Hand.
@@ -3082,10 +3080,8 @@ div.WordSection1
 
 </html>
 
-
 **FIN**
 {{</article>}}
-
 
 <a id="0819"></a>
 {{<article number="0819"  date="01.07.2020" title="7A.A2 Growing rod – Zusatzkode – Segmente beim spezifischen Eingriff" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
@@ -3093,8 +3089,6 @@ div.WordSection1
 Der Kode 7A.A2 «Implantation von mitwachsenden oder expandierenden Systemen, Wirbelsäule» ist ein Zusatzkode und kann da-her nicht alleine kodiert werden. Beim Eingriff handelt es sich um eine dynamische Stabilisierung der Wirbelsäule. Zur Zählung der behandelten Segmente werden nur die Segmente an denen das System befestigt wird berücksichtigt. 7A.72.12 «Dynamische Stabi-lisierung der Wirbelsäule, Zugang dorsal und dorsolateral, 2 Segmente» bildet den Eingriff ab.
 {{</markdown>}}
 {{</article>}}
-
-
 
 <a id="0820"></a>
 {{<article number="0820"  date="01.07.2020" title="Verwendung der Zusatzkodes U69.3-! «Sekundäre Schlüsselnummern für die Art des Konsums psychotroper Substanzen bei durch diese verursachten psychischen und Verhaltensstörungen»" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
@@ -3104,14 +3098,12 @@ Ergänzend dazu wird der nichtintravenöse Konsum von Kokain mit dem Kode U69.36
 {{</markdown>}}
 {{</article>}}
 
-
 <a id="0826"></a>
 {{<article number="0826"  date="01.07.2020" title="Einweggebrauch-VAC-Pumpensysteme" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
 {{<markdown>}}
 Einweggebrauch-VAC-Pumpensysteme werden neu mit dem Kode 93.57.21 «Applikation eines epikutanen (Vakuum)-verbandes» kodiert.
 {{</markdown>}}
 {{</article>}}
-
 
 <a id="0834"></a>
 {{<article number="0834"  date="01.07.2020" title="Lithiumintoxikation" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
@@ -3121,7 +3113,6 @@ Lithium wird in Kombination mit Antidepressiva bei schweren Depressionen, die au
 {{</markdown>}}
 {{</article>}}
 
-
 <a id="0845"></a>
 {{<article number="0845"  date="01.07.2020" title="Kollagenmatrix zur autologen Chondrozytentransplantation oder als azelluläres Implantat" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
 {{<markdown>}}
@@ -3130,7 +3121,6 @@ Zum Beispiel bedeutet dies für das Kniegelenk, dass bei einer subchondralen Kno
 {{</markdown>}}
 {{</article>}}
 
-
 <a id="0855"></a>
 {{<article number="0855"  date="01.07.2020" title="54.98.- Peritonealdialyse" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
 {{<markdown>}}
@@ -3138,12 +3128,12 @@ Ein Kode der Subkategorie 54.98.- «Peritonealdialyse» darf auch dann kodiert w
 {{</markdown>}}
 {{</article>}}
 
-
 <a id="0871"></a>
 {{<article number="0871"  date="01.07.2020" title="CHOP: Definition «endovaskulär»" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
 {{<markdown>}}
 Endovaskuläre Interventionen sind Eingriffe innerhalb eines Blutgefässes, wobei dieses am Zielort der Behandlung nicht eröffnet wird. Inhaltlich ähnlich ist der Begriff interventionelles Verfahren. Mit einem Katheter gelangt der Arzt nach Punktion einer Arterie (meistens in der Leiste) unter Bildgebung an die erkrankte Stelle. Dort kann die erkrankte Arterie mit speziellen Kathetern behandelt werden. Beispiele für endovaskuläre Interventionen sind:
 {{<indent level="4">}}
+
 - Ballondilatation (PTA)
 - Rotationsatherektomie
 - Einlage eines Endograft
@@ -3153,15 +3143,12 @@ Endovaskuläre Interventionen sind Eingriffe innerhalb eines Blutgefässes, wobe
 {{</markdown>}}
 {{</article>}}
 
-
-
 <a id="0879"></a>
 {{<article number="0879"  date="01.07.2020" title="39.99.21 Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbro-chenem Aortenbogen" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
 {{<markdown>}}
 Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Methode mit einem präzisen Kode aus Kapitel 7 abge-bildet. Gibt es einen präzisen Kode, wird 39.99.21 nicht kodiert.
 {{</markdown>}}
 {{</article>}}
-
 
 <a id="0897"></a>
 {{<article number="0897"  date="01.07.2020" title="80.76.10 Arthroskopische Synovektomie am Kniegelenk/80.76.20 Offene Synovektomie am Knie-gelenk" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
@@ -3170,7 +3157,6 @@ Die Resektion von Plica oder Hoffa-Fettkörper am Knie wird mit diesen Kodes abg
 {{</markdown>}}
 {{</article>}}
 
-
 <a id="0903"></a>
 {{<article number="0903"  date="01.07.2020" title="51.99.00 - 51.99.14, 51.99.91, 51.99.99 Sonstige Operationen an den Gallenwegen" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
 {{<markdown>}}
@@ -3178,12 +3164,12 @@ Diese Kodes sind nur für offen chirurgische oder laparoskopische Eingriffe abzu
 {{</markdown>}}
 {{</article>}}
 
-
 <a id="0941"></a>
 {{<article number="0941"  date="01.07.2020" title="ABO/AB0 Suchbegriff" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
 {{<markdown>}}
 Bei der informatischen Stichwortsuche nach Blutgruppen-assoziierten Kodes gibt es sprachliche Unterschiede:
 {{<indent level="4">}}
+
 - im Deutschen und Italienischen müsste die Blutgruppe immer mit 0 abgebildet sein,  
 - im Französischen mit O.
 {{</indent>}}
@@ -3195,5 +3181,3 @@ Solche Anlagen können im Bestrahlungsraum (Röntgensystem, mobiles CT, Ultrasch
 Beispielsweise kann durch eine CT bei einem Patienten mit Prostatakarzinom die Füllung von Harnblase und Rektum kontrolliert und die daraus resultierende Position der Prostata bestimmt werden. Durch eine kontinuierliche Erfassung der Patienten- oder Or-ganbewegungen ist es auch möglich, eine Nachjustierung des Strahls während der Bestrahlung selbst vorzunehmen («adaptive Radiotherapie»)
 {{</markdown>}}
 {{</article>}}
-
-

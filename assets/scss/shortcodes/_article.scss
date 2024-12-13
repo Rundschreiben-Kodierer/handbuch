@@ -9,22 +9,29 @@
 }
 
 .article-header {
-    align-items: center;
+    align-items: baseline;
     font-size: 1em;
 
     .article-number {
         margin-right: 40px;
+        min-width: 60px;
         font-weight: bold;
     }
     
     .article-date {
         margin-right: 40px;
+        min-width: 100px;
         font-weight: bold;
     }
     
     .article-title {
         font-size: 1em;
         font-weight: bold;
+        white-space: break-spaces;
+        display: inline-flex;
+        align-items: flex-start;
+        word-wrap: break-word;
+        width: 100%;
     }
 }
 
@@ -50,4 +57,29 @@
     .collapsible-block__content {
         color: green;
     }
+}
+
+.article-header .crossed-out-text {
+    position: relative;
+}
+  
+.article-header .crossed-out-text::after {
+    content: '';
+    position: absolute;
+    top: 50%; /* Center the crossed out line */
+    left: 0;
+    right: 0;
+    height: 1px; /* Height of the line */
+    background-color: red; /* Color of the crossed out text */
+    transform: translateY(-50%); /* Center verticaly */
+    width: 100%; /* Take all the width of the container */
+    z-index: -1; /* Put the line behind the other elements */
+}
+  
+.article-header .crossed-out-text .article-number,
+.article-header .crossed-out-text .article-date,
+.article-header .crossed-out-text .article-title {
+    display: inline-block;
+    color: red; /* Color of the crossed out text */
+    position: relative;
 }

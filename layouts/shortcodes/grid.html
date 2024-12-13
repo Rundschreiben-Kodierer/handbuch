@@ -1,0 +1,7 @@
+{{ $class := .Get "class" | default "" }}
+{{ $colCount := .Get "colCount" | default "auto" }}
+<div class="container {{ $class }}">
+  <div class="row row-cols-{{ $colCount }}">
+    {{ .Inner }}
+  </div>
+</div>

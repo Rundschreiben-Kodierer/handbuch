@@ -69,7 +69,7 @@ body {
   .layout-header {
     display: flex;
     flex-direction: column;
-    background-color: #fff;
+    background-color: #ffffff;
     z-index: 101;
 
     .header-wrapper {
@@ -125,7 +125,7 @@ body {
             white-space: nowrap;
 
             @media (max-width: 767.99px) {
-              border-left: 0px;
+              border-left: 0;
             }
 
             .layout-title-link {
@@ -401,11 +401,8 @@ aside.d-none {
 }
 
 details {
-  padding-top: 0.75rem;
-  padding-bottom: 0.75rem;
+  padding: 0.75rem 1rem;
   background-color: #e6e6e6;
-  padding-right: 1rem;
-  padding-left: 1rem;
   max-width: 80%;
   border-radius: 8px;
   margin-bottom: 0.75rem;
@@ -558,14 +555,13 @@ a {
     font-size: 2em;
     padding: 8px 8px 0;
     text-align: center;
-    color: #fff;
+    color: #ffffff;
 
     .icon-wrapper {
-      -webkit-user-select: none;
       user-select: none;
       background-repeat: no-repeat;
       display: inline-block;
-      fill: currentColor;
+      fill: currentcolor;
       height: 1em;
       width: 1em;
       overflow: hidden;
@@ -653,4 +649,8 @@ img.img_full {
 .right_col {
   flex: 1;
   padding-left: 10px;
+}
+
+.grey-color {
+  color: grey;
 }
