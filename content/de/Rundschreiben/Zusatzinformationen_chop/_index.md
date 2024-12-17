@@ -60,11 +60,11 @@ Beschreibung «Drainage durch Aspiration an der Niere» unter 55.92 aufzunehmen.
 {{<indent level="5">}}
 
 {{<markdown>}}
-Aspiration einer Nierenzyste
-Nierenpunktion
-Drainage durch Aspiration an der Niere
-Exkl. Nephrotomie, perkutan-transrenal (55.01.10)
-Nephrostomie, perkutan-transrenal (55.02.10)
+Aspiration einer Nierenzyste  
+Nierenpunktion  
+ <font color="green">Drainage durch Aspiration an der Niere  </font>
+ <font color="green">Exkl. Nephrotomie, perkutan-transrenal (55.01.10)  </font>
+ <font color="green">Nephrostomie, perkutan-transrenal (55.02.10)  </font>
 {{</markdown>}}
 {{</indent>}}
 
