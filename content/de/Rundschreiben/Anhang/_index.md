@@ -492,6 +492,7 @@ Folgende Kodes geben jeweils nur «eines Stents» oder «Stent», bzw. «einer P
         {{</markdown>}}
     {{</grid/column>}}
 {{</grid>}}
+{{<markdown>}}
     
 Je Eingriff ist der Kode so oft zu kodieren, wie Stents/Prothesen implantiert wurden.
   
