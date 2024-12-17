@@ -514,7 +514,6 @@ Tag X:
     {{</grid/column>}}
 {{</grid>}}
 
-{{</markdown>}}
 {{<grid class="ps-0">}}
     {{<grid/column>}}
 Tag X:
