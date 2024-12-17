@@ -26,16 +26,24 @@ Falls ein Gebiet mittels einem anderen endoskopischen Zugang oder einem anderen 
 wurde ist weder der 00.99.11 noch der 00.99.12 zu verwenden. Die Bildung einer entsprechenden Resteklasse vom Typ «sonstige» 
 ist für eine spätere CHOP-Version geplant.
   
-00.99.11 Reoperation in einem bereits offen chirurgisch, thorakoskopisch, <font color="red">~~und~~</font> laparoskopisch <font color="green">und arthroskopisch</font> voroperierten 
+{{<grid class="ps-0">}}
+    {{<grid/column>}}
+00.99.11 
+    {{</grid/column>}}
+    {{<grid/column>}}
+        {{<markdown>}}
+Reoperation in einem bereits offen chirurgisch, thorakoskopisch, <font color="red">~~und~~</font> laparoskopisch <font color="green">und arthroskopisch</font> voroperierten 
 Gebiet  
 Beachte: Zusatzkode für die  <font color="red">~~Wiedereröffnung eines Operationsgebietes~~</font>  <font color="green">Reoperation </font>zur Behandlung einer Komplikation, 
 zur Durchführung einer Rezidivoperation oder zur Durchführung einer anderen Operation in diesem Operationsgebiet, sofern in den organspezifischen Kapiteln kein spezifischer Kode vorhanden ist.
-   
-00.99.12 <font color="red">Offen chirurgische, thorakoskopische oder laparoskopische</font> Operation in einem bereits perkutan interventionell vorbehandelten oder bestrahlten Gebiet
+        {{</markdown>}}
+    {{</grid/column>}}
+{{</grid>}}
+
+
+00.99.12 <font color="red">~~Offen chirurgische, thorakoskopische oder laparoskopische~~</font> Operation in einem bereits perkutan interventionell vorbehandelten oder bestrahlten Gebiet
 […]
 
 {{</markdown>}}
 {{</article>}}
-
-
 
