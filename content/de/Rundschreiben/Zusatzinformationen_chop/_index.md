@@ -27,35 +27,20 @@ wurde ist weder der 00.99.11 noch der 00.99.12 zu verwenden. Die Bildung einer e
 ist für eine spätere CHOP-Version geplant.
   
 
+00.99.11 Reoperation in einem bereits offen chirurgisch, thorakoskopisch, und laparoskopisch und arthroskopisch voroperierten 
+{{</markdown>}}
 
+{{<indent level="5">}}
 
-{{<grid class="ps-0">}}
-    {{<grid/column>}}
-00.99.11     
-    {{</grid/column>}}
-    {{<grid/column>}}
-        {{<markdown>}}
-Reoperation in einem bereits offen chirurgisch, thorakoskopisch, und laparoskopisch und arthroskopisch voroperierten 
+{{<markdown>}}
 Gebiet
 Beachte: Zusatzkode für die Wiedereröffnung eines Operationsgebietes Reoperation zur Behandlung einer Komplikation, 
 zur Durchführung einer Rezidivoperation oder zur Durchführung einer anderen Operation in diesem Operationsgebiet, sofern in den organspezifischen Kapiteln kein spezifischer Kode vorhanden ist.
-        {{</markdown>}}
-    {{</grid/column>}}
-    {{<grid/column>}}
-        {{<markdown>}}
-01.01.2012 (gültig seit/ab)  
-01.01.2012  
-&nbsp;  
-01.07.2017 usw  
-        {{</markdown>}}
-    {{</grid/column>}}
-{{</grid>}}
-
-
+{{</markdown>}}
+{{</indent>}}
 
 00.99.12 <font color="red">~~Offen chirurgische, thorakoskopische oder laparoskopische~~</font> Operation in einem bereits perkutan interventionell vorbehandelten oder bestrahlten Gebiet
 […]
 
-{{</markdown>}}
 {{</article>}}
 
