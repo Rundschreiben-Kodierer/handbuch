@@ -38,7 +38,7 @@ Beachte: Zusatzkode für die<font color="red">~~Wiedereröffnung eines Operation
 zur Durchführung einer Rezidivoperation oder zur Durchführung einer anderen Operation in diesem Operationsgebiet, sofern in den organspezifischen Kapiteln kein spezifischer Kode vorhanden ist.
 {{</markdown>}}
 {{</indent>}}
-
+  
 00.99.12 <font color="red">~~Offen chirurgische, thorakoskopische oder laparoskopische~~</font> Operation in einem bereits perkutan interventionell vorbehandelten oder bestrahlten Gebiet
 […]
 
