@@ -76,11 +76,20 @@ Durchführung eines standardisierten palliativmedizinischen Basisassessments (PB
 {{</grid>}}
 
 
-{{<markdown>}}
-
-93.8B.-: Mindestmerkmal Punkt 2, Eintrittsabklärung, Assessment:  
+{{<grid class="ps-0">}}
+    {{<grid/column>}}
+93.8B.-: 
+    {{</grid/column>}}
+    {{<grid/column>}}
+        {{<markdown>}}
+Mindestmerkmal Punkt 2, Eintrittsabklärung, Assessment:  
 a) Durchführung eines standardisierten palliativmedizinischen Basisassessments (PBA) inklusive Erfassung von Komplexi-tät und Instabilität.  
 […]  
+        {{</markdown>}}
+    {{</grid/column>}}
+{{</grid>}}
+
+{{<markdown>}}
   
 **Ist SENS ebenfalls ein standardisiertes palliativmedizinisches Basisassessment (PBA)?**  
 Mit dem SENS-Assessment werden folgende Bereiche der Palliativversorgung abgedeckt: Symptommanagement, Entscheidungsfin-dung/ End of Life Vorbereitung, Netzwerk-Organisation, Support der Angehörigen. SENS integriert alle Themenbereiche der gängi-gen Ziele, Definitionen und Modelle. Somit ist auch ein dokumentiertes SENS-Assessment als standardisiertes palliativmedizini-sches Basisassessment für die Kodes 93.8A.2- und 93.8B.- anzuerkennen.  
