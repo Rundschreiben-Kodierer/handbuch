@@ -445,6 +445,7 @@ Je Eingriff ist der Kode mit der entsprechenden Anzahl von eingesetzten Stents/P
 Beispiel: Am Tag X werden zwei selbstexpandierende Prothesen in den Ösophagus eingesetzt. Am Tag Y wird eine selbstexpandie-rende Prothese ausgewechselt.
   
 Kodierung 
+{{</markdown>}}
 {{<grid class="ps-0">}}
     {{<grid/column>}}
 Tag X:
