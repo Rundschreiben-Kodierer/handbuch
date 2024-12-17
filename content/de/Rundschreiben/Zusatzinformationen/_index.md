@@ -1,7 +1,7 @@
 ---
 title: 4.Zusatzinformationen
 slug: RS-Test
-description: "Zusatzinformationen zur ICD-10-GM 2022"
+description: "4. Zusatzinformationen zur ICD-10-GM 2022"
 weight: 440
 type: docs
 keywords: []
