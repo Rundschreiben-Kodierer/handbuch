@@ -474,7 +474,7 @@ Folgende Kodes geben jeweils nur «eines Stents» oder «Stent», bzw. «einer P
 
 {{<grid class="ps-0">}}
     {{<grid/column>}}
-Tag z: 
+Tag Z:
     {{</grid/column>}}
     {{<grid/column>}}
         {{<markdown>}}
@@ -497,15 +497,36 @@ Tag z:
     {{</grid/column>}}
 {{</grid>}}
 {{<markdown>}}
-    
+   
 Je Eingriff ist der Kode so oft zu kodieren, wie Stents/Prothesen implantiert wurden.
   
 Beispiel: Am Tag X werden zwei nicht selbstexpandierende Prothesen am Darm eingelegt. Am Tag Y werden beide entfernt und durch eine selbstexpandierende Prothese ersetzt.
 Kodierung:  
-Tag X: 46.99.51 «Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Darm, offen chirurgisch» wird zweimal kodiert.  
-Tag Y: 46.99.71 «Entfernen einer Prothese am Darm, offen chirurgisch» wird zweimal kodiert.  
-46.99.61 «Einlegen oder Wechsel einer selbstexpandierenden Prothese am Darm, offen chirurgisch» wird einmal erfasst.
 {{</markdown>}}
+{{<grid class="ps-0">}}
+    {{<grid/column>}}
+Tag X:
+    {{</grid/column>}}
+    {{<grid/column>}}
+        {{<markdown>}}
+46.99.51 «Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Darm, offen chirurgisch» wird zweimal kodiert.  
+        {{</markdown>}}
+    {{</grid/column>}}
+{{</grid>}}
+
+{{</markdown>}}
+{{<grid class="ps-0">}}
+    {{<grid/column>}}
+Tag X:
+    {{</grid/column>}}
+    {{<grid/column>}}
+        {{<markdown>}}
+46.99.71 «Entfernen einer Prothese am Darm, offen chirurgisch» wird zweimal kodiert.  
+46.99.61 «Einlegen oder Wechsel einer selbstexpandierenden Prothese am Darm, offen chirurgisch» wird einmal erfasst.
+        {{</markdown>}}
+    {{</grid/column>}}
+{{</grid>}}
+
 {{</article>}}
 
 <a id="0793"></a>
