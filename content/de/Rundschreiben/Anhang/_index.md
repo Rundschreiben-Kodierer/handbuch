@@ -365,7 +365,7 @@ Eine perkutan-transluminale Thrombektomie an Lungengefässen mittels Thrombusent
 {{</article>}}
 
 <a id="0770"></a>
-{{<article class="red" number="0770"  date="01.01.2024" title="Pflege-Komplexbehandlungen – Zuordnung einer Pflegeintervention nur zu einer Leistungs-gruppe" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<article number="0770" date="01.01.2024" title="Pflege-Komplexbehandlungen – Zuordnung einer Pflegeintervention nur zu einer Leistungs-gruppe" collapsibleClass="d-inline-block" groupId="RS2024_2" removed="true" bodyClass="grey-color">}}
 {{<markdown>}}
 Die Präzisierung 0770 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersetzt durch die Präzisierung <a href="#0760">0760</a>
 {{</markdown>}}
@@ -379,7 +379,7 @@ Bei Aufenthalten in der Rehabilitation von weniger als sieben Tagen mit weniger 
 {{</article>}}
 
 <a id="0774"></a>
-{{<article class="red" number="0774"  date="01.01.2023" title="Informationen und Präzisierungen zur Palliative Care" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<article number="0774" date="01.01.2023" title="Informationen und Präzisierungen zur Palliative Care" collapsibleClass="d-inline-block" groupId="RS2024_2" removed="true" bodyClass="grey-color">}}
 {{<markdown>}}
 Die Präzisierung 0774 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersetzt durch die Präzisierung <a href="#0757">0757</a>
 {{</markdown>}}
@@ -444,7 +444,20 @@ Folgende Kodes haben eine Unterteilung nach Anzahl der implantierten Stents/Prot
 Je Eingriff ist der Kode mit der entsprechenden Anzahl von eingesetzten Stents/Prothesen auszuwählen und einmal pro Eingriff zu erfassen.
 Beispiel: Am Tag X werden zwei selbstexpandierende Prothesen in den Ösophagus eingesetzt. Am Tag Y wird eine selbstexpandie-rende Prothese ausgewechselt.
   
-Kodierung  
+Kodierung 
+{{<grid class="ps-0">}}
+    {{<grid/column>}}
+Tag X:
+    {{</grid/column>}}
+    {{<grid/column>}}
+        {{<markdown>}}
+42.81.41 «Einsetzen und Wechsel von zwei selbstexpandierenden Prothesen (permanenter Tubus) in den Ösophagus, endoskopisch»          
+        {{</markdown>}}
+    {{</grid/column>}}
+{{</grid>}}
+
+{{<markdown>}}
+
 Tag X: 42.81.41 «Einsetzen und Wechsel von zwei selbstexpandierenden Prothesen (permanenter Tubus) in den Ösophagus, endoskopisch»  
 Tag Y: 42.81.40 «Einsetzen und Wechsel einer selbstexpandierenden Prothese (permanenter Tubus) in den Ösophagus, endo-skopisch»  
 Folgende Kodes geben jeweils nur «eines Stents» oder «Stent», bzw. «einer Prothese» an. Es gibt für diese Stent-/Prothesen-Ty-pen keine Summen-Kodes über den gesamten Aufenthalt.
