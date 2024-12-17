@@ -442,6 +442,7 @@ Folgende Kodes haben eine Unterteilung nach Anzahl der implantierten Stents/Prot
 51.9A.- Einlage oder Wechsel von Stent in den Gallengang  
 {{</indent>}}
 Je Eingriff ist der Kode mit der entsprechenden Anzahl von eingesetzten Stents/Prothesen auszuwählen und einmal pro Eingriff zu erfassen.
+  
 Beispiel: Am Tag X werden zwei selbstexpandierende Prothesen in den Ösophagus eingesetzt. Am Tag Y wird eine selbstexpandie-rende Prothese ausgewechselt.
   
 Kodierung 
