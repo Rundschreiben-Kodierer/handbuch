@@ -78,7 +78,7 @@ Durchführung eines standardisierten palliativmedizinischen Basisassessments (PB
 
 {{<grid class="ps-0">}}
     {{<grid/column>}}
-93.8B.-: 
+93.8B.- : 
     {{</grid/column>}}
     {{<grid/column>}}
         {{<markdown>}}
@@ -174,7 +174,7 @@ Die wöchentliche interprofessionelle Teambesprechung bei der palliativmedizinis
   
 Beispiel:  
 Der Patient ist 10 Tage hospitalisiert (von Montag der Woche 1 bis Mittwoch der Woche 2). Der Patient tritt am Mittwoch der 2. Wo-che aus oder verstirbt. Die Teambesprechungen finden jeweils donnerstags statt. Für die 2. Woche ist das strukturbezogene Min-destmerkmal ebenfalls erfüllt.  
-Unter «interprofessionell» ist zu verstehen, dass im Minimum Arzt, Pflege und eine weitere Berufsgruppe an der Teambespre-chung teilnehmen.{{</markdown>}}
+Unter **«interprofessionell»** ist zu verstehen, dass im Minimum Arzt, Pflege und eine weitere Berufsgruppe an der Teambespre-chung teilnehmen.{{</markdown>}}
 {{</article>}}
 
 <a id="0757/4"></a>
@@ -282,7 +282,7 @@ Die Präzisierung 0763 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersatzlos g
 {{</article>}}
 
 <a id="0764"></a>
-{{<article class="red" number="0764"  date="01.01.2024" title="Berechnung der Aufenthaltstage bei Anwendung des CHOP-Kodes 93.59.5- «Komplexbehand-lung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<article number="0764"  date="01.01.2024" title="Berechnung der Aufenthaltstage bei Anwendung des CHOP-Kodes 93.59.5- «Komplexbehand-lung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage»" collapsibleClass="d-inline-block" groupId="RS2024_2" removed="true" bodyClass="grey-color">}}
 {{<markdown>}}
 Die Präzisierung 0764 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersetzt durch die Präzisierung <a href="#0758">0758</a>
 
