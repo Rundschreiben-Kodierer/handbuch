@@ -1,7 +1,7 @@
 ---
 title: "5.Anhang"
 slug: RS2024_2
-description: "5 Informationen und Präzisierungen"
+description: "5.1. Informationen und Präzisierungen"
 weight: 440
 type: docs
 keywords: []
@@ -62,9 +62,22 @@ Folgende Präzisierungen betreffen die Elementgruppe 93.8A.2- «Palliativmedizin
 
 <a id="0757/1"></a>
 {{<article number="0757/1" title="Standardisiertes palliativmedizinisches Basisassessment" collapsibleClass="d-inline-block" groupId="RS2024_2" >}}
-{{<markdown>}}
-93.8A.2-: Mindestmerkmal Punkt 2, Eintrittsabklärung, Assessment:  
+
+{{<grid class="ps-0">}}
+    {{<grid/column>}}
+93.8A.2-: 
+    {{</grid/column>}}
+    {{<grid/column>}}
+        {{<markdown>}}
+Mindestmerkmal Punkt 2, Eintrittsabklärung, Assessment:  
 Durchführung eines standardisierten palliativmedizinischen Basisassessments (PBA). […]  
+        {{</markdown>}}
+    {{</grid/column>}}
+    {{</grid/column>}}
+{{</grid>}}
+{{<markdown>}}
+
+
 93.8B.-: Mindestmerkmal Punkt 2, Eintrittsabklärung, Assessment:  
 a) Durchführung eines standardisierten palliativmedizinischen Basisassessments (PBA) inklusive Erfassung von Komplexi-tät und Instabilität.  
 […]  
