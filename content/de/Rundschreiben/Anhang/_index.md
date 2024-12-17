@@ -457,12 +457,23 @@ Tag X:
     {{</grid/column>}}
 {{</grid>}}
 
-{{<markdown>}}
+{{<grid class="ps-0">}}
+    {{<grid/column>}}
+Tag Y:
+    {{</grid/column>}}
+    {{<grid/column>}}
+        {{<markdown>}}
+42.81.40 «Einsetzen und Wechsel einer selbstexpandierenden Prothese (permanenter Tubus) in den Ösophagus, endo-skopisch»
+        {{</markdown>}}
+    {{</grid/column>}}
+{{</grid>}}
 
-Tag X: 42.81.41 «Einsetzen und Wechsel von zwei selbstexpandierenden Prothesen (permanenter Tubus) in den Ösophagus, endoskopisch»  
-Tag Y: 42.81.40 «Einsetzen und Wechsel einer selbstexpandierenden Prothese (permanenter Tubus) in den Ösophagus, endo-skopisch»  
+{{<grid class="ps-0">}}
+    {{<grid/column>}}
 Folgende Kodes geben jeweils nur «eines Stents» oder «Stent», bzw. «einer Prothese» an. Es gibt für diese Stent-/Prothesen-Ty-pen keine Summen-Kodes über den gesamten Aufenthalt.
-{{<indent level="4">}}
+    {{</grid/column>}}
+    {{<grid/column>}}
+        {{<markdown>}}
 09.83 Konjunktivozystorhinostomie mit Einsetzen von Tubus oder Stent  
 31.93 Ersetzen eines Larynx- oder Trachea-Stents  
 31.96 Einsetzen eines Larynx- oder Trachea-Stents  
@@ -478,8 +489,10 @@ Folgende Kodes geben jeweils nur «eines Stents» oder «Stent», bzw. «einer P
 52.95.5- Einlage oder Wechsel eines selbstexpandierenden Stents (Prothese) in den Pankreasgang, offen chirurgisch oder laparoskopisch  
 58.99.10 Sonstige Operationen an Urethra und Periurethralgewebe, Einlegen und Wechsel eines Stents in die Urethra  
 60.99.31 Einlegen eines Stents in die prostatische Harnröhre  
-{{</indent>}}
-  
+        {{</markdown>}}
+    {{</grid/column>}}
+{{</grid>}}
+    
 Je Eingriff ist der Kode so oft zu kodieren, wie Stents/Prothesen implantiert wurden.
   
 Beispiel: Am Tag X werden zwei nicht selbstexpandierende Prothesen am Darm eingelegt. Am Tag Y werden beide entfernt und durch eine selbstexpandierende Prothese ersetzt.
