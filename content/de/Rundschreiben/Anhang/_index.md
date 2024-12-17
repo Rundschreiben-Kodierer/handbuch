@@ -468,9 +468,13 @@ Tag Y:
     {{</grid/column>}}
 {{</grid>}}
 
+{{<markdown>}}
+Folgende Kodes geben jeweils nur «eines Stents» oder «Stent», bzw. «einer Prothese» an. Es gibt für diese Stent-/Prothesen-Ty-pen keine Summen-Kodes über den gesamten Aufenthalt.
+{{</markdown>}}
+
 {{<grid class="ps-0">}}
     {{<grid/column>}}
-Folgende Kodes geben jeweils nur «eines Stents» oder «Stent», bzw. «einer Prothese» an. Es gibt für diese Stent-/Prothesen-Ty-pen keine Summen-Kodes über den gesamten Aufenthalt.
+Tag z: 
     {{</grid/column>}}
     {{<grid/column>}}
         {{<markdown>}}
