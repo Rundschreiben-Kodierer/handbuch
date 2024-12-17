@@ -73,10 +73,10 @@ Mindestmerkmal Punkt 2, Eintrittsabklärung, Assessment:
 Durchführung eines standardisierten palliativmedizinischen Basisassessments (PBA). […]  
         {{</markdown>}}
     {{</grid/column>}}
-    {{</grid/column>}}
 {{</grid>}}
-{{<markdown>}}
 
+
+{{<markdown>}}
 
 93.8B.-: Mindestmerkmal Punkt 2, Eintrittsabklärung, Assessment:  
 a) Durchführung eines standardisierten palliativmedizinischen Basisassessments (PBA) inklusive Erfassung von Komplexi-tät und Instabilität.  
