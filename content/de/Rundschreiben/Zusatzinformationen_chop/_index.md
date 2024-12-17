@@ -69,3 +69,74 @@ Nierenpunktion
 {{</indent>}}
 
 {{</article>}}
+
+
+<a id="3.3"></a>
+{{<article number="3.3" date="01.07.2024" title=" 70.A2.22 «Deszensuschirurgie [Suspensionsoperation], zwei oder drei Kompartimente, laparoskopisch, mit Netz»" collapsibleClass="d-inline-block" groupId="RS2024CHOP_2">}}
+
+{{<markdown>}}
+
+Betrifft nur die italienische Sprachversion
+  
+{{</markdown>}}
+
+{{</article>}}
+
+
+<a id="3.4"></a>
+{{<article number="3.4" date="01.07.2024" title="81.A1.13 Langschaftprothese" collapsibleClass="d-inline-block" groupId="RS2024CHOP_2">}}
+
+{{<markdown>}}
+
+Betrifft alle Sprachversionen
+  
+Bei den Kodes zur Erstimplantation oder Implantation bei Wechsel einer Sonderprothese des Hüftgelenks (81.51.12, 81.51.22) sind 
+die «Beachte» wie folgt anzupassen. Eine achsengeführte Knie-Totalendoprothese ist implizit eine Langschaftprothese. Bei den 
+Kodes 81.54.23 «Erstimplantation einer achsengeführten Totalendoprothese des Kniegelenks» und 81.54.33 «Implantation einer 
+achsengeführten Totalendoprothese des Kniegelenks bei einem Prothesenwechsel» ist der Zusatzkode 81.A1.13 «Langschaftprothese» somit nicht zu erfassen.
+
+{{</markdown>}}
+
+{{</article>}}
+
+
+<a id="3.5"></a>
+{{<article number="3.5" date="01.07.2024" title="85.2C.2-, 85.2C.3- Débridement an der Mamma»" collapsibleClass="d-inline-block" groupId="RS2024CHOP_2">}}
+
+{{<markdown>}}
+
+Betrifft nur die französische Version
+  
+{{</markdown>}}
+
+{{</article>}}
+
+<a id="3.6"></a>
+{{<article number="3.6" date="01.07.2024" title="93.8A.2- und 93.8B.- Palliativmedizin – Aufnahme von «Exklusiva – Kode weglassen»" collapsibleClass="d-inline-block" groupId="RS2024CHOP_2">}}
+
+{{<markdown>}}
+
+Betrifft alle Sprachversionen
+Bei den Zusatzinformationen der Elementegruppe 93.8A.2-, der Subkategorie 93.8B.- und der Elementegruppe 93.8B.2- sind folgende «Exklusiva – Kode weglassen» aufzunehmen. In der französischen Sprachversion ist zusätzlich der Titel des Kodes 93.8B.27 
+zu korrigieren.
+Zum Verständnis des Exklusivum – Kode weglassen bei Komplexbehandlungen s. Präzisierung 0756 im Anhang dieses Rundschreibens. Zudem wurde die Präzisierung 0757 «Informationen und Präzisierungen zur Palliative Care» ergänzt
+  
+{{</markdown>}}
+
+{{</article>}}
+
+
+
+<a id="3.7"></a>
+{{<article number="3.7" date="01.07.2024" title="93.59.5- und 99.84.- Anpassung der «Beachte»" collapsibleClass="d-inline-block" groupId="RS2024CHOP_2">}}
+
+{{<markdown>}}
+
+Betrifft alle Sprachversionen
+Zur klaren Abgrenzung der Elementegruppe 93.59.5- und der Subkategorie 99.84.- sind die «Beachte» wie folgt anzupassen. Zur 
+Verdeutlichung wurde ebenfalls die Präzisierung 0758 im Anhang dieses Rundschreibens aufgenommen.
+
+  
+{{</markdown>}}
+
+{{</article>}}
