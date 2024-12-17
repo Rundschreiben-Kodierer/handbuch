@@ -1,6 +1,6 @@
 ---
 title: 3.Zusatzinformationen
-slug: RS-Test
+slug: RS-ZusatzinformationCHOP
 description: "3 Zusatzinformationen zur chop 2024"
 weight: 440
 type: docs
