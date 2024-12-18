@@ -291,7 +291,7 @@ Die Präzisierung 0764 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersetzt dur
 {{</article>}}
 
 <a id="0765"></a>
-{{<article number="0765"  date="01.01.2024" title="Alleiniger Schaft- oder Kopfwechsel bei einer (inversen) Schultergelenk-Endoprothese" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<article number="0765"  date="01.01.2024" title="Alleiniger Schaft- oder Kopfwechsel bei einer (inversen) Schultergelenk-Endoprothese" collapsibleClass="d-inline-block" groupId="RS2024_2" removed="false">}}
 {{<markdown>}}
 In der CHOP gibt es keine spezifischen Kodes für den Schaftwechsel bei einer inversen Schultergelenk-Endoprothese. Bis zur Bil-dung von spezifischen Kodes sind für das Entfernen des Schafts der Kode 80.01.09 «Arthrotomie zur Prothesenentfernung an der Schulter, sonstige» und für die Implantation (bei einem Wechsel) der Kode 81.81.35 «Implantation Inlay, Kopf sowie Schaft, Totalen-doprothese Schultergelenk, bei Wechsel von Komponenten» zu erfassen.  
 Bei einem alleinigen Wechsel vom Prothesenkopf sind die CHOP-Kodes 80.01.09 «Arthrotomie zur Prothesenentfernung an der Schulter, sonstige» + 81.81.34 «Implantation Inlay sowie Kopf, Totalendoprothese Schultergelenk, bei Wechsel von Komponenten» zu verwenden.
