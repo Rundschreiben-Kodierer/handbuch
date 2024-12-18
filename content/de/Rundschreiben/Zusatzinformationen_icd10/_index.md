@@ -1,5 +1,5 @@
 ---
-title: 4.Zusatzinformationen
+title: 4.Zusatzinformationen-ICD10
 slug: RS-ZusatzinformationICD
 description: "4 Zusatzinformationen zur ICD-10-GM 2022"
 weight: 440
