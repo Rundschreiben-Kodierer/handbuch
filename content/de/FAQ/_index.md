@@ -1,7 +1,7 @@
 ---
-title: Kodierempfehlungen
-slug: Kodierempfehlungen
-description: "Kodierempfehlungen"
+title: FAQ
+slug: FAQ
+description: "FAQ"
 weight: 440
 type: docs
 keywords: []
