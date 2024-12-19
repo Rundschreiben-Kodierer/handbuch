@@ -58,11 +58,11 @@ https://www.swissdrg.org/de/akutsomatik/swissdrg-system-1302024/analogiekodierun
   
 Weitere Publikationen der SwissDRG AG sind unterjährig laufend zu beachten.  
   
-**1.2. Anfragen zu Kodierungsrichtlinien und Klassifikationen**
+**1.2. Anfragen zu Kodierungsrichtlinien und Klassifikationen**  
 Für Anfragen zu Kodierungsrichtlinien und Klassifikationen gibt das BFS Präzisierungen und Klarstellungen ab.  
   
-**1.3. Anfragen zur Einzelfallbeurteilung**
-**1.3.1. Vorgehen**
+**1.3. Anfragen zur Einzelfallbeurteilung**  
+**1.3.1. Vorgehen**  
 Zu spezifischen Einzelfällen gibt das BFS Empfehlungen ab ohne Präjudiz für weitere ähnliche Fälle.
 Die gegebene Empfehlung ist rechtlich nicht bindend. Eine Haftung des BFS im Zusammenhang mit einer erteilten Empfehlung ist 
 daher ausgeschlossen.  
