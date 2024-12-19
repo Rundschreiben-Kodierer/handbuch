@@ -45,6 +45,62 @@ Die gesetzlichen Grundlagen sind:
 - Bundesgesetz über die Krankenversicherung vom 18. März 1994 (KVG)
 {{</indent>}}
 
+**1.1.1. Referenzversionen**  
+Keine Änderungen im Vergleich zum Rundschreiben 2024 Nr.1  
+
+**1.1.2. Rundschreiben und Anhang**  
+Keine Änderungen im Unterkapitel 1.1.2 im Vergleich zum Rundschreiben 2024 Nr.1
+  
+**1.1.3. Analogiekodierungen und Hinweise zur Leistungserfassung und Abrechnung der SwissDRG AG**
+Die Hinweise zur Leistungserfassung und Abrechnung der SwissDRG AG sind ebenfalls zu berücksichtigen.
+Pfad: www.swissdrg.org → Akutsomatik / Psychiatrie / Rehabilitation → Abschnitt SwissDRG → Hinweis zur Leistungserfassung und 
+Abrechnung  
+https://www.swissdrg.org/de/akutsomatik/swissdrg/hinweis-zur-leistungserfassung  
+Die Hinweise auf Analogiekodierungen der SwissDRG AG sind ebenfalls zu berücksichtigen.  
+Pfad: www.swissdrg.org → Akutsomatik → Abschnitt SwissDRG System 13.0/2024 → Analogiekodierung  
+https://www.swissdrg.org/de/akutsomatik/swissdrg-system-1302024/analogiekodierung  
+  
+Weitere Publikationen der SwissDRG AG sind unterjährig laufend zu beachten.  
+**1.2. Anfragen zu Kodierungsrichtlinien und Klassifikationen**
+Für Anfragen zu Kodierungsrichtlinien und Klassifikationen gibt das BFS Präzisierungen und Klarstellungen ab.  
+**1.3. Anfragen zur Einzelfallbeurteilung**
+**1.3.1. Vorgehen**
+Zu spezifischen Einzelfällen gibt das BFS Empfehlungen ab ohne Präjudiz für weitere ähnliche Fälle.
+Die gegebene Empfehlung ist rechtlich nicht bindend. Eine Haftung des BFS im Zusammenhang mit einer erteilten Empfehlung ist 
+daher ausgeschlossen.  
+  
+Es werden nur Kodierungsanfragen behandelt, welche in der Beilage alle notwendigen klinischen Unterlagen zur Fallbeurteilung 
+in anonymisierter Form (Austrittsbericht, Operationsbericht, Kodierung etc.) enthalten. Sie sind an codeInfo@bfs.admin.ch zu senden.
+Bei Anfragen ohne Dokumentation oder mit ungenügender Dokumentation geben wir keine Empfehlung ab.
+  
+**1.3.2. Anonymisierung**
+Für die Anonymisierung der zugesendeten Dokumente sind die folgenden Angaben von Patientinnen / Patienten und Angehörigen zu 
+entfernen:
+
+{{<indent level="4">}}
+- Name, Vorname
+- Geburtstag und Monat (ausgenommen für Neugeborene bis zum Alter von einem Jahr (< 1Jahr))
+- Wohnadresse
+- Korrespondenzdaten der Patientin / des Patienten (Telefonnummer, E-Mail-Adresse etc.)
+{{</indent>}}
+  
+BFS-Mitarbeiter unterstehen nur dem Statistikgeheimnis (gemäss Art. 14 des Bundesstatistikgesetzes), sowie der Geheimhaltungspflicht gemäss Datenschutzgesetz.
+Achtung: Es reicht nicht, in Adobe Acrobat Pro den zu löschenden Text mit einem schwarzen oder weissen Rechteck abzudecken.   
+  
+Dieses lässt sich entfernen, sodass der Text darunter wieder sichtbar wird.  
+Um ein PDF mit Adobe Acrobat Pro ordnungsgemäss zu anonymisieren, muss das Werkzeug «Streichen» verwendet werden. 
+Die Anleitungen dazu finden Sie unter den folgenden Links:   
+  
+https://creativecloud.adobe.com/de-CH/learn/acrobat/web/redact-pdf
+https://helpx.adobe.com/ch_de/acrobat/kb/prevent-file-size-increase-after-sanitizing-pdf.html
+  
+Falls Sie nicht mit Adobe Acrobat Pro arbeiten, müssen Sie das zuvor anonymisierte Dokument scannen.
+  
+Anfragen, die nicht korrekt anonymisiert sind, werden von unserer Hotline nicht bearbeitet. Sie werden anschliessend per Mail über 
+die Löschung informiert und gebeten, uns sämtliche Dokumente vollständig anonymisiert erneut zuzustellen.
+  
+
+
 {{</markdown>}}
 
 {{</article>}}
