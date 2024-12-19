@@ -8,11 +8,10 @@ keywords: []
 ---
 {{<collapsibleGroupCommand groupId="RS2024-Allgemeines">}}
 
-<a id="1.1"></a>
-{{<article number="1.1" title="Gültige Kodierungsinstrumente" collapsibleClass="d-inline-block" groupId="RS2024-Allgemeines">}}
 
 {{<markdown>}}
-
+**1.1. Gültige Kodierungsinstrumente**
+  
 Ab 1. Juli 2024 gelten folgende Kodierungsinstrumente:
 
 {{<indent level="4">}}
@@ -85,8 +84,8 @@ entfernen:
 {{</indent>}}
   
 BFS-Mitarbeiter unterstehen nur dem Statistikgeheimnis (gemäss Art. 14 des Bundesstatistikgesetzes), sowie der Geheimhaltungspflicht gemäss Datenschutzgesetz.
-Achtung: Es reicht nicht, in Adobe Acrobat Pro den zu löschenden Text mit einem schwarzen oder weissen Rechteck abzudecken.   
   
+Achtung: Es reicht nicht, in Adobe Acrobat Pro den zu löschenden Text mit einem schwarzen oder weissen Rechteck abzudecken.   
 Dieses lässt sich entfernen, sodass der Text darunter wieder sichtbar wird.  
 Um ein PDF mit Adobe Acrobat Pro ordnungsgemäss zu anonymisieren, muss das Werkzeug «Streichen» verwendet werden. 
 Die Anleitungen dazu finden Sie unter den folgenden Links:   
@@ -99,8 +98,4 @@ Falls Sie nicht mit Adobe Acrobat Pro arbeiten, müssen Sie das zuvor anonymisie
 Anfragen, die nicht korrekt anonymisiert sind, werden von unserer Hotline nicht bearbeitet. Sie werden anschliessend per Mail über 
 die Löschung informiert und gebeten, uns sämtliche Dokumente vollständig anonymisiert erneut zuzustellen.
   
-
-
 {{</markdown>}}
-
-{{</article>}}
