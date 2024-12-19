@@ -6,9 +6,6 @@ weight: 440
 type: docs
 keywords: []
 ---
-{{<collapsibleGroupCommand groupId="RS2024-Allgemeines">}}
-
-
 {{<markdown>}}
 **1.1. Gültige Kodierungsinstrumente**
   
@@ -50,7 +47,7 @@ Keine Änderungen im Vergleich zum Rundschreiben 2024 Nr.1
 **1.1.2. Rundschreiben und Anhang**  
 Keine Änderungen im Unterkapitel 1.1.2 im Vergleich zum Rundschreiben 2024 Nr.1
   
-**1.1.3. Analogiekodierungen und Hinweise zur Leistungserfassung und Abrechnung der SwissDRG AG**
+**1.1.3. Analogiekodierungen und Hinweise zur Leistungserfassung und Abrechnung der SwissDRG AG**  
 Die Hinweise zur Leistungserfassung und Abrechnung der SwissDRG AG sind ebenfalls zu berücksichtigen.
 Pfad: www.swissdrg.org → Akutsomatik / Psychiatrie / Rehabilitation → Abschnitt SwissDRG → Hinweis zur Leistungserfassung und 
 Abrechnung  
@@ -60,8 +57,10 @@ Pfad: www.swissdrg.org → Akutsomatik → Abschnitt SwissDRG System 13.0/2024 �
 https://www.swissdrg.org/de/akutsomatik/swissdrg-system-1302024/analogiekodierung  
   
 Weitere Publikationen der SwissDRG AG sind unterjährig laufend zu beachten.  
+  
 **1.2. Anfragen zu Kodierungsrichtlinien und Klassifikationen**
 Für Anfragen zu Kodierungsrichtlinien und Klassifikationen gibt das BFS Präzisierungen und Klarstellungen ab.  
+  
 **1.3. Anfragen zur Einzelfallbeurteilung**
 **1.3.1. Vorgehen**
 Zu spezifischen Einzelfällen gibt das BFS Empfehlungen ab ohne Präjudiz für weitere ähnliche Fälle.
@@ -72,7 +71,7 @@ Es werden nur Kodierungsanfragen behandelt, welche in der Beilage alle notwendig
 in anonymisierter Form (Austrittsbericht, Operationsbericht, Kodierung etc.) enthalten. Sie sind an codeInfo@bfs.admin.ch zu senden.
 Bei Anfragen ohne Dokumentation oder mit ungenügender Dokumentation geben wir keine Empfehlung ab.
   
-**1.3.2. Anonymisierung**
+**1.3.2. Anonymisierung**  
 Für die Anonymisierung der zugesendeten Dokumente sind die folgenden Angaben von Patientinnen / Patienten und Angehörigen zu 
 entfernen:
 
