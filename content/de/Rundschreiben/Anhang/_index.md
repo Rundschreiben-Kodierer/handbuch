@@ -1,7 +1,7 @@
 ---
 title: "5.Anhang"
 slug: RS2024_2
-description: "5.1. Informationen und Präzisierungen"
+description: "Informationen und Präzisierungen"
 weight: 440
 type: docs
 keywords: []
