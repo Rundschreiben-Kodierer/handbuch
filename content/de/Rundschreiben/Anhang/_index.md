@@ -266,8 +266,9 @@ Werden hingegen ein craniales MRI, eine neurophysiologische Diagnostik sowie ein
 {{</markdown>}}
 {{</article>}}
 
+
 <a id="0762"></a>
-{{<article number="0762"  date="01.01.2024" title="Berücksichtigte Therapiedauer"  collapsibleClass="d-inline-block" groupId="RS2024_2" >}}
+{{<article number="0762" numberColor = "black" date="01.01.2024" title="Berücksichtigte Therapiedauer"  collapsibleClass="d-inline-block" groupId="RS2024_2" >}}
 {{<markdown>}}
 Bei einer Gruppentherapie ist die gesamte Therapiedauer zu zählen, an der die Patientin / der Patient anwesend ist. Z. B. wenn fünf Patient/innen an einer Stunde Gruppentherapie teilgenommen haben, werden bei jeder Patientin/jedem Patienten 60 Minuten Thera-piedauer angerechnet.  
 Wird bei einer Gruppen- oder Einzeltherapie die gleiche Therapieart / Therapieleistung durch zwei oder mehr Therapeuten / Pflege-fachpersonen erbracht, ist die erbrachte Therapiezeit einmal zu zählen. Es gilt unabhängig von der Anzahl der Therapeuten, die Therapiezeit am/an den Patienten.  
