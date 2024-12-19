@@ -187,7 +187,6 @@ white'><b><span lang=DE style='font-size:8.5pt;line-height:162%;font-family:
 
 
 {{<markdown>}}
-  
 **Problem:**
   
 Wie wird eine Endokarditis bei vorhandener Herzklappenprothese kodiert?
