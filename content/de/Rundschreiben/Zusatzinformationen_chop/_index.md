@@ -15,7 +15,7 @@ Zusätzliche neue Korrekturen sind hier aufgeführt:
 {{<collapsibleGroupCommand groupId="RS2024CHOP_2">}}
 
 <a id="3.1"></a>
-{{<article number="3.1" date="01.07.2024" title="00.99.11 und 00.99.12 Reoperationen" collapsibleClass="d-inline-block" groupId="RS2024CHOP_2">}}
+{{<article number="3.1" title="00.99.11 und 00.99.12 Reoperationen" collapsibleClass="d-inline-block" groupId="RS2024CHOP_2">}}
 
 {{<markdown>}}
 

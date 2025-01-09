@@ -1,7 +1,7 @@
 ---
 title: 1.Allgemeines
 slug: RS-Allgemeines
-description: "Allgemeiners"
+description: "Allgemeines"
 weight: 440
 type: docs
 keywords: []
@@ -13,8 +13,8 @@ Ab 1. Juli 2024 gelten folgende Kodierungsinstrumente:
 
 {{<indent level="4">}}
 - Medizinisches Kodierungshandbuch: Der offizielle Leitfaden der Kodierrichtlinien in der Schweiz. Version 2024
-- Rundschreiben für Kodiererinnen und Kodierer: 2024 Nr. 1 mit Anhang
-- Rundschreiben für Kodiererinnen und Kodierer: 2024 Nr. 2 mit Anhang
+- Rundschreiben für Kodiererinnen und Kodierer: 2024 Nr. 1 <font color="red">~~mit Anhang~~</font>
+- Rundschreiben für Kodiererinnen und Kodierer: 2024 Nr. 2 <font color="green">mit Anhang</font>
 - Schweizerische Operationsklassifikation (CHOP): Systematisches Verzeichnis - Version 2024
 - ICD-10-GM 2022 Systematisches Verzeichnis: Internationale statistische Klassifikation der Krankheiten und verwandter 
 Gesundheitsprobleme - 10. Revision – German Modification
@@ -72,14 +72,14 @@ in anonymisierter Form (Austrittsbericht, Operationsbericht, Kodierung etc.) ent
 Bei Anfragen ohne Dokumentation oder mit ungenügender Dokumentation geben wir keine Empfehlung ab.
   
 **1.3.2. Anonymisierung**  
-Für die Anonymisierung der zugesendeten Dokumente sind die folgenden Angaben von Patientinnen / Patienten und Angehörigen zu 
+Für die Anonymisierung der zugesendeten Dokumente sind die folgenden Angaben  <font color="green">von Patientinnen / Patienten und Angehörigen</font> zu 
 entfernen:
 
 {{<indent level="4">}}
 - Name, Vorname
 - Geburtstag und Monat (ausgenommen für Neugeborene bis zum Alter von einem Jahr (< 1Jahr))
 - Wohnadresse
-- Korrespondenzdaten der Patientin / des Patienten (Telefonnummer, E-Mail-Adresse etc.)
+- Korrespondenzdaten <font color="red">~~der Patientin / des Patienten~~</font> (Telefonnummer, E-Mail-Adresse etc.)
 {{</indent>}}
   
 BFS-Mitarbeiter unterstehen nur dem Statistikgeheimnis (gemäss Art. 14 des Bundesstatistikgesetzes), sowie der Geheimhaltungspflicht gemäss Datenschutzgesetz.
