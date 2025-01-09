@@ -45,7 +45,7 @@ zur Durchführung einer Rezidivoperation oder zur Durchführung einer anderen Op
 {{</article>}}
 
 <a id="3.2"></a>
-{{<article number="3.2" date="01.07.2024" title="55.92 Perkutane Aspiration an der Niere – ergänzende Beschreibung und Exklusiva" collapsibleClass="d-inline-block" groupId="RS2024CHOP_2">}}
+{{<article number="3.2" title="55.92 Perkutane Aspiration an der Niere – ergänzende Beschreibung und Exklusiva" collapsibleClass="d-inline-block" groupId="RS2024CHOP_2">}}
 
 {{<markdown>}}
 
@@ -72,7 +72,7 @@ Nierenpunktion
 
 
 <a id="3.3"></a>
-{{<article number="3.3" date="01.07.2024" title=" 70.A2.22 «Deszensuschirurgie [Suspensionsoperation], zwei oder drei Kompartimente, laparoskopisch, mit Netz»" collapsibleClass="d-inline-block" groupId="RS2024CHOP_2">}}
+{{<article number="3.3" title=" 70.A2.22 «Deszensuschirurgie [Suspensionsoperation], zwei oder drei Kompartimente, laparoskopisch, mit Netz»" collapsibleClass="d-inline-block" groupId="RS2024CHOP_2">}}
 
 {{<markdown>}}
 
@@ -84,7 +84,7 @@ Betrifft nur die italienische Sprachversion
 
 
 <a id="3.4"></a>
-{{<article number="3.4" date="01.07.2024" title="81.A1.13 Langschaftprothese" collapsibleClass="d-inline-block" groupId="RS2024CHOP_2">}}
+{{<article number="3.4" title="81.A1.13 Langschaftprothese" collapsibleClass="d-inline-block" groupId="RS2024CHOP_2">}}
 
 {{<markdown>}}
 
@@ -101,7 +101,7 @@ achsengeführten Totalendoprothese des Kniegelenks bei einem Prothesenwechsel» 
 
 
 <a id="3.5"></a>
-{{<article number="3.5" date="01.07.2024" title="85.2C.2-, 85.2C.3- Débridement an der Mamma»" collapsibleClass="d-inline-block" groupId="RS2024CHOP_2">}}
+{{<article number="3.5" title="85.2C.2-, 85.2C.3- Débridement an der Mamma»" collapsibleClass="d-inline-block" groupId="RS2024CHOP_2">}}
 
 {{<markdown>}}
 
@@ -112,7 +112,7 @@ Betrifft nur die französische Version
 {{</article>}}
 
 <a id="3.6"></a>
-{{<article number="3.6" date="01.07.2024" title="93.8A.2- und 93.8B.- Palliativmedizin – Aufnahme von «Exklusiva – Kode weglassen»" collapsibleClass="d-inline-block" groupId="RS2024CHOP_2">}}
+{{<article number="3.6" title="93.8A.2- und 93.8B.- Palliativmedizin – Aufnahme von «Exklusiva – Kode weglassen»" collapsibleClass="d-inline-block" groupId="RS2024CHOP_2">}}
 
 {{<markdown>}}
 
@@ -128,7 +128,7 @@ Zum Verständnis des Exklusivum – Kode weglassen bei Komplexbehandlungen s. Pr
 
 
 <a id="3.7"></a>
-{{<article number="3.7" date="01.07.2024" title="93.59.5- und 99.84.- Anpassung der «Beachte»" collapsibleClass="d-inline-block" groupId="RS2024CHOP_2">}}
+{{<article number="3.7" title="93.59.5- und 99.84.- Anpassung der «Beachte»" collapsibleClass="d-inline-block" groupId="RS2024CHOP_2">}}
 
 {{<markdown>}}
 
