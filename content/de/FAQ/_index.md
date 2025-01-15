@@ -413,59 +413,31 @@ div.WordSection1
  </tr>
 </table>
 
-<p class=MsoNoSpacing><b><span lang=DE>Frage: </span></b></p>
-
-<p class=MsoNoSpacing><span lang=DE>Wie wird ein Liegetrauma nach Sturz kodiert?
-</span></p>
-
-<p class=MsoNoSpacing><span lang=DE>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><b><span
-lang=DE style='color:#1A1E22'>Erl uterung:</span></b></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;background:white'><span
-class=normaltextrun><span lang=DE style='font-size:11.0pt;font-family:"Calibri",sans-serif;
-color:black;background:white'>Der Begriff Liegetrauma beschreibt k rperliche
-Sch den durch den pl tzlichen Ausfall der selbstst ndigen Mobilit t. Durch
-langes Liegen auf einer Stelle kommt es an den Auflagestellen durch den Druck
-zu einer Muskelisch mie. Hieraus kann eine Rhabdomyolyse entstehen. Abbaustoffe
-im Blut und zerfallende Muskelmasse k nnen in erheblichem Ausmass Organe
-sch digen, es kann z.B. zu Nieren- und Lungenversagen kommen.</span></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;background:white'><span
-class=normaltextrun><span lang=DE style='font-size:11.0pt;font-family:"Calibri",sans-serif;
-color:black;background:white'>&nbsp;</span></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;background:white'><b><span
-lang=DE style='color:#1A1E22'>Kodierempfehlung:</span></b></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;background:white'><span
-class=normaltextrun><span lang=DE style='font-size:11.0pt;font-family:"Calibri",sans-serif;
-color:black;background:white'>Der ICD-10-Kode T79.6, Traumatische
-Muskelisch mie, steht f r die traumatische Muskelisch mie. Dieser Kode wird
-verwendet, um eine Muskelisch mie zu beschreiben, die als Folge eines Traumas
-auftritt. Ein Trauma bezeichnet eine Sch digung oder Verletzung des lebenden
-Gewebes, die durch  u ere Gewalteinwirkung entsteht.&nbsp;&nbsp;</span></span><span
-class=eop><span lang=DE style='font-size:11.0pt;font-family:"Calibri",sans-serif;
-color:black;background:white'>&nbsp;</span></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;background:white'><span
-class=normaltextrun><span lang=DE style='font-size:11.0pt;font-family:"Calibri",sans-serif;
-color:black;background:white'>Im Fall eines Liegetraumas nach Sturz, empfehlen
-wir die Kodierung von T79.6- Traumatische Muskelisch mie. </span></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;background:white'><span
-class=normaltextrun><span lang=DE style='font-size:11.0pt;font-family:"Calibri",sans-serif;
-color:black;background:white'>Bei Vorliegen einer akuten Niereninsuffizienz
-und/oder sonstiger Organmanifestationen m ssen die  KR </span></span><span
-lang=DE style='font-size:11.0pt;font-family:"Calibri",sans-serif;color:black'>G52
-Die Hauptdiagnose und G54 Die Nebendiagnosen, ber cksichtigt werden. </span></p>
-
 </div>
 
 </body>
 
 </html>
+
+
+{{<markdown>}}
+**Problem:**
+  
+Wie wird eine Endokarditis bei vorhandener Herzklappenprothese kodiert?
+  
+**Erläuterung:**
+  
+Eine künstliche Herzklappe ist eine hämodynamisch besonders exponierte Stelle und somit ein bedeutender prädisponierender Faktor für eine bakterielle Endokarditis bei einer vorliegenden Bakteriämie.  
+Bei einer Prothesenendokarditis sind die echokardiografischen und mikrobiologischen Befunde häufig unspezifischer als bei einer nativen Endokarditis.  Die Biofilm-Bildung auf dem Herzprothesenmaterial sowie eine häufige perivalvuläre Abszessbildung erschweren die Therapie.  
+Gemäss den Ausführungen der Kodierregel D12 sollen Erkrankungen bzw. Störungen nach medizinischen Massnahmen möglichst organbezogen und so spezifisch wie möglich verschlüsselt werden. Dabei sind die Kodes aus den jeweiligen Organkapiteln den Kodes T80 – T88 vorzuziehen, soweit letztere die Erkrankung nicht spezifischer beschreiben.
+  
+**Kodierempfehlung:**
+  
+T82.6 ist zu kodieren, wenn ein hinreichend begründeter Verdacht auf einen Zusammenhang zwischen der Herzklappenprothese und der Infektion (Endokarditis) besteht, und beschrieben ist; in der Regel bestätigt durch ein bildgebendes Verfahren. (CT, PET).  
+Ist kein diagnostisch bestätigter Zusammenhang zwischen der Herzklappenprothese und der Infektion (Endokarditis) beschrieben ist I33.0 zu kodieren.
+
+  
+{{</markdown>}}
 
 
 {{</article>}}
