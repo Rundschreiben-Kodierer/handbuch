@@ -579,7 +579,7 @@ div.WordSection1
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
   <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
-  font-family:"Roboto Light"'>D12</span></p>
+  font-family:"Roboto Light"'></span></p>
   </td>
  </tr>
 </table>
@@ -777,7 +777,7 @@ div.WordSection1
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
   <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
-  font-family:"Roboto Light"'>D12</span></p>
+  font-family:"Roboto Light"'></span></p>
   </td>
  </tr>
 </table>
@@ -1637,4 +1637,1034 @@ Eine osteoporotische Sinterungsfraktur der Wirbelsäule wird mit M80.98 Nicht n�
 
 
 
+
+
+
+
+
+
+
+
+
+{{<article number="7."  title="Os sacrum-Fraktur, Sakrumfraktur, transileosakrale Verschraubung, Arthrodese am Iliosakralgelenk" collapsibleClass="d-inline-block" groupId="Kodierempfehlungen">}}
+
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=Generator content="Microsoft Word 15 (filtered)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Helvetica;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Aptos;}
+@font-face
+	{font-family:"Roboto Light";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:0cm;
+	line-height:116%;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif;}
+.MsoChpDefault
+	{font-size:12.0pt;
+	font-family:"Aptos",sans-serif;}
+.MsoPapDefault
+	{margin-bottom:8.0pt;
+	line-height:116%;}
+@page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style>
+
+</head>
+
+<body lang=FR-CH style='word-wrap:break-word'>
+
+<div class=WordSection1>
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
+ style='border-collapse:collapse;border:none'>
+ <tr style='height:15.0pt'>
+  <td width=282 valign=top style='width:211.5pt;border:solid windowtext 1.0pt;
+  padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white'><span lang=DE
+  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
+  color:black'>Schlagwort:</span></p>
+  </td>
+  <td width=319 valign=top style='width:239.25pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white'><span lang=DE
+  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
+  color:black'>Os sacrum-Fraktur, Sakrumfraktur, transileosakrale Verschraubung, Arthrodese am Iliosakralgelenk</span></p>
+  </td>
+ </tr>
+ <tr style='height:15.0pt'>
+  <td width=282 valign=top style='width:211.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white'><span lang=DE
+  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
+  color:black'>Erstellt:</span></p>
+  </td>
+  <td width=319 valign=top style='width:239.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white'><span lang=DE
+  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
+  color:black'>14.01.2025</span></p>
+  </td>
+ </tr>
+ <tr style='height:14.25pt'>
+  <td width=282 valign=top style='width:211.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:6.0pt 6.0pt 6.0pt 6.0pt;height:14.25pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white'><span lang=DE
+  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
+  color:black'>Aktualisiert:</span></p>
+  </td>
+  <td width=319 valign=top style='width:239.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:6.0pt 6.0pt 6.0pt 6.0pt;height:14.25pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white'><span lang=DE
+  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light"'>&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr style='height:15.0pt'>
+  <td width=282 style='width:211.5pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
+  font-family:"Roboto Light"'>&nbsp;</span></p>
+  </td>
+  <td width=319 style='width:239.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
+  font-family:"Roboto Light"'>&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr style='height:15.0pt'>
+  <td width=282 style='width:211.5pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
+  font-family:"Roboto Light"'>&nbsp;</span></p>
+  </td>
+  <td width=319 style='width:239.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
+  font-family:"Roboto Light"'>&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr style='height:15.0pt'>
+  <td width=282 valign=top style='width:211.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white'><span lang=DE
+  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
+  color:black'>ICD:</span></p>
+  </td>
+  <td width=319 valign=top style='width:239.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
+  font-family:"Roboto Light"'>7A.49/ 81.29.10/ 7A.73.11</span></p>
+  </td>
+ </tr>
+ <tr style='height:15.0pt'>
+  <td width=282 valign=top style='width:211.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white'><span lang=DE
+  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
+  color:black'>CHOP:</span></p>
+  </td>
+  <td width=319 valign=top style='width:239.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white'><span lang=DE
+  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light"'>&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr style='height:15.0pt'>
+  <td width=282 valign=top style='width:211.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
+  font-family:"Roboto Light"'>Kodierregel:</span></p>
+  </td>
+  <td width=319 valign=top style='width:239.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
+  font-family:"Roboto Light"'>D12</span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal style='margin-bottom:8.25pt;line-height:162%;background:
+white'><b><span lang=DE style='font-size:8.5pt;line-height:162%;font-family:
+"Roboto Light";color:#1A1E22'>&nbsp;</span></b></p>
+
+</div>
+
+</body>
+
+</html>
+
+
+{{<markdown>}}
+**Frage:**
+  
+Wie wird eine transileosakrale Verschraubung einer Os sacrum Fraktur kodiert?
+
+**Erläuterung:**
+  
+Es wird unterschieden zwischen einfachen transalaren Sakrumfrakturen mit stabiler Wirbelsäule und Os sacrum Frakturen, die zu einer Instabilität der Wirbelsäule führen.
+
+**Kodierempfehlung:**
+  
+Bei einfachen transalaren Sakrumfrakturen (z. B. im Rahmen einer osteoporotischen Fraktur) mit stabiler Wirbelsäule ist der Kode 7A.49 «_Osteosynthese einzelner Wirbel, Kyphoplastie oder Vertebroplastie, sonstige_» gefolgt von 81.29.10 «_Arthrodese am Iliosakralgelenk_» zu kodieren. Bei Os sacrum Frakturen, die zu einer Instabilität der Wirbelsäule führen (meist im Rahmen eines Polytraumas auftretend), ist bei dorsalem/dorsolateralem (inkl. perkutanem) Zugang der 7A.73.11 «_Nicht-dynamische Stabilisierung der Wirbelsäule durch Osteosynthese ohne Fusion der Wirbel, Zugang dorsal und dorsolateral, 1 Segment_» gefolgt von 81.29.10 «_Arthrodese am Iliosakralgelenk_» zu kodieren.
+{{</markdown>}}
+
+{{</article>}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{<article number="8."  title="Kodierempfehlung Spondylodese" collapsibleClass="d-inline-block" groupId="Kodierempfehlungen">}}
+
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=Generator content="Microsoft Word 15 (filtered)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Helvetica;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Aptos;}
+@font-face
+	{font-family:"Roboto Light";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:0cm;
+	line-height:116%;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif;}
+.MsoChpDefault
+	{font-size:12.0pt;
+	font-family:"Aptos",sans-serif;}
+.MsoPapDefault
+	{margin-bottom:8.0pt;
+	line-height:116%;}
+@page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style>
+
+</head>
+
+<body lang=FR-CH style='word-wrap:break-word'>
+
+<div class=WordSection1>
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
+ style='border-collapse:collapse;border:none'>
+ <tr style='height:15.0pt'>
+  <td width=282 valign=top style='width:211.5pt;border:solid windowtext 1.0pt;
+  padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white'><span lang=DE
+  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
+  color:black'>Schlagwort:</span></p>
+  </td>
+  <td width=319 valign=top style='width:239.25pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white'><span lang=DE
+  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
+  color:black'>Spondylodese/ Osteosynthese/ Fusion Wirbelsäule</span></p>
+  </td>
+ </tr>
+ <tr style='height:15.0pt'>
+  <td width=282 valign=top style='width:211.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white'><span lang=DE
+  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
+  color:black'>Erstellt:</span></p>
+  </td>
+  <td width=319 valign=top style='width:239.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white'><span lang=DE
+  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
+  color:black'>04.01.2025</span></p>
+  </td>
+ </tr>
+ <tr style='height:14.25pt'>
+  <td width=282 valign=top style='width:211.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:6.0pt 6.0pt 6.0pt 6.0pt;height:14.25pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white'><span lang=DE
+  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
+  color:black'>Aktualisiert:</span></p>
+  </td>
+  <td width=319 valign=top style='width:239.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:6.0pt 6.0pt 6.0pt 6.0pt;height:14.25pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white'><span lang=DE
+  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light"'>&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr style='height:15.0pt'>
+  <td width=282 style='width:211.5pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
+  font-family:"Roboto Light"'>&nbsp;</span></p>
+  </td>
+  <td width=319 style='width:239.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
+  font-family:"Roboto Light"'>&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr style='height:15.0pt'>
+  <td width=282 style='width:211.5pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
+  font-family:"Roboto Light"'>&nbsp;</span></p>
+  </td>
+  <td width=319 style='width:239.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
+  font-family:"Roboto Light"'>&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr style='height:15.0pt'>
+  <td width=282 valign=top style='width:211.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white'><span lang=DE
+  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
+  color:black'>ICD:</span></p>
+  </td>
+  <td width=319 valign=top style='width:239.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
+  font-family:"Roboto Light"'>7A.71.- 7A73.-</span></p>
+  </td>
+ </tr>
+ <tr style='height:15.0pt'>
+  <td width=282 valign=top style='width:211.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white'><span lang=DE
+  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
+  color:black'>CHOP:</span></p>
+  </td>
+  <td width=319 valign=top style='width:239.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white'><span lang=DE
+  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light"'>&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr style='height:15.0pt'>
+  <td width=282 valign=top style='width:211.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
+  font-family:"Roboto Light"'>Kodierregel:</span></p>
+  </td>
+  <td width=319 valign=top style='width:239.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
+  font-family:"Roboto Light"'>D12</span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal style='margin-bottom:8.25pt;line-height:162%;background:
+white'><b><span lang=DE style='font-size:8.5pt;line-height:162%;font-family:
+"Roboto Light";color:#1A1E22'>&nbsp;</span></b></p>
+
+</div>
+
+</body>
+
+</html>
+
+
+{{<markdown>}}
+**Frage:**
+  
+Wie werden Spondylodesen/Fusionen der Wirbelsäule mit und ohne Knochenersatzmaterialien abgebildet?
+
+**Erläuterung:**
+  
+Eine Spondylodese ist eine spezielle Art der Osteosynthese, die auf die dauerhafte, irreversible **knöcherne** Fusion von Wirbeln abzielt. Eine Spondylodese, gemäss CHOP-Kode 7A.71-, liegt nur bei Verwendung von Knochenersatzmaterialien oder Knochentransplantaten vor, nicht bei Osteosynthesen durch alleinige Instrumentierung. 
+
+Auch wenn mit einer Osteosynthese durch alleinige Instrumentierung eine absolute Stabilität erreicht werden kann, solange keine Materialentfernung erfolgt, findet keine knöcherne Fusion statt.
+
+**Kodierempfehlung:**
+  
+Bei Verwendung von Knochenersatzmaterialien oder Knochentransplantaten wird die Fusion von Wirbeln, mit 7A.71.- Fusion von Wirbeln mit Stabilisierung der Wirbelsäule, abgebildet. 
+7A.73 Nicht-dynamische Stabilisierung der Wirbelsäule durch Osteosynthese ohne Fusion der Wirbel, wird kodiert, wenn keine knöcherne Fusion angestrebt wird und keine Knochenersatzmaterialien oder Knochentransplantate eingesetzt werden. 
+
+{{</markdown>}}
+
+{{</article>}}
+
+
+
+
+
+
+
+
+
+
+
+{{<article number="8."  title="Kodierempfehlung Carotisstenose bds/ Stenosen ein-oder beidseitiger präzerebraler Arterien I65.2/I65.3" collapsibleClass="d-inline-block" groupId="Kodierempfehlungen">}}
+
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=Generator content="Microsoft Word 15 (filtered)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Helvetica;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Aptos;}
+@font-face
+	{font-family:"Roboto Light";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:0cm;
+	line-height:116%;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif;}
+.MsoChpDefault
+	{font-size:12.0pt;
+	font-family:"Aptos",sans-serif;}
+.MsoPapDefault
+	{margin-bottom:8.0pt;
+	line-height:116%;}
+@page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style>
+
+</head>
+
+<body lang=FR-CH style='word-wrap:break-word'>
+
+<div class=WordSection1>
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
+ style='border-collapse:collapse;border:none'>
+ <tr style='height:15.0pt'>
+  <td width=282 valign=top style='width:211.5pt;border:solid windowtext 1.0pt;
+  padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white'><span lang=DE
+  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
+  color:black'>Schlagwort:</span></p>
+  </td>
+  <td width=319 valign=top style='width:239.25pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white'><span lang=DE
+  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
+  color:black'>Stenose/n präzerebraler Arterien</span></p>
+  </td>
+ </tr>
+ <tr style='height:15.0pt'>
+  <td width=282 valign=top style='width:211.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white'><span lang=DE
+  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
+  color:black'>Erstellt:</span></p>
+  </td>
+  <td width=319 valign=top style='width:239.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white'><span lang=DE
+  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
+  color:black'>03.01.2025</span></p>
+  </td>
+ </tr>
+ <tr style='height:14.25pt'>
+  <td width=282 valign=top style='width:211.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:6.0pt 6.0pt 6.0pt 6.0pt;height:14.25pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white'><span lang=DE
+  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
+  color:black'>Aktualisiert:</span></p>
+  </td>
+  <td width=319 valign=top style='width:239.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:6.0pt 6.0pt 6.0pt 6.0pt;height:14.25pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white'><span lang=DE
+  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light"'>&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr style='height:15.0pt'>
+  <td width=282 style='width:211.5pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
+  font-family:"Roboto Light"'>&nbsp;</span></p>
+  </td>
+  <td width=319 style='width:239.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
+  font-family:"Roboto Light"'>&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr style='height:15.0pt'>
+  <td width=282 style='width:211.5pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
+  font-family:"Roboto Light"'>&nbsp;</span></p>
+  </td>
+  <td width=319 style='width:239.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
+  font-family:"Roboto Light"'>&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr style='height:15.0pt'>
+  <td width=282 valign=top style='width:211.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white'><span lang=DE
+  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
+  color:black'>ICD:</span></p>
+  </td>
+  <td width=319 valign=top style='width:239.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
+  font-family:"Roboto Light"'>I65.2/I65.3</span></p>
+  </td>
+ </tr>
+ <tr style='height:15.0pt'>
+  <td width=282 valign=top style='width:211.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white'><span lang=DE
+  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
+  color:black'>CHOP:</span></p>
+  </td>
+  <td width=319 valign=top style='width:239.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white'><span lang=DE
+  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light"'>&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr style='height:15.0pt'>
+  <td width=282 valign=top style='width:211.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
+  font-family:"Roboto Light"'>Kodierregel:</span></p>
+  </td>
+  <td width=319 valign=top style='width:239.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
+  font-family:"Roboto Light"'></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal style='margin-bottom:8.25pt;line-height:162%;background:
+white'><b><span lang=DE style='font-size:8.5pt;line-height:162%;font-family:
+"Roboto Light";color:#1A1E22'>&nbsp;</span></b></p>
+
+</div>
+
+</body>
+
+</html>
+
+
+{{<markdown>}}
+**Frage:**
+  
+Wie wird eine Carotisstenose bds erfasst? Wie werden ein- oder beidseitige Stenosen präzerebraler Arterien erfasst?
+
+**Erläuterung:**
+  
+Die Arteria carotis interna (ACI) ist eine der beiden Hauptäste der Arteria carotis communis. Sie teilt sich nicht in zwei separate Arterien, sondern verläuft als eine einzelne Arterie, die sich in verschiedene Äste teilt, um das Gehirn, das Auge und andere Strukturen zu versorgen. 
+
+
+**Kodierempfehlung:**
+  
+Grundsätzlich gilt: “Es ist so spezifisch wie möglich zu verschlüsseln, also derjenige Kode zu wählen, der für die dokumentierte Diagnose als der spezifischste Kode angesehen wird.”
+
+I65.2 “_Verschluss und Stenose der A. carotis_“ Dieser Kode mit der entsprechenden Seitenangabe wird verwendet, wenn es sich um eine einseitige oder beidseitige Stenose der A. carotis interna handelt.
+
+Der Kode I65.3 bezieht sich auf Verschlüsse und Stenosen von **verschiedenen** präzerebralen Arterien.
+
+I65.3  “_Verschluss und Stenose **mehrerer und** beidseitiger präzerebraler Arterien_” 
+Dieser Kode wird verwendet, wenn **mehrere** präzerebrale Arterien betroffen sind, einschließlich beidseitiger Stenosen der A. carotis interna **und** anderer präzerebraler Arterien.
+
+Das 2. “und” im Kodetext zu I65.3 ist so zu verstehen, dass verschiedene präzerebrale Arterien von Verschlüssen oder Stenosen betroffen sein müssen, um diesen Kode abzubilden.
+
+{{</markdown>}}
+
+{{</article>}}
+
+
+
+
+
+
+
+
+
+
+{{<article number="9."  title="Kodierempfehlung Syndesmose" collapsibleClass="d-inline-block" groupId="Kodierempfehlungen">}}
+
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=Generator content="Microsoft Word 15 (filtered)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Helvetica;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Aptos;}
+@font-face
+	{font-family:"Roboto Light";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:0cm;
+	line-height:116%;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif;}
+.MsoChpDefault
+	{font-size:12.0pt;
+	font-family:"Aptos",sans-serif;}
+.MsoPapDefault
+	{margin-bottom:8.0pt;
+	line-height:116%;}
+@page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style>
+
+</head>
+
+<body lang=FR-CH style='word-wrap:break-word'>
+
+<div class=WordSection1>
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
+ style='border-collapse:collapse;border:none'>
+ <tr style='height:15.0pt'>
+  <td width=282 valign=top style='width:211.5pt;border:solid windowtext 1.0pt;
+  padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white'><span lang=DE
+  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
+  color:black'>Schlagwort:</span></p>
+  </td>
+  <td width=319 valign=top style='width:239.25pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white'><span lang=DE
+  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
+  color:black'>Syndesmose-Naht/ Fixation/ Syndesmosen-TightRope®- Implantatsystem</span></p>
+  </td>
+ </tr>
+ <tr style='height:15.0pt'>
+  <td width=282 valign=top style='width:211.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white'><span lang=DE
+  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
+  color:black'>Erstellt:</span></p>
+  </td>
+  <td width=319 valign=top style='width:239.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white'><span lang=DE
+  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
+  color:black'>04.01.2025</span></p>
+  </td>
+ </tr>
+ <tr style='height:14.25pt'>
+  <td width=282 valign=top style='width:211.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:6.0pt 6.0pt 6.0pt 6.0pt;height:14.25pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white'><span lang=DE
+  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
+  color:black'>Aktualisiert:</span></p>
+  </td>
+  <td width=319 valign=top style='width:239.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:6.0pt 6.0pt 6.0pt 6.0pt;height:14.25pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white'><span lang=DE
+  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light"'>&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr style='height:15.0pt'>
+  <td width=282 style='width:211.5pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
+  font-family:"Roboto Light"'>&nbsp;</span></p>
+  </td>
+  <td width=319 style='width:239.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
+  font-family:"Roboto Light"'>&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr style='height:15.0pt'>
+  <td width=282 style='width:211.5pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
+  font-family:"Roboto Light"'>&nbsp;</span></p>
+  </td>
+  <td width=319 style='width:239.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
+  font-family:"Roboto Light"'>&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr style='height:15.0pt'>
+  <td width=282 valign=top style='width:211.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white'><span lang=DE
+  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
+  color:black'>ICD:</span></p>
+  </td>
+  <td width=319 valign=top style='width:239.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
+  font-family:"Roboto Light"'>81.99.5C/ 81.94</span></p>
+  </td>
+ </tr>
+ <tr style='height:15.0pt'>
+  <td width=282 valign=top style='width:211.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white'><span lang=DE
+  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
+  color:black'>CHOP:</span></p>
+  </td>
+  <td width=319 valign=top style='width:239.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white'><span lang=DE
+  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light"'>&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr style='height:15.0pt'>
+  <td width=282 valign=top style='width:211.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
+  font-family:"Roboto Light"'>Kodierregel:</span></p>
+  </td>
+  <td width=319 valign=top style='width:239.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
+  font-family:"Roboto Light"'></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal style='margin-bottom:8.25pt;line-height:162%;background:
+white'><b><span lang=DE style='font-size:8.5pt;line-height:162%;font-family:
+"Roboto Light";color:#1A1E22'>&nbsp;</span></b></p>
+
+</div>
+
+</body>
+
+</html>
+
+
+{{<markdown>}}
+**Frage:**
+  
+Wie werden bei Ruptur der Syndesmose die Naht, die Fixation mit Schraube, das TightRope®- Implantatsystem abgebildet?
+
+**Erläuterung:**
+  
+Die Syndesmose ist eine wichtige Bandverbindung zwischen dem Schienbein (Tibia) und dem Wadenbein (Fibula) im Sprunggelenk. Bei einer Verletzung oder Ruptur der Syndesmose können verschiedenen Techniken angewendet werden eingesetzt werden, um die Knochen wieder korrekt zu positionieren und zu stabilisieren.
+Als Arthrorise wird ein chirurgisches Verfahren bezeichnet, bei dem die Beweglichkeit eines Gelenks durch das Einsetzen eines Implantats eingeschränkt wird. Ziel ist es, die pathologische (krankhafte) Beweglichkeit eines Gelenks zu verhindern. 
+
+
+**Kodierempfehlung:**
+  
+Fixation mit Schraube: 81.99.5C Arthrorise und Temporäre Fixation eines 
+Gelenkes, Oberes Sprunggelenk [L] 
+
+TightRope®- Implantatsystem: 81.99.5C Arthrorise und Temporäre Fixation eines 
+Gelenkes, Oberes Sprunggelenk [L] 
+
+Syndesmosenaht: 81.94 Naht an Kapsel oder Ligament von Sprunggelenk 
+oder Fuss [L] 
+
+
+{{</markdown>}}
+
+{{</article>}}
+
+
+
+
+
+
+
+
+
+
+{{<article number="10."  title="Kodierempfehlung Ulcus hypertonicum (Martorell)" collapsibleClass="d-inline-block" groupId="Kodierempfehlungen">}}
+
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=Generator content="Microsoft Word 15 (filtered)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Helvetica;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Aptos;}
+@font-face
+	{font-family:"Roboto Light";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:0cm;
+	line-height:116%;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif;}
+.MsoChpDefault
+	{font-size:12.0pt;
+	font-family:"Aptos",sans-serif;}
+.MsoPapDefault
+	{margin-bottom:8.0pt;
+	line-height:116%;}
+@page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style>
+
+</head>
+
+<body lang=FR-CH style='word-wrap:break-word'>
+
+<div class=WordSection1>
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
+ style='border-collapse:collapse;border:none'>
+ <tr style='height:15.0pt'>
+  <td width=282 valign=top style='width:211.5pt;border:solid windowtext 1.0pt;
+  padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white'><span lang=DE
+  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
+  color:black'>Schlagwort:</span></p>
+  </td>
+  <td width=319 valign=top style='width:239.25pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white'><span lang=DE
+  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
+  color:black'>Kodierempfehlung Ulcus hypertonicum (Martorell)</span></p>
+  </td>
+ </tr>
+ <tr style='height:15.0pt'>
+  <td width=282 valign=top style='width:211.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white'><span lang=DE
+  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
+  color:black'>Erstellt:</span></p>
+  </td>
+  <td width=319 valign=top style='width:239.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white'><span lang=DE
+  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
+  color:black'>11.01.2025</span></p>
+  </td>
+ </tr>
+ <tr style='height:14.25pt'>
+  <td width=282 valign=top style='width:211.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:6.0pt 6.0pt 6.0pt 6.0pt;height:14.25pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white'><span lang=DE
+  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
+  color:black'>Aktualisiert:</span></p>
+  </td>
+  <td width=319 valign=top style='width:239.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:6.0pt 6.0pt 6.0pt 6.0pt;height:14.25pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white'><span lang=DE
+  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light"'>&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr style='height:15.0pt'>
+  <td width=282 style='width:211.5pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
+  font-family:"Roboto Light"'>&nbsp;</span></p>
+  </td>
+  <td width=319 style='width:239.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
+  font-family:"Roboto Light"'>&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr style='height:15.0pt'>
+  <td width=282 style='width:211.5pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
+  font-family:"Roboto Light"'>&nbsp;</span></p>
+  </td>
+  <td width=319 style='width:239.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
+  font-family:"Roboto Light"'>&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr style='height:15.0pt'>
+  <td width=282 valign=top style='width:211.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white'><span lang=DE
+  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
+  color:black'>ICD:</span></p>
+  </td>
+  <td width=319 valign=top style='width:239.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
+  font-family:"Roboto Light"'>I10.-/ I15.-† L97/L98.8</span></p>
+  </td>
+ </tr>
+ <tr style='height:15.0pt'>
+  <td width=282 valign=top style='width:211.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white'><span lang=DE
+  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
+  color:black'>CHOP:</span></p>
+  </td>
+  <td width=319 valign=top style='width:239.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white'><span lang=DE
+  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light"'>&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr style='height:15.0pt'>
+  <td width=282 valign=top style='width:211.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
+  font-family:"Roboto Light"'>Kodierregel:</span></p>
+  </td>
+  <td width=319 valign=top style='width:239.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
+  font-family:"Roboto Light"'></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal style='margin-bottom:8.25pt;line-height:162%;background:
+white'><b><span lang=DE style='font-size:8.5pt;line-height:162%;font-family:
+"Roboto Light";color:#1A1E22'>&nbsp;</span></b></p>
+
+</div>
+
+</body>
+
+</html>
+
+
+{{<markdown>}}
+**Frage:**
+  
+Wie wird Ulcus (cruris) hypertonicum (Martorell abgebildet?
+
+**Erläuterung:**
+  
+Beim Ulcus (cruris) hypertonicum handelt es sich um eine spezielle Form des Ulcus cruris, die vorwiegend am laterodorsalen Unterschenkel oder über der Achillessehne auftritt. Die meisten Betroffenen weisen einen markanten, langzeitig bestehenden Hypertonus auf, in ca. 60% der Fälle kombiniert mit einem Diabetes mellitus Typ 2. Zur Ätiologie des Ulcus hypertonicum gibt es drei Erklärungsansätze: die ischämisierende Arteriosklerose, die Mediakalzinose der pathologischen Arteriolen und die lokalen Entzündungsvorgänge. Die Arteriosklerose in der Subkutis steht für die Pathogenese der Hautnekrose dabei im Vordergrund. Auch wenn die Erkrankung pathogenetisch auf eine Arteriosklerose zurückzuführen ist, ist die eigentliche Grundursache die Hypertonie.
+
+**Kodierempfehlung:**
+  
+Für das Ulcus hypertonicum (Martorell) empfehlen wir folgende Kodekombination: L97 «Ulcus cruris, anderenorts nicht klassifiziert» zusammen mit der Kreuz-Stern-Kombination aus dem zutreffenden Kode I10.-† bis I15.-† und L99.8* «_Sonstige näher bezeichnete Krankheiten der Haut und der Unterhaut bei anderenorts klassifizierten Krankheiten_». Durch diese Erfassung kann das Ulcus hypertonicum von anderen Ulcus cruris-Arten unterschieden werden.
+
+{{</markdown>}}
+
+{{</article>}}
 
