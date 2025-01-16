@@ -376,6 +376,31 @@ white'><b><span lang=DE style='font-size:8.5pt;line-height:162%;font-family:
 </html>
 
 
+{{<indent level="4">}}
+    {{<grid>}}
+        {{<grid/column>}}
+        {{<markdown>}}
+Schlagwort:  
+        {{</markdown>}}
+        {{</grid/column>}}
+        {{<grid/column>}}
+            {{<markdown>}}
+Endokarditis bei Herzklappenprothese
+            {{</markdown>}}
+        {{</grid/column>}}
+Erstellt: 
+        {{</grid/column>}}
+        {{<grid/column>}}
+            {{<markdown>}}
+06.12.2024
+            {{</markdown>}}
+        {{</grid/column>}}
+    {{</grid>}}
+{{</indent>}}
+  
+  
+  
+
 {{<markdown>}}
 **Schlagwort: Endokarditis bei Herzklappenprothese**
   
