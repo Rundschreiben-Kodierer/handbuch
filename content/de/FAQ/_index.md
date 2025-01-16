@@ -8,7 +8,7 @@ keywords: []
 ---
 {{<collapsibleGroupCommand groupId="Kodierempfehlungen">}}
 
-{{<article number="1."  title="Kodierempfehlung ICD-Kodes T82.6 und I33.0" collapsibleClass="d-inline-block" groupId="Kodierempfehlungen">}}
+{{<article number="1."  title="Endokarditis bei Herzklappenprothese" collapsibleClass="d-inline-block" groupId="Kodierempfehlungen">}}
 
 <html>
 
@@ -377,6 +377,21 @@ white'><b><span lang=DE style='font-size:8.5pt;line-height:162%;font-family:
 
 
 {{<markdown>}}
+**Schlagwort: Endokarditis bei Herzklappenprothese**
+
+**Erstellt: 06.12.2024**
+
+**Aktualisiert: -**
+
+**ICD: T82.6, I33.0**
+
+**CHOP: -**
+
+**Kodierregel: D12**
+  
+  
+  
+  
 **Problem:**
 Wie wird ein Endoleak nach endovaskulärer Versorgung (EVAR) eines Aortenaneurysmas abgebildet werden?
   
