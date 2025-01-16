@@ -8,7 +8,7 @@ keywords: []
 ---
 {{<collapsibleGroupCommand groupId="Kodierempfehlungen">}}
 
-{{<article number="T82.6 und I33.0"  title="Kodierempfehlung ICD-Kodes T82.6 und I33.0" collapsibleClass="d-inline-block" groupId="Kodierempfehlungen">}}
+{{<article number="T82.6/I33.0 "  title="Kodierempfehlung ICD-Kodes T82.6 und I33.0" collapsibleClass="d-inline-block" groupId="Kodierempfehlungen">}}
 
 <html>
 
@@ -412,6 +412,204 @@ Ein Endoleak **Typ V** wird auch als Endotension bezeichnet. In diesem Fall zeig
 **Typ IV: Kode**: T82.5 Mechanische Komplikation durch sonstige Geräte und Implantate im Herzen und in den Gefäßen
 
 **Typ V**: Kode: I71.-  Aneurysma der Aorta - (da keine Komplikation des Grafts)     
+  
+{{</markdown>}}
+
+{{</article>}}
+
+
+
+
+{{<article number="B02.2†/ B02.3 / B02.9"  title="Kodierempfehlung Herpes zoster " collapsibleClass="d-inline-block" groupId="Kodierempfehlungen">}}
+
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=Generator content="Microsoft Word 15 (filtered)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Helvetica;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Aptos;}
+@font-face
+	{font-family:"Roboto Light";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:0cm;
+	line-height:116%;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif;}
+.MsoChpDefault
+	{font-size:12.0pt;
+	font-family:"Aptos",sans-serif;}
+.MsoPapDefault
+	{margin-bottom:8.0pt;
+	line-height:116%;}
+@page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style>
+
+</head>
+
+<body lang=FR-CH style='word-wrap:break-word'>
+
+<div class=WordSection1>
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
+ style='border-collapse:collapse;border:none'>
+ <tr style='height:15.0pt'>
+  <td width=282 valign=top style='width:211.5pt;border:solid windowtext 1.0pt;
+  padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white'><span lang=DE
+  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
+  color:black'>Schlagwort:</span></p>
+  </td>
+  <td width=319 valign=top style='width:239.25pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white'><span lang=DE
+  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
+  color:black'>Herpes zoster mit Manifestationen/ akute Schmerzen bei Herpes zoster</span></p>
+  </td>
+ </tr>
+ <tr style='height:15.0pt'>
+  <td width=282 valign=top style='width:211.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white'><span lang=DE
+  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
+  color:black'>Erstellt:</span></p>
+  </td>
+  <td width=319 valign=top style='width:239.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white'><span lang=DE
+  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
+  color:black'>03.01.2025</span></p>
+  </td>
+ </tr>
+ <tr style='height:14.25pt'>
+  <td width=282 valign=top style='width:211.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:6.0pt 6.0pt 6.0pt 6.0pt;height:14.25pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white'><span lang=DE
+  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
+  color:black'>Aktualisiert:</span></p>
+  </td>
+  <td width=319 valign=top style='width:239.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:6.0pt 6.0pt 6.0pt 6.0pt;height:14.25pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white'><span lang=DE
+  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light"'>&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr style='height:15.0pt'>
+  <td width=282 style='width:211.5pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
+  font-family:"Roboto Light"'>&nbsp;</span></p>
+  </td>
+  <td width=319 style='width:239.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
+  font-family:"Roboto Light"'>&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr style='height:15.0pt'>
+  <td width=282 style='width:211.5pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
+  font-family:"Roboto Light"'>&nbsp;</span></p>
+  </td>
+  <td width=319 style='width:239.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
+  font-family:"Roboto Light"'>&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr style='height:15.0pt'>
+  <td width=282 valign=top style='width:211.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white'><span lang=DE
+  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
+  color:black'>ICD:</span></p>
+  </td>
+  <td width=319 valign=top style='width:239.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
+  font-family:"Roboto Light"'>B02.2†/ B02.3 / B02.9</span></p>
+  </td>
+ </tr>
+ <tr style='height:15.0pt'>
+  <td width=282 valign=top style='width:211.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white'><span lang=DE
+  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
+  color:black'>CHOP:</span></p>
+  </td>
+  <td width=319 valign=top style='width:239.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white'><span lang=DE
+  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light"'>&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr style='height:15.0pt'>
+  <td width=282 valign=top style='width:211.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
+  font-family:"Roboto Light"'>Kodierregel:</span></p>
+  </td>
+  <td width=319 valign=top style='width:239.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
+  font-family:"Roboto Light"'>D12</span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal style='margin-bottom:8.25pt;line-height:162%;background:
+white'><b><span lang=DE style='font-size:8.5pt;line-height:162%;font-family:
+"Roboto Light";color:#1A1E22'>&nbsp;</span></b></p>
+
+</div>
+
+</body>
+
+</html>
+
+
+{{<markdown>}}
+**Frage:**
+  
+Wie wird ein Herpes zoster mit Hauterscheinungen im entsprechenden Dermatom kodiert?
+  
+**Erläuterung:**
+  
+Es ist von Bedeutung, ob die Effloreszenzen bereits seit längerem abgeklungen sind und die Schmerzen im betroffenen Dermatom persistieren, (mehr als 4 Wochen nach Beginn der Symptomatik) dann handelt es sich um eine sogenannte Postzosterneuralgie, oder ob ein akuter Herpes Zoster mit Hauterscheinungen vorliegt. Eine Postzosterneuralgie wird u. a. durch periphere Nervenschädigungen durch Demyelinisierung afferenter sensorischer Nervenfasern sowie Small-fiber-Degeneration verursacht, womit ein neuropathisches Schmerzgeschehen vorliegt. Dies ist bei akutem Geschehen nicht der Fall. 
+  
+**Kodierempfehlung:**
+  
+Wenn es sich um eine akute Manifestation eines Herpes zoster und nicht um eine postherpetische Neuralgie handelt ist der Kode B02.2† Zoster mit Beteiligung anderer Abschnitte des Nervensystems, nicht korrekt. Die Schmerzen sind beim akuten Zoster ein regelhaftes Symptom und es wird B02.9, Zoster ohne Komplikation, kodiert.  
+Bei einem Herpes zoster mit Manifestation im Innervationsgebiet des 1. Trigeminusastes handelt es sich per definitionem um einen Zoster ophthalmicus. Dieser wird gemäss ICD-10-GM 2024 mit B02.3, Zoster ophthalmicus, verschlüsselt. 
+
+
   
 {{</markdown>}}
 
