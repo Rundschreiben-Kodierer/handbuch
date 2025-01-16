@@ -388,7 +388,9 @@ Schlagwort:
 Endokarditis bei Herzklappenprothese
             {{</markdown>}}
         {{</grid/column>}}
+            {{<markdown>}}
 Erstellt: 
+            {{</markdown>}}
         {{</grid/column>}}
         {{<grid/column>}}
             {{<markdown>}}
