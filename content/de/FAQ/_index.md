@@ -403,21 +403,6 @@ white'><b><span lang=DE style='font-size:8.5pt;line-height:162%;font-family:
   
   
   
-
-{{<markdown>}}
-**Schlagwort: Endokarditis bei Herzklappenprothese**
-  
-**Erstellt: 06.12.2024**
-  
-**Aktualisiert: -**
-  
-**ICD: T82.6, I33.0**
-  
-**CHOP: -**
-  
-**Kodierregel: D12**
-  
-  
   
   
 **Problem:**
