@@ -807,7 +807,7 @@ div.WordSection1
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
   <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
-  font-family:"Roboto Light"'>D12</span></p>
+  font-family:"Roboto Light"'></span></p>
   </td>
  </tr>
 </table>
@@ -1008,7 +1008,7 @@ div.WordSection1
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
   <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
-  font-family:"Roboto Light"'>D12</span></p>
+  font-family:"Roboto Light"'></span></p>
   </td>
  </tr>
 </table>
@@ -1208,7 +1208,7 @@ div.WordSection1
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
   <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
-  font-family:"Roboto Light"'>D12</span></p>
+  font-family:"Roboto Light"'></span></p>
   </td>
  </tr>
 </table>
@@ -1414,7 +1414,7 @@ div.WordSection1
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
   <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
-  font-family:"Roboto Light"'>D12</span></p>
+  font-family:"Roboto Light"'></span></p>
   </td>
  </tr>
 </table>
@@ -1615,7 +1615,7 @@ div.WordSection1
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
   <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
-  font-family:"Roboto Light"'>D12</span></p>
+  font-family:"Roboto Light"'></span></p>
   </td>
  </tr>
 </table>
@@ -1816,7 +1816,7 @@ div.WordSection1
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
   <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
-  font-family:"Roboto Light"'>D12</span></p>
+  font-family:"Roboto Light"'></span></p>
   </td>
  </tr>
 </table>
