@@ -376,8 +376,7 @@ white'><b><span lang=DE style='font-size:8.5pt;line-height:162%;font-family:
 </html>
 
 
-{{<indent level="4">}}
-    {{<grid>}}
+{{<grid>}}
         {{<grid/column>}}
         {{<markdown>}}
 **Schlagwort:**  
@@ -398,12 +397,13 @@ white'><b><span lang=DE style='font-size:8.5pt;line-height:162%;font-family:
 **D12**      
         {{</markdown>}}
         {{</grid/column>}}
-    {{</grid>}}
-{{</indent>}}
-  
-  
+{{</grid>}}
   
 {{<markdown>}}  
+  
+  
+  
+  
   
 **Problem:**
 Wie wird ein Endoleak nach endovaskulärer Versorgung (EVAR) eines Aortenaneurysmas abgebildet werden?
