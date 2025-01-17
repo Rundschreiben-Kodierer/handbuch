@@ -201,7 +201,7 @@ Ist kein diagnostisch bestätigter Zusammenhang zwischen der Herzklappenprothese
 {{</article>}}
 
 
-{{<article number="2."  title="T82.5/ I71.- Endoleak" collapsibleClass="d-inline-block" groupId="Kodierempfehlungen">}}
+{{<article number="2."  title="Kodierempfehlung Endoleak" collapsibleClass="d-inline-block" groupId="Kodierempfehlungen">}}
 
 <html>
 
@@ -389,12 +389,12 @@ white'><b><span lang=DE style='font-size:8.5pt;line-height:162%;font-family:
         {{</grid/column>}}
         {{<grid/column>}}
         {{<markdown>}}
-**Endokarditis bei Herzklappenprothese**  
-**06.12.2024**  
+**Einteilung Endoleaks**  
+**03.01.2025**  
 **-**  
-**ICD: T82.6, I33.0**  
+**T82.5/ I71.-**  
 **-**  
-**D12**      
+**-**      
         {{</markdown>}}
         {{</grid/column>}}
 {{</grid>}}
@@ -1456,7 +1456,7 @@ Eine osteoporotische Sinterungsfraktur der Wirbelsäule wird mit M80.98 Nicht n�
 
 
 
-{{<article number="8."  title="Os sacrum-Fraktur, Sakrumfraktur, transileosakrale Verschraubung, Arthrodese am Iliosakralgelenk" collapsibleClass="d-inline-block" groupId="Kodierempfehlungen">}}
+{{<article number="8."  title="Kodierempfehlung Sakrumfraturen" collapsibleClass="d-inline-block" groupId="Kodierempfehlungen">}}
 
 <html>
 
@@ -1859,7 +1859,7 @@ Bei Verwendung von Knochenersatzmaterialien oder Knochentransplantaten wird die 
 
 
 
-{{<article number="10."  title="Kodierempfehlung Carotisstenose bds/ Stenosen ein-oder beidseitiger präzerebraler Arterien I65.2/I65.3" collapsibleClass="d-inline-block" groupId="Kodierempfehlungen">}}
+{{<article number="10."  title="Kodierempfehlung Carotisstenose bds/ Stenosen ein-oder beidseitiger präzerebraler Arterien" collapsibleClass="d-inline-block" groupId="Kodierempfehlungen">}}
 
 <html>
 
