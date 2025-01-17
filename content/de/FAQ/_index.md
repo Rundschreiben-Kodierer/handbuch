@@ -380,12 +380,22 @@ white'><b><span lang=DE style='font-size:8.5pt;line-height:162%;font-family:
     {{<grid>}}
         {{<grid/column>}}
         {{<markdown>}}
-**Schlagwort:**
-**Erstellt:**
-**Akutalisiert:**
-**ICD:**
-**CHOP:**
-**Kodierregel:**  
+**Schlagwort:**  
+**Erstellt:**  
+**Aktualisiert:**  
+**ICD:**  
+**CHOP:**  
+**Kodierregel:**      
+        {{</markdown>}}
+        {{</grid/column>}}
+        {{<grid/column>}}
+        {{<markdown>}}
+**Endokarditis bei Herzklappenprothese**  
+**06.12.2024**  
+**-**  
+**ICD: T82.6, I33.0**  
+**-**  
+**D12**      
         {{</markdown>}}
         {{</grid/column>}}
     {{</grid>}}
