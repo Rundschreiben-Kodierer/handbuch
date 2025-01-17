@@ -380,22 +380,13 @@ white'><b><span lang=DE style='font-size:8.5pt;line-height:162%;font-family:
     {{<grid>}}
         {{<grid/column>}}
         {{<markdown>}}
-Schlagwort:  
+**Schlagwort:**
+**Erstellt:**
+**Akutalisiert:**
+**ICD:**
+**CHOP:**
+**Kodierregel:**  
         {{</markdown>}}
-        {{</grid/column>}}
-        {{<grid/column>}}
-            {{<markdown>}}
-Endokarditis bei Herzklappenprothese
-            {{</markdown>}}
-        {{</grid/column>}}
-            {{<markdown>}}
-Erstellt: 
-            {{</markdown>}}
-        {{</grid/column>}}
-        {{<grid/column>}}
-            {{<markdown>}}
-06.12.2024
-            {{</markdown>}}
         {{</grid/column>}}
     {{</grid>}}
 {{</indent>}}
