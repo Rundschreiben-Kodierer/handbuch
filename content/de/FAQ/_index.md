@@ -24,14 +24,14 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <meta name=ProgId content=Word.Document>
 <meta name=Generator content="Microsoft Word 15">
 <meta name=Originator content="Microsoft Word 15">
-<link rel=File-List href="Beispiel%20FAQ%20tableau%20new_fichiers/filelist.xml">
+<link rel=File-List href="Beispiel%20FAQ%20tableau%20new2_fichiers/filelist.xml">
 <!--[if gte mso 9]><xml>
  <o:DocumentProperties>
   <o:Author>Hager Daniela BFS</o:Author>
   <o:LastAuthor>Emery Pierre Alec BFS</o:LastAuthor>
   <o:Revision>2</o:Revision>
-  <o:Created>2025-01-23T14:40:00Z</o:Created>
-  <o:LastSaved>2025-01-23T14:40:00Z</o:LastSaved>
+  <o:Created>2025-01-23T14:55:00Z</o:Created>
+  <o:LastSaved>2025-01-23T14:55:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
   <o:Words>20</o:Words>
   <o:Characters>114</o:Characters>
@@ -60,18 +60,18 @@ xmlns="http://www.w3.org/TR/REC-html40">
  </o:OfficeDocumentSettings>
 </xml><![endif]-->
 <link rel=dataStoreItem
-href="Beispiel%20FAQ%20tableau%20new_fichiers/item0001.xml"
-target="Beispiel%20FAQ%20tableau%20new_fichiers/props002.xml">
+href="Beispiel%20FAQ%20tableau%20new2_fichiers/item0001.xml"
+target="Beispiel%20FAQ%20tableau%20new2_fichiers/props002.xml">
 <link rel=dataStoreItem
-href="Beispiel%20FAQ%20tableau%20new_fichiers/item0003.xml"
-target="Beispiel%20FAQ%20tableau%20new_fichiers/props004.xml">
+href="Beispiel%20FAQ%20tableau%20new2_fichiers/item0003.xml"
+target="Beispiel%20FAQ%20tableau%20new2_fichiers/props004.xml">
 <link rel=dataStoreItem
-href="Beispiel%20FAQ%20tableau%20new_fichiers/item0005.xml"
-target="Beispiel%20FAQ%20tableau%20new_fichiers/props006.xml">
+href="Beispiel%20FAQ%20tableau%20new2_fichiers/item0005.xml"
+target="Beispiel%20FAQ%20tableau%20new2_fichiers/props006.xml">
 <link rel=themeData
-href="Beispiel%20FAQ%20tableau%20new_fichiers/themedata.thmx">
+href="Beispiel%20FAQ%20tableau%20new2_fichiers/themedata.thmx">
 <link rel=colorSchemeMapping
-href="Beispiel%20FAQ%20tableau%20new_fichiers/colorschememapping.xml">
+href="Beispiel%20FAQ%20tableau%20new2_fichiers/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
   <w:GrammarState>Clean</w:GrammarState>
@@ -964,17 +964,17 @@ table.MsoTableGrid
  mso-yfti-tbllook:1696;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
  .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext'>
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:15.0pt'>
-  <td width=123 valign=top style='width:91.9pt;border:solid windowtext 1.0pt;
+  <td width=160 valign=top style='width:120.1pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:6.0pt 6.0pt 6.0pt 6.0pt;
   height:15.0pt'>
   <p class=MsoNormal style='margin-bottom:0cm;background:white;mso-background-themecolor:
-  background1'><b><span lang=DE style='font-size:10.0pt;line-height:116%;
+  background1'><b><span lang=DE style='font-size:8.5pt;line-height:116%;
   font-family:"Roboto Light";mso-fareast-font-family:Helvetica;mso-bidi-font-family:
   Helvetica;color:black;mso-color-alt:windowtext'>Schlagwort:</span></b><b><span
-  lang=DE style='font-size:10.0pt;line-height:116%;font-family:"Roboto Light";
+  lang=DE style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
   mso-fareast-font-family:Helvetica;mso-bidi-font-family:Helvetica'><o:p></o:p></span></b></p>
   </td>
-  <td width=312 valign=top style='width:233.9pt;border:solid windowtext 1.0pt;
+  <td width=441 valign=top style='width:330.65pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
   <p class=MsoNormal style='margin-bottom:0cm;background:white;mso-background-themecolor:
@@ -987,17 +987,17 @@ table.MsoTableGrid
   </td>
  </tr>
  <tr style='mso-yfti-irow:1;height:15.0pt'>
-  <td width=123 valign=top style='width:91.9pt;border:solid windowtext 1.0pt;
+  <td width=160 valign=top style='width:120.1pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
   <p class=MsoNormal style='margin-bottom:0cm;background:white;mso-background-themecolor:
-  background1'><b><span lang=DE style='font-size:10.0pt;line-height:116%;
+  background1'><b><span lang=DE style='font-size:8.5pt;line-height:116%;
   font-family:"Roboto Light";mso-fareast-font-family:Helvetica;mso-bidi-font-family:
   Helvetica;color:black;mso-color-alt:windowtext'>Erstellt:</span></b><b><span
-  lang=DE style='font-size:10.0pt;line-height:116%;font-family:"Roboto Light";
+  lang=DE style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
   mso-fareast-font-family:Helvetica;mso-bidi-font-family:Helvetica'><o:p></o:p></span></b></p>
   </td>
-  <td width=312 valign=top style='width:233.9pt;border-top:none;border-left:
+  <td width=441 valign=top style='width:330.65pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:6.0pt 6.0pt 6.0pt 6.0pt;
@@ -1011,17 +1011,17 @@ table.MsoTableGrid
   </td>
  </tr>
  <tr style='mso-yfti-irow:2;height:14.25pt'>
-  <td width=123 valign=top style='width:91.9pt;border:solid windowtext 1.0pt;
+  <td width=160 valign=top style='width:120.1pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:6.0pt 6.0pt 6.0pt 6.0pt;height:14.25pt'>
   <p class=MsoNormal style='margin-bottom:0cm;background:white;mso-background-themecolor:
-  background1'><b><span lang=DE style='font-size:10.0pt;line-height:116%;
+  background1'><b><span lang=DE style='font-size:8.5pt;line-height:116%;
   font-family:"Roboto Light";mso-fareast-font-family:Helvetica;mso-bidi-font-family:
   Helvetica;color:black;mso-color-alt:windowtext'>Aktualisiert:</span></b><b><span
-  lang=DE style='font-size:10.0pt;line-height:116%;font-family:"Roboto Light";
+  lang=DE style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
   mso-fareast-font-family:Helvetica;mso-bidi-font-family:Helvetica'><o:p></o:p></span></b></p>
   </td>
-  <td width=312 valign=top style='width:233.9pt;border-top:none;border-left:
+  <td width=441 valign=top style='width:330.65pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:6.0pt 6.0pt 6.0pt 6.0pt;
@@ -1033,51 +1033,57 @@ table.MsoTableGrid
   </td>
  </tr>
  <tr style='mso-yfti-irow:3;height:15.0pt'>
-  <td width=123 valign=top style='width:91.9pt;border:solid windowtext 1.0pt;
+  <td width=160 valign=top style='width:120.1pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt'>
-  <p class=MsoNormal><b><span lang=DE style='font-size:10.0pt;line-height:116%;
+  padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white;mso-background-themecolor:
+  background1'><b><span lang=DE style='font-size:8.5pt;line-height:116%;
   font-family:"Roboto Light";mso-fareast-font-family:Helvetica;mso-bidi-font-family:
-  Helvetica'>ICD:<o:p></o:p></span></b></p>
+  Helvetica;color:black;mso-color-alt:windowtext'>ICD:</span></b><b><span
+  lang=DE style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
+  mso-fareast-font-family:Helvetica;mso-bidi-font-family:Helvetica'><o:p></o:p></span></b></p>
   </td>
-  <td width=312 valign=top style='width:233.9pt;border-top:none;border-left:
+  <td width=441 valign=top style='width:330.65pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt'>
+  mso-border-alt:solid windowtext .5pt;padding:6.0pt 6.0pt 6.0pt 6.0pt;
+  height:15.0pt'>
   <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
   font-family:"Roboto Light";mso-fareast-font-family:Helvetica;mso-bidi-font-family:
   Helvetica'>T82.6, I33.0<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:4;height:15.0pt'>
-  <td width=123 valign=top style='width:91.9pt;border:solid windowtext 1.0pt;
+  <td width=160 valign=top style='width:120.1pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt'>
-  <p class=MsoNormal><b><span lang=DE style='font-size:10.0pt;line-height:116%;
+  padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white;mso-background-themecolor:
+  background1'><b><span lang=DE style='font-size:8.5pt;line-height:116%;
   font-family:"Roboto Light";mso-fareast-font-family:Helvetica;mso-bidi-font-family:
-  Helvetica'>CHOP:<o:p></o:p></span></b></p>
+  Helvetica;color:black;mso-color-alt:windowtext'>CHOP:</span></b><b><span
+  lang=DE style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
+  mso-fareast-font-family:Helvetica;mso-bidi-font-family:Helvetica'><o:p></o:p></span></b></p>
   </td>
-  <td width=312 valign=top style='width:233.9pt;border-top:none;border-left:
+  <td width=441 valign=top style='width:330.65pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt'>
-  <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
+  mso-border-alt:solid windowtext .5pt;padding:6.0pt 6.0pt 6.0pt 6.0pt;
+  height:15.0pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;background:white;mso-background-themecolor:
+  background1'><span lang=DE style='font-size:8.5pt;line-height:116%;
   font-family:"Roboto Light";mso-fareast-font-family:Helvetica;mso-bidi-font-family:
   Helvetica'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:5;mso-yfti-lastrow:yes;height:15.0pt'>
-  <td width=123 valign=top style='width:91.9pt;border:solid windowtext 1.0pt;
+  <td width=160 valign=top style='width:120.1pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;background:white;mso-background-themecolor:
-  background1'><b><span lang=DE style='font-size:10.0pt;line-height:116%;
+  <p class=MsoNormal><b><span lang=DE style='font-size:8.5pt;line-height:116%;
   font-family:"Roboto Light";mso-fareast-font-family:Helvetica;mso-bidi-font-family:
-  Helvetica;color:black;mso-color-alt:windowtext'>Kodierregel:</span></b><b><span
-  lang=DE style='font-size:10.0pt;line-height:116%;font-family:"Roboto Light";
-  mso-fareast-font-family:Helvetica;mso-bidi-font-family:Helvetica'><o:p></o:p></span></b></p>
+  Helvetica'>Kodierregel:<o:p></o:p></span></b></p>
   </td>
-  <td width=312 valign=top style='width:233.9pt;border-top:none;border-left:
+  <td width=441 valign=top style='width:330.65pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:6.0pt 6.0pt 6.0pt 6.0pt;
