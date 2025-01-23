@@ -30,8 +30,8 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <o:Author>Hager Daniela BFS</o:Author>
   <o:LastAuthor>Emery Pierre Alec BFS</o:LastAuthor>
   <o:Revision>2</o:Revision>
-  <o:Created>2025-01-23T14:17:00Z</o:Created>
-  <o:LastSaved>2025-01-23T14:17:00Z</o:LastSaved>
+  <o:Created>2025-01-23T14:40:00Z</o:Created>
+  <o:LastSaved>2025-01-23T14:40:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
   <o:Words>20</o:Words>
   <o:Characters>114</o:Characters>
@@ -968,10 +968,10 @@ table.MsoTableGrid
   mso-border-alt:solid windowtext .5pt;padding:6.0pt 6.0pt 6.0pt 6.0pt;
   height:15.0pt'>
   <p class=MsoNormal style='margin-bottom:0cm;background:white;mso-background-themecolor:
-  background1'><b><span lang=DE style='font-size:8.5pt;line-height:116%;
+  background1'><b><span lang=DE style='font-size:10.0pt;line-height:116%;
   font-family:"Roboto Light";mso-fareast-font-family:Helvetica;mso-bidi-font-family:
   Helvetica;color:black;mso-color-alt:windowtext'>Schlagwort:</span></b><b><span
-  lang=DE style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
+  lang=DE style='font-size:10.0pt;line-height:116%;font-family:"Roboto Light";
   mso-fareast-font-family:Helvetica;mso-bidi-font-family:Helvetica'><o:p></o:p></span></b></p>
   </td>
   <td width=312 valign=top style='width:233.9pt;border:solid windowtext 1.0pt;
@@ -991,10 +991,10 @@ table.MsoTableGrid
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
   <p class=MsoNormal style='margin-bottom:0cm;background:white;mso-background-themecolor:
-  background1'><b><span lang=DE style='font-size:8.5pt;line-height:116%;
+  background1'><b><span lang=DE style='font-size:10.0pt;line-height:116%;
   font-family:"Roboto Light";mso-fareast-font-family:Helvetica;mso-bidi-font-family:
   Helvetica;color:black;mso-color-alt:windowtext'>Erstellt:</span></b><b><span
-  lang=DE style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
+  lang=DE style='font-size:10.0pt;line-height:116%;font-family:"Roboto Light";
   mso-fareast-font-family:Helvetica;mso-bidi-font-family:Helvetica'><o:p></o:p></span></b></p>
   </td>
   <td width=312 valign=top style='width:233.9pt;border-top:none;border-left:
@@ -1015,10 +1015,10 @@ table.MsoTableGrid
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:6.0pt 6.0pt 6.0pt 6.0pt;height:14.25pt'>
   <p class=MsoNormal style='margin-bottom:0cm;background:white;mso-background-themecolor:
-  background1'><b><span lang=DE style='font-size:8.5pt;line-height:116%;
+  background1'><b><span lang=DE style='font-size:10.0pt;line-height:116%;
   font-family:"Roboto Light";mso-fareast-font-family:Helvetica;mso-bidi-font-family:
   Helvetica;color:black;mso-color-alt:windowtext'>Aktualisiert:</span></b><b><span
-  lang=DE style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
+  lang=DE style='font-size:10.0pt;line-height:116%;font-family:"Roboto Light";
   mso-fareast-font-family:Helvetica;mso-bidi-font-family:Helvetica'><o:p></o:p></span></b></p>
   </td>
   <td width=312 valign=top style='width:233.9pt;border-top:none;border-left:
@@ -1036,7 +1036,7 @@ table.MsoTableGrid
   <td width=123 valign=top style='width:91.9pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt'>
-  <p class=MsoNormal><b><span lang=DE style='font-size:8.5pt;line-height:116%;
+  <p class=MsoNormal><b><span lang=DE style='font-size:10.0pt;line-height:116%;
   font-family:"Roboto Light";mso-fareast-font-family:Helvetica;mso-bidi-font-family:
   Helvetica'>ICD:<o:p></o:p></span></b></p>
   </td>
@@ -1053,7 +1053,7 @@ table.MsoTableGrid
   <td width=123 valign=top style='width:91.9pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt'>
-  <p class=MsoNormal><b><span lang=DE style='font-size:8.5pt;line-height:116%;
+  <p class=MsoNormal><b><span lang=DE style='font-size:10.0pt;line-height:116%;
   font-family:"Roboto Light";mso-fareast-font-family:Helvetica;mso-bidi-font-family:
   Helvetica'>CHOP:<o:p></o:p></span></b></p>
   </td>
@@ -1071,10 +1071,10 @@ table.MsoTableGrid
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
   <p class=MsoNormal style='margin-bottom:0cm;background:white;mso-background-themecolor:
-  background1'><b><span lang=DE style='font-size:8.5pt;line-height:116%;
+  background1'><b><span lang=DE style='font-size:10.0pt;line-height:116%;
   font-family:"Roboto Light";mso-fareast-font-family:Helvetica;mso-bidi-font-family:
   Helvetica;color:black;mso-color-alt:windowtext'>Kodierregel:</span></b><b><span
-  lang=DE style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
+  lang=DE style='font-size:10.0pt;line-height:116%;font-family:"Roboto Light";
   mso-fareast-font-family:Helvetica;mso-bidi-font-family:Helvetica'><o:p></o:p></span></b></p>
   </td>
   <td width=312 valign=top style='width:233.9pt;border-top:none;border-left:
@@ -1099,6 +1099,11 @@ mso-bidi-font-family:Helvetica;color:#1A1E22'><o:p>&nbsp;</o:p></span></b></p>
 </body>
 
 </html>
+
+
+
+
+
 
 
 
