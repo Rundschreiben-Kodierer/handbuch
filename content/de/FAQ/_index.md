@@ -10,6 +10,8 @@ keywords: []
 
 {{<article number="1."  title="Endokarditis bei Herzklappenprothese" collapsibleClass="d-inline-block" groupId="Kodierempfehlungen">}}
 
+
+
 <html xmlns:v="urn:schemas-microsoft-com:vml"
 xmlns:o="urn:schemas-microsoft-com:office:office"
 xmlns:w="urn:schemas-microsoft-com:office:word"
@@ -28,14 +30,14 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <o:Author>Hager Daniela BFS</o:Author>
   <o:LastAuthor>Emery Pierre Alec BFS</o:LastAuthor>
   <o:Revision>2</o:Revision>
-  <o:Created>2025-01-23T14:05:00Z</o:Created>
-  <o:LastSaved>2025-01-23T14:05:00Z</o:LastSaved>
+  <o:Created>2025-01-23T14:17:00Z</o:Created>
+  <o:LastSaved>2025-01-23T14:17:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>21</o:Words>
-  <o:Characters>119</o:Characters>
+  <o:Words>20</o:Words>
+  <o:Characters>114</o:Characters>
   <o:Lines>1</o:Lines>
   <o:Paragraphs>1</o:Paragraphs>
-  <o:CharactersWithSpaces>139</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>133</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:CustomDocumentProperties>
@@ -966,11 +968,11 @@ table.MsoTableGrid
   mso-border-alt:solid windowtext .5pt;padding:6.0pt 6.0pt 6.0pt 6.0pt;
   height:15.0pt'>
   <p class=MsoNormal style='margin-bottom:0cm;background:white;mso-background-themecolor:
-  background1'><span lang=DE style='font-size:8.5pt;line-height:116%;
+  background1'><b><span lang=DE style='font-size:8.5pt;line-height:116%;
   font-family:"Roboto Light";mso-fareast-font-family:Helvetica;mso-bidi-font-family:
-  Helvetica;color:black;mso-color-alt:windowtext'>Schlagwort:</span><span
+  Helvetica;color:black;mso-color-alt:windowtext'>Schlagwort:</span></b><b><span
   lang=DE style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
-  mso-fareast-font-family:Helvetica;mso-bidi-font-family:Helvetica'><o:p></o:p></span></p>
+  mso-fareast-font-family:Helvetica;mso-bidi-font-family:Helvetica'><o:p></o:p></span></b></p>
   </td>
   <td width=312 valign=top style='width:233.9pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
@@ -989,11 +991,11 @@ table.MsoTableGrid
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
   <p class=MsoNormal style='margin-bottom:0cm;background:white;mso-background-themecolor:
-  background1'><span lang=DE style='font-size:8.5pt;line-height:116%;
+  background1'><b><span lang=DE style='font-size:8.5pt;line-height:116%;
   font-family:"Roboto Light";mso-fareast-font-family:Helvetica;mso-bidi-font-family:
-  Helvetica;color:black;mso-color-alt:windowtext'>Erstellt:</span><span
+  Helvetica;color:black;mso-color-alt:windowtext'>Erstellt:</span></b><b><span
   lang=DE style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
-  mso-fareast-font-family:Helvetica;mso-bidi-font-family:Helvetica'><o:p></o:p></span></p>
+  mso-fareast-font-family:Helvetica;mso-bidi-font-family:Helvetica'><o:p></o:p></span></b></p>
   </td>
   <td width=312 valign=top style='width:233.9pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1013,11 +1015,11 @@ table.MsoTableGrid
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:6.0pt 6.0pt 6.0pt 6.0pt;height:14.25pt'>
   <p class=MsoNormal style='margin-bottom:0cm;background:white;mso-background-themecolor:
-  background1'><span lang=DE style='font-size:8.5pt;line-height:116%;
+  background1'><b><span lang=DE style='font-size:8.5pt;line-height:116%;
   font-family:"Roboto Light";mso-fareast-font-family:Helvetica;mso-bidi-font-family:
-  Helvetica;color:black;mso-color-alt:windowtext'>Aktualisiert:</span><span
+  Helvetica;color:black;mso-color-alt:windowtext'>Aktualisiert:</span></b><b><span
   lang=DE style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
-  mso-fareast-font-family:Helvetica;mso-bidi-font-family:Helvetica'><o:p></o:p></span></p>
+  mso-fareast-font-family:Helvetica;mso-bidi-font-family:Helvetica'><o:p></o:p></span></b></p>
   </td>
   <td width=312 valign=top style='width:233.9pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1031,89 +1033,49 @@ table.MsoTableGrid
   </td>
  </tr>
  <tr style='mso-yfti-irow:3;height:15.0pt'>
-  <td width=123 style='width:91.9pt;border:solid windowtext 1.0pt;border-top:
-  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt'>
-  <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
-  font-family:"Roboto Light";mso-fareast-font-family:Helvetica;mso-bidi-font-family:
-  Helvetica'><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=312 style='width:233.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt'>
-  <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
-  font-family:"Roboto Light";mso-fareast-font-family:Helvetica;mso-bidi-font-family:
-  Helvetica'><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:4;height:15.0pt'>
-  <td width=123 style='width:91.9pt;border:solid windowtext 1.0pt;border-top:
-  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt'>
-  <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
-  font-family:"Roboto Light";mso-fareast-font-family:Helvetica;mso-bidi-font-family:
-  Helvetica'><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=312 style='width:233.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt'>
-  <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
-  font-family:"Roboto Light";mso-fareast-font-family:Helvetica;mso-bidi-font-family:
-  Helvetica'><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:5;height:15.0pt'>
   <td width=123 valign=top style='width:91.9pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;background:white;mso-background-themecolor:
-  background1'><span lang=DE style='font-size:8.5pt;line-height:116%;
+  padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><b><span lang=DE style='font-size:8.5pt;line-height:116%;
   font-family:"Roboto Light";mso-fareast-font-family:Helvetica;mso-bidi-font-family:
-  Helvetica;color:black;mso-color-alt:windowtext'>ICD:</span><span lang=DE
-  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
-  mso-fareast-font-family:Helvetica;mso-bidi-font-family:Helvetica'><o:p></o:p></span></p>
+  Helvetica'>ICD:<o:p></o:p></span></b></p>
   </td>
   <td width=312 valign=top style='width:233.9pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:6.0pt 6.0pt 6.0pt 6.0pt;
-  height:15.0pt'>
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt'>
   <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
   font-family:"Roboto Light";mso-fareast-font-family:Helvetica;mso-bidi-font-family:
   Helvetica'>T82.6, I33.0<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:6;height:15.0pt'>
+ <tr style='mso-yfti-irow:4;height:15.0pt'>
   <td width=123 valign=top style='width:91.9pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;background:white;mso-background-themecolor:
-  background1'><span lang=DE style='font-size:8.5pt;line-height:116%;
+  padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><b><span lang=DE style='font-size:8.5pt;line-height:116%;
   font-family:"Roboto Light";mso-fareast-font-family:Helvetica;mso-bidi-font-family:
-  Helvetica;color:black;mso-color-alt:windowtext'>CHOP:</span><span lang=DE
-  style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
-  mso-fareast-font-family:Helvetica;mso-bidi-font-family:Helvetica'><o:p></o:p></span></p>
+  Helvetica'>CHOP:<o:p></o:p></span></b></p>
   </td>
   <td width=312 valign=top style='width:233.9pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:6.0pt 6.0pt 6.0pt 6.0pt;
-  height:15.0pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;background:white;mso-background-themecolor:
-  background1'><span lang=DE style='font-size:8.5pt;line-height:116%;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
   font-family:"Roboto Light";mso-fareast-font-family:Helvetica;mso-bidi-font-family:
   Helvetica'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:7;mso-yfti-lastrow:yes;height:15.0pt'>
+ <tr style='mso-yfti-irow:5;mso-yfti-lastrow:yes;height:15.0pt'>
   <td width=123 valign=top style='width:91.9pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:6.0pt 6.0pt 6.0pt 6.0pt;height:15.0pt'>
-  <p class=MsoNormal><span lang=DE style='font-size:8.5pt;line-height:116%;
+  <p class=MsoNormal style='margin-bottom:0cm;background:white;mso-background-themecolor:
+  background1'><b><span lang=DE style='font-size:8.5pt;line-height:116%;
   font-family:"Roboto Light";mso-fareast-font-family:Helvetica;mso-bidi-font-family:
-  Helvetica'>Kodierregel:<o:p></o:p></span></p>
+  Helvetica;color:black;mso-color-alt:windowtext'>Kodierregel:</span></b><b><span
+  lang=DE style='font-size:8.5pt;line-height:116%;font-family:"Roboto Light";
+  mso-fareast-font-family:Helvetica;mso-bidi-font-family:Helvetica'><o:p></o:p></span></b></p>
   </td>
   <td width=312 valign=top style='width:233.9pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
