@@ -6,6 +6,55 @@ weight: 440
 type: docs
 keywords: []
 ---
+
+{{<markdown>}}
+
+**Einführung des Register «FAQ» mit dem Rundschreiben 2025 Nr. 2 des Bundesamtes für Statistik – Fachbereich Medizinisch Klassifikationen**  
+Mit der Publikation des Rundschreibens für Kodiererinnen und Kodierer 2025 Nr. 2 des Bundesamtes für Statistik (BFS) am 30. Juni 2025 wird das neue Register «FAQ» aufgeschaltet.  
+Dieses Register dient als Ergänzung zum bestehenden Kapitel 5 des Rundschreibens und bietet praxisorientierte Unterstützung bei allgemeinen und spezifischen Fragen rund um die Kodierung. Die FAQs werden ausschliesslich online publiziert und sind fortlaufend über die dafür vorgesehene Plattform abrufbar.  
+Sie werden regelmässig aktualisiert, um sicherzustellen, dass sie stets den aktuellen Entwicklungen und Anforderungen entsprechen. Die Aktualisierungen erfolgen jeweils zu den Publikationsterminen der kommenden Rundschreiben.   
+Die FAQs leiten sich aus (wiederholten) Anfragen an das Kodierungssekretariat zu einem spezifischen oder allgemeinen Sachverhalt, wie auch Einzelfallbeurteilungen und Diskussionen innerhalb der Fachgremien ab.  
+  
+Die FAQs werden in zwei Gruppen unterteilt:  
+  1. **Spezifische FAQs**: Diese werden erstmals am 30. Juni 2025 veröffentlicht.  
+  2. **Allgemeine FAQs**: Diese folgen am 17. Dezember 2025 mit der Publikation des Rundschreibens für Kodiererinnen und Kodierer 2026 Nr. 1.  
+  
+Sie finden in jeder FAQ Informationen zum **Thema / Schwerpunkt**, dem **Erstellungsdatum** sowie Angaben darüber, wann die Datei **aktualisiert** wurde. Ausserdem sehen Sie, auf welches **Regelwerk** sich die Informationen beziehen, z. B. **ICD**, **CHOP** oder **Kodierungsregeln**.  
+  
+Ab März 2025 akzeptiert das BFS ausschliesslich Anfragen, die über ein vollständig ausgefülltes Kontaktformular (LINK ergänzen) zusammen mit allen relevanten Unterlagen eingereicht werden.  
+  
+Die **Unterscheidung zwischen einer Präzisierung und einer FAQ** lässt sich durch ihren Zweck, ihren Anwendungsbereich und ihre Struktur erklären. Sie beziehen sich auf unterschiedliche Ansätze, Informationen bereitzustellen oder zu klären:  
+________________________________________________________________________________________________________________________________________________________________
+**1. Präzisierung:**
+**•	Definition**: Eine Präzisierung ist eine gezielte Klärung oder Konkretisierung von Informationen, die in einem spezifischen Kontext notwendig ist. Reaktiv und situationsbezogen – erfolgt meist als Antwort auf eine Anfrage oder zur Verbesserung eines bestehenden Texts.  
+**•	Ziel**: Unklarheiten oder Missverständnisse aufzulösen, indem Details präzisiert oder Begriffe genau definiert werden  Eine unklare oder allgemeine Aussage wird konkretisiert, damit sie eindeutiger und präziser verstanden werden kann.  
+**•	Anwendungsbereich**: In der individuellen Kommunikation oder Dokumentation, um spezifische Informationen oder Details zu klären. Beispielsweise in Dokumenten, Verträgen oder Texten, wenn allgemeine Aussagen genauer spezifiziert werden müssen.  
+**•	Beispiel**:  
+o	Ursprüngliche Aussage: "Das Regelung hat eine lange Gültigkeit."  
+o	Präzisierung: "Die Gültigkeit der Regelung beträgt 24 Monate."  
+________________________________________________________________________________________________________________________________________________________________
+**2. FAQ (Frequently Asked Questions)**  
+**•	Zweck**: Wiederkehrende Fragen und deren standardisierten Antworten zu einem Thema werden gesammelt und publiziert, um Informationslücken proaktiv zu schliessen und Unsicherheiten vorwegzunehmen.  
+**•	Anwendung**:  
+o	Auf Websites, in Bedienungsanleitungen oder anderen Ressourcen, die sich an ein breites Publikum richten.  
+o	In Bereichen, in denen ähnliche Fragen regelmässig auftreten (z. B. Kundensupport).  
+**•	Charakter**: Proaktiv und allgemein – bietet standardisierte Antworten auf häufige Fragen.  
+**•	Beispiel**:  
+o	Frage: "Wie lange ist die Publikation gültig?"  
+o	Antwort: "Die Gültigkeit der Publikation beträgt 24 Monate ab Publikationsdatum"  
+o	  
+________________________________________________________________________________________________________________________________________________________________
+Hauptunterschiede
+Aspekt	Präzisierung	FAQ
+Zielsetzung	Klärung eines spezifischen Sachverhalts	Vorwegnehmen und Beantworten von Standardfragen, 
+Reaktiv/Proaktiv	Reaktiv – erfolgt auf Anfrage	Proaktiv – wird im Voraus erstellt
+Kontext	Individuell und situativ	Allgemein und für eine breite Zielgruppe und wiederkehrende Fragen
+Struktur	Ad-hoc und flexibel	Standardisiert und systematisch
+Beide Ansätze sind unterschiedliche Methoden der Informationsvermittlung: Präzisierungen reagieren auf spezifische Anforderungen, während FAQs allgemeine Fragen antizipieren und vorbeugend beantworten.
+
+
+{{</markdown>}}
+
 {{<collapsibleGroupCommand groupId="Kodierempfehlungen">}}
 
 {{<article number="1."  title="Endokarditis bei Herzklappenprothese" collapsibleClass="d-inline-block" groupId="Kodierempfehlungen">}}
