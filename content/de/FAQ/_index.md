@@ -34,18 +34,18 @@ ________________________________________________________________________________
 **•	Ziel**: Unklarheiten oder Missverständnisse aufzulösen, indem Details präzisiert oder Begriffe genau definiert werden  Eine unklare oder allgemeine Aussage wird konkretisiert, damit sie eindeutiger und präziser verstanden werden kann.  
 **•	Anwendungsbereich**: In der individuellen Kommunikation oder Dokumentation, um spezifische Informationen oder Details zu klären. Beispielsweise in Dokumenten, Verträgen oder Texten, wenn allgemeine Aussagen genauer spezifiziert werden müssen.  
 **•	Beispiel**:  
- o	Ursprüngliche Aussage: "Das Regelung hat eine lange Gültigkeit."  
- o	Präzisierung: "Die Gültigkeit der Regelung beträgt 24 Monate."  
+o	Ursprüngliche Aussage: "Das Regelung hat eine lange Gültigkeit."  
+o	Präzisierung: "Die Gültigkeit der Regelung beträgt 24 Monate."  
 ________________________________________________________________________________________________________________________________________________________________
 **2. FAQ (Frequently Asked Questions)**  
 **•	Zweck**: Wiederkehrende Fragen und deren standardisierten Antworten zu einem Thema werden gesammelt und publiziert, um Informationslücken proaktiv zu schliessen und Unsicherheiten vorwegzunehmen.  
 **•	Anwendung**:  
- o	Auf Websites, in Bedienungsanleitungen oder anderen Ressourcen, die sich an ein breites Publikum richten.  
- o	In Bereichen, in denen ähnliche Fragen regelmässig auftreten (z. B. Kundensupport).  
+o	Auf Websites, in Bedienungsanleitungen oder anderen Ressourcen, die sich an ein breites Publikum richten.  
+o	In Bereichen, in denen ähnliche Fragen regelmässig auftreten (z. B. Kundensupport).  
 **•	Charakter**: Proaktiv und allgemein – bietet standardisierte Antworten auf häufige Fragen.  
 **•	Beispiel**:  
- o	Frage: "Wie lange ist die Publikation gültig?"  
- o	Antwort: "Die Gültigkeit der Publikation beträgt 24 Monate ab Publikationsdatum"  
+o	Frage: "Wie lange ist die Publikation gültig?"  
+o	Antwort: "Die Gültigkeit der Publikation beträgt 24 Monate ab Publikationsdatum"  
   
 ________________________________________________________________________________________________________________________________________________________________
 
