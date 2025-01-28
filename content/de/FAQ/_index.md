@@ -137,27 +137,27 @@ Beide Ansätze sind unterschiedliche Methoden der Informationsvermittlung: Präz
     <th colspan="3">Hauptunterschiede</th>
   </tr>
   <tr>
-    <th>Aspekt</th>
+    <th><strong>Aspekt</strong></th>
     <th>Präzisierung</th>
     <th>FAQ</th>
   </tr>
   <tr>
-    <td>Zielsetzung</td>
+    <td><strong>Zielsetzung</strong></td>
     <td>Klärung eines spezifischen Sachverhalts</td>
     <td>Vorwegnehmen und Beantworten von Standardfragen</td>
   </tr>
   <tr>
-    <td>Reaktiv/Proaktiv</td>
+    <td><strong>Reaktiv/Proaktiv</strong></td>
     <td>Reaktiv – erfolgt auf Anfrage</td>
     <td>Proaktiv – wird im Voraus erstellt</td>
   </tr>
   <tr>
-    <td>Kontext</td>
+    <td><strong>Kontext</strong></td>
     <td>Individuell und situativ</td>
     <td>Allgemein und für eine breite Zielgruppe und wiederkehrende Fragen</td>
   </tr>
   <tr>
-    <td>Struktur</td>
+    <td><strong>Struktur</strong></td>
     <td>Ad-hoc und flexibel</td>
     <td>Standardisiert und systematisch</td>
   </tr>
@@ -167,6 +167,45 @@ Beide Ansätze sind unterschiedliche Methoden der Informationsvermittlung: Präz
     </td>
   </tr>
 </table>
+
+
+
+<table border="1" style="border-collapse: collapse;">
+  <tr>
+    <th colspan="3" style="border: 1px solid black;">Hauptunterschiede</th>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;"><strong>Aspekt</strong></th>
+    <th style="border: 1px solid black;">Präzisierung</th>
+    <th style="border: 1px solid black;">FAQ</th>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black;"><strong>Zielsetzung</strong></td>
+    <td style="border: 1px solid black;">Klärung eines spezifischen Sachverhalts</td>
+    <td style="border: 1px solid black;">Vorwegnehmen und Beantworten von Standardfragen</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black;"><strong>Reaktiv/Proaktiv</strong></td>
+    <td style="border: 1px solid black;">Reaktiv – erfolgt auf Anfrage</td>
+    <td style="border: 1px solid black;">Proaktiv – wird im Voraus erstellt</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black;"><strong>Kontext</strong></td>
+    <td style="border: 1px solid black;">Individuell und situativ</td>
+    <td style="border: 1px solid black;">Allgemein und für eine breite Zielgruppe und wiederkehrende Fragen</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black;"><strong>Struktur</strong></td>
+    <td style="border: 1px solid black;">Ad-hoc und flexibel</td>
+    <td style="border: 1px solid black;">Standardisiert und systematisch</td>
+  </tr>
+  <tr>
+    <td colspan="3" style="border: 1px solid black;">
+      Beide Ansätze sind unterschiedliche Methoden der Informationsvermittlung: Präzisierungen reagieren auf spezifische Anforderungen, während FAQs allgemeine Fragen antizipieren und vorbeugend beantworten.
+    </td>
+  </tr>
+</table>
+
 
 
 {{<collapsibleGroupCommand groupId="Kodierempfehlungen">}}
