@@ -88,14 +88,11 @@ ________________________________________________________________________________
 </table>
 
 
-{{<markdown>}}
-
 
 {{<collapsibleGroupCommand groupId="Kodierempfehlungen">}}
 
 {{<article number="1."  title="Endokarditis bei Herzklappenprothese" collapsibleClass="d-inline-block" groupId="Kodierempfehlungen">}}
 
-{{</markdown>}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
