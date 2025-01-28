@@ -46,7 +46,7 @@ o	In Bereichen, in denen ähnliche Fragen regelmässig auftreten (z. B. Kundensu
 **•	Beispiel**:  
 o	Frage: "Wie lange ist die Publikation gültig?"  
 o	Antwort: "Die Gültigkeit der Publikation beträgt 24 Monate ab Publikationsdatum"  
-o	  
+  
 ________________________________________________________________________________________________________________________________________________________________
 Hauptunterschiede
 Aspekt	Präzisierung	FAQ
@@ -58,6 +58,22 @@ Beide Ansätze sind unterschiedliche Methoden der Informationsvermittlung: Präz
 
 
 {{</markdown>}}
+
+<table>
+  
+  <caption>Comparatif des formules d'abonnement</caption>
+
+<tr> <th>Abonnement</th> <th>Durée</th> <th>Prix</th> </tr>
+
+<tr> <td>Chaton</td> <td>2 mois</td> <td>40 €</td> </tr>
+
+<tr> <td>Elan</td> <td>6 mois</td> <td>110 €</td> </tr>
+
+<tr> <td>Licorne</td> <td>12 mois</td> <td>200 €</td> </tr>
+
+</table>
+
+
 
 {{<collapsibleGroupCommand groupId="Kodierempfehlungen">}}
 
