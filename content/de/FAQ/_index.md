@@ -96,9 +96,6 @@ ________________________________________________________________________________
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th colspan="2" style="border: 1px solid black;">Beispiel FAQ</th>
-  </tr>
-  <tr>
     <th style="border: 1px solid black;">Schlagwort</th>
     <td style="border: 1px solid black;">Endokarditis bei Herzklappenprothese</td>
   </tr>
