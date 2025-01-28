@@ -140,15 +140,12 @@ Ist kein diagnostisch bestätigter Zusammenhang zwischen der Herzklappenprothese
 
 
 
-
-
-
-{{<article number="2."  title="Kodierempfehlung Endoleak" collapsibleClass="d-inline-block" groupId="Kodierempfehlungen">}}
+{{<article number="3."  title="Kodierempfehlung Liegetrauma" collapsibleClass="d-inline-block" groupId="Kodierempfehlungen">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Einteilung Endoleaks</td>
+    <td style="border: 1px solid black;">Liegetrauma</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Erstellt</th>
@@ -160,7 +157,7 @@ Ist kein diagnostisch bestätigter Zusammenhang zwischen der Herzklappenprothese
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
-    <td style="border: 1px solid black;">T82.5/ I71.-</td>
+    <td style="border: 1px solid black;">T79.6-</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">CHOP</th>
@@ -174,40 +171,249 @@ Ist kein diagnostisch bestätigter Zusammenhang zwischen der Herzklappenprothese
 
 {{<markdown>}}
   
-**Problem:**
-Wie wird ein Endoleak nach endovaskulärer Versorgung (EVAR) eines Aortenaneurysmas abgebildet werden?
+**Frage:**
+Wie wird ein Liegetrauma nach Sturz kodiert? 
   
 **Erläuterung:**
-Ein Endoleak ist ein Leck zwischen der Gefäßprothese und dem Aneurysmasack nach der endovaskulären Versorgung (EVAR) eines Aortenaneurysmas.  
-
-Ein Endoleak **Typ I** entsteht durch eine unzureichende Abdichtung an der Ansatzstelle des Grafts.
-
-Beim Endoleak **Typ II** wird der Aneurysmasack durch einen Seitenast mit Blut gefüllt. Man unterscheidet zwischen: 
-**Typ IIa**: einzelnes zuführendes Blutgefäß 
-**Typ IIb**: mehrere zuführende Blutgefäße
-
-Ein Endoleak **Typ III** entsteht durch mechanisches Versagen des Stentgrafts: 
-**Typ IIIa**: Verbindung zwischen modularen Komponenten gelöst 
-**Typ IIIb**: Bruch oder Löcher im Stentgraft
-
-Endoleaks vom **Typ IV** treten auf, wenn aufgrund der Porosität des Transplantats Blut austritt.  
-
-Ein Endoleak **Typ V** wird auch als Endotension bezeichnet. In diesem Fall zeigt sich eine im Verlauf fortgesetzte Expansion des Aneurysmasackes > 5 mm ohne nachweisbare Endoleckage.  
+Der Begriff Liegetrauma beschreibt körperliche Schäden durch den plötzlichen Ausfall der selbstständigen Mobilität. Durch langes Liegen auf einer Stelle kommt es an den Auflagestellen durch den Druck zu einer Muskelischämie. Hieraus kann eine Rhabdomyolyse entstehen. Abbaustoffe im Blut und zerfallende Muskelmasse können in erheblichem Ausmass Organe schädigen, es kann z.B. zu Nieren- und Lungenversagen kommen.
   
 **Kodierempfehlung:**
-**Typ 1**: Kode: T82.5 Mechanische Komplikation durch sonstige Geräte und Implantate im Herzen und in den Gefäßen,
+Der ICD-10-Kode T79.6, Traumatische Muskelischämie, steht für die traumatische Muskelischämie. Dieser Kode wird verwendet, um eine Muskelischämie zu beschreiben, die als Folge eines Traumas auftritt. Ein Trauma bezeichnet eine Schädigung oder Verletzung des lebenden Gewebes, die durch äußere Gewalteinwirkung entsteht.   
+Im Fall eines Liegetraumas nach Sturz, empfehlen wir die Kodierung von T79.6- Traumatische Muskelischämie. 
+Bei Vorliegen einer akuten Niereninsuffizienz und/oder sonstiger Organmanifestationen müssen die  KR G52 Die Hauptdiagnose und G54 Die Nebendiagnosen, berücksichtigt werden. 
 
-**Typ IIa/ IIb**: Kode: I71.- Aneurysma der Aorta- (da keine Komplikation des Grafts)  
+ 
+{{</markdown>}}
 
-**Typ IIIa/ IIIb**: Kode: T82.5 Mechanische Komplikation durch sonstige Geräte und Implantate im Herzen und in den Gefäßen.
+{{</article>}}
 
-**Typ IV: Kode**: T82.5 Mechanische Komplikation durch sonstige Geräte und Implantate im Herzen und in den Gefäßen
 
-**Typ V**: Kode: I71.-  Aneurysma der Aorta - (da keine Komplikation des Grafts)     
+
+
+
+
+
+
+
+
+{{<article number="4."  title="Kodierempfehlung Hydatidenzyste, zystische Echinokokkose" collapsibleClass="d-inline-block" groupId="Kodierempfehlungen">}}
+
+<table border="1" style="border-collapse: collapse;">
+  <tr>
+    <th style="border: 1px solid black;">Schlagwort</th>
+    <td style="border: 1px solid black;">Hydatidenzyste, zystische Echinokokkose</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Erstellt</th>
+    <td style="border: 1px solid black;">04.01.2025</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Aktualisiert</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">ICD</th>
+    <td style="border: 1px solid black;">B67.0†/ K77.0*</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">CHOP</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Kodierregel</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+</table>
+
+{{<markdown>}}
+  
+**Frage:**
+Wie wird eine Hydatidenzyste, zystische Echinokokkose abgebildet?
+  
+**Erläuterung:**
+Im alphabetischen ICD -10- GM 2024 wird bei Echinokkose, Leber, zystisch, auf B67.0† Echinococcus-granulosus-Infektion [zystische Echinokokkose] der Leber, mit 
+K77.0* * Leberkrankheiten bei anderenorts klassifizierten infektiösen und parasitären Krankheiten verwiesen.
+
+Bei Echinococcus, Zyste, durch Hydatiden, Leber, verweist der alphabet. Index auf B67.0 Echinococcus-granulosus-Infektion [zystische Echinokokkose] der Leber
+In der ICD wird unterschieden zwischen Hydatidenzyste in der Leber mit oder ohne Infektion des umliegenden Lebergewebes.
+  
+**Kodierempfehlung:**
+Ist die Hydatidenzyste blande gekapselt, kann ausgeschält werden und liegt keine Entzündung des umliegenden Lebergewebes vor, soll B67.0 Echinococcus-granulosus-Infektion [zystische Echinokokkose] der Leber, kodiert werden. Es wird kein Sterncode erfasst.
+Finden sich auch im umliegenden Gewebe Echinokokkusbestandteile und dadurch hervorgerufen eine Entzündungsreaktion, soll K77.0* Leberkrankheiten bei anderenorts klassifizierten infektiösen und parasitären Krankheiten zusätzlich kodiert werden.
   
 {{</markdown>}}
 
 {{</article>}}
+
+
+
+
+
+
+
+
+{{<article number="5."  title="Kodierempfehlung Herpes zoster " collapsibleClass="d-inline-block" groupId="Kodierempfehlungen">}}
+
+<table border="1" style="border-collapse: collapse;">
+  <tr>
+    <th style="border: 1px solid black;">Schlagwort</th>
+    <td style="border: 1px solid black;">Liegetrauma</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Erstellt</th>
+    <td style="border: 1px solid black;">03.01.2025</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Aktualisiert</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">ICD</th>
+    <td style="border: 1px solid black;">T79.6- Traumatische Muskelischämie</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">CHOP</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Kodierregel</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+</table>
+
+{{<markdown>}}
+  
+**Frage:**
+Wie wird ein Liegetrauma nach Sturz kodiert? 
+  
+**Erläuterung:**
+Der Begriff Liegetrauma beschreibt körperliche Schäden durch den plötzlichen Ausfall der selbstständigen Mobilität. Durch langes Liegen auf einer Stelle kommt es an den Auflagestellen durch den Druck zu einer Muskelischämie. Hieraus kann eine Rhabdomyolyse entstehen. Abbaustoffe im Blut und zerfallende Muskelmasse können in erheblichem Ausmass Organe schädigen, es kann z.B. zu Nieren- und Lungenversagen kommen.
+  
+**Kodierempfehlung:**
+Der ICD-10-Kode T79.6, Traumatische Muskelischämie, steht für die traumatische Muskelischämie. Dieser Kode wird verwendet, um eine Muskelischämie zu beschreiben, die als Folge eines Traumas auftritt. Ein Trauma bezeichnet eine Schädigung oder Verletzung des lebenden Gewebes, die durch äußere Gewalteinwirkung entsteht.   
+Im Fall eines Liegetraumas nach Sturz, empfehlen wir die Kodierung von T79.6- Traumatische Muskelischämie. 
+Bei Vorliegen einer akuten Niereninsuffizienz und/oder sonstiger Organmanifestationen müssen die  KR G52 Die Hauptdiagnose und G54 Die Nebendiagnosen, berücksichtigt werden. 
+  
+{{</markdown>}}
+
+{{</article>}}
+
+
+
+
+
+
+
+
+
+
+{{<article number="6."  title="Kodierempfehlung MRE Träger" collapsibleClass="d-inline-block" groupId="Kodierempfehlungen">}}
+
+<table border="1" style="border-collapse: collapse;">
+  <tr>
+    <th style="border: 1px solid black;">Schlagwort</th>
+    <td style="border: 1px solid black;">MRE Träger/Infektion/Verdacht</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Erstellt</th>
+    <td style="border: 1px solid black;">03.01.2025</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Aktualisiert</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">ICD</th>
+    <td style="border: 1px solid black;">Z22.- /U80.-! - U85!/ B95!-B98!</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">CHOP</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Kodierregel</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+</table>
+
+{{<markdown>}}
+  
+**Frage:**
+Wie werden Träger von MRE / Verdachtsfälle mit und ohne Erregernachweis kodiert?
+  
+**Erläuterung:**
+Gemäss der Kodierregel **D04** dienen Kodes mit Ausrufezeichen der Spezifizierung eines vorher stehenden, nicht mit einem Ausrufezeichen markierten Kodes oder beschreiben die Umstände einer Krankheit, Verletzung, Vergiftung oder Komplikation. 
+In der Kombination mit den entsprechenden Kodes der Kategorie Z22.- Keimträger von Infektionskrankheiten Inkl.:Verdachtsfälle, spezifizieren sie den Keim näher, der im vorher stehenden Kode nicht angegeben wird. Diese Präzisierungen sind, sofern zutreffend, obligatorisch anzugeben.  
+Zudem ist bei der Angabe dieser Kodes die Kodierregel G54 zu berücksichtigen. Diese Kodes werden nur kodiert, wenn sie mit einem medizinischen Aufwand > 0 verbunden sind. D.h. es muss eine diagnostische und/oder pflegerische Massnahme getroffen worden oder ein erhöhter Betreuungs-, Pflege- und/oder Überwachungsaufwand damit verbunden sein, welche dokumentiert sind. 
+  
+**Kodierempfehlung:**
+Bei Verdacht auf eine bestehende Besiedelung durch MRE ist bei dokumentiertem Aufwand > 0, (z.B. Isolationsmassnahmen) entsprechend den Hinweisen zu Kapitel XXI der ICD-10-GM, Z22.- Keimträger von Infektionskrankheiten inkl. :Verdachtsfälle,  zu kodieren in Verbindung mit U80.-! - U85! 
+  
+Bis zum Zeitpunkt, an dem drei hintereinander negative Abstich-Tests pro Lokalisation vorliegen, gilt der Patient weiterhin als MRE positiv.  
+  
+Bei asymptomatischen Keimträgern mit Erregernachweis ohne diesbezügliche Erkrankung und ohne entsprechende Therapie, (z.B. Antibiotika) werden Kodes der Kategorie «Bakterien, Viren und sonstige Infektionserreger als Ursache von Krankheiten, die in anderen Kapiteln klassifiziert sind (B95-B98)» nicht zusätzlich erfasst. 
+  
+{{</markdown>}}
+
+{{</article>}}
+
+
+
+
+
+
+
+
+
+
+
+
+{{<article number="7."  title="Kodierempfehlung Fraktur/en bei Osteoporose" collapsibleClass="d-inline-block" groupId="Kodierempfehlungen">}}
+
+<table border="1" style="border-collapse: collapse;">
+  <tr>
+    <th style="border: 1px solid black;">Schlagwort</th>
+    <td style="border: 1px solid black;">Osteoporotische Frakturen Wirbelsäule, Lokalisation</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Erstellt</th>
+    <td style="border: 1px solid black;">03.01.2025</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Aktualisiert</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">ICD</th>
+    <td style="border: 1px solid black;">M80.- M49.5-</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">CHOP</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Kodierregel</th>
+    <td style="border: 1px solid black;">D12</td>
+  </tr>
+</table>
+
+{{<markdown>}}
+  
+**Frage:**
+Soll bei einer osteoporotischen Sinterungsfraktur der Wirbelsäule zusätzlich ein Kode für die Lokalisation, M49.5-* Wirbelkörperkompression bei anderenorts klassifizierten Krankheiten, abgebildet werden?
+
+**Erläuterung:**
+Der Kode M80.98 - Nicht näher bezeichnete Osteoporose mit pathologischer Fraktur: Sonstige [Hals, Kopf, Rippen, Rumpf, Schädel, Wirbelsäule], beinhaltet als Lokalisation die Wirbelsäule. 
+Zudem findet sich unter M80.- der Hinweis: “Inkl.:Osteoporotische Wirbelkörperkompression und Keilwirbel”
+
+**Kodierempfehlung:**
+Eine osteoporotische Sinterungsfraktur der Wirbelsäule wird mit M80.98 Nicht näher bezeichnete Osteoporose mit pathologischer Fraktur: Sonstige [Hals, Kopf, Rippen, Rumpf, Schädel, Wirbelsäule] abgebildet. Eine weitere Präzisierung der Lokalisation ist nicht notwendig und von der ICD-10 GM auch nicht vorgegeben.
+  
+{{</markdown>}}
+
+{{</article>}}
+
+
 
 
 
