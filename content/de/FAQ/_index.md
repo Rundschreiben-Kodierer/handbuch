@@ -97,6 +97,39 @@ Beide Ansätze sind unterschiedliche Methoden der Informationsvermittlung: Präz
 </table>
 
 
+<table border="1">
+  <tr>
+    <th>Aspekt</th>
+    <th>Präzisierung</th>
+    <th>FAQ</th>
+  </tr>
+  <tr>
+    <td>Zielsetzung</td>
+    <td>Klärung eines spezifischen Sachverhalts</td>
+    <td>Vorwegnehmen und Beantworten von Standardfragen</td>
+  </tr>
+  <tr>
+    <td>Reaktiv/Proaktiv</td>
+    <td>Reaktiv – erfolgt auf Anfrage</td>
+    <td>Proaktiv – wird im Voraus erstellt</td>
+  </tr>
+  <tr>
+    <td>Kontext</td>
+    <td>Individuell und situativ</td>
+    <td>Allgemein und für eine breite Zielgruppe und wiederkehrende Fragen</td>
+  </tr>
+  <tr>
+    <td>Struktur</td>
+    <td>Ad-hoc und flexibel</td>
+    <td>Standardisiert und systematisch</td>
+  </tr>
+  <tr>
+    <td colspan="3">
+      Beide Ansätze sind unterschiedliche Methoden der Informationsvermittlung: Präzisierungen reagieren auf spezifische Anforderungen, während FAQs allgemeine Fragen antizipieren und vorbeugend beantworten.
+    </td>
+  </tr>
+</table>
+
 
 {{<collapsibleGroupCommand groupId="Kodierempfehlungen">}}
 
