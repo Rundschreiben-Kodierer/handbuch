@@ -138,3 +138,76 @@ Ist kein diagnostisch bestätigter Zusammenhang zwischen der Herzklappenprothese
 
 {{</article>}}
 
+
+
+
+
+
+{{<article number="2."  title="Kodierempfehlung Endoleak" collapsibleClass="d-inline-block" groupId="Kodierempfehlungen">}}
+
+<table border="1" style="border-collapse: collapse;">
+  <tr>
+    <th style="border: 1px solid black;">Schlagwort</th>
+    <td style="border: 1px solid black;">Einteilung Endoleaks</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Erstellt</th>
+    <td style="border: 1px solid black;">03.01.2025</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Aktualisiert</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">ICD</th>
+    <td style="border: 1px solid black;">T82.5/ I71.-</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">CHOP</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Kodierregel</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+</table>
+
+{{<markdown>}}
+  
+**Problem:**
+Wie wird ein Endoleak nach endovaskulärer Versorgung (EVAR) eines Aortenaneurysmas abgebildet werden?
+  
+**Erläuterung:**
+Ein Endoleak ist ein Leck zwischen der Gefäßprothese und dem Aneurysmasack nach der endovaskulären Versorgung (EVAR) eines Aortenaneurysmas.  
+
+Ein Endoleak **Typ I** entsteht durch eine unzureichende Abdichtung an der Ansatzstelle des Grafts.
+
+Beim Endoleak **Typ II** wird der Aneurysmasack durch einen Seitenast mit Blut gefüllt. Man unterscheidet zwischen: 
+**Typ IIa**: einzelnes zuführendes Blutgefäß 
+**Typ IIb**: mehrere zuführende Blutgefäße
+
+Ein Endoleak **Typ III** entsteht durch mechanisches Versagen des Stentgrafts: 
+**Typ IIIa**: Verbindung zwischen modularen Komponenten gelöst 
+**Typ IIIb**: Bruch oder Löcher im Stentgraft
+
+Endoleaks vom **Typ IV** treten auf, wenn aufgrund der Porosität des Transplantats Blut austritt.  
+
+Ein Endoleak **Typ V** wird auch als Endotension bezeichnet. In diesem Fall zeigt sich eine im Verlauf fortgesetzte Expansion des Aneurysmasackes > 5 mm ohne nachweisbare Endoleckage.  
+  
+**Kodierempfehlung:**
+**Typ 1**: Kode: T82.5 Mechanische Komplikation durch sonstige Geräte und Implantate im Herzen und in den Gefäßen,
+
+**Typ IIa/ IIb**: Kode: I71.- Aneurysma der Aorta- (da keine Komplikation des Grafts)  
+
+**Typ IIIa/ IIIb**: Kode: T82.5 Mechanische Komplikation durch sonstige Geräte und Implantate im Herzen und in den Gefäßen.
+
+**Typ IV: Kode**: T82.5 Mechanische Komplikation durch sonstige Geräte und Implantate im Herzen und in den Gefäßen
+
+**Typ V**: Kode: I71.-  Aneurysma der Aorta - (da keine Komplikation des Grafts)     
+  
+{{</markdown>}}
+
+{{</article>}}
+
+
+
