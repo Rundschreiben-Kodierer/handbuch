@@ -61,7 +61,7 @@ Beide Ansätze sind unterschiedliche Methoden der Informationsvermittlung: Präz
 
 <table>
   
-  <caption>Comparatif des formules d'abonnement</caption>
+<caption>Comparatif des formules d'abonnement</caption>
 
 <tr> <th>Abonnement</th> <th>Durée</th> <th>Prix</th> </tr>
 
@@ -70,6 +70,24 @@ Beide Ansätze sind unterschiedliche Methoden der Informationsvermittlung: Präz
 <tr> <td>Elan</td> <td>6 mois</td> <td>110 €</td> </tr>
 
 <tr> <td>Licorne</td> <td>12 mois</td> <td>200 €</td> </tr>
+
+</table>
+
+
+
+<table>
+  
+<caption>Hauptunterschiede</caption>
+
+<tr> <th><strong>Aspekt</strong></th> <th>Präzisierung</th> <th>FAQ</th> </tr>
+
+<tr> <td><strong>Zielsetzung</strong></td> <td>2 mois</td> <td>40 €</td> </tr>
+
+<tr> <td><strong>Reaktiv/Proaktiv</strong></td> <td>6 mois</td> <td>110 €</td> </tr>
+
+<tr> <td><strong>Kontext</strong></td> <td>12 mois</td> <td>200 €</td> </tr>
+
+<tr> <td><strong>Struktur</strong></td> <td>12 mois</td> <td>200 €</td> </tr>
 
 </table>
 
