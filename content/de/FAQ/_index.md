@@ -417,3 +417,286 @@ Eine osteoporotische Sinterungsfraktur der Wirbelsäule wird mit M80.98 Nicht n�
 
 
 
+
+{{<article number="8."  title="Kodierempfehlung Sakrumfraturen" collapsibleClass="d-inline-block" groupId="Kodierempfehlungen">}}
+
+<table border="1" style="border-collapse: collapse;">
+  <tr>
+    <th style="border: 1px solid black;">Schlagwort</th>
+    <td style="border: 1px solid black;">Os sacrum-Fraktur, Sakrumfraktur, transileosakrale Verschraubung, Arthrodese am Iliosakralgelenk</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Erstellt</th>
+    <td style="border: 1px solid black;">14.01.2025</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Aktualisiert</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">ICD</th>
+    <td style="border: 1px solid black;">7A.49/ 81.29.10/ 7A.73.11</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">CHOP</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Kodierregel</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+</table>
+
+{{<markdown>}}
+  
+**Frage:**
+Wie wird eine transileosakrale Verschraubung einer Os sacrum Fraktur kodiert?
+
+**Erläuterung:**
+Es wird unterschieden zwischen einfachen transalaren Sakrumfrakturen mit stabiler Wirbelsäule und Os sacrum Frakturen, die zu einer Instabilität der Wirbelsäule führen.
+
+**Kodierempfehlung:**
+Bei einfachen transalaren Sakrumfrakturen (z. B. im Rahmen einer osteoporotischen Fraktur) mit stabiler Wirbelsäule ist der Kode 7A.49 «_Osteosynthese einzelner Wirbel, Kyphoplastie oder Vertebroplastie, sonstige_» gefolgt von 81.29.10 «_Arthrodese am Iliosakralgelenk_» zu kodieren. Bei Os sacrum Frakturen, die zu einer Instabilität der Wirbelsäule führen (meist im Rahmen eines Polytraumas auftretend), ist bei dorsalem/dorsolateralem (inkl. perkutanem) Zugang der 7A.73.11 «_Nicht-dynamische Stabilisierung der Wirbelsäule durch Osteosynthese ohne Fusion der Wirbel, Zugang dorsal und dorsolateral, 1 Segment_» gefolgt von 81.29.10 «_Arthrodese am Iliosakralgelenk_» zu kodieren.
+
+{{</markdown>}}
+
+{{</article>}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{<article number="9."  title="Kodierempfehlung Spondylodese" collapsibleClass="d-inline-block" groupId="Kodierempfehlungen">}}
+
+<table border="1" style="border-collapse: collapse;">
+  <tr>
+    <th style="border: 1px solid black;">Schlagwort</th>
+    <td style="border: 1px solid black;">Spondylodese/ Osteosynthese/ Fusion Wirbelsäule</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Erstellt</th>
+    <td style="border: 1px solid black;">04.01.2025</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Aktualisiert</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">ICD</th>
+    <td style="border: 1px solid black;">7A.71.- 7A73.-</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">CHOP</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Kodierregel</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+</table>
+
+{{<markdown>}}
+  
+**Frage:**
+Wie werden Spondylodesen/Fusionen der Wirbelsäule mit und ohne Knochenersatzmaterialien abgebildet?
+
+**Erläuterung:**
+Eine Spondylodese ist eine spezielle Art der Osteosynthese, die auf die dauerhafte, irreversible **knöcherne** Fusion von Wirbeln abzielt. Eine Spondylodese, gemäss CHOP-Kode 7A.71-, liegt nur bei Verwendung von Knochenersatzmaterialien oder Knochentransplantaten vor, nicht bei Osteosynthesen durch alleinige Instrumentierung. 
+
+Auch wenn mit einer Osteosynthese durch alleinige Instrumentierung eine absolute Stabilität erreicht werden kann, solange keine Materialentfernung erfolgt, findet keine knöcherne Fusion statt.
+
+**Kodierempfehlung:**
+Bei Verwendung von Knochenersatzmaterialien oder Knochentransplantaten wird die Fusion von Wirbeln, mit 7A.71.- Fusion von Wirbeln mit Stabilisierung der Wirbelsäule, abgebildet. 
+7A.73 Nicht-dynamische Stabilisierung der Wirbelsäule durch Osteosynthese ohne Fusion der Wirbel, wird kodiert, wenn keine knöcherne Fusion angestrebt wird und keine Knochenersatzmaterialien oder Knochentransplantate eingesetzt werden. 
+
+{{</markdown>}}
+
+{{</article>}}
+
+
+
+
+
+
+
+
+
+
+
+{{<article number="10."  title="Kodierempfehlung Carotisstenose bds/ Stenosen ein-oder beidseitiger präzerebraler Arterien" collapsibleClass="d-inline-block" groupId="Kodierempfehlungen">}}
+
+{{<article number="3."  title="Kodierempfehlung Liegetrauma" collapsibleClass="d-inline-block" groupId="Kodierempfehlungen">}}
+
+<table border="1" style="border-collapse: collapse;">
+  <tr>
+    <th style="border: 1px solid black;">Schlagwort</th>
+    <td style="border: 1px solid black;">Stenose/n präzerebraler Arterien</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Erstellt</th>
+    <td style="border: 1px solid black;">03.01.2025</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Aktualisiert</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">ICD</th>
+    <td style="border: 1px solid black;">I65.2/I65.3</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">CHOP</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Kodierregel</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+</table>
+
+{{<markdown>}}
+  
+**Frage:**
+Wie wird eine Carotisstenose bds erfasst? Wie werden ein- oder beidseitige Stenosen präzerebraler Arterien erfasst?
+
+**Erläuterung:**
+Die Arteria carotis interna (ACI) ist eine der beiden Hauptäste der Arteria carotis communis. Sie teilt sich nicht in zwei separate Arterien, sondern verläuft als eine einzelne Arterie, die sich in verschiedene Äste teilt, um das Gehirn, das Auge und andere Strukturen zu versorgen. 
+
+**Kodierempfehlung:**
+Grundsätzlich gilt: “Es ist so spezifisch wie möglich zu verschlüsseln, also derjenige Kode zu wählen, der für die dokumentierte Diagnose als der spezifischste Kode angesehen wird.”
+
+I65.2 “_Verschluss und Stenose der A. carotis_“ Dieser Kode mit der entsprechenden Seitenangabe wird verwendet, wenn es sich um eine einseitige oder beidseitige Stenose der A. carotis interna handelt.
+
+Der Kode I65.3 bezieht sich auf Verschlüsse und Stenosen von **verschiedenen** präzerebralen Arterien.
+
+I65.3  “_Verschluss und Stenose **mehrerer und** beidseitiger präzerebraler Arterien_” 
+Dieser Kode wird verwendet, wenn **mehrere** präzerebrale Arterien betroffen sind, einschließlich beidseitiger Stenosen der A. carotis interna **und** anderer präzerebraler Arterien.
+
+Das 2. “und” im Kodetext zu I65.3 ist so zu verstehen, dass verschiedene präzerebrale Arterien von Verschlüssen oder Stenosen betroffen sein müssen, um diesen Kode abzubilden.
+
+{{</markdown>}}
+
+{{</article>}}
+
+
+
+
+
+
+
+
+
+
+{{<article number="11."  title="Kodierempfehlung Syndesmose" collapsibleClass="d-inline-block" groupId="Kodierempfehlungen">}}
+
+<table border="1" style="border-collapse: collapse;">
+  <tr>
+    <th style="border: 1px solid black;">Schlagwort</th>
+    <td style="border: 1px solid black;">Syndesmose-Naht/ Fixation/ Syndesmosen-TightRope®- Implantatsystem</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Erstellt</th>
+    <td style="border: 1px solid black;">04.01.2025</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Aktualisiert</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">ICD</th>
+    <td style="border: 1px solid black;">81.99.5C/ 81.94</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">CHOP</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Kodierregel</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+</table>
+
+{{<markdown>}}
+  
+**Frage:**
+Wie werden bei Ruptur der Syndesmose die Naht, die Fixation mit Schraube, das TightRope®- Implantatsystem abgebildet?
+
+**Erläuterung:**
+Die Syndesmose ist eine wichtige Bandverbindung zwischen dem Schienbein (Tibia) und dem Wadenbein (Fibula) im Sprunggelenk. Bei einer Verletzung oder Ruptur der Syndesmose können verschiedenen Techniken angewendet werden eingesetzt werden, um die Knochen wieder korrekt zu positionieren und zu stabilisieren.
+Als Arthrorise wird ein chirurgisches Verfahren bezeichnet, bei dem die Beweglichkeit eines Gelenks durch das Einsetzen eines Implantats eingeschränkt wird. Ziel ist es, die pathologische (krankhafte) Beweglichkeit eines Gelenks zu verhindern. 
+
+**Kodierempfehlung:**
+Fixation mit Schraube: 81.99.5C Arthrorise und Temporäre Fixation eines 
+Gelenkes, Oberes Sprunggelenk [L] 
+
+TightRope®- Implantatsystem: 81.99.5C Arthrorise und Temporäre Fixation eines 
+Gelenkes, Oberes Sprunggelenk [L] 
+
+Syndesmosenaht: 81.94 Naht an Kapsel oder Ligament von Sprunggelenk 
+oder Fuss [L] 
+
+{{</markdown>}}
+
+{{</article>}}
+
+
+
+
+
+
+
+
+
+
+{{<article number="12."  title="Kodierempfehlung Ulcus hypertonicum (Martorell)" collapsibleClass="d-inline-block" groupId="Kodierempfehlungen">}}
+
+<table border="1" style="border-collapse: collapse;">
+  <tr>
+    <th style="border: 1px solid black;">Schlagwort</th>
+    <td style="border: 1px solid black;">Kodierempfehlung Ulcus hypertonicum (Martorell)</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Erstellt</th>
+    <td style="border: 1px solid black;">11.01.2025</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Aktualisiert</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">ICD</th>
+    <td style="border: 1px solid black;">I10.-/ I15.-† L97/L98.8</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">CHOP</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Kodierregel</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+</table>
+
+{{<markdown>}}
+  
+**Frage:**
+Wie wird Ulcus (cruris) hypertonicum (Martorell abgebildet?
+
+**Erläuterung:**
+Beim Ulcus (cruris) hypertonicum handelt es sich um eine spezielle Form des Ulcus cruris, die vorwiegend am laterodorsalen Unterschenkel oder über der Achillessehne auftritt. Die meisten Betroffenen weisen einen markanten, langzeitig bestehenden Hypertonus auf, in ca. 60% der Fälle kombiniert mit einem Diabetes mellitus Typ 2. Zur Ätiologie des Ulcus hypertonicum gibt es drei Erklärungsansätze: die ischämisierende Arteriosklerose, die Mediakalzinose der pathologischen Arteriolen und die lokalen Entzündungsvorgänge. Die Arteriosklerose in der Subkutis steht für die Pathogenese der Hautnekrose dabei im Vordergrund. Auch wenn die Erkrankung pathogenetisch auf eine Arteriosklerose zurückzuführen ist, ist die eigentliche Grundursache die Hypertonie.
+
+**Kodierempfehlung:**
+Für das Ulcus hypertonicum (Martorell) empfehlen wir folgende Kodekombination: L97 «Ulcus cruris, anderenorts nicht klassifiziert» zusammen mit der Kreuz-Stern-Kombination aus dem zutreffenden Kode I10.-† bis I15.-† und L99.8* «_Sonstige näher bezeichnete Krankheiten der Haut und der Unterhaut bei anderenorts klassifizierten Krankheiten_». Durch diese Erfassung kann das Ulcus hypertonicum von anderen Ulcus cruris-Arten unterschieden werden.
+
+{{</markdown>}}
+
+{{</article>}}
+
