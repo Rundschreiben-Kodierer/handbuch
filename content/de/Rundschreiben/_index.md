@@ -27,6 +27,6 @@ Die bereits bekannte Gliederung der Kapitel 1 bis 5 bleibt erhalten, wird jedoch
 **Unveränderte Publikationszyklen**  
 Die bekannten Publikationszyklen des Rundschreibens Nr. 1 (Ende Juni des Jahres) und Nr. 2 (Ende Dezember des Jahres) bleiben vorerst unverändert bestehen.  
   
-Durch die digitale Weiterentwicklung wird das Rundschreiben nicht nur zeitgemäss und benutzerfreundlich gestaltet, sondern bietet auch zusätzliche Funktionen, die den Arbeitsalltag der Kodiererinnen und Kodierer erleichtern und die Übersichtlichkeit der Inhalte erhöhen.
+*Durch die digitale Weiterentwicklung wird das Rundschreiben nicht nur zeitgemäss und benutzerfreundlich gestaltet, sondern bietet auch zusätzliche Funktionen, die den Arbeitsalltag der Kodiererinnen und Kodierer erleichtern und die Übersichtlichkeit der Inhalte erhöhen.*
 
 
