@@ -49,6 +49,7 @@ o	Antwort: "Die Gültigkeit der Publikation beträgt 24 Monate ab Publikationsda
   
 ________________________________________________________________________________________________________________________________________________________________
 
+{{</markdown>}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
