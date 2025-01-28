@@ -51,12 +51,79 @@ ________________________________________________________________________________
 
 {{</markdown>}}
 
+<table border="1" style="border-collapse: collapse;">
+  <tr>
+    <th colspan="3" style="border: 1px solid black;">Hauptunterschiede</th>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;"><strong>Aspekt</strong></th>
+    <th style="border: 1px solid black;">Präzisierung</th>
+    <th style="border: 1px solid black;">FAQ</th>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black;"><strong>Zielsetzung</strong></td>
+    <td style="border: 1px solid black;">Klärung eines spezifischen Sachverhalts</td>
+    <td style="border: 1px solid black;">Vorwegnehmen und Beantworten von Standardfragen</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black;"><strong>Reaktiv/Proaktiv</strong></td>
+    <td style="border: 1px solid black;">Reaktiv – erfolgt auf Anfrage</td>
+    <td style="border: 1px solid black;">Proaktiv – wird im Voraus erstellt</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black;"><strong>Kontext</strong></td>
+    <td style="border: 1px solid black;">Individuell und situativ</td>
+    <td style="border: 1px solid black;">Allgemein und für eine breite Zielgruppe und wiederkehrende Fragen</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black;"><strong>Struktur</strong></td>
+    <td style="border: 1px solid black;">Ad-hoc und flexibel</td>
+    <td style="border: 1px solid black;">Standardisiert und systematisch</td>
+  </tr>
+  <tr>
+    <td colspan="3" style="border: 1px solid black;">
+      Beide Ansätze sind unterschiedliche Methoden der Informationsvermittlung: Präzisierungen reagieren auf spezifische Anforderungen, während FAQs allgemeine Fragen antizipieren und vorbeugend beantworten.
+    </td>
+  </tr>
+</table>
+
+
+{{<markdown>}}
+
 
 {{<collapsibleGroupCommand groupId="Kodierempfehlungen">}}
 
 {{<article number="1."  title="Endokarditis bei Herzklappenprothese" collapsibleClass="d-inline-block" groupId="Kodierempfehlungen">}}
 
-
+<table border="1" style="border-collapse: collapse;">
+  <tr>
+    <th colspan="2" style="border: 1px solid black;">Beispiel FAQ</th>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Schlagwort</th>
+    <td style="border: 1px solid black;">Endokarditis bei Herzklappenprothese</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Erstellt</th>
+    <td style="border: 1px solid black;">06.12.2024</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Aktualisiert</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">ICD</th>
+    <td style="border: 1px solid black;">T82.6, I33.0</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">CHOP</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Kodierregel</th>
+    <td style="border: 1px solid black;">D12</td>
+  </tr>
+</table>
 
 {{<markdown>}}
 **Problem:**
