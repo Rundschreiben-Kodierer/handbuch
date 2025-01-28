@@ -533,8 +533,6 @@ Bei Verwendung von Knochenersatzmaterialien oder Knochentransplantaten wird die 
 
 {{<article number="10."  title="Kodierempfehlung Carotisstenose bds/ Stenosen ein-oder beidseitiger präzerebraler Arterien" collapsibleClass="d-inline-block" groupId="Kodierempfehlungen">}}
 
-{{<article number="3."  title="Kodierempfehlung Liegetrauma" collapsibleClass="d-inline-block" groupId="Kodierempfehlungen">}}
-
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Schlagwort</th>
