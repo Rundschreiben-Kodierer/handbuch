@@ -95,6 +95,8 @@ ________________________________________________________________________________
 
 {{<article number="1."  title="Endokarditis bei Herzklappenprothese" collapsibleClass="d-inline-block" groupId="Kodierempfehlungen">}}
 
+{{</markdown>}}
+
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th colspan="2" style="border: 1px solid black;">Beispiel FAQ</th>
