@@ -7,15 +7,6 @@ type: docs
 keywords: []
 ---
 
----
-title: Informationen
-slug: Informationen
-description: "FAQ Informationen"
-weight: 440
-type: docs
-keywords: []
----
-
 {{<markdown>}}
 
 **Einführung des Register «FAQ» mit dem Rundschreiben 2025 Nr. 2 des Bundesamtes für Statistik – Fachbereich Medizinisch Klassifikationen**  
