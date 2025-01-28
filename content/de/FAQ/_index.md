@@ -76,18 +76,23 @@ Beide Ansätze sind unterschiedliche Methoden der Informationsvermittlung: Präz
 
 
 <table>
-  
-<caption>Hauptunterschiede</caption>
+
+<strong>Hauptunterschiede</strong>
+
+<caption><strong>Hauptunterschiede</strong></caption>
 
 <tr> <th><strong>Aspekt</strong></th> <th>Präzisierung</th> <th>FAQ</th> </tr>
 
-<tr> <td><strong>Zielsetzung</strong></td> <td>2 mois</td> <td>40 €</td> </tr>
+<tr> <td><strong>Zielsetzung</strong></td> <td>Klärung eines spezifischen Sachverhalts</td> <td>Vorwegnehmen und Beantworten von Standardfragen, </td> </tr>
 
-<tr> <td><strong>Reaktiv/Proaktiv</strong></td> <td>6 mois</td> <td>110 €</td> </tr>
+<tr> <td><strong>Reaktiv/Proaktiv</strong></td> <td>Reaktiv – erfolgt auf Anfrage</td> <td>Proaktiv – wird im Voraus erstellt</td> </tr>
 
-<tr> <td><strong>Kontext</strong></td> <td>12 mois</td> <td>200 €</td> </tr>
+<tr> <td><strong>Kontext</strong></td> <td>Individuell und situativ</td> <td>Allgemein und für eine breite Zielgruppe und wiederkehrende Fragen</td> </tr>
 
-<tr> <td><strong>Struktur</strong></td> <td>12 mois</td> <td>200 €</td> </tr>
+<tr> <td><strong>Struktur</strong></td> <td>Ad-hoc und flexibel</td> <td>Standardisiert und systematisch</td> </tr>
+
+Beide Ansätze sind unterschiedliche Methoden der Informationsvermittlung: Präzisierungen reagieren auf spezifische Anforderungen, während FAQs allgemeine Fragen antizipieren und vorbeugend beantworten.
+
 
 </table>
 
