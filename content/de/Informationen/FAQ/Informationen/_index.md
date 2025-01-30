@@ -1,7 +1,7 @@
 ---
 title: FAQ
 slug: FAQ
-description: " "
+description: FAQ
 weight: 10
 type: docs
 keywords: []
