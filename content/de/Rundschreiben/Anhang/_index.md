@@ -1,5 +1,5 @@
 ---
-title: "5. Anhang"
+title: 5. Anhang
 slug: RS2024_2
 description: "Informationen und Präzisierungen"
 weight: 440
