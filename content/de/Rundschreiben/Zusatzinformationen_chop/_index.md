@@ -1,5 +1,5 @@
 ---
-title: 3. Zusatzinformationen CHOP
+title: "3. Zusatzinformationen CHOP"
 slug: RS-ZusatzinformationCHOP
 description: "Zusatzinformationen zur chop 2024"
 weight: 440

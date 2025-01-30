@@ -1,5 +1,5 @@
 ---
-title: 2. Zusatzinformationen KHB
+title: "2. Zusatzinformationen KHB"
 slug: RS-ZusatzinformationKHB
 description: "Zusatzinformationen zum Kodierungshandbuch 2024"
 weight: 440

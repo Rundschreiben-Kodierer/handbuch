@@ -1,5 +1,5 @@
 ---
-title: 1. Allgemeines
+title: "1. Allgemeines"
 slug: RS-Allgemeines
 description: "Allgemeines"
 weight: 440
