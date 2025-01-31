@@ -1,5 +1,5 @@
 ---
-title: Rundschreiben 2025 Nr 1
+title: Rundschreiben
 slug: Rundschreiben
 description: "Rundschreiben"
 weight: 440
