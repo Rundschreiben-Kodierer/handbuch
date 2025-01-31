@@ -1,5 +1,5 @@
 ---
-title: toto
+title: Rundschreiben 2025 Nr 1
 slug: introduction
 description: "toto toto "
 keywords: []
