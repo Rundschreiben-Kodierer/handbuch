@@ -1,5 +1,5 @@
 ---
-title: Informationen
+title: FAQ
 slug: Informationen
 description: "Informationen"
 weight: 10
