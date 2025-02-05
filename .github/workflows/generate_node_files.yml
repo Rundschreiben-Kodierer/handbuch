@@ -14,6 +14,10 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
+      - name: Install 7-Zip
+        run: choco install 7zip
+        shell: pwsh
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
@@ -51,7 +55,7 @@ jobs:
           }
 
       - name: Create archive of node_modules and package-lock.json
-        run: zip -r node-files.zip node_modules package-lock.json
+        run: 7z a -tzip node-files.zip node_modules package-lock.json
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
