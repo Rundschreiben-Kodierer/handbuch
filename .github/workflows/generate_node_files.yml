@@ -19,13 +19,42 @@ jobs:
         with:
           node-version: ${{ env.NODE_VERSION }}
 
-      - name: Install NPM dependencies
+      - name: Enable Corepack (if needed)
+        run: corepack enable
+
+      - name: Verify Node and NPM versions
+        run: |
+          node -v
+          npm -v
+
+      - name: Clean install dependencies
         run: npm install
 
-      - name: Archive node_modules and package-lock.json
+      - name: Verify package-lock.json changes
+        run: |
+          git diff package-lock.json || echo "No changes detected"
+
+      - name: Attempt to rebuild npm bin links if .bin is missing
+        run: |
+          if (-Not (Test-Path "node_modules/.bin")) {
+            Write-Host ".bin directory missing, attempting to rebuild..."
+            npm rebuild
+          }
+
+      - name: Check node_modules/.bin after rebuild
+        run: |
+          if (Test-Path "node_modules/.bin") {
+            Write-Host ".bin directory successfully restored"
+          } else {
+            Write-Error ".bin directory is still missing!"
+            exit 1
+          }
+
+      - name: Create archive of node_modules and package-lock.json
+        run: tar -czvf node-files.tar.gz node_modules package-lock.json
+
+      - name: Upload archive
         uses: actions/upload-artifact@v4
         with:
           name: node-files
-          path: |
-            node_modules
-            package-lock.json
+          path: node-files.tar.gz
