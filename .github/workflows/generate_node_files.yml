@@ -51,10 +51,10 @@ jobs:
           }
 
       - name: Create archive of node_modules and package-lock.json
-        run: tar -czvf node-files.tar.gz node_modules package-lock.json
+        run: zip -r node-files.zip node_modules package-lock.json
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
         with:
           name: node-files
-          path: node-files.tar.gz
+          path: node-files.zip
