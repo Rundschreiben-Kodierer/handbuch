@@ -12,6 +12,13 @@
     align-items: baseline;
     font-size: 1em;
 
+    .article-header-group{
+        display: inline-flex;
+        align-items: baseline;
+        white-space: nowrap;
+        position: relative;
+    }
+
     .article-number {
         margin-right: 40px;
         min-width: 60px;
@@ -59,27 +66,26 @@
     }
 }
 
-.article-header .crossed-out-text {
-    position: relative;
+.article-header .crossed-out-text .article-header-group {
+    color: red; /* Color of the crossed out text */
 }
-  
-.article-header .crossed-out-text::after {
+
+.article-header .crossed-out-text .article-header-group::after {
     content: '';
     position: absolute;
     top: 50%; /* Center the crossed out line */
-    left: 0;
-    right: 0;
     height: 1px; /* Height of the line */
     background-color: red; /* Color of the crossed out text */
     transform: translateY(-50%); /* Center verticaly */
     width: 100%; /* Take all the width of the container */
     z-index: -1; /* Put the line behind the other elements */
 }
-  
-.article-header .crossed-out-text .article-number,
-.article-header .crossed-out-text .article-date,
+
+/* Specific class for title to allow this part to be crossed out on multiple lines */
 .article-header .crossed-out-text .article-title {
-    display: inline-block;
-    color: red; /* Color of the crossed out text */
-    position: relative;
+    color: red;
+    text-decoration: line-through;
+    text-decoration-thickness: 1px;
+    text-decoration-color: red;
+    text-decoration-skip-ink: none;
 }
