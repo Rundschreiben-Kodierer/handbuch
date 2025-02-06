@@ -37,7 +37,8 @@
             "th",
             "br",
             "strong",
-            "pul"
+            "pul",
+            "printButton"
         ]
     }
 }

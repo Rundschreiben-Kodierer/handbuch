@@ -1,0 +1,5 @@
+{{ $buttonText := .Get "text" | default (T "print_button_text") }}
+<button id="print-button" class="btn-primary" onclick="printAllArticles()">
+  <i class="fa fa-print"></i>
+  {{ $buttonText }}
+</button>

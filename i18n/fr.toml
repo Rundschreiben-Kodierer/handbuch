@@ -21,5 +21,7 @@ other = "Tout fermer"
 other = "Cliquez ici pour développer/réduire"
 [collapsible_group_command_click_to_expand_collapse_all_tooltip_text]
 other = "Cliquez ici pour tout développer/réduire"
+[print_button_text]
+other = "Imprimer"
 [project_title]
 other = "Manuel Rundschreiben Kodierer"
