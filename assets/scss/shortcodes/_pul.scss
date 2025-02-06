@@ -1,0 +1,7 @@
+.pul p:has(+ ul) {
+    margin-bottom: 0;
+}
+
+.pul p:has(+ div  ul) {
+    margin-bottom: 0;
+}

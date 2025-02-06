@@ -36,7 +36,8 @@
             "tr",
             "th",
             "br",
-            "strong"
+            "strong",
+            "pul"
         ]
     }
 }
