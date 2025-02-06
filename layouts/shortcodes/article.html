@@ -8,6 +8,7 @@
 {{ $title := .Get "title" }}
 {{ $groupId := .Get "groupId" | default "" }}
 {{ $buttonClass := "" }}
+{{ $numberClass := .Get "numberClass" | default "" }}
 {{ if eq $removed "true" }}
   {{ $buttonClass = "crossed-out-text" }}
   {{ $numberColor = "red" }}
@@ -28,7 +29,9 @@
       class="d-flex justify-content-start collapsible-block__button {{ $buttonClass }}"
     >
       <span class="article-header-group">
-        <span class="article-number" style="color: {{ $numberColor }};"
+        <span
+          class="article-number {{ $numberClass }}"
+          style="color: {{ $numberColor }};"
           >{{ $number }}
         </span>
         {{ with $date }}
