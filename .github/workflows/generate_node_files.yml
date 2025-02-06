@@ -53,12 +53,18 @@ jobs:
             Write-Error ".bin directory is still missing!"
             exit 1
           }
+          
+      - name: Create archive of node_modules
+        run: 7z a -tzip -mx=0 node_modules.zip node_modules
 
-      - name: Create archive of node_modules and package-lock.json
-        run: 7z a -tzip node-files.zip node_modules package-lock.json
-
-      - name: Upload archive
+      - name: Upload node_modules archive
         uses: actions/upload-artifact@v4
         with:
-          name: node-files
-          path: node-files.zip
+          name: node_modules
+          path: node_modules.zip
+
+      - name: Upload package-lock.json
+        uses: actions/upload-artifact@v4
+        with:
+          name: package-lock
+          path: package-lock.json
