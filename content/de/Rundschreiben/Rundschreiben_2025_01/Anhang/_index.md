@@ -7,6 +7,8 @@ type: docs
 keywords: []
 ---
 
+{{<printButton>}}
+
 Das aktuelle Rundschreiben enthält alle, ab 1. Juli 2024 gültigen «Informationen und Präzisierungen».  
 Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Löschungen in rot~~</font>
   
@@ -37,7 +39,7 @@ Z. B.:
 {{<collapsibleGroupCommand groupId="RS2024_2">}}
 
 <a id="0756"></a>
-{{<article number="0756" date="01.07.2024" title="«Exklusivum – Kode weglassen» bei Komplexbehandlungen" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<article number="0756" date="01.07.2024" title="«Exklusivum – Kode weglassen» bei Komplexbehandlungen" collapsibleClass="d-inline-block" groupId="RS2024_2" numberColor="black">}}
 {{<markdown>}}
 In der Einleitung der CHOP im Abschnitt «Technische Bemerkungen zur CHOP» - «Zusatzinformationen» steht
 […]  
@@ -66,7 +68,7 @@ Folgende Präzisierungen betreffen die Elementgruppe 93.8A.2- «Palliativmedizin
 
 {{<grid class="ps-0">}}
     {{<grid/column>}}
-93.8A.2-: 
+93.8A.2-:
     {{</grid/column>}}
     {{<grid/column>}}
         {{<markdown>}}
@@ -76,10 +78,9 @@ Durchführung eines standardisierten palliativmedizinischen Basisassessments (PB
     {{</grid/column>}}
 {{</grid>}}
 
-
 {{<grid class="ps-0">}}
     {{<grid/column>}}
-93.8B.- : 
+93.8B.- :
     {{</grid/column>}}
     {{<grid/column>}}
         {{<markdown>}}
@@ -266,7 +267,6 @@ Werden hingegen ein craniales MRI, eine neurophysiologische Diagnostik sowie ein
 {{</markdown>}}
 {{</article>}}
 
-
 <a id="0762"></a>
 {{<article number="0762" date="01.01.2024" title="Berücksichtigte Therapiedauer"  collapsibleClass="d-inline-block" groupId="RS2024_2" >}}
 {{<markdown>}}
@@ -447,7 +447,7 @@ Je Eingriff ist der Kode mit der entsprechenden Anzahl von eingesetzten Stents/P
   
 Beispiel: Am Tag X werden zwei selbstexpandierende Prothesen in den Ösophagus eingesetzt. Am Tag Y wird eine selbstexpandie-rende Prothese ausgewechselt.
   
-Kodierung 
+Kodierung
 {{</markdown>}}
 {{<grid class="ps-0">}}
     {{<grid/column>}}
@@ -455,7 +455,7 @@ Tag X:
     {{</grid/column>}}
     {{<grid/column>}}
         {{<markdown>}}
-42.81.41 «Einsetzen und Wechsel von zwei selbstexpandierenden Prothesen (permanenter Tubus) in den Ösophagus, endoskopisch»          
+42.81.41 «Einsetzen und Wechsel von zwei selbstexpandierenden Prothesen (permanenter Tubus) in den Ösophagus, endoskopisch»
         {{</markdown>}}
     {{</grid/column>}}
 {{</grid>}}
@@ -500,8 +500,7 @@ Tag Z:
     {{</grid/column>}}
 {{</grid>}}
 {{<markdown>}}
-   
-   
+
 Je Eingriff ist der Kode so oft zu kodieren, wie Stents/Prothesen implantiert wurden.
   
 Beispiel: Am Tag X werden zwei nicht selbstexpandierende Prothesen am Darm eingelegt. Am Tag Y werden beide entfernt und durch eine selbstexpandierende Prothese ersetzt.

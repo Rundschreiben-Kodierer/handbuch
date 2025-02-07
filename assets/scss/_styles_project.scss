@@ -1,5 +1,6 @@
 @import "utilities/index";
 @import "abstracts/index";
+@import "components/index";
 @import "shortcodes/index";
 
 html {
@@ -653,4 +654,9 @@ img.img_full {
 
 .grey-color {
   color: grey;
+}
+
+.article-number-compact {
+  min-width: 0 !important;
+  margin-right: 1rem !important;
 }

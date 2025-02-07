@@ -20,5 +20,7 @@ other = "Alle reduzieren"
 other = "Klicken Sie hier, um zu erweitern/reduzieren"
 [collapsible_group_command_click_to_expand_collapse_all_tooltip_text]
 other = "Klicken Sie hier, um alle zu erweitern/reduzieren"
+[print_button_text]
+other = "Drucken"
 [project_title]
 other = "Handbuch Rundschreiben Kodierer"

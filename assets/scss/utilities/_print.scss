@@ -1,0 +1,22 @@
+@media print {
+    /* Remove unnecessary elements */
+    nav, footer, .footer-item, .sidebar, #print-button, .collapsible-group-command, .collapsible-block__icon {
+        display: none !important;
+    }
+
+    /* Force all content to be visible */
+    * {
+        overflow: visible !important;
+        height: auto !important;
+    }
+
+    /* Remove scrollbars */
+    body {
+        overflow: visible !important;
+    }
+
+    /* Avoid breaks within articles */
+    .article {
+        page-break-inside: avoid;
+    }
+}
