@@ -8,6 +8,8 @@ keywords: []
 ---
 {{<markdown>}}
 **1.1. Gültige Kodierungsinstrumente**
+
+{{<pul>}}
   
 Ab 1. Juli 2024 gelten folgende Kodierungsinstrumente:
 
@@ -20,8 +22,10 @@ Ab 1. Juli 2024 gelten folgende Kodierungsinstrumente:
 Gesundheitsprobleme - 10. Revision – German Modification
 - ICD-10-GM 2022 Systematisches Verzeichnis, deutsche Version: Zusatzinformationen für den schweizerischen Kontext
 {{</indent>}}
-Die Instrumente zur medizinischen Kodierung finden Sie unter www.statistik.ch → Grundlagen und Erhebungen → Medizinische 
-Kodierung und Klassifikationen → Instrumente zur medizinischen Kodierung → Gültige Instrumente zur medizinischen Kodierung je 
+{{</pul>}}
+
+Die Instrumente zur medizinischen Kodierung finden Sie unter <www.statistik.ch> → Grundlagen und Erhebungen → Medizinische
+Kodierung und Klassifikationen → Instrumente zur medizinischen Kodierung → Gültige Instrumente zur medizinischen Kodierung je
 Jahr.  
   
 Die Dateien der ICD-10-GM in deutscher Sprache werden vom Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM) erstellt 
