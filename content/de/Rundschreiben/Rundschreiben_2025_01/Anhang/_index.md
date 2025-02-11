@@ -212,6 +212,7 @@ Exkl. «Kode weglassen - Komplexbehandlung bei Besiedlung oder Infektion mit mul
 {{</markdown>}}
 {{</indent>}}
 {{</pul>}}
+{{<markdown>}}
 Dies bedeutet, dass die zeitgleiche Kodierung von 93.59.5- und 99.84.1-, 99.84.2-, 99.84.3- nicht gestattet ist. Werden 99.84.1-, 99.84.2-, 99.84.3- zeitlich versetzt erbracht zur 93.59.5- können die Kodes im gleichen Fall erfasst werden. Die Erfassung von 99.84.1-, 99.84.2-, 99.84.3- darf nie für das gleiche Zeitintervall wie 93.59.5- erfolgen.
 {{</markdown>}}
 {{</article>}}
