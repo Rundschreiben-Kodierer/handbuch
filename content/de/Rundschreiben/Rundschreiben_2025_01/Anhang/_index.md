@@ -164,21 +164,14 @@ b) Ärztliche Leistung, Pflege sowie mindestens zwei der unter Mindestmerkmal Pu
 {{<article number="0757/3" title="Teambesprechung" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
 {{<markdown>}}
 93.8A.2-: Mindestmerkmal Punkt 4, Therapieplanung und -kontrolle:
-{{</markdown>}}
-{{<pul>}}
 {{<indent level="4">}}
-{{<markdown>}}
 […]  
 b) Wöchentliche interprofessionelle Teambesprechung mit Dokumentation bisheriger Behandlungsergebnisse und weiterer Behandlungsziele.  
 93.8B.-: Mindestmerkmal Punkt 5, Therapieplanung und -kontrolle:  
 […]  
 b) Wöchentliche interprofessionelle Teambesprechung mit Dokumentation bisheriger Behandlungsergebnisse und weiterer Behandlungsziele.  
-{{</markdown>}}
 {{</indent>}}
-{{</pul>}}
 
-{{<markdown>}}
-  
 **Was ist unter wöchentlicher interprofessioneller Teambesprechung zu verstehen?**  
 Die wöchentliche interprofessionelle Teambesprechung bei der palliativmedizinischen Komplexbehandlung und der spezialisierten Palliative Care ist wie folgt zu verstehen: «wöchentlich» ist struktur- und nicht patientenbezogen. Das bedeutet, dass im klinischen Betrieb mindestens einmal pro Woche eine interprofessionelle Teambesprechung stattfindet.  
   
