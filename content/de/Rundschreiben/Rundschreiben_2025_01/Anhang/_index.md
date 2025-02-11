@@ -162,18 +162,21 @@ b) Ärztliche Leistung, Pflege sowie mindestens zwei der unter Mindestmerkmal Pu
 
 <a id="0757/3"></a>
 {{<article number="0757/3" title="Teambesprechung" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
-{{<pul>}}
 {{<markdown>}}
 93.8A.2-: Mindestmerkmal Punkt 4, Therapieplanung und -kontrolle:
+{{</markdown>}}
+{{<pul>}}
 {{<indent level="4">}}
+{{<markdown>}}
 […]  
 b) Wöchentliche interprofessionelle Teambesprechung mit Dokumentation bisheriger Behandlungsergebnisse und weiterer Behandlungsziele.  
 93.8B.-: Mindestmerkmal Punkt 5, Therapieplanung und -kontrolle:  
 […]  
 b) Wöchentliche interprofessionelle Teambesprechung mit Dokumentation bisheriger Behandlungsergebnisse und weiterer Behandlungsziele.  
-{{</indent>}}
 {{</markdown>}}
+{{</indent>}}
 {{</pul>}}
+
 {{<markdown>}}
   
 **Was ist unter wöchentlicher interprofessioneller Teambesprechung zu verstehen?**  
