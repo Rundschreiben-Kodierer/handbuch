@@ -6,6 +6,10 @@ weight: 440
 type: docs
 keywords: []
 ---
+
+{{<printButton>}}
+  
+
 {{<markdown>}}
 **1.1. Gültige Kodierungsinstrumente**
 

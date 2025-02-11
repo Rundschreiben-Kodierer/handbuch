@@ -8,6 +8,7 @@ keywords: []
 ---
 
 {{<printButton>}}
+  
 
 Das aktuelle Rundschreiben enthält alle, ab 1. Juli 2024 gültigen «Informationen und Präzisierungen».  
 Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Löschungen in rot~~</font>

@@ -6,6 +6,10 @@ weight: 440
 type: docs
 keywords: []
 ---
+
+{{<printButton>}}
+  
+
 {{<markdown>}}Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Löschungen in rot~~</font>
   
 Die Zusatzinformationen zur ICD-10-GM 2022, aus dem Rundschreiben 2024 Nr. 1, sind weiterhin gültig.
