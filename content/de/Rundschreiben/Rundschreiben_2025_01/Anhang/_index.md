@@ -160,6 +160,8 @@ b) Ärztliche Leistung, Pflege sowie mindestens zwei der unter Mindestmerkmal Pu
 {{</indent>}}
 {{</article>}}
 
+{{<pul>}}
+
 <a id="0757/3"></a>
 {{<article number="0757/3" title="Teambesprechung" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
 {{<markdown>}}
@@ -171,6 +173,7 @@ b) Wöchentliche interprofessionelle Teambesprechung mit Dokumentation bisherige
 […]  
 b) Wöchentliche interprofessionelle Teambesprechung mit Dokumentation bisheriger Behandlungsergebnisse und weiterer Behandlungsziele.  
 {{</indent>}}
+{{</pul>}}
   
 **Was ist unter wöchentlicher interprofessioneller Teambesprechung zu verstehen?**  
 Die wöchentliche interprofessionelle Teambesprechung bei der palliativmedizinischen Komplexbehandlung und der spezialisierten Palliative Care ist wie folgt zu verstehen: «wöchentlich» ist struktur- und nicht patientenbezogen. Das bedeutet, dass im klinischen Betrieb mindestens einmal pro Woche eine interprofessionelle Teambesprechung stattfindet.  
@@ -199,6 +202,7 @@ Zur Berechnung der Behandlungstage unter den CHOP-Kodes 93.59.50 bis 93.59.53 «
 {{</article>}}
 
 <a id="0758/2"></a>
+{{<pul>}}
 {{<article number="0758/2" title="Abgrenzung 93.59.5- und 99.84.1-, 99.84.2-, 99.84.3-" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
 {{<markdown>}}
 Unter den Elementegruppen 99.84.1- «Kontaktisolierung, nach Anzahl Behandlungstage», 99.84.2- «Tröpfchenisolierung, […]» und 99.84.3- «Aerosolisolierung, […]» ist folgendes «Exklusivum – Kode weglassen» angegeben:
@@ -208,6 +212,7 @@ Exkl. «Kode weglassen - Komplexbehandlung bei Besiedlung oder Infektion mit mul
 Dies bedeutet, dass die zeitgleiche Kodierung von 93.59.5- und 99.84.1-, 99.84.2-, 99.84.3- nicht gestattet ist. Werden 99.84.1-, 99.84.2-, 99.84.3- zeitlich versetzt erbracht zur 93.59.5- können die Kodes im gleichen Fall erfasst werden. Die Erfassung von 99.84.1-, 99.84.2-, 99.84.3- darf nie für das gleiche Zeitintervall wie 93.59.5- erfolgen.
 {{</markdown>}}
 {{</article>}}
+{{</pul>}}
 
 <a id="0759"></a>
 {{<article number="0759"  date="01.07.2024" title="Lateralitätsmarkierung" collapsibleClass="d-inline-block" groupId="RS2024_2" >}}
@@ -223,6 +228,7 @@ Pflegeinterventionen könnten theoretisch mehreren Leistungsgruppen zugeordnet w
   
 Beispiel <font color="#006400"><b>1</b></font>: Ein «Transfer auf die Toilette
  <font color=" #006400"><b>» könnte im Rahmen des Pflegeinterventionsprofils 1.1 der Leistungsgruppe 1 «Bewegung» oder im Rahmen des Pflegeinterventionsprofils 3.1 der Leistungsgruppe 3 «Ausscheidung» geleistet werden. Wenn die Aktivität unter der Leistungsgruppe 1 erfasst wird, darf sie nicht zusätzlich bei der Leistungsgruppe 3 erfasst werden, oder umgekehrt. Die Aktivität darf nur einem der zwei Pflegeinterventionsprofile zugeordnet werden.  
+  
 Beispiel 2: Eine «Hygienemassnahme» könnte im Rahmen des Pflegeinterventionsprofils 2.1 der Leistungsgruppe 2 «Körperpflege» oder im Rahmen des Pflegeinterventionsprofils 3.1 der Leistungsgruppe 3 «Ausscheidung» geleistet werden. Wenn die Aktivität unter der Leistungsgruppe 2 erfasst wird, darf sie nicht zusätzlich bei der Leistungsgruppe 3 erfasst werden, oder umgekehrt. Die Aktivität darf nur einem der zwei Pflegeinterventionsprofile zugeordnet werden.
 </b></font>
 {{</markdown>}}
@@ -234,6 +240,7 @@ Beispiel 2: Eine «Hygienemassnahme» könnte im Rahmen des Pflegeinterventionsp
 In den Beachte zu den Komplexbehandlungen oder Komplexdiagnostiken angegebene Auflistungen, die auf Sätze folgen im Sinne von «Einsatz von mindestens x Therapiebereichen» oder «Mindestens x der folgenden Massnahmen», bedeuten, dass mindestens x verschiedene der aufgelisteten Therapiebereiche oder Massnahmen zum Einsatz kommen. Der Einsatz / die Durchführung von x-mal der gleichen Massnahme / des gleichen Therapiebereichs erfüllt die Mindestanforderungen nicht.
 Beispiel: Unter 99.A6.- «Neurologische Komplexdiagnostik» wird im «Beachte» folgende Auflistung aufgeführt:  
  {{</markdown>}}
+{{<pul>}}
 
 {{<indent level="4">}}
     {{<grid>}}
@@ -245,7 +252,6 @@ Beachte: […]
         {{<grid/column>}}
             {{<markdown>}}
 mind. 3 der folgenden Massnahmen:  
-
 - LP (Liquorentnahme über Lumbalpunktion),  
 - craniale und spinale MRI,  
 - funktionelle Bildgebung (z. B. PET, SPECT),  
@@ -261,6 +267,7 @@ mind. 3 der folgenden Massnahmen:
         {{</grid/column>}}
     {{</grid>}}
 {{</indent>}}
+{{</pul>}}
 
 {{<markdown>}}
 Wird dreimal ein EEG durchgeführt ohne zwei weitere der aufgelisteten Massnahmen sind die Mindestmerkmale nicht erfüllt und ein Kode der Subkategorie 99.A6.- kann nicht erfasst werden.  
