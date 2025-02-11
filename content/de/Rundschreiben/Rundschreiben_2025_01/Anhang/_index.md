@@ -348,6 +348,7 @@ Die Elementegruppe 39.78.5- umfasst drei Zusatzkodes:
 {{<markdown>}}
   
 In der folgenden Tabelle wurde die Bedeutung des jeweiligen Zusatzkodes graphisch dargestellt.
+  
 {{</markdown>}}
 {{<lineBreak>}}
 {{<insertImage image="0767_a.png" class="edge max-w-90">}}
@@ -355,7 +356,6 @@ In der folgenden Tabelle wurde die Bedeutung des jeweiligen Zusatzkodes graphisc
 
 {{<markdown>}}
   
-{{<lineBreak>}}
 Die aortomonoiliakal oder aortobiiliakal endenden Stent-Grafts können mit Stent-Grafts in der linken und/oder rechten A. iliaca com-munis verlängert werden (weitere Stent-Grafts werden dann anmodelliert). Die entsprechenden Kodes der Elementegruppen 39.7A.1- «Endovaskuläre Implantation in Beckenarterien von Stent-Grafts (Stent-Prothesen), iliakal, ohne Seitenarm, nach Anzahl Stent-Prothesen» und 39.7A.2- «Endovaskuläre Implantation in Beckenarterien von Stent-Grafts (Stent-Prothesen), iliakal mit Ver-sorgung von Seitenast» sind in diesem Fall zusätzlich zu kodieren.  
   
 Folgende Tabelle illustriert die verschiedenen Situationen:  
@@ -386,13 +386,18 @@ Die Kodes 38.7X.11 «Einsetzen eines Embolie-Protektionssystems in die Vena cava
 {{<article number="0769"  date="01.01.2024" title="Perkutan-transluminale Thrombektomie an Lungengefässen mittels Thrombusentfernungssystem" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
 {{<markdown>}}
 Eine perkutan-transluminale Thrombektomie an Lungengefässen mittels Thrombusentfernungssystem lässt sich anhand von einem Kode und zwei Zusatzkodes erfassen:
+{{</markdown>}}
 
+{{<pul>}}
 {{<indent level="4">}}
-
+{{<markdown>}}
 - 39.75.17 «Perkutan-transluminale Thrombektomie, sonstige Gefässe»
 - 00.4B.13 «PTKI an Lungengefässen»
 - Zutreffende Zusatzkodes der Elementegruppe 00.4F.2- «Einsatz von kathetergeführten Thrombus- und Fremdkörperent-fernungs-Systemen, nach Anzahl Systeme»
+{{</markdown>}}
 {{</indent>}}
+{{</pul>}}
+{{<markdown>}}
 (Je nach Fall sind weitere CHOP-Kodes zu berücksichtigen.)
 {{</markdown>}}
 {{</article>}}
