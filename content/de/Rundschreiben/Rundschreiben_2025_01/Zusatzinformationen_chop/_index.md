@@ -7,10 +7,13 @@ type: docs
 keywords: []
 ---
 
-{{<printButton>}}
+
+{{<markdown>}}
   
 
-{{<markdown>}}Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Löschungen in rot~~</font>
+{{<printButton>}}
+
+Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Löschungen in rot~~</font>
   
 Die Zusatzinformationen zur CHOP 2024, aus dem Rundschreiben 2024 Nr. 1, sind weiterhin gültig.
 Zusätzliche neue Korrekturen sind hier aufgeführt:
