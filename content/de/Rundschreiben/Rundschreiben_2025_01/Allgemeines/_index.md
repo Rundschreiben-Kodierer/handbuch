@@ -29,7 +29,7 @@ Gesundheitsprobleme - 10. Revision – German Modification
 {{</indent>}}
 {{</pul>}}
 
-Die Instrumente zur medizinischen Kodierung finden Sie unter <www.statistik.ch> → Grundlagen und Erhebungen → Medizinische
+Die Instrumente zur medizinischen Kodierung finden Sie unter www.statistik.ch → Grundlagen und Erhebungen → Medizinische
 Kodierung und Klassifikationen → Instrumente zur medizinischen Kodierung → Gültige Instrumente zur medizinischen Kodierung je
 Jahr.  
   
@@ -44,11 +44,13 @@ genutzt werden und die qualitativen Mindestanforderungen für eine Mehrfachverwe
 Die obengenannten Kodierungsinstrumente gelten für die Kodierung aller stationärer Aufenthalte in Spitäler und Kliniken der 
 Schweiz, einschliesslich Rehabilitations-, Psychiatrie- und Spezialkliniken sowie Geburtshäuser.  
   
+{{<pul>}}
 Die gesetzlichen Grundlagen sind:
 {{<indent level="4">}}
 - Bundesstatistikgesetz vom 9. Oktober 1992 (BStatG) und
 - Bundesgesetz über die Krankenversicherung vom 18. März 1994 (KVG)
 {{</indent>}}
+{{</pul>}}
 
 **1.1.1. Referenzversionen**  
 Keine Änderungen im Vergleich zum Rundschreiben 2024 Nr.1  
@@ -83,13 +85,14 @@ Bei Anfragen ohne Dokumentation oder mit ungenügender Dokumentation geben wir k
 **1.3.2. Anonymisierung**  
 Für die Anonymisierung der zugesendeten Dokumente sind die folgenden Angaben  <font color="green">von Patientinnen / Patienten und Angehörigen</font> zu 
 entfernen:
-
+{{<pul>}}
 {{<indent level="4">}}
 - Name, Vorname
 - Geburtstag und Monat (ausgenommen für Neugeborene bis zum Alter von einem Jahr (< 1Jahr))
 - Wohnadresse
 - Korrespondenzdaten <font color="red">~~der Patientin / des Patienten~~</font> (Telefonnummer, E-Mail-Adresse etc.)
 {{</indent>}}
+{{</pul>}}
   
 BFS-Mitarbeiter unterstehen nur dem Statistikgeheimnis (gemäss Art. 14 des Bundesstatistikgesetzes), sowie der Geheimhaltungspflicht gemäss Datenschutzgesetz.
   
