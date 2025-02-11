@@ -349,7 +349,10 @@ Die Elementegruppe 39.78.5- umfasst drei Zusatzkodes:
   
 In der folgenden Tabelle wurde die Bedeutung des jeweiligen Zusatzkodes graphisch dargestellt.
 {{</markdown>}}
+{{<lineBreak>}}
 {{<insertImage image="0767_a.png" class="edge max-w-90">}}
+{{<lineBreak>}}
+
 {{<markdown>}}
   
 {{<lineBreak>}}
@@ -357,8 +360,14 @@ Die aortomonoiliakal oder aortobiiliakal endenden Stent-Grafts können mit Stent
   
 Folgende Tabelle illustriert die verschiedenen Situationen:  
 {{</markdown>}}
+{{<lineBreak>}}
+
 {{<insertImage image="0767_b.png" class="edge max-w-90">}}
+{{<lineBreak>}}
+
 {{<insertImage image="0767_c.png" class="edge max-w-90">}}
+{{<lineBreak>}}
+
 {{</article>}}
 
 <a id="0768"></a>
