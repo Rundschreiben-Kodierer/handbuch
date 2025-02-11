@@ -17,7 +17,8 @@ Zusätzliche neue Korrekturen sind hier aufgeführt:
   
 {{</markdown>}}
 
-{{<article number="4.1."  title="Psychische und Verhaltensstörungen durch psychotrope Substanzen (F10-F19) – .6 Fehlender Kodierhinweis" collapsibleClass="d-inline-block">}}
+{{<article number="4.1."  title="Psychische und Verhaltensstörungen durch psychotrope Substanzen (F10-F19) – .6 Fehlender Kodierhinweis" collapsibleClass="d-inline-block" numberClass="article-number-compact">}}
+
 
 {{<markdown>}}
 

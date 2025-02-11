@@ -82,10 +82,10 @@ Es werden nur Kodierungsanfragen behandelt, welche in der Beilage alle notwendig
 in anonymisierter Form (Austrittsbericht, Operationsbericht, Kodierung etc.) enthalten. Sie sind an codeInfo@bfs.admin.ch zu senden.
 Bei Anfragen ohne Dokumentation oder mit ungenügender Dokumentation geben wir keine Empfehlung ab.
   
+{{<pul>}}
 **1.3.2. Anonymisierung**  
 Für die Anonymisierung der zugesendeten Dokumente sind die folgenden Angaben  <font color="green">von Patientinnen / Patienten und Angehörigen</font> zu 
 entfernen:
-{{<pul>}}
 {{<indent level="4">}}
 - Name, Vorname
 - Geburtstag und Monat (ausgenommen für Neugeborene bis zum Alter von einem Jahr (< 1Jahr))
