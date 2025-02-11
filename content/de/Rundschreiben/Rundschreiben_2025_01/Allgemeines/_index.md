@@ -12,7 +12,6 @@ keywords: []
 {{<markdown>}}
   
   
-
 **1.1. Gültige Kodierungsinstrumente**
 
 {{<pul>}}
