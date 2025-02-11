@@ -160,11 +160,10 @@ b) Ärztliche Leistung, Pflege sowie mindestens zwei der unter Mindestmerkmal Pu
 {{</indent>}}
 {{</article>}}
 
-{{<pul>}}
-
 <a id="0757/3"></a>
 {{<article number="0757/3" title="Teambesprechung" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
 {{<markdown>}}
+{{<pul>}}
 93.8A.2-: Mindestmerkmal Punkt 4, Therapieplanung und -kontrolle:
 {{<indent level="4">}}
 […]  
