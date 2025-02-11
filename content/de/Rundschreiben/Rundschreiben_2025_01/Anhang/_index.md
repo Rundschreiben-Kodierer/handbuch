@@ -237,7 +237,7 @@ Die Angabe der Lateralität ist nur bei paarigen Organen ein Muss (entsprechende
 {{<markdown>}}
 Pflegeinterventionen könnten theoretisch mehreren Leistungsgruppen zugeordnet werden. In der Pflege-Komplexbehandlung darf eine geleistete Pflegeintervention jedoch nur einer Leistungsgruppe zugeordnet werden. Dies bedeutet nicht, dass sie zwingend der Leistungsgruppe zugeordnet wird in der bereits Aufwandspunkte für diesen Tag erfasst wurden.
   
-Beispiel <font color="#006400"><b>1</b></font>: Ein «Transfer auf die Toilette
+Beispiel <font color="#006400"><b>1</b></font>: Ein <font color="#006400"><b>«</b></font>Transfer auf die Toilette
  <font color=" #006400"><b>» könnte im Rahmen des Pflegeinterventionsprofils 1.1 der Leistungsgruppe 1 «Bewegung» oder im Rahmen des Pflegeinterventionsprofils 3.1 der Leistungsgruppe 3 «Ausscheidung» geleistet werden. Wenn die Aktivität unter der Leistungsgruppe 1 erfasst wird, darf sie nicht zusätzlich bei der Leistungsgruppe 3 erfasst werden, oder umgekehrt. Die Aktivität darf nur einem der zwei Pflegeinterventionsprofile zugeordnet werden.  
   
 Beispiel 2: Eine «Hygienemassnahme» könnte im Rahmen des Pflegeinterventionsprofils 2.1 der Leistungsgruppe 2 «Körperpflege» oder im Rahmen des Pflegeinterventionsprofils 3.1 der Leistungsgruppe 3 «Ausscheidung» geleistet werden. Wenn die Aktivität unter der Leistungsgruppe 2 erfasst wird, darf sie nicht zusätzlich bei der Leistungsgruppe 3 erfasst werden, oder umgekehrt. Die Aktivität darf nur einem der zwei Pflegeinterventionsprofile zugeordnet werden.
@@ -323,9 +323,10 @@ Bei einem alleinigen Wechsel vom Prothesenkopf sind die CHOP-Kodes 80.01.09 «Ar
 Für die Subkategorien 7A.71.- bis 7A.74.- erfolgte die Aufgliederung in 5. Stelle für den Zugang «dorsal und dorsolateral», bzw. «ventral», in 6. Stelle nach der Anzahl behandelter Segmente (aufgegliedert bis 14 und mehr). Das «und» ist gemäss CHOP-Kon-ventionen als «und/oder» zu verstehen. Das «Beachte» unter 7A.7- «Stabilisierung der Wirbelsäule und Stellungskorrektur» lautet: «Erfolgt der Zugang für gewisse Segmente von dorsal sowie von ventral, so ist für das gesamte Eingriffsgebiet die gesamte Anzahl der Segmente die von dorsal operiert wurden mit einem Kode anzugeben, sowie die gesamte Anzahl der Segmente, die von ventral operiert wurden mit einem anderen Kode. Zusätzlich wird der Zusatzkode der gesamten Anzahl operierter Segmente angegeben.»  
 Die dorsolateralen Zugänge zählen zu den dorsalen Zugängen. Sprich das Segment wird nicht doppelt gezählt, wenn es von dorsal sowie dorsolateral operiert wird.
 Im Beispiel der folgenden Abbildung erfolgte eine Spondylodese über sechs Wirbeln, d.h. über fünf Segmente. Drei Segmente wer-den von dorsal und/oder dorsolateral operiert, 4 Segmente von ventral. Es werden somit ein Kode für drei Segmente «dorsal und dorsolateral» sowie ein Kode für vier Segmente «ventral» erfasst. Zusätzlich wird der entsprechende Kode der Subkategorie 7A.B4.- «Summe der operierten Segmente der Wirbelsäule» für fünf Segmente kodiert.  
-
+  
 {{</markdown>}}
-
+{{<lineBreak>}}
+{{<lineBreak>}}
 {{<lineBreak>}}
 
 {{<insertImage image="do-d-14.04.jpg" class="edge max-w-90">}}
@@ -337,7 +338,6 @@ Im Beispiel der folgenden Abbildung erfolgte eine Spondylodese über sechs Wirbe
 Bei den Kodes der Subkategorie 39.71.- «Endovaskuläre Implantation eines Stent-Grafts [Stent-Prothesen] an der abdominalen Aorta» und der Elementegruppe 39.73.4- «Endovaskuläre Implantation von Stent-Grafts [Stent-Prothesen] in die Aorta thoracoabdo-minalis» ist mit den Zusatzkodes 39.78.5- «Ende der untersten Stent-Grafts [Stent-Prothesen]» anzugeben, wie der Stent-Graft en-det.  
 Die Elementegruppe 39.78.5- umfasst drei Zusatzkodes:  
 {{<indent level="4">}}
-
 - 39.78.51 «Ende des untersten Stent-Grafts (Stent-Prothese), aortal»
 - 39.78.52 «Ende des untersten Stent-Grafts (Stent-Prothese), aortomonoiliakal»
 - 39.78.53 «Ende der untersten Stent-Grafts (Stent-Prothesen), aortobiiliakal»
