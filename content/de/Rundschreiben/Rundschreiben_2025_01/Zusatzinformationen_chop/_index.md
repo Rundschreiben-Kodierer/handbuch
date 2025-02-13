@@ -38,10 +38,8 @@ ist für eine spätere CHOP-Version geplant.
 {{</markdown>}}
 {{<pul>}}
 {{<indent level="5">}}
-   {{<markdown>}}
    Gebiet  
    Beachte: Zusatzkode für die <font color="red">~~Wiedereröffnung eines Operationsgebietes~~</font> <font color="green">Reoperation </font>zur Behandlung einer Komplikation,  
-   {{</markdown>}}
       {{<pul>}}
       {{<indent level="5">}}
       {{<markdown>}}
