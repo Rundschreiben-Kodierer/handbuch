@@ -201,7 +201,11 @@ Die Massnahmen umfassen:
 […]  
 99.84.2- Tröpfchenisolierung, nach Anzahl Behandlungstage  
 Exkl. Kode weglassen - Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage (93.59.5-)  
-Beachte: Massnahmen bei Patientinnen / Patienten mit Verdacht auf oder Nachweis von über Tröpfchen übertragbaren Krankheitserregern. <font color="green">Diese Massnahmen erfüllen die Kriterien für die Komplexbehandlung bei Besiedelung oder Infektion mit multiresistenten Erregern [MRE] nicht.</font>  
+Beachte: Massnahmen bei Patientinnen / Patienten mit Verdacht auf oder Nachweis von über Tröpfchen übertragbaren Krankheitserregern.
+{{<pul>}}
+{{<indent level="5">}}
+<font color="green">Diese Massnahmen erfüllen die Kriterien für die Komplexbehandlung bei Besiedelung oder Infektion mit multiresistenten Erregern [MRE] nicht.
+</font>  
 Die Liste der Indikationen für diese Massnahmen wird von den Expertinnen / Experten für Spitalhygiene der je-weiligen Institution erstellt.  
 Die Massnahmen umfassen:  
 - Unterbringung der Patientin / des Patienten in einem Einbettzimmer, oder in einer Zonenisolierung innerhalb eines Mehrbettzimmers, oder in einem Mehrbettzimmer mit anderen Patientinnen / Patienten, die die gleiche Indi-kation teilen [Kohortierung],  
@@ -215,7 +219,9 @@ Die Massnahmen umfassen:
 - Unterbringung der Patientin / des Patienten in einem Einbettzimmer, vorzugsweise mit Unterdruckbelüftung,
 - Tragen von speziellen Hochleistungsmasken,  
 - Komplette Desinfektion von Untersuchungs- und Behandlungsräumen nach jeder Patientin / jedem Patienten  
-
+  {{</indent>}}
+  {{</pul>}}
+ 
 
 {{</markdown>}}
 
