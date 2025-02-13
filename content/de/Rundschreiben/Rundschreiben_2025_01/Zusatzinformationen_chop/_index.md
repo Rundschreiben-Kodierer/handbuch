@@ -66,6 +66,7 @@ Beschreibung «Drainage durch Aspiration an der Niere» unter 55.92 aufzunehmen.
 55.92 Perkutane Aspiration an der Niere (Nierenbecken
 {{</markdown>}}
 
+{{<pul>}}
 {{<indent level="5">}}
 
    {{<markdown>}}
@@ -80,6 +81,7 @@ Beschreibung «Drainage durch Aspiration an der Niere» unter 55.92 aufzunehmen.
       {{</indent>}}
    {{</pul>}}
    {{</indent>}}
+{{</pul>}}
 
 {{</article>}}
 
