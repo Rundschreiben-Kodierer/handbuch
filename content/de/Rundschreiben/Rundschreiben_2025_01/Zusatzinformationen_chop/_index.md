@@ -114,12 +114,12 @@ Kodes 81.54.23 «Erstimplantation einer achsengeführten Totalendoprothese des K
 achsengeführten Totalendoprothese des Kniegelenks bei einem Prothesenwechsel» ist der Zusatzkode 81.A1.13 «Langschaftprothese» somit nicht zu erfassen.
 
 81.51.12 Erstimplantation einer Totalendoprothese des Hüftgelenks, Sonderprothese  
-Beachte: Bei den Sonderprothesen handelt es sich um Tumorprothesen<font color="red">,</font> <font color="green">und</font> modulare Prothesen <font color="red">~~und Langschaftprothesen~~</font>. Der Prothesentyp ist mit einem Zusatzkode zu präzisieren.  
+Beachte: Bei den Sonderprothesen handelt es sich um Tumorprothesen<font color="red">~~,~~</font> <font color="green">und</font> modulare Prothesen <font color="red">~~und Langschaftprothesen~~</font>. Der Prothesentyp ist mit einem Zusatzkode zu präzisieren.  
 Kod. eb.: Falls durchgeführt - Verwendung von patientenindividuell angepassten und gefertigten Implantaten und Schablo-nen (00.9A.6-)  
 Typ der Gelenksendoprothese (81.A1.1-)  
 […]
 81.51.22 Implantation einer Totalendoprothese des Hüftgelenks, Sonderprothese bei einem Prothesenwechsel  
-Beachte: Bei den Sonderprothesen handelt es sich um Tumorprothesen<font color="red">,</font> <font color="green">und </font> modulare Prothesen <font color="red">~~und Langschaftprothesen~~</font>. Der Prothesentyp ist mit einem Zusatzkode zu präzisieren.  
+Beachte: Bei den Sonderprothesen handelt es sich um Tumorprothesen<font color="red">~~,~~</font> <font color="green">und </font> modulare Prothesen <font color="red">~~und Langschaftprothesen~~</font>. Der Prothesentyp ist mit einem Zusatzkode zu präzisieren.  
 Kod. eb.: Falls durchgeführt - Verwendung von patientenindividuell angepassten und gefertigten Implantaten und Schablo-nen (00.9A.6-)
 Typ der Gelenksendoprothese (81.A1.1-)  
 […]  
@@ -194,7 +194,7 @@ Durchführung von speziellen Untersuchungen inkl. mikrobiologischen Schnelltests
 Kod. eb.: Falls durchgeführt - Aerosolisolierung, nach Anzahl Behandlungstage (99.84.3-)  
 Exkl. Kode weglassen - Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage (93.59.5-)  
 Beachte: Massnahmen bei Patientinnen / Patienten mit Verdacht auf oder Nachweis von infektiösen Krankheitserregern, welche über direkten oder indirekten Kontakt übertragen werden können. <font color="green">Diese Massnahmen erfüllen die Krite-rien für die Komplexbehandlung bei Besiedelung oder Infektion mit multiresistenten Erregern [MRE] nicht.</font>  
-Die Liste der Indikationen für diese Massnahmen wird von den Expertinnen / Experten für Spitalhygiene der je-weiligen Institution erstellt. Sie umfasst unter anderem den Verdacht auf oder Nachweis von Kolonisation durch multiresistente Erreger.  
+Die Liste der Indikationen für diese Massnahmen wird von den Expertinnen / Experten für Spitalhygiene der je-weiligen Institution erstellt. <font color="red">~~Sie umfasst unter anderem den Verdacht auf oder Nachweis von Kolonisation durch multiresistente Erreger~~.</font>  
 Die Massnahmen umfassen:  
 - Unterbringung der Patientin / des Patienten in einem Einbettzimmer, oder in einer Zonenisolierung innerhalb eines Mehrbettzimmers, oder in einem Mehrbettzimmer mit anderen Patientinnen / Patienten, die die gleiche Indi-kation teilen [Kohortierung],
 - Desinfektion von Untersuchungs- und Behandlungsräumen. 
