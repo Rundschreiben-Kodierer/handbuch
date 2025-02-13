@@ -63,12 +63,10 @@ Betrifft alle Sprachversionen
 Als Pendant zum Exklusivum «Drainage durch Aspiration (55.92)» unter 55.0- «Nephrotomie und Nephrostomie» ist die ergänzende
 Beschreibung «Drainage durch Aspiration an der Niere» unter 55.92 aufzunehmen. Die «perkutan-transrenalen» Eingriffe sind den noch nicht mit dem Kode 55.92 abzubilden. Um dies zu präzisieren sind die zwei unten aufgeführten Exklusiva aufzunehmen.
   
-55.92 Perkutane Aspiration an der Niere (Nierenbecken
 {{</markdown>}}
-
+55.92 Perkutane Aspiration an der Niere (Nierenbecken
 {{<pul>}}
 {{<indent level="5">}}
-
    {{<markdown>}}
    Aspiration einer Nierenzyste  
    Nierenpunktion  
