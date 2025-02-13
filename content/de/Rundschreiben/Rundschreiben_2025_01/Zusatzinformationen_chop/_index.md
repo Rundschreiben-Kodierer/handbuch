@@ -137,6 +137,8 @@ Typ der Gelenksendoprothese (81.A1.1-)
 81.A1.11 Tumorendoprothese  
 Beachte: <font color="green">Tumorendoprothesen sind Sonderprothesen.</font> Tumorendoprothesen bezeichnen <font color="red">~~eine Sonderform der~~</font> Endoprothesen, die eine Überbrückung eines Knochendefekts sowie eine Rekonstruktion ermöglichen, nach Resektion von primären und sekundären malignen Knochentumoren. Der künstliche (metallische) Knochen- und Gelenkersatz entspricht der Länge und Dicke des entfernten Knochens.  
 {{</markdown>}}
+
+{{<markdown>}}
 {{<pul>}}
 81.A1.12 Modulare Prothese  
 {{<indent level="4">}}
