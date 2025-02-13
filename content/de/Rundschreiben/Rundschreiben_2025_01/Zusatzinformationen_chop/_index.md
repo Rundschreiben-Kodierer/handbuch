@@ -184,36 +184,59 @@ Verdeutlichung wurde ebenfalls die Präzisierung 0758 im Anhang dieses Rundschre
 93.59.5- Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage  
 Inkl. Kontakt-, Tröpfchen- und Aerosolisolierung  
 Beachte:  
-<font color="green">A. Die Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern beinhaltet die strikte Iso-lierung sowie die Schlüsselkomponenten der Swissnoso Empfehlungen.</font>  
+<font color="green">A. Die Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern beinhaltet die strikte Isolierung
+{{<pul>}}
+{{<indent level="7">}}
+{{<markdown>}}
+ sowie die Schlüsselkomponenten der Swissnoso Empfehlungen.</font>  
 […]  
 Mindestmerkmal Punkt 1, Untersuchungen:  
 Durchführung von speziellen Untersuchungen inkl. mikrobiologischen Schnelltests zur Feststellung der Träger-schaft von multiresistenten Erregern oder der erfolgreichen Sanierung der Kolonisierung oder Infektion sowie zur Prävention einer Weiterverbreitung. <font color="green">Die Kodes der Elementegruppe 93.59.5- dürfen nur erfasst werden bei multi-resistenten Erregern der ICD-10-GM-Kodes U80! - U82!</font>. Bezieht sich v.a. auf die «Schlüsselkomponente 1: Richtlinien und Weisungen» und «Schlüsselkomponente 6: Surveillance und Ausbrüche» des Referenzdoku-ments «Strukturelle Mindestanforderungen für die Prävention und Bekämpfung von healthcare-assoziierten Infek-tionen (HAI) bei hospitalisierten Patientinnen und Patienten für Schweizer Akutspitäler».  
 […]  
+{{</markdown>}}
+  {{</indent>}}
+  {{</pul>}}
+
 […]  
 99.84.1- Kontaktisolierung, nach Anzahl Behandlungstage  
 Kod. eb.: Falls durchgeführt - Aerosolisolierung, nach Anzahl Behandlungstage (99.84.3-)  
 Exkl. Kode weglassen - Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage (93.59.5-)  
-Beachte: Massnahmen bei Patientinnen / Patienten mit Verdacht auf oder Nachweis von infektiösen Krankheitserregern, welche über direkten oder indirekten Kontakt übertragen werden können. <font color="green">Diese Massnahmen erfüllen die Krite-rien für die Komplexbehandlung bei Besiedelung oder Infektion mit multiresistenten Erregern [MRE] nicht.</font>  
+Beachte: Massnahmen bei Patientinnen / Patienten mit Verdacht auf oder Nachweis von infektiösen Krankheitserregern, 
+{{<pul>}}
+{{<indent level="7">}}
+{{<markdown>}}
+welche über direkten oder indirekten Kontakt übertragen werden können. <font color="green">Diese Massnahmen erfüllen die Krite-rien für die Komplexbehandlung bei Besiedelung oder Infektion mit multiresistenten Erregern [MRE] nicht.</font>  
 Die Liste der Indikationen für diese Massnahmen wird von den Expertinnen / Experten für Spitalhygiene der je-weiligen Institution erstellt. <font color="red">~~Sie umfasst unter anderem den Verdacht auf oder Nachweis von Kolonisation durch multiresistente Erreger~~.</font>  
 Die Massnahmen umfassen:  
 - Unterbringung der Patientin / des Patienten in einem Einbettzimmer, oder in einer Zonenisolierung innerhalb eines Mehrbettzimmers, oder in einem Mehrbettzimmer mit anderen Patientinnen / Patienten, die die gleiche Indi-kation teilen [Kohortierung],
 - Desinfektion von Untersuchungs- und Behandlungsräumen. 
+{{</markdown>}}
+  {{</indent>}}
+  {{</pul>}}
+
 […]  
 99.84.2- Tröpfchenisolierung, nach Anzahl Behandlungstage  
 Exkl. Kode weglassen - Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage (93.59.5-)  
 Beachte: Massnahmen bei Patientinnen / Patienten mit Verdacht auf oder Nachweis von über Tröpfchen übertragbaren Krankheitserregern.
+{{<pul>}}
+{{<indent level="7">}}
+{{<markdown>}}
 <font color="green">Diese Massnahmen erfüllen die Kriterien für die Komplexbehandlung bei Besiedelung oder Infektion mit multiresistenten Erregern [MRE] nicht.
 </font>  
 Die Liste der Indikationen für diese Massnahmen wird von den Expertinnen / Experten für Spitalhygiene der je-weiligen Institution erstellt.  
 Die Massnahmen umfassen:  
 - Unterbringung der Patientin / des Patienten in einem Einbettzimmer, oder in einer Zonenisolierung innerhalb eines Mehrbettzimmers, oder in einem Mehrbettzimmer mit anderen Patientinnen / Patienten, die die gleiche Indi-kation teilen [Kohortierung],  
 - Desinfektion von Untersuchungs- und Behandlungsräumen  
+{{</markdown>}}
+  {{</indent>}}
+  {{</pul>}}
+
 [….]  
 99.84.3- Aerosolisolierung, nach Anzahl Behandlungstage  
 Exkl. Kode weglassen - Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage (93.59.5-)  
 Beachte: Massnahmen bei Patientinnen / Patienten mit Verdacht auf oder Nachweis von über Aerosole übertragbaren Krankheitserregern. 
 {{<pul>}}
-{{<indent level="5">}}
+{{<indent level="7">}}
 {{<markdown>}}
 <font color="green">Diese Massnahmen erfüllen die Kriterien für die Komplexbehandlung bei Besiedelung oder Infektion mit multiresistenten Erregern [MRE] nicht.</font>  
 Die Liste der Indikationen für diese Massnahmen umfasst Varizellen, disseminierten Herpes zoster, Masern, Tu-berkulose; diese Liste kann von den Expertinnen / Experten für Spitalhygiene der jeweiligen Institution ergänzt werden, beispielsweise im Falle von sog. Emerging Infections.  
