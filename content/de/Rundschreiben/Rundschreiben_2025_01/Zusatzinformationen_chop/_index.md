@@ -76,9 +76,7 @@ Beschreibung «Drainage durch Aspiration an der Niere» unter 55.92 aufzunehmen.
    {{</markdown>}}
    {{<pul>}}
       {{<indent level="5">}}
-      {{<markdown>}}
       <font color="green">Nephrostomie, perkutan-transrenal (55.02.10)</font><br>
-      {{</markdown>}}
       {{</indent>}}
    {{</pul>}}
    {{</indent>}}
