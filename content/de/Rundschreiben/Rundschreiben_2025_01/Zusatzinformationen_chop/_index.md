@@ -204,14 +204,12 @@ Beachte:
 {{<indent level="4">}}
 <font color="green">A. Die Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern beinhaltet die strikte Isolierung
  sowie die Schlüsselkomponenten der Swissnoso Empfehlungen.</font>  
-{{<markdown>}}
 […]  
 Mindestmerkmal Punkt 1, Untersuchungen:  
 Durchführung von speziellen Untersuchungen inkl. mikrobiologischen Schnelltests zur Feststellung der Träger-schaft von multiresistenten Erregern oder der erfolgreichen Sanierung der Kolonisierung oder Infektion sowie zur Prävention einer Weiterverbreitung. <font color="green">Die Kodes der Elementegruppe 93.59.5- dürfen nur erfasst werden bei multi-resistenten Erregern der ICD-10-GM-Kodes U80! - U82!</font>. Bezieht sich v.a. auf die «Schlüsselkomponente 1: Richtlinien und Weisungen» und «Schlüsselkomponente 6: Surveillance und Ausbrüche» des Referenzdoku-ments «Strukturelle Mindestanforderungen für die Prävention und Bekämpfung von healthcare-assoziierten Infek-tionen (HAI) bei hospitalisierten Patientinnen und Patienten für Schweizer Akutspitäler».  
 […]  
-{{</markdown>}}
-  {{</indent>}}
-  {{</pul>}}
+{{</indent>}}
+{{</pul>}}
 
 […]  
 99.84.1- Kontaktisolierung, nach Anzahl Behandlungstage  
