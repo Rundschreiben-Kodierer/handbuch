@@ -37,13 +37,13 @@ ist für eine spätere CHOP-Version geplant.
 00.99.11 Reoperation in einem bereits offen chirurgisch, thorakoskopisch, <font color="red">~~und~~</font> aparoskopisch <font color="green">und arthroskopisch</font> voroperierten
 {{</markdown>}}
 {{<pul>}}
-{{<indent level="5">}}
+{{<indent level="4">}}
    {{<markdown>}}
    Gebiet  
    Beachte: Zusatzkode für die <font color="red">~~Wiedereröffnung eines Operationsgebietes~~</font> <font color="green">Reoperation </font>zur Behandlung einer Komplikation,  
    {{</markdown>}}
       {{<pul>}}
-      {{<indent level="5">}}
+      {{<indent level="4">}}
       {{<markdown>}}
       zur Durchführung einer Rezidivoperation oder zur Durchführung einer anderen Operation in diesem Operations  
       gebiet, sofern in den organspezifischen Kapiteln kein spezifischer Kode vorhanden ist.
@@ -73,7 +73,7 @@ Beschreibung «Drainage durch Aspiration an der Niere» unter 55.92 aufzunehmen.
 {{</markdown>}}
 {{<pul>}}
 55.92 Perkutane Aspiration an der Niere (Nierenbecken
-{{<indent level="5">}}
+{{<indent level="4">}}
    {{<markdown>}}
    Aspiration einer Nierenzyste  
    Nierenpunktion  
@@ -81,7 +81,7 @@ Beschreibung «Drainage durch Aspiration an der Niere» unter 55.92 aufzunehmen.
    <font color="green">Exkl. Nephrotomie, perkutan-transrenal (55.01.10)</font><br>
    {{</markdown>}}
    {{<pul>}}
-      {{<indent level="5">}}
+      {{<indent level="4">}}
       <font color="green">Nephrostomie, perkutan-transrenal (55.02.10)</font><br>
       {{</indent>}}
    {{</pul>}}
@@ -203,7 +203,7 @@ Kod. eb.: Falls durchgeführt - Aerosolisolierung, nach Anzahl Behandlungstage (
 Exkl. Kode weglassen - Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage (93.59.5-)  
 Beachte: Massnahmen bei Patientinnen / Patienten mit Verdacht auf oder Nachweis von infektiösen Krankheitserregern, 
 {{<pul>}}
-{{<indent level="7">}}
+{{<indent level="4">}}
 {{<markdown>}}
 welche über direkten oder indirekten Kontakt übertragen werden können. <font color="green">Diese Massnahmen erfüllen die Krite-rien für die Komplexbehandlung bei Besiedelung oder Infektion mit multiresistenten Erregern [MRE] nicht.</font>  
 Die Liste der Indikationen für diese Massnahmen wird von den Expertinnen / Experten für Spitalhygiene der je-weiligen Institution erstellt. <font color="red">~~Sie umfasst unter anderem den Verdacht auf oder Nachweis von Kolonisation durch multiresistente Erreger~~.</font>  
@@ -219,7 +219,7 @@ Die Massnahmen umfassen:
 Exkl. Kode weglassen - Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage (93.59.5-)  
 Beachte: Massnahmen bei Patientinnen / Patienten mit Verdacht auf oder Nachweis von über Tröpfchen übertragbaren Krankheitserregern.
 {{<pul>}}
-{{<indent level="7">}}
+{{<indent level="4">}}
 {{<markdown>}}
 <font color="green">Diese Massnahmen erfüllen die Kriterien für die Komplexbehandlung bei Besiedelung oder Infektion mit multiresistenten Erregern [MRE] nicht.
 </font>  
@@ -236,7 +236,7 @@ Die Massnahmen umfassen:
 Exkl. Kode weglassen - Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage (93.59.5-)  
 Beachte: Massnahmen bei Patientinnen / Patienten mit Verdacht auf oder Nachweis von über Aerosole übertragbaren Krankheitserregern. 
 {{<pul>}}
-{{<indent level="7">}}
+{{<indent level="4">}}
 {{<markdown>}}
 <font color="green">Diese Massnahmen erfüllen die Kriterien für die Komplexbehandlung bei Besiedelung oder Infektion mit multiresistenten Erregern [MRE] nicht.</font>  
 Die Liste der Indikationen für diese Massnahmen umfasst Varizellen, disseminierten Herpes zoster, Masern, Tu-berkulose; diese Liste kann von den Expertinnen / Experten für Spitalhygiene der jeweiligen Institution ergänzt werden, beispielsweise im Falle von sog. Emerging Infections.  
