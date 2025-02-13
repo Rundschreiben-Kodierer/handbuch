@@ -73,6 +73,7 @@ Beschreibung «Drainage durch Aspiration an der Niere» unter 55.92 aufzunehmen.
    Nierenpunktion  
    <font color="green">Drainage durch Aspiration an der Niere</font><br>
    <font color="green">Exkl. Nephrotomie, perkutan-transrenal (55.01.10)</font><br>
+   {{</markdown>}}
    {{<pul>}}
       {{<indent level="5">}}
       {{<markdown>}}
