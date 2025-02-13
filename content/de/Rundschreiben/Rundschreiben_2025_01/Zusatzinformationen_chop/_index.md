@@ -113,10 +113,20 @@ die «Beachte» wie folgt anzupassen. Eine achsengeführte Knie-Totalendoprothes
 Kodes 81.54.23 «Erstimplantation einer achsengeführten Totalendoprothese des Kniegelenks» und 81.54.33 «Implantation einer
 achsengeführten Totalendoprothese des Kniegelenks bei einem Prothesenwechsel» ist der Zusatzkode 81.A1.13 «Langschaftprothese» somit nicht zu erfassen.
 
+{{</markdown>}}
+
+{{<pul>}}
 81.51.12 Erstimplantation einer Totalendoprothese des Hüftgelenks, Sonderprothese  
+{{<indent level="4">}}
+{{<markdown>}}
 Beachte: Bei den Sonderprothesen handelt es sich um Tumorprothesen<font color="red">~~,~~</font> <font color="green">und</font> modulare Prothesen <font color="red">~~und Langschaftprothesen~~</font>. Der Prothesentyp ist mit einem Zusatzkode zu präzisieren.  
 Kod. eb.: Falls durchgeführt - Verwendung von patientenindividuell angepassten und gefertigten Implantaten und Schablo-nen (00.9A.6-)  
 Typ der Gelenksendoprothese (81.A1.1-)  
+{{</markdown>}}
+{{</indent>}}
+{{</pul>}}
+
+{{<markdown>}}
 […]
 81.51.22 Implantation einer Totalendoprothese des Hüftgelenks, Sonderprothese bei einem Prothesenwechsel  
 Beachte: Bei den Sonderprothesen handelt es sich um Tumorprothesen<font color="red">~~,~~</font> <font color="green">und </font> modulare Prothesen <font color="red">~~und Langschaftprothesen~~</font>. Der Prothesentyp ist mit einem Zusatzkode zu präzisieren.  
@@ -126,11 +136,22 @@ Typ der Gelenksendoprothese (81.A1.1-)
 81.A1.1- Typ der Gelenksendoprothese  
 81.A1.11 Tumorendoprothese  
 Beachte: <font color="green">Tumorendoprothesen sind Sonderprothesen.</font> Tumorendoprothesen bezeichnen <font color="red">~~eine Sonderform der~~</font> Endoprothesen, die eine Überbrückung eines Knochendefekts sowie eine Rekonstruktion ermöglichen, nach Resektion von primären und sekundären malignen Knochentumoren. Der künstliche (metallische) Knochen- und Gelenkersatz entspricht der Länge und Dicke des entfernten Knochens.  
+{{</markdown>}}
+{{<pul>}}
 81.A1.12 Modulare Prothese  
-Beachte:  <font color="red">~~Die modulare Prothese ist eine Sonderform der Endoprothese.  ~~</font><font color="green">Modulare Prothesen sind Sonderprothesen.</font> Sie ermöglichten die Überbrückung eines Knochendefekts, der aufgrund einer Krankheit oder eines Traumas entstan-den ist, mittels künstlichem (metallischem) Knochen- und Gelenkersatz.  
+{{<indent level="4">}}
+{{<markdown>}}
+Beachte:  <font color="red">~~Die modulare Prothese ist eine Sonderform der Endoprothese.  ~~</font><font color="green">Modulare Prothesen sind Sonderprothesen.</font> 
+{{</markdown>}}
+{{<indent level="4">}}
+Sie ermöglichten die Überbrückung eines Knochendefekts, der aufgrund einer Krankheit oder eines Traumas entstan-den ist, mittels künstlichem (metallischem) Knochen- und Gelenkersatz.  
 Nicht als knöcherne Defektsituation betrachtet werden: - eine alleinige Osteoporose ohne pathologische Fraktur, -eine operationsbedingte Resektion eines gelenktragenden Anteils.  
 Der knöcherne Defekt muss an der knöchernen Struktur lokalisiert sein, an der der modulare Teil der Prothese implantiert wird.  
 Die gelenkbildende Komponente der modularen Endoprothese, d.h. die Komponente, die die Funktion der Pro-these sicherstellt, besteht aus mindestens 3 metallischen Einzelbauteilen. Der Aufsteckkopf der Endoprothese zählt nicht zu den Einzelbauteilen.  
+{{</indent>}}
+{{</indent>}}
+{{</pul>}}
+
 {{</markdown>}}
 
 {{<pul>}}
