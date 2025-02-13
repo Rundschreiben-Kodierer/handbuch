@@ -161,8 +161,8 @@ Bei den Zusatzinformationen der Elementegruppe 93.8A.2-, der Subkategorie 93.8B.
 zu korrigieren.  
 Zum Verständnis des Exklusivum – Kode weglassen bei Komplexbehandlungen s. Präzisierung 0756 im Anhang dieses Rundschreibens. Zudem wurde die Präzisierung 0757 «Informationen und Präzisierungen zur Palliative Care» ergänzt.
   
-93.8A.2- Palliativmedizinische Komplexbehandlung, nach Anzahl Behandlungstage
 {{</markdown>}}
+93.8A.2- Palliativmedizinische Komplexbehandlung, nach Anzahl Behandlungstage
 {{<pul>}}
 {{<indent level="4">}}
 {{<markdown>}}
