@@ -42,11 +42,14 @@ ist für eine spätere CHOP-Version geplant.
    Gebiet  
    Beachte: Zusatzkode für die <font color="red">~~Wiedereröffnung eines Operationsgebietes~~</font> <font color="green">Reoperation </font>zur Behandlung einer Komplikation,  
    {{</markdown>}}
+      {{<pul>}}
       {{<indent level="5">}}
       {{<markdown>}}
-      zur Durchführung einer Rezidivoperation oder zur Durchführung einer anderen Operation in diesem Operationsgebiet, sofern in den organspezifischen Kapiteln kein spezifischer Kode vorhanden ist.
+      zur Durchführung einer Rezidivoperation oder zur Durchführung einer anderen Operation in diesem Operations
+      gebiet, sofern in den organspezifischen Kapiteln kein spezifischer Kode vorhanden ist.
       {{</markdown>}}
       {{</indent>}}
+      {{</pul>}}
 {{</indent>}}
 {{</pul>}}
   
