@@ -36,15 +36,19 @@ ist für eine spätere CHOP-Version geplant.
   
 00.99.11 Reoperation in einem bereits offen chirurgisch, thorakoskopisch, <font color="red">~~und~~</font> aparoskopisch <font color="green">und arthroskopisch</font> voroperierten
 {{</markdown>}}
-
-{{<indent level="7">}}
-
-{{<markdown>}}
-Gebiet  
-Beachte: Zusatzkode für die <font color="red">~~Wiedereröffnung eines Operationsgebietes~~</font> <font color="green">Reoperation </font>zur Behandlung einer Komplikation,
-zur Durchführung einer Rezidivoperation oder zur Durchführung einer anderen Operation in diesem Operationsgebiet, sofern in den organspezifischen Kapiteln kein spezifischer Kode vorhanden ist.
-{{</markdown>}}
+{{<pul>}}
+{{<indent level="5">}}
+   {{<markdown>}}
+   Gebiet  
+   Beachte: Zusatzkode für die <font color="red">~~Wiedereröffnung eines Operationsgebietes~~</font> <font color="green">Reoperation </font>zur Behandlung einer Komplikation,  
+   {{</markdown>}}
+      {{<indent level="5">}}
+      {{<markdown>}}
+      zur Durchführung einer Rezidivoperation oder zur Durchführung einer anderen Operation in diesem Operationsgebiet, sofern in den organspezifischen Kapiteln kein spezifischer Kode vorhanden ist.
+      {{</markdown>}}
+      {{</indent>}}
 {{</indent>}}
+{{</pul>}}
   
 {{<markdown>}}
 00.99.12 <font color="red">~~Offen chirurgische, thorakoskopische oder laparoskopische~~</font> Operation in einem bereits perkutan interventionell vorbehandelten oder bestrahlten Gebiet
