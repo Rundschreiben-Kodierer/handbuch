@@ -81,7 +81,6 @@ Beschreibung «Drainage durch Aspiration an der Niere» unter 55.92 aufzunehmen.
       {{</markdown>}}
       {{</indent>}}
    {{</pul>}}
-   {{</markdown>}}
    {{</indent>}}
 
 {{</article>}}
