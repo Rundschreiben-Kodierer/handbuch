@@ -3203,7 +3203,7 @@ Der Kode 7A.A2 «Implantation von mitwachsenden oder expandierenden Systemen, Wi
 {{</article>}}
 
 <a id="0820"></a>
-{{<article number="0820"  date="01.07.2020" title="Verwendung der Zusatzkodes U69.3-! «Sekundäre Schlüsselnummern für die Art des Konsums psychotroper Substanzen bei durch diese verursachten psychischen und Verhaltensstörungen»" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<article number="0820"  date="01.07.2020" title="Verwendung der Zusatzkodes U69.3-! «Sekundäre Schlüsselnummern für die Art des Konsums psychotroper Substanzen bei durch diese verursachten psychischen und Verhaltensstörungen»" collapsibleClass="d-inline-block" groupId="RS2024_2" numberColor="black">}}
 {{<markdown>}}
 Grundsätzlich sind die Hinweise bei den entsprechenden Schlüsselnummern F10 – F19 «Psychische und Verhaltensstörungen durch psychotrope Substanzen» in der ICD-10-GM zu beachten.  
 Ergänzend dazu wird der nichtintravenöse Konsum von Kokain mit dem Kode U69.36! «Nichtintravenöser Konsum sonstiger Stimu-lanzien, ausser Koffein» zusätzlich zum zutreffenden Kode aus F14.- «Psychische und Verhaltensstörungen durch Kokain» abgebil-det.
