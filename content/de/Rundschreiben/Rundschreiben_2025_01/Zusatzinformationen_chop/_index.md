@@ -162,12 +162,26 @@ zu korrigieren.
 Zum Verständnis des Exklusivum – Kode weglassen bei Komplexbehandlungen s. Präzisierung 0756 im Anhang dieses Rundschreibens. Zudem wurde die Präzisierung 0757 «Informationen und Präzisierungen zur Palliative Care» ergänzt.
   
 93.8A.2- Palliativmedizinische Komplexbehandlung, nach Anzahl Behandlungstage  
+{{</markdown>}}
+{{<pul>}}
+{{<indent level="4">}}
+{{<markdown>}}
 <font color="green">Exkl.: Kode weglassen - Spezialisierte Palliative Care (93.8B.-)</font>   
+{{</markdown>}}
+  {{</indent>}}
+  {{</pul>}}
+{{<markdown>}}
 […]  
 93.8B.- Spezialisierte Palliative Care  
+{{</markdown>}}
+{{<pul>}}
+{{<indent level="4">}}
+{{<markdown>}}
 <font color="green">Exkl.: Kode weglassen - Palliativmedizinische Komplexbehandlung, nach Anzahl Behandlungstage (93.8A.2-)</font>  
 […]  
 {{</markdown>}}
+  {{</indent>}}
+  {{</pul>}}
 
 {{</article>}}
 
@@ -186,7 +200,7 @@ Inkl. Kontakt-, Tröpfchen- und Aerosolisolierung
 Beachte:  
 <font color="green">A. Die Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern beinhaltet die strikte Isolierung
 {{<pul>}}
-{{<indent level="7">}}
+{{<indent level="4">}}
 {{<markdown>}}
  sowie die Schlüsselkomponenten der Swissnoso Empfehlungen.</font>  
 […]  
