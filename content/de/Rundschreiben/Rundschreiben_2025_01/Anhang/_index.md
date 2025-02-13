@@ -40,7 +40,7 @@ Z. B.:
 {{<collapsibleGroupCommand groupId="RS2024_2">}}
 
 <a id="0756"></a>
-{{<article number="0756" date="01.07.2024" title="«Exklusivum – Kode weglassen» bei Komplexbehandlungen" collapsibleClass="d-inline-block" groupId="RS2024_2" numberColor="black">}}
+{{<article number="0756" date="01.07.2024" title="«Exklusivum – Kode weglassen» bei Komplexbehandlungen" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
 {{<markdown>}}
 In der Einleitung der CHOP im Abschnitt «Technische Bemerkungen zur CHOP» - «Zusatzinformationen» steht
 […]  
@@ -285,7 +285,7 @@ Werden hingegen ein craniales MRI, eine neurophysiologische Diagnostik sowie ein
 {{</article>}}
 
 <a id="0762"></a>
-{{<article number="0762" date="01.01.2024" title="Berücksichtigte Therapiedauer"  collapsibleClass="d-inline-block" groupId="RS2024_2" >}}
+{{<article number="0762" date="01.01.2024" title="Berücksichtigte Therapiedauer"  collapsibleClass="d-inline-block" groupId="RS2024_2" numberColor="black">}}
 {{<markdown>}}
 Bei einer Gruppentherapie ist die gesamte Therapiedauer zu zählen, an der die Patientin / der Patient anwesend ist. Z. B. wenn fünf Patient/innen an einer Stunde Gruppentherapie teilgenommen haben, werden bei jeder Patientin/jedem Patienten 60 Minuten Thera-piedauer angerechnet.  
 Wird bei einer Gruppen- oder Einzeltherapie die gleiche Therapieart / Therapieleistung durch zwei oder mehr Therapeuten / Pflege-fachpersonen erbracht, ist die erbrachte Therapiezeit einmal zu zählen. Es gilt unabhängig von der Anzahl der Therapeuten, die Therapiezeit am/an den Patienten.  
@@ -309,7 +309,7 @@ Die Präzisierung 0764 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersetzt dur
 {{</article>}}
 
 <a id="0765"></a>
-{{<article number="0765"  date="01.01.2024" title="Alleiniger Schaft- oder Kopfwechsel bei einer (inversen) Schultergelenk-Endoprothese" collapsibleClass="d-inline-block" groupId="RS2024_2" removed="false">}}
+{{<article number="0765"  date="01.01.2024" title="Alleiniger Schaft- oder Kopfwechsel bei einer (inversen) Schultergelenk-Endoprothese" collapsibleClass="d-inline-block" groupId="RS2024_2" removed="false" numberColor="black">}}
 {{<markdown>}}
 In der CHOP gibt es keine spezifischen Kodes für den Schaftwechsel bei einer inversen Schultergelenk-Endoprothese. Bis zur Bil-dung von spezifischen Kodes sind für das Entfernen des Schafts der Kode 80.01.09 «Arthrotomie zur Prothesenentfernung an der Schulter, sonstige» und für die Implantation (bei einem Wechsel) der Kode 81.81.35 «Implantation Inlay, Kopf sowie Schaft, Totalen-doprothese Schultergelenk, bei Wechsel von Komponenten» zu erfassen.  
 Bei einem alleinigen Wechsel vom Prothesenkopf sind die CHOP-Kodes 80.01.09 «Arthrotomie zur Prothesenentfernung an der Schulter, sonstige» + 81.81.34 «Implantation Inlay sowie Kopf, Totalendoprothese Schultergelenk, bei Wechsel von Komponenten» zu verwenden.
@@ -317,7 +317,7 @@ Bei einem alleinigen Wechsel vom Prothesenkopf sind die CHOP-Kodes 80.01.09 «Ar
 {{</article>}}
   
 <a id="0766"></a>
-{{<article number="0766"  date="01.01.2024" title="7A.7- Stabilisierung der Wirbelsäule und Stellungskorrektur – Zugang dorsal und/oder dorsolate-ral" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<article number="0766"  date="01.01.2024" title="7A.7- Stabilisierung der Wirbelsäule und Stellungskorrektur – Zugang dorsal und/oder dorsolate-ral" collapsibleClass="d-inline-block" groupId="RS2024_2" numberColor="black">}}
 {{<markdown>}}
 Für die Subkategorien 7A.71.- bis 7A.74.- erfolgte die Aufgliederung in 5. Stelle für den Zugang «dorsal und dorsolateral», bzw. «ventral», in 6. Stelle nach der Anzahl behandelter Segmente (aufgegliedert bis 14 und mehr). Das «und» ist gemäss CHOP-Kon-ventionen als «und/oder» zu verstehen. Das «Beachte» unter 7A.7- «Stabilisierung der Wirbelsäule und Stellungskorrektur» lautet: «Erfolgt der Zugang für gewisse Segmente von dorsal sowie von ventral, so ist für das gesamte Eingriffsgebiet die gesamte Anzahl der Segmente die von dorsal operiert wurden mit einem Kode anzugeben, sowie die gesamte Anzahl der Segmente, die von ventral operiert wurden mit einem anderen Kode. Zusätzlich wird der Zusatzkode der gesamten Anzahl operierter Segmente angegeben.»  
 Die dorsolateralen Zugänge zählen zu den dorsalen Zugängen. Sprich das Segment wird nicht doppelt gezählt, wenn es von dorsal sowie dorsolateral operiert wird.
@@ -330,7 +330,7 @@ Im Beispiel der folgenden Abbildung erfolgte eine Spondylodese über sechs Wirbe
 {{</article>}}
   
 <a id="0767"></a>
-{{<article number="0767"  date="01.01.2024" title="Auflistung von Massnahmen in den Komplexbehandlungen oder Komplexdiagnostiken" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<article number="0767"  date="01.01.2024" title="Auflistung von Massnahmen in den Komplexbehandlungen oder Komplexdiagnostiken" collapsibleClass="d-inline-block" groupId="RS2024_2" numberColor="black">}}
 {{<markdown>}}
 Bei den Kodes der Subkategorie 39.71.- «Endovaskuläre Implantation eines Stent-Grafts [Stent-Prothesen] an der abdominalen Aorta» und der Elementegruppe 39.73.4- «Endovaskuläre Implantation von Stent-Grafts [Stent-Prothesen] in die Aorta thoracoabdo-minalis» ist mit den Zusatzkodes 39.78.5- «Ende der untersten Stent-Grafts [Stent-Prothesen]» anzugeben, wie der Stent-Graft en-det.  
 Die Elementegruppe 39.78.5- umfasst drei Zusatzkodes:  
@@ -371,7 +371,7 @@ Folgende Tabelle illustriert die verschiedenen Situationen:
 {{</article>}}
 
 <a id="0768"></a>
-{{<article number="0768"  date="01.01.2024" title="Gefässverschlusskörper vs. Embolie-Protektionssysteme" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<article number="0768"  date="01.01.2024" title="Gefässverschlusskörper vs. Embolie-Protektionssysteme" collapsibleClass="d-inline-block" groupId="RS2024_2" numberColor="black">}}
 {{<markdown>}}
 In der CHOP existieren Kodes für gefässverschliessende Operationen/Interventionen, die s.g. Embolisationen mit Coils, Plugs, Schirmen usw., z. B. 39.79.2- «Coil-Embolisation oder -Verschluss von sonstigen Gefässen», 39.79.5- «Selektive Embolisation von sonstigen Gefässen mit Schirmen» oder 39.79.A- «Selektive Embolisation von sonstigen Gefässen mit Plugs» usw.  
 Des Weiteren stehen die Zusatzkodes aus der Subkategorie 00.4A.- «Anzahl verwendeter endovaskulärer Coils» und 00.4G.- «Einsetzen von Gefässverschlusskörpern» zur Verfügung.  
@@ -383,7 +383,7 @@ Die Kodes 38.7X.11 «Einsetzen eines Embolie-Protektionssystems in die Vena cava
 {{</article>}}
 
 <a id="0769"></a>
-{{<article number="0769"  date="01.01.2024" title="Perkutan-transluminale Thrombektomie an Lungengefässen mittels Thrombusentfernungssystem" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<article number="0769"  date="01.01.2024" title="Perkutan-transluminale Thrombektomie an Lungengefässen mittels Thrombusentfernungssystem" collapsibleClass="d-inline-block" groupId="RS2024_2" numberColor="black">}}
 {{<markdown>}}
 Eine perkutan-transluminale Thrombektomie an Lungengefässen mittels Thrombusentfernungssystem lässt sich anhand von einem Kode und zwei Zusatzkodes erfassen:
 {{</markdown>}}
@@ -410,7 +410,7 @@ Die Präzisierung 0770 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersetzt dur
 {{</article>}}
 
 <a id="0771"></a>
-{{<article number="0771"  date="01.01.2024" title="BA.X0 Art der Rehabilitation, mit weniger als 300 Therapieminuten pro Woche" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<article number="0771"  date="01.01.2024" title="BA.X0 Art der Rehabilitation, mit weniger als 300 Therapieminuten pro Woche" collapsibleClass="d-inline-block" groupId="RS2024_2" numberColor="black">}}
 {{<markdown>}}
 Bei Aufenthalten in der Rehabilitation von weniger als sieben Tagen mit weniger als 300 Minuten ist der absolute Minuten-Wert zu berücksichtigen und nicht die potentielle pro rata Hochrechnung auf sieben Tage. Die Kodes BA.x0 «[…], mit weniger als 300 Thera-pieminuten pro Woche» stehen für diese Fälle zur Verfügung.
 {{</markdown>}}
@@ -424,7 +424,7 @@ Die Präzisierung 0774 wurde im Anhang des Rundschreibens 2024 Nr. 2 ersetzt dur
 {{</article>}}
 
 <a id="0775"></a>
-{{<article number="0775"  date="01.01.2023" title="Peritoneallavage" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<article number="0775"  date="01.01.2023" title="Peritoneallavage" collapsibleClass="d-inline-block" groupId="RS2024_2" numberColor="black">}}
 {{<markdown>}}
 Die diagnostische oder therapeutische Peritoneallavage mittels Punktion ist mit dem Kode 54.91 «Perkutane abdominale Drainage (Punktion)» zu erfassen. Das Exklusivum «Peritoneallavage (54.25)» unter dem Kode 54.91 ist somit zu ignorieren. Das Exklusivum «Diagnostische Aszitespunktion (54.26)» unter dem Kode 54.91 gilt weiterhin.  
 Die diagnostische oder therapeutische Peritoneallavage per Laparoskopie oder per Laparotomie (offen chirurgisch) ist mit dem Kode 54.25 «Peritoneallavage» zu erfassen. Bei einer laparoskopisch durchgeführten Peritoneallavage ist der Kode 54.21.20 «Laparosko-pie, Zugangsweg für chirurgische (therapeutische) Interventionen» zusätzlich zu kodieren.
@@ -432,7 +432,7 @@ Die diagnostische oder therapeutische Peritoneallavage per Laparoskopie oder per
 {{</article>}}
 
 <a id="0780"></a>
-{{<article number="0780"  date="01.07.2022" title="Kodierung der CHOP Subkategorien 94.3D.- «1:1-Betreuung bei psychischen und psychosomati-schen Störungen in der Erwachsenenpsychiatrie» und 94.3E.- «[…] in der Kinder- und Jugendpsychiatrie»" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<article number="0780"  date="01.07.2022" title="Kodierung der CHOP Subkategorien 94.3D.- «1:1-Betreuung bei psychischen und psychosomati-schen Störungen in der Erwachsenenpsychiatrie» und 94.3E.- «[…] in der Kinder- und Jugendpsychiatrie»" collapsibleClass="d-inline-block" groupId="RS2024_2" numberColor="black">}}
 {{<markdown>}}
 Das Mindestmerkmal Punkt 3 _«Therapie»_, der Subkategorien 94.3D.- und 94.3E.- spezifiziert: _«1:1-Betreuung bedeutet, dass eine ausgebildete Fachperson des unter Mindestmerkmal Punkt 4 genannten Behandlungsteams eine einzelne Patientin/einen einzelnen Patienten individuell über einen Zeitraum von mindestens 2 Stunden ohne Unterbrechung fortlaufend betreut»_.  
 Die CHOP erfordert keine physische Anwesenheit im selben Raum. So kann eine kontinuierliche Einzelbetreuung durch eine Scheibe oder einen Bildschirm als 1:1-Betreuung berücksichtigt werden, sofern die anderen Mindestmerkmale eingehalten werden.
@@ -440,14 +440,14 @@ Die CHOP erfordert keine physische Anwesenheit im selben Raum. So kann eine kont
 {{</article>}}
 
 <a id="0782"></a>
-{{<article number="0782"  date="01.07.2022" title="Komplexbehandlungen - Kode «[…], bis 6 Behandlungstage" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<article number="0782"  date="01.07.2022" title="Komplexbehandlungen - Kode «[…], bis 6 Behandlungstage" collapsibleClass="d-inline-block" groupId="RS2024_2" numberColor="black">}}
 {{<markdown>}}
 Die Kodes «[…], bis 6 Behandlungstage» werden in Fällen erfasst, bei denen während des stationären Aufenthalts an maximal 6 Behandlungstagen die jeweils genannte Komplexbehandlung durchgeführt wurde. Diese Kodes beinhalten keine Mindestanzahl Behandlungstage. D. h. bei diesen Kodes entfallen die Mindestmerkmale, die sich auf eine Woche oder bestimmte Anzahl Behand-lungstage beziehen. Mindestmerkmale, wie Indikationen, Assessments, Behandlungsinfrastruktur (z. B. Zertifizierung) und Qualifika-tionen sind einzuhalten.
 {{</markdown>}}
 {{</article>}}
 
 <a id="0785"></a>
-{{<article number="0785"  date="01.07.2022" title="Hydronephrose und Infektion" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<article number="0785"  date="01.07.2022" title="Hydronephrose und Infektion" collapsibleClass="d-inline-block" groupId="RS2024_2" numberColor="black">}}
 {{<markdown>}}
 Die ICD-10-GM-Kodes der 4-stelligen Subkategorie N13.6- «Pyonephrose» werden nur bei einer dokumentierten Infektion der Niere verschlüsselt. Dies betrifft auch den endständigen Kode N13.68 «Sonstige und nicht näher bezeichnete Pyonephrose».  
 Eine Hydronephrose durch Ureterstein mit Harnwegsinfektion nicht näher bezeichneter Lokalisation wird mit N13.21 «Hydroneph-rose bei Obstruktion durch Ureterstein» und N39.0 «Harnwegsinfektion, Lokalisation nicht näher bezeichnet» verschlüsselt.
@@ -455,14 +455,14 @@ Eine Hydronephrose durch Ureterstein mit Harnwegsinfektion nicht näher bezeichn
 {{</article>}}
 
 <a id="0786"></a>
-{{<article number="0786"  date="01.01.2022" title="93.8C.1- Referenzdokument" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<article number="0786"  date="01.01.2022" title="93.8C.1- Referenzdokument" collapsibleClass="d-inline-block" groupId="RS2024_2" numberColor="black">}}
 {{<markdown>}}
 In der CHOP 2022 wurde die «Neurologisch-neurochirurgische Frührehabilitation, nach Anzahl Behandlungstage» von der Kode-Nummer 93.89.1- auf 93.8C.1- verschoben. Im «Mindestmerkmal Punkt 0, Definition und Referenzdokument» der Elementegruppe 93.8C.1- wird im Titel des Referenzdokuments weiterhin die alte Kode-Nummer genannt. Der Inhalt des Referenzdokuments gilt dennoch für die neue Kode-Nummer 93.8C.1-.
 {{</markdown>}}
 {{</article>}}
 
 <a id="0788"></a>
-{{<article number="0788"  date="01.01.2022" title="Spondylodese: Zählung der Segmente bei Stabwechsel und bei Verlängerung" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<article number="0788"  date="01.01.2022" title="Spondylodese: Zählung der Segmente bei Stabwechsel und bei Verlängerung" collapsibleClass="d-inline-block" groupId="RS2024_2" numberColor="black">}}
 {{<markdown>}}
 Die Segmente, bei denen anlässlich eines Revisionseingriffs an der Wirbelsäule nur die Stäbe entfernt (und diese z. B. durch län-gere Stäbe ersetzt werden bei Anschlusssegment-Pathologie) und bei denen sonst keine operativen Massnahmen an den Wirbel-körpern vorgenommen werden, wie z. B. Einsetzen neuer Pedikelschrauben oder eines Cages, Dekortizierung der Facettengelenke, Anlage von lokalem Knochen oder Knochenersatzmaterial, fliessen nicht in die Zählung der operierten Segmente mit ein.
 Ad Zählen der Segmente bei Überbrückung:  
@@ -471,7 +471,7 @@ Bei z. B. vorbestehender Spondylodese L2 – L4 und aktuell Neufusion der Segmen
 {{</article>}}
 
 <a id="0789"></a>
-{{<article number="0789"  date="01.01.2022" title="Erfassen von nicht-vaskulären Stents/Prothesen" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<article number="0789"  date="01.01.2022" title="Erfassen von nicht-vaskulären Stents/Prothesen" collapsibleClass="d-inline-block" groupId="RS2024_2" numberColor="black">}}
 {{<markdown>}}
 Folgende Kodes haben eine Unterteilung nach Anzahl der implantierten Stents/Prothesen. Es gibt für diese Stent-/Prothesen-Typen keine Summen-Kodes über den gesamten Aufenthalt.
 {{<indent level="4">}}
@@ -568,7 +568,7 @@ Tag X:
 {{</article>}}
 
 <a id="0793"></a>
-{{<article number="0793"  date="01.01.2022" title="Kodierung Ulcus hypertonicum (Martorell)" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<article number="0793"  date="01.01.2022" title="Kodierung Ulcus hypertonicum (Martorell)" collapsibleClass="d-inline-block" groupId="RS2024_2" numberColor="black">}}
 {{<markdown>}}
 Beim Ulcus (cruris) hypertonicum handelt es sich um eine spezielle Form des Ulcus cruris, die vorwiegend am laterodorsalen Unter-schenkel oder über der Achillessehne auftritt. Die meisten Betroffenen weisen einen markanten, langzeitig bestehenden Hypertonus auf, in ca. 60% der Fälle kombiniert mit einem Diabetes mellitus Typ 2.  
 Zur Ätiologie des Ulcus hypertonicum gibt es drei Erklärungsansätze: die ischämisierende Arteriosklerose, die Mediakalzinose der pathologischen Arteriolen und die lokalen Entzündungsvorgänge.  
@@ -584,7 +584,7 @@ Durch diese Erfassung kann das Ulcus hypertonicum von anderen Ulcus cruris-Arten
 {{</article>}}
 
 <a id="0801"></a>
-{{<article number="0801"  date="01.07.2021" title="Kodierung transileosakrale Verschraubung einer Os sacrum-Fraktur" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<article number="0801"  date="01.07.2021" title="Kodierung transileosakrale Verschraubung einer Os sacrum-Fraktur" collapsibleClass="d-inline-block" groupId="RS2024_2" numberColor="black">}}
 {{<markdown>}}
 Bei einfachen transalaren Sakrumfrakturen (z. B. im Rahmen einer osteoporotischen Fraktur) mit stabiler Wirbelsäule ist der Kode 7A.49 «Osteosynthese einzelner Wirbel, Kyphoplastie oder Vertebroplastie, sonstige» gefolgt von 81.29.10 «Arthrodese am Iliosakralgelenk» zu kodieren.
   
@@ -593,7 +593,7 @@ Bei Os sacrum-Frakturen, die zu einer Instabilität der Wirbelsäule führen (me
 {{</article>}}
 
 <a id="0808"></a>
-{{<article number="0808"  date="01.01.2021" title="Wechsel einer Knieendoprothese und Implantation weiterer/anderer Komponenten" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<article number="0808"  date="01.01.2021" title="Wechsel einer Knieendoprothese und Implantation weiterer/anderer Komponenten" collapsibleClass="d-inline-block" groupId="RS2024_2" numberColor="black">}}
 {{<markdown>}}
 Wird eine bestehende Knieendoprothese, unabhängig vom Typ, durch eine andere Knieendoprothese ersetzt, ist für die Implantation der Kode mit der Bezeichnung «bei einem Prothesenwechsel» zu wählen. Z. B. Explantation einer Hemiendoprothese und Implanta-tion einer Totalendoprothese am gleichen Knie: für die Implantation muss der Kode 81.54.31 «Implantation einer Standard-Totalen-doprothese des Kniegelenks bei einem Prothesenwechsel» erfasst werden und nicht der Kode 81.54.21 «Erstimplantation einer Standard-Totalendoprothese des Kniegelenks».  
 Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückflächenersatz eingesetzt, muss der Kode 81.54.42 «Implantation eines Patella-Rückflächenersatz bei einem Wechsel» erfasst werden und nicht der Kode 81.54.27 «Erstimplantation eines Patella-Rückflächenersatzes».
@@ -601,7 +601,7 @@ Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückfl
 {{</article>}}
 
 <a id="0810"></a>
-{{<article number="0810"  date="01.01.2021" title="Erfassen der Anzahl implantierter Stents und Stent-Grafts" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<article number="0810"  date="01.01.2021" title="Erfassen der Anzahl implantierter Stents und Stent-Grafts" collapsibleClass="d-inline-block" groupId="RS2024_2" numberColor="black">}}
 {{<markdown>}}
 Diese Präzisierung ist wie folgt gegliedert:
 {{<indent level="4">}}
@@ -735,7 +735,7 @@ Analog der Logik bei den Bypass-Anastomosen zur Revaskularisation (s. 36.1C.- «
 {{</article>}}
 
 <a id="0818"></a>
-{{<article number="0818"  date="01.07.2020" title="Zusatzkode 00.9C.- «Einzeitige Eingriffe an Hand oder Fuss»" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<article number="0818"  date="01.07.2020" title="Zusatzkode 00.9C.- «Einzeitige Eingriffe an Hand oder Fuss»" collapsibleClass="d-inline-block" groupId="RS2024_2" numberColor="black">}}
 
 {{<markdown>}}
 Folgende Tabelle präzisiert die Kodierung von Eingriffskode und Zusatzkode bei einzeitigen Mehrfacheingriffen, am Beispiel der Hand.
@@ -3196,7 +3196,7 @@ div.WordSection1
 {{</article>}}
 
 <a id="0819"></a>
-{{<article number="0819"  date="01.07.2020" title="7A.A2 Growing rod – Zusatzkode – Segmente beim spezifischen Eingriff" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<article number="0819"  date="01.07.2020" title="7A.A2 Growing rod – Zusatzkode – Segmente beim spezifischen Eingriff" collapsibleClass="d-inline-block" groupId="RS2024_2" numberColor="black">}}
 {{<markdown>}}
 Der Kode 7A.A2 «Implantation von mitwachsenden oder expandierenden Systemen, Wirbelsäule» ist ein Zusatzkode und kann da-her nicht alleine kodiert werden. Beim Eingriff handelt es sich um eine dynamische Stabilisierung der Wirbelsäule. Zur Zählung der behandelten Segmente werden nur die Segmente an denen das System befestigt wird berücksichtigt. 7A.72.12 «Dynamische Stabi-lisierung der Wirbelsäule, Zugang dorsal und dorsolateral, 2 Segmente» bildet den Eingriff ab.
 {{</markdown>}}
@@ -3211,14 +3211,14 @@ Ergänzend dazu wird der nichtintravenöse Konsum von Kokain mit dem Kode U69.36
 {{</article>}}
 
 <a id="0826"></a>
-{{<article number="0826"  date="01.07.2020" title="Einweggebrauch-VAC-Pumpensysteme" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<article number="0826"  date="01.07.2020" title="Einweggebrauch-VAC-Pumpensysteme" collapsibleClass="d-inline-block" groupId="RS2024_2" numberColor="black">}}
 {{<markdown>}}
 Einweggebrauch-VAC-Pumpensysteme werden neu mit dem Kode 93.57.21 «Applikation eines epikutanen (Vakuum)-verbandes» kodiert.
 {{</markdown>}}
 {{</article>}}
 
 <a id="0834"></a>
-{{<article number="0834"  date="01.07.2020" title="Lithiumintoxikation" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<article number="0834"  date="01.07.2020" title="Lithiumintoxikation" collapsibleClass="d-inline-block" groupId="RS2024_2" numberColor="black">}}
 {{<markdown>}}
 Wie wird eine Lithiumintoxikation abgebildet?
 Lithium wird in Kombination mit Antidepressiva bei schweren Depressionen, die auf die üblichen Behandlungen nicht ansprechen, verwendet. Lithium wird, aber auch bei der Behandlung akuter Phasen und der Langzeitprophylaxe manisch-depressiver Erkrankun-gen verwendet. Lithium gehört zur Kategorie der **Stimmungsstabilisatoren**. Bei einer Lithiumintoxikation in diesem Zusammenhang ist der Kode T43.8 «Vergiftung durch psychotrope Substanzen, anderenorts nicht klassifiziert, sonstige psychotrope Substanzen, anderenorts nicht klassifiziert» zu erfassen und **nicht** der Kode T43.2 «Vergiftung durch psychotrope Substanzen, anderenorts nicht klassifiziert, sonstige und nicht näher bezeichnete Antidepressiva».
@@ -3226,7 +3226,7 @@ Lithium wird in Kombination mit Antidepressiva bei schweren Depressionen, die au
 {{</article>}}
 
 <a id="0845"></a>
-{{<article number="0845"  date="01.07.2020" title="Kollagenmatrix zur autologen Chondrozytentransplantation oder als azelluläres Implantat" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<article number="0845"  date="01.07.2020" title="Kollagenmatrix zur autologen Chondrozytentransplantation oder als azelluläres Implantat" collapsibleClass="d-inline-block" groupId="RS2024_2" numberColor="black">}}
 {{<markdown>}}
 Wird bei einer subchondralen Knocheneröffnung eines Gelenks eine native Kollagenmatrix (d.h. ohne autologe kultivierte Chondro-zyten) eingebracht, ist, in Abhängigkeit vom Zugang, der Eingriff mit dem Kode «Subchondrale Knocheneröffnung am …Gelenk mit Einbringen eines azellulären Implantats, arthroskopisch» oder mit dem Kode «Subchondrale Knocheneröffnung am …Gelenk mit Einbringen eines azellulären Implantats, offen chirurgisch» abzubilden. Die Kodes der Elementegruppen 81.9A.3- «Autogene matrix-induzierte Chondrozytentransplantation an Gelenken, arthroskopisch» bzw. 81.9A.4- «Autogene matrixinduzierte Chondrozyten-transplantation an Gelenken, offen chirurgisch» dürfen in diesem Fall nicht kodiert werden.  
 Zum Beispiel bedeutet dies für das Kniegelenk, dass bei einer subchondralen Knocheneröffnung mit Einbringen einer nativen Kol-lagenmatrix der 81.47.25 «Subchondrale Knocheneröffnung am Kniegelenk mit Einbringen eines azellulären Implantats, arthrosko-pisch» oder 81.47.28 «Subchondrale Knocheneröffnung am Kniegelenk mit Einbringen eines azellulären Implantats, offen chirur-gisch» zu verwenden ist. Die Kodes 81.9A.3C «Autogene matrixinduzierte Chondrozytentransplantation an Gelenken, Kniegelenk, arthroskopisch » bzw. 81.9A.4C «Autogene matrixinduzierte Chondrozytentransplantation an Gelenken, Kniegelenk, offen chirur-gisch» sind in diesem Fall nicht zu verwenden.
@@ -3234,14 +3234,14 @@ Zum Beispiel bedeutet dies für das Kniegelenk, dass bei einer subchondralen Kno
 {{</article>}}
 
 <a id="0855"></a>
-{{<article number="0855"  date="01.07.2020" title="54.98.- Peritonealdialyse" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<article number="0855"  date="01.07.2020" title="54.98.- Peritonealdialyse" collapsibleClass="d-inline-block" groupId="RS2024_2" numberColor="black">}}
 {{<markdown>}}
 Ein Kode der Subkategorie 54.98.- «Peritonealdialyse» darf auch dann kodiert werden, wenn der Patient/-in diese selbstständig durchführt. Die dazu benötigten Materialien, wie zum Beispiel Spülflüssigkeit usw., müssen dabei von der stationären Abteilung zur Verfügung gestellt werden.
 {{</markdown>}}
 {{</article>}}
 
 <a id="0871"></a>
-{{<article number="0871"  date="01.07.2020" title="CHOP: Definition «endovaskulär»" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<article number="0871"  date="01.07.2020" title="CHOP: Definition «endovaskulär»" collapsibleClass="d-inline-block" groupId="RS2024_2" numberColor="black">}}
 {{<markdown>}}
 Endovaskuläre Interventionen sind Eingriffe innerhalb eines Blutgefässes, wobei dieses am Zielort der Behandlung nicht eröffnet wird. Inhaltlich ähnlich ist der Begriff interventionelles Verfahren. Mit einem Katheter gelangt der Arzt nach Punktion einer Arterie (meistens in der Leiste) unter Bildgebung an die erkrankte Stelle. Dort kann die erkrankte Arterie mit speziellen Kathetern behandelt werden. Beispiele für endovaskuläre Interventionen sind:
 {{<indent level="4">}}
@@ -3256,28 +3256,28 @@ Endovaskuläre Interventionen sind Eingriffe innerhalb eines Blutgefässes, wobe
 {{</article>}}
 
 <a id="0879"></a>
-{{<article number="0879"  date="01.07.2020" title="39.99.21 Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbro-chenem Aortenbogen" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<article number="0879"  date="01.07.2020" title="39.99.21 Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbro-chenem Aortenbogen" collapsibleClass="d-inline-block" groupId="RS2024_2" numberColor="black">}}
 {{<markdown>}}
 Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Methode mit einem präzisen Kode aus Kapitel 7 abge-bildet. Gibt es einen präzisen Kode, wird 39.99.21 nicht kodiert.
 {{</markdown>}}
 {{</article>}}
 
 <a id="0897"></a>
-{{<article number="0897"  date="01.07.2020" title="80.76.10 Arthroskopische Synovektomie am Kniegelenk/80.76.20 Offene Synovektomie am Knie-gelenk" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<article number="0897"  date="01.07.2020" title="80.76.10 Arthroskopische Synovektomie am Kniegelenk/80.76.20 Offene Synovektomie am Knie-gelenk" collapsibleClass="d-inline-block" groupId="RS2024_2" numberColor="black">}}
 {{<markdown>}}
 Die Resektion von Plica oder Hoffa-Fettkörper am Knie wird mit diesen Kodes abgebildet.
 {{</markdown>}}
 {{</article>}}
 
 <a id="0903"></a>
-{{<article number="0903"  date="01.07.2020" title="51.99.00 - 51.99.14, 51.99.91, 51.99.99 Sonstige Operationen an den Gallenwegen" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<article number="0903"  date="01.07.2020" title="51.99.00 - 51.99.14, 51.99.91, 51.99.99 Sonstige Operationen an den Gallenwegen" collapsibleClass="d-inline-block" groupId="RS2024_2" numberColor="black">}}
 {{<markdown>}}
 Diese Kodes sind nur für offen chirurgische oder laparoskopische Eingriffe abzubilden.
 {{</markdown>}}
 {{</article>}}
 
 <a id="0941"></a>
-{{<article number="0941"  date="01.07.2020" title="ABO/AB0 Suchbegriff" collapsibleClass="d-inline-block" groupId="RS2024_2">}}
+{{<article number="0941"  date="01.07.2020" title="ABO/AB0 Suchbegriff" collapsibleClass="d-inline-block" groupId="RS2024_2" numberColor="black">}}
 {{<markdown>}}
 Bei der informatischen Stichwortsuche nach Blutgruppen-assoziierten Kodes gibt es sprachliche Unterschiede:
 {{<indent level="4">}}
