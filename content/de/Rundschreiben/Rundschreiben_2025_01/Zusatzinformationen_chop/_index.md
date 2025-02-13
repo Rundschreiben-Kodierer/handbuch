@@ -131,11 +131,17 @@ Beachte:  <font color="red">~~Die modulare Prothese ist eine Sonderform der Endo
 Nicht als knöcherne Defektsituation betrachtet werden: - eine alleinige Osteoporose ohne pathologische Fraktur, -eine operationsbedingte Resektion eines gelenktragenden Anteils.  
 Der knöcherne Defekt muss an der knöchernen Struktur lokalisiert sein, an der der modulare Teil der Prothese implantiert wird.  
 Die gelenkbildende Komponente der modularen Endoprothese, d.h. die Komponente, die die Funktion der Pro-these sicherstellt, besteht aus mindestens 3 metallischen Einzelbauteilen. Der Aufsteckkopf der Endoprothese zählt nicht zu den Einzelbauteilen.  
-81.A1.13 Langschaftprothese  
-<font color="green">Exkl. Kode weglassen - Erstimplantation einer achsengeführten Totalendoprothese des Kniegelenks (81.54.23)  
-Kode weglassen - Implantation einer achsengeführten Totalendoprothese des Kniegelenks bei einem Prothesenwechsel (81.54.33)</font>
-
 {{</markdown>}}
+
+{{<pul>}}
+81.A1.13 Langschaftprothese  
+{{<indent level="4">}}
+<font color="green">Exkl. Kode weglassen - Erstimplantation einer achsengeführten Totalendoprothese des Kniegelenks (81.54.23)  
+{{<indent level="4">}}
+Kode weglassen - Implantation einer achsengeführten Totalendoprothese des Kniegelenks bei einem Prothesenwechsel (81.54.33)</font>
+{{</indent>}}
+{{</indent>}}
+
 
 {{</article>}}
 
