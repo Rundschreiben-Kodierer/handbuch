@@ -136,11 +136,14 @@ Die gelenkbildende Komponente der modularen Endoprothese, d.h. die Komponente, d
 {{<pul>}}
 81.A1.13 Langschaftprothese  
 {{<indent level="4">}}
+{{<markdown>}}
 <font color="green">Exkl. Kode weglassen - Erstimplantation einer achsengeführten Totalendoprothese des Kniegelenks (81.54.23)  
+{{</markdown>}}
 {{<indent level="4">}}
 Kode weglassen - Implantation einer achsengeführten Totalendoprothese des Kniegelenks bei einem Prothesenwechsel (81.54.33)</font>
 {{</indent>}}
 {{</indent>}}
+{{</pul>}}
 
 
 {{</article>}}
