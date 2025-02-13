@@ -32,7 +32,7 @@ Der Titel vom Kode 00.99.11 ist mit «arthroskopisch» zu ergänzen. Das Beachte
 Der Zugang des neuen Eingriffs wird aus dem Titel des Kodes 00.99.12 gestrichen.  
 Falls ein Gebiet mittels einem anderen endoskopischen Zugang oder einem anderen Zugangsweg als die genannten vorbehandelt
 wurde ist weder der 00.99.11 noch der 00.99.12 zu verwenden. Die Bildung einer entsprechenden Resteklasse vom Typ «sonstige»
-ist für eine spätere CHOP-Version geplant.
+ist für eine spätere CHOP-Version geplant.  
   
 {{</markdown>}}
 00.99.11 Reoperation in einem bereits offen chirurgisch, thorakoskopisch, <font color="red">~~und~~</font> aparoskopisch <font color="green">und arthroskopisch</font> voroperierten
@@ -54,7 +54,7 @@ ist für eine spätere CHOP-Version geplant.
 {{</pul>}}
   
 {{<markdown>}}
-00.99.12 <font color="red">~~Offen chirurgische, thorakoskopische oder laparoskopische~~</font> Operation in einem bereits perkutan interventionell vorbehandelten oder bestrahlten Gebiet
+00.99.12 <font color="red">~~Offen chirurgische, thorakoskopische oder laparoskopische~~</font> Operation in einem bereits perkutan interventionell vorbehandelten oder bestrahlten Gebiet  
 […]
 {{</markdown>}}
 

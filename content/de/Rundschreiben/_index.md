@@ -8,6 +8,8 @@ keywords: []
 ---
 
 
+{{<printButton>}}
+
 
 **Information zur Online-Verfügbarkeit des Rundschreibens für Kodiererinnen und Kodierer 2026 Nr. 1**
   

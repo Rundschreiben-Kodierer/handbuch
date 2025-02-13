@@ -6,6 +6,10 @@ weight: 440
 type: docs
 keywords: []
 ---
+
+{{<printButton>}}
+
+
 **Information zur Online-Verfügbarkeit des Rundschreibens für Kodiererinnen und Kodierer 2026 Nr. 1**
   
 Mit der Publikation des Rundschreibens **2026 Nr. 1** stellt das Bundesamt für Statistik (BFS) das Rundschreiben für Kodiererinnen und Kodierer ab dem 17. Dezember 2025 ausschliesslich online zur Verfügung. Auf die Veröffentlichung einer PDF-Datei des Rundschreibens wird ab diesem Zeitpunkt verzichtet.  
