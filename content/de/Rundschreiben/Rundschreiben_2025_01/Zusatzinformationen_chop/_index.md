@@ -10,7 +10,6 @@ keywords: []
 
 {{<markdown>}}
   
-
 {{<printButton>}}
 
 Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Löschungen in rot~~</font>
@@ -115,35 +114,54 @@ achsengeführten Totalendoprothese des Kniegelenks bei einem Prothesenwechsel» 
 
 {{</markdown>}}
 
-{{<pul>}}
-81.51.12 Erstimplantation einer Totalendoprothese des Hüftgelenks, Sonderprothese  
-{{<indent level="4">}}
+{{<codeEntry level="1" title="81.51.12">}}
 {{<markdown>}}
-Beachte: Bei den Sonderprothesen handelt es sich um Tumorprothesen<font color="red">~~,~~</font> <font color="green">und</font> modulare Prothesen <font color="red">~~und Langschaftprothesen~~</font>. Der Prothesentyp ist mit einem Zusatzkode zu präzisieren.  
-Kod. eb.: Falls durchgeführt - Verwendung von patientenindividuell angepassten und gefertigten Implantaten und Schablo-nen (00.9A.6-)  
+Implantation einer Totalendoprothese des Hüftgelenks, Sonderprothese bei einem Prothesenwechsel
+{{</markdown>}}
+{{</codeEntry>}}
+
+{{<codeEntry level="2" title="Beachte:">}}
+{{<markdown>}}
+Bei den Sonderprothesen handelt es sich um Tumorprothesen<font color="red">~~,~~</font> <font color="green">und </font> modulare Prothesen <font color="red">~~und Langschaftprothesen~~</font>. Der Prothesentyp ist mit einem Zusatzkode zu präzisieren.  
+{{</markdown>}}
+{{</codeEntry>}}
+
+{{<codeEntry level="2" title="Kod. eb.:"  >}}
+{{<markdown>}}
+Falls durchgeführt - Verwendung von patientenindividuell angepassten und gefertigten Implantaten und Schablo-nen (00.9A.6-)  
 Typ der Gelenksendoprothese (81.A1.1-)  
 {{</markdown>}}
-{{</indent>}}
-{{</pul>}}
-
-{{<markdown>}}
-[…]
-81.51.22 Implantation einer Totalendoprothese des Hüftgelenks, Sonderprothese bei einem Prothesenwechsel  
-Beachte: Bei den Sonderprothesen handelt es sich um Tumorprothesen<font color="red">~~,~~</font> <font color="green">und </font> modulare Prothesen <font color="red">~~und Langschaftprothesen~~</font>. Der Prothesentyp ist mit einem Zusatzkode zu präzisieren.  
-Kod. eb.: Falls durchgeführt - Verwendung von patientenindividuell angepassten und gefertigten Implantaten und Schablo-nen (00.9A.6-)
-Typ der Gelenksendoprothese (81.A1.1-)  
+{{</codeEntry>}}
 […]  
+{{<codeEntry level="1" title="81.51.22">}}
+{{<markdown>}}
+Implantation einer Totalendoprothese des Hüftgelenks, Sonderprothese bei einem Prothesenwechsel  
+{{</markdown>}}
+{{</codeEntry>}}
+
+{{<codeEntry level="2" title="Beachte:">}}
+{{<markdown>}}
+Bei den Sonderprothesen handelt es sich um Tumorprothesen<font color="red">~~,~~</font> <font color="green">und </font> modulare Prothesen <font color="red">~~und Langschaftprothesen~~</font>. Der Prothesentyp ist mit einem Zusatzkode zu präzisieren.  
+{{</markdown>}}
+{{</codeEntry>}}
+
+{{<codeEntry level="2" title="Kod. eb.:"  >}}
+{{<markdown>}}
+Falls durchgeführt - Verwendung von patientenindividuell angepassten und gefertigten Implantaten und Schablo-nen (00.9A.6-)  
+Typ der Gelenksendoprothese (81.A1.1-)  
+{{</markdown>}}
+{{</codeEntry>}}
+
 81.A1.1- Typ der Gelenksendoprothese  
 81.A1.11 Tumorendoprothese  
 Beachte: <font color="green">Tumorendoprothesen sind Sonderprothesen.</font> Tumorendoprothesen bezeichnen <font color="red">~~eine Sonderform der~~</font> Endoprothesen, die eine Überbrückung eines Knochendefekts sowie eine Rekonstruktion ermöglichen, nach Resektion von primären und sekundären malignen Knochentumoren. Der künstliche (metallische) Knochen- und Gelenkersatz entspricht der Länge und Dicke des entfernten Knochens.  
-{{</markdown>}}
 
 {{<markdown>}}
 {{<pul>}}
 81.A1.12 Modulare Prothese  
 {{<indent level="4">}}
 {{<markdown>}}
-Beachte:  <font color="red">~~Die modulare Prothese ist eine Sonderform der Endoprothese.  ~~</font><font color="green">Modulare Prothesen sind Sonderprothesen.</font> 
+Beachte:  <font color="red">~~Die modulare Prothese ist eine Sonderform der Endoprothese.~~</font><font color="green">Modulare Prothesen sind Sonderprothesen.</font>
 {{</markdown>}}
 {{<indent level="4">}}
 Sie ermöglichten die Überbrückung eines Knochendefekts, der aufgrund einer Krankheit oder eines Traumas entstan-den ist, mittels künstlichem (metallischem) Knochen- und Gelenkersatz.  
@@ -167,7 +185,6 @@ Kode weglassen - Implantation einer achsengeführten Totalendoprothese des Knieg
 {{</indent>}}
 {{</indent>}}
 {{</pul>}}
-
 
 {{</article>}}
 
@@ -198,7 +215,7 @@ Zum Verständnis des Exklusivum – Kode weglassen bei Komplexbehandlungen s. Pr
 {{<pul>}}
 {{<indent level="4">}}
 {{<markdown>}}
-<font color="green">Exkl.: Kode weglassen - Spezialisierte Palliative Care (93.8B.-)</font>   
+<font color="green">Exkl.: Kode weglassen - Spezialisierte Palliative Care (93.8B.-)</font>
 {{</markdown>}}
   {{</indent>}}
   {{</pul>}}
@@ -247,15 +264,16 @@ Durchführung von speziellen Untersuchungen inkl. mikrobiologischen Schnelltests
 99.84.1- Kontaktisolierung, nach Anzahl Behandlungstage  
 Kod. eb.: Falls durchgeführt - Aerosolisolierung, nach Anzahl Behandlungstage (99.84.3-)  
 Exkl. Kode weglassen - Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage (93.59.5-)  
-Beachte: Massnahmen bei Patientinnen / Patienten mit Verdacht auf oder Nachweis von infektiösen Krankheitserregern, 
+Beachte: Massnahmen bei Patientinnen / Patienten mit Verdacht auf oder Nachweis von infektiösen Krankheitserregern,
 {{<pul>}}
 {{<indent level="4">}}
 {{<markdown>}}
 welche über direkten oder indirekten Kontakt übertragen werden können. <font color="green">Diese Massnahmen erfüllen die Krite-rien für die Komplexbehandlung bei Besiedelung oder Infektion mit multiresistenten Erregern [MRE] nicht.</font>  
 Die Liste der Indikationen für diese Massnahmen wird von den Expertinnen / Experten für Spitalhygiene der je-weiligen Institution erstellt. <font color="red">~~Sie umfasst unter anderem den Verdacht auf oder Nachweis von Kolonisation durch multiresistente Erreger~~.</font>  
 Die Massnahmen umfassen:  
+
 - Unterbringung der Patientin / des Patienten in einem Einbettzimmer, oder in einer Zonenisolierung innerhalb eines Mehrbettzimmers, oder in einem Mehrbettzimmer mit anderen Patientinnen / Patienten, die die gleiche Indi-kation teilen [Kohortierung],
-- Desinfektion von Untersuchungs- und Behandlungsräumen. 
+- Desinfektion von Untersuchungs- und Behandlungsräumen.
 {{</markdown>}}
   {{</indent>}}
   {{</pul>}}
@@ -271,6 +289,7 @@ Beachte: Massnahmen bei Patientinnen / Patienten mit Verdacht auf oder Nachweis 
 </font>  
 Die Liste der Indikationen für diese Massnahmen wird von den Expertinnen / Experten für Spitalhygiene der je-weiligen Institution erstellt.  
 Die Massnahmen umfassen:  
+
 - Unterbringung der Patientin / des Patienten in einem Einbettzimmer, oder in einer Zonenisolierung innerhalb eines Mehrbettzimmers, oder in einem Mehrbettzimmer mit anderen Patientinnen / Patienten, die die gleiche Indi-kation teilen [Kohortierung],  
 - Desinfektion von Untersuchungs- und Behandlungsräumen  
 {{</markdown>}}
@@ -280,20 +299,20 @@ Die Massnahmen umfassen:
 [….]  
 99.84.3- Aerosolisolierung, nach Anzahl Behandlungstage  
 Exkl. Kode weglassen - Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage (93.59.5-)  
-Beachte: Massnahmen bei Patientinnen / Patienten mit Verdacht auf oder Nachweis von über Aerosole übertragbaren Krankheitserregern. 
+Beachte: Massnahmen bei Patientinnen / Patienten mit Verdacht auf oder Nachweis von über Aerosole übertragbaren Krankheitserregern.
 {{<pul>}}
 {{<indent level="4">}}
 {{<markdown>}}
 <font color="green">Diese Massnahmen erfüllen die Kriterien für die Komplexbehandlung bei Besiedelung oder Infektion mit multiresistenten Erregern [MRE] nicht.</font>  
 Die Liste der Indikationen für diese Massnahmen umfasst Varizellen, disseminierten Herpes zoster, Masern, Tu-berkulose; diese Liste kann von den Expertinnen / Experten für Spitalhygiene der jeweiligen Institution ergänzt werden, beispielsweise im Falle von sog. Emerging Infections.  
-Die Massnahmen umfassen:    
+Die Massnahmen umfassen:
+
 - Unterbringung der Patientin / des Patienten in einem Einbettzimmer, vorzugsweise mit Unterdruckbelüftung,
 - Tragen von speziellen Hochleistungsmasken,  
 - Komplette Desinfektion von Untersuchungs- und Behandlungsräumen nach jeder Patientin / jedem Patienten  
 {{</markdown>}}
   {{</indent>}}
   {{</pul>}}
- 
 
 {{</markdown>}}
 
