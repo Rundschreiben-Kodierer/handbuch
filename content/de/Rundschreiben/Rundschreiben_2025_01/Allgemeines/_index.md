@@ -14,8 +14,7 @@ keywords: []
   
 **1.1. Gültige Kodierungsinstrumente**
 
-{{<pul>}}
-  
+ 
 Ab 1. Juli 2024 gelten folgende Kodierungsinstrumente:
 
 {{<indent level="4">}}
@@ -27,7 +26,6 @@ Ab 1. Juli 2024 gelten folgende Kodierungsinstrumente:
 Gesundheitsprobleme - 10. Revision – German Modification
 - ICD-10-GM 2022 Systematisches Verzeichnis, deutsche Version: Zusatzinformationen für den schweizerischen Kontext
 {{</indent>}}
-{{</pul>}}
 
 Die Instrumente zur medizinischen Kodierung finden Sie unter www.statistik.ch → Grundlagen und Erhebungen → Medizinische
 Kodierung und Klassifikationen → Instrumente zur medizinischen Kodierung → Gültige Instrumente zur medizinischen Kodierung je
@@ -78,8 +76,8 @@ Zu spezifischen Einzelfällen gibt das BFS Empfehlungen ab ohne Präjudiz für w
 Die gegebene Empfehlung ist rechtlich nicht bindend. Eine Haftung des BFS im Zusammenhang mit einer erteilten Empfehlung ist 
 daher ausgeschlossen.  
   
-Es werden nur Kodierungsanfragen behandelt, welche in der Beilage alle notwendigen klinischen Unterlagen zur Fallbeurteilung 
-in anonymisierter Form (Austrittsbericht, Operationsbericht, Kodierung etc.) enthalten. Sie sind an codeInfo@bfs.admin.ch zu senden.
+Es werden nur Kodierungsanfragen behandelt, welche in der Beilage **alle notwendigen klinischen Unterlagen zur Fallbeurteilung 
+in anonymisierter Form** (Austrittsbericht, Operationsbericht, Kodierung etc.) enthalten. Sie sind an codeInfo@bfs.admin.ch zu senden.
 Bei Anfragen ohne Dokumentation oder mit ungenügender Dokumentation geben wir keine Empfehlung ab.
   
 {{<pul>}}
