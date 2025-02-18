@@ -1,0 +1,34 @@
+.code-entry {
+    display: flex;
+    align-items: flex-start;
+}
+
+.code-entry-title {
+    min-width: 75px;
+    flex-shrink: 0;
+}
+
+.code-entry-text {
+    flex-grow: 1;
+    text-align: left;
+}
+
+.code-entry-level-1 .code-entry-title {
+    min-width: 75px;
+}
+
+.code-entry-level-2 {
+    padding-left: 75px;
+}
+
+.code-entry-level-3 {
+    padding-left: 150px;
+}
+
+.code-entry-level-4 {
+    padding-left: 225px;
+}
+
+.code-entry-level-5 {
+    padding-left: 300px;
+}

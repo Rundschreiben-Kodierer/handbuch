@@ -38,7 +38,9 @@
             "br",
             "strong",
             "pul",
-            "printButton"
+            "printButton",
+            "codeEntry",
+            "font"
         ]
     }
 }

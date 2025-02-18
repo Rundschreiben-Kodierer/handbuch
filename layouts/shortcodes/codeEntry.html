@@ -1,0 +1,13 @@
+{{ $level := .Get "level" | default "1" }}
+{{ $title := .Get "title" | default "" }}
+{{ $class := .Get "class" | default "" }}
+
+{{ if not (or (eq $level "1") (eq $level "2") (eq $level "3") (eq $level "4") (eq $level "5")) }}
+  {{ errorf "Invalid level value '%s' in shortcode 'code-entry'. Allowed values: 1, 2, 3, 4, 5." $level }}
+{{ end }}
+
+
+<div class="code-entry code-entry-level-{{ $level }} {{ $class }}">
+  <div class="code-entry-title">{{ $title }}</div>
+  <div class="code-entry-text">{{ .Inner }}</div>
+</div>
