@@ -30,3 +30,7 @@ other = "Manuel Rundschreiben Kodierer"
 other = "Département fédéral de l'intérieur DFI"
 [bfs]
 other = "Office fédéral de la statistique"
+
+# Search
+[ui_search]
+other = "Chercher..."

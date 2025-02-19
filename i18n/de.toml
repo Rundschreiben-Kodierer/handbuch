@@ -28,3 +28,7 @@ other = "Handbuch Rundschreiben Kodierer"
 other = "Eidgenössische Departement des Innern EDI"
 [bfs]
 other = "Bundesamt für Statistik"
+
+# Search
+[ui_search]
+other = "Suchen..."

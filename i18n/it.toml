@@ -30,3 +30,7 @@ other = "Rundschreiben Kodierer manuali"
 other = "Dipartimento federale dell’interno DFI"
 [bfs]
 other = "Ufficio federale di statistica"
+
+# Search
+[ui_search]
+other = "Cerca..."

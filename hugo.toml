@@ -108,6 +108,10 @@ description = "Guida e informazioni su Rundschreiben Kodierer"
 
 # Everything below this are Site Params
 [params]
+offlineSearch = true
+offlineSearchSummaryLength = 0
+offlineSearchMaxResults = 100   
+
 # The name corresponds to the name of the site, that is the last element of the baseURL. 
 # depending on the environment of execution (production => handbuch, or test => handbuch-test)
 # This value is intended to be set by the CI.
@@ -127,6 +131,7 @@ gitHash = ""
 [params.ui]
 # Enable to show the side bar menu in its compact state.
 sidebar_menu_compact = true
+sidebar_search_disable = true
 
 # Konfiguration für den Diagramm-Generator Mermaid.
 [params.mermaid]
