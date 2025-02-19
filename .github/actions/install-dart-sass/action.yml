@@ -1,0 +1,28 @@
+# .github/actions/install-dart-sass/action.yml
+name: 'Install Dart Sass'
+description: 'Download and install Dart Sass'
+inputs:
+  dart_sass_version:
+    description: 'The version of Dart Sass to install'
+    required: true
+runs:
+  using: 'composite'
+  steps:
+    - name: Download Dart Sass
+      run: |
+        curl -L -o dart-sass.tar.gz "https://github.com/sass/dart-sass/releases/download/${{ inputs.dart_sass_version }}/dart-sass-${{ inputs.dart_sass_version }}-linux-x64.tar.gz"
+      shell: bash
+
+    - name: Extract Dart Sass
+      run: |
+        mkdir -p $HOME/dart-sass
+        tar -xzf dart-sass.tar.gz -C $HOME/dart-sass --strip-components=1
+      shell: bash
+
+    - name: Add Dart Sass to PATH
+      run: echo "$HOME/dart-sass" >> $GITHUB_PATH
+      shell: bash
+
+    - name: Verify Dart Sass installation
+      run: sass --version
+      shell: bash

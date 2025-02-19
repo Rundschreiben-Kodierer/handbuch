@@ -2,10 +2,6 @@
 name: Check Build
 
 on:
-  # Runs on pushes targeting the main branch
-  push:
-    branches:
-      - main
   pull_request:
     branches:
       - main
@@ -19,15 +15,12 @@ on:
         type: boolean
 
 env:
+  PROJECT_NAME: 'Rundschreiben-Kodierer-Documentation'
   TARGET_REPOSITORY: 'rundschreiben-kodierer/handbuch-test'
   TARGET_BRANCH: 'main'
   KEEP_TARGET_HISTORY: false
   DEPLOYED_BASE_URL: 'https://rundschreiben-kodierer.github.io/handbuch-test/'
   DEPLOYED_BASE_NAME: 'handbuch-test'
-  # Versions
-  GO_VERSION: '1.22.2'
-  NODE_VERSION: '20.12.1'
-  DART_SASS_VERSION: 'latest/stable' # Only one stable version available through Snap. It is not possible to select a specific version for an extended period.
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
@@ -41,9 +34,13 @@ defaults:
     shell: bash
 
 jobs:
+  read-tool-versions:
+    uses: ./.github/actions/read-tool-versions
+
   stylelintCheck:
     name: SCSS Lint Check
     runs-on: ubuntu-latest
+    needs: read-tool-versions
     if: github.event_name == 'pull_request'
     permissions:
       contents: read
@@ -52,20 +49,20 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
-          node-version: ${{ env.NODE_VERSION }}
+          node-version: ${{ needs.read-tool-versions.outputs.nodejs_version }}
       - run: 'npm ci'
       - uses: reviewdog/action-stylelint@v1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           reporter: github-pr-review
           filter_mode: added
-          fail_on_error: true
+          fail_level: warning
           stylelint_config: '.stylelintrc.json'
           stylelint_input: '**/assets/scss/*.scss'
 
   eslintCheck:
     name: Javascript Lint Check
-    needs: [stylelintCheck]
+    needs: [stylelintCheck, read-tool-versions]
     runs-on: ubuntu-latest
     if: always() && github.event_name == 'pull_request'
     permissions:
@@ -75,19 +72,19 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
-          node-version: ${{ env.NODE_VERSION }}
+          node-version: ${{ needs.read-tool-versions.outputs.nodejs_version }}
       - run: 'npm ci'
       - uses: reviewdog/action-eslint@v1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           reporter: github-pr-review
           filter_mode: added
-          fail_on_error: true
+          fail_level: warning
           eslint_flags: "--debug --stats --ignore-pattern '{public/,node_modules/}' assets/js/"
 
   markdownlintCheck:
     name: Markdown Lint Check
-    needs: [eslintCheck]
+    needs: [eslintCheck, read-tool-versions]
     runs-on: ubuntu-latest
     if: always() && github.event_name == 'pull_request'
     permissions:
@@ -97,39 +94,42 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
-          node-version: ${{ env.NODE_VERSION }}
+          node-version: ${{ needs.read-tool-versions.outputs.nodejs_version }}
       - run: 'npm ci'
       - uses: reviewdog/action-markdownlint@v0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           reporter: github-pr-review
           filter_mode: added
-          fail_on_error: true
+          fail_level: warning
           markdownlint_flags: '**/content/**/*.md --ignore node_modules --ignore public --config .markdownlint.json'
 
   # Build job
   build:
     name: Build
     runs-on: ubuntu-latest
+    needs: read-tool-versions
     steps:
-      - name: Install Go
-        uses: actions/setup-go@v5
-        with:
-          cache: false # to avoid Warning: "Restore cache failed: Dependencies file is not found in /home/runner/work/handbook/handbook. Supported file pattern: go.sum"
-          go-version: ${{ env.GO_VERSION }}
-
-      - name: Install Dart Sass
-        run: sudo snap install dart-sass --channel=${{ env.DART_SASS_VERSION }}
-
       - name: Checkout
         uses: actions/checkout@v4
         with:
           submodules: recursive
 
+      - name: Install Go
+        uses: actions/setup-go@v5
+        with:
+          cache: false # to avoid Warning: "Restore cache failed: Dependencies file is not found in /home/runner/work/handbook/handbook. Supported file pattern: go.sum"
+          go-version: ${{ needs.read-tool-versions.outputs.go_version }}
+
+      - name: Install Dart Sass
+        uses: ./.github/actions/install-dart-sass
+        with:
+          dart_sass_version: ${{ needs.read-tool-versions.outputs.dart_sass_version }}
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: ${{ env.NODE_VERSION }}
+          node-version: ${{ needs.read-tool-versions.outputs.nodejs_version }}
 
       - name: Install dependencies
         run: npm ci
@@ -172,7 +172,7 @@ jobs:
 
       - name: Copy README.md and LICENSE.md files in public directory
         run: |
-          echo "This repository contents the built Rundschreiben-Kodierer-Documentation project website for testing" > README.md
+          echo "This repository contents the built ${{ env.PROJECT_NAME }} project website for testing" > README.md
           cp README.md public/
           cp LICENSE.md public/
 

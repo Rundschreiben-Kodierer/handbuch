@@ -1,0 +1,186 @@
+name: Automated Release
+
+on:
+  workflow_dispatch:
+    inputs:
+      version_bump:
+        description: 'Version bump type (patch, minor, major)'
+        required: true
+        default: 'minor'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: 'release'
+  cancel-in-progress: true
+
+jobs:
+  validate_branch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check if workflow is running on 'main'
+        run: |
+          if [[ "${{ github.ref }}" != "refs/heads/main" ]]; then
+            echo "❌ This workflow can only run on the 'main' branch. Aborting."
+            exit 1
+          fi
+          echo "✅ Workflow is running on 'main'. Proceeding..."
+
+  generate_new_version:
+    needs: validate_milestone_issues
+    runs-on: ubuntu-latest
+    outputs:
+      release_version: ${{ steps.version.outputs.release_version }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            hugo.toml
+          sparse-checkout-cone-mode: false # Disable cone mode for precise file selection
+
+      - name: Get current version
+        id: version
+        run: |
+          current_version=$(grep 'version[[:space:]]*=' hugo.toml | sed 's/version[[:space:]]*=[[:space:]]*"\([^"]*\)"/\1/')
+
+          # Check whether the version is valid or invalid
+          if [[ -z "$current_version" || ! "$current_version" =~ ^[0-9]+(\.[0-9]+){1,2}$ ]]; then
+            echo "❌ Error: Invalid or missing version in hugo.toml."
+            echo "ℹ️ Expected format: X.Y or X.Y.Z (e.g., 1.0 or 1.2.3)"
+            exit 1
+          fi
+
+          # Split the version in Major.Minor.Patch
+          IFS='.' read -r major minor patch <<< "$current_version"
+
+          # Si le patch est vide et le bump est "patch", on initialise patch=1
+          # initializes the patch number to 0 if the patch value from the hugo.toml file is empty 
+          if [[ -z "$patch" && "$bump" == "patch" ]]; then
+            patch=0
+          fi
+
+          case "${{ github.event.inputs.version_bump }}" in
+            "major") new_version="$((major+1)).0.0";;
+            "minor") new_version="$major.$((minor+1)).0";;
+            "patch") new_version="$major.$minor.$((patch+1))";;
+            *) echo "❌ Invalid version bump type"; exit 1;;
+          esac
+          echo "New version: $new_version"
+          echo "release_version=$new_version" >> $GITHUB_ENV
+          echo "release_version=$new_version" >> $GITHUB_OUTPUT
+
+      - name: Check if tag exists
+        env:
+          RELEASE_VERSION: ${{ env.release_version }}
+        run: |
+          if git rev-parse "refs/tags/v$RELEASE_VERSION" >/dev/null 2>&1; then
+            echo "❌ Tag $RELEASE_VERSION already exists. Aborting release."
+            exit 1
+          else
+            echo "✅ Tag $RELEASE_VERSION does not exist. Continuing..."
+          fi
+
+  update_version_and_doc:
+    needs: generate_new_version
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate GitHub App Installation Token
+        id: generate_token
+        uses: peter-murray/workflow-application-token-action@v4
+        with:
+          application_id: ${{ secrets.AUTO_COMMIT_AGENT_APP_ID }}
+          application_private_key: ${{ secrets.AUTO_COMMIT_AGENT_APP_PRIVATE_KEY }}
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            hugo.toml
+          sparse-checkout-cone-mode: false
+          token: ${{ steps.generate_token.outputs.token }}
+
+      - name: Update hugo.toml with new version
+        run: |
+          sed -i "s/version[[:space:]]*=[[:space:]]*\".*\"/version = \"${{ needs.generate_new_version.outputs.release_version }}\"/" hugo.toml
+
+      - name: Commit and push changes to main
+        run: |
+          git config --global user.name "Autocommit Agent"
+          git config --global user.email "github-actions@github.com"
+          git add hugo.toml
+          git commit -m "[autocommit-agent] release ${{ needs.generate_new_version.outputs.release_version }}"
+          git push origin main
+
+  read-tool-versions:
+    needs: update_version_and_doc
+    uses: ./.github/workflows/read-tool-versions.yml
+
+  build:
+    needs: read-tool-versions
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+
+      - name: Ensure latest changes are fetched
+        run: git pull origin main --ff-only
+
+      - name: Install Go
+        uses: actions/setup-go@v5
+        with:
+          cache: false # to avoid Warning "Restore cache failed: Dependencies file is not found in /home/runner/work/handbook/handbook. Supported file pattern: go.sum"
+          go-version: ${{ needs.read-tool-versions.outputs.go_version }}
+
+      - name: Install Dart Sass
+        uses: ./.github/actions/install-dart-sass
+        with:
+          dart_sass_version: ${{ needs.read-tool-versions.outputs.dart_sass_version }}
+
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v5
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ needs.read-tool-versions.outputs.nodejs_version }}
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Update hugo.toml with build datetime and git hash
+        run: |
+          # Set the build datetime
+          buildDatetime=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
+          sed -i "s/buildDatetime[[:space:]]*=[[:space:]]*\".*\"/buildDatetime = \"$buildDatetime\"/" hugo.toml
+
+          # Set the git hash
+          gitHash=$(git rev-parse --short HEAD)
+          sed -i "s/gitHash[[:space:]]*=[[:space:]]*\".*\"/gitHash = \"$gitHash\"/" hugo.toml
+
+      - name: Build with Hugo
+        env:
+          BASE_URL: ${{ steps.pages.outputs.base_url }}
+        run: npm run build:ci:production
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public
+
+  deploy:
+    needs: build
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
