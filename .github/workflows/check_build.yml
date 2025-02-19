@@ -35,7 +35,7 @@ defaults:
 
 jobs:
   read-tool-versions:
-    uses: ./.github/actions/read-tool-versions
+    uses: ./.github/workflows/read-tool-versions.yml
 
   stylelintCheck:
     name: SCSS Lint Check
