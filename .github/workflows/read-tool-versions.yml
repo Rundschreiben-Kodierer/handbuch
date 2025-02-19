@@ -1,0 +1,40 @@
+# .github/workflows/read-tool-versions.yml
+name: Read Tool Versions
+
+on:
+  workflow_call:
+    outputs:
+      nodejs_version:
+        description: 'Node.js version'
+        value: ${{ jobs.read-versions.outputs.nodejs_version }}
+      go_version:
+        description: 'Go version'
+        value: ${{ jobs.read-versions.outputs.go_version }}
+      dart_sass_version:
+        description: 'Dart Sass version'
+        value: ${{ jobs.read-versions.outputs.dart_sass_version }}
+
+jobs:
+  read-versions:
+    runs-on: ubuntu-latest
+    outputs:
+      nodejs_version: ${{ steps.parse-versions.outputs.nodejs_version }}
+      go_version: ${{ steps.parse-versions.outputs.go_version }}
+      dart_sass_version: ${{ steps.parse-versions.outputs.dart_sass_version }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Parse tool versions file
+        id: parse-versions
+        run: |
+          nodejs_version=$(jq -r '.nodejs' tool-versions.json)
+          go_version=$(jq -r '.go' tool-versions.json)
+          dart_sass_version=$(jq -r '.dart_sass' tool-versions.json)
+          echo "nodejs_version=$nodejs_version"
+          echo "go_version=$go_version"
+          echo "dart_sass_version=$dart_sass_version"
+          echo "nodejs_version=$nodejs_version" >> $GITHUB_OUTPUT
+          echo "go_version=$go_version" >> $GITHUB_OUTPUT
+          echo "dart_sass_version=$dart_sass_version" >> $GITHUB_OUTPUT
+        shell: bash

@@ -3,34 +3,32 @@ name: Generate and provide the Hugo cache directory for a Windows environment
 on:
   workflow_dispatch:
 
-env:
-  GO_VERSION: '1.22.2'
-  NODE_VERSION: '20.12.1'
-  DART_SASS_VERSION: '1.72.0'
-
 jobs:
+  read-tool-versions:
+    uses: ./.github/workflows/read-tool-versions.yml
+
   build-and-upload:
     runs-on: windows-latest
-
+    needs: [read-tool-versions]
     steps:
-      - name: Install Go
-        uses: actions/setup-go@v5
-        with:
-          cache: false # to avoid Warning: "Restore cache failed: Dependencies file is not found in /home/runner/work/handbook/handbook. Supported file pattern: go.sum"
-          go-version: ${{ env.GO_VERSION }}
-
-      - name: Install Dart Sass
-        run: choco install sass --version ${{ env.DART_SASS_VERSION }}
-
       - name: Checkout
         uses: actions/checkout@v4
         with:
           submodules: recursive
 
+      - name: Install Go
+        uses: actions/setup-go@v5
+        with:
+          cache: false # to avoid Warning: "Restore cache failed: Dependencies file is not found in /home/runner/work/handbook/handbook. Supported file pattern: go.sum"
+          go-version: ${{ needs.read-tool-versions.outputs.go_version }}
+
+      - name: Install Dart Sass
+        run: choco install sass --version ${{ needs.read-tool-versions.outputs.dart_sass_version }}
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: ${{ env.NODE_VERSION }}
+          node-version: ${{ needs.read-tool-versions.outputs.nodejs_version }}
 
       - name: Install dependencies
         run: npm ci

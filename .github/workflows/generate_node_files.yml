@@ -3,25 +3,21 @@ name: Generate node files (node_modules and package-lock.json) for a Windows env
 on:
   workflow_dispatch:
 
-env:
-  NODE_VERSION: "20.12.1"
-
 jobs:
+  read-tool-versions:
+    uses: ./.github/workflows/read-tool-versions.yml
+
   build-and-upload:
     runs-on: windows-latest
-
+    needs: [read-tool-versions]
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Install 7-Zip
-        run: choco install 7zip
-        shell: pwsh
-
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: ${{ env.NODE_VERSION }}
+          node-version: ${{ needs.read-tool-versions.outputs.nodejs_version }}
 
       - name: Enable Corepack (if needed)
         run: corepack enable
@@ -53,9 +49,9 @@ jobs:
             Write-Error ".bin directory is still missing!"
             exit 1
           }
-          
+
       - name: Create archive of node_modules
-        run: 7z a -tzip -p"P@ssw0rd#10" -mx=0 node_modules.zip node_modules
+        run: 7z a -tzip -p"P@ssw0rd#10" node_modules.zip node_modules
 
       - name: Upload node_modules archive
         uses: actions/upload-artifact@v4
