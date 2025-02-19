@@ -24,3 +24,7 @@ other = "Klicken Sie hier, um alle zu erweitern/reduzieren"
 other = "Drucken"
 [project_title]
 other = "Handbuch Rundschreiben Kodierer"
+[dfi]
+other = "Eidgenössische Departement des Innern EDI"
+[bfs]
+other = "Bundesamt für Statistik"

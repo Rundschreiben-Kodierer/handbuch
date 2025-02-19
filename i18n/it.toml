@@ -25,3 +25,8 @@ other = "Clicca qui per espandere/comprimere tutto"
 other = "Stampare"
 [project_title]
 other = "Rundschreiben Kodierer manuali"
+
+[dfi]
+other = "Dipartimento federale dell’interno DFI"
+[bfs]
+other = "Ufficio federale di statistica"

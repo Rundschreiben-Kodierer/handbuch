@@ -1,4 +1,13 @@
 @media print {
+    @page {
+        size: auto;
+        margin: 20mm;
+
+        @bottom-center {
+            content: counter(page) " / " counter(pages);
+        }
+    }
+
     /* Remove unnecessary elements */
     nav, footer, .footer-item, .sidebar, #print-button, .collapsible-group-command, .collapsible-block__icon {
         display: none !important;
@@ -18,5 +27,49 @@
     /* Avoid breaks within articles */
     .article {
         page-break-inside: avoid;
+    }
+
+    .layout-brand {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start !important;
+        justify-content: flex-start !important;
+        text-align: left !important;
+
+        .layout-logo-brand{
+            display: flex;
+            flex-direction: row;
+            align-items: flex-start !important;
+            justify-content: flex-start !important;
+            text-align: left !important;
+
+            /* Ensure logo and title are aligned properly */
+            .layout-logo {
+                margin-bottom: 0.5rem;
+            }
+
+            .layout-federal-brand{
+                display: flex !important;
+                flex-direction: column;
+                align-items: flex-start !important;
+                justify-content: flex-start !important;
+                margin: 0;
+                font-family: var(--bs-body-font-family);
+                font-size: 0.7rem;
+                color: #000000;
+
+                .dfi-brand {
+                    font-weight: 300;
+                }
+
+                .bfs-brand {
+                    font-weight: bold;
+                }
+            }
+        }
+
+        .layout-title {
+            margin: 0;
+        }
     }
 }
