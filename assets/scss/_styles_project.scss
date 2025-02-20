@@ -294,8 +294,26 @@ body {
   }
 }
 
+@media (min-width: 1200px) {
+  .td-sidebar {
+      min-width: 325px;
+  }
+}
+
+@media (max-width: 1199px) {
+  .td-sidebar {
+      min-width: 200px;
+  }
+}
+
 .td-sidebar {
   background-color: $ob-white;
+  white-space: normal;
+  overflow-wrap: break-word;
+  word-break: normal;
+  hyphens: none;
+  max-width: 100%;
+  overflow: hidden;
 
   .td-sidebar__inner {
     top: 0 !important;
