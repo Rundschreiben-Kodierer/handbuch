@@ -32,30 +32,26 @@ Der Zugang des neuen Eingriffs wird aus dem Titel des Kodes 00.99.12 gestrichen.
 Falls ein Gebiet mittels einem anderen endoskopischen Zugang oder einem anderen Zugangsweg als die genannten vorbehandelt
 wurde ist weder der 00.99.11 noch der 00.99.12 zu verwenden. Die Bildung einer entsprechenden Resteklasse vom Typ «sonstige»
 ist für eine spätere CHOP-Version geplant.  
-  
+
+{{<codeEntry level="1" title="00.99.11">}}
+{{<markdown>}}
+1 Reoperation in einem bereits offen chirurgisch, thorakoskopisch, und laparoskopisch und arthroskopisch voroperierten Gebiet
 {{</markdown>}}
-00.99.11 Reoperation in einem bereits offen chirurgisch, thorakoskopisch, <font color="red">~~und~~</font> aparoskopisch <font color="green">und arthroskopisch</font> voroperierten
-{{<pul>}}
-{{<indent level="4">}}
-   {{<markdown>}}
-   Gebiet  
-   Beachte: Zusatzkode für die <font color="red">~~Wiedereröffnung eines Operationsgebietes~~</font> <font color="green">Reoperation </font>zur Behandlung einer Komplikation,  
-   {{</markdown>}}
-      {{<pul>}}
-      {{<indent level="4">}}
-      {{<markdown>}}
-      zur Durchführung einer Rezidivoperation oder zur Durchführung einer anderen Operation in diesem Operations  
-      gebiet, sofern in den organspezifischen Kapiteln kein spezifischer Kode vorhanden ist.
-      {{</markdown>}}
-      {{</indent>}}
-      {{</pul>}}
-{{</indent>}}
-{{</pul>}}
-  
+{{</codeEntry>}}
+
+{{<codeEntry level="2" title="Beachte:">}}
+{{<markdown>}}
+Zusatzkode für die <font color="red">~~Wiedereröffnung eines Operationsgebietes~~</font> <font color="green">Reoperation </font>zur Behandlung einer Komplikation, zur Durchführung einer Rezidivoperation oder zur Durchführung einer anderen Operation in diesem Operations gebiet, sofern in den organspezifischen Kapiteln kein spezifischer Kode vorhanden ist.
+{{</markdown>}}
+{{</codeEntry>}}
+
+{{<codeEntry level="1" title="00.99.12">}}
 {{<markdown>}}
 00.99.12 <font color="red">~~Offen chirurgische, thorakoskopische oder laparoskopische~~</font> Operation in einem bereits perkutan interventionell vorbehandelten oder bestrahlten Gebiet  
-[…]
 {{</markdown>}}
+{{</codeEntry>}}
+[…]
+
 
 {{</article>}}
 
