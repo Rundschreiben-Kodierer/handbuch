@@ -53,8 +53,6 @@ Zusatzkode für die <font color="red">~~Wiedereröffnung eines Operationsgebiete
 […]
 
 
-
-
 {{</article>}}
 
 <a id="3.2"></a>
