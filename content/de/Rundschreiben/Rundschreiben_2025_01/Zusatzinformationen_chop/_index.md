@@ -156,51 +156,56 @@ Falls durchgeführt - Verwendung von patientenindividuell angepassten und gefert
 Typ der Gelenksendoprothese (81.A1.1-)  
 {{</markdown>}}
 {{</codeEntry>}}
+[…]  
 
-81.A1.1- Typ der Gelenksendoprothese  
-81.A1.11 Tumorendoprothese  
-Beachte: <font color="green">Tumorendoprothesen sind Sonderprothesen.</font> Tumorendoprothesen bezeichnen <font color="red">~~eine Sonderform der~~</font> Endoprothesen, die eine Überbrückung eines Knochendefekts sowie eine Rekonstruktion ermöglichen, nach Resektion von primären und sekundären malignen Knochentumoren. Der künstliche (metallische) Knochen- und Gelenkersatz entspricht der Länge und Dicke des entfernten Knochens.  
 
+{{<codeEntry level="1" title="81.A1.1-">}}
 {{<markdown>}}
-{{<pul>}}
-81.A1.12 Modulare Prothese  
-{{<indent level="4">}}
-{{<markdown>}}
-Beachte:  <font color="red">~~Die modulare Prothese ist eine Sonderform der Endoprothese.~~</font><font color="green">Modulare Prothesen sind Sonderprothesen.</font>
+Typ der Gelenksendoprothese 
 {{</markdown>}}
-{{<indent level="4">}}
+{{</codeEntry>}}
+
+{{<codeEntry level="1" title="81.A1.11">}}
+{{<markdown>}}
+Tumorendoprothese
+{{</markdown>}}
+{{</codeEntry>}}
+
+{{<codeEntry level="2" title="Beachte:">}}
+{{<markdown>}}
+<font color="green">Tumorendoprothesen sind Sonderprothesen.</font> Tumorendoprothesen bezeichnen <font color="red">~~eine Sonderform der~~</font> Endoprothesen, die eine Überbrückung eines Knochendefekts sowie eine Rekonstruktion ermöglichen, nach Resektion von primären und sekundären malignen Knochentumoren. Der künstliche (metallische) Knochen- und Gelenkersatz entspricht der Länge und Dicke des entfernten Knochens.  
+{{</markdown>}}
+{{</codeEntry>}}
+
+
+{{<codeEntry level="1" title="81.A1.12">}}
+{{<markdown>}}
+Modulare Prothese
+{{</markdown>}}
+{{</codeEntry>}}
+
+{{<codeEntry level="2" title="Beachte:">}}
+{{<markdown>}}
+<font color="red">~~Die modulare Prothese ist eine Sonderform der Endoprothese.~~</font><font color="green">Modulare Prothesen sind Sonderprothesen.</font>
 Sie ermöglichten die Überbrückung eines Knochendefekts, der aufgrund einer Krankheit oder eines Traumas entstan-den ist, mittels künstlichem (metallischem) Knochen- und Gelenkersatz.  
 Nicht als knöcherne Defektsituation betrachtet werden: - eine alleinige Osteoporose ohne pathologische Fraktur, -eine operationsbedingte Resektion eines gelenktragenden Anteils.  
 Der knöcherne Defekt muss an der knöchernen Struktur lokalisiert sein, an der der modulare Teil der Prothese implantiert wird.  
 Die gelenkbildende Komponente der modularen Endoprothese, d.h. die Komponente, die die Funktion der Pro-these sicherstellt, besteht aus mindestens 3 metallischen Einzelbauteilen. Der Aufsteckkopf der Endoprothese zählt nicht zu den Einzelbauteilen.  
-{{</indent>}}
-{{</indent>}}
-{{</pul>}}
-
 {{</markdown>}}
+{{</codeEntry>}}
 
-{{<pul>}}
-81.A1.13 Langschaftprothese  
-{{<indent level="4">}}
+{{<codeEntry level="1" title="81.A1.13">}}
 {{<markdown>}}
-<font color="green">Exkl. Kode weglassen - Erstimplantation einer achsengeführten Totalendoprothese des Kniegelenks (81.54.23)  
+Langschaftprothese
 {{</markdown>}}
-{{<indent level="4">}}
+{{</codeEntry>}}
+
+{{<codeEntry level="2" title="Exkl.">}}
+{{<markdown>}}
+<font color="green">Kode weglassen - Erstimplantation einer achsengeführten Totalendoprothese des Kniegelenks (81.54.23)  
 Kode weglassen - Implantation einer achsengeführten Totalendoprothese des Kniegelenks bei einem Prothesenwechsel (81.54.33)</font>
-{{</indent>}}
-{{</indent>}}
-{{</pul>}}
-
-{{</article>}}
-
-<a id="3.5"></a>
-{{<article number="3.5" title="85.2C.2-, 85.2C.3- Débridement an der Mamma»" collapsibleClass="d-inline-block" groupId="RS2024CHOP_2" numberClass="article-number-compact">}}
-
-{{<markdown>}}
-
-Betrifft nur die französische Version
-  
 {{</markdown>}}
+{{</codeEntry>}}
 
 {{</article>}}
 
