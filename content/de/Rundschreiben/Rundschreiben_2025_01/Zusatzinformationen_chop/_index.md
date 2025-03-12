@@ -270,10 +270,10 @@ Verdeutlichung wurde ebenfalls die Präzisierung 0758 im Anhang dieses Rundschre
 93.59.5- Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage  
 {{<codeEntry level="2" title="Inkl.">}}
 {{<markdown>}}
-Kontakt-, Tröpfchen- und Aerosolisolierung{{</markdown>}}
-{{</codeEntry>}}
+Kontakt-, Tröpfchen- und Aerosolisolierung
 {{</markdown>}}
 {{</codeEntry>}}
+
 {{<codeEntry level="2" title="Beachte:">}}
 {{<markdown>}}
 <font color="green">A. Die Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern beinhaltet die strikte Isolierung
