@@ -36,7 +36,7 @@ ist für eine spätere CHOP-Version geplant.
 
 {{<codeEntry level="1" title="00.99.11">}}
 {{<markdown>}}
-1 Reoperation in einem bereits offen chirurgisch, thorakoskopisch, und laparoskopisch und arthroskopisch voroperierten Gebiet
+Reoperation in einem bereits offen chirurgisch, thorakoskopisch, und laparoskopisch und arthroskopisch voroperierten Gebiet
 {{</markdown>}}
 {{</codeEntry>}}
 
@@ -48,7 +48,7 @@ Zusatzkode für die <font color="red">~~Wiedereröffnung eines Operationsgebiete
 
 {{<codeEntry level="1" title="00.99.12">}}
 {{<markdown>}}
-00.99.12 <font color="red">~~Offen chirurgische, thorakoskopische oder laparoskopische~~</font> Operation in einem bereits perkutan interventionell vorbehandelten oder bestrahlten Gebiet  
+<font color="red">~~Offen chirurgische, thorakoskopische oder laparoskopische~~</font> Operation in einem bereits perkutan interventionell vorbehandelten oder bestrahlten Gebiet  
 {{</markdown>}}
 {{</codeEntry>}}
 […]
@@ -71,22 +71,28 @@ Als Pendant zum Exklusivum «Drainage durch Aspiration (55.92)» unter 55.0- «N
 Beschreibung «Drainage durch Aspiration an der Niere» unter 55.92 aufzunehmen. Die «perkutan-transrenalen» Eingriffe sind den noch nicht mit dem Kode 55.92 abzubilden. Um dies zu präzisieren sind die zwei unten aufgeführten Exklusiva aufzunehmen.
   
 {{</markdown>}}
-{{<pul>}}
-55.92 Perkutane Aspiration an der Niere (Nierenbecken
-{{<indent level="4">}}
-   {{<markdown>}}
-   Aspiration einer Nierenzyste  
-   Nierenpunktion  
-   <font color="green">Drainage durch Aspiration an der Niere</font><br>
-   <font color="green">Exkl. Nephrotomie, perkutan-transrenal (55.01.10)</font><br>
-   {{</markdown>}}
-   {{<pul>}}
-      {{<indent level="4">}}
-      <font color="green">Nephrostomie, perkutan-transrenal (55.02.10)</font><br>
-      {{</indent>}}
-   {{</pul>}}
-   {{</indent>}}
-{{</pul>}}
+
+{{<codeEntry level="1" title="55.92   ">}}
+{{<markdown>}}
+Reoperation in einem bereits offen chirurgisch, thorakoskopisch, und laparoskopisch und arthroskopisch voroperierten Gebiet
+{{</markdown>}}
+{{</codeEntry>}}
+
+{{<codeEntry level="2" title="">}}
+{{<markdown>}}
+Aspiration einer Nierenzyste  
+Nierenpunktion
+<font color="green">Drainage durch Aspiration an der Niere</font><br>  
+{{</markdown>}}
+{{</codeEntry>}}
+
+{{<codeEntry level="3" title="Exkl.">}}
+{{<markdown>}}
+  <font color="green">Drainage durch Aspiration an der Niere</font><br>  
+  <font color="green">Exkl. Nephrotomie, perkutan-transrenal (55.01.10)</font><br>
+{{</markdown>}}
+{{</codeEntry>}}
+
 
 {{</article>}}
 
