@@ -74,14 +74,9 @@ Beschreibung «Drainage durch Aspiration an der Niere» unter 55.92 aufzunehmen.
 
 {{<codeEntry level="1" title="55.92   ">}}
 {{<markdown>}}
-Reoperation in einem bereits offen chirurgisch, thorakoskopisch, und laparoskopisch und arthroskopisch voroperierten Gebiet
-{{</markdown>}}
-{{</codeEntry>}}
-
-{{<codeEntry level="1" title="">}}
-{{<markdown>}}
+Reoperation in einem bereits offen chirurgisch, thorakoskopisch, und laparoskopisch und arthroskopisch voroperierten Gebiet  
 Aspiration einer Nierenzyste  
-Nierenpunktion
+Nierenpunktion  
 <font color="green">Drainage durch Aspiration an der Niere</font><br>  
 {{</markdown>}}
 {{</codeEntry>}}
