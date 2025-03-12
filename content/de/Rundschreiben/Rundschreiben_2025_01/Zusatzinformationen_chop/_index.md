@@ -260,14 +260,12 @@ Betrifft alle Sprachversionen
   
 Zur klaren Abgrenzung der Elementegruppe 93.59.5- und der Subkategorie 99.84.- sind die «Beachte» wie folgt anzupassen. Zur
 Verdeutlichung wurde ebenfalls die Präzisierung 0758 im Anhang dieses Rundschreibens aufgenommen.  
-
-
-
 {{</markdown>}}
 
 {{<codeEntry level="1" title="93.59.5-">}}
 {{<markdown>}}
 93.59.5- Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage  
+{{</markdown>}}
 {{<codeEntry level="2" title="Inkl.">}}
 {{<markdown>}}
 Kontakt-, Tröpfchen- und Aerosolisolierung
