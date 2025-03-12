@@ -186,7 +186,7 @@ Modulare Prothese
 
 {{<codeEntry level="2" title="Beachte:">}}
 {{<markdown>}}
-<font color="red">~~Die modulare Prothese ist eine Sonderform der Endoprothese.~~</font><font color="green">Modulare Prothesen sind Sonderprothesen.</font>
+<font color="red">~~Die modulare Prothese ist eine Sonderform der Endoprothese. ~~</font><font color="green">Modulare Prothesen sind Sonderprothesen.</font>
 Sie ermöglichten die Überbrückung eines Knochendefekts, der aufgrund einer Krankheit oder eines Traumas entstan-den ist, mittels künstlichem (metallischem) Knochen- und Gelenkersatz.  
 Nicht als knöcherne Defektsituation betrachtet werden: - eine alleinige Osteoporose ohne pathologische Fraktur, -eine operationsbedingte Resektion eines gelenktragenden Anteils.  
 Der knöcherne Defekt muss an der knöchernen Struktur lokalisiert sein, an der der modulare Teil der Prothese implantiert wird.  
@@ -221,28 +221,33 @@ zu korrigieren.
 Zum Verständnis des Exklusivum – Kode weglassen bei Komplexbehandlungen s. Präzisierung 0756 im Anhang dieses Rundschreibens. Zudem wurde die Präzisierung 0757 «Informationen und Präzisierungen zur Palliative Care» ergänzt.
   
 {{</markdown>}}
-93.8A.2- Palliativmedizinische Komplexbehandlung, nach Anzahl Behandlungstage
-{{<pul>}}
-{{<indent level="4">}}
+
+{{<codeEntry level="1" title="93.8A.2- ">}}
 {{<markdown>}}
-<font color="green">Exkl.: Kode weglassen - Spezialisierte Palliative Care (93.8B.-)</font>
+Palliativmedizinische Komplexbehandlung, nach Anzahl Behandlungstage
 {{</markdown>}}
-  {{</indent>}}
-  {{</pul>}}
+{{</codeEntry>}}
+
+{{<codeEntry level="2" title="Exkl.:">}}
 {{<markdown>}}
+<font color="green"> Kode weglassen - Spezialisierte Palliative Care (93.8B.-)</font> 
+{{</markdown>}}
+{{</codeEntry>}}
 […]  
-93.8B.- Spezialisierte Palliative Care  
+
+
+{{<codeEntry level="1" title="93.8B.-">}}
+{{<markdown>}}
+Spezialisierte Palliative Care  
 {{</markdown>}}
-{{<pul>}}
-{{<indent level="4">}}
+{{</codeEntry>}}
+
+{{<codeEntry level="2" title="Exkl.:">}}
 {{<markdown>}}
 <font color="green">Exkl.: Kode weglassen - Palliativmedizinische Komplexbehandlung, nach Anzahl Behandlungstage (93.8A.2-)</font>  
 {{</markdown>}}
-  {{</indent>}}
-  {{</pul>}}
-{{<markdown>}}
+{{</codeEntry>}}
 […]  
-{{</markdown>}}
 
 {{</article>}}
 
@@ -255,22 +260,33 @@ Betrifft alle Sprachversionen
   
 Zur klaren Abgrenzung der Elementegruppe 93.59.5- und der Subkategorie 99.84.- sind die «Beachte» wie folgt anzupassen. Zur
 Verdeutlichung wurde ebenfalls die Präzisierung 0758 im Anhang dieses Rundschreibens aufgenommen.  
-  
+
+
+
+{{</markdown>}}
+
+{{<codeEntry level="1" title="93.59.5-">}}
+{{<markdown>}}
 93.59.5- Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage  
-Inkl. Kontakt-, Tröpfchen- und Aerosolisolierung  
-Beachte:  
-{{<pul>}}
-{{<indent level="4">}}
+{{<codeEntry level="2" title="Inkl.">}}
+{{<markdown>}}
+Kontakt-, Tröpfchen- und Aerosolisolierung{{</markdown>}}
+{{</codeEntry>}}
+{{</markdown>}}
+{{</codeEntry>}}
+{{<codeEntry level="2" title="Beachte:">}}
+{{<markdown>}}
 <font color="green">A. Die Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern beinhaltet die strikte Isolierung
  sowie die Schlüsselkomponenten der Swissnoso Empfehlungen.</font>  
 […]  
 Mindestmerkmal Punkt 1, Untersuchungen:  
 Durchführung von speziellen Untersuchungen inkl. mikrobiologischen Schnelltests zur Feststellung der Träger-schaft von multiresistenten Erregern oder der erfolgreichen Sanierung der Kolonisierung oder Infektion sowie zur Prävention einer Weiterverbreitung. <font color="green">Die Kodes der Elementegruppe 93.59.5- dürfen nur erfasst werden bei multi-resistenten Erregern der ICD-10-GM-Kodes U80! - U82!</font>. Bezieht sich v.a. auf die «Schlüsselkomponente 1: Richtlinien und Weisungen» und «Schlüsselkomponente 6: Surveillance und Ausbrüche» des Referenzdoku-ments «Strukturelle Mindestanforderungen für die Prävention und Bekämpfung von healthcare-assoziierten Infek-tionen (HAI) bei hospitalisierten Patientinnen und Patienten für Schweizer Akutspitäler».  
 […]  
-{{</indent>}}
-{{</pul>}}
-
+{{</markdown>}}
+{{</codeEntry>}}
 […]  
+
+
 99.84.1- Kontaktisolierung, nach Anzahl Behandlungstage  
 Kod. eb.: Falls durchgeführt - Aerosolisolierung, nach Anzahl Behandlungstage (99.84.3-)  
 Exkl. Kode weglassen - Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage (93.59.5-)  
