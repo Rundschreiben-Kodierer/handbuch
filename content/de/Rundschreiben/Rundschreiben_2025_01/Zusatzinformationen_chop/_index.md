@@ -78,7 +78,7 @@ Reoperation in einem bereits offen chirurgisch, thorakoskopisch, und laparoskopi
 {{</markdown>}}
 {{</codeEntry>}}
 
-{{<codeEntry level="2" title="">}}
+{{<codeEntry level="1" title="">}}
 {{<markdown>}}
 Aspiration einer Nierenzyste  
 Nierenpunktion
@@ -86,9 +86,9 @@ Nierenpunktion
 {{</markdown>}}
 {{</codeEntry>}}
 
-{{<codeEntry level="3" title="Exkl.">}}
+{{<codeEntry level="2" title="Exkl.">}}
 {{<markdown>}}
-  <font color="green">Drainage durch Aspiration an der Niere</font><br>  
+  <font color="green">Drainage durch Aspiration an der Niere</font><br>
   <font color="green">Exkl. Nephrotomie, perkutan-transrenal (55.01.10)</font><br>
 {{</markdown>}}
 {{</codeEntry>}}
