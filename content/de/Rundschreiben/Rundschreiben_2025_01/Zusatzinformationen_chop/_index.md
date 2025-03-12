@@ -118,23 +118,26 @@ achsengeführten Totalendoprothese des Kniegelenks bei einem Prothesenwechsel» 
 
 {{<codeEntry level="1" title="81.51.12">}}
 {{<markdown>}}
-Implantation einer Totalendoprothese des Hüftgelenks, Sonderprothese bei einem Prothesenwechsel
+Erstimplantation einer Totalendoprothese des Hüftgelenks, Sonderprothese bei einem Prothesenwechsel
 {{</markdown>}}
 {{</codeEntry>}}
 
-{{<codeEntry level="2" title="Beachte:">}}
+{{<codeEntry level="2" title="Beachte">}}
 {{<markdown>}}
 Bei den Sonderprothesen handelt es sich um Tumorprothesen<font color="red">~~,~~</font> <font color="green">und </font> modulare Prothesen <font color="red">~~und Langschaftprothesen~~</font>. Der Prothesentyp ist mit einem Zusatzkode zu präzisieren.  
 {{</markdown>}}
 {{</codeEntry>}}
 
-{{<codeEntry level="2" title="Kod. eb.:"  >}}
+
+{{<codeEntry level="2" title="Kod. eb.:" >}}
 {{<markdown>}}
 Falls durchgeführt - Verwendung von patientenindividuell angepassten und gefertigten Implantaten und Schablo-nen (00.9A.6-)  
 Typ der Gelenksendoprothese (81.A1.1-)  
 {{</markdown>}}
 {{</codeEntry>}}
 […]  
+
+
 {{<codeEntry level="1" title="81.51.22">}}
 {{<markdown>}}
 Implantation einer Totalendoprothese des Hüftgelenks, Sonderprothese bei einem Prothesenwechsel  
