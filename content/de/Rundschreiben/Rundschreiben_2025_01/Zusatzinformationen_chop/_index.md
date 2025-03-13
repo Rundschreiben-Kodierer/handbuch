@@ -263,12 +263,14 @@ Zur klaren Abgrenzung der Elementegruppe 93.59.5- und der Subkategorie 99.84.- s
 Verdeutlichung wurde ebenfalls die Präzisierung 0758 im Anhang dieses Rundschreibens aufgenommen.  
 {{</markdown>}}
 
+
+
+
 {{<codeEntry level="1" title="93.59.5-">}}
 {{<markdown>}}
 Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage  
 {{</markdown>}}
 {{</codeEntry>}}
-
 
 {{<codeEntry level="2" title="Inkl.">}}
 {{<markdown>}}
@@ -295,7 +297,6 @@ Durchführung von speziellen Untersuchungen inkl. mikrobiologischen Schnelltests
  {</markdown>}}
 {{</codeEntry>}}
 
-
 {{<codeEntry level="2" title="Kod. eb.:">}}
 {{<markdown>}}
 Falls durchgeführt - Aerosolisolierung, nach Anzahl Behandlungstage (99.84.3-)
@@ -319,13 +320,11 @@ Die Massnahmen umfassen:
 […]  
 
 
-
 {{<codeEntry level="1" title="99.84.2-">}}
 {{<markdown>}}
  Kontaktisolierung, nach Anzahl Behandlungstage 
  {</markdown>}}
 {{</codeEntry>}}
-
 
 {{<codeEntry level="2" title="Kod. eb.:">}}
 {{<markdown>}}
@@ -351,35 +350,6 @@ Die Massnahmen umfassen:
 {{</markdown>}}
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="99.84.3-">}}
-{{<markdown>}}
- Aerosolisolierung, nach Anzahl Behandlungstage 
- {</markdown>}}
-{{</codeEntry>}}
 
-
-{{<codeEntry level="2" title="Exkl.">}}
-{{<markdown>}}
-Tröpfchenisolierung, nach Anzahl Behandlungstage
-{{</markdown>}}
-{{</codeEntry>}}
-
-{{<codeEntry level="2" title="Exkl. ">}}
-{{<markdown>}}
-Kode weglassen - Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage (93.59.5-)  
-{{</markdown>}}
-{{</codeEntry>}}
-
-{{<codeEntry level="2" title="Beachte:">}}
-{{<markdown>}}
-Massnahmen bei Patientinnen / Patienten mit Verdacht auf oder Nachweis von über Aerosole übertragbaren Krankheitserregern.
-Die Liste der Indikationen für diese Massnahmen umfasst Varizellen, disseminierten Herpes zoster, Masern, Tu-berkulose; diese Liste kann von den Expertinnen / Experten für Spitalhygiene der jeweiligen Institution ergänzt werden, beispielsweise im Falle von sog. Emerging Infections.  
-Die Massnahmen umfassen:
-
-- Unterbringung der Patientin / des Patienten in einem Einbettzimmer, vorzugsweise mit Unterdruckbelüftung,
-- Tragen von speziellen Hochleistungsmasken,  
-- Komplette Desinfektion von Untersuchungs- und Behandlungsräumen nach jeder Patientin / jedem Patienten  
-{{</markdown>}}
-{{</codeEntry>}}
 
 {{</article>}}
