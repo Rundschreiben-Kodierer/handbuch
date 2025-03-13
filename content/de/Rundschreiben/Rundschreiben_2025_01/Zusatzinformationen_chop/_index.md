@@ -251,6 +251,7 @@ Spezialisierte Palliative Care
 
 {{</article>}}
 
+
 <a id="3.7"></a>
 {{<article number="3.7" title="93.59.5- und 99.84.- Anpassung der «Beachte»" collapsibleClass="d-inline-block" groupId="RS2024CHOP_2" numberClass="article-number-compact">}}
 
@@ -283,7 +284,7 @@ Durchführung von speziellen Untersuchungen inkl. mikrobiologischen Schnelltests
 {{</markdown>}}
 {{</codeEntry>}}
 […]  
-
+  
 
 {{<codeEntry level="1" title="99.84.1-">}}
 {{<markdown>}}
