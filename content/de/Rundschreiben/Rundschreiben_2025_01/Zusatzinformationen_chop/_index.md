@@ -293,7 +293,7 @@ Durchführung von speziellen Untersuchungen inkl. mikrobiologischen Schnelltests
 {{<codeEntry level="1" title="99.84.1-">}}
 {{<markdown>}}
  Kontaktisolierung, nach Anzahl Behandlungstage 
- {</markdown>}}
+{{</markdown>}}
 {{</codeEntry>}}
 
 {{<codeEntry level="2" title="Kod. eb.:">}}
