@@ -304,7 +304,7 @@ Falls durchgeführt - Aerosolisolierung, nach Anzahl Behandlungstage (99.84.3-)
 
 {{<codeEntry level="2" title="Exkl. ">}}
 {{<markdown>}}
-Exkl. Kode weglassen - Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage (93.59.5-)  
+Kode weglassen - Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage (93.59.5-)  
 {{</markdown>}}
 {{</codeEntry>}}
 
@@ -312,7 +312,8 @@ Exkl. Kode weglassen - Komplexbehandlung bei Besiedlung oder Infektion mit multi
 {{<pul>}}
 {{<markdown>}}
 Massnahmen bei Patientinnen / Patienten mit Verdacht auf oder Nachweis von infektiösen Krankheitserregern, welche über direkten oder indirekten Kontakt übertragen werden können. <font color="green">Diese Massnahmen erfüllen die Krite-rien für die Komplexbehandlung bei Besiedelung oder Infektion mit multiresistenten Erregern [MRE] nicht.</font> Die Liste der Indikationen für diese Massnahmen wird von den Expertinnen / Experten für Spitalhygiene der je-weiligen Institution erstellt. <font color="red">~~Sie umfasst unter anderem den Verdacht auf oder Nachweis von Kolonisation durch multiresistente Erreger~~.</font>  
-Die Massnahmen umfassen: - Unterbringung der Patientin / des Patienten in einem Einbettzimmer, oder in einer Zonenisolierung innerhalb eines Mehrbettzimmers, oder in einem Mehrbettzimmer mit anderen Patientinnen / Patienten, die die gleiche Indi-kation teilen [Kohortierung],  
+Die Massnahmen umfassen: 
+- Unterbringung der Patientin / des Patienten in einem Einbettzimmer, oder in einer Zonenisolierung innerhalb eines Mehrbettzimmers, oder in einem Mehrbettzimmer mit anderen Patientinnen / Patienten, die die gleiche Indi-kation teilen [Kohortierung],  
 - Desinfektion von Untersuchungs- und Behandlungsräumen.
 {{</markdown>}}
 {{</pul>}}
@@ -322,31 +323,62 @@ Die Massnahmen umfassen: - Unterbringung der Patientin / des Patienten in einem 
 
 
 
-99.84.2- Tröpfchenisolierung, nach Anzahl Behandlungstage  
-Exkl. Kode weglassen - Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage (93.59.5-)  
-Beachte: Massnahmen bei Patientinnen / Patienten mit Verdacht auf oder Nachweis von über Tröpfchen übertragbaren Krankheitserregern.
-{{<pul>}}
-{{<indent level="4">}}
+{{<codeEntry level="1" title="99.84.2-">}}
 {{<markdown>}}
+ Kontaktisolierung, nach Anzahl Behandlungstage 
+ {</markdown>}}
+{{</codeEntry>}}
+
+
+{{<codeEntry level="2" title="Kod. eb.:">}}
+{{<markdown>}}
+Tröpfchenisolierung, nach Anzahl Behandlungstage
+{{</markdown>}}
+{{</codeEntry>}}
+
+{{<codeEntry level="2" title="Exkl. ">}}
+{{<markdown>}}
+Kode weglassen - Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage (93.59.5-)  
+{{</markdown>}}
+{{</codeEntry>}}
+
+{{<codeEntry level="2" title="Beachte:">}}
+{{<pul>}}
+{{<markdown>}}
+Massnahmen bei Patientinnen / Patienten mit Verdacht auf oder Nachweis von über Tröpfchen übertragbaren Krankheitserregern.
 <font color="green">Diese Massnahmen erfüllen die Kriterien für die Komplexbehandlung bei Besiedelung oder Infektion mit multiresistenten Erregern [MRE] nicht.
 </font>  
 Die Liste der Indikationen für diese Massnahmen wird von den Expertinnen / Experten für Spitalhygiene der je-weiligen Institution erstellt.  
-Die Massnahmen umfassen:  
-
+Die Massnahmen umfassen:
 - Unterbringung der Patientin / des Patienten in einem Einbettzimmer, oder in einer Zonenisolierung innerhalb eines Mehrbettzimmers, oder in einem Mehrbettzimmer mit anderen Patientinnen / Patienten, die die gleiche Indi-kation teilen [Kohortierung],  
 - Desinfektion von Untersuchungs- und Behandlungsräumen  
 {{</markdown>}}
-  {{</indent>}}
-  {{</pul>}}
+{{</pul>}}
 
-[….]  
-99.84.3- Aerosolisolierung, nach Anzahl Behandlungstage  
-Exkl. Kode weglassen - Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage (93.59.5-)  
-Beachte: Massnahmen bei Patientinnen / Patienten mit Verdacht auf oder Nachweis von über Aerosole übertragbaren Krankheitserregern.
-{{<pul>}}
-{{<indent level="4">}}
+{{</codeEntry>}}
+
+{{<codeEntry level="1" title="99.84.3-">}}
 {{<markdown>}}
-<font color="green">Diese Massnahmen erfüllen die Kriterien für die Komplexbehandlung bei Besiedelung oder Infektion mit multiresistenten Erregern [MRE] nicht.</font>  
+ Aerosolisolierung, nach Anzahl Behandlungstage 
+ {</markdown>}}
+{{</codeEntry>}}
+
+
+{{<codeEntry level="2" title="Exkl.">}}
+{{<markdown>}}
+Tröpfchenisolierung, nach Anzahl Behandlungstage
+{{</markdown>}}
+{{</codeEntry>}}
+
+{{<codeEntry level="2" title="Exkl. ">}}
+{{<markdown>}}
+Kode weglassen - Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage (93.59.5-)  
+{{</markdown>}}
+{{</codeEntry>}}
+
+{{<codeEntry level="2" title="Beachte:">}}
+{{<markdown>}}
+Massnahmen bei Patientinnen / Patienten mit Verdacht auf oder Nachweis von über Aerosole übertragbaren Krankheitserregern.
 Die Liste der Indikationen für diese Massnahmen umfasst Varizellen, disseminierten Herpes zoster, Masern, Tu-berkulose; diese Liste kann von den Expertinnen / Experten für Spitalhygiene der jeweiligen Institution ergänzt werden, beispielsweise im Falle von sog. Emerging Infections.  
 Die Massnahmen umfassen:
 
@@ -354,9 +386,7 @@ Die Massnahmen umfassen:
 - Tragen von speziellen Hochleistungsmasken,  
 - Komplette Desinfektion von Untersuchungs- und Behandlungsräumen nach jeder Patientin / jedem Patienten  
 {{</markdown>}}
-  {{</indent>}}
-  {{</pul>}}
 
-{{</markdown>}}
+{{</codeEntry>}}
 
 {{</article>}}
