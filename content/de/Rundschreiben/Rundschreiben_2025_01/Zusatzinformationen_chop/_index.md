@@ -251,3 +251,16 @@ Spezialisierte Palliative Care
 
 {{</article>}}
 
+<a id="3.7"></a>
+{{<article number="3.7" title="93.59.5- und 99.84.- Anpassung der «Beachte»" collapsibleClass="d-inline-block" groupId="RS2024CHOP_2" numberClass="article-number-compact">}}
+
+{{<markdown>}}
+
+Betrifft alle Sprachversionen  
+  
+Zur klaren Abgrenzung der Elementegruppe 93.59.5- und der Subkategorie 99.84.- sind die «Beachte» wie folgt anzupassen. Zur
+Verdeutlichung wurde ebenfalls die Präzisierung 0758 im Anhang dieses Rundschreibens aufgenommen.  
+{{</markdown>}}
+
+{{</article>}}
+
