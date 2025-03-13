@@ -365,7 +365,7 @@ Kode weglassen - Komplexbehandlung bei Besiedlung oder Infektion mit multiresist
 Massnahmen bei Patientinnen / Patienten mit Verdacht auf oder Nachweis von über Aerosole übertragbaren Krankheitserregern.
 <font color="green">Diese Massnahmen erfüllen die Kriterien für die Komplexbehandlung bei Besiedelung oder Infektion mit multiresistenten Erregern [MRE] nicht.</font>  
 Die Liste der Indikationen für diese Massnahmen umfasst Varizellen, disseminierten Herpes zoster, Masern, Tu-berkulose; diese Liste kann von den Expertinnen / Experten für Spitalhygiene der jeweiligen Institution ergänzt werden, beispielsweise im Falle von sog. Emerging Infections.
-Die Massnahmen umfassen:  
+Die Massnahmen umfassen:
 • Unterbringung der Patientin / des Patienten in einem Einbettzimmer, vorzugsweise mit Unterdruckbelüftung,  
 • Tragen von speziellen Hochleistungsmasken,  
 • Komplette Desinfektion von Untersuchungs- und Behandlungsräumen nach jeder Patientin / jedem Patienten
