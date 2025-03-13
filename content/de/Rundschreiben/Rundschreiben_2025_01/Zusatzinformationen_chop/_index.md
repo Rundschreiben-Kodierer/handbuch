@@ -253,8 +253,6 @@ Spezialisierte Palliative Care
 
 
 <a id="3.7"></a>
-{{<article number="3.7" title="93.59.5- und 99.84.- Anpassung der «Beachte»" collapsibleClass="d-inline-block" groupId="RS2024CHOP_2" numberClass="article-number-compact">}}
-
 {{<markdown>}}
 
 Betrifft alle Sprachversionen  
@@ -354,4 +352,3 @@ Die Massnahmen umfassen:
 
 {{</markdown>}}
 
-{{</article>}}
