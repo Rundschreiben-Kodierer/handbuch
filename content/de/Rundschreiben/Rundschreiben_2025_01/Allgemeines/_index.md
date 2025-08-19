@@ -14,8 +14,9 @@ keywords: []
 **1.1. Gültige Kodierungsinstrumente**
 
 Ab 1. Juli 2024 gelten folgende Kodierungsinstrumente: zum beispiel : 
-
-
+  
+    
+  
 
 {{<indent level="4">}}
 - Medizinisches Kodierungshandbuch: Der offizielle Leitfaden der Kodierrichtlinien in der Schweiz. Version 2024
