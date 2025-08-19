@@ -30,7 +30,7 @@ jobs:
           echo "✅ Workflow is running on 'main'. Proceeding..."
 
   generate_new_version:
-    needs: validate_milestone_issues
+    needs: validate_branch
     runs-on: ubuntu-latest
     outputs:
       release_version: ${{ steps.version.outputs.release_version }}
