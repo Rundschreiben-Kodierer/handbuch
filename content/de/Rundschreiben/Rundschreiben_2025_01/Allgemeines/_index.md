@@ -9,9 +9,7 @@ keywords: []
 
 {{<printButton>}}
 
-{{<markdown>}}
-  
-  
+{{<markdown>}} 
   
 **1.1. Gültige Kodierungsinstrumente**
 
