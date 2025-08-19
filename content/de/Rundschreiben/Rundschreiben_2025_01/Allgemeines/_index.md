@@ -15,6 +15,8 @@ keywords: []
 
 Ab 1. Juli 2024 gelten folgende Kodierungsinstrumente:
 
+
+
 {{<indent level="4">}}
 - Medizinisches Kodierungshandbuch: Der offizielle Leitfaden der Kodierrichtlinien in der Schweiz. Version 2024
 - Rundschreiben für Kodiererinnen und Kodierer: 2024 Nr. 1 <font color="red">~~mit Anhang~~</font>
