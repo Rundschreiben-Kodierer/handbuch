@@ -13,7 +13,7 @@ keywords: []
   
 **1.1. Gültige Kodierungsinstrumente**
 
-Ab 1. Juli 2024 gelten folgende Kodierungsinstrumente:
+Ab 1. Juli 2024 gelten folgende Kodierungsinstrumente: zum beispiel : 
 
 
 
