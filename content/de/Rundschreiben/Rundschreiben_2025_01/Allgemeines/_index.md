@@ -11,11 +11,9 @@ keywords: []
 
 {{<markdown>}} 
   
-**1.1. Gültige Kodierungsinstrumente**
+**1.1. Gültige Kodierungsinstrumente** POUR PIEM
 
 Ab 1. Juli 2024 gelten folgende Kodierungsinstrumente:
-  
-    
   
 
 {{<indent level="4">}}
