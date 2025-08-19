@@ -12,9 +12,9 @@ keywords: []
 {{<markdown>}}
   
   
+  
 **1.1. Gültige Kodierungsinstrumente**
 
- 
 Ab 1. Juli 2024 gelten folgende Kodierungsinstrumente:
 
 {{<indent level="4">}}
