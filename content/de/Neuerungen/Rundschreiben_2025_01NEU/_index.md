@@ -1,7 +1,7 @@
 ---
-title: Rundschreiben 2024 Nr 2
+title: 2026
 slug: introduction
-description: "27. Juni 2024"
+description: "2026"
 keywords: []
 weight: 202
 type: docs
