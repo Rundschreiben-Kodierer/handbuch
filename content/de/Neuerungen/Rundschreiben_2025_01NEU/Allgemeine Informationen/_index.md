@@ -2,7 +2,7 @@
 title: "Allgemeine Informationen"
 slug: AllgemeineInformationen
 description: "Allgemeine Informationen"
-weight: 440
+weight: 101
 type: docs
 keywords: []
 ---

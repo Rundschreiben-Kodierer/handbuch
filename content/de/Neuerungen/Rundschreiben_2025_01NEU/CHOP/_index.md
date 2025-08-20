@@ -2,7 +2,7 @@
 title: "Zusatzinformationen zur CHOP 2025"
 slug: KHB2026
 description: "Zusatzinformationen zur CHOP 2025"
-weight: 3
+weight: 303
 type: docs
 keywords: []
 ---

@@ -3,7 +3,7 @@ title: Rundschreiben 2024 Nr 2
 slug: introduction
 description: "27. Juni 2024"
 keywords: []
-weight: 2
+weight: 202
 type: docs
 ---
 

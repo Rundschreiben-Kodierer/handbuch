@@ -2,7 +2,7 @@
 title: Informationen und Neuerungen
 slug: Informationen
 description: ""
-weight: 5
+weight: 505
 type: docs
 keywords: []
 ---
