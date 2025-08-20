@@ -2,7 +2,7 @@
 title: "FAQ ALLGEMEIN"
 slug: FAQ
 description: "FAQ ALLGEMEIN"
-weight: 10
+weight: 1
 type: docs
 keywords: []
 ---

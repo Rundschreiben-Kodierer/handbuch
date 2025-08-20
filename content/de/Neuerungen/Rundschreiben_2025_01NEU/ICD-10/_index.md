@@ -2,7 +2,7 @@
 title: "Zusatzinformationen zur ICD-10-GM 2024"
 slug: KHB2026
 description: "Zusatzinformationen zur ICD-10-GM 2024"
-weight: 440
+weight: 4
 type: docs
 keywords: []
 ---

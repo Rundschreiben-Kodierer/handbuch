@@ -2,7 +2,7 @@
 title: "FAQ SPEZIFISCH"
 slug: FAQ
 description: "FAQ SPEZIFISCH"
-weight: 10
+weight: 2
 type: docs
 keywords: []
 ---
