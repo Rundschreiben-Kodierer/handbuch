@@ -1,7 +1,7 @@
 ---
 title: 2026
 slug: introduction
-description: "2026"
+description: "Introduction"
 keywords: []
 weight: 202
 type: docs
