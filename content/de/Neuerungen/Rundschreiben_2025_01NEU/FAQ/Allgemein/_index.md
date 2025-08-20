@@ -10,6 +10,8 @@ keywords: []
 
 {{<markdown>}}
 
+
+
 **Einführung des Register «FAQ» mit dem Rundschreiben 2025 Nr. 2 des Bundesamtes für Statistik – Fachbereich Medizinisch Klassifikationen**  
   
 Mit der Publikation des Rundschreibens für Kodiererinnen und Kodierer 2025 Nr. 2 des Bundesamtes für Statistik (BFS) am 30. Juni 2025 wird das neue **Register «FAQ»** aufgeschaltet.
