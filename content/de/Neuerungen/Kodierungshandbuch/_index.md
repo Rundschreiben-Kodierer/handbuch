@@ -1,5 +1,5 @@
 ---
-title: "Neuerungen und Zusatzinformationen zum Kodierungshandbuch 2026"
+title: 2026
 slug: KHB2026
 description: "Neuerungen und Zusatzinformationen zum Kodierungshandbuch 2026"
 weight: 202
