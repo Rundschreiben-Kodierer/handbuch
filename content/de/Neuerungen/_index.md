@@ -1,5 +1,5 @@
 ---
-title: Neuerungen
+title: "Neuerungen und Zusatzinformationen zu den Publikationen"
 slug: Neuerungen
 description: "Neuerungen und Zusatzinformationen zu den Publikationen"
 weight: 1
