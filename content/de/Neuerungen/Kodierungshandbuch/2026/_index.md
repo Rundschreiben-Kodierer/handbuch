@@ -1,7 +1,7 @@
 ---
-title: "FAQ ALLGEMEIN"
+title: "2026"
 slug: FAQ
-description: "FAQ ALLGEMEIN"
+description: "2026"
 weight: 1
 type: docs
 keywords: []
