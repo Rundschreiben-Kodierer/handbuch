@@ -2,7 +2,7 @@
 title: Revisorenliste
 slug: Revisorenliste
 description: "Revisorenliste"
-weight: 440
+weight: 400
 type: docs
 keywords: []
 ---
