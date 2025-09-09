@@ -127,21 +127,21 @@ keywords: []
   <tr>
     <td class="tg-0lax">Bollinger</td>
     <td class="tg-ktyi">Alfred K.</td>
-    <td class="tg-ktyi">Dorfgass&nbsp;&nbsp;&nbsp;2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8117 Fällanden</td>
+    <td class="tg-ktyi">Dorfgass 2<br>8117 Fällanden</td>
     <td class="tg-z182"><a href="mailto:Alfred.Bollinger@usz.ch">Alfred.Bollinger@usz.ch</a></td>
-    <td class="tg-ktyi">043&nbsp;&nbsp;&nbsp;843 92 94<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;079 461 60 82</td>
+    <td class="tg-ktyi">043 843 92 94<br>079 461 60 82</td>
     <td class="tg-ktyi">Deutsch</td>
     <td class="tg-0lax">Confirmé // bestätigt</td>
-    <td class="tg-ktyi">Deutschschweiz&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;und Fribourg</td>
+    <td class="tg-ktyi">Deutschschweiz und Fribourg</td>
     <td class="tg-ktyi">Confirmé // bestätigt</td>
     <td class="tg-ktyi">15.12.2011</td>
   </tr>
   <tr>
     <td class="tg-ktyi">Branzke</td>
     <td class="tg-ktyi">Jörn</td>
-    <td class="tg-ktyi">Bisenweg&nbsp;&nbsp;&nbsp;20<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D-14542 Werder/Havel</td>
+    <td class="tg-ktyi">Bisenweg 20<br> D-14542 Werder/Havel</td>
     <td class="tg-z182"><a href="mailto:joern_branzke@yahoo.de">joern_branzke@yahoo.de</a></td>
-    <td class="tg-ktyi">0049&nbsp;&nbsp;&nbsp;170 999 20 40</td>
+    <td class="tg-ktyi">0049 170 999 20 40</td>
     <td class="tg-ktyi">Deutsch</td>
     <td class="tg-0lax">Confirmé // bestätigt</td>
     <td class="tg-ktyi"> </td>
@@ -151,9 +151,9 @@ keywords: []
   <tr>
     <td class="tg-0lax">Burgert</td>
     <td class="tg-ktyi">Barbara</td>
-    <td class="tg-ktyi">Faulacker&nbsp;&nbsp;&nbsp;41 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D-79576 Weil am Rhein</td>
+    <td class="tg-ktyi">Faulacker 41<br>D-79576 Weil am Rhein</td>
     <td class="tg-z182"><a href="mailto:barbaraburgert@web.de">barbaraburgert@web.de</a></td>
-    <td class="tg-ktyi">0049&nbsp;&nbsp;&nbsp;7621168235</td>
+    <td class="tg-ktyi">0049 7621168235</td>
     <td class="tg-ktyi">Deutsch</td>
     <td class="tg-0lax">Confirmé // bestätigt</td>
     <td class="tg-ktyi"> </td>
@@ -163,9 +163,9 @@ keywords: []
   <tr>
     <td class="tg-0lax">Caduff Huwiler</td>
     <td class="tg-ktyi">Léonie</td>
-    <td class="tg-ktyi">Haldenstrasse&nbsp;&nbsp;&nbsp;35<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5415 Nussbaumen</td>
+    <td class="tg-ktyi">Haldenstrasse 35<br> 5415 Nussbaumen</td>
     <td class="tg-z182"><a href="mailto:leonie.caduff@hservices.ch">leonie.caduff@hservices.ch</a></td>
-    <td class="tg-ktyi">079&nbsp;&nbsp;&nbsp;327 33 93</td>
+    <td class="tg-ktyi">079 327 33 93</td>
     <td class="tg-ktyi">Deutsch</td>
     <td class="tg-0lax">Confirmé // bestätigt</td>
     <td class="tg-ktyi"> </td>
@@ -175,9 +175,9 @@ keywords: []
   <tr>
     <td class="tg-0lax">Cairon</td>
     <td class="tg-ktyi">Chrystelle</td>
-    <td class="tg-ktyi">Quartier&nbsp;&nbsp;&nbsp;l'Aubépena,  52<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1489 Murist</td>
+    <td class="tg-ktyi">Quartier l'Aubépena, 52<br>1489 Murist</td>
     <td class="tg-z182"><a href="mailto:chrystellecairon@gmail.com">chrystellecairon@gmail.com</a></td>
-    <td class="tg-ktyi">021&nbsp;&nbsp;&nbsp;800 00 50<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;077 463 52 33</td>
+    <td class="tg-ktyi">021 800 00 50<br>077 463 52 33</td>
     <td class="tg-ktyi">Français</td>
     <td class="tg-0lax">Confirmé // bestätigt</td>
     <td class="tg-ktyi"> </td>
@@ -187,9 +187,9 @@ keywords: []
   <tr>
     <td class="tg-0lax">Carbone</td>
     <td class="tg-ktyi">Anouk</td>
-    <td class="tg-ktyi">ch&nbsp;&nbsp;&nbsp;des Cystises 6<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1255 Veyrier</td>
+    <td class="tg-ktyi">ch. des Cystises 6<br>1255 Veyrier</td>
     <td class="tg-z182"><a href="mailto:anouk@carbonetwork.ch">anouk@carbonetwork.ch</a></td>
-    <td class="tg-ktyi">022&nbsp;&nbsp;&nbsp;784 04 12</td>
+    <td class="tg-ktyi">022 784 04 12</td>
     <td class="tg-ktyi">Français</td>
     <td class="tg-0lax">Confirmé // bestätigt</td>
     <td class="tg-ktyi"> </td>
