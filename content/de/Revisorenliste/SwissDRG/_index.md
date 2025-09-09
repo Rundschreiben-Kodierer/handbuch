@@ -169,13 +169,13 @@ Français |
   <tr>
     <td class="tg-0lax">Alatorre Kyburz</td>
     <td class="tg-ktyi">Manuela</td>
-    <td class="tg-ktyi">Sonnhaldenweg&nbsp;&nbsp;&nbsp;1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5035 Unterentfelden</td>
+    <td class="tg-ktyi">Sonnhaldenweg 1<br>5035 Unterentfelden</td>
     <td class="tg-z182"><a href="mailto:manuela.alatorre@gmail.com">manuela.alatorre@gmail.com</a></td>
-    <td class="tg-ktyi">062&nbsp;&nbsp;&nbsp;723 70 35</td>
+    <td class="tg-ktyi">062 723 70 35</td>
     <td class="tg-ktyi">Deutsch</td>
-    <td class="tg-0lax">Confirmé&nbsp;&nbsp;&nbsp;// bestätigt</td>
+    <td class="tg-0lax">Confirmé // bestätigt</td>
     <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Confirmé&nbsp;&nbsp;&nbsp;// bestätigt</td>
+    <td class="tg-ktyi">Confirmé // bestätigt</td>
     <td class="tg-ktyi">08.06.2017</td>
   </tr>
   <tr>
