@@ -31,23 +31,23 @@ STREHA
     <th class="tg-0pky">Vorname</th>
     <th class="tg-0pky">Adresse</th>
     <th class="tg-0pky">Kontaktauskünfte</th>
-    <th class="tg-0pky"> </th>
+    <th class="tg-0pky">Tel </th>
     <th class="tg-0pky">Revisionssprache(n)</th>
-    <th class="tg-0pky">Eidgenössische&nbsp;&nbsp;&nbsp;Fachausweis für Medizinische Kodiererinnen / Medizinische Kodierer //<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gleichwertigkeitsbescheinigung</th>
-    <th class="tg-0pky">Psychiatriespezifische&nbsp;&nbsp;&nbsp;Weiterbildung im Bereich Kodierung</th>
-    <th class="tg-0pky">Mindestens&nbsp;&nbsp;&nbsp;1-jährige Berufserfahrung in der Psychiatrie</th>
-    <th class="tg-0pky">Gewünschter&nbsp;&nbsp;&nbsp;Arbeitskanton (freiwillig)</th>
-    <th class="tg-0pky">Bestätigung,&nbsp;&nbsp;&nbsp;dass die antragstellende Person sich dazu verpflichtet, regelmässig&nbsp;&nbsp;&nbsp;Fortbildungen zu besuchen</th>
-    <th class="tg-0pky">Datum der&nbsp;&nbsp;&nbsp;Aufnahme in die Liste</th>
+    <th class="tg-0pky">Eidgenössische Fachausweis für Medizinische Kodiererinnen / Medizinische Kodierer // Gleichwertigkeitsbescheinigung</th>
+    <th class="tg-0pky">Psychiatriespezifische Weiterbildung im Bereich Kodierung</th>
+    <th class="tg-0pky">Mindestens 1-jährige Berufserfahrung in der Psychiatrie</th>
+    <th class="tg-0pky">Gewünschter Arbeitskanton (freiwillig)</th>
+    <th class="tg-0pky">Bestätigung, dass die antragstellende Person sich dazu verpflichtet, regelmässig Fortbildungen zu besuchen</th>
+    <th class="tg-0pky">Datum der Aufnahme in die Liste</th>
   </tr></thead>
 <tbody>
   <tr>
     <td class="tg-0pky">Di Falco</td>
     <td class="tg-0pky">Calogero</td>
-    <td class="tg-0pky">DRG&nbsp;&nbsp;&nbsp;Swiss<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bahnhofstr. 32<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8803 Rüschlikon<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">DRG Swiss<br>Bahnhofstr. 32<br>8803 Rüschlikon<br></td>
     <td class="tg-0pky"><a href="mailto:difalco@drgswiss.ch">difalco@drgswiss.ch</a></td>
-    <td class="tg-0pky">076&nbsp;&nbsp;&nbsp;709 57 01</td>
-    <td class="tg-0pky">Deutsch<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Français<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Italienisch</td>
+    <td class="tg-0pky">076 709 57 01</td>
+    <td class="tg-0pky">Deutsch<br>Français<br>Italienisch</td>
     <td class="tg-0pky">Confirmé // bestätigt</td>
     <td class="tg-0pky">Oui</td>
     <td class="tg-0pky">Oui</td>
