@@ -13,6 +13,111 @@ keywords: []
   {{<markdown>}}Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Löschungen in rot~~</font>
   
 STREHA
+
+
+
+
+| Nom | Email | Langue |
+|-----|-------|--------|
+| Allocco | cinzia.allocco@nicecomputing.ch | Français   
+Italien |
+| Bollinger | Alfred.Bollinger@usz.ch | Deutsch |
+| Branzke | joern_branzke@yahoo.de | Deutsch |
+| Burgert | barbaraburgert@web.de | Deutsch |
+| Caduff Huwiler | leonie.caduff@hservices.ch | Deutsch |
+| Cairon | chrystellecairon@gmail.com | Français |
+| Carbone | anouk@carbonetwork.ch | Français |
+| Carozza-Megroz | Laurence.carozza@hjbe.ch | Français   
+Italien |
+| Cebulla | a.cebulla@bluewin.ch | Deutsch |
+| De Tella Gomes 
+Cavalheiro | valeria.cavalheiro1@gmail.com | Deutsch |
+| Di Falco | difalco@drgswiss.ch | Deutsch
+Français
+Italienisch |
+| Diener | anja.diener@gmx.ch | Deutsch
+Français |
+| Dietzsch | anjadietzsch@bluemail.ch | Deutsch |
+| Drescher | ralf.drescher70@gmail.com | Deutsch |
+| Echarren | echarren@bluewin.ch | Deutsch |
+| Fjaili | rita.fjaili@ghol.ch | Français |
+| Flenghi | olivier.flenghi@nicecomputing.ch | Français |
+| Foiera | cfoiera@gmail.com | Deutsch
+Italienisch |
+| Fuchs | Patrick_fuchs@yahoo.com | Deutsch |
+| Gehrig-Rentsch | regula.gehrig@drgplus.ch | Deutsch |
+| Gerhard | gerhard@medizincontrolling.ch | Deutsch |
+| Gerhard | miriamburkhardt@gmail.com | Deutsch |
+| Griener | katia.griener@nicecomputing.ch | Deutsch |
+| Gurtner-Kropf | info@belewi.ch | Deutsch |
+| Gut | csavgut@hotmail.com | Deutsch |
+| Hager | Daniela.Hager@nicecomputing.ch | Deutsch |
+| Hauser | eva-maria.hauser@spitalzollikerberg.ch | Deutsch |
+| Höhnel | backoffice@medcare-schweiz.ch | Deutsch |
+| Huber | Nicole.Huber@nicecomputing.ch | Deutsch |
+| Idalan | Irene.Idalan@nicecomputing.ch | Deutsch 
+Français |
+| Jaussi Schnider | Barbara.jaussi@spital.so.ch | Deutsch |
+| Jüdt | julie.juedt@usb.ch | Deutsch |
+| Kalinovic | info@drg-office.ch | Deutsch |
+| Knie | info@drgswiss.ch | Deutsch |
+| Koller | koller@medizincontrolling.ch | Deutsch |
+| Köhler | madeleinethoss@gmx.de | Deutsch |
+| Krämer | kraemer-e@web.de | Deutsch |
+| Kreuz | joda.kreuz@bluewin.ch | Deutsch |
+| Gurtner-Kropf | info@belewi.ch | Deutsch |
+| Kunz | daniela88@hotmail.ch | Deutsch
+Italienisch |
+| Kvet-Touzin | kvet@medizincontrolling.ch | Deutsch |
+| Lambert Vogeleisen | agnes.vogeleisen@wanadoo.fr | Français |
+| Lindinger | andrea.lindinger@gmail.com | Deutsch |
+| Marino | marino@drgconsulting.ch | Deutsch
+Italien |
+| Masiero | masi_mimi@hotmail.com | Français
+Italien |
+| Mauz | mauz@ggaweb.ch | Deutsch |
+| Merecido | natividad.merecido@ksa.ch | Deutsch |
+| Mesur | mesur.emrulai@hotmail.com | Deutsch |
+| Möller | Moeller@kodieroutsourcing.ch | Deutsch |
+| Mombelli | cornelia.mombelli@spital.so.ch | Deutsch |
+| Moos | mail@rudolf-moos.de | Deutsch |
+| Mühlhauser | thorsten.muehlhauser@ksb.ch | Deutsch |
+| Narda | leonardo.narda@hotmail.com | Deutsch
+Italienisch Französisch |
+| Niederer-Addor | catherine.niederer@nicecomputing.ch | Französisch
+Deutsch |
+| Oetjen | philippoetjen@bluewin.ch | Deutsch |
+| Pangrazzi | Cristina.Pangrazzi@icloud.com
+
+
+Cristina.Pangrazzi@balgrist.ch | Deutsch
+Italienisch |
+| Pfinninger | tobias.pfinninger@ch.pwc.com | Deutsch |
+| Rachinger | rachinger@kodier.expert | Deutsch |
+| Radisic | vesna.radisic@datazug.ch | Deutsch |
+| Remy | pascalremy@sfr.fr | Français |
+| Rissmann | Ines.rissmann@ch.pwc.com | Deuzsch |
+| Rohner | carolina.rohner@gmail.com | Deutsch |
+| Rouge | maria.rouge@ghol.ch | Français |
+| Santacatterina-Orsingher | santacatterina@kodierungen.ch | Deutsch
+Italienisch |
+| Schindler Guetg | lisa.schindler.guetg@gmail.com | Deutsch |
+| Schultze | reschultze@gmx.ch | Deutsch |
+| Schwarz | francoise.schwarz@gd.zh.ch | Deutsch |
+| Stebler | stebler1@gmx.ch | Deutsch |
+| Stucki | b.kuenzler@ggaweb.ch | Deutsch
+Français |
+| Trümpi | herios7@hotmail.com | Deutsch |
+| van Panthaleon van Eck | henriette.vpve@bluewin.ch | Deutsch |
+| Veldenzer | veldenzer@yahoo.de | Deutsch |
+| von Varchmin | katrin@vonvarchmin.de | Deutsch |
+| Weise | karamfila.weise@spitaluster.ch | Deutsch |
+| Westerhoff | u.westerhoff@bluewin.ch | Deutsch |
+| Zbinden | Yvonne.Zbinden@nicecomputing.ch | Deutsch |
+| Zimmermann | regula.zimmermann@ksa.ch | Deutsch |
+
+
+
 {{</markdown>}}
 
 <html><head><meta charset='UTF-8'><title>SwissDRG Excel to HTML</title></head><body>
