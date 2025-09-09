@@ -23,7 +23,15 @@ STREHA
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-dcap{color:#00F;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-z182{background-color:#FFF;color:#00F;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+.tg .tg-7zrl{text-align:left;vertical-align:bottom}
+.tg .tg-lzdo{color:#36F;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-0agb{background-color:#FFF;color:#36F;text-align:left;text-decoration:underline;vertical-align:top}
 </style>
 <table class="tg"><thead>
   <tr>
