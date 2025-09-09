@@ -125,11 +125,6 @@ Français |
 
 
 <table border="1" class="dataframe">
-        <colgroup>
-          <col style="width: 100px;">
-          <col style="width: 150px;">
-          <col style="width: 150px;">
-        </colgroup>
   <thead>
     <tr style="text-align: left;">
       <th>Liste der schweizerischen Revisorinnen und Revisoren in der medizinischen Kodierung - SwissDRG</th>
@@ -151,6 +146,19 @@ Français |
 
 
 <table border="1" class="dataframe">
+        <colgroup>
+          <col style="width: 100px;">
+          <col style="width: 150px;">
+          <col style="width: 150px;">
+          <col style="width: 150px;">
+          <col style="width: 150px;">
+          <col style="width: 150px;">
+          <col style="width: 150px;">
+          <col style="width: 150px;">
+          <col style="width: 150px;">
+          <col style="width: 150px;">
+        </colgroup>
+
   <thead>
   <tbody>
     <tr>
