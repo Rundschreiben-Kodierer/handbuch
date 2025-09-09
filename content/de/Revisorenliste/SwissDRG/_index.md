@@ -17,10 +17,9 @@ STREHA
 
 
 
-| Nom | Email | Langue |
+| Nom | Email | Langue |Tel|	Revisionssprache(n)|Eidgenössische Fachausweis für Medizinische Kodiererinnen / Medizinische Kodierer // Gleichwertigkeitsbescheinigung|Gewünschter Arbeitskanton (freiwillig)|Bestätigung, dass die antragstellende Person sich dazu verpflichtet, regelmässig Fortbildungen zu besuchen|Datum der Aufnahme in die Liste|
 |-----|-------|--------|
-| Allocco | cinzia.allocco@nicecomputing.ch | Français   
-Italien |
+| Allocco | cinzia.allocco@nicecomputing.ch | Français/Italien |
 | Bollinger | Alfred.Bollinger@usz.ch | Deutsch |
 | Branzke | joern_branzke@yahoo.de | Deutsch |
 | Burgert | barbaraburgert@web.de | Deutsch |
