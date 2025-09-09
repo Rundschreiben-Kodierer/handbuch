@@ -2,7 +2,7 @@
 title: "STReha"
 slug: STReha
 description: "STReha"
-weight: 440
+weight: 300
 type: docs
 keywords: []
 ---

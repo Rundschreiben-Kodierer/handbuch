@@ -2,7 +2,7 @@
 title: "TARPSY"
 slug: TARPSY
 description: "TARPSY"
-weight: 440
+weight: 200
 type: docs
 keywords: []
 ---
