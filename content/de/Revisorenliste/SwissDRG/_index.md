@@ -18,9 +18,9 @@ keywords: []
 ## SwissDRG
 Liste der schweizerischen Revisorinnen und Revisoren in der medizinischen Kodierung - SwissDRG
 
-| Name              | Vorname | Adresse             | Kontaktauskünfte                                                                 | Revisionssprache(n) | Eidgenössische Fachausweis | Gleichwertigkeitsbescheinigung | Gewünschter Arbeitskanton (freiwillig) | Fortbildungsverpflichtung | Datum der Aufnahme |
+| Name | Vorname | Adresse | Kontaktauskünfte | Revisionssprache(n) | Eidgenössische Fachausweis | Gleichwertigkeitsbescheinigung | Gewünschter Arbeitskanton (freiwillig) | Fortbildungsverpflichtung | Datum der Aufnahme |
 |-------------------|---------|---------------------|----------------------------------------------------------------------------------|----------------------|-----------------------------|----------------------------------|------------------------------------------|----------------------------|---------------------|
-| Alatorre Kyburz   | Manuela | Sonnhaldenweg 1<br>5035 Unterentfelden | [manuela.alatorre@gmail.com](mailto:manuela.alatorre@gmail         | Confirmé // bestätigt       | Confirmé // bestätigt            |                                          | Ja                        | 06/08/2017          |
+| Alatorre Kyburz   | Manuela | Sonnhaldenweg 1<br>5035 Unterentfelden | [manuela.alatorre@gmail.com](mailto:manuela.alatorre@gmail) | Confirmé // bestätigt | Confirmé // bestätigt | | Ja | 06/08/2017 |
 
 
 
