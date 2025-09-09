@@ -200,7 +200,7 @@ Français |
     </tr>
     <tr>
       <td>Alatorre Kyburz</td>
-      <td>Manuela</td>
+      <td>Manuela                   </td>
       <td>Sonnhaldenweg 1  5035 Unterentfelden</td>
       <td><a href="mailto:manuela.alatorre@gmail.com">manuela.alatorre@gmail.com</a> </td>
       <td>062 723 70 35</td>
