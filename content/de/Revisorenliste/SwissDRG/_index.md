@@ -39,6 +39,37 @@ keywords: []
 
 
 
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg"><thead>
+  <tr>
+    <td class="tg-1wig">Name</td>
+    <td class="tg-dgl5">Vorname</td>
+    <td class="tg-dgl5">Adresse</td>
+    <td class="tg-dgl5">Kontaktauskünfte</td>
+    <td class="tg-dgl5">Tel</td>
+    <td class="tg-dgl5">Revisionssprache(n)</td>
+    <td class="tg-dgl5">Eidgenössische&nbsp;&nbsp;&nbsp;Fachausweis für Medizinische Kodiererinnen / Medizinische Kodierer //<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gleichwertigkeitsbescheinigung</td>
+    <td class="tg-dgl5">Gewünschter&nbsp;&nbsp;&nbsp;Arbeitskanton (freiwillig)</td>
+    <td class="tg-dgl5">Bestätigung,&nbsp;&nbsp;&nbsp;dass die antragstellende Person sich dazu verpflichtet, regelmässig&nbsp;&nbsp;&nbsp;Fortbildungen zu besuchen.</td>
+    <td class="tg-dgl5">Datum der&nbsp;&nbsp;&nbsp;Aufnahme in die Liste</td>
+  </tr></thead>
+</table>
+
+
+
+
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
