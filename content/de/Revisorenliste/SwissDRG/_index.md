@@ -151,7 +151,7 @@ Français |
     <tr>
     </tr>
     <tr>
-      <td>Nom</td>
+      <td>style="width: 50px;"Nom</td>
       <td>Prénom</td>
       <td>Adresse</td>
       <td>Contacts</td>
