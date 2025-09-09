@@ -1,8 +1,8 @@
 ---
-title: "ST Reha"
-slug: "ST Reha"
-description: "ST Reha"
-weight: 660
+title: "STReha"
+slug: STReha
+description: "STReha"
+weight: 440
 type: docs
 keywords: []
 ---
@@ -10,8 +10,7 @@ keywords: []
     
   
   
-  
   {{<markdown>}}Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Löschungen in rot~~</font>
   
-Die Zusatzinformationen zum Kodierungshandbuch 2024, aus dem Rundschreiben 2024 Nr.1, sind weiterhin gültig
+STREHA
 {{</markdown>}}
