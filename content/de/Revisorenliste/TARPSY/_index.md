@@ -24,6 +24,54 @@ STREHA
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+
+/* Largeur spécifique pour la colonne Telefonkontakt (5e colonne) */
+.tg td:nth-child(5),
+.tg th:nth-child(5) {
+  width: 200px; /* augmenter cette valeur selon besoin */
+  max-width: 200px;
+}
+</style>
+<table class="tg"><thead>
+  <tr>
+    <td class="tg-1wig">Name</td>
+    <td class="tg-dgl5">Vorname</td>
+    <td class="tg-dgl5">Adresse</td>
+    <td class="tg-dgl5">Kontaktauskünfte</td>
+    <td class="tg-dgl5">Telefonkontakt</td>
+    <td class="tg-dgl5">Revisionssprache(n)</td>
+    <td class="tg-dgl5">Eidgenössische Fachausweis für Medizinische Kodiererinnen / Medizinische Kodierer //<br>Gleichwertigkeitsbescheinigung</td>
+    <td class="tg-dgl5">Gewünschter Arbeitskanton (freiwillig)</td>
+    <td class="tg-dgl5">Bestätigung, dass die antragstellende Person sich dazu verpflichtet, regelmässig Fortbildungen zu besuchen.</td>
+    <td class="tg-dgl5">Datum der Aufnahme in die Liste</td>
+  </tr></thead>
+<tbody>
+
+  <tr>
+    <td class="tg-0lax">Alatorre Kyburz</td>
+    <td class="tg-ktyi">Manuela</td>
+    <td class="tg-ktyi">Sonnhaldenweg 1<br>5035 Unterentfelden</td>
+    <td class="tg-z182"><a href="mailto:manuela.alatorre@gmail.com">manuela.alatorre@gmail.com</a></td>
+    <td class="tg-0lax">062 723 70 35</td>
+    <td class="tg-ktyi">Deutsch</td>
+    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">08.06.2017</td>
+  </tr>
+  </tbody></table>
+
+
+  
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-dcap{color:#00F;text-align:left;text-decoration:underline;vertical-align:top}
 .tg .tg-z182{background-color:#FFF;color:#00F;text-align:left;text-decoration:underline;vertical-align:top}
 .tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
