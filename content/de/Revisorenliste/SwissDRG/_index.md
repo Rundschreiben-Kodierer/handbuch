@@ -995,7 +995,4 @@ keywords: []
   </tr>
 </tbody></table>
 
-{{<lineBreak>}}
-{{<lineBreak>}}
-
 {{<insertImage image="Quelle.png" class="edge max-w-90">}}
