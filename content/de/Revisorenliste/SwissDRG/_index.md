@@ -1020,7 +1020,6 @@ keywords: []
   width: 200px; /* augmenter cette valeur selon besoin */
   max-width: 200px;
 }
-
 </style>
 <table class="tg"><thead>
   <tr>
