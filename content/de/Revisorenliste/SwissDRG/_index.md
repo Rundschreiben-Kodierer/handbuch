@@ -8,12 +8,6 @@ keywords: []
 ---
 {{<printButton>}}
     
-  
-  
-  {{<markdown>}}Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Löschungen in rot~~</font>
-
-
-
 
 {{</markdown>}}
 
@@ -53,7 +47,7 @@ keywords: []
     <td class="tg-dgl5">Vorname</td>
     <td class="tg-dgl5">Adresse</td>
     <td class="tg-dgl5">Kontaktauskünfte</td>
-    <td class="tg-dgl5">Telefon                 </td>
+    <td class="tg-dgl5">Telefon</td>
     <td class="tg-dgl5">Revisionssprache(n)</td>
     <td class="tg-dgl5">Eidgenössische Fachausweis für Medizinische Kodiererinnen / Medizinische Kodierer //<br>Gleichwertigkeitsbescheinigung</td>
     <td class="tg-dgl5">Gewünschter Arbeitskanton (freiwillig)</td>
@@ -67,11 +61,11 @@ keywords: []
     <td class="tg-ktyi">Manuela</td>
     <td class="tg-ktyi">Sonnhaldenweg 1<br>5035 Unterentfelden</td>
     <td class="tg-z182"><a href="mailto:manuela.alatorre@gmail.com">manuela.alatorre@gmail.com</a></td>
-    <td class="tg-ktyi">062 723 70 35                 </td>
+    <td class="tg-0lax">062 723 70 35</td>
     <td class="tg-ktyi">Deutsch</td>
     <td class="tg-0lax">Confirmé // bestätigt</td>
     <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-0lax">Confirmé // bestätigt</td>
     <td class="tg-ktyi">08.06.2017</td>
   </tr>
   <tr>
