@@ -38,8 +38,6 @@ keywords: []
 </table>
 
 
-
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -63,12 +61,13 @@ keywords: []
     <td class="tg-dgl5">Datum der Aufnahme in die Liste</td>
   </tr></thead>
 <tbody>
+
   <tr>
     <td class="tg-0lax">Alatorre Kyburz</td>
     <td class="tg-ktyi">Manuela</td>
     <td class="tg-ktyi">Sonnhaldenweg 1<br>5035 Unterentfelden</td>
     <td class="tg-z182"><a href="mailto:manuela.alatorre@gmail.com">manuela.alatorre@gmail.com</a></td>
-    <td class="tg-ktyi">062 723 70 35        </td>
+    <td class="tg-ktyi">062 723 70 35</td>
     <td class="tg-ktyi">Deutsch</td>
     <td class="tg-0lax">Confirmé // bestätigt</td>
     <td class="tg-ktyi"> </td>
@@ -1004,6 +1003,80 @@ keywords: []
   </tr>
 </tbody></table>
 
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-ktyi" colspan="3">Quelle:&nbsp;&nbsp;&nbsp;Bundesamt für Statistik, Kodierungssekretariat</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-ktyi">© BFS - 2021</td>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi"> </td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Stand der Daten: 16.12.2021</td>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi"> </td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi" colspan="2">Auskunft:&nbsp;&nbsp;&nbsp;CodeInfo@bfs.admin.ch</td>
+    <td class="tg-ktyi"> </td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi"> </td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi" colspan="3">Office fédéral de la statistique, Secrétariat&nbsp;&nbsp;&nbsp;de codage</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">© OFS - 2021</td>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi"> </td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Etat des données: 16.12.2021</td>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi"> </td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi" colspan="2">Renseignements:  CodeInfo@bfs.admin.ch</td>
+    <td class="tg-ktyi"> </td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi"> </td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi" colspan="3">Fonte: Ufficio federale di statistica,&nbsp;&nbsp;&nbsp;Segreteria di codifica</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">© UST - 2021</td>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi"> </td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Stato dei dati: 16.12.2021</td>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi"> </td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi" colspan="2">Informazioni:  CodeInfo@bfs.admin.ch</td>
+    <td class="tg-ktyi"> </td>
+  </tr>
+</tbody></table>
 
 
 
