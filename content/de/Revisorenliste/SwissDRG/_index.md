@@ -55,10 +55,10 @@ keywords: []
     <td class="tg-dgl5">Kontaktauskünfte</td>
     <td class="tg-dgl5">Tel</td>
     <td class="tg-dgl5">Revisionssprache(n)</td>
-    <td class="tg-dgl5">Eidgenössische&nbsp;&nbsp;&nbsp;Fachausweis für Medizinische Kodiererinnen / Medizinische Kodierer //<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gleichwertigkeitsbescheinigung</td>
-    <td class="tg-dgl5">Gewünschter&nbsp;&nbsp;&nbsp;Arbeitskanton (freiwillig)</td>
-    <td class="tg-dgl5">Bestätigung,&nbsp;&nbsp;&nbsp;dass die antragstellende Person sich dazu verpflichtet, regelmässig&nbsp;&nbsp;&nbsp;Fortbildungen zu besuchen.</td>
-    <td class="tg-dgl5">Datum der&nbsp;&nbsp;&nbsp;Aufnahme in die Liste</td>
+    <td class="tg-dgl5">Eidgenössische Fachausweis für Medizinische Kodiererinnen / Medizinische Kodierer //<br>Gleichwertigkeitsbescheinigung</td>
+    <td class="tg-dgl5">Gewünschter Arbeitskanton (freiwillig)</td>
+    <td class="tg-dgl5">Bestätigung, dass die antragstellende Person sich dazu verpflichtet, regelmässig Fortbildungen zu besuchen.</td>
+    <td class="tg-dgl5">Datum der Aufnahme in die Liste</td>
   </tr></thead>
 <tbody>
   <tr>
