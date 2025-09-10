@@ -63,11 +63,34 @@ keywords: []
     <td class="tg-dgl5">Bestätigung,&nbsp;&nbsp;&nbsp;dass die antragstellende Person sich dazu verpflichtet, regelmässig&nbsp;&nbsp;&nbsp;Fortbildungen zu besuchen.</td>
     <td class="tg-dgl5">Datum der&nbsp;&nbsp;&nbsp;Aufnahme in die Liste</td>
   </tr></thead>
-</table>
 
 
-
-
+<tbody>
+  <tr>
+    <td class="tg-0lax">Alatorre Kyburz</td>
+    <td class="tg-ktyi">Manuela</td>
+    <td class="tg-ktyi">Sonnhaldenweg 1<br>5035 Unterentfelden</td>
+    <td class="tg-z182"><a href="mailto:manuela.alatorre@gmail.com">manuela.alatorre@gmail.com</a></td>
+    <td class="tg-ktyi">062 723 70 35</td>
+    <td class="tg-ktyi">Deutsch</td>
+    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">08.06.2017</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Zimmermann</td>
+    <td class="tg-ktyi">Regula</td>
+    <td class="tg-ktyi">Untergrundstrasse&nbsp;&nbsp;&nbsp;17<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4600 Olten</td>
+    <td class="tg-z182"><a href="mailto:regula.zimmermann@ksa.ch">regula.zimmermann@ksa.ch</a></td>
+    <td class="tg-ktyi">078&nbsp;&nbsp;&nbsp;657 13 59</td>
+    <td class="tg-ktyi">Deutsch</td>
+    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">08.06.2017</td>
+  </tr>
+</tbody></table>
 
 
 <style type="text/css">
