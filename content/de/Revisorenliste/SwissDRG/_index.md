@@ -38,9 +38,6 @@ keywords: []
 </table>
 
 
-
-
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -62,65 +59,6 @@ keywords: []
     <td class="tg-dgl5">Gewünschter&nbsp;&nbsp;&nbsp;Arbeitskanton (freiwillig)</td>
     <td class="tg-dgl5">Bestätigung,&nbsp;&nbsp;&nbsp;dass die antragstellende Person sich dazu verpflichtet, regelmässig&nbsp;&nbsp;&nbsp;Fortbildungen zu besuchen.</td>
     <td class="tg-dgl5">Datum der&nbsp;&nbsp;&nbsp;Aufnahme in die Liste</td>
-  </tr></thead>
-
-
-<tbody>
-  <tr>
-    <td class="tg-0lax">Alatorre Kyburz</td>
-    <td class="tg-ktyi">Manuela</td>
-    <td class="tg-ktyi">Sonnhaldenweg 1<br>5035 Unterentfelden</td>
-    <td class="tg-z182"><a href="mailto:manuela.alatorre@gmail.com">manuela.alatorre@gmail.com</a></td>
-    <td class="tg-ktyi">062 723 70 35</td>
-    <td class="tg-ktyi">Deutsch</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
-    <td class="tg-ktyi">08.06.2017</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Zimmermann</td>
-    <td class="tg-ktyi">Regula</td>
-    <td class="tg-ktyi">Untergrundstrasse&nbsp;&nbsp;&nbsp;17<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4600 Olten</td>
-    <td class="tg-z182"><a href="mailto:regula.zimmermann@ksa.ch">regula.zimmermann@ksa.ch</a></td>
-    <td class="tg-ktyi">078&nbsp;&nbsp;&nbsp;657 13 59</td>
-    <td class="tg-ktyi">Deutsch</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
-    <td class="tg-ktyi">08.06.2017</td>
-  </tr>
-</tbody></table>
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-dcap{color:#00F;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-z182{background-color:#FFF;color:#00F;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-.tg .tg-7zrl{text-align:left;vertical-align:bottom}
-.tg .tg-lzdo{color:#36F;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-0agb{background-color:#FFF;color:#36F;text-align:left;text-decoration:underline;vertical-align:top}
-</style>
-<table class="tg"><thead>
-  <tr>
-    <th class="tg-1wig">Name</th>
-    <th class="tg-dgl5">Vorname</th>
-    <th class="tg-dgl5">Adresse</th>
-    <th class="tg-dgl5">Kontaktauskünfte</th>
-    <th class="tg-dgl5">Tel</th>
-    <th class="tg-dgl5">Revisionssprache(n)</th>
-    <th class="tg-dgl5">Eidgenössische&nbsp;&nbsp;&nbsp;Fachausweis für Medizinische Kodiererinnen / Medizinische Kodierer //<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gleichwertigkeitsbescheinigung</th>
-    <th class="tg-dgl5">Gewünschter&nbsp;&nbsp;&nbsp;Arbeitskanton (freiwillig)</th>
-    <th class="tg-dgl5">Bestätigung,&nbsp;&nbsp;&nbsp;dass die antragstellende Person sich dazu verpflichtet, regelmässig&nbsp;&nbsp;&nbsp;Fortbildungen zu besuchen.</th>
-    <th class="tg-dgl5">Datum der&nbsp;&nbsp;&nbsp;Aufnahme in die Liste</th>
   </tr></thead>
 <tbody>
   <tr>
@@ -1063,5 +1001,10 @@ keywords: []
     <td class="tg-ktyi">08.06.2017</td>
   </tr>
 </tbody></table>
+
+
+
+
+
 
 
