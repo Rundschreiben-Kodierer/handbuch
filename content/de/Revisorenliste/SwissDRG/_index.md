@@ -38,6 +38,14 @@ keywords: []
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+
+/* Largeur spécifique pour la colonne Telefonkontakt (5e colonne) */
+.tg td:nth-child(5),
+.tg th:nth-child(5) {
+  width: 200px; /* augmenter cette valeur selon besoin */
+  max-width: 200px;
+}
+
 </style>
 <table class="tg"><thead>
   <tr>
