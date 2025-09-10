@@ -38,6 +38,8 @@ keywords: []
 </table>
 
 
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -66,7 +68,7 @@ keywords: []
     <td class="tg-ktyi">Manuela</td>
     <td class="tg-ktyi">Sonnhaldenweg 1<br>5035 Unterentfelden</td>
     <td class="tg-z182"><a href="mailto:manuela.alatorre@gmail.com">manuela.alatorre@gmail.com</a></td>
-    <td class="tg-ktyi">062 723 70 35</td>
+    <td class="tg-ktyi">062 723 70 35        </td>
     <td class="tg-ktyi">Deutsch</td>
     <td class="tg-0lax">Confirmé // bestätigt</td>
     <td class="tg-ktyi"> </td>
