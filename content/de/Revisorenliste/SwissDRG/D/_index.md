@@ -39,16 +39,16 @@ keywords: []
 
 <table class="tg">
   <colgroup>
-    <col>
-    <col>
-    <col>
-    <col>
-    <col style="width: 820px;"> <!-- Telefonkontakt -->
-    <col>
-    <col>
-    <col>
-    <col>
-    <col>
+    <col>style="width: 220px;">
+    <col>style="width: 220px;">
+    <col>style="width: 320px;">
+    <col>style="width: 320px;">
+    <col style="width: 320px;"> <!-- Telefonkontakt -->
+    <col>style="width: 220px;">
+    <col>style="width: 220px;">
+    <col>style="width: 220px;">
+    <col>style="width: 220px;">
+    <col>style="width: 220px;">
   </colgroup>
   <thead>
     <tr>
