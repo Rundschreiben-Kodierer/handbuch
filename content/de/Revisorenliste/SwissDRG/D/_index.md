@@ -41,13 +41,13 @@ keywords: []
   <colgroup>
     <col style="width: 120px;">
     <col style="width: 120px;">
+    <col style="width: 200px;">
     <col style="width: 220px;">
-    <col style="width: 220px;">
-    <col style="width: 320px;"> <!-- Telefonkontakt -->
+    <col style="width: 220px;"> <!-- Telefonkontakt -->
     <col style="width: 120px;">
     <col style="width: 220px;">
-    <col style="width: 220px;">
-    <col style="width: 220px;">
+    <col style="width: 180px;">
+    <col style="width: 200px;">
     <col style="width: 120px;">
   </colgroup>
   <thead>
@@ -65,18 +65,6 @@ keywords: []
     </tr>
   </thead>
   <tbody>
-    <tr>
-    <td class="tg-0lax">TEST <br>Cavalheiro </td>
-    <td class="tg-ktyi">Valeria</td>
-    <td class="tg-ktyi">Pilatusstrasse 22<br>8330 Pfäffikon</td>
-    <td class="tg-z182"><a href="mailto:valeria.cavalheiro1@gmail.com">valeria.cavalheiro1@gmail.com</a></td>
-    <td class="tg-ktyi">076 546 22 10</td>
-    <td class="tg-ktyi">Deutsch</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
-    <td class="tg-ktyi">25.02.2012</td>
-  </tr>
     <tr>
     <td class="tg-0lax">De Tella Gomes <br>Cavalheiro </td>
     <td class="tg-ktyi">Valeria</td>
@@ -128,7 +116,7 @@ keywords: []
   <tr>
     <td class="tg-0lax">Drescher</td>
     <td class="tg-ktyi">Ralf</td>
-    <td class="tg-7zrl">Buechweid 11B, 6215 Beromünster</td>
+    <td class="tg-7zrl">Buechweid 11B<br>6215 Beromünster</td>
     <td class="tg-z182"><a href="mailto:ralf.drescher70@gmail.com">ralf.drescher70@gmail.com</a></td>
     <td class="tg-0lax">079 244 4459</td>
     <td class="tg-ktyi">Deutsch</td>
