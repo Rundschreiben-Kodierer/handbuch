@@ -65,6 +65,18 @@ keywords: []
         </thead>
         <tbody>
 <tr>
+    <td class="tg-0lax">De Tella GomesDe Tella GomesDe Tella Gomess <br>Cavalheiro </td>
+    <td class="tg-ktyi">Valeria</td>
+    <td class="tg-ktyi">Pilatusstrasse 22<br>8330 Pfäffikon</td>
+    <td class="tg-z182"><a href="mailto:valeria.cavalheiro1@gmail.com">valeria.cavalheiro1@gmail.com</a></td>
+    <td class="tg-ktyi">076 546 22 10</td>
+    <td class="tg-ktyi">Deutsch</td>
+    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">25.02.2012</td>
+  </tr>
+<tr>
     <td class="tg-0lax">De Tella Gomes <br>Cavalheiro </td>
     <td class="tg-ktyi">Valeria</td>
     <td class="tg-ktyi">Pilatusstrasse 22<br>8330 Pfäffikon</td>
