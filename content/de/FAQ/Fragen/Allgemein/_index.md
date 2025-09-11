@@ -1,8 +1,8 @@
 ---
-title: SPEZ
-slug: SPEZ
-description: SPEZ
-weight: 20
+title: FAQ
+slug: FAQ
+description: FAQ
+weight: 10
 type: docs
 keywords: []
 ---
