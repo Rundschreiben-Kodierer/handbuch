@@ -1,8 +1,8 @@
 ---
-title: "C"
-slug: C
-description: "C"
-weight: 300
+title: "D"
+slug: D
+description: "D"
+weight: 400
 type: docs
 keywords: []
 ---
@@ -29,7 +29,6 @@ keywords: []
 </tbody>
 </table>
 
-<!DOCTYPE html>
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
