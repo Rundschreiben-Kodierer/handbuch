@@ -41,10 +41,10 @@ keywords: []
     <col style="width: 120px;">
     <col style="width: 120px;">
     <col style="width: 200px;">
-    <col style="width: 220px;">
-    <col style="width: 220px;"> <!-- Telefonkontakt -->
-    <col style="width: 120px;">
-    <col style="width: 220px;">
+    <col style="width: 250px;">
+    <col style="width: 200px;"> <!-- Telefonkontakt -->
+    <col style="width: 150px;">
+    <col style="width: 250px;">
     <col style="width: 180px;">
     <col style="width: 200px;">
     <col style="width: 120px;">
@@ -54,12 +54,12 @@ keywords: []
       <td class="tg-1wig">Name</td>
       <td class="tg-dgl5">Vorname</td>
       <td class="tg-dgl5">Adresse</td>
-      <td class="tg-dgl5">Kontaktauskünfte</td>
-      <td class="tg-dgl5">Telefonkontakt</td>
+      <td class="tg-dgl5">Email</td>
+      <td class="tg-dgl5">Telefon</td>
       <td class="tg-dgl5">Revisionssprache(n)</td>
       <td class="tg-dgl5">Eidgenössische Fachausweis für Medizinische Kodiererinnen / Medizinische Kodierer //<br>Gleichwertigkeitsbescheinigung</td>
       <td class="tg-dgl5">Gewünschter Arbeitskanton (freiwillig)</td>
-      <td class="tg-dgl5">Bestätigung, dass die antragstellende Person sich dazu verpflichtet, regelmässig Fortbildungen zu besuchen.</td>
+      <td class="tg-dgl5">Regelmässige Teilnahme an Weiterbildungen</td>
       <td class="tg-dgl5">Datum der Aufnahme in die Liste</td>
     </tr>
   </thead>
