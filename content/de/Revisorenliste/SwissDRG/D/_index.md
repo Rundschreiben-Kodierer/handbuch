@@ -43,7 +43,7 @@ keywords: []
     <col>
     <col>
     <col>
-    <col style="width: 1620px;"> <!-- Telefonkontakt -->
+    <col style="width: 820px;"> <!-- Telefonkontakt -->
     <col>
     <col>
     <col>
