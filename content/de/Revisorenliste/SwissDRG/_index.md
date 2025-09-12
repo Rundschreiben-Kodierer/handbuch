@@ -8,8 +8,6 @@ keywords: []
 ---
 {{<printButton>}}
 
-<h2 id="mon-ancre">Titre important</h2>
-
 
 <table border="1" class="dataframe">
   <thead>
@@ -70,7 +68,7 @@ keywords: []
 
 
   <tr>
-  <h2 id="a">/h2>
+  <href id="a"></href>
     <td class="tg-0lax">Alatorre Kyburz</td>
     <td class="tg-ktyi">Manuela</td>
     <td class="tg-ktyi">Sonnhaldenweg 1<br>5035 Unterentfelden</td>
@@ -95,6 +93,7 @@ keywords: []
     <td class="tg-ktyi">18.04.2016</td>
   </tr>
   <tr>
+    <h2 id="b"></h2>
     <td class="tg-0lax">Bollinger</td>
     <td class="tg-ktyi">Alfred K.</td>
     <td class="tg-ktyi">Dorfgass 2<br>8117 Fällanden</td>
@@ -131,6 +130,7 @@ keywords: []
     <td class="tg-ktyi">29.05.2018</td>
   </tr>
   <tr>
+    <h2 id="c"></h2>
     <td class="tg-0lax">Caduff Huwiler</td>
     <td class="tg-ktyi">Léonie</td>
     <td class="tg-ktyi">Haldenstrasse 35<br> 5415 Nussbaumen</td>
@@ -191,6 +191,7 @@ keywords: []
     <td class="tg-ktyi">24.03.2021</td>
   </tr>
   <tr>
+    <h2 id="d"></h2>
     <td class="tg-0lax">De Tella Gomes <br>Cavalheiro </td>
     <td class="tg-ktyi">Valeria</td>
     <td class="tg-ktyi">Pilatusstrasse 22<br>8330 Pfäffikon</td>
@@ -767,7 +768,7 @@ keywords: []
     <td class="tg-ktyi">15.12.2011</td>
   </tr>
   <tr>
-    <h2 id="r">/h2>
+    <href id="r"></href>
 
     <td class="tg-0lax">Rachinger</td>
     <td class="tg-ktyi">Katrin</td>
@@ -988,7 +989,7 @@ keywords: []
     <td class="tg-0lax">20.11.2019</td>
   </tr>
   <tr>
-  <h2 id="z">/h2>
+  <href id="z"></href>
     <td class="tg-0lax">Zbinden </td>
     <td class="tg-ktyi">Yvonne</td>
     <td class="tg-ktyi">Spitalweg 9<br>3800 Unterseen</td>
@@ -1015,66 +1016,6 @@ keywords: []
 </tbody></table>
 
 {{<insertImage image="Quelle.png" class="edge max-w-90">}}
-
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-/* Largeur spécifique pour la colonne Telefonkontakt (5e colonne) */
-.tg td:nth-child(5),
-.tg th:nth-child(5) {
-  width: 1000px; /* augmenter cette valeur selon besoin */
-  max-width: 1000px;
-}
-</style>
-<table class="tg"><thead>
-  <tr>
-    <td class="tg-1wig">Name</td>
-    <td class="tg-dgl5">Vorname</td>
-    <td class="tg-dgl5">Adresse</td>
-    <td class="tg-dgl5">Kontaktauskünfte</td>
-    <td class="tg-dgl5">Telefonkontakt</td>
-    <td class="tg-dgl5">Revisionssprache(n)</td>
-    <td class="tg-dgl5">Eidgenössische Fachausweis für Medizinische Kodiererinnen / Medizinische Kodierer //<br>Gleichwertigkeitsbescheinigung</td>
-    <td class="tg-dgl5">Gewünschter Arbeitskanton (freiwillig)</td>
-    <td class="tg-dgl5">Bestätigung, dass die antragstellende Person sich dazu verpflichtet, regelmässig Fortbildungen zu besuchen.</td>
-    <td class="tg-dgl5">Datum der Aufnahme in die Liste</td>
-  </tr></thead>
-<tbody>
-
-  <tr>
-    <td class="tg-0lax">Alatorre Kyburz</td>
-    <td class="tg-ktyi">Manuela</td>
-    <td class="tg-ktyi">Sonnhaldenweg 1<br>5035 Unterentfelden</td>
-    <td class="tg-z182"><a href="mailto:manuela.alatorre@gmail.com">manuela.alatorre@gmail.com</a></td>
-    <td class="tg-0lax">062 723 70 35</td>
-    <td class="tg-ktyi">Deutsch</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
-    <td class="tg-ktyi">08.06.2017</td>
-  </tr>
-
-  <tr>
-    <td class="tg-0lax">Alatorre Kyburz</td>
-    <td class="tg-ktyi">Manuela</td>
-    <td class="tg-ktyi">Sonnhaldenweg 1<br>5035 Unterentfelden</td>
-    <td class="tg-z182"><a href="mailto:manuela.alatorre@gmail.com">manuela.alatorre@gmail.com</a></td>
-    <td class="tg-0lax">062 723 70 35 35 35 35</td>
-    <td class="tg-ktyi">Deutsch</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
-    <td class="tg-ktyi">08.06.2017</td>
-  </tr>
-  
-  </tbody></table>
 
 
 
