@@ -12,15 +12,7 @@ keywords: []
 
 
 
-
-<h2>Sommaire</h2>
-<ul>
-  <li><a href=#caduffCaduff Huwiler</a></li>
-  <li><a href=#caironCairon</a></li>
-  <li><a href=#carboneCarbone</a></li>
-  <li><a href=#carozzaCarozza-Megroz</a></li>
-  <li><a href="#cebullaa></li>
-</ul>
+<p><a href="#a"> a</a></p> <p><a href="#b"> b</a></p> <p><a href="#c"> c</a></p> <p><a href="#d"> d</a></p>
 
 
 <table border="1" class="dataframe">
@@ -72,8 +64,8 @@ keywords: []
     <td class="tg-dgl5">Datum der Aufnahme in die Liste</td>
   </tr></thead>
 <tbody>
-
- <tr id="caduff">
+  <h2 id="c">Section plus bas</h2>
+ <tr>
     <td class="tg-0lax">Caduff Huwiler</td>
     <td class="tg-ktyi">Léonie</td>
     <td class="tg-ktyi">Haldenstrasse 35<br> 5415 Nussbaumen</td>
@@ -85,7 +77,7 @@ keywords: []
     <td class="tg-ktyi">Confirmé // bestätigt</td>
     <td class="tg-ktyi">08.10.2014</td>
   </tr>
- <tr id="cairon">
+ <tr>
     <td class="tg-0lax">Cairon</td>
     <td class="tg-ktyi">Chrystelle</td>
     <td class="tg-ktyi">Quartier l'Aubépena, 52<br>1489 Murist</td>
@@ -97,7 +89,8 @@ keywords: []
     <td class="tg-ktyi">Confirmé // bestätigt</td>
     <td class="tg-ktyi">30.01.2014</td>
   </tr>
-     <tr id="carbone">
+    <h2 id="b">Section plus bas</h2>
+  <tr>
     <td class="tg-0lax">Carbone</td>
     <td class="tg-ktyi">Anouk</td>
     <td class="tg-ktyi">ch. des Cystises 6<br>1255 Veyrier</td>
@@ -109,7 +102,7 @@ keywords: []
     <td class="tg-ktyi">Confirmé // bestätigt</td>
     <td class="tg-ktyi">31.12.2013</td>
   </tr>
-     <tr id="carozza">
+   <tr>
     <td class="tg-0lax">Carozza-Megroz</td>
     <td class="tg-ktyi">Laurence</td>
     <td class="tg-ktyi">Condemine 20<br>2740 Moutier</td>
@@ -121,6 +114,7 @@ keywords: []
     <td class="tg-ktyi">Confirmé// bestätigt</td>
     <td class="tg-ktyi">26.11.2018</td>
   </tr>
+  <h2 id="a">Section plus bas</h2>
      <tr id="cebulla">
     <td class="tg-0lax">Cebulla</td>
     <td class="tg-ktyi">Andreas</td>
@@ -134,3 +128,5 @@ keywords: []
     <td class="tg-ktyi">24.03.2021</td>
   </tr>
   </tbody></table>
+
+  <h2 id="d">Section plus bas</h2>
