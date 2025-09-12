@@ -66,7 +66,11 @@ keywords: []
   </thead>
   <tbody>
 
+<span><a href="#a"> a</a><a href="#b"> b</a><a href="#c"> c</a><a href="#d"> d</a></span><a href="#r"> r</a></span><a href="#z"> z</a></span>
+
+
   <tr>
+  <h2 id="a">/h2>
     <td class="tg-0lax">Alatorre Kyburz</td>
     <td class="tg-ktyi">Manuela</td>
     <td class="tg-ktyi">Sonnhaldenweg 1<br>5035 Unterentfelden</td>
@@ -306,7 +310,6 @@ keywords: []
     <td class="tg-ktyi">Confirmé // bestätigt</td>
     <td class="tg-ktyi">15.12.2011</td>
   </tr>
-    <a href="#mon-ancre">Aller au titre important G</a>
   <tr>
     <td class="tg-0lax">Gehrig-Rentsch</td>
     <td class="tg-ktyi">Regula</td>
@@ -764,6 +767,8 @@ keywords: []
     <td class="tg-ktyi">15.12.2011</td>
   </tr>
   <tr>
+    <h2 id="r">/h2>
+
     <td class="tg-0lax">Rachinger</td>
     <td class="tg-ktyi">Katrin</td>
     <td class="tg-ktyi">RACHINGER kodierexpert <br>Weinbergstrasse 29 <br>8280 Kreuzlingen  </td>
@@ -982,6 +987,7 @@ keywords: []
     <td class="tg-0lax">Confirmé // bestätigt</td>
     <td class="tg-0lax">20.11.2019</td>
   </tr>
+  <h2 id="z">/h2>
   <tr>
     <td class="tg-0lax">Zbinden </td>
     <td class="tg-ktyi">Yvonne</td>
