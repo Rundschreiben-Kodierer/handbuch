@@ -9,12 +9,16 @@ keywords: []
 {{<printButton>}}
 
 
+
+
+
+
 <h2>Sommaire</h2>
 <ul>
-  <li>#caduffCaduff Huwiler</a></li>
-  <li>#caironCairon</a></li>
-  <li>#carboneCarbone</a></li>
-  <li>#carozzaCarozza-Megroz</a></li>
+  <li><a href=#caduffCaduff Huwiler</a></li>
+  <li><a href=#caironCairon</a></li>
+  <li><a href=#carboneCarbone</a></li>
+  <li><a href=#carozzaCarozza-Megroz</a></li>
   <li><a href="#cebullaa></li>
 </ul>
 
