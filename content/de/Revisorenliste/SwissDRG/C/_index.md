@@ -11,7 +11,7 @@ keywords: []
 
 
 
-<span><a href="#a"> a</a></p> <p><a href="#b"> b</a></p> <p><a href="#c"> c</a></p> <p><a href="#d"> d</a></span>
+<span><a href="#a"> a</a></span> <span><a href="#b"> b</a></span> <span><a href="#c"> c</a></span> <span><a href="#d"> d</a></span>
 
 
 <table border="1" class="dataframe">
