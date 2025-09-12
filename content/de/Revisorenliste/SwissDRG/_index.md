@@ -39,16 +39,16 @@ keywords: []
 
 <table class="tg">
   <colgroup>
-    <col style="width: 120px;">
-    <col style="width: 120px;">
-    <col style="width: 200px;">
-    <col style="width: 250px;">
+    <col style="width: 120px;"> <!-- Name -->
+    <col style="width: 120px;"> <!-- Vorname -->
+    <col style="width: 200px;"> <!-- Adresse -->
+    <col style="width: 250px;"> <!-- Email -->
     <col style="width: 200px;"> <!-- Telefonkontakt -->
-    <col style="width: 150px;">
-    <col style="width: 250px;">
-    <col style="width: 180px;">
-    <col style="width: 200px;">
-    <col style="width: 120px;">
+    <col style="width: 170px;"> <!-- Revisionssprache(n) -->
+    <col style="width: 250px;"> <!-- Fachausweis -->
+    <col style="width: 180px;"> <!-- Arbeitskanton -->
+    <col style="width: 200px;"> <!-- Weiterbildung -->
+    <col style="width: 120px;"> <!-- Aufnahmedatum -->
   </colgroup>
   <thead>
     <tr>
@@ -90,7 +90,6 @@ keywords: []
     <td class="tg-ktyi">Confirmé // bestätigt</td>
     <td class="tg-ktyi">18.04.2016</td>
   </tr>
-  <a href="#mon-ancre">Aller au titre important</a>
   <tr>
     <td class="tg-0lax">Bollinger</td>
     <td class="tg-ktyi">Alfred K.</td>
@@ -307,6 +306,7 @@ keywords: []
     <td class="tg-ktyi">Confirmé // bestätigt</td>
     <td class="tg-ktyi">15.12.2011</td>
   </tr>
+    <a href="#mon-ancre">Aller au titre important G</a>
   <tr>
     <td class="tg-0lax">Gehrig-Rentsch</td>
     <td class="tg-ktyi">Regula</td>
