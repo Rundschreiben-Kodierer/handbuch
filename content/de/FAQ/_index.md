@@ -10,24 +10,44 @@ keywords: []
 {{<printButton>}}
 
 
-**Information zur Online-Verfügbarkeit des Rundschreibens für Kodiererinnen und Kodierer 2026 Nr. 1**
-  
-Mit der Publikation des Rundschreibens **2026 Nr. 1** stellt das Bundesamt für Statistik (BFS) das Rundschreiben für Kodiererinnen und Kodierer ab dem 17. Dezember 2025 ausschliesslich online zur Verfügung. Auf die Veröffentlichung einer PDF-Datei des Rundschreibens wird ab diesem Zeitpunkt verzichtet.  
-Durch die digitale Weiterentwicklung wird das Rundschreiben nicht nur zeitgemäss undbenutzerfreundlich gestaltet, sondern bietet auch zusätzliche Funktionen, die den Arbeitsalltagder Kodiererinnen und Kodierer erleichtern und die Übersichtlichkeit der Inhalte erhöhen.  
-  
- **Unveränderte Publikationszyklen**  
- Die bekannten Publikationszyklen des Rundschreibens Nr. 1 (Ende Juni des Jahres) und Nr. 2(Ende Dezember des Jahres) bleiben vorerst unverändert bestehen.
+**Einführung des Kapitels «FAQ» mit den Neuerungen und Zusatzinformationen zu den Publikationen**
+ 
+Mit der Publikation der **Neuerungen und Zusatzinformationen zu den Publikationen** am **01. Januar 2026** wird das neue Kapitel **«FAQ»** aufgeschaltet.
    
- Der Zugriff auf das Rundschreiben ist ab dem 15.12.2025 über den folgenden Link möglich: **[xxxxxxGitHub-Link einfügen]**.  
+Dieses Kapitel **ersetzt das bisherige Kapitel 5 «Anhang»**. Dort werden künftig sowohl allgemeine als auch spezifische Fragen beantwortet. 
   
-**Neuerungen**  
-Die bereits bekannte Gliederung der Kapitel 1 bis 5 bleibt erhalten, wird jedoch um folgende Neuerungen ergänzt:
-   1.	**Neues Register "FAQ":**  
-   Ergänzend zum Kapitel 5. «Anhang» wird ein neues Register «FAQ» eingeführt, das spezifische und allgemeine FAQs abbildet und beantwortet. 
-   2.	**Kapitel 3 "Zusatzinformationen zur CHOP":**  
-   Der Inhalt dieses Kapitels wird zukünftig in Form einer Excel-Tabelle bereitgestellt, die direkt über Kapitel 3. «Zusatzinformationen zur CHOP» geöffnet werden kann. Diese Tabelle ermöglicht es, Änderungen, Neuerungen und Streichungen zu den jeweiligen CHOP-Kodes übersichtlich nachzuvollziehen. Die Datei bildet die Neuerungen in D / FR und IT ab. 
-   3.	**Such- und Exportfunktionen:**  
-   Die Inhalte der Online-Version des Rundschreibens können bei Bedarf durch die Nutzer als PDF-Datei heruntergeladen und gedruckt werden. Zusätzlich bietet die Website über die Ctrl + F-Funktion eine Stichwortsuche, die eine einfache und schnelle Navigation innerhalb der Inhalte ermöglicht.
-   
+Die Inhalte des bisherigen Kapitels 5 «Anhang» wurden in das neue Kapitel «FAQ» migriert.
+  
+Das Kapitel bietet praxisorientierte Unterstützung bei allgemeinen und spezifischen Fragen rund um die Kodierung.
+  
+„Die Inhalte des Kapitels ‹FAQ› werden im Rahmen der halbjährlichen Publikationszyklen – jeweils Ende Juni und Ende Dezember – zusammen mit den Neuerungen und Zusatzinformationen zu den Publikationen aktualisiert.“
+  
+Die FAQ leiten sich aus wiederholten Anfragen an das Kodierungssekretariat zu einem spezifischen oder allgemeinen Sachverhalt sowie aus Einzelfallbeurteilungen und Diskussionen innerhalb der Fachgremien ab.
+  
+Die FAQ werden in zwei Gruppen unterteilt:
+     **•	Spezifische FAQ**
+     **•	Allgemeine FAQ**
+  
+Sie finden in jeder FAQ Informationen zum Thema / Schwerpunkt, dem Erstellungsdatum sowie Angaben darüber, wann die Datei aktualisiert wurde. Ausserdem sehen Sie, auf welches Regelwerk sich die Informationen beziehen, z. B. ICD, CHOP oder Kodierungsregeln.
+  
+Das Kapitel **«FAQ»** ist folgendermassen strukturiert:
+  
+Die Nummerierung erfolgt chronologisch aufsteigend.
+     **•	0001 – 4999:** Allgemeine FAQ
+     **•	5000 – 9999:** Spezifische FAQ
+  
+Die bisherige Nummerierung des Kapitels 5 **«Anhang»** wird nicht fortgeführt.
+  
+Wie in den übrigen Kapiteln der Neuerungen und Zusatzinformationen zu den Publikationen, wird auch im Kapitel «FAQ» für Anpassungen, Ergänzungen und Streichungen folgende Legende angewendet:
+
+
+  {{<markdown>}}
+Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Löschungen in rot~~</font>
+  
+{{</markdown>}}
+
+
+
+
 
 

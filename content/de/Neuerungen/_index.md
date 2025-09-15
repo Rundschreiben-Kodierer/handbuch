@@ -10,6 +10,12 @@ keywords: []
 
 {{<printButton>}}
 
+{{<markdown>}}
+
+
+Die Zusatzinformationen zum Kodierungshandbuch 2024, aus dem Rundschreiben 2024 Nr.1, sind weiterhin gültig
+
+
 
 **Information zur Online-Verfügbarkeit des Rundschreibens für Kodiererinnen und Kodierer 2026 Nr. 1**
   
@@ -32,3 +38,4 @@ Die bekannten Publikationszyklen des Rundschreibens Nr. 1 (Ende Juni des Jahres)
 *Durch die digitale Weiterentwicklung wird das Rundschreiben nicht nur zeitgemäss und benutzerfreundlich gestaltet, sondern bietet auch zusätzliche Funktionen, die den Arbeitsalltag der Kodiererinnen und Kodierer erleichtern und die Übersichtlichkeit der Inhalte erhöhen.*
 
 
+{{</markdown>}}
