@@ -9,7 +9,6 @@ keywords: []
 
 {{<printButton>}}
 
-
 **Einführung des Kapitels «FAQ» mit den Neuerungen und Zusatzinformationen zu den Publikationen**
  
 Mit der Publikation der **Neuerungen und Zusatzinformationen zu den Publikationen** am **01. Januar 2026** wird das neue Kapitel **«FAQ»** aufgeschaltet.
@@ -39,7 +38,6 @@ Die Nummerierung erfolgt chronologisch aufsteigend.
 Die bisherige Nummerierung des Kapitels 5 **«Anhang»** wird nicht fortgeführt.
   
 Wie in den übrigen Kapiteln der Neuerungen und Zusatzinformationen zu den Publikationen, wird auch im Kapitel «FAQ» für Anpassungen, Ergänzungen und Streichungen folgende Legende angewendet:
-
 
   {{<markdown>}}
 Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Löschungen in rot~~</font>

@@ -1,8 +1,8 @@
 ---
-title: FAQ
-slug: FAQ
-description: FAQ
-weight: 10
+title: "FAQ SPEZIAL"
+slug: FAQSPEZIAL
+description: "FAQ SPEZIAL"
+weight: 20
 type: docs
 keywords: []
 ---
