@@ -66,6 +66,8 @@ keywords: []
 
 
 <a href="#0758">0758</a>
+<a href="#info-importante">Cliquez ici pour voir l'information importante dans le tableau</a>
+<a href="#info-importante2">Cliquez ici pour voir l'information importante dans le tableau</a>
 
 
 <span>
@@ -100,7 +102,7 @@ keywords: []
 
   <tr>
     <a id="a"></a>
-    <td class="tg-0lax">Alatorre Kyburz</td>
+    <td class="tg-0lax" id="info-importante">Alatorre Kyburz</td>
     <td class="tg-ktyi">Manuela</td>
     <td class="tg-ktyi">Sonnhaldenweg 1<br>5035 Unterentfelden</td>
     <td class="tg-z182"><a href="mailto:manuela.alatorre@gmail.com">manuela.alatorre@gmail.com</a></td>
@@ -958,7 +960,7 @@ keywords: []
   </tr>
   <tr>
     <a id="t"></a>
-    <td class="tg-0lax">Trümpi </td>
+    <td class="tg-0lax" id="info-importante2">Trümpi</td>
     <td class="tg-0lax">Hayde Ester</td>
     <td class="tg-0lax">Inder Müseren 10<br>8118 Pfaffhaussen                   </td>
     <td class="tg-dcap"><a href="mailto:herios7@hotmail.com">herios7@hotmail.com</a></td>
