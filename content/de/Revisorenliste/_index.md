@@ -8,26 +8,43 @@ keywords: []
 ---
 
 {{<printButton>}}
+{{<markdown>}}
 
+**Liste der schweizerischen Revisorinnen und Revisoren in der medizinischen Kodierung**
+  
+Die Liste der schweizerischen Revisorinnen und Revisoren in der medizinischen Kodierung enthält **eine aktuelle Übersicht der vom Bundesamt für Statistik (BFS) anerkannten Fachpersonen**, die im Bereich der medizinischen Kodierung als Revisorinnen und Revisoren tätig sind und die dazu erforderlichen Voraussetzungen erfüllen.
+  
+Die Liste ist in die drei **Tarifstrukturen SwissDRG, TARPSY und ST Reha** unterteilt und umfasst insbesondere folgende Angaben:
+  
+  
+•	Name und Vorname der Revisorin bzw. des Revisors
+  
+•	Institution oder Organisation, bei welcher die Tätigkeit ausgeübt wird
+  
+•	Kontaktangaben (z. B. E-Mail-Adresse oder Telefonnummer, sofern freigegeben)
+  
+•	Regionale oder fachliche Zuständigkeit, soweit zutreffend
+  
+•	Status der Anerkennung (z. B. gültige Zertifizierung oder Akkreditierung)
+  
+Die Veröffentlichung dieser Informationen dient der Transparenz und Nachvollziehbarkeit der Prüf- und Revisionsprozesse im Bereich der medizinischen Kodierung. Sie ermöglicht es Spitälern, Leistungserbringern und weiteren Akteuren im Gesundheitswesen, sich bei Bedarf an die zuständigen Revisorinnen und Revisoren zu wenden.
+  
+**Ab dem 01.01.2026 werden die Inhalte der Liste fortlaufend aktualisiert. Die bisher geltenden halbjährlichen Publikationszyklen – jeweils Ende Juni und Ende Dezember – entfallen mit diesem Datum.**
+  
+Weiterführende Informationen zur Revision von Kodierfällen sowie die nachstehend aufgeführten Dokumente sind unter folgendem Link abrufbar: 
+{{</markdown>}}
 
-**Information zur Online-Verfügbarkeit des Rundschreibens für Kodiererinnen und Kodierer 2026 Nr. 1**
+<a href="https://www.wikipedia.org/">Visitez Wikipédia</a>
   
-Mit der Publikation des Rundschreibens **2026 Nr. 1** stellt das Bundesamt für Statistik (BFS) das Rundschreiben für Kodiererinnen und Kodierer ab dem 17. Dezember 2025 ausschliesslich online zur Verfügung. Auf die Veröffentlichung einer PDF-Datei des Rundschreibens wird ab diesem Zeitpunkt verzichtet.  
-Durch die digitale Weiterentwicklung wird das Rundschreiben nicht nur zeitgemäss undbenutzerfreundlich gestaltet, sondern bietet auch zusätzliche Funktionen, die den Arbeitsalltagder Kodiererinnen und Kodierer erleichtern und die Übersichtlichkeit der Inhalte erhöhen.  
-  
- **Unveränderte Publikationszyklen**  
- Die bekannten Publikationszyklen des Rundschreibens Nr. 1 (Ende Juni des Jahres) und Nr. 2(Ende Dezember des Jahres) bleiben vorerst unverändert bestehen.
-   
- Der Zugriff auf das Rundschreiben ist ab dem 15.12.2025 über den folgenden Link möglich: **[xxxxxxGitHub-Link einfügen]**.  
-  
-**Neuerungen**  
-Die bereits bekannte Gliederung der Kapitel 1 bis 5 bleibt erhalten, wird jedoch um folgende Neuerungen ergänzt:
-   1.	**Neues Register "FAQ":**  
-   Ergänzend zum Kapitel 5. «Anhang» wird ein neues Register «FAQ» eingeführt, das spezifische und allgemeine FAQs abbildet und beantwortet. 
-   2.	**Kapitel 3 "Zusatzinformationen zur CHOP":**  
-   Der Inhalt dieses Kapitels wird zukünftig in Form einer Excel-Tabelle bereitgestellt, die direkt über Kapitel 3. «Zusatzinformationen zur CHOP» geöffnet werden kann. Diese Tabelle ermöglicht es, Änderungen, Neuerungen und Streichungen zu den jeweiligen CHOP-Kodes übersichtlich nachzuvollziehen. Die Datei bildet die Neuerungen in D / FR und IT ab. 
-   3.	**Such- und Exportfunktionen:**  
-   Die Inhalte der Online-Version des Rundschreibens können bei Bedarf durch die Nutzer als PDF-Datei heruntergeladen und gedruckt werden. Zusätzlich bietet die Website über die Ctrl + F-Funktion eine Stichwortsuche, die eine einfache und schnelle Navigation innerhalb der Inhalte ermöglicht.
-   
+•	<a href="https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/nomenklaturen/medkk/revisionen-kodierfaelle.html#schweizerische-revisorinnen-und-revisoren-in-der-medizinischen-kodierung-liste-formular-informationen">Schweizerische Revisorinnen und Revisoren in der medizinischen Kodierung – Liste, Formular, Informationen</a>
 
+  
+•	Reglement – Kodierrevision unter SwissDRG
+•	Archiv: Reglement – Kodierrevision unter SwissDRG
+•	Reglement – Kodierrevision unter TARPSY
+•	Archiv: Reglement – Kodierrevision unter TARPSY
+•	Reglement – Kodierrevision unter ST Reha
+Schweizerische Revisorinne
+
+BFS – Revisionen von Kodierfällen
 
