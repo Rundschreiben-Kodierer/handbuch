@@ -1,14 +1,12 @@
 ---
 title: Bundesamtes für Statistik – Fachbereich Medizinisch Klassifikationen
 slug: introduction
-description: "toto toto "
+description: ""
 keywords: []
 weight: 0
 type: docs
 ---
 
-Willkomen bei Rundschreiben-Kodierer-Handbuch
+Der Bereich medizinische Kodierung und Klassifikationen publiziert und aktualisiert diverse in der Schweiz gültige medizinische Kodierungsinstrumente und unterstützt bei deren Anwendung. Diese Instrumente umfassen das Kodierungshandbuch, die Schweizerische Operationsklassifikation (CHOP) und die französisch- und italienischsprachige Versionen der ICD-10-GM (Internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme, 10. Revision – German Modification).
+Diese Kodierungsinstrumente sind für die Datenerhebung der in der Schweiz hospitalisierten Patientinnen und Patienten notwendig (Erhebung von Diagnosen und Prozeduren der stationären Fälle im Rahmen der Medizinischen Statistik der Krankenhäuser). Die erhobenen Daten werden sowohl für epidemiologische Studien wie im Rahmen von den Tarifsystemen SwissDRG, TARPSY und ST Reha verwendet.
 
-{{<alert color="info">}}
-Die Dokumentation befindet sich im Aufbau.
-{{</alert>}}
