@@ -18,13 +18,9 @@ Die Liste ist in die drei **Tarifstrukturen SwissDRG, TARPSY und ST Reha** unter
   
   
 •	Name und Vorname der Revisorin bzw. des Revisors
-  
 •	Institution oder Organisation, bei welcher die Tätigkeit ausgeübt wird
-  
 •	Kontaktangaben (z. B. E-Mail-Adresse oder Telefonnummer, sofern freigegeben)
-  
 •	Regionale oder fachliche Zuständigkeit, soweit zutreffend
-  
 •	Status der Anerkennung (z. B. gültige Zertifizierung oder Akkreditierung)
   
 Die Veröffentlichung dieser Informationen dient der Transparenz und Nachvollziehbarkeit der Prüf- und Revisionsprozesse im Bereich der medizinischen Kodierung. Sie ermöglicht es Spitälern, Leistungserbringern und weiteren Akteuren im Gesundheitswesen, sich bei Bedarf an die zuständigen Revisorinnen und Revisoren zu wenden.
@@ -34,7 +30,6 @@ Die Veröffentlichung dieser Informationen dient der Transparenz und Nachvollzie
 Weiterführende Informationen zur Revision von Kodierfällen sowie die nachstehend aufgeführten Dokumente sind unter folgendem Link abrufbar: 
 {{</markdown>}}
 
-<a href="https://www.wikipedia.org/">Visitez Wikipédia</a>
   
 •	<a href="https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/nomenklaturen/medkk/revisionen-kodierfaelle.html#schweizerische-revisorinnen-und-revisoren-in-der-medizinischen-kodierung-liste-formular-informationen">Schweizerische Revisorinnen und Revisoren in der medizinischen Kodierung – Liste, Formular, Informationen</a>
   
