@@ -13,6 +13,7 @@ keywords: []
   
 Das Kapitel **«Allgemeine Informationen»** enthält grundsätzliche Informationen, welche für die Anwendung und das Verständnis der Publikationen von Bedeutung sind. Hierzu zählen insbesondere:
   
+  
 •	Hinweise zur Nutzung und Struktur der Onlineversion
   
 •	Erläuterungen zu formalen Anpassungen oder redaktionellen Änderungen
