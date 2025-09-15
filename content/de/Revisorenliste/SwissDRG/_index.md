@@ -64,7 +64,14 @@ keywords: []
   </thead>
   <tbody>
 
-<span><a href="#a"> a</a><a href="#b"> b</a><a href="#c"> c</a><a href="#d"> d</a></span><a href="#r"> r</a></span><a href="#z"> z</a></span>
+<span>
+<a href="#a"> a</a>
+<a href="#b"> b</a>
+<a href="#c"> c</a>
+<a href="#d"> d</a>
+<a href="#r"> r</a>
+<a href="#z"> z</a>
+</span>
 
 
   <tr>
