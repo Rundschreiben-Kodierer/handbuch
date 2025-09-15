@@ -165,7 +165,7 @@ keywords: []
   </tr>
   <tr>
     <a id="c"></a>
-    <td class="tg-0lax" id="c">>Caduff Huwiler</td>
+    <td class="tg-0lax" id="c">Caduff Huwiler</td>
     <td class="tg-ktyi">Léonie</td>
     <td class="tg-ktyi">Haldenstrasse 35<br> 5415 Nussbaumen</td>
     <td class="tg-z182"><a href="mailto:leonie.caduff@hservices.ch">leonie.caduff@hservices.ch</a></td>
