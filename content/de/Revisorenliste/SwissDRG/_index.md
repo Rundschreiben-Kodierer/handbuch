@@ -64,6 +64,10 @@ keywords: []
   </thead>
   <tbody>
 
+<a id="0758"></a>
+<a href="#0758">0758</a>
+
+
 <span>
 <a href="#a"> a</a>
 <a href="#b"> b</a>
@@ -95,7 +99,7 @@ keywords: []
 
 
   <tr>
-    <href id="a"></href>
+    <a id="a"></a>
     <td class="tg-0lax">Alatorre Kyburz</td>
     <td class="tg-ktyi">Manuela</td>
     <td class="tg-ktyi">Sonnhaldenweg 1<br>5035 Unterentfelden</td>
@@ -120,7 +124,7 @@ keywords: []
     <td class="tg-ktyi">18.04.2016</td>
   </tr>
   <tr>
-    <href id="b"></href>
+    <a id="b"></a>
     <td class="tg-0lax">Bollinger</td>
     <td class="tg-ktyi">Alfred K.</td>
     <td class="tg-ktyi">Dorfgass 2<br>8117 Fällanden</td>
@@ -157,7 +161,7 @@ keywords: []
     <td class="tg-ktyi">29.05.2018</td>
   </tr>
   <tr>
-    <href id="c"></href>
+    <a id="c"></a>
     <td class="tg-0lax">Caduff Huwiler</td>
     <td class="tg-ktyi">Léonie</td>
     <td class="tg-ktyi">Haldenstrasse 35<br> 5415 Nussbaumen</td>
@@ -218,7 +222,7 @@ keywords: []
     <td class="tg-ktyi">24.03.2021</td>
   </tr>
   <tr>
-    <href id="d"></href>
+    <a id="d"></a>
     <td class="tg-0lax">De Tella Gomes <br>Cavalheiro </td>
     <td class="tg-ktyi">Valeria</td>
     <td class="tg-ktyi">Pilatusstrasse 22<br>8330 Pfäffikon</td>
@@ -279,7 +283,7 @@ keywords: []
     <td class="tg-ktyi">15.11.2021</td>
   </tr>
   <tr>
-    <href id="e"></href>
+    <a id="e"></a>
     <td class="tg-0lax">Echarren</td>
     <td class="tg-ktyi">Rosmarie</td>
     <td class="tg-ktyi">Feldhofstrasse 23<br>8600 Dübendorf</td>
@@ -292,7 +296,7 @@ keywords: []
     <td class="tg-ktyi">08.06.2017</td>
   </tr>
   <tr>
-    <href id="f"></href>
+    <a id="f"></a>
     <td class="tg-0lax">Fjaili</td>
     <td class="tg-0lax">Rita</td>
     <td class="tg-0lax">GHOL– Groupement Hospitalier <br>de l’Ouest Lémanique<br>Ch. Monastier 10<br>CH - 1260 Nyon<br>                                                             </td>
@@ -341,7 +345,7 @@ keywords: []
     <td class="tg-ktyi">15.12.2011</td>
   </tr>
   <tr>
-    <href id="g"></href>
+    <a id="g"></a>
     <td class="tg-0lax">Gehrig-Rentsch</td>
     <td class="tg-ktyi">Regula</td>
     <td class="tg-ktyi">DRGplus<br>Kranichweg 30<br>3074 Muri bei Bern</td>
@@ -414,7 +418,7 @@ keywords: []
     <td class="tg-ktyi">16.11.2015</td>
   </tr>
   <tr>
-    <href id="h"></href>
+    <a id="h"></a>
     <td class="tg-0lax">Hager</td>
     <td class="tg-ktyi">Daniela</td>
     <td class="tg-ktyi">Haselgasse 78<br>3902 Glis</td>
@@ -463,7 +467,7 @@ keywords: []
     <td class="tg-ktyi">15.12.2011</td>
   </tr>
   <tr>
-    <href id="i"></href>
+    <a id="i"></a>
     <td class="tg-0lax">Idalan</td>
     <td class="tg-ktyi">Irène</td>
     <td class="tg-ktyi">Ruede la Fontaine 4<br>1094 Paudex</td>
@@ -476,7 +480,7 @@ keywords: []
     <td class="tg-ktyi">15.12.2011</td>
   </tr>
   <tr>
-    <href id="j"></href>
+    <a id="j"></a>
     <td class="tg-0lax">Jaussi Schnider</td>
     <td class="tg-ktyi">Barbara</td>
     <td class="tg-ktyi">Eptingerstrasse 19 <br>4436 Oberdorf</td>
@@ -501,7 +505,7 @@ keywords: []
     <td class="tg-ktyi">15.11.2013</td>
   </tr>
   <tr>
-    <href id="k"></href>
+    <a id="k"></a>
     <td class="tg-0lax">Kalinovic</td>
     <td class="tg-ktyi">Rodzester</td>
     <td class="tg-ktyi">DRGOffice<br>Strandbodenstrasse 22<br>8877 Murg</td>
@@ -610,8 +614,8 @@ keywords: []
     <td class="tg-ktyi">08.06.2017</td>
   </tr>
   <tr>
-    <href id="l"></href>
-    <td class="tg-0lax">LambertVogeleisen </td>
+     <a id="l"></a>
+   <td class="tg-0lax">LambertVogeleisen </td>
     <td class="tg-ktyi">Agnès</td>
     <td class="tg-ktyi">135, chemin de la procession 74200 ARMOY<br>France</td>
     <td class="tg-z182"><a href="mailto:agnes.vogeleisen@wanadoo.fr">agnes.vogeleisen@wanadoo.fr</a></td>
@@ -635,7 +639,7 @@ keywords: []
     <td class="tg-ktyi">11.04.2018</td>
   </tr>
   <tr>
-    <href id="m"></href>
+    <a id="m"></a>
     <td class="tg-0lax">Marino</td>
     <td class="tg-0lax">Ursula Nala</td>
     <td class="tg-0lax">Renggstrasse 25<br>6052 Hergiswil</td>
@@ -744,7 +748,7 @@ keywords: []
     <td class="tg-0lax">30.06.2013</td>
   </tr>
   <tr>
-    <href id="n"></href>
+    <a id="n"></a>
     <td class="tg-0lax">Narda</td>
     <td class="tg-ktyi">Leonardo</td>
     <td class="tg-ktyi">Vorstadtstrasse6 <br>5722 Gränichen - AG</td>
@@ -769,7 +773,7 @@ keywords: []
     <td class="tg-ktyi">05.11.2021</td>
   </tr>
   <tr>
-    <href id="o"></href>
+    <a id="o"></a>
     <td class="tg-0lax">Oetjen</td>
     <td class="tg-ktyi">Philipp</td>
     <td class="tg-ktyi">Carl-BeckStrasse 10a<br>6210 Sursee<br></td>
@@ -782,7 +786,7 @@ keywords: []
     <td class="tg-ktyi">30.06.2014</td>
   </tr>
   <tr>
-    <href id="p"></href>
+    <a id="p"></a>
     <td class="tg-0lax">Pangrazzi</td>
     <td class="tg-0lax">Cristina</td>
     <td class="tg-0lax">Zelgmatt 65<br>8132 Egg <br></td>
@@ -807,7 +811,7 @@ keywords: []
     <td class="tg-ktyi">15.12.2011</td>
   </tr>
   <tr>
-  <href id="r"></href>
+    <a id="r"></a>
     <td class="tg-0lax">Rachinger</td>
     <td class="tg-ktyi">Katrin</td>
     <td class="tg-ktyi">RACHINGER kodierexpert <br>Weinbergstrasse 29 <br>8280 Kreuzlingen  </td>
@@ -880,8 +884,8 @@ keywords: []
     <td class="tg-ktyi">05.02.2014</td>
   </tr>
   <tr>
-    <href id="s"></href>
-    <td class="tg-ktyi">Santacatterina-Orsingher<br></td>
+     <a id="s"></a>
+   <td class="tg-ktyi">Santacatterina-Orsingher<br></td>
     <td class="tg-ktyi">Helena</td>
     <td class="tg-ktyi">bsoKodierungen gmbh<br>Stallbergstrasse 16<br>4562 Biberist</td>
     <td class="tg-z182"><a href="mailto:santacatterina@kodierungen.ch">santacatterina@kodierungen.ch</a></td>
@@ -953,7 +957,7 @@ keywords: []
     <td class="tg-ktyi">25.02.2012</td>
   </tr>
   <tr>
-    <href id="t"></href>
+    <a id="t"></a>
     <td class="tg-0lax">Trümpi </td>
     <td class="tg-0lax">Hayde Ester</td>
     <td class="tg-0lax">Inder Müseren 10<br>8118 Pfaffhaussen                   </td>
@@ -966,7 +970,7 @@ keywords: []
     <td class="tg-0lax">20.11.2019</td>
   </tr>
   <tr>
-    <href id="v"></href>
+    <a id="v"></a>
     <td class="tg-0lax">van Panthaleon van Eck</td>
     <td class="tg-0lax">Henriette</td>
     <td class="tg-0lax">Köllikersträsse 5<br>8044 Zurich</td>
@@ -1006,7 +1010,7 @@ keywords: []
     <td class="tg-dcap"><a href="mailto:katrin.vonvarchmin@gd.zh.ch">katrin.vonvarchmin@gd.zh.ch</a></td>
   </tr>
   <tr>
-    <href id="w"></href>
+    <a id="w"></a>
     <td class="tg-0lax">Weise</td>
     <td class="tg-0lax">Karamfila</td>
     <td class="tg-0lax">Kesselweg 30<br>4410 Liestal</td>
@@ -1031,7 +1035,7 @@ keywords: []
     <td class="tg-0lax">20.11.2019</td>
   </tr>
   <tr>
-    <href id="z"></href>
+    <a id="z"></a>
     <td class="tg-0lax">Zbinden </td>
     <td class="tg-ktyi">Yvonne</td>
     <td class="tg-ktyi">Spitalweg 9<br>3800 Unterseen</td>
