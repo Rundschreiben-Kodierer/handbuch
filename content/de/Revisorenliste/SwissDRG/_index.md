@@ -120,7 +120,7 @@ keywords: []
     <td class="tg-ktyi">18.04.2016</td>
   </tr>
   <tr>
-    <href id="c"></href>
+    <href id="b"></href>
     <td class="tg-0lax">Bollinger</td>
     <td class="tg-ktyi">Alfred K.</td>
     <td class="tg-ktyi">Dorfgass 2<br>8117 Fällanden</td>
@@ -807,9 +807,7 @@ keywords: []
     <td class="tg-ktyi">15.12.2011</td>
   </tr>
   <tr>
-  <href id="q"></href>
   <href id="r"></href>
-    <href id="r"></href>
     <td class="tg-0lax">Rachinger</td>
     <td class="tg-ktyi">Katrin</td>
     <td class="tg-ktyi">RACHINGER kodierexpert <br>Weinbergstrasse 29 <br>8280 Kreuzlingen  </td>
