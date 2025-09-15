@@ -103,8 +103,7 @@ keywords: []
 
 
   <tr>
-    <a id="a"></a>
-    <td class="tg-0lax" id="info-importante">Alatorre Kyburz</td>
+    <td class="tg-0lax" id="a">Alatorre Kyburz</td>
     <td class="tg-ktyi">Manuela</td>
     <td class="tg-ktyi">Sonnhaldenweg 1<br>5035 Unterentfelden</td>
     <td class="tg-z182"><a href="mailto:manuela.alatorre@gmail.com">manuela.alatorre@gmail.com</a></td>
@@ -129,7 +128,7 @@ keywords: []
   </tr>
   <tr>
     <a id="b"></a>
-    <td class="tg-0lax">Bollinger</td>
+    <td class="tg-0lax" id="b"> Bollinger</td>
     <td class="tg-ktyi">Alfred K.</td>
     <td class="tg-ktyi">Dorfgass 2<br>8117 Fällanden</td>
     <td class="tg-z182"><a href="mailto:Alfred.Bollinger@usz.ch">Alfred.Bollinger@usz.ch</a></td>
@@ -166,7 +165,7 @@ keywords: []
   </tr>
   <tr>
     <a id="c"></a>
-    <td class="tg-0lax">Caduff Huwiler</td>
+    <td class="tg-0lax" id="c">>Caduff Huwiler</td>
     <td class="tg-ktyi">Léonie</td>
     <td class="tg-ktyi">Haldenstrasse 35<br> 5415 Nussbaumen</td>
     <td class="tg-z182"><a href="mailto:leonie.caduff@hservices.ch">leonie.caduff@hservices.ch</a></td>
@@ -227,7 +226,7 @@ keywords: []
   </tr>
   <tr>
     <a id="d"></a>
-    <td class="tg-0lax">De Tella Gomes <br>Cavalheiro </td>
+    <td class="tg-0lax" id="d">>De Tella Gomes <br>Cavalheiro </td>
     <td class="tg-ktyi">Valeria</td>
     <td class="tg-ktyi">Pilatusstrasse 22<br>8330 Pfäffikon</td>
     <td class="tg-z182"><a href="mailto:valeria.cavalheiro1@gmail.com">valeria.cavalheiro1@gmail.com</a></td>
@@ -288,7 +287,7 @@ keywords: []
   </tr>
   <tr>
     <a id="e"></a>
-    <td class="tg-0lax">Echarren</td>
+    <td class="tg-0lax" id="e">>Echarren</td>
     <td class="tg-ktyi">Rosmarie</td>
     <td class="tg-ktyi">Feldhofstrasse 23<br>8600 Dübendorf</td>
     <td class="tg-z182"><a href="mailto:echarren@bluewin.ch">echarren@bluewin.ch</a></td>
@@ -301,7 +300,7 @@ keywords: []
   </tr>
   <tr>
     <a id="f"></a>
-    <td class="tg-0lax">Fjaili</td>
+    <td class="tg-0lax" id="f">>Fjaili</td>
     <td class="tg-0lax">Rita</td>
     <td class="tg-0lax">GHOL– Groupement Hospitalier <br>de l’Ouest Lémanique<br>Ch. Monastier 10<br>CH - 1260 Nyon<br>                                                             </td>
     <td class="tg-lzdo"><a href="mailto:rita.fjaili@ghol.ch"><span style="color:#36F">rita.fjaili@ghol.ch</span></a></td>
@@ -350,7 +349,7 @@ keywords: []
   </tr>
   <tr>
     <a id="g"></a>
-    <td class="tg-0lax">Gehrig-Rentsch</td>
+    <td class="tg-0lax" id="g">>Gehrig-Rentsch</td>
     <td class="tg-ktyi">Regula</td>
     <td class="tg-ktyi">DRGplus<br>Kranichweg 30<br>3074 Muri bei Bern</td>
     <td class="tg-dcap"><a href="mailto:regula.gehrig@drgplus.ch">regula.gehrig@drgplus.ch</a></td>
@@ -423,7 +422,7 @@ keywords: []
   </tr>
   <tr>
     <a id="h"></a>
-    <td class="tg-0lax">Hager</td>
+    <td class="tg-0lax" id="h">>Hager</td>
     <td class="tg-ktyi">Daniela</td>
     <td class="tg-ktyi">Haselgasse 78<br>3902 Glis</td>
     <td class="tg-z182"><a href="mailto:Daniela.Hager@nicecomputing.ch">Daniela.Hager@nicecomputing.ch</a></td>
@@ -472,7 +471,7 @@ keywords: []
   </tr>
   <tr>
     <a id="i"></a>
-    <td class="tg-0lax">Idalan</td>
+    <td class="tg-0lax" id="i">>Idalan</td>
     <td class="tg-ktyi">Irène</td>
     <td class="tg-ktyi">Ruede la Fontaine 4<br>1094 Paudex</td>
     <td class="tg-z182"><a href="mailto:Irene.Idalan@nicecomputing.ch">Irene.Idalan@nicecomputing.ch</a></td>
@@ -485,7 +484,7 @@ keywords: []
   </tr>
   <tr>
     <a id="j"></a>
-    <td class="tg-0lax">Jaussi Schnider</td>
+    <td class="tg-0lax" id="j">>Jaussi Schnider</td>
     <td class="tg-ktyi">Barbara</td>
     <td class="tg-ktyi">Eptingerstrasse 19 <br>4436 Oberdorf</td>
     <td class="tg-0agb"><a href="mailto:Barbara.jaussi@spital.so.ch"><span style="color:#36F">Barbara.jaussi@spital.so.ch</span></a></td>
@@ -510,7 +509,7 @@ keywords: []
   </tr>
   <tr>
     <a id="k"></a>
-    <td class="tg-0lax">Kalinovic</td>
+    <td class="tg-0lax" id="k">>Kalinovic</td>
     <td class="tg-ktyi">Rodzester</td>
     <td class="tg-ktyi">DRGOffice<br>Strandbodenstrasse 22<br>8877 Murg</td>
     <td class="tg-z182"><a href="mailto:info@drg-office.ch">info@drg-office.ch</a></td>
@@ -619,7 +618,7 @@ keywords: []
   </tr>
   <tr>
      <a id="l"></a>
-   <td class="tg-0lax">LambertVogeleisen </td>
+   <td class="tg-0lax" id="l">>LambertVogeleisen </td>
     <td class="tg-ktyi">Agnès</td>
     <td class="tg-ktyi">135, chemin de la procession 74200 ARMOY<br>France</td>
     <td class="tg-z182"><a href="mailto:agnes.vogeleisen@wanadoo.fr">agnes.vogeleisen@wanadoo.fr</a></td>
@@ -644,7 +643,7 @@ keywords: []
   </tr>
   <tr>
     <a id="m"></a>
-    <td class="tg-0lax">Marino</td>
+    <td class="tg-0lax" id="m">>Marino</td>
     <td class="tg-0lax">Ursula Nala</td>
     <td class="tg-0lax">Renggstrasse 25<br>6052 Hergiswil</td>
     <td class="tg-dcap"><a href="mailto:marino@drgconsulting.ch">marino@drgconsulting.ch</a></td>
@@ -753,7 +752,7 @@ keywords: []
   </tr>
   <tr>
     <a id="n"></a>
-    <td class="tg-0lax">Narda</td>
+    <td class="tg-0lax" id="n">>Narda</td>
     <td class="tg-ktyi">Leonardo</td>
     <td class="tg-ktyi">Vorstadtstrasse6 <br>5722 Gränichen - AG</td>
     <td class="tg-z182"><a href="mailto:leonardo.narda@hotmail.com">leonardo.narda@hotmail.com</a></td>
@@ -778,7 +777,7 @@ keywords: []
   </tr>
   <tr>
     <a id="o"></a>
-    <td class="tg-0lax">Oetjen</td>
+    <td class="tg-0lax" id="o">>Oetjen</td>
     <td class="tg-ktyi">Philipp</td>
     <td class="tg-ktyi">Carl-BeckStrasse 10a<br>6210 Sursee<br></td>
     <td class="tg-z182"><a href="mailto:philippoetjen@bluewin.ch">philippoetjen@bluewin.ch</a></td>
@@ -791,7 +790,7 @@ keywords: []
   </tr>
   <tr>
     <a id="p"></a>
-    <td class="tg-0lax">Pangrazzi</td>
+    <td class="tg-0lax" id="p">>Pangrazzi</td>
     <td class="tg-0lax">Cristina</td>
     <td class="tg-0lax">Zelgmatt 65<br>8132 Egg <br></td>
     <td class="tg-dcap"><a href="mailto:Cristina.Pangrazzi@balgrist.ch">Cristina.Pangrazzi@icloud.com</a><br><a href="mailto:Cristina.Pangrazzi@balgrist.ch"></a><br><a href="mailto:Cristina.Pangrazzi@balgrist.ch"></a><br><a href="mailto:Cristina.Pangrazzi@balgrist.ch">Cristina.Pangrazzi@balgrist.ch</a></td>
@@ -816,7 +815,7 @@ keywords: []
   </tr>
   <tr>
     <a id="r"></a>
-    <td class="tg-0lax">Rachinger</td>
+    <td class="tg-0lax" id="r">>Rachinger</td>
     <td class="tg-ktyi">Katrin</td>
     <td class="tg-ktyi">RACHINGER kodierexpert <br>Weinbergstrasse 29 <br>8280 Kreuzlingen  </td>
     <td class="tg-z182"><a href="mailto:rachinger@kodier.expert">rachinger@kodier.expert</a></td>
@@ -889,7 +888,7 @@ keywords: []
   </tr>
   <tr>
      <a id="s"></a>
-   <td class="tg-ktyi">Santacatterina-Orsingher<br></td>
+    <td class="tg-ktyi" id="s">>Santacatterina-Orsingher<br></td>
     <td class="tg-ktyi">Helena</td>
     <td class="tg-ktyi">bsoKodierungen gmbh<br>Stallbergstrasse 16<br>4562 Biberist</td>
     <td class="tg-z182"><a href="mailto:santacatterina@kodierungen.ch">santacatterina@kodierungen.ch</a></td>
@@ -962,7 +961,7 @@ keywords: []
   </tr>
   <tr>
     <a id="t"></a>
-    <td class="tg-0lax" id="info-importante2">Trümpi</td>
+    <td class="tg-0lax" id="t">rümpi</td>
     <td class="tg-0lax">Hayde Ester</td>
     <td class="tg-0lax">Inder Müseren 10<br>8118 Pfaffhaussen                   </td>
     <td class="tg-dcap"><a href="mailto:herios7@hotmail.com">herios7@hotmail.com</a></td>
@@ -975,7 +974,7 @@ keywords: []
   </tr>
   <tr>
     <a id="v"></a>
-    <td class="tg-0lax">van Panthaleon van Eck</td>
+    <td class="tg-0lax" id="v">>van Panthaleon van Eck</td>
     <td class="tg-0lax">Henriette</td>
     <td class="tg-0lax">Köllikersträsse 5<br>8044 Zurich</td>
     <td class="tg-dcap"><a href="mailto:henriette.vpve@bluewin.ch">henriette.vpve@bluewin.ch</a></td>
@@ -1015,7 +1014,7 @@ keywords: []
   </tr>
   <tr>
     <a id="w"></a>
-    <td class="tg-0lax">Weise</td>
+    <td class="tg-0lax" id="w">>Weise</td>
     <td class="tg-0lax">Karamfila</td>
     <td class="tg-0lax">Kesselweg 30<br>4410 Liestal</td>
     <td class="tg-lzdo"><a href="mailto:karamfila.weise@spitaluster.ch"><span style="color:#36F">karamfila.weise@spitaluster.ch</span></a></td>
@@ -1040,7 +1039,7 @@ keywords: []
   </tr>
   <tr>
     <a id="z"></a>
-    <td class="tg-0lax">Zbinden </td>
+    <td class="tg-0lax" id="z">>Zbinden </td>
     <td class="tg-ktyi">Yvonne</td>
     <td class="tg-ktyi">Spitalweg 9<br>3800 Unterseen</td>
     <td class="tg-z182"><a href="mailto:Yvonne.Zbinden@nicecomputing.ch">Yvonne.Zbinden@nicecomputing.ch</a></td>
