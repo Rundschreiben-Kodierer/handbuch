@@ -32,22 +32,16 @@ Weiterführende Informationen zur Revision von Kodierfällen sowie die nachstehe
 
   
 •	<a href="https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/nomenklaturen/medkk/revisionen-kodierfaelle.html#schweizerische-revisorinnen-und-revisoren-in-der-medizinischen-kodierung-liste-formular-informationen">Schweizerische Revisorinnen und Revisoren in der medizinischen Kodierung – Liste, Formular, Informationen</a>
-  
     
   •	<a href="https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/nomenklaturen/medkk/revisionen-kodierfaelle.html#reglement-kodierrevision-unter-swissdrg">Reglement – Kodierrevision unter SwissDRG</a>
   
-    
 •	<a href="https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/nomenklaturen/medkk/revisionen-kodierfaelle.html#archiv-reglement-kodierrevision-unter-swissdrg">Archiv: Reglement – Kodierrevision unter SwissDRG</a>
   
-
 •	<a href="https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/nomenklaturen/medkk/revisionen-kodierfaelle.html#reglement-kodierrevision-unter-tarpsy">Reglement – Kodierrevision unter TARPSY</a>
-  
 
 •	<a href="https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/nomenklaturen/medkk/revisionen-kodierfaelle.html#archiv-reglement-kodierrevision-unter-tarpsy">Archiv: Reglement – Kodierrevision unter TARPSY</a>
-  
 
 •	<a href="https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/nomenklaturen/medkk/revisionen-kodierfaelle.html#reglement-kodierrevision-unter-st-reha">Reglement – Kodierrevision unter ST Reha</a>
-  
   
 <a href="https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/nomenklaturen/medkk/revisionen-kodierfaelle.html">BFS – Revisionen von Kodierfällen</a>
 

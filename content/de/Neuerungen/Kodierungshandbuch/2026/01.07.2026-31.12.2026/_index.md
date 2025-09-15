@@ -11,6 +11,8 @@ keywords: []
   
 {{<markdown>}}
 Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Löschungen in rot~~</font>
-  
-Die Zusatzinformationen zum Kodierungshandbuch 2024, aus dem Rundschreiben 2024 Nr.1, sind weiterhin gültig
+
+
+Die im Kapitel **«Kodierungshandbuch»** veröffentlichten Neuerungen und Zusatzinformationen der **Gültigkeitsperiode 01.01.2026 bis 30.06.2026** behalten ihre Gültigkeit.
+
 {{</markdown>}}
