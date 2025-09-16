@@ -29,6 +29,7 @@ Die bekannten **Publikationszyklen der bisherigen Rundschreiben Nr. 1** jeweils 
   
 • FAQ
   
+  
 Unter jedem Kapitel werden jeweils **das Publikationsjahr sowie die Gültigkeitsspanne** der darin aufgeführten Inhalte angegeben, sodass die zeitliche Zuordnung der Änderungen und Ergänzungen jederzeit klar nachvollzogen werden kann.
   
 **Kapitel «Zusatzinformationen zur CHOP»**
@@ -39,12 +40,16 @@ Das bisherige Kapitel 5 «Anhang» wird durch das neue Kapitel **«FAQ»** erset
 
 **Such- und Exportfunktionen**
 Die Onlineversion bietet zusätzliche Funktionen:
+  
 • Inhalte können von den Nutzerinnen und Nutzern bei Bedarf als PDF-Datei heruntergeladen und ausgedruckt werden.
+  
 • Eine Stichwortsuche (Ctrl + F) ermöglicht eine einfache und schnelle Navigation innerhalb der Texte.
-
+  
+  
 **Archiv**
 Sämtliche Rundschreiben der Jahre 2009 bis einschliesslich 2025 stehen weiterhin unverändert im PDF-Format auf der Webseite des Bundesamtes für Statistik, Fachbereich Medizinische Klassifikationen, zur Verfügung.  
-<a href="https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/nomenklaturen/medkk/instrumente-medizinische-kodierung.html">www.bfs.admin.ch – Medizinische Klassifikationen</a>
+<a href="https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/nomenklaturen/medkk/instrumente-medizinische-kodierung.html">
+www.bfs.admin.ch – Medizinische Klassifikationen</a>
   
 Durch diese digitale Weiterentwicklung werden die **Neuerungen und Zusatzinformationen** zu den Publikationen nicht nur zeitgemäss und benutzerfreundlich gestaltet, sondern bieten auch zusätzliche Funktionen, die den Arbeitsalltag der Kodiererinnen und Kodierer erleichtern und die Übersichtlichkeit der Inhalte erhöhen.
 
