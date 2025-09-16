@@ -44,8 +44,7 @@ Die Onlineversion bietet zusätzliche Funktionen:
 
 **Archiv**
 Sämtliche Rundschreiben der Jahre 2009 bis einschliesslich 2025 stehen weiterhin unverändert im PDF-Format auf der Webseite des Bundesamtes für Statistik, Fachbereich Medizinische Klassifikationen, zur Verfügung.  
-www.bfs.admin.ch – Medizinische Klassifikationen
-•	<a href="https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/nomenklaturen/medkk/instrumente-medizinische-kodierung.html">www.bfs.admin.ch – Medizinische Klassifikationen</a>
+<a href="https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/nomenklaturen/medkk/instrumente-medizinische-kodierung.html">www.bfs.admin.ch – Medizinische Klassifikationen</a>
   
 Durch diese digitale Weiterentwicklung werden die **Neuerungen und Zusatzinformationen** zu den Publikationen nicht nur zeitgemäss und benutzerfreundlich gestaltet, sondern bieten auch zusätzliche Funktionen, die den Arbeitsalltag der Kodiererinnen und Kodierer erleichtern und die Übersichtlichkeit der Inhalte erhöhen.
 
