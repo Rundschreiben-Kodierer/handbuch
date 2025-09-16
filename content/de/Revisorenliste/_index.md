@@ -32,6 +32,7 @@ Die Veröffentlichung dieser Informationen dient der Transparenz und Nachvollzie
 **Ab dem 01.01.2026 werden die Inhalte der Liste fortlaufend aktualisiert. Die bisher geltenden halbjährlichen Publikationszyklen – jeweils Ende Juni und Ende Dezember – entfallen mit diesem Datum.**
   
   
+  
 Weiterführende Informationen zur Revision von Kodierfällen sowie die nachstehend aufgeführten Dokumente sind unter folgendem Link abrufbar: 
 {{</markdown>}}
 
