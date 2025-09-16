@@ -22,7 +22,7 @@ Das Kapitel **«Allgemeine Informationen»** enthält grundsätzliche Informatio
   
 •	Organisatorische Informationen zu Publikationsabläufen und Ansprechpartnern
   
-
+  
 Dieses Kapitel bildet somit die Grundlage für die Nutzung der weiteren Inhalte und unterstützt die Kodiererinnen und Kodierer bei der Orientierung innerhalb der Publikationen.
   
 Die Inhalte des Kapitels **werden im Rahmen der halbjährlichen Publikationszyklen** – jeweils **Ende Juni** und **Ende Dezember** – aktualisiert.

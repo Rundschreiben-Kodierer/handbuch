@@ -24,7 +24,9 @@ Das Kapitel bietet praxisorientierte Unterstützung bei allgemeinen und spezifis
 Die FAQ leiten sich aus wiederholten Anfragen an das Kodierungssekretariat zu einem spezifischen oder allgemeinen Sachverhalt sowie aus Einzelfallbeurteilungen und Diskussionen innerhalb der Fachgremien ab.
   
 Die FAQ werden in zwei Gruppen unterteilt:
+  
      **•	Spezifische FAQ**
+       
      **•	Allgemeine FAQ**
   
 Sie finden in jeder FAQ Informationen zum Thema / Schwerpunkt, dem Erstellungsdatum sowie Angaben darüber, wann die Datei aktualisiert wurde. Ausserdem sehen Sie, auf welches Regelwerk sich die Informationen beziehen, z. B. ICD, CHOP oder Kodierungsregeln.
@@ -32,7 +34,9 @@ Sie finden in jeder FAQ Informationen zum Thema / Schwerpunkt, dem Erstellungsda
 Das Kapitel **«FAQ»** ist folgendermassen strukturiert:
   
 Die Nummerierung erfolgt chronologisch aufsteigend.
+  
      **•	0001 – 4999:** Allgemeine FAQ
+  
      **•	5000 – 9999:** Spezifische FAQ
   
 Die bisherige Nummerierung des Kapitels 5 **«Anhang»** wird nicht fortgeführt.
