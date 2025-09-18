@@ -40,7 +40,7 @@ keywords: []
     <col style="width: 120px;"> <!-- Name -->
     <col style="width: 120px;"> <!-- Vorname -->
     <col style="width: 220px;"> <!-- Adresse -->
-    <col style="width: 270px;"> <!-- Email -->
+    <col style="width: 290px;"> <!-- Email -->
     <col style="width: 200px;"> <!-- Telefonkontakt -->
     <col style="width: 170px;"> <!-- Revisionssprache(n) -->
     <col style="width: 250px;"> <!-- Fachausweis -->
@@ -1001,16 +1001,13 @@ keywords: []
     <td class="tg-0lax" rowspan="2">von Varchmin</td>
     <td class="tg-0lax" rowspan="2">Nicole Katrin</td>
     <td class="tg-0lax" rowspan="2">Segantinistrasse 51<br>8049 Zürich</td>
-    <td class="tg-dcap"><a href="mailto:katrin@vonvarchmin.de">katrin@vonvarchmin.de</a></td>
+    <td class="tg-dcap"><a href="mailto:katrin@vonvarchmin.de">katrin@vonvarchmin.de</a><<br> <a href="mailto:katrin.vonvarchmin@gd.zh.ch">katrin.vonvarchmin@gd.zh.ch</a>/td>
     <td class="tg-0lax" rowspan="2">076 799 26 84</td>
     <td class="tg-0lax" rowspan="2">Deutsch</td>
     <td class="tg-0lax" rowspan="2">Confirmé // bestätigt</td>
     <td class="tg-0lax" rowspan="2"> <br></td>
     <td class="tg-0lax" rowspan="2">Confirmé // bestätigt</td>
     <td class="tg-0lax" rowspan="2">15.12.2015</td>
-  </tr>
-  <tr>
-    <td class="tg-dcap"><a href="mailto:katrin.vonvarchmin@gd.zh.ch">katrin.vonvarchmin@gd.zh.ch</a></td>
   </tr>
   <tr>
     <a id="w"></a>
