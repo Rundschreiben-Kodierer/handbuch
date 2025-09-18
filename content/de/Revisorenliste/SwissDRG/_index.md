@@ -127,7 +127,6 @@ keywords: []
     <td class="tg-ktyi">18.04.2016</td>
   </tr>
   <tr>
-    <a id="b"></a>
     <td class="tg-0lax" id="b"> Bollinger</td>
     <td class="tg-ktyi">Alfred K.</td>
     <td class="tg-ktyi">Dorfgass 2<br>8117 Fällanden</td>
@@ -164,7 +163,6 @@ keywords: []
     <td class="tg-ktyi">29.05.2018</td>
   </tr>
   <tr>
-    <a id="c"></a>
     <td class="tg-0lax" id="c">Caduff Huwiler</td>
     <td class="tg-ktyi">Léonie</td>
     <td class="tg-ktyi">Haldenstrasse 35<br> 5415 Nussbaumen</td>
@@ -225,7 +223,6 @@ keywords: []
     <td class="tg-ktyi">24.03.2021</td>
   </tr>
   <tr>
-    <a id="d"></a>
     <td class="tg-0lax" id="d">De Tella Gomes <br>Cavalheiro </td>
     <td class="tg-ktyi">Valeria</td>
     <td class="tg-ktyi">Pilatusstrasse 22<br>8330 Pfäffikon</td>
@@ -286,7 +283,6 @@ keywords: []
     <td class="tg-ktyi">15.11.2021</td>
   </tr>
   <tr>
-    <a id="e"></a>
     <td class="tg-0lax" id="e">Echarren</td>
     <td class="tg-ktyi">Rosmarie</td>
     <td class="tg-ktyi">Feldhofstrasse 23<br>8600 Dübendorf</td>
@@ -299,7 +295,6 @@ keywords: []
     <td class="tg-ktyi">08.06.2017</td>
   </tr>
   <tr>
-    <a id="f"></a>
     <td class="tg-0lax" id="f">Fjaili</td>
     <td class="tg-0lax">Rita</td>
     <td class="tg-0lax">GHOL– Groupement Hospitalier <br>de l’Ouest Lémanique<br>Ch. Monastier 10<br>CH - 1260 Nyon<br>                                                             </td>
@@ -348,7 +343,6 @@ keywords: []
     <td class="tg-ktyi">15.12.2011</td>
   </tr>
   <tr>
-    <a id="g"></a>
     <td class="tg-0lax" id="g">Gehrig-Rentsch</td>
     <td class="tg-ktyi">Regula</td>
     <td class="tg-ktyi">DRGplus<br>Kranichweg 30<br>3074 Muri bei Bern</td>
@@ -421,7 +415,6 @@ keywords: []
     <td class="tg-ktyi">16.11.2015</td>
   </tr>
   <tr>
-    <a id="h"></a>
     <td class="tg-0lax" id="h">Hager</td>
     <td class="tg-ktyi">Daniela</td>
     <td class="tg-ktyi">Haselgasse 78<br>3902 Glis</td>
@@ -470,7 +463,6 @@ keywords: []
     <td class="tg-ktyi">15.12.2011</td>
   </tr>
   <tr>
-    <a id="i"></a>
     <td class="tg-0lax" id="i">Idalan</td>
     <td class="tg-ktyi">Irène</td>
     <td class="tg-ktyi">Ruede la Fontaine 4<br>1094 Paudex</td>
@@ -483,7 +475,6 @@ keywords: []
     <td class="tg-ktyi">15.12.2011</td>
   </tr>
   <tr>
-    <a id="j"></a>
     <td class="tg-0lax" id="j">Jaussi Schnider</td>
     <td class="tg-ktyi">Barbara</td>
     <td class="tg-ktyi">Eptingerstrasse 19 <br>4436 Oberdorf</td>
@@ -973,7 +964,6 @@ keywords: []
     <td class="tg-0lax">20.11.2019</td>
   </tr>
   <tr>
-    <a id="v"></a>
     <td class="tg-0lax" id="v">van Panthaleon van Eck</td>
     <td class="tg-0lax">Henriette</td>
     <td class="tg-0lax">Köllikersträsse 5<br>8044 Zurich</td>
@@ -1011,7 +1001,6 @@ keywords: []
     <td class="tg-0lax">15.12.2015</td>
   </tr>
   <tr>
-    <a id="w"></a>
     <td class="tg-0lax" id="w">Weise</td>
     <td class="tg-0lax">Karamfila</td>
     <td class="tg-0lax">Kesselweg 30<br>4410 Liestal</td>
@@ -1036,7 +1025,6 @@ keywords: []
     <td class="tg-0lax">20.11.2019</td>
   </tr>
   <tr>
-    <a id="z"></a>
     <td class="tg-0lax" id="z">Zbinden </td>
     <td class="tg-ktyi">Yvonne</td>
     <td class="tg-ktyi">Spitalweg 9<br>3800 Unterseen</td>
