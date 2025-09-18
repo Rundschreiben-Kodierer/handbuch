@@ -998,17 +998,17 @@ keywords: []
     <td class="tg-0lax">30.06.2014</td>
   </tr>
   <tr>
-    <td class="tg-0lax" rowspan="2">von Varchmin</td>
-    <td class="tg-0lax" rowspan="2">Nicole Katrin</td>
-    <td class="tg-0lax" rowspan="2">Segantinistrasse 51<br>8049 Zürich</td>
+    <td class="tg-0lax">von Varchmin</td>
+    <td class="tg-0lax">Nicole Katrin</td>
+    <td class="tg-0lax">Segantinistrasse 51<br>8049 Zürich</td>
     <td class="tg-lzdo"><a href="mailto:katrin@vonvarchmin.de"><span style="color:#36F">katrin@vonvarchmin.de</span></a><br>
     <a href="mailto:katrin.vonvarchmin@gd.zh.ch"><span style="color:#36F">katrin.vonvarchmin@gd.zh.ch</span></a></td>
-    <td class="tg-0lax" rowspan="2">076 799 26 84</td>
-    <td class="tg-0lax" rowspan="2">Deutsch</td>
-    <td class="tg-0lax" rowspan="2">Confirmé // bestätigt</td>
-    <td class="tg-0lax" rowspan="2"> <br></td>
-    <td class="tg-0lax" rowspan="2">Confirmé // bestätigt</td>
-    <td class="tg-0lax" rowspan="2">15.12.2015</td>
+    <td class="tg-0lax">076 799 26 84</td>
+    <td class="tg-0lax">Deutsch</td>
+    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-0lax"> <br></td>
+    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-0lax">15.12.2015</td>
   </tr>
   <tr>
     <a id="w"></a>
