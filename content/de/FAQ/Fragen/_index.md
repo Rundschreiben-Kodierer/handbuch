@@ -1,7 +1,7 @@
 ---
-title: SPEZ
-slug: SPEZ
-description: SPEZ
+title: "FAQ/Klarstellungen"
+slug: FAQ/Klarstellungen
+description: FAQ/Klarstellungen
 weight: 20
 type: docs
 keywords: []

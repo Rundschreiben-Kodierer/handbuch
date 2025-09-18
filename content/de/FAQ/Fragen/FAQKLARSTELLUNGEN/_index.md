@@ -1,8 +1,8 @@
 ---
-title: "FAQ SPEZIAL"
-slug: FAQSPEZIAL
-description: "FAQ SPEZIAL"
-weight: 20
+title: "FAQ/Klarstellungen"
+slug: FAQKlarstellungen
+description: "FAQ/Klarstellungen"
+weight: 10
 type: docs
 keywords: []
 ---
@@ -40,7 +40,7 @@ o	Präzisierung: "Die Gültigkeit der Regelung beträgt 24 Monate."
 ________________________________________________________________________________________________________________________________________________________________
 **2. FAQ (Frequently Asked Questions)**  
 **•	Zweck**: Wiederkehrende Fragen und deren standardisierten Antworten zu einem Thema werden gesammelt und publiziert, um Informationslücken proaktiv zu schliessen und Unsicherheiten vorwegzunehmen.  
-**•	Anwendung**:  
+**•	Anwen dung**:  
 o	Auf Websites, in Bedienungsanleitungen oder anderen Ressourcen, die sich an ein breites Publikum richten.  
 o	In Bereichen, in denen ähnliche Fragen regelmässig auftreten (z. B. Kundensupport).  
 **•	Charakter**: Proaktiv und allgemein – bietet standardisierte Antworten auf häufige Fragen.  
