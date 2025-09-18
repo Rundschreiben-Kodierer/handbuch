@@ -1001,7 +1001,8 @@ keywords: []
     <td class="tg-0lax" rowspan="2">von Varchmin</td>
     <td class="tg-0lax" rowspan="2">Nicole Katrin</td>
     <td class="tg-0lax" rowspan="2">Segantinistrasse 51<br>8049 Zürich</td>
-    <td class="tg-dcap"><a href="mailto:katrin@vonvarchmin.de">katrin@vonvarchmin.de</a><br><a href="mailto:katrin.vonvarchmin@gd.zh.ch"></a><a href="mailto:katrin.vonvarchmin@gd.zh.ch"></a><br><a href="mailto:katrin.vonvarchmin@gd.zh.ch">katrin.vonvarchmin@gd.zh.ch</a></td>
+    <td class="tg-lzdo"><a href="mailto:katrin@vonvarchmin.de"><span style="color:#36F">katrin@vonvarchmin.de</span></a><br>
+    <a href="mailto:katrin.vonvarchmin@gd.zh.ch"><span style="color:#36F">katrin.vonvarchmin@gd.zh.ch</span></a></td>
     <td class="tg-0lax" rowspan="2">076 799 26 84</td>
     <td class="tg-0lax" rowspan="2">Deutsch</td>
     <td class="tg-0lax" rowspan="2">Confirmé // bestätigt</td>
