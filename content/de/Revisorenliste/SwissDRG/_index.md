@@ -39,7 +39,7 @@ keywords: []
   <colgroup>
     <col style="width: 120px;"> <!-- Name -->
     <col style="width: 120px;"> <!-- Vorname -->
-    <col style="width: 200px;"> <!-- Adresse -->
+    <col style="width: 220px;"> <!-- Adresse -->
     <col style="width: 250px;"> <!-- Email -->
     <col style="width: 200px;"> <!-- Telefonkontakt -->
     <col style="width: 170px;"> <!-- Revisionssprache(n) -->
@@ -276,7 +276,7 @@ keywords: []
   <tr>
     <td class="tg-0lax">Drescher</td>
     <td class="tg-ktyi">Ralf</td>
-    <td class="tg-7zrl">Buechweid 11B, 6215 Beromünster</td>
+    <td class="tg-7zrl">Buechweid 11B<br>6215 Beromünster</td>
     <td class="tg-z182"><a href="mailto:ralf.drescher70@gmail.com">ralf.drescher70@gmail.com</a></td>
     <td class="tg-0lax">079 244 4459</td>
     <td class="tg-ktyi">Deutsch</td>
@@ -559,7 +559,7 @@ keywords: []
   <tr>
     <td class="tg-0lax">Krämer</td>
     <td class="tg-ktyi">Ewald</td>
-    <td class="tg-ktyi">Hinterhöfenstr. 4 6312 Steinhausen</td>
+    <td class="tg-ktyi">Hinterhöfenstr. 4<br>6312 Steinhausen</td>
     <td class="tg-z182"><a href="mailto:kraemer-e@web.de">kraemer-e@web.de</a></td>
     <td class="tg-ktyi">079 123 16 07</td>
     <td class="tg-ktyi">Deutsch</td>
@@ -766,7 +766,7 @@ keywords: []
   <tr>
     <td class="tg-0lax">Niederer-Addor</td>
     <td class="tg-ktyi">Catherine</td>
-    <td class="tg-ktyi">Bodenrebenweg 19, 3225 Müntschemier</td>
+    <td class="tg-ktyi">Bodenrebenweg 19<br> 3225 Müntschemier</td>
     <td class="tg-dcap"><a href="mailto:catherine.niederer@nicecomputing.ch">catherine.niederer@nicecomputing.ch</a></td>
     <td class="tg-ktyi">079 359 55 46</td>
     <td class="tg-ktyi">Französisch<br>Deutsch<br></td>
@@ -890,7 +890,7 @@ keywords: []
      <a id="s"></a>
     <td class="tg-ktyi" id="s">Santacatterina-Orsingher<br></td>
     <td class="tg-ktyi">Helena</td>
-    <td class="tg-ktyi">bsoKodierungen gmbh<br>Stallbergstrasse 16<br>4562 Biberist</td>
+    <td class="tg-ktyi">bso Kodierungen gmbh<br>Stallbergstrasse 16<br>4562 Biberist</td>
     <td class="tg-z182"><a href="mailto:santacatterina@kodierungen.ch">santacatterina@kodierungen.ch</a></td>
     <td class="tg-ktyi">079 693 49 35</td>
     <td class="tg-ktyi">Deutsch<br>Italienisch</td>
@@ -914,7 +914,7 @@ keywords: []
   <tr>
     <td class="tg-0lax">Schultze</td>
     <td class="tg-ktyi">Renate</td>
-    <td class="tg-ktyi">ImSesselacker 31<br>4059 Basel</td>
+    <td class="tg-ktyi">Im Sesselacker 31<br>4059 Basel</td>
     <td class="tg-z182"><a href="mailto:reschultze@gmx.ch">reschultze@gmx.ch</a></td>
     <td class="tg-ktyi">079 408 52 87</td>
     <td class="tg-ktyi">Deutsch</td>
@@ -938,7 +938,7 @@ keywords: []
   <tr>
     <td class="tg-0lax">Stebler</td>
     <td class="tg-ktyi">Monika</td>
-    <td class="tg-ktyi">DreiEichen 12<br>8630 Rüti ZH</td>
+    <td class="tg-ktyi">Drei Eichen 12<br>8630 Rüti ZH</td>
     <td class="tg-z182"><a href="mailto:stebler1@gmx.ch">stebler1@gmx.ch</a></td>
     <td class="tg-ktyi">076 377 48 40</td>
     <td class="tg-ktyi">Deutsch</td>
@@ -961,9 +961,9 @@ keywords: []
   </tr>
   <tr>
     <a id="t"></a>
-    <td class="tg-0lax" id="t">rümpi</td>
+    <td class="tg-0lax" id="t">Trümpi</td>
     <td class="tg-0lax">Hayde Ester</td>
-    <td class="tg-0lax">Inder Müseren 10<br>8118 Pfaffhaussen                   </td>
+    <td class="tg-0lax">In der Müseren 10<br>8118 Pfaffhaussen                   </td>
     <td class="tg-dcap"><a href="mailto:herios7@hotmail.com">herios7@hotmail.com</a></td>
     <td class="tg-0lax">079 953 11 20</td>
     <td class="tg-0lax">Deutsch</td>
