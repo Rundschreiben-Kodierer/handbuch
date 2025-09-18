@@ -40,7 +40,7 @@ keywords: []
     <col style="width: 120px;"> <!-- Name -->
     <col style="width: 120px;"> <!-- Vorname -->
     <col style="width: 220px;"> <!-- Adresse -->
-    <col style="width: 250px;"> <!-- Email -->
+    <col style="width: 270px;"> <!-- Email -->
     <col style="width: 200px;"> <!-- Telefonkontakt -->
     <col style="width: 170px;"> <!-- Revisionssprache(n) -->
     <col style="width: 250px;"> <!-- Fachausweis -->
@@ -793,7 +793,7 @@ keywords: []
     <td class="tg-0lax" id="p">Pangrazzi</td>
     <td class="tg-0lax">Cristina</td>
     <td class="tg-0lax">Zelgmatt 65<br>8132 Egg <br></td>
-    <td class="tg-dcap"><a href="mailto:Cristina.Pangrazzi@balgrist.ch">Cristina.Pangrazzi@icloud.com</a><br><a href="mailto:Cristina.Pangrazzi@balgrist.ch"></a><br><a href="mailto:Cristina.Pangrazzi@balgrist.ch"></a><br><a href="mailto:Cristina.Pangrazzi@balgrist.ch">Cristina.Pangrazzi@balgrist.ch</a></td>
+    <td class="tg-dcap"><a href="mailto:Cristina.Pangrazzi@balgrist.ch">Cristina.Pangrazzi@icloud.com</a><br><a href="mailto:Cristina.Pangrazzi@balgrist.ch"></a><a href="mailto:Cristina.Pangrazzi@balgrist.ch"></a><br><a href="mailto:Cristina.Pangrazzi@balgrist.ch">Cristina.Pangrazzi@balgrist.ch</a></td>
     <td class="tg-0lax">044 984 50 32<br><br>044 386 54 41<br></td>
     <td class="tg-0lax">Deutsch<br>Italienisch</td>
     <td class="tg-0lax">Confirmé// bestätigt</td>
