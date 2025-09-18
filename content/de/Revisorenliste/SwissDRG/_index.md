@@ -142,7 +142,7 @@ keywords: []
   <tr>
     <td class="tg-ktyi">Branzke</td>
     <td class="tg-ktyi">Jörn</td>
-    <td class="tg-ktyi">Bisenweg 20<br> D-14542 Werder/Havel</td>
+    <td class="tg-ktyi">Bisenweg 20<br>DE-14542 Werder/Havel</td>
     <td class="tg-z182"><a href="mailto:joern_branzke@yahoo.de">joern_branzke@yahoo.de</a></td>
     <td class="tg-ktyi">0049 170 999 20 40</td>
     <td class="tg-ktyi">Deutsch</td>
@@ -154,7 +154,7 @@ keywords: []
   <tr>
     <td class="tg-0lax">Burgert</td>
     <td class="tg-ktyi">Barbara</td>
-    <td class="tg-ktyi">Faulacker 41<br>D-79576 Weil am Rhein</td>
+    <td class="tg-ktyi">Faulacker 41<br>DE-79576 Weil am Rhein</td>
     <td class="tg-z182"><a href="mailto:barbaraburgert@web.de">barbaraburgert@web.de</a></td>
     <td class="tg-ktyi">0049 7621168235</td>
     <td class="tg-ktyi">Deutsch</td>
@@ -448,7 +448,7 @@ keywords: []
   <tr>
     <td class="tg-0lax">Höhnel</td>
     <td class="tg-ktyi">Uwe</td>
-    <td class="tg-ktyi">c/omedCare Schweiz AG<br>Seefeldstrasse 214<br>8008 Zürich</td>
+    <td class="tg-ktyi">c/o medCare Schweiz AG<br>Seefeldstrasse 214<br>8008 Zürich</td>
     <td class="tg-z182"><a href="mailto:backoffice@medcare-schweiz.ch">backoffice@medcare-schweiz.ch</a></td>
     <td class="tg-ktyi">043 508 25 47</td>
     <td class="tg-ktyi">Deutsch</td>
@@ -511,7 +511,7 @@ keywords: []
     <a id="k"></a>
     <td class="tg-0lax" id="k">Kalinovic</td>
     <td class="tg-ktyi">Rodzester</td>
-    <td class="tg-ktyi">DRGOffice<br>Strandbodenstrasse 22<br>8877 Murg</td>
+    <td class="tg-ktyi">DRG Office<br>Strandbodenstrasse 22<br>8877 Murg</td>
     <td class="tg-z182"><a href="mailto:info@drg-office.ch">info@drg-office.ch</a></td>
     <td class="tg-ktyi">079 863 73 09</td>
     <td class="tg-ktyi">Deutsch<br><br></td>
@@ -595,7 +595,7 @@ keywords: []
   <tr>
     <td class="tg-0lax">Kunz</td>
     <td class="tg-ktyi">Daniela</td>
-    <td class="tg-ktyi">c/oSiloah<br>Worbstrasse 316<br>3073 Gümligen</td>
+    <td class="tg-ktyi">c/o Siloah<br>Worbstrasse 316<br>3073 Gümligen</td>
     <td class="tg-z182"><a href="mailto:daniela88@hotmail.ch">daniela88@hotmail.ch</a></td>
     <td class="tg-0lax">079 688 79 48</td>
     <td class="tg-ktyi">Deutsch<br>Italienisch</td>
@@ -632,7 +632,7 @@ keywords: []
   <tr>
     <td class="tg-0lax">Lindinger</td>
     <td class="tg-ktyi">Andrea</td>
-    <td class="tg-ktyi">Mausackerweg122<br>4153 Reinach</td>
+    <td class="tg-ktyi">Mausackerweg 122<br>4153 Reinach</td>
     <td class="tg-z182"><a href="mailto:andrea.lindinger@gmail.com">andrea.lindinger@gmail.com</a></td>
     <td class="tg-ktyi">079 128 75 25</td>
     <td class="tg-ktyi">Deutsch</td>
@@ -729,7 +729,7 @@ keywords: []
   <tr>
     <td class="tg-0lax">Moos</td>
     <td class="tg-ktyi">Rudolf</td>
-    <td class="tg-0lax">Bölstr.15, 8704 Herrliberg</td>
+    <td class="tg-0lax">Bölstr.15<br>8704 Herrliberg</td>
     <td class="tg-z182"><a href="mailto:mail@rudolf-moos.de">mail@rudolf-moos.de</a></td>
     <td class="tg-ktyi">076 702 07 00</td>
     <td class="tg-ktyi">Deutsch</td>
@@ -794,7 +794,7 @@ keywords: []
     <td class="tg-0lax">Cristina</td>
     <td class="tg-0lax">Zelgmatt 65<br>8132 Egg <br></td>
     <td class="tg-dcap"><a href="mailto:Cristina.Pangrazzi@balgrist.ch">Cristina.Pangrazzi@icloud.com</a><br><a href="mailto:Cristina.Pangrazzi@balgrist.ch"></a><br><a href="mailto:Cristina.Pangrazzi@balgrist.ch"></a><br><a href="mailto:Cristina.Pangrazzi@balgrist.ch">Cristina.Pangrazzi@balgrist.ch</a></td>
-    <td class="tg-0lax">044 984 50 32<br><br><br>044 386 54 41<br></td>
+    <td class="tg-0lax">044 984 50 32<br><br>044 386 54 41<br></td>
     <td class="tg-0lax">Deutsch<br>Italienisch</td>
     <td class="tg-0lax">Confirmé// bestätigt</td>
     <td class="tg-0lax">Ganze Schweiz</td>
