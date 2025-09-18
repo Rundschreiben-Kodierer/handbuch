@@ -65,13 +65,6 @@ keywords: []
   <tbody>
 
 
-
-
-<a href="#0758">0758</a>
-<a href="#info-importante">Cliquez ici pour voir l'information importante dans le tableau</a>
-<a href="#info-importante2">Cliquez ici pour voir l'information importante dans le tableau</a>
-
-
 <span>
 <a href="#a"> a</a>
 <a href="#b"> b</a>
@@ -499,7 +492,6 @@ keywords: []
     <td class="tg-ktyi">15.11.2013</td>
   </tr>
   <tr>
-    <a id="k"></a>
     <td class="tg-0lax" id="k">Kalinovic</td>
     <td class="tg-ktyi">Rodzester</td>
     <td class="tg-ktyi">DRG Office<br>Strandbodenstrasse 22<br>8877 Murg</td>
@@ -608,7 +600,6 @@ keywords: []
     <td class="tg-ktyi">08.06.2017</td>
   </tr>
   <tr>
-     <a id="l"></a>
    <td class="tg-0lax" id="l">LambertVogeleisen </td>
     <td class="tg-ktyi">Agnès</td>
     <td class="tg-ktyi">135, chemin de la procession 74200 ARMOY<br>France</td>
@@ -633,7 +624,6 @@ keywords: []
     <td class="tg-ktyi">11.04.2018</td>
   </tr>
   <tr>
-    <a id="m"></a>
     <td class="tg-0lax" id="m">Marino</td>
     <td class="tg-0lax">Ursula Nala</td>
     <td class="tg-0lax">Renggstrasse 25<br>6052 Hergiswil</td>
@@ -742,7 +732,6 @@ keywords: []
     <td class="tg-0lax">30.06.2013</td>
   </tr>
   <tr>
-    <a id="n"></a>
     <td class="tg-0lax" id="n">Narda</td>
     <td class="tg-ktyi">Leonardo</td>
     <td class="tg-ktyi">Vorstadtstrasse6 <br>5722 Gränichen - AG</td>
@@ -767,7 +756,6 @@ keywords: []
     <td class="tg-ktyi">05.11.2021</td>
   </tr>
   <tr>
-    <a id="o"></a>
     <td class="tg-0lax" id="o">Oetjen</td>
     <td class="tg-ktyi">Philipp</td>
     <td class="tg-ktyi">Carl-BeckStrasse 10a<br>6210 Sursee<br></td>
@@ -780,7 +768,6 @@ keywords: []
     <td class="tg-ktyi">30.06.2014</td>
   </tr>
   <tr>
-    <a id="p"></a>
     <td class="tg-0lax" id="p">Pangrazzi</td>
     <td class="tg-0lax">Cristina</td>
     <td class="tg-0lax">Zelgmatt 65<br>8132 Egg <br></td>
@@ -805,7 +792,6 @@ keywords: []
     <td class="tg-ktyi">15.12.2011</td>
   </tr>
   <tr>
-    <a id="r"></a>
     <td class="tg-0lax" id="r">Rachinger</td>
     <td class="tg-ktyi">Katrin</td>
     <td class="tg-ktyi">RACHINGER kodierexpert <br>Weinbergstrasse 29 <br>8280 Kreuzlingen  </td>
@@ -878,7 +864,6 @@ keywords: []
     <td class="tg-ktyi">05.02.2014</td>
   </tr>
   <tr>
-     <a id="s"></a>
     <td class="tg-ktyi" id="s">Santacatterina-Orsingher<br></td>
     <td class="tg-ktyi">Helena</td>
     <td class="tg-ktyi">bso Kodierungen gmbh<br>Stallbergstrasse 16<br>4562 Biberist</td>
@@ -951,7 +936,6 @@ keywords: []
     <td class="tg-ktyi">25.02.2012</td>
   </tr>
   <tr>
-    <a id="t"></a>
     <td class="tg-0lax" id="t">Trümpi</td>
     <td class="tg-0lax">Hayde Ester</td>
     <td class="tg-0lax">In der Müseren 10<br>8118 Pfaffhaussen                   </td>
@@ -1049,8 +1033,6 @@ keywords: []
     <td class="tg-ktyi">08.06.2017</td>
   </tr>
 </tbody></table>
-
-  <a id="0758"></a>
 
 
 {{<insertImage image="Quelle.png" class="edge max-w-90">}}
