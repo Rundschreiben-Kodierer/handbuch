@@ -793,7 +793,7 @@ keywords: []
     <td class="tg-0lax" id="p">Pangrazzi</td>
     <td class="tg-0lax">Cristina</td>
     <td class="tg-0lax">Zelgmatt 65<br>8132 Egg <br></td>
-    <td class="tg-dcap"><a href="mailto:Cristina.Pangrazzi@balgrist.ch">Cristina.Pangrazzi@icloud.com</a><br><a href="mailto:Cristina.Pangrazzi@balgrist.ch"></a><a href="mailto:Cristina.Pangrazzi@balgrist.ch"></a><br><a href="mailto:Cristina.Pangrazzi@balgrist.ch">Cristina.Pangrazzi@balgrist.ch</a></td>
+    <td class="tg-dcap"><a href="mailto:Cristina.Pangrazzi@icloud.com">Cristina.Pangrazzi@icloud.com</a><br><a href="mailto:Cristina.Pangrazzi@balgrist.ch"></a><a href="mailto:Cristina.Pangrazzi@balgrist.ch"></a><br><a href="mailto:Cristina.Pangrazzi@balgrist.ch">Cristina.Pangrazzi@balgrist.ch</a></td>
     <td class="tg-0lax">044 984 50 32<br><br>044 386 54 41<br></td>
     <td class="tg-0lax">Deutsch<br>Italienisch</td>
     <td class="tg-0lax">Confirmé// bestätigt</td>
@@ -1001,7 +1001,7 @@ keywords: []
     <td class="tg-0lax" rowspan="2">von Varchmin</td>
     <td class="tg-0lax" rowspan="2">Nicole Katrin</td>
     <td class="tg-0lax" rowspan="2">Segantinistrasse 51<br>8049 Zürich</td>
-    <td class="tg-dcap"><a href="mailto:katrin@vonvarchmin.de">katrin@vonvarchmin.de</a><<br> <a href="mailto:katrin.vonvarchmin@gd.zh.ch">katrin.vonvarchmin@gd.zh.ch</a>/td>
+    <td class="tg-dcap"><a href="mailto:katrin@vonvarchmin.de">katrin@vonvarchmin.de</a><br><a href="mailto:katrin.vonvarchmin@gd.zh.ch"></a><a href="mailto:katrin.vonvarchmin@gd.zh.ch"></a><br><a href="mailto:katrin.vonvarchmin@gd.zh.ch">katrin.vonvarchmin@gd.zh.ch</a></td>
     <td class="tg-0lax" rowspan="2">076 799 26 84</td>
     <td class="tg-0lax" rowspan="2">Deutsch</td>
     <td class="tg-0lax" rowspan="2">Confirmé // bestätigt</td>
