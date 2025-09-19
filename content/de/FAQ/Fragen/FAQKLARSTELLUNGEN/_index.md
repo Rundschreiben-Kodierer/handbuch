@@ -25,10 +25,15 @@ ________________________________________
 **Struktur, Inhalt und Gültigkeit der FAQ/Klarstellungen**
   
 Jede FAQ/Klarstellung enthält:
+  
 •	mindestens ein **Schlagwort**, auf das sie sich bezieht,
+  
 •	das **Erstellungsdatum**,
+  
 •	den **Themenbereich** (ICD-10-GM oder CHOP) mit den jeweils relevanten Kodes,
+  
 •	sofern zutreffend, einen **Verweis auf die jeweilige Kodierregel**,
+  
 •	ein Feld **«Aktualisiert»**, in dem das Datum der letzten inhaltlichen Anpassung ausgewiesen wird,
   
 Mit der Einführung der Onlineschaltung des Kapitels «FAQ/Klarstellungen» wurde bei **allen FAQ/Klarstellungen das Erstellungsdatum auf den 01.01.2026 angepasst**.
@@ -40,16 +45,22 @@ Die Darstellung erfolgt so, dass die jeweils **aktuelle Fassung** zuoberst steht
 Alte, ungültige Versionen werden nachfolgend mit dem Zeitraum der Gültigkeit («von – bis») aufgeführt und in **rot durchgestrichener Schrift** dargestellt.
   
 Sämtliche auf der Website des BFS aufgeschalteten FAQ/Klarstellungen behalten in ihrer jeweils gültigen Fassung so lange ihre **Gültigkeit**, bis sie:
+  
 •	in die jeweiligen Regelwerke KHB oder CHOP integriert wurden, oder
+  
 •	durch eine neue FAQ/Klarstellung ersetzt, oder
+  
 •	durch das BFS gelöscht wurden.
+  
 Damit ist jederzeit transparent nachvollziehbar, welche Fassung einer FAQ/Klarstellung aktuell verbindlich ist und welche früher gültig war.
   
 ________________________________________
 
 **Nummerierungssystem**
 Die FAQ/Klarstellungen sind chronologisch aufsteigend nummeriert:
+  
 •	**0001 – 9999**
+  
 Die bisherige Nummerierung des Kapitels 5 «Anhang» wird nicht fortgeführt.
   
 ________________________________________
