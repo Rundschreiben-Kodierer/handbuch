@@ -55,4 +55,4 @@ Wie in den übrigen Kapiteln der Neuerungen und Zusatzinformationen zu den Publi
 Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Löschungen in rot~~</font>
 
 
-{{<markdown>}}
+{{</markdown>}}
