@@ -8,8 +8,6 @@ keywords: []
 ---
 {{<printButton>}}
 
-{{<markdown>}}
-
 
 **Einführung des Kapitels «FAQ/Klarstellungen» mit den Neuerungen und Zusatzinformationen zu den Publikationen**  
 
@@ -51,6 +49,8 @@ ________________________________________
 Kennzeichnung von Anpassungen
 Wie in den übrigen Kapiteln der Neuerungen und Zusatzinformationen zu den Publikationen, wird auch im Kapitel «FAQ/Klarstellungen» für Anpassungen, Ergänzungen und Streichungen folgende Legende angewendet:
 
+
+{{<markdown>}}
 
 Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Löschungen in rot~~</font>
   
