@@ -49,3 +49,10 @@ Die bisherige Nummerierung des Kapitels 5 «Anhang» wird nicht fortgeführt.
 ________________________________________
 Kennzeichnung von Anpassungen
 Wie in den übrigen Kapiteln der Neuerungen und Zusatzinformationen zu den Publikationen, wird auch im Kapitel «FAQ/Klarstellungen» für Anpassungen, Ergänzungen und Streichungen folgende Legende angewendet:
+
+
+  
+Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Löschungen in rot~~</font>
+
+
+{{<markdown>}}
