@@ -10,6 +10,7 @@ keywords: []
 
 {{<markdown>}}
 
+
 **Einführung des Kapitels «FAQ/Klarstellungen» mit den Neuerungen und Zusatzinformationen zu den Publikationen**  
 
 Mit der Publikation der Neuerungen und Zusatzinformationen zu den Publikationen am **01. Januar 2026** wird das neue Kapitel «FAQ/Klarstellungen» aufgeschaltet.
@@ -51,8 +52,6 @@ Kennzeichnung von Anpassungen
 Wie in den übrigen Kapiteln der Neuerungen und Zusatzinformationen zu den Publikationen, wird auch im Kapitel «FAQ/Klarstellungen» für Anpassungen, Ergänzungen und Streichungen folgende Legende angewendet:
 
 
-  
 Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Löschungen in rot~~</font>
-
-
+  
 {{</markdown>}}
