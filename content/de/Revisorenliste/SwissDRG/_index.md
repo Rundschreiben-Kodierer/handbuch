@@ -96,28 +96,16 @@ keywords: []
 
 <tbody>
   <tr>
-    <td class="tg-0lax" id="a">Alaasdftorre Kyburz</td>
-    <td class="tg-ktyi">Manuela</td>
-    <td class="tg-ktyi">Sonnhaldenweg 1<br>5035 Unterentfelden</td>
-    <td class="tg-v47d"><a href="mailto:manuela.alatorre@gmail.com">manuela.alatorre@gmail.com</a></td>
-    <td class="tg-ktyi">062 723 70 35</td>
+    <td class="tg-0lax" id="a">Aggeler</td>
+    <td class="tg-ktyi">Brigitta </td>
+    <td class="tg-ktyi">St. Gallerstrasse 20<br>8853 Lachen SZ </td>
+    <td class="tg-v47d"><a href="mailto:aggeler@medizincontrolling.ch">aggeler@medizincontrolling.ch</a></td>
+    <td class="tg-ktyi">079 793 36 40</dh
     <td class="tg-ktyi">Deutsch</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
-    <td class="tg-ktyi">08.06.2017</td>
-  </tr>
-  <tr>
-    <th class="tg-0lax" id="a">Aggeler</th>
-    <th class="tg-ktyi">Brigitta </th>
-    <th class="tg-ktyi">St. Gallerstrasse 20<br>8853 Lachen SZ </th>
-    <th class="tg-v47d"><a href="mailto:aggeler@medizincontrolling.ch">aggeler@medizincontrolling.ch</a></th>
-    <th class="tg-ktyi">079 793 36 40</th>
-    <th class="tg-ktyi">Deutsch</th>
-    <th class="tg-0lax">Confirmé //bestätigt</th>
-    <th class="tg-ktyi">Deutschschweiz </th>
-    <th class="tg-ktyi">Confirmé //bestätigt</th>
-    <th class="tg-ktyi">09.10.2024</th>
+    <td class="tg-0lax">Confirmé //bestätigt</td>
+    <td class="tg-ktyi">Deutschschweiz </td>
+    <td class="tg-ktyi">Confirmé //bestätigt</td>
+    <td class="tg-ktyi">09.10.2024</td>
   </tr>
   <tr>
     <td class="tg-0lax">Alatorre Kyburz</td>
