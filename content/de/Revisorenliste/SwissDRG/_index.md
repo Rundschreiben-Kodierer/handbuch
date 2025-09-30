@@ -95,7 +95,6 @@ keywords: []
 </span>
 
 <tbody>
-
   <tr>
     <td class="tg-0lax" id="a">Alatorre Kyburz</td>
     <td class="tg-ktyi">Manuela</td>
@@ -108,8 +107,6 @@ keywords: []
     <td class="tg-0lax">Confirmé // bestätigt</td>
     <td class="tg-ktyi">08.06.2017</td>
   </tr>
-
-
   <tr>
     <th class="tg-0lax" id="a">Aggeler</th>
     <th class="tg-ktyi">Brigitta </th>
