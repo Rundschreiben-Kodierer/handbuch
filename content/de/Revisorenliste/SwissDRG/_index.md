@@ -1298,72 +1298,6 @@ keywords: []
 
 </tbody></table>
 
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-dcap{color:#00F;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-.tg .tg-nad5{color:#00F;text-align:left;vertical-align:top}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
-<table class="tg"><thead>
-  <tr>
-    <th class="tg-zr06">Quelle:  &nbsp;Bundesamt für Statistik, Kodierungssekretariat</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td class="tg-zr06">© BFS - 2025</td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Stand der Daten: 30.06.2025</td>
-  </tr>
-  <tr>
-    <td class="tg-nad5"><a href="mailto:codeInfo@bfs.admin.ch">codeInfo@bfs.admin.ch</a></td>
-  </tr>
-  <tr>
-    <td class="tg-dcap"> </td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Office fédéral de la&nbsp;&nbsp;&nbsp;statistique, Secrétariat de codage</td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">© OFS - 2025</td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Etat des données: 30.09.2025</td>
-  </tr>
-  <tr>
-    <td class="tg-nad5"><a href="mailto:codeInfo@bfs.admin.ch">codeInfo@bfs.admin.ch</a></td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi"> </td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Fonte: Ufficio federale di&nbsp;&nbsp;&nbsp;statistica, Segreteria di codifica</td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">© UST - 2025</td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Stato dei dati: 30.06.2025</td>
-  </tr>
-  <tr>
-    <td class="tg-nad5"><a href="mailto:codeInfo@bfs.admin.ch">codeInfo@bfs.admin.ch</a></td>
-  </tr>
-</tbody></table>
-
-
-
-{{<insertImage image="Quelle.png" class="edge max-w-90">}}
-
-
-
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -1373,9 +1307,13 @@ keywords: []
 .tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
 </style>
 <table class="tg"><thead>
+  <colgroup>
+    <col style="width: 400px;">
+  </colgroup>
   <tr>
     <td class="tg-zr06">Quelle: Bundesamt für Statistik, Kodierungssekretariat<br>© BFS - 2025<br>Stand der Daten: 30.09.2025<br><a href="mailto:codeInfo@bfs.admin.ch">codeInfo@bfs.admin.ch</a><br><br>Office fédéral de la statistique, Secrétariat de codage<br>© OFS - 2025<br>Etat des données: 30.09.2025<br><a href="mailto:codeInfo@bfs.admin.ch">codeInfo@bfs.admin.ch</a><br><br>Fonte: Ufficio federale di statistica, Segreteria di codifica<br>© UST - 2025<br>Stato dei dati: 30.09.2025<br><a href="mailto:codeInfo@bfs.admin.ch">codeInfo@bfs.admin.ch</a></td>
   </tr></thead>
 </table>
+
 
 
