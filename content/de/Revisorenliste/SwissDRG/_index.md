@@ -106,7 +106,7 @@ keywords: []
     <th class="tg-ktyi">Deutschschweiz </th>
     <th class="tg-ktyi">Confirmé //bestätigt</th>
     <th class="tg-ktyi">09.10.2024</th>
-  </tr></thead>
+  </tr>
   <tr>
     <td class="tg-0lax">Alatorre Kyburz</td>
     <td class="tg-ktyi">Manuela</td>
@@ -266,7 +266,7 @@ keywords: []
   <tr>
     <td class="tg-ktyi">Di Falco</td>
     <td class="tg-ktyi">Calogero </td>
-    <td class="tg-ktyi" rowspan="2">DRGSwiss<br>Bahnhofstr. 32<br>8803 Rüschlikon</td>
+    <td class="tg-ktyi">DRGSwiss<br>Bahnhofstr. 32<br>8803 Rüschlikon</td>
     <td class="tg-v47d"><a href="mailto:difalco@drgswiss.ch">difalco@drgswiss.ch</a><br><a href="mailto:difalco@hin.ch">difalco@hin.ch</a></td>
     <td class="tg-ktyi">076 709 57 01</td>
     <td class="tg-ktyi">Deutsch<br>Français<br>Italienisch</td>
@@ -576,12 +576,12 @@ keywords: []
     <td class="tg-ktyi">19.03.2015</td>
   </tr>
   <tr>
-    <td class="tg-0lax" rowspan="2">Holzer</td>
-    <td class="tg-0lax" rowspan="2">Bettina</td>
-    <td class="tg-0lax" rowspan="2">Cheminde Villardiez 18 <br>1009 Pully privat</td>
+    <td class="tg-0lax">Holzer</td>
+    <td class="tg-0lax">Bettina</td>
+    <td class="tg-0lax">Chemin de Villardiez 18 <br>1009 Pully privat</td>
     <td class="tg-v47d"><a href="mailto:bettina.j.holzer@gmail.com">bettina.j.holzer@gmail.com</a></td>
-    <td class="tg-0lax" rowspan="2">079 27742 30<br>079 556 74 24</td>
-    <td class="tg-0lax" rowspan="2">Französisch<br>Deutsch<br></td>
+    <td class="tg-0lax">079 27742 30<br>079 556 74 24</td>
+    <td class="tg-0lax">Französisch<br>Deutsch<br></td>
     <td class="tg-ktyi">Confirmé // bestätigt</td>
     <td class="tg-ktyi">Westschweiz</td>
     <td class="tg-ktyi">Confirmé // bestätigt</td>
@@ -931,19 +931,16 @@ keywords: []
     <td class="tg-0lax">30.06.2013</td>
   </tr>
   <tr>
-    <td class="tg-0lax" rowspan="2" id="n">Narda</td>
-    <td class="tg-ktyi" rowspan="2">Leonardo</td>
-    <td class="tg-ktyi" rowspan="2">LN –Revision<br>Vorstadtstrasse 6 <br>5722 Gränichen – AG</td>
-    <td class="tg-v47d"><a href="mailto:leonardo.narda@hotmail.com">leonardo.narda@hotmail.com</a></td>
-    <td class="tg-ktyi" rowspan="2">076 384 82 47</td>
-    <td class="tg-ktyi" rowspan="2">Deutsch<br>Italienisch<br>Französisch</td>
-    <td class="tg-0lax" rowspan="2">Confirmé // bestätigt</td>
-    <td class="tg-ktyi" rowspan="2">Ganze Schweiz</td>
-    <td class="tg-ktyi" rowspan="2">Confirmé // bestätigt</td>
-    <td class="tg-ktyi" rowspan="2">27.06.2012</td>
-  </tr>
-  <tr>
-    <td class="tg-v47d"><a href="mailto:mail@ln-revision.ch">mail@ln-revision.ch</a></td>
+    <td class="tg-0lax"id="n">Narda</td>
+    <td class="tg-ktyi">Leonardo</td>
+    <td class="tg-ktyi">LN –Revision<br>Vorstadtstrasse 6 <br>5722 Gränichen – AG</td>
+    <td class="tg-v47d"><a href="mailto:leonardo.narda@hotmail.com">leonardo.narda@hotmail.com</a><br><a href="mailto:mail@ln-revision.ch">mail@ln-revision.ch</a></td>
+    <td class="tg-ktyi">076 384 82 47</td>
+    <td class="tg-ktyi">Deutsch<br>Italienisch<br>Französisch</td>
+    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Ganze Schweiz</td>
+    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">27.06.2012</td>
   </tr>
   <tr>
     <td class="tg-0lax">Niederer-Addor</td>
@@ -1210,16 +1207,16 @@ keywords: []
     <td class="tg-0lax">30.06.2014</td>
   </tr>
   <tr>
-    <td class="tg-0lax" rowspan="2">von Varchmin</td>
-    <td class="tg-0lax" rowspan="2">Nicole Katrin</td>
-    <td class="tg-0lax" rowspan="2">Segantinistrasse51<br>8049 Zürich</td>
+    <td class="tg-0lax">von Varchmin</td>
+    <td class="tg-0lax">Nicole Katrin</td>
+    <td class="tg-0lax">Segantinistrasse 51<br>8049 Zürich</td>
     <td class="tg-v47d"><a href="mailto:katrin@vonvarchmin.de">katrin@vonvarchmin.de</a><br><a href="mailto:katrin.vonvarchmin@gd.zh.ch">katrin.vonvarchmin@gd.zh.ch</a></td>
-    <td class="tg-0lax" rowspan="2">076 79926 84</td>
-    <td class="tg-0lax" rowspan="2">Deutsch</td>
-    <td class="tg-0lax" rowspan="2">Confirmé // bestätigt</td>
-    <td class="tg-0lax" rowspan="2"> <br></td>
-    <td class="tg-0lax" rowspan="2">Confirmé // bestätigt</td>
-    <td class="tg-0lax" rowspan="2">15.12.2015</td>
+    <td class="tg-0lax">076 79926 84</td>
+    <td class="tg-0lax">Deutsch</td>
+    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-0lax"> <br></td>
+    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-0lax">15.12.2015</td>
   </tr>
   <tr>
     <td class="tg-0lax" id="w">Weise</td>
