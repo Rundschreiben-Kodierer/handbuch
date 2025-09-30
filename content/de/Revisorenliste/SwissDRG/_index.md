@@ -196,7 +196,7 @@ keywords: []
     <td class="tg-ktyi">Léonie</td>
     <td class="tg-ktyi">Haldenstrasse 35<br>5415 Nussbaumen</td>
     <td class="tg-v47d"><a href="mailto:leonie.caduff@hservices.ch">leonie.caduff@hservices.ch</a></td>
-    <td class="tg-ktyi">07 9327 33 93</td>
+    <td class="tg-ktyi">079 327 33 93</td>
     <td class="tg-ktyi">Deutsch</td>
     <td class="tg-0lax">Confirmé // bestätigt</td>
     <td class="tg-ktyi"> </td>
@@ -264,7 +264,7 @@ keywords: []
     <td class="tg-ktyi">25.02.2012</td>
   </tr>
   <tr>
-    <td class="tg-0lax"">Di Falco</td>
+    <td class="tg-0lax">Di Falco</td>
     <td class="tg-ktyi">Calogero </td>
     <td class="tg-ktyi">DRGSwiss<br>Bahnhofstr. 32<br>8803 Rüschlikon</td>
     <td class="tg-v47d"><a href="mailto:difalco@drgswiss.ch">difalco@drgswiss.ch</a><br><a href="mailto:difalco@hin.ch">difalco@hin.ch</a></td>
@@ -350,7 +350,7 @@ keywords: []
   <tr>
     <td class="tg-0lax">Flenghi</td>
     <td class="tg-ktyi">Olivier</td>
-    <td class="tg-0lax">18 clos du chardon bleu <br>FR-74700 Sallanches</td>
+    <td class="tg-0lax">18, clos du chardon bleu <br>FR-74700 Sallanches</td>
     <td class="tg-yk8o"><a href="mailto:olivier.flenghi@nicecomputing.ch">olivier.flenghi@nicecomputing.ch</a></td>
     <td class="tg-0lax">0033 6 32 03 0593</td>
     <td class="tg-ktyi">Français</td>
@@ -579,20 +579,13 @@ keywords: []
     <td class="tg-0lax">Holzer</td>
     <td class="tg-0lax">Bettina</td>
     <td class="tg-0lax">Chemin de Villardiez 18 <br>1009 Pully privat</td>
-    <td class="tg-v47d"><a href="mailto:bettina.j.holzer@gmail.com">bettina.j.holzer@gmail.com</a></td>
-    <td class="tg-0lax">079 27742 30<br>079 556 74 24</td>
+    <td class="tg-v47d"><a href="mailto:bettina.j.holzer@gmail.com">bettina.j.holzer@gmail.com</a><br> <a href="mailto:bettina.holzer@chuv.ch">bettina.holzer@chuv.ch</a></td>
+    <td class="tg-0lax">079 277 42 30<br>079 556 74 24</td>
     <td class="tg-0lax">Französisch<br>Deutsch<br></td>
     <td class="tg-ktyi">Confirmé // bestätigt</td>
     <td class="tg-ktyi">Westschweiz</td>
     <td class="tg-ktyi">Confirmé // bestätigt</td>
     <td class="tg-ktyi">24.02.2022</td>
-  </tr>
-  <tr>
-    <td class="tg-v47d"><a href="mailto:bettina.holzer@chuv.ch">bettina.holzer@chuv.ch</a></td>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Deutschschweiz</td>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi"> </td>
   </tr>
   <tr>
     <td class="tg-0lax">Huber</td>
@@ -765,7 +758,7 @@ keywords: []
   <tr>
     <td class="tg-0lax" id="l">LambertVogeleisen </td>
     <td class="tg-ktyi">Agnès</td>
-    <td class="tg-ktyi">135 chemin de la procession<br>FR-74200 ARMOY</td>
+    <td class="tg-ktyi">135, chemin de la procession<br>FR-74200 ARMOY</td>
     <td class="tg-v47d"><a href="mailto:agnes.vogeleisen@wanadoo.fr">agnes.vogeleisen@wanadoo.fr</a></td>
     <td class="tg-ktyi">0033 6 29 69 85 24</td>
     <td class="tg-ktyi">Français</td>
@@ -837,7 +830,7 @@ keywords: []
   <tr>
     <td class="tg-0lax">Masiero</td>
     <td class="tg-ktyi">Miriam</td>
-    <td class="tg-ktyi">6 Impasse sur Chêne <br>FR-74100 Annemasse</td>
+    <td class="tg-ktyi">6, Impasse sur Chêne <br>FR-74100 Annemasse</td>
     <td class="tg-yk8o"><a href="mailto:masi_mimi@hotmail.com">masi_mimi@hotmail.com</a></td>
     <td class="tg-ktyi">078 737 27 18</td>
     <td class="tg-ktyi">Français<br>Italien</td>
