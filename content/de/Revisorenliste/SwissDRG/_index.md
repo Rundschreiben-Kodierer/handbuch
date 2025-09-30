@@ -100,7 +100,7 @@ keywords: []
     <td class="tg-ktyi">Brigitta </td>
     <td class="tg-ktyi">St. Gallerstrasse 20<br>8853 Lachen SZ </td>
     <td class="tg-v47d"><a href="mailto:aggeler@medizincontrolling.ch">aggeler@medizincontrolling.ch</a></td>
-    <td class="tg-ktyi">079 793 36 40</dh
+    <td class="tg-ktyi">079 793 36 40</dh>
     <td class="tg-ktyi">Deutsch</td>
     <td class="tg-0lax">Confirmé //bestätigt</td>
     <td class="tg-ktyi">Deutschschweiz </td>
