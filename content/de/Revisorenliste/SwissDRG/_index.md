@@ -1313,7 +1313,7 @@ keywords: []
 </style>
 <table class="tg"><thead>
   <tr>
-    <th class="tg-zr06">Quelle:&nbsp;&nbsp;&nbsp;Bundesamt für Statistik, Kodierungssekretariat</th>
+    <th class="tg-zr06">Quelle:  &nbsp;Bundesamt für Statistik, Kodierungssekretariat</th>
   </tr></thead>
 <tbody>
   <tr>
@@ -1361,5 +1361,21 @@ keywords: []
 
 {{<insertImage image="Quelle.png" class="edge max-w-90">}}
 
+
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+</style>
+<table class="tg"><thead>
+  <tr>
+    <td class="tg-zr06">Quelle: Bundesamt für Statistik, Kodierungssekretariat<br>© BFS - 2025<br>Stand der Daten: 30.09.2025<br><a href="mailto:codeInfo@bfs.admin.ch">codeInfo@bfs.admin.ch</a><br><br>Office fédéral de la statistique, Secrétariat de codage<br>© OFS - 2025<br>Etat des données: 30.09.2025<br><a href="mailto:codeInfo@bfs.admin.ch">codeInfo@bfs.admin.ch</a><br><br>Fonte: Ufficio federale di statistica, Segreteria di codifica<br>© UST - 2025<br>Stato dei dati: 30.09.2025<br><a href="mailto:codeInfo@bfs.admin.ch">codeInfo@bfs.admin.ch</a></td>
+  </tr></thead>
+</table>
 
 
