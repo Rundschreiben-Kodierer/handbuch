@@ -97,12 +97,12 @@ keywords: []
 <tbody>
   <tr>
     <th class="tg-0lax" id="a">Aggeler</th>
-    <th class="tg-0lax">Brigitta </th>
-    <th class="tg-0lax">St. Gallerstrasse 20<br>8853 Lachen SZ </th>
+    <th class="tg-ktyi">Brigitta </th>
+    <th class="tg-ktyi">St. Gallerstrasse 20<br>8853 Lachen SZ </th>
     <th class="tg-yk8o"><a href="mailto:aggeler@medizincontrolling.ch">aggeler@medizincontrolling.ch</a></th>
     <th class="tg-ktyi">079 793 36 40</th>
     <th class="tg-ktyi">Deutsch</th>
-    <th class="tg-ktyi">Confirmé //bestätigt</th>
+    <th class="tg-0lax">Confirmé //bestätigt</th>
     <th class="tg-ktyi">Deutschschweiz </th>
     <th class="tg-ktyi">Confirmé //bestätigt</th>
     <th class="tg-ktyi">09.10.2024</th>
@@ -264,7 +264,7 @@ keywords: []
     <td class="tg-ktyi">25.02.2012</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Di Falco</td>
+    <td class="tg-0lax"">Di Falco</td>
     <td class="tg-ktyi">Calogero </td>
     <td class="tg-ktyi">DRGSwiss<br>Bahnhofstr. 32<br>8803 Rüschlikon</td>
     <td class="tg-v47d"><a href="mailto:difalco@drgswiss.ch">difalco@drgswiss.ch</a><br><a href="mailto:difalco@hin.ch">difalco@hin.ch</a></td>
