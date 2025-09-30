@@ -579,7 +579,7 @@ keywords: []
     <td class="tg-0lax">Holzer</td>
     <td class="tg-0lax">Bettina</td>
     <td class="tg-0lax">Chemin de Villardiez 18 <br>1009 Pully privat</td>
-    <td class="tg-v47d"><a href="mailto:bettina.j.holzer@gmail.com">bettina.j.holzer@gmail.com</a><br> <a href="mailto:bettina.holzer@chuv.ch">bettina.holzer@chuv.ch</a></td>
+    <td class="tg-v47d"><a href="mailto:bettina.j.holzer@gmail.com">bettina.j.holzer@gmail.com</a><br><a href="mailto:bettina.holzer@chuv.ch">bettina.holzer@chuv.ch</a></td>
     <td class="tg-0lax">079 277 42 30<br>079 556 74 24</td>
     <td class="tg-0lax">Französisch<br>Deutsch<br></td>
     <td class="tg-ktyi">Confirmé // bestätigt</td>
