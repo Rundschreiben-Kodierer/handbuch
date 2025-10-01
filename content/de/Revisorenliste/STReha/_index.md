@@ -1,12 +1,12 @@
 ---
 title: "STReha"
 slug: STReha
-description: "STReha"
+description: ""
 weight: 100
 type: docs
 keywords: []
 ---
-<p style="text-align: right;">{{<printButton>}}/p>
+<p style="text-align: right;">{{<printButton>}}
 
 
 
