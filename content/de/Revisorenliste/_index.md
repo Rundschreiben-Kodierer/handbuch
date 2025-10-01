@@ -8,7 +8,7 @@ keywords: []
 ---
 
 <p style="text-align: right;">{{<printButton>}}
-<br>  
+<p style="text-align: left;">  
 <br>
   
 {{<markdown>}}
