@@ -6,7 +6,8 @@ weight: 100
 type: docs
 keywords: []
 ---
-{{<printButton>}}
+<p style="text-align: right;">{{<printButton>}}/p>
+
 
 
 <table border="1" class="dataframe">
