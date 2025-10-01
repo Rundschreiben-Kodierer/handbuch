@@ -1,7 +1,7 @@
 ---
 title: "TARPSY"
 slug: TARPSY
-description: "TARPSY"
+description: ""
 weight: 100
 type: docs
 keywords: []

@@ -1,7 +1,7 @@
 ---
 title: "Revisorenliste"
 slug: Revisorenliste
-description: "Revisorenliste"
+description: ""
 weight: 100
 type: docs
 keywords: []

@@ -1,7 +1,7 @@
 ---
 title: "SwissDRG"
 slug: SwissDRG
-description: "SwissDRG"
+description: ""
 weight: 100
 type: docs
 keywords: []
