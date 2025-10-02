@@ -1,13 +1,14 @@
 ---
-title: "01.01.2026 – 31.12.2026"
-slug: 2026
-description: "01.01.2026 – 31.12.2026"
+title: "01.01.2026 – 31.06.2026"
+slug: 2026a
+description: "01.01.2026 – 30.06.2026"
 weight: 1
 type: docs
 keywords: []
 ---
 
-{{<printButton>}}
+<p style="text-align: right;">{{<printButton>}}
+
 
 {{<markdown>}} 
   

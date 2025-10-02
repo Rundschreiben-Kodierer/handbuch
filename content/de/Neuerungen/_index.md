@@ -8,7 +8,8 @@ keywords: []
 ---
 
 
-{{<printButton>}}
+<p style="text-align: right;">{{<printButton>}}
+
 
 {{<markdown>}}
 **Information zur Umstellung der Publikation des Rundschreibens für Kodiererinnen und Kodierer**
