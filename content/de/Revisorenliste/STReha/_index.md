@@ -60,7 +60,7 @@ keywords: []
       <td class="tg-dgl5">Telefon</td>
       <td class="tg-dgl5">Revisionssprache(n)</td>
       <td class="tg-dgl5">Eidgenössische Fachausweis für Medizinische Kodiererinnen / Medizinische Kodierer //<br>Gleichwertigkeitsbescheinigung</td>
-      <td class="tg-dgl5">Rehabilitationsspezifische Weiterbildung im Bereich Kodierung (Anwendung der Kodie-rungsregeln für die Messinstrumente in der Rehabilitation: ADL, CIRS, 6-MinutenGehtest (CHOP-Kodes AA.-) / ANQ-Anforderung an die Messinstrumente in der Rehabilitation) </td>
+      <td class="tg-dgl5">Rehabilitationsspezifische Weiterbildung im Bereich Kodierung (Anwendung der Kodie-rungsregeln für die Messinstrumente in der Rehabilitation: ADL, CIRS, 6-MinutenGehtest (CHOP-Kodes AA.-) // ANQ-Anforderung an die Messinstrumente in der Rehabilitation) </td>
       <td class="tg-dgl5">Mindestens 1-jährige (100% Anstellungsgrad) Berufserfahrung in der Rehabilitation</td>
       <td class="tg-dgl5">Gewünschter Arbeitskanton (freiwillig)</td>
       <td class="tg-dgl5">Regelmässige Teilnahme an Weiterbildungen</td>
@@ -100,19 +100,19 @@ keywords: []
 
 <tbody>
   <tr>
-    <th class="tg-ktyi">Allocco</th>
-    <th class="tg-ktyi">Cinzia</th>
-    <th class="tg-ktyi">Ch. deMaillefer 37<br>CH-1052 Le Mont-sur-Lausanne</th>
-    <th class="tg-z182"><a href="mailto:cinzia.allocco@nicecomputing.ch">cinzia.allocco@nicecomputing.ch</a></th>
-    <th class="tg-ktyi">079 723 04 17</th>
-    <th class="tg-ktyi">Français<br>Italien</th>
-    <th class="tg-ktyi">Confirmé //bestätigt</th>
-    <th class="tg-0lax">Oui</th>
-    <th class="tg-0lax"> </th>
-    <th class="tg-ktyi">Suisse romandeTessin</th>
-    <th class="tg-ktyi">Confirmé // bestätigt</th>
-    <th class="tg-ktyi">15.09.2016</th>
-  </tr></thead>
+    <td class="tg-ktyi" id="a">Allocco</td>
+    <td class="tg-ktyi">Cinzia</td>
+    <td class="tg-ktyi">Ch. deMaillefer 37<br>CH-1052 Le Mont-sur-Lausanne</td>
+    <td class="tg-z182"><a href="mailto:cinzia.allocco@nicecomputing.ch">cinzia.allocco@nicecomputing.ch</a></td>
+    <td class="tg-ktyi">079 723 04 17</td>
+    <td class="tg-ktyi">Français<br>Italien</td>
+    <td class="tg-ktyi">Confirmé //bestätigt</td>
+    <td class="tg-0lax">Oui</td>
+    <td class="tg-0lax"> </td>
+    <td class="tg-ktyi">Suisse romandeTessin</td>
+    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">15.09.2016</td>
+  </tr>
 <tbody>
   <tr>
     <td class="tg-ktyi">Andermatt</td>
@@ -129,10 +129,10 @@ keywords: []
     <td class="tg-ktyi">29.11.2023</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Di Falco</td>
+    <td class="tg-ktyi" id="d">Di Falco</td>
     <td class="tg-ktyi">Calogero</td>
     <td class="tg-ktyi" rowspan="2">DRG Swiss<br>Bahnhofstr. 32<br>8803 Rüschlikon<br></td>
-    <td class="tg-z182"><a href="mailto:difalco@drgswiss.ch">difalco@drgswiss.ch</a></td>
+    <td class="tg-z182"><a href="mailto:difalco@drgswiss.ch">difalco@drgswiss.ch</a><br> <a href="mailto:difalco@hin.ch">difalco@hin.ch</a></td>
     <td class="tg-ktyi">076 709 57 01</td>
     <td class="tg-ktyi">Deutsch<br>Français<br>Italienisch</td>
     <td class="tg-ktyi">Confirmé // bestätigt</td>
@@ -143,20 +143,7 @@ keywords: []
     <td class="tg-ktyi">22.04.2022</td>
   </tr>
   <tr>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-z182"><a href="mailto:difalco@hin.ch">difalco@hin.ch</a></td>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi"> </td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Flenghi</td>
+    <td class="tg-0lax" id="f">Flenghi</td>
     <td class="tg-ktyi">Olivier</td>
     <td class="tg-ktyi">18, clos duchardon bleu <br>FR-74700 Sallanches</td>
     <td class="tg-z182"><a href="mailto:olivier.flenghi@nicecomputing.ch">olivier.flenghi@nicecomputing.ch</a></td>
@@ -198,7 +185,7 @@ keywords: []
     <td class="tg-ktyi">04.08.2021</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Gehrig-Rentsch</td>
+    <td class="tg-0lax" id="g">Gehrig-Rentsch</td>
     <td class="tg-ktyi">Regula</td>
     <td class="tg-ktyi">DRGplus<br>Kranichweg 30<br>3074 Muri bei Bern</td>
     <td class="tg-z182"><a href="mailto:regula.gehrig@drgplus.ch">regula.gehrig@drgplus.ch</a></td>
@@ -240,7 +227,7 @@ keywords: []
     <td class="tg-ktyi">24.10.2023</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Hager</td>
+    <td class="tg-0lax" id="h">Hager</td>
     <td class="tg-ktyi">Daniela</td>
     <td class="tg-ktyi">Haselgasse 78<br>3902 Glis</td>
     <td class="tg-z182"><a href="mailto:daniela.hager@nicecomputing.ch">nicecomputing@gmail.com</a></td>
@@ -268,7 +255,7 @@ keywords: []
     <td class="tg-ktyi">24.02.2022</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Liuzzi</td>
+    <td class="tg-0lax" id="l">Liuzzi</td>
     <td class="tg-ktyi">Sarah</td>
     <td class="tg-ktyi">DRGplus<br>Kranichweg 30<br>3074 Muri bei Bern</td>
     <td class="tg-z182"><a href="mailto:sarah.liuzzi@drgplus.ch">sarah.liuzzi@drgplus.ch</a></td>
@@ -282,7 +269,7 @@ keywords: []
     <td class="tg-ktyi">22.11.2023</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Mauz</td>
+    <td class="tg-0lax" id="m">Mauz</td>
     <td class="tg-0lax">Beate</td>
     <td class="tg-0lax">Fröschbach 36<br>8117 Fällanden</td>
     <td class="tg-z182"><a href="mailto:mauz@ggaweb.ch">mauz@ggaweb.ch</a></td>
@@ -296,7 +283,7 @@ keywords: []
     <td class="tg-0lax">23.01.2023</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Narda</td>
+    <td class="tg-0lax" id="n">Narda</td>
     <td class="tg-0lax">Leonardo</td>
     <td class="tg-0lax" rowspan="2">LN – Revision <br>Vorstadtstrasse 6<br>5722 Gränichen – AG</td>
     <td class="tg-z182"><a href="mailto:leonardo.narda@hotmail.com">leonardo.narda@hotmail.com</a><br><a href="mailto:mail@ln-revision.ch">mail@ln-revision.ch </a></td>
@@ -324,7 +311,7 @@ keywords: []
     <td class="tg-ktyi">05.11.2021</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Pangrazzi</td>
+    <td class="tg-0lax" id="p">Pangrazzi</td>
     <td class="tg-ktyi">Cristina</td>
     <td class="tg-0lax">Zelgmatt 65<br>8132 Egg </td>
     <td class="tg-z182"><a href="mailto:Cristina.Pangrazzi@icloud.com">Cristina.Pangrazzi@icloud.com</a></td>
@@ -366,7 +353,7 @@ keywords: []
     <td class="tg-ktyi">06.12.2022</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Sadiku</td>
+    <td class="tg-0lax" id="s">Sadiku</td>
     <td class="tg-ktyi">Leonora</td>
     <td class="tg-0lax">Alpenblickstr. 20 <br>CH-8853 Lachen SZ</td>
     <td class="tg-z182"><a href="mailto:sadiku@medizincontrolling.ch">sadiku@medizincontrolling.ch</a></td>
@@ -408,7 +395,7 @@ keywords: []
     <td class="tg-0lax">18.03.2022</td>
   </tr>
   <tr>
-    <td class="tg-0lax">von Varchmin</td>
+    <td class="tg-0lax" id="v">von Varchmin</td>
     <td class="tg-ktyi">Nicole Katrin</td>
     <td class="tg-ktyi">Segantinistrasse 51<br>8049 Zürich</td>
     <td class="tg-z182"><a href="mailto:katrin@vonvarchmin.de">katrin@vonvarchmin.de</a></td>
@@ -422,7 +409,7 @@ keywords: []
     <td class="tg-ktyi">02.12.2021</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Westerhoff</td>
+    <td class="tg-0lax" id="w">Westerhoff</td>
     <td class="tg-0lax">Ulrike</td>
     <td class="tg-0lax">Stampfenbachstrasse 30<br>8090 Zürich </td>
     <td class="tg-dcap"><a href="mailto:u.westerhoff@bluewin.ch">u.westerhoff@bluewin.ch</a></td>
@@ -436,7 +423,7 @@ keywords: []
     <td class="tg-0lax">11.04.2022</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Zolkos </td>
+    <td class="tg-0lax" id="z">Zolkos </td>
     <td class="tg-0lax">Axel </td>
     <td class="tg-0lax">Bahnhofstrasse 31<br>8864 Reichenburg</td>
     <td class="tg-dcap"><a href="mailto:axelzolkos@gmx.net">axelzolkos@gmx.net</a></td>

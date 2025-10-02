@@ -98,58 +98,27 @@ keywords: []
 <a href="#z"> z</a>
 </span>
 
-
-
-<span>
-<a href="#a"> a</a>
-<a href="#b"> b</a>
-<a href="#c"> c</a>
-<a href="#d"> d</a>
-<a href="#e"> e</a>
-<a href="#f"> f</a>
-<a href="#g"> g</a>
-<a href="#h"> h</a>
-<a href="#i"> i</a>
-<a href="#j"> j</a>
-<a href="#k"> k</a>
-<a href="#l"> l</a>
-<a href="#m"> m</a>
-<a href="#n"> n</a>
-<a href="#o"> o</a>
-<a href="#p"> p</a>
-<a href="#q"> q</a>
-<a href="#r"> r</a>
-<a href="#s"> s</a>
-<a href="#t"> t</a>
-<a href="#u"> u</a>
-<a href="#v"> v</a>
-<a href="#w"> w</a>
-<a href="#x"> x</a>
-<a href="#y"> y</a>
-<a href="#z"> z</a>
-</span>
-
 <tbody>
   <tr>
-    <th class="tg-ktyi">Andermatt</th>
-    <th class="tg-ktyi">Susanne</th>
-    <th class="tg-ktyi">Gassenacker 4<br>8197 Ratz</th>
-    <th class="tg-z182"><a href="mailto:suematt@bluewin.ch">suematt@bluewin.ch</a></th>
-    <th class="tg-ktyi">077 430 02 72</th>
-    <th class="tg-ktyi">Deutsch</th>
-    <th class="tg-ktyi">Confirmé // bestätigt</th>
-    <th class="tg-ktyi">Oui</th>
-    <th class="tg-ktyi"> </th>
-    <th class="tg-ktyi">Deutschschweiz </th>
-    <th class="tg-ktyi">Confirmé // bestätigt</th>
-    <th class="tg-ktyi">22.12.2023</th>
-  </tr></thead>
+    <td class="tg-ktyi" id="a">Andermatt</td>
+    <td class="tg-ktyi">Susanne</td>
+    <td class="tg-ktyi">Gassenacker 4<br>8197 Ratz</td>
+    <td class="tg-z182"><a href="mailto:suematt@bluewin.ch">suematt@bluewin.ch</a></td>
+    <td class="tg-ktyi">077 430 02 72</td>
+    <td class="tg-ktyi">Deutsch</td>
+    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Oui</td>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi">Deutschschweiz </td>
+    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">22.12.2023</td>
+  </tr>
 <tbody>
   <tr>
-    <td class="tg-ktyi">Di Falco</td>
+    <td class="tg-ktyi" id="d">Di Falco</td>
     <td class="tg-ktyi">Calogero</td>
     <td class="tg-ktyi">DRG Swiss<br>Bahnhofstr. 32<br>8803 Rüschlikon<br></td>
-    <td class="tg-z182"><a href="mailto:difalco@drgswiss.ch">difalco@drgswiss.ch</a></td>
+    <td class="tg-z182"><a href="mailto:difalco@drgswiss.ch">difalco@drgswiss.ch</a><br><a href="mailto:difalco@hin.ch">difalco@hin.ch</a></td>
     <td class="tg-ktyi">076 709 57 01</td>
     <td class="tg-ktyi">Deutsch<br>Français<br>Italienisch</td>
     <td class="tg-ktyi">Confirmé // bestätigt</td>
@@ -160,20 +129,7 @@ keywords: []
     <td class="tg-ktyi">25.02.2019</td>
   </tr>
   <tr>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-z182"><a href="mailto:difalco@hin.ch">difalco@hin.ch</a></td>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi"> </td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Flenghi</td>
+    <td class="tg-0lax" id="f"Flenghi</td>
     <td class="tg-ktyi">Olivier</td>
     <td class="tg-ktyi">18, clos duchardon bleu <br>FR-74700 Sallanches</td>
     <td class="tg-z182"><a href="mailto:olivier.flenghi@nicecomputing.ch">olivier.flenghi@nicecomputing.ch</a></td>
@@ -201,7 +157,7 @@ keywords: []
     <td class="tg-ktyi">07.01.2019</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Gehrig-Rentsch </td>
+    <td class="tg-0lax" id="g">Gehrig-Rentsch </td>
     <td class="tg-ktyi">Regula</td>
     <td class="tg-ktyi">DRGplus<br>Kranichweg 30<br>3074 Muri bei Bern</td>
     <td class="tg-z182"><a href="mailto:regula.gehrig@drgplus.ch">regula.gehrig@drgplus.ch</a></td>
@@ -285,7 +241,7 @@ keywords: []
     <td class="tg-ktyi">24.10.2023</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Hager</td>
+    <td class="tg-0lax" id="h">Hager</td>
     <td class="tg-ktyi">Daniela</td>
     <td class="tg-ktyi">Haselgasse 78<br>3902 Glis</td>
     <td class="tg-z182"><a href="mailto:daniela.hager@nicecomputing.ch">nicecomputing@gmail.com</a></td>
@@ -313,7 +269,7 @@ keywords: []
     <td class="tg-ktyi">07.01.2019</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Idalan</td>
+    <td class="tg-0lax" id="i">Idalan</td>
     <td class="tg-ktyi">Irène</td>
     <td class="tg-ktyi">Rue de la Fontaine 4<br>1094 Paudex</td>
     <td class="tg-z182"><a href="mailto:irene.idalan@nicecomputing.ch">irene.idalan@nicecomputing.ch</a></td>
@@ -327,7 +283,7 @@ keywords: []
     <td class="tg-ktyi">07.01.2019</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Kalinovic</td>
+    <td class="tg-0lax" id="k">Kalinovic</td>
     <td class="tg-ktyi">Rodzester</td>
     <td class="tg-ktyi">DRGOffice<br>Strandbodenstrasse 22<br>8877 Murg</td>
     <td class="tg-z182"><a href="mailto:info@drg-office.ch">info@drg-office.ch</a></td>
@@ -341,7 +297,7 @@ keywords: []
     <td class="tg-ktyi">21.08.2015</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Liuzzi</td>
+    <td class="tg-0lax" id="l">Liuzzi</td>
     <td class="tg-ktyi">Sarah</td>
     <td class="tg-ktyi">DRGplus<br>Kranichweg 30<br>3074 Muri bei Bern</td>
     <td class="tg-z182"><a href="mailto:sarah.liuzzi@drgplus.ch">sarah.liuzzi@drgplus.ch</a></td>
@@ -355,7 +311,7 @@ keywords: []
     <td class="tg-ktyi">22.11.2023</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Mauz</td>
+    <td class="tg-0lax" id="m">Mauz</td>
     <td class="tg-ktyi">Beate</td>
     <td class="tg-ktyi">Fröschbach 36<br>8117 Fällanden</td>
     <td class="tg-z182"><a href="mailto:mauz@ggaweb.ch">mauz@ggaweb.ch</a></td>
@@ -383,7 +339,7 @@ keywords: []
     <td class="tg-ktyi">25.02.2019</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Narda</td>
+    <td class="tg-0lax" id="n">Narda</td>
     <td class="tg-ktyi">Leonardo</td>
     <td class="tg-ktyi">LN – Revision <br>Vorstadtstrasse 6<br>5722 Gränichen – AG </td>
     <td class="tg-z182"><a href="mailto:leonardo.narda@hotmail.com">leonardo.narda@hotmail.com</a><br><a href="mailto:mail@ln-revision.ch">mail@ln-revision.ch </a></td>
@@ -411,7 +367,7 @@ keywords: []
     <td class="tg-0lax">05.11.2021</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Pangrazzi</td>
+    <td class="tg-0lax" id="p">Pangrazzi</td>
     <td class="tg-ktyi">Cristina</td>
     <td class="tg-0lax">Zelgmatt 65<br>8132 Egg </td>
     <td class="tg-z182"><a href="mailto:Cristina.Pangrazzi@icloud.com">Cristina.Pangrazzi@icloud.com</a></td>
@@ -453,7 +409,7 @@ keywords: []
     <td class="tg-ktyi">07.01.2019</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Rachinger</td>
+    <td class="tg-0lax" id="r">Rachinger</td>
     <td class="tg-ktyi">Katrin</td>
     <td class="tg-ktyi">RACHINGER kodierexpert <br>Weinbergstrasse 29 <br>8280 Kreuzlingen</td>
     <td class="tg-z182"><a href="mailto:rachinger@kodier.expert">rachinger@kodier.expert</a></td>
@@ -481,7 +437,7 @@ keywords: []
     <td class="tg-ktyi">03.07.2019</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Sadiku</td>
+    <td class="tg-0lax" id="s">Sadiku</td>
     <td class="tg-ktyi">Leonora</td>
     <td class="tg-0lax">Alpenblickstr. 20 <br>CH-8853 Lachen SZ</td>
     <td class="tg-z182"><a href="mailto:sadiku@medizincontrolling.ch">sadiku@medizincontrolling.ch</a></td>
@@ -537,7 +493,7 @@ keywords: []
     <td class="tg-ktyi">19.02.2020</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Taglang</td>
+    <td class="tg-0lax" id="t">Taglang</td>
     <td class="tg-ktyi">Ruth</td>
     <td class="tg-ktyi">Mühleweg 8<br>4228 Erschwil</td>
     <td class="tg-z182"><a href="mailto:ruth.taglang@gmx.ch">ruth.taglang@gmx.ch</a></td>
@@ -551,7 +507,7 @@ keywords: []
     <td class="tg-0lax">27.09.2019</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Veldenzer</td>
+    <td class="tg-0lax" id="v">Veldenzer</td>
     <td class="tg-0lax">Thorsten</td>
     <td class="tg-0lax">Traubenweg 10<br>8408 Winterthur</td>
     <td class="tg-z182"><a href="mailto:veldenzer@yahoo.de">veldenzer@yahoo.de</a></td>
@@ -579,7 +535,7 @@ keywords: []
     <td class="tg-ktyi">08.05.2019</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Weise</td>
+    <td class="tg-0lax" id="w">Weise</td>
     <td class="tg-0lax">Karamfila</td>
     <td class="tg-0lax">Kesselweg 30<br>4410 Liestal</td>
     <td class="tg-z182"><a href="mailto:karamfila.weise@spitaluster.ch">karamfila.weise@spitaluster.ch</a></td>
@@ -607,7 +563,7 @@ keywords: []
     <td class="tg-0lax">10.05.2021</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Zbinden</td>
+    <td class="tg-0lax" id="z">Zbinden</td>
     <td class="tg-ktyi">Yvonne</td>
     <td class="tg-ktyi">Spitalweg 9<br>3800 Unterseen</td>
     <td class="tg-z182"><a href="mailto:yvonne.zbinden@nicecomputing.ch">yvonne.zbinden@nicecomputing.ch</a></td>
