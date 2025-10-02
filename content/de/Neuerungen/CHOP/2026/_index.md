@@ -1,6 +1,6 @@
 ---
 title: "2026"
-slug: FAQ
+slug: 2026b
 description: ""
 weight: 1
 type: docs
