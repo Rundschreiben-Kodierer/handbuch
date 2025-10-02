@@ -8,8 +8,6 @@ keywords: []
 ---
 <p style="text-align: right;">{{<printButton>}}
 
-
-
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: left;">
@@ -64,7 +62,6 @@ keywords: []
     </tr
   </thead>
   <tbody>
-
 
 <span>
 <a href="#a"> a</a>
@@ -1315,6 +1312,4 @@ keywords: []
     <td class="tg-zr06">Quelle: Bundesamt für Statistik, Kodierungssekretariat<br>© BFS - 2025<br>Stand der Daten: 30.09.2025<br><a href="mailto:codeInfo@bfs.admin.ch">codeInfo@bfs.admin.ch</a><br><br>Office fédéral de la statistique, Secrétariat de codage<br>© OFS - 2025<br>Etat des données: 30.09.2025<br><a href="mailto:codeInfo@bfs.admin.ch">codeInfo@bfs.admin.ch</a><br><br>Fonte: Ufficio federale di statistica, Segreteria di codifica<br>© UST - 2025<br>Stato dei dati: 30.09.2025<br><a href="mailto:codeInfo@bfs.admin.ch">codeInfo@bfs.admin.ch</a></td>
   </tr></thead>
 </table>
-
-
 
