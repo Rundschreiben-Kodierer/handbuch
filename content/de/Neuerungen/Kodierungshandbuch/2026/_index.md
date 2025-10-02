@@ -1,7 +1,7 @@
 ---
 title: "01.07.2026 – 31.12.2026"
 slug: 2026c
-description: "01.07.2026 – 31.12.2026"
+description: ""
 weight: 1
 type: docs
 keywords: []
