@@ -131,7 +131,7 @@ keywords: []
   <tr>
     <td class="tg-ktyi" id="d">Di Falco</td>
     <td class="tg-ktyi">Calogero</td>
-    <td class="tg-ktyi" rowspan="2">DRG Swiss<br>Bahnhofstr. 32<br>8803 Rüschlikon<br></td>
+    <td class="tg-ktyi">DRG Swiss<br>Bahnhofstr. 32<br>8803 Rüschlikon<br></td>
     <td class="tg-z182"><a href="mailto:difalco@drgswiss.ch">difalco@drgswiss.ch</a><br> <a href="mailto:difalco@hin.ch">difalco@hin.ch</a></td>
     <td class="tg-ktyi">076 709 57 01</td>
     <td class="tg-ktyi">Deutsch<br>Français<br>Italienisch</td>
@@ -243,7 +243,7 @@ keywords: []
   <tr>
     <td class="tg-ktyi">Holzer</td>
     <td class="tg-ktyi">Bettina</td>
-    <td class="tg-ktyi" rowspan="2">Chemin de Villardiez 18<br>1009 Pully privat</td>
+    <td class="tg-ktyi">Chemin de Villardiez 18<br>1009 Pully privat</td>
     <td class="tg-z182"><a href="mailto:bettina.j.holzer@gmail.com">bettina.j.holzer@gmail.com</a><br><a href="mailto:bettina.holzer@chuv.ch">bettina.holzer@chuv.ch</a></td>
     <td class="tg-ktyi">079 277 42 30<br>079 556 74 24</td>
     <td class="tg-ktyi">Französisch<br>Deutsch<br></td>
@@ -285,10 +285,10 @@ keywords: []
   <tr>
     <td class="tg-0lax" id="n">Narda</td>
     <td class="tg-0lax">Leonardo</td>
-    <td class="tg-0lax" rowspan="2">LN – Revision <br>Vorstadtstrasse 6<br>5722 Gränichen – AG</td>
+    <td class="tg-0lax">LN – Revision <br>Vorstadtstrasse 6<br>5722 Gränichen – AG</td>
     <td class="tg-z182"><a href="mailto:leonardo.narda@hotmail.com">leonardo.narda@hotmail.com</a><br><a href="mailto:mail@ln-revision.ch">mail@ln-revision.ch </a></td>
     <td class="tg-0lax">076 384 82 47</td>
-    <td class="tg-ktyi" rowspan="2">Deutsch<br>Italienisch <br>Französisch</td>
+    <td class="tg-ktyi">Deutsch<br>Italienisch <br>Französisch</td>
     <td class="tg-0lax">Confirmé //bestätigt</td>
     <td class="tg-0lax">Oui</td>
     <td class="tg-0lax"> </td>
