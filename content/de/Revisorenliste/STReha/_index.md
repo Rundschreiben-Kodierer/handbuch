@@ -2,7 +2,7 @@
 title: "STReha"
 slug: STReha
 description: ""
-weight: 100
+weight: 300
 type: docs
 keywords: []
 ---
@@ -72,7 +72,7 @@ keywords: []
 <tbody>
   <tr>
     <td class="tg-0lax">Fuchs</td>
-    <td class="tg-ktyi">Patric</td>
+    <td class="tg-ktyi">sPatric</td>
     <td class="tg-ktyi">Bahnhofstrasse 14<br>7304  Maienfeld</td>
     <td class="tg-v47d"><a href="mailto:patrick_fuchs@yahoo.com">patrick_fuchs@yahoo.com</a></td>
     <td class="tg-ktyi">079 353 46 39</td>
