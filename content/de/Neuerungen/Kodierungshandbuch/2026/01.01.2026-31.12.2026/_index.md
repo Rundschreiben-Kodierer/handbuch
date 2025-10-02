@@ -1,6 +1,6 @@
 ---
-title: "01.01.2026 – 31.12.2026"
-slug: 2026b
+title: "01.01.2026–31.12.2026"
+slug: 2026a
 description: ""
 weight: 1
 type: docs
