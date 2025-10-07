@@ -1,6 +1,6 @@
 ---
 title: "2026"
-slug: 2026b
+slug: 2026
 description: "Kapitel «Kodierungshandbuch»"
 weight: 1
 type: docs
@@ -23,6 +23,7 @@ Die Neuerungen, Anpassungen und Ergänzungen zum Kodierungshandbuch sind in folg
 <br>
 **•	01.07.xxxx – 31.12.xxxx**
 <br>  
+<br>
 
 **Regelungen zur Gültigkeit und Funktion:**
 
