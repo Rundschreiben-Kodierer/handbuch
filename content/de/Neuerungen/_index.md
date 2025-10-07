@@ -28,7 +28,7 @@ Die bekannten **Publikationszyklen der bisherigen Rundschreiben Nr. 1** jeweils 
   
 • Zusatzinformationen zur ICD-10-GM
   
-• FAQ
+• FAQ/Klarstellungen
   
   
   
@@ -36,7 +36,7 @@ Unter jedem Kapitel werden jeweils **das Publikationsjahr sowie die Gültigkeits
   
 **Kapitel «Zusatzinformationen zur CHOP»**  
 
-Die Informationen zu Änderungen, Neuerungen und Streichungen der CHOP-Kodes werden neu in Form einer **Excel-Tabelle** bereitgestellt, die direkt über Kapitel 3 abrufbar ist. Diese Tabelle ermöglicht eine übersichtliche Nachverfolgung der Änderungen und bildet die Neuerungen in den Sprachen *Deutsch, Französisch und Italienisch** ab.
+Die Informationen zu Änderungen, Neuerungen und Streichungen der CHOP-Kodes werden neu in Form einer **Excel-Tabelle** bereitgestellt, die direkt über Kapitel 3 abrufbar ist. Diese Tabelle ermöglicht eine übersichtliche Nachverfolgung der Änderungen und bildet die Neuerungen in den Sprachen **Deutsch, Französisch und Italienisch** ab.
   
 **Neues Kapitel «FAQ»**  
 
@@ -46,9 +46,9 @@ Das bisherige Kapitel 5 «Anhang» wird durch das neue Kapitel **«FAQ»** erset
   
 Die Onlineversion bietet zusätzliche Funktionen:
   
-• Inhalte können von den Nutzerinnen und Nutzern bei Bedarf als PDF-Datei heruntergeladen und ausgedruckt werden.
+• Inhalte können von den Nutzerinnen und Nutzern bei Bedarf als **PDF-Datei heruntergeladen und ausgedruckt** werden.
   
-• Eine Stichwortsuche (Ctrl + F) ermöglicht eine einfache und schnelle Navigation innerhalb der Texte.
+• Eine **Stichwortsuche (Ctrl + F)** ermöglicht eine einfache und schnelle Navigation innerhalb der Texte.
   
 
     
