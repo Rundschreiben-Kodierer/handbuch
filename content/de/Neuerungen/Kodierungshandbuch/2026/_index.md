@@ -23,22 +23,25 @@ ________________________________________
 
 Die Neuerungen, Anpassungen und Ergänzungen zum Kodierungshandbuch sind in folgende Register unterteilt:
 
-  **•	01.01.xxxx – 31.12.xxxx**
+**•	01.01.xxxx – 31.12.xxxx**
 
-  **•	01.07.xxxx – 31.12.xxxx**
+**•	01.07.xxxx – 31.12.xxxx**
+  
   
 **Regelungen zur Gültigkeit und Funktion:**
 
-  •	Neuerungen, Anpassungen und Ergänzungen, die im Register **01.01.xxxx – 31.12.xxxx** erfasst sind, haben für den gesamten Zeitraum des jeweiligen Kalenderjahres Gültigkeit.
+•	Neuerungen, Anpassungen und Ergänzungen, die im Register **01.01.xxxx – 31.12.xxxx** erfasst sind, haben für den gesamten Zeitraum des jeweiligen Kalenderjahres Gültigkeit.
 
-  •	Bei den im Register **01.07.xxxx – 31.12.xxxx** erfassten Inhalten handelt es sich – sofern erforderlich – um **Korrekturen und Präzisierungen** bereits publizierter Neuerungen, Anpassungen und Ergänzungen aus dem Register **01.01.xxxx – 31.12.xxxx**.
+•	Bei den im Register **01.07.xxxx – 31.12.xxxx** erfassten Inhalten handelt es sich – sofern erforderlich – um **Korrekturen und Präzisierungen** bereits publizierter Neuerungen, Anpassungen und Ergänzungen aus dem Register **01.01.xxxx – 31.12.xxxx**.
 
-  •	Zudem enthält das Register **01.07.xxxx – 31.12.xxxx** allfällige **neue Neuerungen, Anpassungen und Ergänzungen**, die sich unterjährig aus der Weiterentwicklung der Referenzdokumente, dem Antragsverfahren, der Bearbeitung von Kodierungsunstimmigkeiten oder aus den **FAQ/Klarstellungen** ergeben.
+•	Zudem enthält das Register **01.07.xxxx – 31.12.xxxx** allfällige **neue Neuerungen, Anpassungen und Ergänzungen**, die sich unterjährig aus der Weiterentwicklung der Referenzdokumente, dem Antragsverfahren, der Bearbeitung von Kodierungsunstimmigkeiten oder aus den **FAQ/Klarstellungen** ergeben.
+  
   
 Wie in den übrigen Kapiteln der Neuerungen und Zusatzinformationen zu den Publikationen, wird auch im Kapitel «Kodierungshandbuch» für Anpassungen, Ergänzungen und Streichungen folgende Legende angewendet:
-
   
-{{<markdown>}}
+  
+  
+  {{<markdown>}}
   Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Löschungen in rot~~</font>
   
 {{</markdown>}}
