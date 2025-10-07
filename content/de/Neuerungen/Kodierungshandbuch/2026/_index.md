@@ -1,5 +1,5 @@
 ---
-title: "2026"
+title: "Kapitel Kapitel «Kodierungshandbuch»"
 slug: 2026
 description: ""
 weight: 1
@@ -8,9 +8,6 @@ keywords: []
 ---
 <p style="text-align: right;">{{<printButton>}}
 
-
-
-**Kapitel «Kodierungshandbuch»**
   
 Das Kapitel «Kodierungshandbuch» enthält sämtliche Neuerungen, Anpassungen und Ergänzungen zum jeweils gültigen Medizinischen Kodierungshandbuch.
 Es dient als zentrale Referenz für Kodiererinnen und Kodierer, indem es die verbindlichen Richtlinien für die Kodierungspraxis erläutert, präzisiert und – wo erforderlich – um neue Vorgaben ergänzt.
@@ -24,10 +21,11 @@ ________________________________________
 Die Neuerungen, Anpassungen und Ergänzungen zum Kodierungshandbuch sind in folgende Register unterteilt:
 
 **•	01.01.xxxx – 31.12.xxxx**
-
+<br>
 **•	01.07.xxxx – 31.12.xxxx**
   
-  
+<br>  
+<br>
 **Regelungen zur Gültigkeit und Funktion:**
 
 •	Neuerungen, Anpassungen und Ergänzungen, die im Register **01.01.xxxx – 31.12.xxxx** erfasst sind, haben für den gesamten Zeitraum des jeweiligen Kalenderjahres Gültigkeit.
