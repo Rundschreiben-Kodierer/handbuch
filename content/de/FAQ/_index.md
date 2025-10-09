@@ -7,7 +7,7 @@ type: docs
 keywords: []
 ---
 
-{{<printButton>}}
+<p style="text-align: right;">{{<printButton>}}
 
 **Einführung des Kapitels «FAQ» mit den Neuerungen und Zusatzinformationen zu den Publikationen**
    
@@ -31,8 +31,7 @@ Jede FAQ/Klarstellung enthält:
   <li>
   das <strong>Erstellungsdatum</strong>,
   </li>
-  
-  <li>
+   <li>
   den <strong>Themenbereich</strong> (ICD-10-GM oder CHOP) mit den jeweils relevanten Kodes,
   <li>
   <li>
