@@ -17,8 +17,6 @@ ________________________________________
 
 Die Neuerungen, Anpassungen und Ergänzungen zum Kodierungshandbuch sind in folgende Register unterteilt:
 
-
-
    <ul>
         <li><strong>01.01.xxxx – 31.12.xxxx</strong></li>
         <li><strong>01.07.xxxx – 31.12.xxxx</strong></li>

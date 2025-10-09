@@ -19,17 +19,24 @@ Das Bundesamt für Statistik (BFS), Fachbereich Medizinische Klassifikationen, h
 Mit der Umstellung auf die Onlineschaltung der Inhalte, entfällt das Rundschreiben in seiner bisher bekannten Form. Ebenso wird ab diesem Zeitpunkt auf die Veröffentlichung einer PDF-Datei verzichtet. 
   
 Die bekannten **Publikationszyklen der bisherigen Rundschreiben Nr. 1** jeweils Ende Juni sowie Rundschreiben Nr. 2 jeweils Ende Dezember – bleiben unverändert bestehen. Gleichzeitig wird jedoch die **inhaltliche Gliederung** angepasst. Zukünftig strukturieren sich die Inhalte wie folgt:
-  
-• Allgemeine Informationen
-  
-• Kodierungshandbuch
-  
-• Zusatzinformationen zur CHOP
-  
-• Zusatzinformationen zur ICD-10-GM
-  
-• FAQ/Klarstellungen
-  
+
+<ul>  
+  <li>
+  Allgemeine Informationen
+  </li>
+  <li>
+  Kodierungshandbuch
+  </li>
+  <li>
+  Zusatzinformationen zur CHOP
+  </li>
+  <li>
+  Zusatzinformationen zur ICD-10-GM
+  </li>
+  <li>
+  FAQ/Klarstellungen
+  </li>
+</ul>
   
   
 Unter jedem Kapitel werden jeweils **das Publikationsjahr sowie die Gültigkeitsspanne** der darin aufgeführten Inhalte angegeben, sodass die zeitliche Zuordnung der Änderungen und Ergänzungen jederzeit klar nachvollzogen werden kann.
@@ -45,11 +52,14 @@ Das bisherige Kapitel 5 «Anhang» wird durch das neue Kapitel **«FAQ»** erset
 **Such- und Exportfunktionen**  
   
 Die Onlineversion bietet zusätzliche Funktionen:
-  
-• Inhalte können von den Nutzerinnen und Nutzern bei Bedarf als **PDF-Datei heruntergeladen und ausgedruckt** werden.
-  
-• Eine **Stichwortsuche (Ctrl + F)** ermöglicht eine einfache und schnelle Navigation innerhalb der Texte.
-  
+<ul>  
+  <li>
+  Inhalte können von den Nutzerinnen und Nutzern bei Bedarf als <strong>PDF-Datei heruntergeladen und ausgedruckt</strong> werden.
+  </li>
+  <li>
+  Eine <strong>Stichwortsuche (Ctrl + F)</strong> ermöglicht eine einfache und schnelle Navigation innerhalb der Texte.
+  </li>
+</ul>  
 
     
 **Archiv**  

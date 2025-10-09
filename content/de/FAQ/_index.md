@@ -7,6 +7,7 @@ type: docs
 keywords: []
 ---
 
+
 <p style="text-align: right;">{{<printButton>}}
 
 **Einführung des Kapitels «FAQ» mit den Neuerungen und Zusatzinformationen zu den Publikationen**
