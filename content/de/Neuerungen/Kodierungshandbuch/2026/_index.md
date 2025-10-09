@@ -25,19 +25,19 @@ Die Neuerungen, Anpassungen und Ergänzungen zum Kodierungshandbuch sind in folg
         <li><strong>01.07.xxxx – 31.12.xxxx</strong></li>
     </ul>
 
-
+<br>
 **Regelungen zur Gültigkeit und Funktion:**
 <ul>
   <li>Neuerungen, Anpassungen und Ergänzungen, die im Register <strong>01.01.xxxx – 31.12.xxxx</strong> erfasst sind, haben für den gesamten Zeitraum des jeweiligen Kalenderjahres Gültigkeit.
   </li>
-  <li>Bei den im Register <strong>01.07.xxxx – 31.12.xxxx</strong> erfassten Inhalten handelt es sich – sofern erforderlich – um **Korrekturen und Präzisierungen** bereits publizierter Neuerungen, Anpassungen und Ergänzungen aus dem Register **01.01.xxxx – 31.12.xxxx**.
+  <li>Bei den im Register <strong>01.07.xxxx – 31.12.xxxx</strong> erfassten Inhalten handelt es sich – sofern erforderlich – um **Korrekturen und Präzisierungen** bereits publizierter Neuerungen, Anpassungen und Ergänzungen aus dem Register <strong>01.01.xxxx – 31.12.xxxx</strong>.
   </li>
-  <li>Zudem enthält das Register <strong>01.07.xxxx – 31.12.xxxx</strong> allfällige **neue Neuerungen, Anpassungen und Ergänzungen**, die sich unterjährig aus der Weiterentwicklung der Referenzdokumente, dem Antragsverfahren, der Bearbeitung von Kodierungsunstimmigkeiten oder aus den **FAQ/Klarstellungen** ergeben.
+  <li>Zudem enthält das Register <strong>01.07.xxxx – 31.12.xxxx</strong> allfällige **neue Neuerungen, Anpassungen und Ergänzungen**, die sich unterjährig aus der Weiterentwicklung der Referenzdokumente, dem Antragsverfahren, der Bearbeitung von Kodierungsunstimmigkeiten oder aus den <strong>FAQ/Klarstellungen</strong> ergeben.
   </li>
 </ul>
 <br>
-<br>
 Wie in den übrigen Kapiteln der Neuerungen und Zusatzinformationen zu den Publikationen, wird auch im Kapitel «Kodierungshandbuch» für Anpassungen, Ergänzungen und Streichungen folgende Legende angewendet:
+<br>
 <br>  
   {{<markdown>}}
   Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Löschungen in rot~~</font>
