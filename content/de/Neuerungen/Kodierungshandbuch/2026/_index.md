@@ -33,7 +33,7 @@ Die Neuerungen, Anpassungen und Ergänzungen zum Kodierungshandbuch sind in folg
   </li>
   <li>Bei den im Register <strong>01.07.xxxx – 31.12.xxxx</strong> erfassten Inhalten handelt es sich – sofern erforderlich – um **Korrekturen und Präzisierungen** bereits publizierter Neuerungen, Anpassungen und Ergänzungen aus dem Register <strong>01.01.xxxx – 31.12.xxxx</strong>.
   </li>
-  <li>Zudem enthält das Register <strong>01.07.xxxx – 31.12.xxxx</strong> allfällige **neue Neuerungen, Anpassungen und Ergänzungen**, die sich unterjährig aus der Weiterentwicklung der Referenzdokumente, dem Antragsverfahren, der Bearbeitung von Kodierungsunstimmigkeiten oder aus den <strong>FAQ/Klarstellungen</strong> ergeben.
+  <li>Zudem enthält das Register <strong>01.07.xxxx – 31.12.xxxx</strong> allfällige <strong>neue Neuerungen, Anpassungen und Ergänzungen</strong>, die sich unterjährig aus der Weiterentwicklung der Referenzdokumente, dem Antragsverfahren, der Bearbeitung von Kodierungsunstimmigkeiten oder aus den <strong>FAQ/Klarstellungen</strong> ergeben.
   </li>
 </ul>
 <br>

@@ -24,16 +24,24 @@ Die FAQ/Klarstellungen leiten sich aus (wiederholten) Anfragen an das Kodierungs
 **Struktur, Inhalt und Gültigkeit der FAQ/Klarstellungen**
   
 Jede FAQ/Klarstellung enthält:
+<ul>
+  <li>
+  mindestens ein <strong>Schlagwort</strong>, auf das sie sich bezieht,
+  </li>
+  <li>
+  das <strong>Erstellungsdatum</strong>,
+  </li>
   
-•	mindestens ein **Schlagwort**, auf das sie sich bezieht,
-  
-•	das **Erstellungsdatum**,
-  
-•	den **Themenbereich** (ICD-10-GM oder CHOP) mit den jeweils relevanten Kodes,
-  
-•	sofern zutreffend, einen **Verweis auf die jeweilige Kodierregel**,
-  
-•	ein Feld **«Aktualisiert»**, in dem das Datum der letzten inhaltlichen Anpassung ausgewiesen wird,
+  <li>
+  den <strong>Themenbereich</strong> (ICD-10-GM oder CHOP) mit den jeweils relevanten Kodes,
+  <li>
+  <li>
+  sofern zutreffend, einen <strong>Verweis auf die jeweilige Kodierregel</strong>,
+  </li>
+  </li>
+  ein Feld <strong>«Aktualisiert»</strong>, in dem das Datum der letzten inhaltlichen Anpassung ausgewiesen wird,
+  </li>
+</ul>
   
 Mit der Einführung der Onlineschaltung des Kapitels «FAQ/Klarstellungen» wurde bei **allen FAQ/Klarstellungen das Erstellungsdatum auf den 01.01.2026 angepasst**.
 Bei den FAQ/Klarstellungen, die aus dem **Anhang des letzten Rundschreibens 2025/2** übernommen und migriert wurden, findet sich **nebst dem neuen Erstellungsdatum zusätzlich ein Verweis auf die jeweilige Nummer der Präzisierung des ehemaligen Kapitels 5**.
@@ -45,12 +53,16 @@ Alte, ungültige Versionen werden nachfolgend mit dem Zeitraum der Gültigkeit (
   
 Sämtliche auf der Website des BFS aufgeschalteten FAQ/Klarstellungen behalten in ihrer jeweils gültigen Fassung so lange ihre Gültigkeit, bis sie:
   
-•	in die jeweiligen Regelwerke KHB oder CHOP integriert wurden, oder
-  
-•	durch eine neue FAQ/Klarstellung ersetzt, oder
-  
-•	durch das BFS gelöscht wurden.
-  
+<ul>
+  <li>
+  in die jeweiligen Regelwerke KHB oder CHOP integriert wurden, oder
+  <br>
+  durch eine neue FAQ/Klarstellung ersetzt, oder
+  <br>
+	durch das BFS gelöscht wurden.
+   </li>
+</ul>
+
 Damit ist jederzeit transparent nachvollziehbar, welche Fassung einer FAQ/Klarstellung aktuell verbindlich ist und welche früher gültig war.
   
 ________________________________________
@@ -58,9 +70,12 @@ ________________________________________
 **Nummerierungssystem**
 
   Die FAQ/Klarstellungen sind chronologisch aufsteigend nummeriert:
-  
-**•	0001 – 9999**
-  
+
+<ul>
+  <li>
+  <strong>0001 – 9999</strong>
+  <li>
+</ul>  
 Die bisherige Nummerierung des Kapitels 5 «Anhang» wird nicht fortgeführt.
   
 ________________________________________
