@@ -26,6 +26,7 @@ Die Neuerungen, Anpassungen und Ergänzungen zum Kodierungshandbuch sind in folg
     </ul>
 
 <br>
+
 **Regelungen zur Gültigkeit und Funktion:**
 <ul>
   <li>Neuerungen, Anpassungen und Ergänzungen, die im Register <strong>01.01.xxxx – 31.12.xxxx</strong> erfasst sind, haben für den gesamten Zeitraum des jeweiligen Kalenderjahres Gültigkeit.
