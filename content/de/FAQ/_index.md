@@ -34,16 +34,16 @@ Jede FAQ/Klarstellung enthält:
   </li>
    <li>
   den <strong>Themenbereich</strong> (ICD-10-GM oder CHOP) mit den jeweils relevanten Kodes,
-  <li>
+  </li>
   <li>
   sofern zutreffend, einen <strong>Verweis auf die jeweilige Kodierregel</strong>,
   </li>
-  </li>
+  <li>
   ein Feld <strong>«Aktualisiert»</strong>, in dem das Datum der letzten inhaltlichen Anpassung ausgewiesen wird,
   </li>
 </ul>
   
-Mit der Einführung der Onlineschaltung des Kapitels «FAQ/Klarstellungen» wurde bei **allen FAQ/Klarstellungen das Erstellungsdatum auf den 01.01.2026 angepasst**.
+Mit der Einführung der Onlineschaltung des Kapitels «FAQ/Klarstellungen» wurde bei **allen FAQ/Klarstellungen das Erstellungsdatum auf den 01.01.2026 angepasst**.<br>
 Bei den FAQ/Klarstellungen, die aus dem **Anhang des letzten Rundschreibens 2025/2** übernommen und migriert wurden, findet sich **nebst dem neuen Erstellungsdatum zusätzlich ein Verweis auf die jeweilige Nummer der Präzisierung des ehemaligen Kapitels 5**.
   
 Die Aktualisierung/Anpassung erfolgt im Halbjahreszyklus jeweils Ende Juni und Ende Dezember – zusammen mit den Neuerungen und Zusatzinformationen zu den Publikationen.
@@ -56,9 +56,11 @@ Sämtliche auf der Website des BFS aufgeschalteten FAQ/Klarstellungen behalten i
 <ul>
   <li>
   in die jeweiligen Regelwerke KHB oder CHOP integriert wurden, oder
-  <br>
+  </li>
+  <li>
   durch eine neue FAQ/Klarstellung ersetzt, oder
-  <br>
+  </li>
+  <li>
 	durch das BFS gelöscht wurden.
    </li>
 </ul>
@@ -74,7 +76,7 @@ ________________________________________
 <ul>
   <li>
   <strong>0001 – 9999</strong>
-  <li>
+  </li>
 </ul>  
 Die bisherige Nummerierung des Kapitels 5 «Anhang» wird nicht fortgeführt.
   
@@ -84,7 +86,7 @@ ________________________________________
   
 Wie in den übrigen Kapiteln der Neuerungen und Zusatzinformationen zu den Publikationen, wird auch im Kapitel «FAQ/Klarstellungen» für Anpassungen, Ergänzungen und Streichungen folgende Legende angewendet:
   
-
+<br>
   {{<markdown>}}
 Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Löschungen in rot~~</font>
   

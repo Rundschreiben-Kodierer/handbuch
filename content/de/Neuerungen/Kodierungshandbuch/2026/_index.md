@@ -33,7 +33,6 @@ Die Neuerungen, Anpassungen und Ergänzungen zum Kodierungshandbuch sind in folg
   <li>Zudem enthält das Register <strong>01.07.xxxx – 31.12.xxxx</strong> allfällige <strong>neue Neuerungen, Anpassungen und Ergänzungen</strong>, die sich unterjährig aus der Weiterentwicklung der Referenzdokumente, dem Antragsverfahren, der Bearbeitung von Kodierungsunstimmigkeiten oder aus den <strong>FAQ/Klarstellungen</strong> ergeben.
   </li>
 </ul>
-<br>
 Wie in den übrigen Kapiteln der Neuerungen und Zusatzinformationen zu den Publikationen, wird auch im Kapitel «Kodierungshandbuch» für Anpassungen, Ergänzungen und Streichungen folgende Legende angewendet:
 <br>
 <br>  
