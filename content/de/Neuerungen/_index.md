@@ -41,13 +41,13 @@ Die bekannten **Publikationszyklen der bisherigen Rundschreiben Nr. 1** jeweils 
   
 Unter jedem Kapitel werden jeweils **das Publikationsjahr sowie die Gültigkeitsspanne** der darin aufgeführten Inhalte angegeben, sodass die zeitliche Zuordnung der Änderungen und Ergänzungen jederzeit klar nachvollzogen werden kann.
   
-**Kapitel «Zusatzinformationen zur CHOP»**
+**Kapitel «Zusatzinformationen zur CHOP»**<br>
 Die Informationen zu Änderungen, Neuerungen und Streichungen der CHOP-Kodes werden neu in Form einer **Excel-Tabelle** bereitgestellt, die direkt über Kapitel 3 abrufbar ist. Diese Tabelle ermöglicht eine übersichtliche Nachverfolgung der Änderungen und bildet die Neuerungen in den Sprachen **Deutsch, Französisch und Italienisch** ab.
   
-**Neues Kapitel «FAQ»**
-Das bisherige Kapitel 5 «Anhang» wird durch das neue Kapitel **«FAQ»** ersetzt. Dort werden künftig sowohl allgemeine als auch spezifische Fragen beantwortet. Die Inhalte des bisherigen Anhangs sind in dieses neue Kapitel migriert worden.
+**Neues Kapitel «FAQ»/klarstellungen**<br>
+Das bisherige Kapitel 5 «Anhang» wird durch das neue Kapitel **«FAQ»/Klarstellungen** ersetzt. Dort werden künftig sowohl allgemeine als auch spezifische Fragen beantwortet. Die Inhalte des bisherigen Anhangs (Kaptiel 5) sind in dieses neue Kapitel migriert worden.
 
-**Such- und Exportfunktionen**
+**Such- und Exportfunktionen**<br>
 Die Onlineversion bietet zusätzliche Funktionen:
 <ul>  
   <li>
@@ -59,7 +59,7 @@ Die Onlineversion bietet zusätzliche Funktionen:
 </ul>  
 
     
-**Archiv**
+**Archiv**<br>
 Sämtliche Rundschreiben der Jahre 2009 bis einschliesslich 2025 stehen weiterhin unverändert im PDF-Format auf der Webseite des Bundesamtes für Statistik, Fachbereich Medizinische Klassifikationen, zur Verfügung.  
 <a href="https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/nomenklaturen/medkk/instrumente-medizinische-kodierung.html">
 www.bfs.admin.ch – Medizinische Klassifikationen</a>

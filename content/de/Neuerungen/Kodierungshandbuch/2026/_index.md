@@ -8,13 +8,12 @@ keywords: []
 ---
 <p style="text-align: right;">{{<printButton>}}
 
-Das Kapitel «Kodierungshandbuch» enthält sämtliche Neuerungen, Anpassungen und Ergänzungen zum jeweils gültigen Medizinischen Kodierungshandbuch.
+Das Kapitel «Kodierungshandbuch» enthält sämtliche Neuerungen, Anpassungen und Ergänzungen zum jeweils gültigen Medizinischen Kodierungshandbuch.<br>
 Es dient als zentrale Referenz für Kodiererinnen und Kodierer, indem es die verbindlichen Richtlinien für die Kodierungspraxis erläutert, präzisiert und – wo erforderlich – um neue Vorgaben ergänzt.<br>
 Des Weiteren werden in diesem Kapitel Hilfestellungen zur Interpretation, Anwendungsbeispiele für die Kodierrichtlinien sowie Präzisierungen bezüglich spezieller Kodierproblematiken publiziert.<br>
 Die Inhalte dieses Kapitels werden im Rahmen der halbjährlichen Publikationszyklen – jeweils Ende Juni und Ende Dezember – fortlaufend aktualisiert.
 ________________________________________
-**Registersystem**
-
+**Registersystem**<br>
 Die Neuerungen, Anpassungen und Ergänzungen zum Kodierungshandbuch sind in folgende Register unterteilt:
 
    <ul>
