@@ -21,9 +21,7 @@ Das Kapitel **«Allgemeine Informationen»** enthält grundsätzliche Informatio
   
 •	Mitteilungen zu übergeordneten Themen im Bereich der medizinischen Klassifikationen
   
-•	Organisatorische Informationen zu Publikationsabläufen und Ansprechpartnern
-  
-  
+•	Organisatorische Informationen zu Publikationsabläufen und Ansprechpartnern  
   
 Dieses Kapitel bildet somit die Grundlage für die Nutzung der weiteren Inhalte und unterstützt die Kodiererinnen und Kodierer bei der Orientierung innerhalb der Publikationen.
 Je Version der «Allgemeinen Informationen» werden Register gebildet mit dem Datum des Inkrafttretens. 
