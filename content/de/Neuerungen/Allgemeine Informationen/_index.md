@@ -30,13 +30,9 @@ Je Version der «Allgemeinen Informationen» werden Register gebildet mit dem Da
 Diese Register dokumentieren die unterjährigen Aktualisierungen und verdeutlichen den jeweiligen Beginn der Gültigkeit.
 Im Kontext der Publikationsversionen KHB YYYY und CHOP YYYY, sowie ICD-10-GM erfolgte die Aktualisierung der «Allgemeinen Informationen» halbjährlich. 
 Pro Publikationsjahr können somit folgende Register vorkommen:
-
-<head>
-    <meta charset="UTF-8">
-    <title>Register pro Publikationsjahr</title>
-</head>
+Register pro Publikationsjahr
+    
 <body>
-    <h1>Register pro Publikationsjahr</h1>
     <ul>
         <li>01.01.YYYY
             <ul>
@@ -50,7 +46,7 @@ Pro Publikationsjahr können somit folgende Register vorkommen:
         </li>
     </ul>
 </body>
-</html>
+
 
 Das Datum gibt jeweils den Beginn der Gültigkeit an. Eine Anpassung / Korrektur zu einem Zeitpunkt X kann in seltenen Fällen zu einem späteren Zeitpunkt Z einer weiteren Anpassung unterliegen. Bitte beachten Sie in der zweiten Jahreshälfte beide Register. 
 
