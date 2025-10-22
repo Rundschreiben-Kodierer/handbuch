@@ -50,6 +50,4 @@ Das Datum gibt jeweils den Beginn der Gültigkeit an. Eine Anpassung / Korrektur
 
 Die angegebenen Anpassungen und Korrekturen können in einer darauffolgenden Publikationsversion des KHB und / oder der CHOP und / oder der ICD-10-GM übernommen werden oder aufgrund einer Weiterentwicklung / Modifikation der allgemeinen Informationen im Kontext der Kodierungsrichtlinien und Klassifikationen entfallen.
 
-
-
 {{</markdown>}}
