@@ -7,12 +7,9 @@ type: docs
 keywords: []
 ---
 
-{{<printButton>}}
+<p style="text-align: right;">{{<printButton>}}
   
 {{<markdown>}}
-Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Löschungen in rot~~</font>
 
-
-Die im Kapitel **«Kodierungshandbuch»** veröffentlichten Neuerungen und Zusatzinformationen der **Gültigkeitsperiode 01.01.2026 bis 30.06.2026** behalten ihre Gültigkeit.
 
 {{</markdown>}}

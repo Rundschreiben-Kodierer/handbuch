@@ -14,7 +14,6 @@ keywords: []
   
 Das Kapitel **«Allgemeine Informationen»** enthält grundsätzliche Informationen, welche für die Anwendung und das Verständnis der Publikationen von Bedeutung sind. Hierzu zählen insbesondere:
   
-  
 •	Hinweise zur Nutzung und Struktur der Onlineversion
   
 •	Erläuterungen zu formalen Anpassungen oder redaktionellen Änderungen
@@ -43,7 +42,6 @@ Register pro Publikationsjahr
         </li>
     </ul>
 </body>
-
 
 Das Datum gibt jeweils den Beginn der Gültigkeit an. Eine Anpassung / Korrektur zu einem Zeitpunkt X kann in seltenen Fällen zu einem späteren Zeitpunkt Z einer weiteren Anpassung unterliegen. Bitte beachten Sie in der zweiten Jahreshälfte beide Register. 
 
