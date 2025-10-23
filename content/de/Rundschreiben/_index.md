@@ -1,8 +1,8 @@
 ---
 title: "Rundschreiben - Archiv"
 slug: Rundschreiben
-description: "Rundschreiben"
-weight: 440
+description: ""
+weight: 987
 type: docs
 keywords: []
 ---

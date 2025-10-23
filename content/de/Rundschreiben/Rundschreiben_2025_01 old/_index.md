@@ -1,7 +1,7 @@
 ---
 title: "Rundschreiben 2025 OLD"
 slug: introduction
-description: "toto toto "
+description: "1000"
 keywords: []
 weight: 0
 type: docs
