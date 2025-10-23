@@ -12,8 +12,7 @@ keywords: []
 <br>
   
 {{<markdown>}}
-<br>
-<br>
+  
 Die Liste der schweizerischen Revisorinnen und Revisoren in der medizinischen Kodierung enthält eine **aktuelle Übersicht der vom Bundesamt für Statistik (BFS) anerkannten Fachpersonen**, welche die dazu erforderlichen Voraussetzungen erfüllen und im Bereich der medizinischen Kodierung als Revisorinnen und Revisoren tätig sind. 
   
 Die Liste ist in die drei **Tarifstrukturen SwissDRG, TARPSY und ST Reha** unterteilt und umfasst insbesondere folgende Angaben:
