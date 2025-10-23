@@ -1,7 +1,7 @@
 ---
 title: "2026"
 slug: 2026
-description: "Kapitel «Allgemeine Informationen»"
+description: "Allgemeine Informationen 2026"
 weight: 1
 type: docs
 keywords: []

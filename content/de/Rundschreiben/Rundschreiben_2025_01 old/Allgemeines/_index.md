@@ -2,7 +2,7 @@
 title: "1. Allgemeines"
 slug: RS-Allgemeines
 description: "Allgemeines"
-weight: 440
+weight: 1000
 type: docs
 keywords: []
 ---

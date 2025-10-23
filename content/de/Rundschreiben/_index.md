@@ -1,5 +1,5 @@
 ---
-title: Rundschreiben
+title: "Rundschreiben - Archiv"
 slug: Rundschreiben
 description: "Rundschreiben"
 weight: 440
