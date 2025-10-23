@@ -53,6 +53,21 @@ https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/nomenklaturen/medkk/
 
 BFS – Revisionen von Kodierfällen
 
+<body>
+    <ul>
+        <li><a href="https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/nomenklaturen/medkk/revisionen-kodierfaelle.html#schweizerische-revisorinnen-und-revisoren-in-der-medizinischen-kodierung-liste-formular-informationen"
+        target="_blank"
+        rel="noopener noreferrer">
+        Schweizerische Revisorinnen und Revisoren in der medizinischen Kodierung – Liste, Formular, Informationen</a>
+        </li>
+        <li><a href="https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/nomenklaturen/medkk/revisionen-kodierfaelle.html#reglement-kodierrevision-unter-swissdrg"
+        target="_blank"
+        rel="noopener noreferrer">
+        Reglement – Kodierrevision unter SwissDRG</a>
+        </li>
+    </ul>
+</body>
+
 
 
 {{</markdown>}}
