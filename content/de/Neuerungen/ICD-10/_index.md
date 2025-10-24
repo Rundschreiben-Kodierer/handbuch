@@ -22,12 +22,16 @@ Die ICD-10-GM 2024 ist seit dem 1. Januar 2025 in der Schweiz in Kraft. In den R
 Voraussichtlich ist eine Version YYYY der ICD-10-GM in der Schweiz drei Jahre gültig (vom Jahr YYYY+1 bis zum Jahr YYYY+3). Die ICD-10-GM 2026 tritt z. B. am 1. Januar 2027 in der Schweiz in Kraft und gilt bis zum 31. Dezember 2029.
   
 Je Version können somit folgende Register vorkommen:
-•	01.01.YYYY+1
-•	01.07.YYYY+1
-•	01.01.YYYY+2
-•	01.07.YYYY+2
-•	01.01.YYYY+3
-•	01.07.YYYY+3
+<body>
+    <ul>
+        <li>01.01.YYYY+1</li>
+        <li>01.07.YYYY+1</li>
+        <li>01.01.YYYY+2</li>
+        <li>01.07.YYYY+2</li>
+        <li>01.01.YYYY+3</li>
+        <li>01.07.YYYY+3</li>
+    </ul>
+</body>
   
 Das Datum gibt jeweils den Beginn der Gültigkeit an. Eine Anpassung/Korrektur zu einem Zeitpunkt X kann in seltenen Fällen zu einem späteren Zeitpunkt Z einer weiteren Anpassung unterliegen. Bitte beachten Sie sämtliche Register. 
   
@@ -38,3 +42,6 @@ Eine unterjährige Belegung von unbelegten Schlüsselnummern kann von der WHO od
 {{<markdown>}}Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Löschungen in rot~~</font>
   
 {{</markdown>}}
+
+
+
