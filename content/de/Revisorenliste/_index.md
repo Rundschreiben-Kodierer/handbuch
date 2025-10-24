@@ -18,11 +18,11 @@ Die Liste der schweizerischen Revisorinnen und Revisoren in der medizinischen Ko
 Die Liste ist in die drei **Tarifstrukturen SwissDRG, TARPSY und ST Reha** unterteilt und umfasst insbesondere folgende Angaben:
 <body>
     <ul>
-        <li>Name und Vorname der Revisorin bzw. des Revisors</li>
-        <li>Institution oder Organisation, bei welcher die Tätigkeit ausgeübt wird</li>
-        <li>Kontaktangaben (z. B. E-Mail-Adresse oder Telefonnummer, sofern freigegeben)</li>
-        <li>Regionale oder fachliche Zuständigkeit, soweit zutreffend</li>
-        <li>Status der Anerkennung (z. B. gültige Zertifizierung oder Akkreditierung)</li>
+        <li><strong>Name und Vorname</strong> der Revisorin bzw. des Revisors</li>
+        <li><strong>Institution oder Organisation</strong>, bei welcher die Tätigkeit ausgeübt wird</li>
+        <li><strong>Kontaktangaben</strong> (z. B. E-Mail-Adresse oder Telefonnummer, sofern freigegeben)</li>
+        <li><strong>Regionale oder fachliche Zuständigkeit</strong>, soweit zutreffend</li>
+        <li><strong>Status der Anerkennung</strong> (z. B. gültige Zertifizierung oder Akkreditierung)</li>
     </ul>
 </body>
 
@@ -30,8 +30,8 @@ Die Liste ist in die drei **Tarifstrukturen SwissDRG, TARPSY und ST Reha** unter
 Die Veröffentlichung dieser Informationen dient der Transparenz und Nachvollziehbarkeit der Prüf- und Revisionsprozesse im Bereich der medizinischen Kodierung. Sie ermöglicht es Spitälern, Leistungserbringern und weiteren Akteuren im Gesundheitswesen, sich bei Bedarf an die zuständigen Revisorinnen und Revisoren zu wenden.
   
 **Ab dem 01.01.2026 werden die Inhalte der Liste fortlaufend aktualisiert. Die bisher geltenden halbjährlichen Publikationszyklen – jeweils Ende Juni und Ende Dezember – entfallen mit diesem Datum.**
-  
-  
+<br>  
+<br>
 Weiterführende Informationen zur Revision von Kodierfällen sowie die nachstehend aufgeführten Dokumente sind unter folgendem Link abrufbar: 
 <body>
     <ul>
@@ -67,7 +67,9 @@ Weiterführende Informationen zur Revision von Kodierfällen sowie die nachstehe
         </li>
     </ul>
 </body>
-  
+<br>
+<br>
+<br>
 <a href="https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/nomenklaturen/medkk/revisionen-kodierfaelle.html"
         target="_blank"
         rel="noopener noreferrer">
