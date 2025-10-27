@@ -70,8 +70,6 @@ In Orange die Spalten, die sprachübergreifend gelten.
 In Gelb die Spalten, die für die deutschsprachige Version gelten.
 In Blau die Spalten, die für die französischsprachige Version gelten.
 In Grün die Spalten, die für die italienischsprachige Version gelten.
-
-
 <p class="MsoNormal" style="margin-bottom: 0cm;"><span lang="DE-CH" style="mso-fareast-language: DE-CH;">&nbsp;</span></p>
 <table class="MsoTableGrid" style="border-collapse: collapse; border: none; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" border="1" cellspacing="0" cellpadding="0">
 <tbody>
@@ -314,20 +312,18 @@ In Grün die Spalten, die für die italienischsprachige Version gelten.
 <!-- [if !supportAnnotations]--></div>
 <!--[endif]--></div>
 </div>
-
-
-
-
 Zuvor wurde im Kapitel 3, Zusatzinformationen, in der PDF-Datei des Rundschreibens eine Anpassung oder Korrektur zu einer CHOP-Version wie folgt dargestellt.
-Legende: Neuerungen in grün / Löschungen in rot
+{{<markdown>}}Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Löschungen in rot~~</font>
+  {{</markdown>}}
+**Unterregister Nr. 3.1 Titel**
 
-Unterregister Nr. 3.1 Titel
+*Kurzer einführender Text zum Unterregister.*
 
-Kurzer einführender Text zum Unterregister.
+**NN.NN.NN	Kode-Titel**
+{{<markdown>}}Legende: <font color="green">Neue ergänzende Beschreibung</font>
+  
+Exkl. Text des Exklusivum zu löschender Text im Exklusivum (MM.MM.-)<font color="red">~~zu löschender Text im Exklusivum~~</font>(MM.MM.-)
+  {{</markdown>}}
 
-NN.NN.NN	Kode-Titel
-		Neue ergänzende Beschreibung		
-Exkl. Text des Exklusivum zu löschender Text im Exklusivum (MM.MM.-)
 
 In der Tabelle wird dies wie folgt angegeben. Die Tabelle enthält die Gegenüberstellung der Korrektur in den drei Sprachen. Hier wird nur der Auszug für die deutschsprachige Version wiedergegeben. 
-
