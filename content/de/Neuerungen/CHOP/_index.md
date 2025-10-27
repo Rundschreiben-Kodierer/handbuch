@@ -260,7 +260,7 @@ In Grün die Spalten, die für die italienischsprachige Version gelten.
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><span lang="EN-GB" style="color: black; mso-color-alt: windowtext; mso-ansi-language: EN-GB; mso-fareast-language: DE-CH;">Comment FR</span></p>
 </td>
 <td style="width: 307.3pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="410">
-<p class="MsoBodyText" style="margin-top: 1.0pt;"><a style="mso-comment-reference: TK_1; mso-comment-date: 20251013T1428; mso-comment-done: yes;"><span lang="DE-CH" style="mso-fareast-language: DE-CH;">Kurzer</span></a><span lang="EN-US" style="font-size: 8.0pt; mso-ansi-language: EN-US;"><!-- [if !supportAnnotations]--><a id="_anchor_1" class="msocomanchor" href="#_msocom_1" name="_msoanchor_1">[TK1]</a><!--[endif]--><span style="mso-special-character: comment;">&nbsp;</span></span><span lang="DE-CH" style="mso-fareast-language: DE-CH;">, einf&uuml;hrender Text zum Unterregister auf Franz&ouml;sisch</span></p>
+<p class="MsoBodyText" style="margin-top: 1.0pt;"><span lang="DE-CH" style="mso-fareast-language: DE-CH;">Kurzer, einf&uuml;hrender Text zum Unterregister auf Franz&ouml;sisch</span></p>
 </td>
 </tr>
 <tr style="mso-yfti-irow: 19;">
@@ -305,27 +305,21 @@ In Grün die Spalten, die für die italienischsprachige Version gelten.
 </tbody>
 </table>
 <p class="MsoNormal"><span lang="DE-CH">&nbsp;</span></p>
-<div style="mso-element: comment-list;"><!-- [if !supportAnnotations]--><hr class="msocomoff" align="left" size="1" width="33%"><!--[endif]-->
-<div style="mso-element: comment;"><!-- [if !supportAnnotations]-->
-<div id="_com_1" class="msocomtxt"><!--[endif]--><span style="mso-comment-author: 'Kim Therese BFS'; mso-comment-providerid: AD; mso-comment-userid: 'S::therese\.kim\@bfs\.admin\.ch::c12b1b9c-66d1-40ba-a0c9-fdf5993297bc';"><!-- [if !supportAnnotations]--><a name="_msocom_1"></a><!--[endif]--></span>
-<p class="MsoCommentText"><span lang="DE-CH" style="font-size: 8.0pt;"><span style="mso-special-character: comment;">&nbsp;<!-- [if !supportAnnotations]--><a class="msocomoff" href="#_msoanchor_1">[TK1]</a><!--[endif]--></span></span></p>
-<!-- [if !supportAnnotations]--></div>
-<!--[endif]--></div>
-</div>
+
 Zuvor wurde im Kapitel 3, Zusatzinformationen, in der PDF-Datei des Rundschreibens eine Anpassung oder Korrektur zu einer CHOP-Version wie folgt dargestellt.
-  
+<br>  
 {{<markdown>}}Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Löschungen in rot~~</font>
   {{</markdown>}}
-  
+<br>  
 **Unterregister Nr. 3.1 Titel**
   
 *Kurzer einführender Text zum Unterregister.*
   
 **NN.NN.NN	Kode-Titel**<br>
 
-{{<markdown>}}Legende: <font color="green">Neue ergänzende Beschreibung</font><br>
+{{<markdown>}}Legende: <font color="green">            Neue ergänzende Beschreibung</font><br>
   
-Exkl. Text des Exklusivum zu löschender Text im Exklusivum (MM.MM.-)<font color="red">~~zu löschender Text im Exklusivum~~</font>(MM.MM.-)
+                   Exkl. Text des Exklusivum zu löschender Text im Exklusivum (MM.MM.-)<font color="red">~~zu löschender Text im Exklusivum~~</font>(MM.MM.-)
   {{</markdown>}}
 
 
