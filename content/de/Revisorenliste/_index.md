@@ -69,7 +69,6 @@ Weiterführende Informationen zur Revision von Kodierfällen sowie die nachstehe
 </body>
 <br>
 <br>
-<br>
 <a href="https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/nomenklaturen/medkk/revisionen-kodierfaelle.html"
         target="_blank"
         rel="noopener noreferrer">
