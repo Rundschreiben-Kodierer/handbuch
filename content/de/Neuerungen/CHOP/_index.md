@@ -308,19 +308,22 @@ In Grün die Spalten, die für die italienischsprachige Version gelten.
 <div style="mso-element: comment-list;"><!-- [if !supportAnnotations]--><hr class="msocomoff" align="left" size="1" width="33%"><!--[endif]-->
 <div style="mso-element: comment;"><!-- [if !supportAnnotations]-->
 <div id="_com_1" class="msocomtxt"><!--[endif]--><span style="mso-comment-author: 'Kim Therese BFS'; mso-comment-providerid: AD; mso-comment-userid: 'S::therese\.kim\@bfs\.admin\.ch::c12b1b9c-66d1-40ba-a0c9-fdf5993297bc';"><!-- [if !supportAnnotations]--><a name="_msocom_1"></a><!--[endif]--></span>
-<p class="MsoCommentText"><span lang="DE-CH" style="font-size: 8.0pt;"><span style="mso-special-character: comment;">&nbsp;<!-- [if !supportAnnotations]--><a class="msocomoff" href="#_msoanchor_1">[TK1]</a><!--[endif]--></span></span><span lang="DE-CH">Komma</span></p>
+<p class="MsoCommentText"><span lang="DE-CH" style="font-size: 8.0pt;"><span style="mso-special-character: comment;">&nbsp;<!-- [if !supportAnnotations]--><a class="msocomoff" href="#_msoanchor_1">[TK1]</a><!--[endif]--></span></span></p>
 <!-- [if !supportAnnotations]--></div>
 <!--[endif]--></div>
 </div>
 Zuvor wurde im Kapitel 3, Zusatzinformationen, in der PDF-Datei des Rundschreibens eine Anpassung oder Korrektur zu einer CHOP-Version wie folgt dargestellt.
+  
 {{<markdown>}}Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Löschungen in rot~~</font>
   {{</markdown>}}
+  
 **Unterregister Nr. 3.1 Titel**
-
+  
 *Kurzer einführender Text zum Unterregister.*
+  
+**NN.NN.NN	Kode-Titel**<br>
 
-**NN.NN.NN	Kode-Titel**
-{{<markdown>}}Legende: <font color="green">Neue ergänzende Beschreibung</font>
+{{<markdown>}}Legende: <font color="green">Neue ergänzende Beschreibung</font><br>
   
 Exkl. Text des Exklusivum zu löschender Text im Exklusivum (MM.MM.-)<font color="red">~~zu löschender Text im Exklusivum~~</font>(MM.MM.-)
   {{</markdown>}}
