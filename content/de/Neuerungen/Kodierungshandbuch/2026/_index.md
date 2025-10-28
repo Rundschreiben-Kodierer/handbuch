@@ -1,7 +1,7 @@
 ---
 title: "2026"
 slug: 2026
-description: "Kapitel «Kodierungshandbuch»"
+description: ""
 weight: 1
 type: docs
 keywords: []
