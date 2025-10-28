@@ -315,16 +315,16 @@ Zuvor wurde im Kapitel 3, Zusatzinformationen, in der PDF-Datei des Rundschreibe
   
 *Kurzer einführender Text zum Unterregister.*
   
-{{<codeEntry level="1" title="<strong>NN.NN.NN   </strong>">}}
+{{<codeEntry level="1" title="**NN.NN.NN**">}}
 {{<markdown>}}
-<strong>Kode-Titel</strong><br>
-<font color="green">Neue ergänzende Beschreibung</font><br>
-Exkl. Text des Exklusivum zu löschender Text im Exklusivum (MM.MM.-) <font color="red">~~zu löschender Text im Exklusivum~~</font> (MM.MM.-)
+<strong> Kode-Titel</strong><br>
+<font color="green"> Neue ergänzende Beschreibung</font><br>
+ Exkl. Text des Exklusivum zu löschender Text im Exklusivum (MM.MM.-) <font color="red">~~zu löschender Text im Exklusivum~~</font> (MM.MM.-)
 {{</markdown>}}
 {{</codeEntry>}}
 <br>
-In der Tabelle wird dies wie folgt angegeben. Die Tabelle enthält die Gegenüberstellung der Korrektur in den drei Sprachen. Hier wird nur der Auszug für die deutschsprachige Version wiedergegeben. 
 <br>
+In der Tabelle wird dies wie folgt angegeben. Die Tabelle enthält die Gegenüberstellung der Korrektur in den drei Sprachen. Hier wird nur der Auszug für die deutschsprachige Version wiedergegeben. 
 <br>
 <table class="MsoTableGrid" style="width: 736.5pt; border-collapse: collapse; border: none; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" border="1" width="982" cellspacing="0" cellpadding="0">
 <tbody>
