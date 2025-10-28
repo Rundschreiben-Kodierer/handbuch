@@ -315,12 +315,12 @@ Zuvor wurde im Kapitel 3, Zusatzinformationen, in der PDF-Datei des Rundschreibe
   
 *Kurzer einführender Text zum Unterregister.*
   
-**NN.NN.NN	Kode-Titel**<br>
-
-{{<markdown>}}Legende: <font color="green">            Neue ergänzende Beschreibung</font><br>
-  
-                   Exkl. Text des Exklusivum zu löschender Text im Exklusivum (MM.MM.-)<font color="red">~~zu löschender Text im Exklusivum~~</font>(MM.MM.-)
-  {{</markdown>}}
-
+{{<codeEntry level="1" title="NN.NN.NN">}}
+{{<markdown>}}
+<strong>Kode-Titel</strong>
+<font color="green">Neue ergänzende Beschreibung</font>
+Exkl. Text des Exklusivum zu löschender Text im Exklusivum (MM.MM.-)<font color="red">~~zu löschender Text im Exklusivum~~</font>(MM.MM.-)
+{{</markdown>}}
+{{</codeEntry>}}
 
 In der Tabelle wird dies wie folgt angegeben. Die Tabelle enthält die Gegenüberstellung der Korrektur in den drei Sprachen. Hier wird nur der Auszug für die deutschsprachige Version wiedergegeben. 
