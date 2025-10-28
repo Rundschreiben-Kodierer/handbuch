@@ -13,4 +13,4 @@ Die nachfolgenden Aktualisierungen des Registers **«Kodierungshandbuch»** sind
   
 {{<markdown>}}Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Löschungen in rot~~</font>
   
- {{</markdown>}}
+{{</markdown>}}

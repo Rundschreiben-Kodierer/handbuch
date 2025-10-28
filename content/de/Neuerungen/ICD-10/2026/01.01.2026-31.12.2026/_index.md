@@ -13,4 +13,4 @@ Die nachfolgenden Aktualisierungen des Registers **«ICD-10-GM»** sind ab dem 0
   
 {{<markdown>}}Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Löschungen in rot~~</font>
   
- {{</markdown>}}
+{{</markdown>}}

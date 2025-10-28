@@ -13,4 +13,4 @@ Die nachfolgenden Aktualisierungen des Registers **«Allgemeine Informationen»*
   
 {{<markdown>}}Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Löschungen in rot~~</font>
   
- {{</markdown>}}
+{{</markdown>}}
