@@ -1,14 +1,14 @@
 ---
-title: "Rundschreiben 2024 / 1"
+title: "Rundschreiben 2022 / 1"
 slug: introduction
 description: ""
 keywords: []
-weight: 108
+weight: 104
 type: docs
 ---
 
 
-Willkomen bei Rundschreiben-Kodierer-Handbuch 2024 Nr 1
+Willkomen bei Rundschreiben-Kodierer-Handbuch 2022 Nr 1
   
 **Anzuwenden bei Fällen mit Austrittsdatum ab 01.01.2024**
   

@@ -1,14 +1,14 @@
 ---
-title: "Rundschreiben 2023 / 2"
+title: "Rundschreiben 2020 / 2"
 slug: introduction
 description: ""
 keywords: []
-weight: 107
+weight: 101
 type: docs
 ---
 
 
-Willkomen bei Rundschreiben-Kodierer-Handbuch 2023 Nr 2
+Willkomen bei Rundschreiben-Kodierer-Handbuch 2020 Nr 2
   
 **Anzuwenden bei Fällen mit Austrittsdatum ab 01.07.2023**
   
