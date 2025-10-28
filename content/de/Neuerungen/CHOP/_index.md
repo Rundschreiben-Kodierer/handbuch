@@ -315,12 +315,164 @@ Zuvor wurde im Kapitel 3, Zusatzinformationen, in der PDF-Datei des Rundschreibe
   
 *Kurzer einführender Text zum Unterregister.*
   
-{{<codeEntry level="1" title="NN.NN.NN   ">}}
+{{<codeEntry level="1" title="<strong>NN.NN.NN   </strong>">}}
 {{<markdown>}}
 <strong>Kode-Titel</strong><br>
-<font color="green">   Neue ergänzende Beschreibung</font><br>
-   Exkl. Text des Exklusivum zu löschender Text im Exklusivum (MM.MM.-)<font color="red">~~zu löschender Text im Exklusivum~~</font>(MM.MM.-)
+<font color="green">Neue ergänzende Beschreibung</font><br>
+Exkl. Text des Exklusivum zu löschender Text im Exklusivum (MM.MM.-) <font color="red">~~zu löschender Text im Exklusivum~~</font> (MM.MM.-)
 {{</markdown>}}
 {{</codeEntry>}}
-
+<br>
 In der Tabelle wird dies wie folgt angegeben. Die Tabelle enthält die Gegenüberstellung der Korrektur in den drei Sprachen. Hier wird nur der Auszug für die deutschsprachige Version wiedergegeben. 
+<br>
+<br>
+<table class="MsoTableGrid" style="width: 736.5pt; border-collapse: collapse; border: none; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" border="1" width="982" cellspacing="0" cellpadding="0">
+<tbody>
+<tr style="mso-yfti-irow: 0; mso-yfti-firstrow: yes; height: 53.8pt;">
+<td style="width: 74.35pt; border: solid windowtext 1.0pt; mso-border-alt: solid windowtext .5pt; background: #F4B084; padding: 0cm 5.4pt 0cm 5.4pt; height: 53.8pt;" valign="top" width="99">
+<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><strong><span lang="DE-CH" style="color: black; mso-color-alt: windowtext; mso-fareast-language: DE-CH;">Date and subregister number</span></strong></p>
+</td>
+<td style="width: 65.65pt; border: solid windowtext 1.0pt; border-left: none; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; background: #F4B084; padding: 0cm 5.4pt 0cm 5.4pt; height: 53.8pt;" valign="top" width="88">
+<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><strong><span lang="EN-GB" style="color: black; mso-color-alt: windowtext; mso-ansi-language: EN-GB; mso-fareast-language: DE-CH;">Line number for the subregister</span></strong></p>
+</td>
+<td style="width: 65.95pt; border: solid windowtext 1.0pt; border-left: none; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; background: #F4B084; padding: 0cm 5.4pt 0cm 5.4pt; height: 53.8pt;" valign="top" width="88">
+<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><strong><span lang="DE-CH" style="color: black; mso-color-alt: windowtext; mso-fareast-language: DE-CH;">nbchar</span></strong></p>
+</td>
+<td style="width: 69.9pt; border: solid windowtext 1.0pt; border-left: none; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; background: #F6ED75; mso-background-themecolor: accent3; mso-background-themetint: 153; padding: 0cm 5.4pt 0cm 5.4pt; height: 53.8pt;" valign="top" width="93">
+<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><strong><span lang="DE-CH" style="color: black; mso-color-alt: windowtext; mso-fareast-language: DE-CH;">Modification DE</span></strong></p>
+</td>
+<td style="width: 71.25pt; border: solid windowtext 1.0pt; border-left: none; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; background: #F4B084; padding: 0cm 5.4pt 0cm 5.4pt; height: 53.8pt;" valign="top" width="95">
+<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><strong><span lang="DE-CH" style="color: black; mso-color-alt: windowtext; mso-fareast-language: DE-CH;">Zcode</span></strong></p>
+</td>
+<td style="width: 67.4pt; border: solid windowtext 1.0pt; border-left: none; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; background: #F4B084; padding: 0cm 5.4pt 0cm 5.4pt; height: 53.8pt;" valign="top" width="90">
+<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><strong><span lang="DE-CH" style="color: black; mso-color-alt: windowtext; mso-fareast-language: DE-CH;">Item / Subregister number</span></strong></p>
+</td>
+<td style="width: 116.85pt; border: solid windowtext 1.0pt; border-left: none; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; background: #F6ED75; mso-background-themecolor: accent3; mso-background-themetint: 153; padding: 0cm 5.4pt 0cm 5.4pt; height: 53.8pt;" valign="top" width="156">
+<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><strong><span lang="DE-CH" style="color: black; mso-color-alt: windowtext; mso-fareast-language: DE-CH;">Text DE</span></strong></p>
+</td>
+<td style="width: 110.3pt; border: solid windowtext 1.0pt; border-left: none; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; background: #F6ED75; mso-background-themecolor: accent3; mso-background-themetint: 153; padding: 0cm 5.4pt 0cm 5.4pt; height: 53.8pt;" valign="top" width="147">
+<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><strong><span lang="DE-CH" style="color: black; mso-color-alt: windowtext; mso-fareast-language: DE-CH;">New Text DE</span></strong></p>
+</td>
+<td style="width: 94.85pt; border: solid windowtext 1.0pt; border-left: none; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; background: #F6ED75; mso-background-themecolor: accent3; mso-background-themetint: 153; padding: 0cm 5.4pt 0cm 5.4pt; height: 53.8pt;" valign="top" width="126">
+<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><strong><span lang="DE-CH" style="color: black; mso-color-alt: windowtext; mso-fareast-language: DE-CH;">Comment DE</span></strong></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow: 1; height: 27.65pt;">
+<td style="width: 74.35pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; background: #BFBFBF; mso-background-themecolor: background1; mso-background-themeshade: 191; padding: 0cm 5.4pt 0cm 5.4pt; height: 27.65pt;" valign="top" width="99">
+<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span lang="DE-CH" style="color: black; mso-color-alt: windowtext; mso-fareast-language: DE-CH;">01.01.YYYY-SR1</span></p>
+</td>
+<td style="width: 65.65pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; background: #BFBFBF; mso-background-themecolor: background1; mso-background-themeshade: 191; padding: 0cm 5.4pt 0cm 5.4pt; height: 27.65pt;" valign="top" width="88">
+<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span lang="DE-CH" style="color: black; mso-color-alt: windowtext; mso-fareast-language: DE-CH;">0</span></p>
+</td>
+<td style="width: 65.95pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; background: #BFBFBF; mso-background-themecolor: background1; mso-background-themeshade: 191; padding: 0cm 5.4pt 0cm 5.4pt; height: 27.65pt;" valign="top" width="88">
+<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><strong><span lang="DE-CH" style="mso-fareast-language: DE-CH;">&nbsp;</span></strong></p>
+</td>
+<td style="width: 69.9pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; background: #BFBFBF; mso-background-themecolor: background1; mso-background-themeshade: 191; padding: 0cm 5.4pt 0cm 5.4pt; height: 27.65pt;" valign="top" width="93">
+<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><strong><span lang="DE-CH" style="mso-fareast-language: DE-CH;">&nbsp;</span></strong></p>
+</td>
+<td style="width: 71.25pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; background: #BFBFBF; mso-background-themecolor: background1; mso-background-themeshade: 191; padding: 0cm 5.4pt 0cm 5.4pt; height: 27.65pt;" valign="top" width="95">
+<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span lang="DE-CH" style="mso-fareast-language: DE-CH;">&nbsp;</span></p>
+</td>
+<td style="width: 67.4pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; background: #BFBFBF; mso-background-themecolor: background1; mso-background-themeshade: 191; padding: 0cm 5.4pt 0cm 5.4pt; height: 27.65pt;" valign="top" width="90">
+<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span lang="DE-CH" style="color: black; mso-color-alt: windowtext; mso-fareast-language: DE-CH;">SR1</span></p>
+</td>
+<td style="width: 116.85pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; background: #BFBFBF; mso-background-themecolor: background1; mso-background-themeshade: 191; padding: 0cm 5.4pt 0cm 5.4pt; height: 27.65pt;" valign="top" width="156">
+<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span lang="DE-CH" style="color: black; mso-color-alt: windowtext; mso-fareast-language: DE-CH;">Titel des Unterregisters</span></p>
+</td>
+<td style="width: 110.3pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; background: #BFBFBF; mso-background-themecolor: background1; mso-background-themeshade: 191; padding: 0cm 5.4pt 0cm 5.4pt; height: 27.65pt;" valign="top" width="147">
+<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><strong><span lang="DE-CH" style="mso-fareast-language: DE-CH;">&nbsp;</span></strong></p>
+</td>
+<td style="width: 94.85pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; background: #BFBFBF; mso-background-themecolor: background1; mso-background-themeshade: 191; padding: 0cm 5.4pt 0cm 5.4pt; height: 27.65pt;" valign="top" width="126">
+<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span lang="DE-CH" style="color: black; mso-color-alt: windowtext; mso-fareast-language: DE-CH;">Kurzer einf&uuml;hrender Text zum Unterregister.</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow: 2; height: 27.65pt;">
+<td style="width: 74.35pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 27.65pt;" valign="top" width="99">
+<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><strong><span lang="DE-CH" style="mso-fareast-language: DE-CH;">01.01.YYYY-SR1</span></strong></p>
+</td>
+<td style="width: 65.65pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 27.65pt;" valign="top" width="88">
+<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><strong><span lang="DE-CH" style="mso-fareast-language: DE-CH;">1</span></strong></p>
+</td>
+<td style="width: 65.95pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 27.65pt;" valign="top" width="88">
+<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><strong><span lang="DE-CH" style="mso-fareast-language: DE-CH;">6</span></strong></p>
+</td>
+<td style="width: 69.9pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 27.65pt;" valign="top" width="93">
+<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><strong><span lang="DE-CH" style="mso-fareast-language: DE-CH;">Ignore</span></strong></p>
+</td>
+<td style="width: 71.25pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 27.65pt;" valign="top" width="95">
+<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><strong><span lang="DE-CH" style="mso-fareast-language: DE-CH;">ZNN.NN.NN</span></strong></p>
+</td>
+<td style="width: 67.4pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 27.65pt;" valign="top" width="90">
+<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><strong><span lang="DE-CH" style="mso-fareast-language: DE-CH;">T</span></strong></p>
+</td>
+<td style="width: 116.85pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 27.65pt;" valign="top" width="156">
+<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><strong><span lang="DE-CH" style="mso-fareast-language: DE-CH;">Kode-Titel</span></strong></p>
+</td>
+<td style="width: 110.3pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 27.65pt;" valign="top" width="147">
+<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><strong><span lang="DE-CH" style="mso-fareast-language: DE-CH;">&nbsp;</span></strong></p>
+</td>
+<td style="width: 94.85pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 27.65pt;" valign="top" width="126">
+<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><strong><span lang="DE-CH" style="mso-fareast-language: DE-CH;">&nbsp;</span></strong></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow: 3; height: 40.75pt;">
+<td style="width: 74.35pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 40.75pt;" valign="top" width="99">
+<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span lang="DE-CH" style="color: #00b050; mso-fareast-language: DE-CH;">01.01.YYYY-SR1</span></p>
+</td>
+<td style="width: 65.65pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 40.75pt;" valign="top" width="88">
+<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span lang="DE-CH" style="color: #00b050; mso-fareast-language: DE-CH;">2</span></p>
+</td>
+<td style="width: 65.95pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 40.75pt;" valign="top" width="88">
+<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span lang="DE-CH" style="color: #00b050; mso-fareast-language: DE-CH;">6</span></p>
+</td>
+<td style="width: 69.9pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 40.75pt;" valign="top" width="93">
+<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span lang="DE-CH" style="color: #00b050; mso-fareast-language: DE-CH;">Creation</span></p>
+</td>
+<td style="width: 71.25pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 40.75pt;" valign="top" width="95">
+<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span lang="DE-CH" style="color: #00b050; mso-fareast-language: DE-CH;">ZNN.NN.NN</span></p>
+</td>
+<td style="width: 67.4pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 40.75pt;" valign="top" width="90">
+<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span lang="DE-CH" style="color: #00b050; mso-fareast-language: DE-CH;">B</span></p>
+</td>
+<td style="width: 116.85pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 40.75pt;" valign="top" width="156">
+<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span lang="DE-CH" style="color: #00b050; mso-fareast-language: DE-CH;">&nbsp;</span></p>
+</td>
+<td style="width: 110.3pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 40.75pt;" valign="top" width="147">
+<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span lang="DE-CH" style="color: #00b050; mso-fareast-language: DE-CH;">Neue erg&auml;nzende Beschreibung</span></p>
+</td>
+<td style="width: 94.85pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 40.75pt;" valign="top" width="126">
+<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span lang="DE-CH" style="color: #00b050; mso-fareast-language: DE-CH;">&nbsp;</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow: 4; mso-yfti-lastrow: yes; height: 79.95pt;">
+<td style="width: 74.35pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 79.95pt;" valign="top" width="99">
+<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span lang="DE-CH" style="color: #7030a0; mso-fareast-language: DE-CH;">01.01.YYYY-SR1</span></p>
+</td>
+<td style="width: 65.65pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 79.95pt;" valign="top" width="88">
+<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span lang="DE-CH" style="color: #7030a0; mso-fareast-language: DE-CH;">3</span></p>
+</td>
+<td style="width: 65.95pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 79.95pt;" valign="top" width="88">
+<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span lang="DE-CH" style="color: #7030a0; mso-fareast-language: DE-CH;">6</span></p>
+</td>
+<td style="width: 69.9pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 79.95pt;" valign="top" width="93">
+<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span lang="DE-CH" style="color: #7030a0; mso-fareast-language: DE-CH;">Mutation</span></p>
+</td>
+<td style="width: 71.25pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 79.95pt;" valign="top" width="95">
+<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span lang="DE-CH" style="color: #7030a0; mso-fareast-language: DE-CH;">ZNN.NN.NN</span></p>
+</td>
+<td style="width: 67.4pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 79.95pt;" valign="top" width="90">
+<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span lang="DE-CH" style="color: #7030a0; mso-fareast-language: DE-CH;">X</span></p>
+</td>
+<td style="width: 116.85pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 79.95pt;" valign="top" width="156">
+<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span lang="DE-CH" style="color: #7030a0; mso-fareast-language: DE-CH;">Text des Exklusivum </span><s><span lang="DE-CH" style="color: red; mso-fareast-language: DE-CH;">zu l&ouml;schender Text im Exklusivum</span></s><span lang="DE-CH" style="color: red; mso-fareast-language: DE-CH;"> </span><span lang="DE-CH" style="color: #7030a0; mso-fareast-language: DE-CH;">(MM.MM.-)</span></p>
+</td>
+<td style="width: 110.3pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 79.95pt;" valign="top" width="147">
+<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="color: #7030a0; mso-ansi-language: FR-CH; mso-fareast-language: DE-CH;">Text des Exklusivum (MM.MM.-)</span></p>
+</td>
+<td style="width: 94.85pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 79.95pt;" valign="top" width="126">
+<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="color: #7030a0; mso-ansi-language: FR-CH; mso-fareast-language: DE-CH;">&nbsp;</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
