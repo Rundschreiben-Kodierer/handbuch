@@ -3,7 +3,7 @@ title: "Rundschreiben 2022 / 2"
 slug: introduction
 description: ""
 keywords: []
-weight: 105
+weight: 107
 type: docs
 ---
 

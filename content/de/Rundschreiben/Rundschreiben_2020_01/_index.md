@@ -3,7 +3,7 @@ title: "Rundschreiben 2020 / 1"
 slug: introduction
 description: ""
 keywords: []
-weight: 100
+weight: 112
 type: docs
 ---
 

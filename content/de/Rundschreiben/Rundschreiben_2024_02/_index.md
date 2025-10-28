@@ -3,7 +3,7 @@ title: "Rundschreiben 2024 / 2"
 slug: introduction
 description: ""
 keywords: []
-weight: 109
+weight: 103
 type: docs
 ---
 

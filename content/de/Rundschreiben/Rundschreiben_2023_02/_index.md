@@ -3,7 +3,7 @@ title: "Rundschreiben 2023 / 2"
 slug: introduction
 description: ""
 keywords: []
-weight: 107
+weight: 105
 type: docs
 ---
 
