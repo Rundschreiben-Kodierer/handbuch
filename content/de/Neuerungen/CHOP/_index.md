@@ -315,11 +315,11 @@ Zuvor wurde im Kapitel 3, Zusatzinformationen, in der PDF-Datei des Rundschreibe
   
 *Kurzer einführender Text zum Unterregister.*
   
-{{<codeEntry level="1" title="NN.NN.NN ">}}
+{{<codeEntry level="1" title="NN.NN.NN">}}
 {{<markdown>}}
 <strong> Kode-Titel</strong><br>
-<font color="green"> Neue ergänzende Beschreibung</font><br>
- Exkl. Text des Exklusivum <font color="red">~~zu löschender Text im Exklusivum~~</font> (MM.MM.-)
+<font color="green">" Neue ergänzende Beschreibung"</font><br>
+" Exkl. Text des Exklusivum "<font color="red">~~zu löschender Text im Exklusivum~~</font> (MM.MM.-)
 {{</markdown>}}
 {{</codeEntry>}}
 <br>

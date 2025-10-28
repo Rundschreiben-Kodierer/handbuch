@@ -3,7 +3,7 @@ title: "Rundschreiben 2025 / 2"
 slug: introduction
 description: ""
 keywords: []
-weight: 2502
+weight: 0225
 type: docs
 ---
 
