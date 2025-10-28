@@ -3,7 +3,7 @@ title: Rundschreiben 2026 Nr 1
 slug: introduction
 description: "toto toto "
 keywords: []
-weight: 0
+weight: 202601
 type: docs
 ---
 
