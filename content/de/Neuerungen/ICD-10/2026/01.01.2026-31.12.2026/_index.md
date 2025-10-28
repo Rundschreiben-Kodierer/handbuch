@@ -8,9 +8,6 @@ keywords: []
 ---
 
 <p style="text-align: right;">{{<printButton>}}
-
-
-<p style="text-align: right;">{{<printButton>}}
   
 Die nachfolgenden Aktualisierungen des Registers **«ICD-10-GM»** sind ab dem 01.01.2026 gültig. 
   

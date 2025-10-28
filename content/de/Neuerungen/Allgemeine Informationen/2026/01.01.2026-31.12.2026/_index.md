@@ -8,8 +8,9 @@ keywords: []
 ---
 
 <p style="text-align: right;">{{<printButton>}}
-
-
-{{<markdown>}} 
   
-{{</markdown>}}
+Die nachfolgenden Aktualisierungen des Registers **«Allgemeine Informationen»** sind ab dem 01.01.2026 gültig. 
+  
+{{<markdown>}}Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Löschungen in rot~~</font>
+  
+ {{</markdown>}}
