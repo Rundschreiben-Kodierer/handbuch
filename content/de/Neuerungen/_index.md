@@ -1,7 +1,7 @@
 ---
 title: "Neuerungen und Zusatzinformationen zu den Publikationen"
 slug: Neuerungen
-description: "Neuerungen und Zusatzinformationen zu den Publikationen"
+description: ""
 weight: 1
 type: docs
 keywords: []

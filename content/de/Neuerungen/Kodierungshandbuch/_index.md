@@ -1,7 +1,7 @@
 ---
 title: "Zusatzinformationen zum Kodierungshandbuch"
 slug: KHB2026
-description: Kodierungshandbuch
+description: ""
 weight: 202
 type: docs
 keywords: []
