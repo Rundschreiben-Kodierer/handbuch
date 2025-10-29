@@ -1,7 +1,7 @@
 ---
-title: "KODIERUNGSHANDBUCH 2026"
-slug: 2026
-description: ""
+title: "2026"
+slug: 2026xyz
+description: "KODIERUNGSHANDBUCH 2026"
 weight: 1
 type: docs
 keywords: []
