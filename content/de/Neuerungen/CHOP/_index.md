@@ -70,6 +70,8 @@ In Orange die Spalten, die sprachübergreifend gelten.
 In Gelb die Spalten, die für die deutschsprachige Version gelten.
 In Blau die Spalten, die für die französischsprachige Version gelten.
 In Grün die Spalten, die für die italienischsprachige Version gelten.
+
+
 <table class="MsoTableGrid" style="border-collapse: collapse; border: none; width: 46.1447%;" border="1" cellspacing="0" cellpadding="0">
 <tbody>
 <tr style="mso-yfti-irow: 0; mso-yfti-firstrow: yes;">
