@@ -1,5 +1,5 @@
 ---
-title: "2026"
+title: "ICD-10-GM 2026"
 slug: FAQ
 description: ""
 weight: 1

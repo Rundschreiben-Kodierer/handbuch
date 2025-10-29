@@ -1,5 +1,5 @@
 ---
-title: "2026"
+title: "KODIERUNGSHANDBUCH 2026"
 slug: 2026
 description: ""
 weight: 1
