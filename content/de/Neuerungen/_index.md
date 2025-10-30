@@ -18,7 +18,7 @@ Der Bereich Medizinische Klassifikationen des Bundesamt für Statistik (BFS) heb
   
 Mit der Umstellung der Inhalte auf die Internetseite entfällt das Rundschreiben in seiner bisher bekannten Form. Die Möglichkeit, die Inhalte der Internetseite als PDF-Datei herunterzuladen, wird auch zukünftig bestehen. 
   
-Die bekannten halbjährlichen **Publikationszyklen der bisherigen Rundschreiben Nr. 1** sowie Rundschreiben Nr. 2 bleiben vorerst unverändert bestehen. Die **inhaltliche Gliederung** der Kapitel wird jedoch angepasst. Zukünftig strukturieren sich die Inhalte wie folgt:
+Die bekannten halbjährlichen **Publikationszyklen der bisherigen Rundschreiben Nr. 1 sowie Rundschreiben Nr. 2** bleiben vorerst unverändert bestehen. Die **inhaltliche Gliederung** der Kapitel wird jedoch angepasst. Zukünftig strukturieren sich die Inhalte wie folgt:
 
 
 <ul>  
