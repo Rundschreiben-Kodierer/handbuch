@@ -8,7 +8,7 @@ keywords: []
 ---
 <p style="text-align: right;">{{<printButton>}}
   
-Die im Register **«ALLGEMEINE INFORMATIONEN»** veröffentlichten Aktualisierungen vom **01.01.2026** behalten ihre Gültigkeit. Ausgenommen davon sind nachfolgenden Punkte. 
+Die im Register **«Allgemeine Informationen»** veröffentlichten Aktualisierungen vom **01.01.2026** behalten ihre Gültigkeit. Ausgenommen davon sind nachfolgenden Punkte. 
   
 {{<markdown>}}Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Löschungen in rot~~</font>
   

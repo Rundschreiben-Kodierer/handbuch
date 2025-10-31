@@ -14,7 +14,8 @@ Es dient als zentrale Referenz für Kodiererinnen und Kodierer, indem es die ver
 Dieses Kapitel bietet Hilfestellungen zur Interpretation, zeigt Anwendungsbeispiele für die Kodierrichtlinien und präzisiert spezielle Probleme der Kodierung. 
 Die Inhalte dieses Kapitels werden im Rahmen der halbjährlichen Publikationszyklen fortlaufend aktualisiert.
 ________________________________________
-**Registersystem**
+Registersystem:
+  
 Die Aktualisierungen zum Kodierungshandbuch sind in folgende **Register** unterteilt:
 
 <body>
@@ -33,7 +34,7 @@ Die Aktualisierungen zum Kodierungshandbuch sind in folgende **Register** untert
 </body>
   
 
-**Regelungen zur Gültigkeit und Funktion:**
+Regelungen zur Gültigkeit und Funktion:
   
 Zu jeder Version des Kodierungshandbuchs wird ein Register mit dem Datum des Inkrafttretens angelegt. Darin sind sämtliche unterjährigen Aktualisierungen zur jeweiligen KHB-Version dokumentiert
 Voraussichtlich ist eine Version YYYY des Kodierungshandbuch ein Jahr gültig (im Jahr YYYY).
