@@ -16,7 +16,7 @@ Die Inhalte dieses Kapitels werden im Rahmen der halbjährlichen Publikationszyk
 ________________________________________
 Registersystem:
   
-Die Aktualisierungen zum Kodierungshandbuch sind in folgende **Register** unterteilt:
+Die Aktualisierungen zum Kodierungshandbuch sind in folgende Register unterteilt:
 
 <body>
     <ul>
