@@ -1,6 +1,7 @@
 ---
 title: "01.07.2026"
-slug: 2026bdescription: "Anzuwenden bei Fällen mit Austrittsdatum ab 01.07.2026"
+slug: 2026
+description: "Anzuwenden bei Fällen mit Austrittsdatum ab 01.07.2026"
 weight: 3
 type: docs
 keywords: []
