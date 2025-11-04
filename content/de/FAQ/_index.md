@@ -43,9 +43,9 @@ Die Aktualisierung/Anpassung erfolgt im Halbjahreszyklus jeweils Ende Juni und E
   
 Die Darstellung erfolgt so, dass die jeweils **aktuelle Fassung** zuoberst steht.
 
-{{<markdown>}}Alte, ungültige Versionen werden nachfolgend mit dem Zeitraum der Gültigkeit («von – bis») aufgeführt und in **rot durchgestrichener Schrift** dargestellt.<font color="red">rot durchgestrichener Schrift</font> dargestellt.
+{{<markdown>}}Alte, ungültige Versionen werden nachfolgend mit dem Zeitraum der Gültigkeit («von – bis») aufgeführt und in <font color="red">rot durchgestrichener Schrift</font> dargestellt.
 {{</markdown>}}
-
+<br>
 
 Sämtliche auf der Website des BFS aufgeschalteten FAQ/Klarstellungen behalten in ihrer jeweils gültigen Fassung so lange ihre **Gültigkeit**, bis sie:
   
