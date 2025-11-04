@@ -72,10 +72,10 @@ Wie in den übrigen Kapiteln der Neuerungen und Zusatzinformationen zu den Publi
 {{<markdown>}}
   
 Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Löschungen in rot~~</font>
-  
-  
+<br>  
 {{</markdown>}}
-  
+<br>  
+<br>
 {{<collapsibleGroupCommand groupId="icdfaq">}}
 
 {{<article number="0050"  title="Atelektase der Lunge" collapsibleClass="d-inline-block" groupId="icdfaq">}}
