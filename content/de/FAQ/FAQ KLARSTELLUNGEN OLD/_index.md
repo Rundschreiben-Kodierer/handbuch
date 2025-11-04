@@ -1,8 +1,8 @@
 ---
-title: "FAQ/Klarstellungen"
-slug: FAQKlarstellungen
+title: "FAQ/Klarstellungen OLD"
+slug: FAQKlarstellungenOLD
 description: ""
-weight: 10
+weight: 50
 type: docs
 keywords: []
 ---

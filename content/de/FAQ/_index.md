@@ -1,6 +1,6 @@
 ---
-title: FAQ
-slug: Informationen
+title: FAQ/Klarstellungen
+slug: FAQKlarstellungen
 description: ""
 weight: 440
 type: docs
