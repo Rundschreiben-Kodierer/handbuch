@@ -7,7 +7,7 @@ type: docs
 keywords: []
 ---
 
-{{<printButton>}}
+<p style="text-align: right;">{{<printButton>}}
 
 
 **Einführung des Kapitels «FAQ/Klarstellungen» mit den Neuerungen und Zusatzinformationen zu den Publikationen**

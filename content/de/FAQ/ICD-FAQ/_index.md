@@ -7,10 +7,10 @@ type: docs
 keywords: []
 ---
 
-{{<printButton>}}
+<p style="text-align: right;">{{<printButton>}}
  
 {{<markdown>}}
-  
+<br>  
 Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Löschungen in rot~~</font>
 <br>  
 {{</markdown>}}

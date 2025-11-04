@@ -6,7 +6,7 @@ weight: 50
 type: docs
 keywords: []
 ---
-{{<printButton>}}
+<p style="text-align: right;">{{<printButton>}}
 
 {{<markdown>}}
 

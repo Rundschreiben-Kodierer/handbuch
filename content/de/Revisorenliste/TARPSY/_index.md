@@ -129,7 +129,7 @@ keywords: []
     <td class="tg-ktyi">25.02.2019</td>
   </tr>
   <tr>
-    <td class="tg-0lax" id="f"Flenghi</td>
+    <td class="tg-0lax" id="f">Flenghi</td>
     <td class="tg-ktyi">Olivier</td>
     <td class="tg-ktyi">18, clos duchardon bleu <br>FR-74700 Sallanches</td>
     <td class="tg-z182"><a href="mailto:olivier.flenghi@nicecomputing.ch">olivier.flenghi@nicecomputing.ch</a></td>
