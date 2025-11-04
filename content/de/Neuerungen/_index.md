@@ -64,7 +64,7 @@ Sämtliche Rundschreiben der Jahre 2009 bis einschliesslich 2025 stehen weiterhi
 <a href="https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/nomenklaturen/medkk/instrumente-medizinische-kodierung.html">
 www.bfs.admin.ch – Medizinische Klassifikationen</a>
   
-Durch diese digitale Weiterentwicklung werden die **Aktualisierung** zu den Publikationen nicht nur zeitgemäss und benutzerfreundlich gestaltet, sondern bieten auch zusätzliche Funktionen, die den Arbeitsalltag der Kodiererinnen und Kodierer erleichtern und die Übersichtlichkeit der Inhalte erhöhen.
+Durch diese digitale Weiterentwicklung werden die **Aktualisierungen** zu den Publikationen nicht nur zeitgemäss und benutzerfreundlich gestaltet, sondern bieten auch zusätzliche Funktionen, die den Arbeitsalltag der Kodiererinnen und Kodierer erleichtern und die Übersichtlichkeit der Inhalte erhöhen.
 
 
 {{</markdown>}}

@@ -13,9 +13,12 @@ keywords: []
   
 {{<markdown>}}
   
-Die Liste der schweizerischen Revisorinnen und Revisoren in der medizinischen Kodierung enthält eine **aktuelle Übersicht der vom Bundesamt für Statistik (BFS) anerkannten Fachpersonen**, welche die dazu erforderlichen Voraussetzungen erfüllen und im Bereich der medizinischen Kodierung als Revisorinnen und Revisoren tätig sind. 
+Dem Bundesamt für Statistik (BFS) obliegt es, gestützt auf Ziffer 3 des Reglements für die Durchführung der Kodierrevision unter SwissDRG (seit dem 1. Januar 2012), des Reglements für die Durchführung der Kodierrevision unter TARPSY (seit dem 1. Januar 2018) sowie der Kodierrevision unter ST Reha (fakultativ für Daten ab dem 1. Januar 2021, obligatorisch ab dem 1. Januar 2022), eine fortlaufend aktualisierte Liste der Revisorinnen und Revisoren zu unterhalten.
   
-Die Liste ist in die drei **Tarifstrukturen SwissDRG, TARPSY und ST Reha** unterteilt und umfasst insbesondere folgende Angaben:
+Die Liste der schweizerischen Revisorinnen und Revisoren in der medizinischen Kodierung enthält eine aktuelle Übersicht der vom Bundesamt für Statistik (BFS) anerkannten Fachpersonen, welche die dazu erforderlichen Voraussetzungen erfüllen und im Bereich der medizinischen Kodierung als Revisorinnen und Revisoren tätig sind. 
+  
+Die Liste ist in die drei Tarifstrukturen SwissDRG, TARPSY und ST Reha unterteilt und umfasst insbesondere folgende Angaben:
+  
 <body>
     <ul>
         <li><strong>Name und Vorname</strong> der Revisorin bzw. des Revisors</li>
@@ -25,7 +28,6 @@ Die Liste ist in die drei **Tarifstrukturen SwissDRG, TARPSY und ST Reha** unter
         <li><strong>Status der Anerkennung</strong> (z. B. gültige Zertifizierung oder Akkreditierung)</li>
     </ul>
 </body>
-
 
 Die Veröffentlichung dieser Informationen dient der Transparenz und Nachvollziehbarkeit der Prüf- und Revisionsprozesse im Bereich der medizinischen Kodierung. Sie ermöglicht es Spitälern, Leistungserbringern und weiteren Akteuren im Gesundheitswesen, sich bei Bedarf an die zuständigen Revisorinnen und Revisoren zu wenden.
   
