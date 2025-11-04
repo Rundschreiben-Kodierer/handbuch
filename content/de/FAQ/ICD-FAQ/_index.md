@@ -68,20 +68,17 @@ ________________________________________
 **Kennzeichnung von Anpassungen**
 Wie in den übrigen Kapiteln der Neuerungen und Zusatzinformationen zu den Publikationen, wird auch im Kapitel «FAQ/Klarstellungen» für Anpassungen, Ergänzungen und Streichungen folgende Legende angewendet:
   
-
+  
 {{<markdown>}}
   
 Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Löschungen in rot~~</font>
-
-
+  
+  
 {{</markdown>}}
-
-
-
+  
 {{<collapsibleGroupCommand groupId="icdfaq">}}
 
-{{<article number="0050"  title="Atelektase der Lunge" collapsibleClass="d-inline-block" groupId="iddfaq">}}
-
+{{<article number="0050"  title="Atelektase der Lunge" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
