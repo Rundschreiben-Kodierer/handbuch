@@ -32,7 +32,8 @@ Die Liste ist in die drei Tarifstrukturen SwissDRG, TARPSY und ST Reha unterteil
 Die Veröffentlichung dieser Informationen dient der Transparenz und Nachvollziehbarkeit der Prüf- und Revisionsprozesse im Bereich der medizinischen Kodierung. Sie ermöglicht es Spitälern, Leistungserbringern und weiteren Akteuren im Gesundheitswesen, sich bei Bedarf an die zuständigen Revisorinnen und Revisoren zu wenden.
   
 **Ab dem 01.01.2026 werden die Inhalte der Liste fortlaufend aktualisiert. Die bisher geltenden halbjährlichen Publikationszyklen – jeweils Ende Juni und Ende Dezember – entfallen mit diesem Datum.**
-<br>  
+  
+**Anmeldung**: Alle Personen, die beabsichtigen, Revisionen von Kodierfällen unter SwissDRG, unter TARPSY oder unter ST Reha durchzuführen, sind verpflichtet, beim BFS einen Antrag zur Aufnahme in die Liste der Revisorinnen und Revisoren zu stellen.
 <br>
 Weiterführende Informationen zur Revision von Kodierfällen sowie die nachstehend aufgeführten Dokumente sind unter folgendem Link abrufbar: 
 <body>

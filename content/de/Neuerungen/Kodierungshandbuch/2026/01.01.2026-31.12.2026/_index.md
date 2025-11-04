@@ -13,4 +13,18 @@ Die nachfolgenden Aktualisierungen des Registers **«Kodierungshandbuch»** sind
   
 {{<markdown>}}Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Löschungen in rot~~</font>
   
+
+
+
+**Aktualisierungen KHB_2026_UP_2026_01_01**
+		
+**1.1	G40o Dokumentation der Diagnosen und der Prozeduren**
+Betrifft alle Sprachversionen
+  
+[…]
+Das BFS weist darauf hin, dass es nicht in der Lage ist, anstelle einer Ärztin oder eines Arztes eine Diagnose zu stellen. Es obliegt dem medizinischen ärztlichen Personal zu definieren, welche Eingriffe vorgenommen wurden und die Kodiererinnen und Kodierer darüber zu informieren<font color="green">.</font><font color="red">~~,wobei die Informationen zu den Diagnosen und erfolgten Prozeduren vollständig und schriftlich in den jeweiligen Berichten zur Verfügung gestellt werden müssen.~~</font> 
+[…]
+
+
+
 {{</markdown>}}
