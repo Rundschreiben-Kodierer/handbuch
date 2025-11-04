@@ -1,8 +1,8 @@
 ---
-title: "FAQ/Klarstellungen"
-slug: FAQKlarstellungen
+title: "CHOP-FAQ"
+slug: CHOPFAQ
 description: ""
-weight: 10
+weight: 20
 type: docs
 keywords: []
 ---

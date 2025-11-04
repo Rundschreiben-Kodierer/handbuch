@@ -2,7 +2,7 @@
 title: "FAQ/Klarstellungen"
 slug: FAQKlarstellungen
 description: ""
-weight: 30
+weight: 10
 type: docs
 keywords: []
 ---

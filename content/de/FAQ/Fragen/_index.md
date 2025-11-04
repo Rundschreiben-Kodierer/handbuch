@@ -1,8 +1,8 @@
 ---
-title: "FAQ/Klarstellungen"
-slug: FAQ/Klarstellungen
+title: "ICD-FAQ"
+slug: ICDFAQ
 description: ""
-weight: 20
+weight: 30
 type: docs
 keywords: []
 ---
