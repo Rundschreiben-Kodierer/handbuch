@@ -8,16 +8,6 @@ keywords: []
 ---
 <p style="text-align: right;">{{<printButton>}}
 
-{{<markdown>}}
-Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Löschungen in rot~~</font>
-  
-Die Zusatzinformationen zum Kodierungshandbuch 2024, aus dem Rundschreiben 2024 Nr.1, sind weiterhin gültig
-{{</markdown>}}
-
-
-
-
-
 
 Das Kapitel «CHOP» enthält die unterjährigen Aktualisierungen zur angegebenen Jahresversion der schweizerischen Operationsklassifikation (CHOP). Unter Aktualisierungen versteht man Anpassungen und Korrekturen der im Juli auf Deutsch und im Oktober auf Französisch und Italienisch publizierten CHOP-Version.
   
