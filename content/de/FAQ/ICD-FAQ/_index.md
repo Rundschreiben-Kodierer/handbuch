@@ -9,13 +9,8 @@ keywords: []
 
 <p style="text-align: right;">{{<printButton>}}
 <br> 
-{{<markdown>}}
+{{<markdown>}}Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Löschungen in rot~~</font> {{</markdown>}}
 
-{{<markdown>}}Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Löschungen in rot~~</font>
-
-
-<br>  
-{{</markdown>}}
 <br>  
 <br>
 {{<collapsibleGroupCommand groupId="icdfaq">}}
