@@ -19,6 +19,7 @@ Die nachfolgenden Aktualisierungen des Registers **«Kodierungshandbuch»** sind
 **Aktualisierungen KHB_2026_UP_2026_01_01**
 		
 **1.1	G40o Dokumentation der Diagnosen und der Prozeduren**
+  
 Betrifft alle Sprachversionen
   
 […]
