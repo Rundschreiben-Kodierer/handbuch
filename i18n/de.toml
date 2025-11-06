@@ -23,7 +23,8 @@ other = "Klicken Sie hier, um alle zu erweitern/reduzieren"
 [print_button_text]
 other = "Drucken"
 [project_title]
-other = ""Aktualisierungen zu den Publikationenen der Medizinischen Klassificationen des BFS"
+other = "Aktualisierungen zu den Publikationenen der Medizinischen Klassificationen des BFS"
+
 [dfi]
 other = "Eidgenössische Departement des Innern EDI"
 [bfs]
