@@ -1,5 +1,5 @@
 ---
-title: "Aktualisierung zum Kodierungshandbuch"
+title: "Aktualisierungen zum Kodierungshandbuch"
 slug: KHB2026
 description: ""
 weight: 202

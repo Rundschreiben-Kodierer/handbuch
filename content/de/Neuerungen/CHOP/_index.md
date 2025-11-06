@@ -1,5 +1,5 @@
 ---
-title: "Aktualisierung zur CHOP"
+title: "Aktualisierungen zur CHOP"
 slug: KHB2026
 description: ""
 weight: 303
@@ -54,12 +54,12 @@ Zum Beginn jedes Unterregisters befindet sich eine Zeile mit folgenden Angaben i
   </li>
 </ul>
 Diese Zeile ist zur besseren Abgrenzung der Abschnitte farblich markiert.
-
+  
 Folgende Spalten befinden sich in der Tabelle:
-In Orange die Spalten, die sprachübergreifend gelten.
-In Gelb die Spalten, die für die deutschsprachige Version gelten.
-In Blau die Spalten, die für die französischsprachige Version gelten.
-In Grün die Spalten, die für die italienischsprachige Version gelten.
+- In Orange die Spalten, die sprachübergreifend gelten.
+- In Gelb die Spalten, die für die deutschsprachige Version gelten.
+- In Blau die Spalten, die für die französischsprachige Version gelten.
+- In Grün die Spalten, die für die italienischsprachige Version gelten.
 
 
 <table class="MsoTableGrid" style="border-collapse: collapse; border: none; width: 46.1447%;" border="1" cellspacing="0" cellpadding="0">
