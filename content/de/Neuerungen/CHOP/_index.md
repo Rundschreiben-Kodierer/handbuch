@@ -56,7 +56,7 @@ Zum Beginn jedes Unterregisters befindet sich eine Zeile mit folgenden Angaben i
   </li>
 </ul>
 Diese Zeile ist zur besseren Abgrenzung der Abschnitte farblich markiert.
- <br> 
+ <br>
 Folgende Spalten befinden sich in der Tabelle:
 - In Orange die Spalten, die sprachübergreifend gelten.
 - In Gelb die Spalten, die für die deutschsprachige Version gelten.
