@@ -8,9 +8,9 @@ keywords: []
 ---
 
 <p style="text-align: right;">{{<printButton>}}
-<br>  
 
-   
+<p style="text-align: left;">{{<printButton>}}
+
 {{<markdown>}}Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Löschungen in rot~~</font> {{</markdown>}}
 
 <br>  

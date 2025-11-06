@@ -56,7 +56,7 @@ anchor = "smart"
   contentDir = "content/de"
   weight = 1
  [languages.de.params]
-  title = "Handbuch Rundschreiben Kodierer"
+  title = "Aktualisierungen zu den Publikationenen der Medizinischen Klassificationen des BFS"
   description = "Anleitungen und Informationen zur Rundschreiben Kodierer"
 
  [languages.fr]
