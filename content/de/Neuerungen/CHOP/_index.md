@@ -29,6 +29,7 @@ Je Version können somit folgende Register vorkommen:
         </li>
     </ul>
 </body>
+<p style="text-align: left;">
 Das Datum gibt jeweils den Beginn der Gültigkeit an. Eine Anpassung / Korrektur zu einem Zeitpunkt X kann in seltenen Fällen 
 zu einem späteren Zeitpunkt Z einer weiteren Anpassung unterliegen. 
 Bitte beachten Sie in der zweiten Jahreshälfte beide Register. 
