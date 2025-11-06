@@ -29,7 +29,9 @@ Je Version können somit folgende Register vorkommen:
         </li>
     </ul>
 </body>
-Das Datum gibt jeweils den Beginn der Gültigkeit an. Eine Anpassung / Korrektur zu einem Zeitpunkt X kann in seltenen Fällen zu einem späteren Zeitpunkt Z einer weiteren Anpassung unterliegen. Bitte beachten Sie in der zweiten Jahreshälfte beide Register. 
+Das Datum gibt jeweils den Beginn der Gültigkeit an. Eine Anpassung / Korrektur zu einem Zeitpunkt X kann in seltenen Fällen 
+zu einem späteren Zeitpunkt Z einer weiteren Anpassung unterliegen. 
+Bitte beachten Sie in der zweiten Jahreshälfte beide Register. 
   
 Die angegebenen Anpassungen und Korrekturen zu einer Version (z. B. CHOP 2026) werden in der darauffolgenden Version der CHOP (z. B. CHOP 2027) übernommen oder entfallen aufgrund einer Weiterentwicklung der Klassifikation im entsprechenden Klassifikationsabschnitt.
   
@@ -54,7 +56,7 @@ Zum Beginn jedes Unterregisters befindet sich eine Zeile mit folgenden Angaben i
   </li>
 </ul>
 Diese Zeile ist zur besseren Abgrenzung der Abschnitte farblich markiert.
-  
+ <br> 
 Folgende Spalten befinden sich in der Tabelle:
 - In Orange die Spalten, die sprachübergreifend gelten.
 - In Gelb die Spalten, die für die deutschsprachige Version gelten.
