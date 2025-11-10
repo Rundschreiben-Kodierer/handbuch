@@ -60,6 +60,7 @@ Damit ist der Werdegang einer jeden FAQ/Klarstellung jederzeit transparent nachv
 ________________________________________
 
 **Nummerierungssystem**
+  
 Die FAQ/Klarstellungen sind chronologisch aufsteigend nummeriert. Sowohl für die ICD-FAQ, wie auch die CHOP-FAQ wird jeweils die folgende Nummerierung verwendet :
   
 •	**0001 – 9999**
@@ -69,6 +70,7 @@ Die bisherige Nummerierung des Kapitels 5 «Anhang» wird nicht fortgeführt. Be
 ________________________________________
   
 **Kennzeichnung von Anpassungen**
+  
 Wie in den übrigen Kapiteln der Aktualisierungen zu den Publikationen, wird auch im Kapitel «FAQ/Klarstellungen» für Anpassungen, Ergänzungen und Streichungen folgende Legende angewendet:
   
 
