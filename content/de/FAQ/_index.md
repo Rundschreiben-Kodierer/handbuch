@@ -17,7 +17,7 @@ Dieses Kapitel ersetzt das bisherige Kapitel 5 «Anhang».
 Die Inhalte des bisherigen Kapitels 5 «Anhang» wurden in das neue Kapitel «FAQ/Klarstellungen» migriert.
   
 Das Kapitel bietet praxisorientierte Unterstützung bei allgemeinen und spezifischen Fragen rund um die Kodierung.
-Die Inhalte des Kapitels «FAQ/Klarstellungen» werden im Rahmen der halbjährlichen Publikationszyklen – jeweils Ende Juni und Ende Dezember – zusammen mit den Neuerungen und Zusatzinformationen zu den Publikationen aktualisiert.
+Die Inhalte des Kapitels «FAQ/Klarstellungen» werden im Rahmen der halbjährlichen Publikationszyklen – jeweils Ende Juni und Mitte Dezember – zusammen mit den Neuerungen und Zusatzinformationen zu den Publikationen aktualisiert.
   
 Die FAQ/Klarstellungen leiten sich aus (wiederholten) Anfragen an das Kodierungssekretariat zu einem spezifischen oder allgemeinen Sachverhalt sowie aus Einzelfallbeurteilungen und Diskussionen innerhalb der Fachgremien ab.
 ________________________________________

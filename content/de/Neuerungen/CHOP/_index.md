@@ -175,7 +175,7 @@ Folgende Spalten befinden sich in der Tabelle:
 </td>
 <td style="width: 66.6655%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
 <p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 1.0pt 0cm;"><span lang="DE-CH" style="mso-fareast-language: DE-CH;">Angabe f&uuml;r die Seitigkeit:</span></p>
-<p class="MsoListParagraph" style="mso-add-space: auto; text-indent: -18.0pt; line-height: normal; mso-list: l2 level1 lfo3; margin: 1.0pt 0cm 1.0pt 36.0pt;"><!-- [if !supportLists]--><span lang="DE-CH" style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;">&middot;<span style="font: 7.0pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="DE-CH" style="mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-latin;">Y (= Yes): Die Lateralit&auml;t ist f&uuml;r diesen Eingriff anzugeben</span></p>
+<p class="MsoListParagraph" style="mso-add-space: auto; text-indent: -18.0pt; line-height: normal; mso-list: l2 level1 lfo3; margin: 1.0pt 0cm 1.0pt 36.0pt;"><!-- [if !supportLists]--><span lang="DE-CH" style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;">&middot;<span style="font: 7.0pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="DE-CH" style="mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-latin;">Y (= Yes): Die Seitigkeit ist f&uuml;r diesen Eingriff anzugeben</span></p>
 <p class="MsoBodyText" style="text-indent: -18.0pt; line-height: normal; mso-list: l2 level1 lfo3; margin: 1.0pt 0cm 1.0pt 36.0pt;"><!-- [if !supportLists]--><span lang="DE-CH" style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;">&middot;<span style="font: 7.0pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="DE-CH" style="mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-latin;">N (= No): Die Angabe der Seitigkeit muss nicht, aber kann angegeben werden.</span></p>
 <p class="MsoBodyText" style="line-height: normal; margin: 1.0pt 0cm 1.0pt 0cm;"><span lang="DE-CH" style="mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-latin;">Diese Information ist nur f&uuml;r Zeilen vom Item-Typ &laquo;T&raquo; relevant.</span></p>
 </td>
@@ -304,7 +304,7 @@ Zuvor wurde im Kapitel 3, Zusatzinformationen, in der PDF-Datei des Rundschreibe
 {{<markdown>}}
 <strong> Kode-Titel</strong><br>
 <font color="green">Neue ergänzende Beschreibung</font><br>
-Exkl. Text des Exklusivum<font color="red">~~zu löschender Text im Exklusivum~~</font> (MM.MM.-)
+Exkl. Text des Exklusivum<font color="red">zu löschender Text im Exklusivum</font> (MM.MM.-)
 {{</markdown>}}
 {{</codeEntry>}}
 <br>
