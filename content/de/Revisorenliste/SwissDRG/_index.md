@@ -94,7 +94,31 @@ keywords: []
 
 <tbody>
   <tr>
-    <td class="tg-0lax" id="a">Aggeler</td>
+    <td class="tg-0lax" id="a">Abram Chabriel</td>
+    <td class="tg-ktyi">Isabelle</td>
+    <td class="tg-ktyi">Direction des Finances (DF)<br>Service documentation médicale et codage (DMC)<br>Bat les Erables – 2 Chemin du petit bel-air<br>1225 Chene Bourg</td>
+    <td class="tg-v47d"><a href="mailto:isabelle.abram@hug.ch">isabelle.abram@hug.ch</a></td>
+    <td class="tg-ktyi">079 553 74 84</dh>
+    <td class="tg-ktyi">Français</td>
+    <td class="tg-0lax">Confirmé //bestätigt</td>
+    <td class="tg-ktyi">Suisse romande</td>
+    <td class="tg-ktyi">Confirmé //bestätigt</td>
+    <td class="tg-ktyi">21.10.2025</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Aeschimann</td>
+    <td class="tg-ktyi">Aglaja</td>
+    <td class="tg-ktyi">Aarmühlestrasse 13<br>3800 Interlaken</td>
+    <td class="tg-v47d"><a href="mailto:aglaja.aeschimann@nicecomputing.ch">aglaja.aeschimann@nicecomputing.ch</a></td>
+    <td class="tg-ktyi">078 718 93 94</dh>
+    <td class="tg-ktyi">Deutsch</td>
+    <td class="tg-0lax">Confirmé //bestätigt</td>
+    <td class="tg-ktyi"></td>
+    <td class="tg-ktyi">Confirmé //bestätigt</td>
+    <td class="tg-ktyi">11.11.2025</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Aggeler</td>
     <td class="tg-ktyi">Brigitta </td>
     <td class="tg-ktyi">St. Gallerstrasse 20<br>8853 Lachen SZ </td>
     <td class="tg-v47d"><a href="mailto:aggeler@medizincontrolling.ch">aggeler@medizincontrolling.ch</a></td>
@@ -250,6 +274,18 @@ keywords: []
     <td class="tg-ktyi">24.03.2021</td>
   </tr>
   <tr>
+    <td class="tg-0lax">Chevalier</td>
+    <td class="tg-ktyi">Johanne</td>
+    <td class="tg-ktyi">Rue du Village 6<br>1081 Montpreveyres</td>
+    <td class="tg-v47d"><a href="mailto:johanne.chevalier@chuv.ch">johanne.chevalier@chuv.ch</a></td>
+    <td class="tg-ktyi">076 320 68 51</td>
+    <td class="tg-ktyi">Français</td>
+    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Suisse romande</td>
+    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">21.10.2025</td>
+  </tr>
+  <tr>
     <td class="tg-0lax" id="d">De Tella Gomes <br>Cavalheiro </td>
     <td class="tg-ktyi">Valeria</td>
     <td class="tg-ktyi">Pilatusstrasse 22<br>8330 Pfäffikon</td>
@@ -320,6 +356,18 @@ keywords: []
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Confirmé // bestätigt</td>
     <td class="tg-ktyi">08.06.2017</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" id="e">Ehbrecht Fux</td>
+    <td class="tg-ktyi">Daniela</td>
+    <td class="tg-ktyi">Galliweg 65C<br>4852 Rothrist</td>
+    <td class="tg-v47d"><a href="mailto:daniela.ehbrecht@gmx.de">daniela.ehbrecht@gmx.de</a></td>
+    <td class="tg-ktyi">078 675 68 09</td>
+    <td class="tg-ktyi">Deutsch</td>
+    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Ganze Schweiz</td>
+    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">11.11.2025</td>
   </tr>
   <tr>
     <td class="tg-0lax">Emrulai</td>
@@ -790,6 +838,18 @@ keywords: []
     <td class="tg-ktyi">11.04.2018</td>
   </tr>
   <tr>
+    <td class="tg-0lax">Linhard</td>
+    <td class="tg-ktyi">Sandrine</td>
+    <td class="tg-ktyi">HUG Direction des finances<br>les Erables-Belle-idée<br>2, ch. Petit-Bel-Air<br>1226 Thônex</td>
+    <td class="tg-v47d"><a href="mailto:sandrine.linhard@hug.ch">sandrine.linhard@hug.ch</a></td>
+    <td class="tg-ktyi">022 305 58 98</td>
+    <td class="tg-ktyi">Français</td>
+    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Suisse romande</td>
+    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">11.11.2025</td>
+  </tr>
+  <tr>
     <td class="tg-0lax">Lipaj</td>
     <td class="tg-ktyi">Gani</td>
     <td class="tg-ktyi">Melchrütistr.17<br>8304 Wallisellen</td>
@@ -1054,6 +1114,18 @@ keywords: []
     <td class="tg-ktyi">26.11.2018</td>
   </tr>
   <tr>
+    <td class="tg-0lax">Roggen Deppensaz</td>
+    <td class="tg-ktyi">Nadja</td>
+    <td class="tg-ktyi">Rte de St Cergue 103<br>1260 Nyon</td>
+    <td class="tg-v47d"><a href="mailto:Nadja.RoggenDepensaz@hug.ch">Nadja.RoggenDepensaz@hug.ch</a><br><a href="mailto:Nadja.RoggenDepensaz@hug.ch">Nadja.RoggenDepensaz@hug.ch</a></td>
+    <td class="tg-ktyi">078 815 46 46</td>
+    <td class="tg-ktyi">Français</td>
+    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Suisse romande</td>
+    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">21.10.2025</td>
+  </tr>
+  <tr>
     <td class="tg-0lax">Rohner</td>
     <td class="tg-ktyi">Carolina</td>
     <td class="tg-ktyi">Spiracher 22<br>5225 Bözberg</td>
@@ -1244,6 +1316,18 @@ keywords: []
     <td class="tg-0lax">Ganze Schweiz</td>
     <td class="tg-0lax">Confirmé // bestätigt</td>
     <td class="tg-0lax">20.11.2019</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Wirth</td>
+    <td class="tg-0lax">François</td>
+    <td class="tg-0lax">Ch. de l`Eglise 2<br>1059 Peney-le-Jorat</td>
+    <td class="tg-yk8o"><a href="mailto:wirth.francois@gmail.com">wirth.francois@gmail.com</a></td>
+    <td class="tg-0lax">079 917 28 20</td>
+    <td class="tg-0lax">Français</td>
+    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-0lax">Suisse romande</td>
+    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-0lax">11.11.2025</td>
   </tr>
   <tr>
     <td class="tg-0lax" id="z">Zbinden </td>

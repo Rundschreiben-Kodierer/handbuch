@@ -127,8 +127,22 @@ keywords: []
     <td class="tg-ktyi">Deutschschweiz </td>
     <td class="tg-ktyi">Confirmé // bestätigt</td>
     <td class="tg-ktyi">29.11.2023</td>
-  </tr>
-  <tr>
+ </tr>
+    <tr>
+    <td class="tg-0lax">Chevalier</td>
+    <td class="tg-ktyi">Johanne</td>
+    <td class="tg-ktyi">Rue du Village 6<br>1081 Montpreveyres</td>
+    <td class="tg-v47d"><a href="mailto:johanne.chevalier@chuv.ch">johanne.chevalier@chuv.ch</a></td>
+    <td class="tg-ktyi">076 320 68 51</td>
+    <td class="tg-ktyi">Français</td>
+    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Oui</td>
+    <td class="tg-ktyi">Oui</td>
+    <td class="tg-ktyi">Suisse romande</td>
+    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">21.10.2025</td>
+ </tr>
+<tr>
     <td class="tg-ktyi" id="d">Di Falco</td>
     <td class="tg-ktyi">Calogero</td>
     <td class="tg-ktyi">DRG Swiss<br>Bahnhofstr. 32<br>8803 Rüschlikon<br></td>
@@ -143,6 +157,20 @@ keywords: []
     <td class="tg-ktyi">22.04.2022</td>
   </tr>
   <tr>
+    <td class="tg-0lax" id="e">Ehbrecht Fux</td>
+    <td class="tg-ktyi">Daniela</td>
+    <td class="tg-ktyi">Galliweg 65C<br>4852 Rothrist</td>
+    <td class="tg-v47d"><a href="mailto:daniela.ehbrecht@gmx.de">daniela.ehbrecht@gmx.de</a></td>
+    <td class="tg-ktyi">078 675 68 09</td>
+    <td class="tg-ktyi">Deutsch</td>
+    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Oui</td>
+    <td class="tg-ktyi">Oui</td>
+    <td class="tg-ktyi">Deutschschweiz</td>
+    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">11.11.2025</td>
+</tr>
+<tr>
     <td class="tg-0lax" id="f">Flenghi</td>
     <td class="tg-ktyi">Olivier</td>
     <td class="tg-ktyi">18, clos duchardon bleu <br>FR-74700 Sallanches</td>

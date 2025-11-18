@@ -100,6 +100,20 @@ keywords: []
 
 <tbody>
   <tr>
+    <td class="tg-0lax" id="a">Aeschimann </td>
+    <td class="tg-ktyi">Aglaja</td>
+    <td class="tg-ktyi">Aarmühlestrasse 13<br>3800 Interlaken</td>
+    <td class="tg-v47d"><a href="mailto:aglaja.aeschimann@nicecomputing.ch">aglaja.aeschimann@nicecomputing.ch</a></td>
+    <td class="tg-ktyi">078 718 93 94 /dh>
+    <td class="tg-ktyi">Deutsch</td>
+    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Oui</td>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi">Deutschschweiz </td>
+    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">11.11.2025</td>
+  </tr>
+  <tr>
     <td class="tg-ktyi" id="a">Andermatt</td>
     <td class="tg-ktyi">Susanne</td>
     <td class="tg-ktyi">Gassenacker 4<br>8197 Ratz</td>
@@ -127,6 +141,20 @@ keywords: []
     <td class="tg-ktyi">Ganze Schweiz</td>
     <td class="tg-ktyi">Confirmé // bestätigt</td>
     <td class="tg-ktyi">25.02.2019</td>
+  </tr>
+    <tr>
+    <td class="tg-0lax">Chevalier</td>
+    <td class="tg-ktyi">Johanne</td>
+    <td class="tg-ktyi">Rue du Village 6<br>1081 Montpreveyres</td>
+    <td class="tg-v47d"><a href="mailto:johanne.chevalier@chuv.ch">johanne.chevalier@chuv.ch</a></td>
+    <td class="tg-ktyi">076 320 68 51</td>
+    <td class="tg-ktyi">Français</td>
+    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-0lax">Oui</td>
+    <td class="tg-0lax">Oui</td>
+    <td class="tg-ktyi">Suisse romande</td>
+    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">21.10.2025</td>
   </tr>
   <tr>
     <td class="tg-0lax" id="f">Flenghi</td>
