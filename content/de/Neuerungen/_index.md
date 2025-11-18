@@ -1,5 +1,5 @@
 ---
-title: "Neuerungen und Zusatzinformationen zu den Publikationen"
+title: "Aktualisierungen zu den Publikationen"
 slug: Neuerungen
 description: ""
 weight: 1
@@ -7,9 +7,7 @@ type: docs
 keywords: []
 ---
 
-
 <p style="text-align: right;">{{<printButton>}}
-
 
 {{<markdown>}}
 **Information zur Umstellung der Publikation des Rundschreibens für Kodiererinnen und Kodierer**
