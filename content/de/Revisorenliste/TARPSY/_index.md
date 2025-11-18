@@ -244,7 +244,7 @@ keywords: []
     <td class="tg-0lax">Griener</td>
     <td class="tg-ktyi">Katia</td>
     <td class="tg-ktyi">Schlossstrasse 33a<br>DE-79541 Lörrach</td>
-    <td class="tg-z182"><a href="mailto:katia.griener@nicecomputing.ch">katia.griener@nicecomputing.ch</a></td>
+    <td class="tg-z182"><a href="mailto:katia.griener@gmx.de">katia.griener@gmx.de</a></td>
     <td class="tg-ktyi">0049 762 15 57 33</td>
     <td class="tg-ktyi">Deutsch</td>
     <td class="tg-0lax">Confirmé // bestätigt</td>
@@ -589,20 +589,6 @@ keywords: []
     <td class="tg-0lax">Kanton Zürich</td>
     <td class="tg-0lax">Confirmé // bestätigt</td>
     <td class="tg-0lax">10.05.2021</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax" id="z">Zbinden</td>
-    <td class="tg-ktyi">Yvonne</td>
-    <td class="tg-ktyi">Spitalweg 9<br>3800 Unterseen</td>
-    <td class="tg-z182"><a href="mailto:yvonne.zbinden@nicecomputing.ch">yvonne.zbinden@nicecomputing.ch</a></td>
-    <td class="tg-ktyi">079 780 75 66</td>
-    <td class="tg-ktyi">Deutsch</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
-    <td class="tg-0lax">Oui</td>
-    <td class="tg-0lax"> </td>
-    <td class="tg-ktyi">Deutschschweiz </td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
-    <td class="tg-ktyi">07.01.2019</td>
   </tr>
   <tr>
     <td class="tg-0lax">Zolkos </td>
