@@ -40,14 +40,17 @@ Die bekannten halbjährlichen **Publikationszyklen der bisherigen Rundschreiben 
   
 Unter jedem Kapitel werden jeweils **das Publikationsjahr sowie die Gültigkeitsspanne** der darin aufgeführten Inhalte angegeben, sodass die zeitliche Zuordnung der Änderungen und Ergänzungen jederzeit klar nachvollzogen werden kann.
   
+    
 **Kapitel «Aktualisierungen zur CHOP»**
   
 Die Informationen zu Aktualisierungen der CHOP-Kodes werden neu in Form einer Excel-Tabelle (xlsx) bereitgestellt, die direkt über die jeweiligen Register des Kapitel CHOP abrufbar ist. Diese Tabelle ermöglicht eine übersichtliche Nachverfolgung der Änderungen und bildet die Aktualisierungen in den Sprachen **Deutsch, Französisch und Italienisch** ab.
+  
   
 **Neues Kapitel «FAQ/Klarstellungen»**
   
 Das bisherige Kapitel 5 «Anhang» wird durch das neue Kapitel **«FAQ/Klarstellungen»** ersetzt. Dort werden künftig sowohl allgemeine als auch spezifische Fragen beantwortet. Die Inhalte des bisherigen Anhangs (Kapitel 5) sind, falls noch aktuell, in dieses neue Kapitel migriert worden.
   
+    
 **Such- und Exportfunktionen**
 Die Onlineversion bietet zusätzliche Funktionen:
 <ul>  
