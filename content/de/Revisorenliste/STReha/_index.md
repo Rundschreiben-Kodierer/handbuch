@@ -136,7 +136,7 @@ keywords: []
     <td class="tg-ktyi">076 320 68 51</td>
     <td class="tg-ktyi">Français</td>
     <td class="tg-0lax">Confirmé // bestätigt</td>
-    <td class="tg-ktyi">Oui</td>
+    <td class="tg-ktyi"></td>
     <td class="tg-ktyi">Oui</td>
     <td class="tg-ktyi">Suisse romande</td>
     <td class="tg-ktyi">Confirmé // bestätigt</td>
@@ -162,11 +162,11 @@ keywords: []
     <td class="tg-ktyi">Galliweg 65C<br>4852 Rothrist</td>
     <td class="tg-v47d"><a href="mailto:daniela.ehbrecht@gmx.de">daniela.ehbrecht@gmx.de</a></td>
     <td class="tg-ktyi">078 675 68 09</td>
-    <td class="tg-ktyi">Deutsch</td>
+    <td class="tg-ktyi">Deutsch/Français</td>
     <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-ktyi"></td>
     <td class="tg-ktyi">Oui</td>
-    <td class="tg-ktyi">Oui</td>
-    <td class="tg-ktyi">Deutschschweiz</td>
+    <td class="tg-ktyi">Ganze Schweiz</td>
     <td class="tg-ktyi">Confirmé // bestätigt</td>
     <td class="tg-ktyi">11.11.2025</td>
 </tr>
