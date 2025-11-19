@@ -1,5 +1,5 @@
 ---
-title: Bundesamtes für Statistik – Fachbereich Medizinisch Klassifikationen
+title: Bundesamt für Statistik – Bereich Medizinische Klassifikationen
 slug: introduction
 description: ""
 keywords: []
