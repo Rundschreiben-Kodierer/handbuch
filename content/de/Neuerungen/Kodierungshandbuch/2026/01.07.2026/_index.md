@@ -1,5 +1,5 @@
 ---
-title: "01.07.2026"
+title: "01.07.2026 Ø None"
 slug: 2026
 description: "Anzuwenden bei Fällen mit Austrittsdatum ab 01.07.2026"
 weight: 3

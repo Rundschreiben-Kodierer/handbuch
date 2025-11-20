@@ -1,5 +1,5 @@
 ---
-title: "01.01.2026"
+title: "01.01.2026 Ø None"
 slug: 2026a
 description: ""
 weight: 2
