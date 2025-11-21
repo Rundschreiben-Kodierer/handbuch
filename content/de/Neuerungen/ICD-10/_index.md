@@ -14,8 +14,7 @@ Neuigkeiten zur deutschsprachigen Ausgabe sind von der Internetseite des Bundesi
   
 Zu jeder Version der Klassifikation werden Register mit dem Datum des Inkrafttretens gebildet.
 Die Aktualisierungen werden thematisch gruppiert und durchnummeriert.
-Sie werden aufsteigend nach Kode-Nummer angegeben.
-
+Sie werden aufsteigend nach Kode-Nummer angegeben.  
 Betrifft ein Anpassungs-/Korrekturthema mehrere Kodes, erfolgt die Einordnung unter dem ersten, hauptsächlich betroffenen Kode.
   
 Die ICD-10-GM 2024 ist seit dem 1. Januar 2025 in der Schweiz in Kraft. In den Rundschreiben 2025 Nr. 1 und Nr. 2 gab es keine Korrektur oder Anpassung auf die Sprachversionen Französisch und Italienisch. Die ICD-10-GM 2024 wird auch im Jahr 2026 gültig sein. Falls es zu Anpassungen oder Korrekturen kommt, wird es voraussichtlich zwei Register zu dieser Version geben. 
