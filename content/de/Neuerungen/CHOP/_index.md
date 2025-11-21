@@ -44,7 +44,7 @@ Zum Beginn jedes Unterregisters befindet sich eine Zeile mit folgenden Angaben i
   «Text DE», «Text FR», «Text IT»: «Titel des Unterregisters in der entsprechenden Sprache»
   </li>
   <li>
-  •	«New text DE / Comment DE», «New text FR / Comment FR», «New text IT / Comment IT»: Ein kurzer einführender Text zum Unterregister beschreibt die Anpassung/Korrektur in der entsprechenden Sprache.
+  «New text DE / Comment DE», «New text FR / Comment FR», «New text IT / Comment IT»: Ein kurzer einführender Text zum Unterregister beschreibt die Anpassung/Korrektur in der entsprechenden Sprache.
   </li>
 </ul>
 Diese Zeile ist zur besseren Abgrenzung der Abschnitte grau markiert.
