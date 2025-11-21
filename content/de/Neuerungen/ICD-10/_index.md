@@ -10,11 +10,12 @@ keywords: []
 
 Das Kapitel «ICD-10-GM» enthält sämtliche Aktualisierungen zu den französisch- und italienisch-sprachigen Ausgaben der angegebenen Version der internationalen statistischen Klassifikation der Krankheiten und verwandter Gesundheitsprobleme, 10. Revision, German Modification.
   
-Neuigkeiten zur deutschsprachigen Ausgabe sind von der Internetseite des Bundesinstituts für Arzneimittel und Medizinprodukte (BfArM) in Deutschland zu beziehen.
+Neuigkeiten zur deutschsprachigen Ausgabe sind von der Internetseite des Bundesinstituts für Arzneimittel und Medizinprodukte (BfArM) in Deutschland zu beziehen. Das BFS informiert über das Inkrafttreten allfälliger Aktualisierungen der systematischen und alphabetischen Verzeichnisse in der Schweiz (Zeitpunkt der Übernahme der vom BfArM kommunizierten Anpassungen).
   
 Zu jeder Version der Klassifikation werden Register mit dem Datum des Inkrafttretens gebildet.
 Die Aktualisierungen werden thematisch gruppiert und durchnummeriert.
 Sie werden aufsteigend nach Kode-Nummer angegeben.
+
 Betrifft ein Anpassungs-/Korrekturthema mehrere Kodes, erfolgt die Einordnung unter dem ersten, hauptsächlich betroffenen Kode.
   
 Die ICD-10-GM 2024 ist seit dem 1. Januar 2025 in der Schweiz in Kraft. In den Rundschreiben 2025 Nr. 1 und Nr. 2 gab es keine Korrektur oder Anpassung auf die Sprachversionen Französisch und Italienisch. Die ICD-10-GM 2024 wird auch im Jahr 2026 gültig sein. Falls es zu Anpassungen oder Korrekturen kommt, wird es voraussichtlich zwei Register zu dieser Version geben. 
