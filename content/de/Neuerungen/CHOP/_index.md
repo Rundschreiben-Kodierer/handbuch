@@ -9,37 +9,28 @@ keywords: []
 <p style="text-align: right;">{{<printButton>}}
 
 
-Das Kapitel «CHOP» enthält die unterjährigen Aktualisierungen zur angegebenen Jahresversion der schweizerischen Operationsklassifikation (CHOP). Unter Aktualisierungen versteht man Anpassungen und Korrekturen der im Juli auf Deutsch und im Oktober auf Französisch und Italienisch publizierten CHOP-Version.
+Das Kapitel «Aktualisierungen zur CHOP» enthält die unterjährigen Aktualisierungen zur angegebenen Jahresversion der schweizerischen Operationsklassifikation (CHOP). Unter Aktualisierungen versteht man Anpassungen und Korrekturen der im Juli auf Deutsch und im Oktober auf Französisch und Italienisch publizierten CHOP-Version.
   
-Zu jeder Version der Klassifikation wird ein Register mit dem Datum des Inkrafttretens angelegt. 
-Unter diesem Register befindet sich der Link auf eine Excel-Tabelle, welche die unterjährigen Aktualisierungen zur entsprechenden CHOP-Version enthält. Der Dateiname enthält jeweils die CHOP-Version, «UP» für Update und das Datum für das Inkrafttreten der Aktualisierung. 
+Zu jeder Version der Klassifikation wird ein Register angelegt. 
+Unter diesem Register sind die Excel-Ordner, die die unterjährigen Aktualisierungen zur entsprechenden CHOP-Version im Tabellenformat sowie erklärende «Lies mich» enthalten, per Link verknüpft. Der Dateiname enthält jeweils die CHOP-Version, «UP» für Update und die Nummer des Aktualisierungspakets. 
 Voraussichtlich ist eine Version YYYY der CHOP ein Jahr gültig (im Jahr YYYY).
-Je Version können somit folgende Register vorkommen:
+Je Version können somit folgende Links vorkommen:
 <body>
     <ul>
-        <li>01.01.YYYY
-            <ul>
-                <li>Tab. CHOP_YYYY_UP_YYYY_01_01 </li>
-            </ul>
-        </li>
-        <li>01.07.YYYY
-            <ul>
-                <li>Tab. CHOP_YYYY_UP_YYYY_07_01</li>
-            </ul>
-        </li>
+        <li>Gültig ab dem 01.01.YYYY: do-t-14.04.01-chopYYYY-up-01</li>
+        <li>Gültig ab dem 01.07.YYYY: do-t-14.04.01-chopYYYY-up-02</li>
     </ul>
 </body>
 <p style="text-align: left;">
-Das Datum gibt jeweils den Beginn der Gültigkeit an. Eine Anpassung / Korrektur zu einem Zeitpunkt X kann in seltenen Fällen 
-zu einem späteren Zeitpunkt Z einer weiteren Anpassung unterliegen. 
-Bitte beachten Sie in der zweiten Jahreshälfte beide Register. 
+Das Datum gibt jeweils den Beginn der Gültigkeit an. Eine Anpassung / Korrektur zu einem Zeitpunkt X kann in seltenen Fällen zu einem späteren Zeitpunkt Z einer weiteren Anpassung unterliegen. Bitte beachten Sie in der zweiten Jahreshälfte beide Tabellen. 
   
 Die angegebenen Anpassungen und Korrekturen zu einer Version (z. B. CHOP 2026) werden in der darauffolgenden Version der CHOP (z. B. CHOP 2027) übernommen oder entfallen aufgrund einer Weiterentwicklung der Klassifikation im entsprechenden Klassifikationsabschnitt.
   
 Die Aktualisierungen werden in der Tabelle thematisch gruppiert und durchnummeriert. Jedes Thema erhält eine Unterregister-Nummer und einen Unterregister-Titel. Die Unterregister werden aufsteigend nach Kode-Nummer sortiert. Betrifft ein Unterregister mehrere Kodes, erfolgt die Einordnung unter dem ersten, hauptsächlich betroffenen Kode.
   
-Ein «Lies mich» sowie der untenstehende Text erläutern die Struktur der Tabelle.
-Die Spalten-Überschriften wurden auf Englisch gewählt, weil die Tabelle dreisprachig ist.
+Die Struktur der Tabelle wird im untenstehenden Text sowie auf «Lies mich»-Blättern pro Sprache im Excel-Ordner erklärt.
+  
+Die Spalten-Überschriften der Tabelle mit den Aktualisierungen wurden auf Englisch gewählt, weil die Tabelle dreisprachig ist.
   
 Zum Beginn jedes Unterregisters befindet sich eine Zeile mit folgenden Angaben in den Spalten:
 <ul>  
@@ -47,16 +38,16 @@ Zum Beginn jedes Unterregisters befindet sich eine Zeile mit folgenden Angaben i
   «Line number for the subregister»: «0», 
   </li>
   <li>
-  «Item / Subregister number»: «Nummer des Unterregisters, z. B. SR1», 
+  «Item / Subregister number», «Modification FR / Subregister number», «Modification IT / Subregister number»: «Nummer des Unterregisters, z. B. SR1»,  
   </li>
   <li>
   «Text DE», «Text FR», «Text IT»: «Titel des Unterregisters in der entsprechenden Sprache»
   </li>
   <li>
-  «Comment DE», «Comment FR», «Comment IT»: Ein kurzer einführender Text zum Unterregister beschreibt die Anpassung/Korrektur in der entsprechenden Sprache.
+  •	«New text DE / Comment DE», «New text FR / Comment FR», «New text IT / Comment IT»: Ein kurzer einführender Text zum Unterregister beschreibt die Anpassung/Korrektur in der entsprechenden Sprache.
   </li>
 </ul>
-Diese Zeile ist zur besseren Abgrenzung der Abschnitte farblich markiert.
+Diese Zeile ist zur besseren Abgrenzung der Abschnitte grau markiert.
  <br>
  <br>
    
@@ -291,7 +282,7 @@ Folgende Spalten befinden sich in der Tabelle:
 </table>
 <div style="mso-element: comment-list;">&nbsp;</div>
   
-Zuvor wurde im Kapitel 3, Zusatzinformationen, in der PDF-Datei des Rundschreibens eine Anpassung oder Korrektur zu einer CHOP-Version wie folgt dargestellt.
+Zuvor wurde im Kapitel 3, Zusatzinformationen zur CHOP, in der PDF-Datei des Rundschreibens eine Anpassung oder Korrektur zu einer CHOP-Version wie folgt dargestellt.
 <br>  
 {{<markdown>}}Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Löschungen in rot~~</font>
   {{</markdown>}}
