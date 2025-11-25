@@ -62,7 +62,7 @@ Folgende Spalten befinden sich in der Tabelle:
 <table class="MsoTableGrid" style="border-collapse: collapse; border: none; width: 96.1447%;" border="1" cellspacing="0" cellpadding="0">
 <tbody>
 <tr style="mso-yfti-irow: 0; mso-yfti-firstrow: yes;">
-<td style="width: 33.3345%; border: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="198">
+<td style="width: 25%; border: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="198">
 <p class="MsoBodyText" style="line-height: normal; margin: 1.0pt 0cm 1.0pt 0cm;"><strong><span lang="DE-CH" style="mso-fareast-language: DE-CH;">Spalten</span></strong></p>
 </td>
 <td style="width: 66.6655%; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; padding: 0cm 5.4pt;" valign="top" width="410">
@@ -70,7 +70,7 @@ Folgende Spalten befinden sich in der Tabelle:
 </td>
 </tr>
 <tr style="mso-yfti-irow: 1;">
-<td style="width: 33.3345%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #f4b084; padding: 0cm 5.4pt;" valign="top" width="198">
+<td style="width: 25%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #f4b084; padding: 0cm 5.4pt;" valign="top" width="198">
 <p class="MsoBodyText" style="line-height: normal; margin: 1.0pt 0cm 1.0pt 0cm;"><span lang="EN-GB" style="color: black; mso-color-alt: windowtext; mso-ansi-language: EN-GB; mso-fareast-language: DE-CH;">sequential number over the table</span></p>
 </td>
 <td style="width: 66.6655%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
@@ -78,7 +78,7 @@ Folgende Spalten befinden sich in der Tabelle:
 </td>
 </tr>
 <tr style="mso-yfti-irow: 2;">
-<td style="width: 33.3345%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #f4b084; padding: 0cm 5.4pt;" valign="top" width="198">
+<td style="width: 25%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #f4b084; padding: 0cm 5.4pt;" valign="top" width="198">
 <p class="MsoBodyText" style="line-height: normal; margin: 1.0pt 0cm 1.0pt 0cm;"><span lang="EN-GB" style="color: black; mso-color-alt: windowtext; mso-ansi-language: EN-GB; mso-fareast-language: DE-CH;">Date and subregister number</span></p>
 </td>
 <td style="width: 66.6655%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
@@ -86,7 +86,7 @@ Folgende Spalten befinden sich in der Tabelle:
 </td>
 </tr>
 <tr style="mso-yfti-irow: 3;">
-<td style="width: 33.3345%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #f4b084; padding: 0cm 5.4pt;" valign="top" width="198">
+<td style="width: 25%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #f4b084; padding: 0cm 5.4pt;" valign="top" width="198">
 <p class="MsoBodyText" style="line-height: normal; margin: 1.0pt 0cm 1.0pt 0cm;"><span lang="EN-GB" style="color: black; mso-color-alt: windowtext; mso-ansi-language: EN-GB; mso-fareast-language: DE-CH;">Line number for the subregister</span></p>
 </td>
 <td style="width: 66.6655%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
@@ -94,7 +94,7 @@ Folgende Spalten befinden sich in der Tabelle:
 </td>
 </tr>
 <tr style="mso-yfti-irow: 4;">
-<td style="width: 33.3345%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #f4b084; padding: 0cm 5.4pt;" valign="top" width="198">
+<td style="width: 25%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #f4b084; padding: 0cm 5.4pt;" valign="top" width="198">
 <p class="MsoBodyText" style="line-height: normal; margin: 1.0pt 0cm 1.0pt 0cm;"><span lang="EN-GB" style="color: black; mso-color-alt: windowtext; mso-ansi-language: EN-GB; mso-fareast-language: DE-CH;">nbchar</span></p>
 </td>
 <td style="width: 66.6655%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
@@ -102,7 +102,7 @@ Folgende Spalten befinden sich in der Tabelle:
 </td>
 </tr>
 <tr style="mso-yfti-irow: 5;">
-<td style="width: 33.3345%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #f6ed75; padding: 0cm 5.4pt;" valign="top" width="198">
+<td style="width: 25%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #f6ed75; padding: 0cm 5.4pt;" valign="top" width="198">
 <p class="MsoBodyText" style="line-height: normal; margin: 1.0pt 0cm 1.0pt 0cm;"><span lang="EN-GB" style="color: black; mso-color-alt: windowtext; mso-ansi-language: EN-GB; mso-fareast-language: DE-CH;">Modification DE</span></p>
 </td>
 <td style="width: 66.6655%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
@@ -114,7 +114,7 @@ Folgende Spalten befinden sich in der Tabelle:
 </td>
 </tr>
 <tr style="mso-yfti-irow: 6;">
-<td style="width: 33.3345%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #f4b084; padding: 0cm 5.4pt;" valign="top" width="198">
+<td style="width: 25%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #f4b084; padding: 0cm 5.4pt;" valign="top" width="198">
 <p class="MsoBodyText" style="line-height: normal; margin: 1.0pt 0cm 1.0pt 0cm;"><span lang="EN-GB" style="color: black; mso-color-alt: windowtext; mso-ansi-language: EN-GB; mso-fareast-language: DE-CH;">Zcode</span></p>
 </td>
 <td style="width: 66.6655%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
@@ -122,7 +122,7 @@ Folgende Spalten befinden sich in der Tabelle:
 </td>
 </tr>
 <tr style="mso-yfti-irow: 7;">
-<td style="width: 33.3345%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #f4b084; padding: 0cm 5.4pt;" valign="top" width="198">
+<td style="width: 25%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #f4b084; padding: 0cm 5.4pt;" valign="top" width="198">
 <p class="MsoBodyText" style="line-height: normal; margin: 1.0pt 0cm 1.0pt 0cm;"><span lang="EN-GB" style="color: black; mso-color-alt: windowtext; mso-ansi-language: EN-GB; mso-fareast-language: DE-CH;">Item / Subregister number</span></p>
 </td>
 <td style="width: 66.6655%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
@@ -138,7 +138,7 @@ Folgende Spalten befinden sich in der Tabelle:
 </td>
 </tr>
 <tr style="mso-yfti-irow: 8;">
-<td style="width: 33.3345%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #f6ed75; padding: 0cm 5.4pt;" valign="top" width="198">
+<td style="width: 25%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #f6ed75; padding: 0cm 5.4pt;" valign="top" width="198">
 <p class="MsoBodyText" style="line-height: normal; margin: 1.0pt 0cm 1.0pt 0cm;"><span lang="EN-GB" style="color: black; mso-color-alt: windowtext; mso-ansi-language: EN-GB; mso-fareast-language: DE-CH;">Text DE</span></p>
 </td>
 <td style="width: 66.6655%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
@@ -146,7 +146,7 @@ Folgende Spalten befinden sich in der Tabelle:
 </td>
 </tr>
 <tr style="mso-yfti-irow: 9;">
-<td style="width: 33.3345%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #f6ed75; padding: 0cm 5.4pt;" valign="top" width="198">
+<td style="width: 25%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #f6ed75; padding: 0cm 5.4pt;" valign="top" width="198">
 <p class="MsoBodyText" style="line-height: normal; margin: 1.0pt 0cm 1.0pt 0cm;"><span lang="EN-GB" style="color: black; mso-color-alt: windowtext; mso-ansi-language: EN-GB; mso-fareast-language: DE-CH;">New text DE</span></p>
 </td>
 <td style="width: 66.6655%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
@@ -154,7 +154,7 @@ Folgende Spalten befinden sich in der Tabelle:
 </td>
 </tr>
 <tr style="mso-yfti-irow: 10;">
-<td style="width: 33.3345%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #f6ed75; padding: 0cm 5.4pt;" valign="top" width="198">
+<td style="width: 25%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #f6ed75; padding: 0cm 5.4pt;" valign="top" width="198">
 <p class="MsoBodyText" style="line-height: normal; margin: 1.0pt 0cm 1.0pt 0cm;"><span lang="EN-GB" style="color: black; mso-color-alt: windowtext; mso-ansi-language: EN-GB; mso-fareast-language: DE-CH;">Comment DE</span></p>
 </td>
 <td style="width: 66.6655%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
@@ -162,7 +162,7 @@ Folgende Spalten befinden sich in der Tabelle:
 </td>
 </tr>
 <tr style="mso-yfti-irow: 11;">
-<td style="width: 33.3345%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #f4b084; padding: 0cm 5.4pt;" valign="top" width="198">
+<td style="width: 25%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #f4b084; padding: 0cm 5.4pt;" valign="top" width="198">
 <p class="MsoBodyText" style="line-height: normal; margin: 1.0pt 0cm 1.0pt 0cm;"><span lang="EN-GB" style="color: black; mso-color-alt: windowtext; mso-ansi-language: EN-GB; mso-fareast-language: DE-CH;">Laterality</span></p>
 </td>
 <td style="width: 66.6655%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
@@ -173,7 +173,7 @@ Folgende Spalten befinden sich in der Tabelle:
 </td>
 </tr>
 <tr style="mso-yfti-irow: 12;">
-<td style="width: 33.3345%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #f4b084; padding: 0cm 5.4pt;" valign="top" width="198">
+<td style="width: 25%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #f4b084; padding: 0cm 5.4pt;" valign="top" width="198">
 <p class="MsoBodyText" style="line-height: normal; margin: 1.0pt 0cm 1.0pt 0cm;"><span lang="EN-GB" style="color: black; mso-color-alt: windowtext; mso-ansi-language: EN-GB; mso-fareast-language: DE-CH;">New laterality</span></p>
 </td>
 <td style="width: 66.6655%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
@@ -185,7 +185,7 @@ Folgende Spalten befinden sich in der Tabelle:
 </td>
 </tr>
 <tr style="mso-yfti-irow: 13;">
-<td style="width: 33.3345%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #f4b084; padding: 0cm 5.4pt;" valign="top" width="198">
+<td style="width: 25%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #f4b084; padding: 0cm 5.4pt;" valign="top" width="198">
 <p class="MsoBodyText" style="line-height: normal; margin: 1.0pt 0cm 1.0pt 0cm;"><span lang="EN-GB" style="color: black; mso-color-alt: windowtext; mso-ansi-language: EN-GB; mso-fareast-language: DE-CH;">Codable</span></p>
 </td>
 <td style="width: 66.6655%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
@@ -196,7 +196,7 @@ Folgende Spalten befinden sich in der Tabelle:
 </td>
 </tr>
 <tr style="mso-yfti-irow: 14;">
-<td style="width: 33.3345%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #f4b084; padding: 0cm 5.4pt;" valign="top" width="198">
+<td style="width: 25%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #f4b084; padding: 0cm 5.4pt;" valign="top" width="198">
 <p class="MsoBodyText" style="line-height: normal; margin: 1.0pt 0cm 1.0pt 0cm;"><span lang="EN-GB" style="color: black; mso-color-alt: windowtext; mso-ansi-language: EN-GB; mso-fareast-language: DE-CH;">New codable</span></p>
 </td>
 <td style="width: 66.6655%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
@@ -208,7 +208,7 @@ Folgende Spalten befinden sich in der Tabelle:
 </td>
 </tr>
 <tr style="mso-yfti-irow: 15;">
-<td style="width: 33.3345%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #9bc2e6; padding: 0cm 5.4pt;" valign="top" width="198">
+<td style="width: 25%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #9bc2e6; padding: 0cm 5.4pt;" valign="top" width="198">
 <p class="MsoBodyText" style="line-height: normal; margin: 1.0pt 0cm 1.0pt 0cm;"><span lang="EN-GB" style="color: black; mso-color-alt: windowtext; mso-ansi-language: EN-GB; mso-fareast-language: DE-CH;">Modification FR</span></p>
 </td>
 <td style="width: 66.6655%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
@@ -220,7 +220,7 @@ Folgende Spalten befinden sich in der Tabelle:
 </td>
 </tr>
 <tr style="mso-yfti-irow: 16;">
-<td style="width: 33.3345%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #9bc2e6; padding: 0cm 5.4pt;" valign="top" width="198">
+<td style="width: 25%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #9bc2e6; padding: 0cm 5.4pt;" valign="top" width="198">
 <p class="MsoBodyText" style="line-height: normal; margin: 1.0pt 0cm 1.0pt 0cm;"><span lang="EN-GB" style="color: black; mso-color-alt: windowtext; mso-ansi-language: EN-GB; mso-fareast-language: DE-CH;">Text FR</span></p>
 </td>
 <td style="width: 66.6655%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
@@ -228,7 +228,7 @@ Folgende Spalten befinden sich in der Tabelle:
 </td>
 </tr>
 <tr style="mso-yfti-irow: 17;">
-<td style="width: 33.3345%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #9bc2e6; padding: 0cm 5.4pt;" valign="top" width="198">
+<td style="width: 25%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #9bc2e6; padding: 0cm 5.4pt;" valign="top" width="198">
 <p class="MsoBodyText" style="line-height: normal; margin: 1.0pt 0cm 1.0pt 0cm;"><span lang="EN-GB" style="color: black; mso-color-alt: windowtext; mso-ansi-language: EN-GB; mso-fareast-language: DE-CH;">New text FR</span></p>
 </td>
 <td style="width: 66.6655%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
@@ -236,7 +236,7 @@ Folgende Spalten befinden sich in der Tabelle:
 </td>
 </tr>
 <tr style="mso-yfti-irow: 18;">
-<td style="width: 33.3345%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #9bc2e6; padding: 0cm 5.4pt;" valign="top" width="198">
+<td style="width: 25%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #9bc2e6; padding: 0cm 5.4pt;" valign="top" width="198">
 <p class="MsoBodyText" style="line-height: normal; margin: 1.0pt 0cm 1.0pt 0cm;"><span lang="EN-GB" style="color: black; mso-color-alt: windowtext; mso-ansi-language: EN-GB; mso-fareast-language: DE-CH;">Comment FR</span></p>
 </td>
 <td style="width: 66.6655%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
@@ -244,7 +244,7 @@ Folgende Spalten befinden sich in der Tabelle:
 </td>
 </tr>
 <tr style="mso-yfti-irow: 19;">
-<td style="width: 33.3345%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #a9d08e; padding: 0cm 5.4pt;" valign="top" width="198">
+<td style="width: 25%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #a9d08e; padding: 0cm 5.4pt;" valign="top" width="198">
 <p class="MsoBodyText" style="line-height: normal; margin: 1.0pt 0cm 1.0pt 0cm;"><span lang="EN-GB" style="color: black; mso-color-alt: windowtext; mso-ansi-language: EN-GB; mso-fareast-language: DE-CH;">Modification IT</span></p>
 </td>
 <td style="width: 66.6655%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
@@ -256,7 +256,7 @@ Folgende Spalten befinden sich in der Tabelle:
 </td>
 </tr>
 <tr style="mso-yfti-irow: 20;">
-<td style="width: 33.3345%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #a9d08e; padding: 0cm 5.4pt;" valign="top" width="198">
+<td style="width: 25%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #a9d08e; padding: 0cm 5.4pt;" valign="top" width="198">
 <p class="MsoBodyText" style="line-height: normal; margin: 1.0pt 0cm 1.0pt 0cm;"><span lang="EN-GB" style="color: black; mso-color-alt: windowtext; mso-ansi-language: EN-GB; mso-fareast-language: DE-CH;">Text IT</span></p>
 </td>
 <td style="width: 66.6655%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
@@ -264,7 +264,7 @@ Folgende Spalten befinden sich in der Tabelle:
 </td>
 </tr>
 <tr style="mso-yfti-irow: 21;">
-<td style="width: 33.3345%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #a9d08e; padding: 0cm 5.4pt;" valign="top" width="198">
+<td style="width: 25%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #a9d08e; padding: 0cm 5.4pt;" valign="top" width="198">
 <p class="MsoBodyText" style="line-height: normal; margin: 1.0pt 0cm 1.0pt 0cm;"><span lang="EN-GB" style="color: black; mso-color-alt: windowtext; mso-ansi-language: EN-GB; mso-fareast-language: DE-CH;">New text IT</span></p>
 </td>
 <td style="width: 66.6655%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
@@ -272,7 +272,7 @@ Folgende Spalten befinden sich in der Tabelle:
 </td>
 </tr>
 <tr style="mso-yfti-irow: 22; mso-yfti-lastrow: yes;">
-<td style="width: 33.3345%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #a9d08e; padding: 0cm 5.4pt;" valign="top" width="198">
+<td style="width: 25%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #a9d08e; padding: 0cm 5.4pt;" valign="top" width="198">
 <p class="MsoBodyText" style="line-height: normal; margin: 1.0pt 0cm 1.0pt 0cm;"><span lang="EN-GB" style="color: black; mso-color-alt: windowtext; mso-ansi-language: EN-GB; mso-fareast-language: DE-CH;">Comment IT</span></p>
 </td>
 <td style="width: 66.6655%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
