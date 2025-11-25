@@ -15,13 +15,15 @@ keywords: []
 Das Kapitel **«Allgemeine Informationen»** enthält grundsätzliche Informationen, welche für die Anwendung und das Verständnis der Publikationen von Bedeutung sind. Hierzu zählen insbesondere:
   
 <body>
-<li>Hinweise zur Nutzung und Struktur der Onlineversion</li>
+<ul>
+  <li>Hinweise zur Nutzung und Struktur der Onlineversion</li>
   
-<li>Erläuterungen zu formalen Anpassungen oder redaktionellen Änderungen</li>
+  <li>Erläuterungen zu formalen Anpassungen oder redaktionellen Änderungen</li>
   
-<li>Mitteilungen zu übergeordneten Themen im Bereich der medizinischen Klassifikationen</li>
+  <li>Mitteilungen zu übergeordneten Themen im Bereich der medizinischen Klassifikationen</li>
   
-<li>Organisatorische Informationen zu Publikationsabläufen und Ansprechpartnern</li>
+  <li>Organisatorische Informationen zu Publikationsabläufen und Ansprechpartnern</li>
+</ul>
 </body>
   
 Dieses Kapitel bildet somit die Grundlage für die Nutzung der weiteren Inhalte und unterstützt die Kodiererinnen und Kodierer bei der Orientierung innerhalb der Publikationen.
