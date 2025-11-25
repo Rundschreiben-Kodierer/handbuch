@@ -10,15 +10,16 @@ keywords: []
 
 
 Das Kapitel «Aktualisierungen zur CHOP» enthält die unterjährigen Aktualisierungen zur angegebenen Jahresversion der schweizerischen Operationsklassifikation (CHOP). Unter Aktualisierungen versteht man Anpassungen und Korrekturen der im Juli auf Deutsch und im Oktober auf Französisch und Italienisch publizierten CHOP-Version.
-  
+    
 Zu jeder Version der Klassifikation wird ein Register angelegt. 
 Unter diesem Register sind die Excel-Ordner, die die unterjährigen Aktualisierungen zur entsprechenden CHOP-Version im Tabellenformat sowie erklärende «Lies mich» enthalten, per Link verknüpft. Der Dateiname enthält jeweils die CHOP-Version, «UP» für Update und die Nummer des Aktualisierungspakets. 
-Voraussichtlich ist eine Version YYYY der CHOP ein Jahr gültig (im Jahr YYYY).
+  
+Voraussichtlich ist eine Version YYYY der CHOP ein Jahr gültig (im Jahr YYYY).  
 Je Version können somit folgende Links vorkommen:
 <body>
     <ul>
         <li>Gültig ab dem 01.01.YYYY: do-t-14.04.01-chopYYYY-up-01</li>
-        <li>Gültig ab dem 01.07.YYYY: do-t-14.04.01-chopYYYY-up-02</li>
+        <li>Gültig ab dem 01.07.YYYY:do-t-14.04.01-chopYYYY-up-02</li>
     </ul>
 </body>
 <p style="text-align: left;">
@@ -35,10 +36,10 @@ Die Spalten-Überschriften der Tabelle mit den Aktualisierungen wurden auf Engli
 Zum Beginn jedes Unterregisters befindet sich eine Zeile mit folgenden Angaben in den Spalten:
 <ul>  
   <li>
-  «Line number for the subregister»: «0», 
+  «Line number for the subregister»: «0»,
   </li>
   <li>
-  «Item / Subregister number», «Modification FR / Subregister number», «Modification IT / Subregister number»: «Nummer des Unterregisters, z. B. SR1»,  
+  «Item / Subregister number», «Modification FR / Subregister number», «Modification IT / Subregister number»: «Nummer des Unterregisters, z. B. SR1»,
   </li>
   <li>
   «Text DE», «Text FR», «Text IT»: «Titel des Unterregisters in der entsprechenden Sprache»
