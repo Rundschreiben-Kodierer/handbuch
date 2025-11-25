@@ -18,8 +18,7 @@ type: docs
 
 <a href="https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/nomenklaturen/medkk/instrumente-medizinische-kodierung.assetdetail.7046424.html"
    target="_blank"
-   rel="noopener noreferrer"> Rundschreiben für Kodiererinnen und Kodierer : 2019 Nr. 1
-</a> Anzuwenden bei Fällen mit Austrittsdatum ab 01.01.2019
+   rel="noopener noreferrer"> Rundschreiben für Kodiererinnen und Kodierer : 2019 Nr. 1</a> Anzuwenden bei Fällen mit Austrittsdatum ab 01.01.2019
 
 
 
@@ -115,24 +114,24 @@ type: docs
 
 <a href="https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/nomenklaturen/medkk/instrumente-medizinische-kodierung.assetdetail.289790.html"
    target="_blank"
-   rel="noopener noreferrer"> Rundschreiben für Kodiererinnen und Kodierer 2011 Nr 10
+   rel="noopener noreferrer"> Rundschreiben für Kodiererinnen und Kodierer : 2011 Nr 10
 </a> Anzuwenden bei Fällen mit Austrittsdatum ab 01.07.2011
 
 <a href="https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/nomenklaturen/medkk/instrumente-medizinische-kodierung.assetdetail.289763.html"
    target="_blank"
-   rel="noopener noreferrer"> Rundschreiben für Kodiererinnen und Kodierer 2011 Nr 9
+   rel="noopener noreferrer"> Rundschreiben für Kodiererinnen und Kodierer : 2011 Nr 9
 </a> Anzuwenden bei Fällen mit Austrittsdatum ab 01.01.2011
 
 
 
 <a href="https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/nomenklaturen/medkk/instrumente-medizinische-kodierung.assetdetail.234224.html"
    target="_blank"
-   rel="noopener noreferrer"> Rundschreiben für Kodiererinnen und Kodierer 2010 Nr 8 
+   rel="noopener noreferrer"> Rundschreiben für Kodiererinnen und Kodierer : 2010 Nr 8 
 </a> Anzuwenden bei Fällen mit Austrittsdatum ab 01.07.2010
 
 <a href="https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/nomenklaturen/medkk/instrumente-medizinische-kodierung.assetdetail.236478.html"
    target="_blank"
-   rel="noopener noreferrer"> Rundschreiben für Kodiererinnen und Kodierer 2010 Nr 7
+   rel="noopener noreferrer"> Rundschreiben für Kodiererinnen und Kodierer : 2010 Nr 7
 </a> Anzuwenden bei Fällen mit Austrittsdatum ab 01.01.2010
 
 
