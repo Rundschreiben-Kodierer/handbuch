@@ -59,7 +59,7 @@ Folgende Spalten befinden sich in der Tabelle:
 - In Grün die Spalten, die für die italienischsprachige Version gelten.
 
 
-<table class="MsoTableGrid" style="border-collapse: collapse; border: none; width: 46.1447%;" border="1" cellspacing="0" cellpadding="0">
+<table class="MsoTableGrid" style="border-collapse: collapse; border: none; width: 96.1447%;" border="1" cellspacing="0" cellpadding="0">
 <tbody>
 <tr style="mso-yfti-irow: 0; mso-yfti-firstrow: yes;">
 <td style="width: 33.3345%; border: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="198">
