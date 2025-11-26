@@ -25,7 +25,8 @@ Das Kapitel **«Allgemeine Informationen»** enthält grundsätzliche Informatio
   <li>Organisatorische Informationen zu Publikationsabläufen und Ansprechpartnern</li>
 </ul>
 </body>
-  
+
+
 Dieses Kapitel bildet somit die Grundlage für die Nutzung der weiteren Inhalte und unterstützt die Kodiererinnen und Kodierer bei der Orientierung innerhalb der Publikationen.
 Je Version der «Allgemeinen Informationen» werden Register gebildet mit dem Datum des Inkrafttretens. 
 Diese Register dokumentieren die unterjährigen Aktualisierungen und verdeutlichen den jeweiligen Beginn der Gültigkeit.
@@ -34,16 +35,8 @@ Pro Publikationsjahr können somit folgende Register vorkommen:
 Register pro Publikationsjahr
 <body>
     <ul>
-        <li>01.01.YYYY
-            <ul>
-                <li>Allg. Informationen_YYYY_UP_YYYY_01_01</li>
-            </ul>
-        </li>
-        <li>01.07.YYYY
-            <ul>
-                <li>Allg. Informationen_YYYY_UP_YYYY_07_01</li>
-            </ul>
-        </li>
+        <li>01.01.YYYY</li>
+        <li>01.07.YYYY</li>
     </ul>
 </body>
 
