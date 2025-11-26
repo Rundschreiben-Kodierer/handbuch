@@ -302,8 +302,6 @@ Tag X:
 {{</article>}}
 
 
-
-
 {{<article number="0005"  title="CHOP - Erfassen der Anzahl der implantierten vaskulären Stents oder Stent-Grafts" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
@@ -358,7 +356,9 @@ Kodierung:
 _36.08.22  Implantation perkutan-transluminal von Stents mit Medikamentenfreisetzung, in mehreren Koronararterien_
 _36.08.22  Implantation perkutan-transluminal von Stents mit Medikamentenfreisetzung, in mehreren Koronararterien_
 _36.08.11  Implantation perkutan-transluminal von Stents ohne Medikamentenfreisetzung, in einer Koronararterie_
-
+  
+  
+{{</markdown>}}
   
 {{</article>}}
 
