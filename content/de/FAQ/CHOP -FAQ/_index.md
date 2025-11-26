@@ -365,16 +365,16 @@ _36.08.11  Implantation perkutan-transluminal von Stents ohne Medikamentenfreise
 
 
 
-{{<article number="0006"  title="CHOP - 39.99.21 Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0006"  title="CHOP- Gefässverschlusskörper vs. Embolie-Protektionssysteme" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Anomalie des Aortenisthmus / Aortenisthmusstenose</td>
+    <td style="border: 1px solid black;">Gefässverschlusskörper / Embolie-Protektionssysteme/ gefässverschliessende Operationen/Interventionen</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Erstellt</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0879</td>
+    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0768</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aktualisiert</th>
@@ -386,7 +386,7 @@ _36.08.11  Implantation perkutan-transluminal von Stents ohne Medikamentenfreise
   </tr>
   <tr>
     <th style="border: 1px solid black;">CHOP</th>
-    <td style="border: 1px solid black;">39.99.21</td>
+    <td style="border: 1px solid black;">39.79.2- / 39.79.5- / 39.E1 / 38.7X. / 00.4A.- / 00.4G.-</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Kodierregel</th>
@@ -397,7 +397,18 @@ _36.08.11  Implantation perkutan-transluminal von Stents ohne Medikamentenfreise
 {{<markdown>}}
 **Problem/Erläuterung:**
 {{</markdown>}}
-Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Methode mit einem präzisen Kode aus Kapitel 7 <font color="green">"Operationen am kardiovaskulären System"</font> abgebildet. Gibt es einen präzisen Kode, wird 39.99.21 <I>Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen</I>nicht kodiert. 
+<u>Gefässverschliessende Operationen</u>
+In der CHOP existieren Kodes für gefässverschliessende Operationen/Interventionen, die s.g. Embolisationen mit Coils, Plugs, Schirmen usw., z. B. 39.79.2- <I>Coil-Embolisation oder -Verschluss von sonstigen Gefässen</I>, <I>39.79.5- Selektive Embolisation von sonstigen Gefässen mit Schirmen</I> oder 39.79.A- <I>Selektive Embolisation von sonstigen Gefässen mit Plugs</I> usw. 
+
+Des Weiteren stehen die Zusatzkodes aus der Subkategorie 00.4A.- <I>Anzahl verwendeter endovaskulärer Coils</I> und 00.4G.- <I>Einsetzen von Gefässverschlusskörpern</I> zur Verfügung. 
+
+Die Zusatzkodes der Elementegruppen von 00.4G.2- bis 00.4G.6-<I> Eingesetzte vaskuläre Schirme in [...], nach Anzahl</I>, gelten nur für die Abbildung der verwendeten Devices im Kontext von gefässverschliessenden Operationen/Interventionen (z. B. selektive Embolisationen) als Zusatzkodes. 
+Die Kodes unter 00.4G.- sind für Embolie-Protektionssysteme nicht zu verwenden. 
+
+Embolie-Protektionssysteme
+Der Zusatzkode 39.E1 <I>Verwendung eines Embolie-Protektionssystems</I> ermöglicht die Erfassung von periinterventionellen Embolie-Protektionssystemen. 
+
+Die Kodes 38.7X.11 <I>Einsetzen eines Embolie-Protektionssystems in die Vena cava, offen chirurgisch</I>, 38.7X.21 <I>Einsetzen eines Embolie-Protektionssystems in die Vena cava, perkutan-transluminal</I>, <I>39.75.13 Perkutan-transluminale Gefässintervention, sonstige Gefässe, Embolie-Protektionssystem (periphere oder viszerale Gefässe)</I> stellen permanente Systeme dar.
   
   
 {{</article>}}
