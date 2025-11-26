@@ -186,6 +186,53 @@ Finden sich auch im umliegenden Gewebe Echinokokkusbestandteile und dadurch herv
 
 {{</article>}}
 
+{{<article number="0004"  title="0004 ICD - Stenosen präzerebraler Arterien Carotisstenose bds/ Stenosen ein-oder beidseitiger präzerebraler Arterien" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+
+<table border="1" style="border-collapse: collapse;">
+  <tr>
+    <th style="border: 1px solid black;">Schlagwort</th>
+    <td style="border: 1px solid black;">Stenose/n präzerebraler Arterien</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Erstellt</th>
+    <td style="border: 1px solid black;">01.01.2026</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Aktualisiert</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">ICD</th>
+    <td style="border: 1px solid black;">I65.2 / I65.3</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">CHOP</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Kodierregel</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+</table>
+
+{{<markdown>}}
+**Fragestellung:**
+Wie wird eine Carotisstenose bds. erfasst? Wie werden ein- oder beidseitige Stenosen präzerebraler Arterien erfasst?
+  
+**Problem/Erläuterung:**
+**Erläuterung:** 
+Grundsätzlich gilt: Es ist stets der spezifischste ICD-Kode zu wählen, der die dokumentierte Diagnose am genauesten beschreibt. 
+•	**Beidseitiger Verschluss einer einzelnen präzerebralen Arterie** (z. B. Arteria carotis) wird mit dem spezifischen Kode **I65.-** unter Angabe der Lateralität verschlüsselt. 
+**Beispiel**: Beidseitiger Verschluss/Stenose der Arteria carotis → **I65.2**: Verschluss und Stenose der A. carotis L bds. 
+  
+•	**Der Verschluss/ die Stenose mehrerer unterschiedlicher präzerebraler Arterien** wird mit dem Kode **I65.3** verschlüsselt: 
+**Beispiel:** Einseitige oder beidseitige Stenose der Arteria vertebralis sowie zusätzlich eine einseitige oder beidseitige Stenose der Arteria carotis interna.→ **I65.3** Verschluss und Stenose mehrerer und beidseitiger präzerebraler Arterie L = R, L oder B. 
+       
+**Kodierempfehlung:**
+{{</markdown>}}
+
+{{</article>}}
+
 
 {{<article number="0005"  title="ICD - Ulcus hypertonicum (Martorell)" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
