@@ -187,51 +187,6 @@ Finden sich auch im umliegenden Gewebe Echinokokkusbestandteile und dadurch herv
 {{</article>}}
 
 
-{<article number="0004"  title="ICD - Stenosen präzerebraler Arterien Carotisstenose bds/ Stenosen ein-oder beidseitiger präzerebraler Arterien" collapsibleClass="d-inline-block" groupId="icdfaq">}}
-
-<table border="1" style="border-collapse: collapse;">
-  <tr>
-    <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Stenose/n präzerebraler Arterien</td>
-  </tr>
-  <tr>
-    <th style="border: 1px solid black;">Erstellt</th>
-    <td style="border: 1px solid black;">01.01.2026</td>
-  </tr>
-  <tr>
-    <th style="border: 1px solid black;">Aktualisiert</th>
-    <td style="border: 1px solid black;"></td>
-  </tr>
-  <tr>
-    <th style="border: 1px solid black;">ICD</th>
-    <td style="border: 1px solid black;">I65.2 / I65.3</td>
-  </tr>
-  <tr>
-    <th style="border: 1px solid black;">CHOP</th>
-    <td style="border: 1px solid black;"></td>
-  </tr>
-  <tr>
-    <th style="border: 1px solid black;">Kodierregel</th>
-    <td style="border: 1px solid black;"></td>
-  </tr>
-</table>
-
-{{<markdown>}}
-**Fragestellung:**
-Wie wird eine Carotisstenose bds. erfasst? Wie werden ein- oder beidseitige Stenosen präzerebraler Arterien erfasst?
-  
-**Problem/Erläuterung:**
-Grundsätzlich gilt: Es ist stets der spezifischste ICD-Kode zu wählen, der die dokumentierte Diagnose am genauesten beschreibt. 
-
-    
-**Kodierempfehlung:**
-
-  
-{{</markdown>}}
-
-{{</article>}}
-
-
 {{<article number="0005"  title="ICD - Ulcus hypertonicum (Martorell)" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
