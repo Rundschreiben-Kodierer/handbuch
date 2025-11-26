@@ -223,8 +223,6 @@ Wie wird eine Carotisstenose bds. erfasst? Wie werden ein- oder beidseitige Sten
 **Problem/Erläuterung:**
 Grundsätzlich gilt: Es ist stets der spezifischste ICD-Kode zu wählen, der die dokumentierte Diagnose am genauesten beschreibt. 
 {{</markdown>}}
- 
-{{<markdown>}}
 <body>
     <ul>
         <li><b>Beidseitiger Verschluss einer einzelnen präzerebralen Arterie</b> (z. B. Arteria carotis) wird mit dem spezifischen Kode <b>I65.-</b> unter Angabe der Lateralität verschlüsselt. 
@@ -235,7 +233,7 @@ Grundsätzlich gilt: Es ist stets der spezifischste ICD-Kode zu wählen, der die
         </li>
     </ul>
 </body>
-
+{{<markdown>}}
     
 **Kodierempfehlung:**
 
