@@ -665,7 +665,7 @@ Ausnahme: Es bestehen CHOP-Kodes, bei denen im Beachte angegeben ist, dass die g
 
 {{<markdown>}}
 **Problem/Erläuterung:**
-{{</markdown>}}
+
 Unter den Elementegruppen 99.84.1- Kontaktisolierung, nach Anzahl Behandlungstage, 
 99.84.2- Tröpfchenisolierung, […] und 99.84.3- Aerosolisolierung, […] ist folgendes «Exklusivum – Kode weglassen» angegeben: 
 
@@ -674,7 +674,7 @@ mit multiresistenten Erregern, nach Anzahl Behandlungstage (93.59.5-)».
 
 Dies bedeutet, dass die zeitgleiche Kodierung von 93.59.5- und 99.84.1-, 99.84.2-, 99.84.3- nicht gestattet ist. Werden 99.84.1-, 99.84.2-, 99.84.3- zeitlich versetzt erbracht zur 93.59.5- können die Kodes im gleichen Fall erfasst werden. Die Erfassung von 99.84.1-, 99.84.2-, 99.84.3- darf nie für das gleiche Zeitintervall wie 93.59.5- erfolgen.
 
-
+{{</markdown>}}
   
   
 {{</article>}}
@@ -1253,16 +1253,16 @@ Zur Zählung der behandelten Segmente werden nur die Segmente, an denen das Syst
 
 
 
-{{<article number="0024"  title="CHOP - 39.99.21 Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0024"  title="CHOP - Stabilisierung der Wirbelsäule und Stellungskorrektur – Zählung der Segmente" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Anomalie des Aortenisthmus / Aortenisthmusstenose</td>
+    <td style="border: 1px solid black;">Stabilisierung / Stellungskorrektur der Wirbelsäule / Zugang dorsal und/ oder dorsolateral / ventral, Zählung Segmente</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Erstellt</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0879</td>
+    <td style="border: 1px solid black;">Stabilisierung / Stellungskorrektur der Wirbelsäule / Zugang dorsal und/ oder dorsolateral / ventral, Zählung Segmente</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aktualisiert</th>
@@ -1274,7 +1274,7 @@ Zur Zählung der behandelten Segmente werden nur die Segmente, an denen das Syst
   </tr>
   <tr>
     <th style="border: 1px solid black;">CHOP</th>
-    <td style="border: 1px solid black;">39.99.21</td>
+    <td style="border: 1px solid black;">7A.7- / 7A.B4.-</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Kodierregel</th>
@@ -1284,8 +1284,17 @@ Zur Zählung der behandelten Segmente werden nur die Segmente, an denen das Syst
 
 {{<markdown>}}
 **Problem/Erläuterung:**
+Für die Subkategorien 7A.71.- bis 7A.74.- erfolgte die Aufgliederung in 5. Stelle für den Zugang «dorsal und dorsolateral», bzw. «ventral», in 6. Stelle nach der Anzahl behandelter Segmente (aufgegliedert bis 14 und mehr). 
+Das «und» ist gemäss CHOP-Konventionen als «und/oder» zu verstehen. 
+  
+Das «Beachte» unter 7A.7- _Stabilisierung der Wirbelsäule und Stellungskorrektur_ lautet: 
+_«Erfolgt der Zugang für gewisse Segmente von dorsal sowie von ventral, so ist für das gesamte Eingriffsgebiet die gesamte Anzahl der Segmente, die von dorsal operiert wurden mit einem Kode anzugeben, sowie die gesamte Anzahl der Segmente, die von ventral operiert wurden mit einem anderen Kode. Zusätzlich wird der Zusatzkode der gesamten Anzahl operierter Segmente angegeben.»_ 
+Die dorsolateralen Zugänge zählen zu den dorsalen Zugängen. Sprich das Segment wird nicht doppelt gezählt, wenn es von dorsal sowie dorsolateral operiert wird.
+  
+Im Beispiel der folgenden Abbildung erfolgte eine Spondylodese über sechs Wirbel, d.h. über fünf Segmente. Drei Segmente werden von dorsal und/oder dorsolateral operiert, 4 Segmente von ventral. Es werden somit ein Kode für drei Segmente «dorsal und dorsolateral» sowie ein Kode für vier Segmente «ventral» erfasst. Zusätzlich wird der entsprechende Kode der Subkategorie 7A.B4.- _Summe der operierten Segmente der Wirbelsäule_ für fünf Segmente kodiert.
+  
 {{</markdown>}}
-Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Methode mit einem präzisen Kode aus Kapitel 7 <font color="green">"Operationen am kardiovaskulären System"</font> abgebildet. Gibt es einen präzisen Kode, wird 39.99.21 <I>Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen</I>nicht kodiert. 
+
   
   
 {{</article>}}
@@ -1293,16 +1302,17 @@ Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Metho
 
 
 
-{{<article number="0025"  title="CHOP - 39.99.21 Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0025"  title="CHOP – knöcherne Fusion mit Instrumentierung – Wirbelsäule " collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Anomalie des Aortenisthmus / Aortenisthmusstenose</td>
+    <td style="border: 1px solid black;">Fusion Wirbelsäule / Instrumentierung / Knochenanlagerung, Knochentransplantation, Knochenersatz an der Wirbelsäule, stabilisierende Massnahmen
+</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Erstellt</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0879</td>
+    <td style="border: 1px solid black;">01.01.2026 - Neu</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aktualisiert</th>
@@ -1314,7 +1324,7 @@ Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Metho
   </tr>
   <tr>
     <th style="border: 1px solid black;">CHOP</th>
-    <td style="border: 1px solid black;">39.99.21</td>
+    <td style="border: 1px solid black;">7A.71.-</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Kodierregel</th>
@@ -1324,8 +1334,15 @@ Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Metho
 
 {{<markdown>}}
 **Problem/Erläuterung:**
+Der Kode 7A.71.- _Fusion von Wirbeln mit Stabilisierung der Wirbelsäule_ ist anzuwenden, wenn eine **Wirbelfusion/ Versteifung** mit Stabilisierung durchgeführt wird, die zusätzlich eines der folgenden Merkmale erfüllt:
+o	Implantation von stabilisierenden Materialien (z. B. Cage, Schrauben-Stab-Systeme, Platten) sowie eine der folgenden Massnahmen 
+o	Dekortikation der Gelenkflächen oder
+o	Osteotomie oder
+o	Anbringen von Knochen(ersatz)material 
+  
+Es liegt keine **potenzielle Bewegungserhaltung** im betroffenen Segment vor.
 {{</markdown>}}
-Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Methode mit einem präzisen Kode aus Kapitel 7 <font color="green">"Operationen am kardiovaskulären System"</font> abgebildet. Gibt es einen präzisen Kode, wird 39.99.21 <I>Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen</I>nicht kodiert. 
+
   
   
 {{</article>}}
@@ -1333,16 +1350,19 @@ Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Metho
 
 
 
-{{<article number="0026"  title="CHOP - 39.99.21 Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0026"  title="CHOP – knöcherne Fusion ohne Instrumentierung – Wirbelsäule" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Anomalie des Aortenisthmus / Aortenisthmusstenose</td>
+    <td style="border: 1px solid black;">Knöcherne Fusion Wirbelsäule ohne Instrumentierung / Knochentransplantation, Knochentransposition, 
+Knochenersatz an der Wirbelsäule
+
+</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Erstellt</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0879</td>
+    <td style="border: 1px solid black;">01.01.2026 - Neu</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aktualisiert</th>
@@ -1354,7 +1374,7 @@ Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Metho
   </tr>
   <tr>
     <th style="border: 1px solid black;">CHOP</th>
-    <td style="border: 1px solid black;">39.99.21</td>
+    <td style="border: 1px solid black;">7A.51.14 / 7A.B1.- / 03.03.- / 03.04.- / 7A.71.-</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Kodierregel</th>
@@ -1364,8 +1384,12 @@ Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Metho
 
 {{<markdown>}}
 **Problem/Erläuterung:**
+Eine knöcherne Fusion (Arthrodese / Spondylodese) der Wirbelsäule, bei der ausschliesslich autogenes Knochenmaterial (Spongiosa und/oder kortikospongiöser Span) eingebracht wird und **keine Instrumentierung** (z. B. Schrauben, Platten, Stäbe) erfolgt, wird mit dem CHOP-Kode **7A.51.14** _Knochentransplantation an der Wirbelsäule, autogen, Spongiosa und kortikospongiöser Span_ erfasst. 
+Bei einer durchgeführten Laminotomie, Laminektomie oder Laminoplastik ist dies zusätzlich mit dem zutreffenden Kode der Subkategorie 03.03.- _Laminotomie, Laminektomie und Laminoplastik_ zu erfassen. Die Höhe des Eingriffs an der Wirbelsäule wird mit dem zutreffenden Kode der Subkategorie 7A.B1.- _Höhe des Eingriffs an der Wirbelsäule_ kodiert, während der Zugang zur Wirbelsäule mit dem Kode 03.04.- dargestellt wird. 
+Es darf kein Kode der Subkategorie 7A.71.- _Fusion von Wirbeln mit Stabilisierung der Wirbelsäule_ erfasst werden.
+  
 {{</markdown>}}
-Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Methode mit einem präzisen Kode aus Kapitel 7 <font color="green">"Operationen am kardiovaskulären System"</font> abgebildet. Gibt es einen präzisen Kode, wird 39.99.21 <I>Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen</I>nicht kodiert. 
+
   
   
 {{</article>}}
@@ -1373,16 +1397,16 @@ Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Metho
 
 
 
-{{<article number="0027"  title="CHOP - 39.99.21 Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0027"  title="CHOP – Stabilisierung Wirbelsäule ohne Fusion" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Anomalie des Aortenisthmus / Aortenisthmusstenose</td>
+    <td style="border: 1px solid black;">Nicht-dynamische Stabilisierung Wirbelsäule, Instrumentierung / Osteosynthese an der Wirbelsäule</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Erstellt</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0879</td>
+    <td style="border: 1px solid black;">01.01.2026 - Neu</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aktualisiert</th>
@@ -1394,7 +1418,7 @@ Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Metho
   </tr>
   <tr>
     <th style="border: 1px solid black;">CHOP</th>
-    <td style="border: 1px solid black;">39.99.21</td>
+    <td style="border: 1px solid black;">37A.73.-</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Kodierregel</th>
@@ -1404,8 +1428,11 @@ Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Metho
 
 {{<markdown>}}
 **Problem/Erläuterung:**
+Die Subkategorie **7A.73.-** wird verwendet zur Kodierung einer operativen Massnahme, bei der die Wirbelsäule mittels Osteosynthesematerialien wie **Schrauben, Stäben oder Platten** mechanisch **stabilisiert bzw. geschient** wird. Die Stabilisierung ist potenziell **reversibel –** durch eine **partielle oder vollständige Materialentfernung (OSME) nach Frakturheilung**.
+
+Typischerweise wird dieser Kode bei **traumatischen Pathologien**, insbesondere **thorakolumbalen Frakturen**, angewendet. Er kommt jedoch auch bei **anderen Indikationen** zum Einsatz.
 {{</markdown>}}
-Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Methode mit einem präzisen Kode aus Kapitel 7 <font color="green">"Operationen am kardiovaskulären System"</font> abgebildet. Gibt es einen präzisen Kode, wird 39.99.21 <I>Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen</I>nicht kodiert. 
+
   
   
 {{</article>}}
