@@ -551,16 +551,16 @@ Folgende Tabelle präzisiert die Kodierung von Eingriffskode und Zusatzkode bei 
 
 
 
-{{<article number="0010"  title="CHOP - 39.99.21 Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0010"  title="CHOP- Lateralitätsmarkierung in der CHOP" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Anomalie des Aortenisthmus / Aortenisthmusstenose</td>
+    <td style="border: 1px solid black;">Lateralitätsmarkierung / paarige Organe / nicht- paarige Organe</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Erstellt</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0879</td>
+    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0759</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aktualisiert</th>
@@ -572,7 +572,90 @@ Folgende Tabelle präzisiert die Kodierung von Eingriffskode und Zusatzkode bei 
   </tr>
   <tr>
     <th style="border: 1px solid black;">CHOP</th>
-    <td style="border: 1px solid black;">39.99.21</td>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Kodierregel</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+</table>
+
+{{<markdown>}}
+**Erläuterung:**
+Die Angabe der Lateralität ist nur bei paarigen Organen ein Muss (entsprechende Kennzeichnung in der CHOP mit «[L]» in der PDF- Datei oder «Lateral» in der CSV-Datei). Bei nicht paarigen Organen oder Körperteilen «kann» die Lateralität erfasst werden, «muss» aber nicht.
+  {{</markdown>}}
+  
+{{</article>}}
+
+
+
+
+{{<article number="0011"  title="CHOP– Berücksichtigte Therapiedauer Gruppentherapie / Einzeltherapie" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+
+<table border="1" style="border-collapse: collapse;">
+  <tr>
+    <th style="border: 1px solid black;">Schlagwort</th>
+    <td style="border: 1px solid black;">Zählung Therapieminuten / Gruppentherapie / Einzeltherapie / Therapiedauer</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Erstellt</th>
+    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0762</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Aktualisiert</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">ICD</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">CHOP</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Kodierregel</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+</table>
+
+{{<markdown>}}
+**Problem/Erläuterung:**
+Bei einer Gruppentherapie ist die gesamte Therapiedauer zu zählen, an der die Patientin / der Patient anwesend ist. Z. B. wenn fünf Patient/innen an einer Stunde Gruppentherapie mit einer Dauer von 60 Minuten teilgenommen haben, werden bei jeder Patientin/jedem Patienten 60 Minuten Therapiedauer angerechnet. Bei einer Therapiedauer von 50 Minuten werden 50 Minuten angerechnet usw.
+Wird bei einer Gruppen- oder Einzeltherapie die gleiche Therapieart / Therapieleistung durch zwei oder mehr Therapeuten / Pflegefachpersonen erbracht, ist die erbrachte Therapiezeit einmal zu zählen. 
+Es gilt unabhängig von der Anzahl der Therapeuten, die Therapiezeit am/an den Patienten. Es gilt die Therapiezeit, welche jede/r Patient/in erhalten hat, unabhängig von der Anzahl der Therapeuten.
+   
+Ausnahme: Es bestehen CHOP-Kodes, bei denen im Beachte angegeben ist, dass die gleiche Therapieart / Therapieleistung, die durch zwei oder mehr Therapeutinnen / Therapeuten / Pflegefachpersonen erbracht wird, die Zeit pro Therapeutin / Therapeut / Pflegefachperson zu zählen ist.
+{{</markdown>}}
+
+  
+  
+{{</article>}}
+
+
+
+{{<article number="0012"  title="CHOP- Abgrenzung 93.59.5- und 99.84.1-, 99.84.2-, 99.84.3-" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+
+<table border="1" style="border-collapse: collapse;">
+  <tr>
+    <th style="border: 1px solid black;">Schlagwort</th>
+    <td style="border: 1px solid black;">Isolationsmassnahmen / Isolierung / Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Erstellt</th>
+    <td style="border: 1px solid black;">Erstellt:	01.01.2026 – Basis RS 2025/2: 0758/2</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Aktualisiert</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">ICD</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">CHOP</th>
+    <td style="border: 1px solid black;">93.59.5- / 99.84.1- / 99.84.2- / 99.84.3-</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Kodierregel</th>
@@ -583,7 +666,15 @@ Folgende Tabelle präzisiert die Kodierung von Eingriffskode und Zusatzkode bei 
 {{<markdown>}}
 **Problem/Erläuterung:**
 {{</markdown>}}
-Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Methode mit einem präzisen Kode aus Kapitel 7 <font color="green">"Operationen am kardiovaskulären System"</font> abgebildet. Gibt es einen präzisen Kode, wird 39.99.21 <I>Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen</I>nicht kodiert. 
+Unter den Elementegruppen 99.84.1- Kontaktisolierung, nach Anzahl Behandlungstage, 
+99.84.2- Tröpfchenisolierung, […] und 99.84.3- Aerosolisolierung, […] ist folgendes «Exklusivum – Kode weglassen» angegeben: 
+
+EXKL. «Kode weglassen - Komplexbehandlung bei Besiedlung oder Infektion
+mit multiresistenten Erregern, nach Anzahl Behandlungstage (93.59.5-)». 
+
+Dies bedeutet, dass die zeitgleiche Kodierung von 93.59.5- und 99.84.1-, 99.84.2-, 99.84.3- nicht gestattet ist. Werden 99.84.1-, 99.84.2-, 99.84.3- zeitlich versetzt erbracht zur 93.59.5- können die Kodes im gleichen Fall erfasst werden. Die Erfassung von 99.84.1-, 99.84.2-, 99.84.3- darf nie für das gleiche Zeitintervall wie 93.59.5- erfolgen.
+
+
   
   
 {{</article>}}
@@ -591,16 +682,16 @@ Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Metho
 
 
 
-{{<article number="0011"  title="CHOP - 39.99.21 Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0013"  title= CHOP- Berechnung der Aufenthaltstage für Kodes der Elementegruppe 93.59.5-" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Anomalie des Aortenisthmus / Aortenisthmusstenose</td>
+    <td style="border: 1px solid black;">Infektion mit multiresistenten Erregern / Isolationsmassnahme</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Erstellt</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0879</td>
+    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0758/1</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aktualisiert</th>
@@ -612,7 +703,7 @@ Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Metho
   </tr>
   <tr>
     <th style="border: 1px solid black;">CHOP</th>
-    <td style="border: 1px solid black;">39.99.21</td>
+    <td style="border: 1px solid black;">93.59.5-</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Kodierregel</th>
@@ -622,47 +713,9 @@ Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Metho
 
 {{<markdown>}}
 **Problem/Erläuterung:**
+Zur Berechnung der Behandlungstage für die CHOP-Kodes der Elementegruppe 93.59.5- _Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage_ darf bei Erfüllung der Mindestmerkmale der Eintritts- sowie Austrittstag nur als **ein Behandlungstag** angerechnet werden.
 {{</markdown>}}
-Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Methode mit einem präzisen Kode aus Kapitel 7 <font color="green">"Operationen am kardiovaskulären System"</font> abgebildet. Gibt es einen präzisen Kode, wird 39.99.21 <I>Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen</I>nicht kodiert. 
-  
-  
-{{</article>}}
 
-
-
-{{<article number="0012"  title="CHOP - 39.99.21 Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen" collapsibleClass="d-inline-block" groupId="chopfaq">}}
-
-<table border="1" style="border-collapse: collapse;">
-  <tr>
-    <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Anomalie des Aortenisthmus / Aortenisthmusstenose</td>
-  </tr>
-  <tr>
-    <th style="border: 1px solid black;">Erstellt</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0879</td>
-  </tr>
-  <tr>
-    <th style="border: 1px solid black;">Aktualisiert</th>
-    <td style="border: 1px solid black;"></td>
-  </tr>
-  <tr>
-    <th style="border: 1px solid black;">ICD</th>
-    <td style="border: 1px solid black;"></td>
-  </tr>
-  <tr>
-    <th style="border: 1px solid black;">CHOP</th>
-    <td style="border: 1px solid black;">39.99.21</td>
-  </tr>
-  <tr>
-    <th style="border: 1px solid black;">Kodierregel</th>
-    <td style="border: 1px solid black;"></td>
-  </tr>
-</table>
-
-{{<markdown>}}
-**Problem/Erläuterung:**
-{{</markdown>}}
-Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Methode mit einem präzisen Kode aus Kapitel 7 <font color="green">"Operationen am kardiovaskulären System"</font> abgebildet. Gibt es einen präzisen Kode, wird 39.99.21 <I>Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen</I>nicht kodiert. 
   
   
 {{</article>}}
@@ -670,16 +723,16 @@ Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Metho
 
 
 
-{{<article number="0013"  title="CHOP - 39.99.21 Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0014"  title="CHOP - Komplexbehandlungen - Kode «[…], bis 6 Behandlungstage" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Anomalie des Aortenisthmus / Aortenisthmusstenose</td>
+    <td style="border: 1px solid black;">Komplexbehandlungen / 6 Behandlungstage /  Mindestmerkmale</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Erstellt</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0879</td>
+    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0782</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aktualisiert</th>
@@ -701,8 +754,11 @@ Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Metho
 
 {{<markdown>}}
 **Problem/Erläuterung:**
+Die Kodes «[…], bis 6 Behandlungstage» werden in Fällen erfasst, bei denen während des stationären Aufenthalts an maximal 6 Behandlungstagen die jeweils genannte Komplexbehandlung durchgeführt wurde. Diese Kodes beinhalten keine Mindestanzahl Behandlungstage. 
+D. h. bei diesen Kodes entfallen die Mindestmerkmale, die sich auf eine Woche oder bestimmte Anzahl Behandlungstage beziehen. Mindestmerkmale, wie Indikationen, Assessments, Behandlungsinfrastruktur (z. B. Zertifizierung) und Qualifikationen sind einzuhalten
+
 {{</markdown>}}
-Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Methode mit einem präzisen Kode aus Kapitel 7 <font color="green">"Operationen am kardiovaskulären System"</font> abgebildet. Gibt es einen präzisen Kode, wird 39.99.21 <I>Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen</I>nicht kodiert. 
+
   
   
 {{</article>}}
@@ -710,16 +766,16 @@ Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Metho
 
 
 
-{{<article number="0014"  title="CHOP - 39.99.21 Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0015"  title="Neurologische Befunderhebung des Stroke" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Anomalie des Aortenisthmus / Aortenisthmusstenose</td>
+    <td style="border: 1px solid black;">Stroke Unit / Stroke Center, Komplexdiagnostik des akuten Hirnschlags in Stroke Unit oder Stroke Center / neurologische Befunderhebung / Auslegung Mindestmerkmal Punkt 3</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Erstellt</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0879</td>
+    <td style="border: 1px solid black;">01.01.2026 - Neu</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aktualisiert</th>
@@ -731,7 +787,7 @@ Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Metho
   </tr>
   <tr>
     <th style="border: 1px solid black;">CHOP</th>
-    <td style="border: 1px solid black;">39.99.21</td>
+    <td style="border: 1px solid black;">99.A7. / 99.BA.1- / 99.BA.2- / 99.BA.3</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Kodierregel</th>
@@ -741,8 +797,17 @@ Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Metho
 
 {{<markdown>}}
 **Problem/Erläuterung:**
+Gemäss dem offiziellen Referenzdokument zur Zertifizierung von Stroke Units und Stroke Centern (Version V vom 18.11.2021, Swiss Federation of Clinical Neuro-Societies SFCNS) muss der klinisch-neurologische Befund mindestens viermal innerhalb von 24 Stunden systematisch überprüft werden.
+  
+Der vom jeweiligen Stroke Center oder der Stroke Unit etablierte Prozess zur Früherkennung von Hirnschlagprogression, Rezidiven und anderen neurologischen Komplikationen wird im Rahmen der Zertifizierung evaluiert und durch eine erfolgreiche Zertifizierung in seiner Validität bestätigt.
+  
+Die Subkategorie 99.A7 _Komplexdiagnostik des akuten Hirnschlags in Stroke Unit oder Stroke Center, bis maximal 24 Stunden_ und die Elementegruppen 99.BA.1- _Neurologische Komplexbehandlung des akuten Hirnschlags in Stroke Center [SC], nach Behandlungsdauer in Stunden_ und 99.BA.2- _Neurologische Komplexbehandlung des akuten Hirnschlags in einer Stroke Unit [SU], nach Behandlungsdauer in Stunden_ verweisen auf die erwähnten Referenzdokumente. Entsprechend ist die klinische Überwachung bei diesen Kodes gemäss den Vorgaben durchzuführen und zu dokumentieren. 
+
+Wichtig:
+Die alleinige Erfassung des Glasgow Coma Scale (GCS) ist für den klinisch neurologischen Befund zur Hirnschlag-Überwachung im Anwendungsbereich der 99.A7, 99.BA.1- und 99.BA.2- nicht ausreichend.
+
 {{</markdown>}}
-Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Methode mit einem präzisen Kode aus Kapitel 7 <font color="green">"Operationen am kardiovaskulären System"</font> abgebildet. Gibt es einen präzisen Kode, wird 39.99.21 <I>Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen</I>nicht kodiert. 
+
   
   
 {{</article>}}
@@ -750,16 +815,16 @@ Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Metho
 
 
 
-{{<article number="0015"  title="CHOP - 39.99.21 Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0016"  title="CHOP - Auflistung von Massnahmen in den Komplexbehandlungen oder Komplexdiagnostiken" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Anomalie des Aortenisthmus / Aortenisthmusstenose</td>
+    <td style="border: 1px solid black;"Massnahmen Komplexdiagnostiken / Komplexbehandlungen, Therapiebereiche / Mindestmerkmale</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Erstellt</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0879</td>
+    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0761</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aktualisiert</th>
@@ -771,7 +836,7 @@ Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Metho
   </tr>
   <tr>
     <th style="border: 1px solid black;">CHOP</th>
-    <td style="border: 1px solid black;">39.99.21</td>
+    <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Kodierregel</th>
@@ -781,8 +846,27 @@ Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Metho
 
 {{<markdown>}}
 **Problem/Erläuterung:**
+In den Beachte zu den Komplexbehandlungen oder Komplexdiagnostiken angegebene Auflistungen, die auf Sätze folgen im Sinne von «Einsatz von mindestens x Therapiebereichen» oder «Mindestens x der folgenden Massnahmen», bedeuten, dass mindestens x verschiedene der aufgelisteten Therapiebereiche oder Massnahmen zum Einsatz kommen. Der Einsatz / die Durchführung von x-mal der gleichen Massnahme / des gleichen Therapiebereichs erfüllt die Mindestanforderungen nicht.
+Beispiel: Unter 99.A6.- Neurologische Komplexdiagnostik wird im «Beachte» folgende Auflistung aufgeführt:
+  
+Beachte: 	[…]
+mind. 3 der folgenden Massnahmen:
+-	LP (Liquorentnahme über Lumbalpunktion),
+-	craniale und spinale MRI,
+-	funktionelle Bildgebung (z. B. PET, SPECT),
+-	Diffusion Imaging, Perfusion Imaging
+-	volumetrische und morphometrische Bildanalyse, 
+-	elektrophysiologische (neurophysiologische) Diagnostik,
+-	neurosonologische/psychologische/psychiatrische Diagnostik,
+-	neuropsychologische Diagnostik,
+-	Elektroenzephalographie [EEG] (mobiles Langzeit-EEG über mindestens 24 Stunden oder mehr und polygraphisches Nachtschlaf-EEG und video- und radiotelemetriertes elektroenzephalographisches Monitoring über mindestens 4 Stunden und Orthostase-EEG)    
+  
+Wird dreimal ein EEG durchgeführt ohne zwei weitere der aufgelisteten Massnahmen sind die Mindestmerkmale nicht erfüllt und ein Kode der Subkategorie 99.A6.- kann nicht erfasst werden.
+Werden hingegen ein craniales MRI, eine neurophysiologische Diagnostik sowie ein mobiles Langzeit-EEG über mindestens 24 Stunden durchgeführt mit Erfüllen der anderen Mindestmerkmale, kann ein Kode der Subkategorie 99.A6.- erfasst werden.
+
+
 {{</markdown>}}
-Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Methode mit einem präzisen Kode aus Kapitel 7 <font color="green">"Operationen am kardiovaskulären System"</font> abgebildet. Gibt es einen präzisen Kode, wird 39.99.21 <I>Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen</I>nicht kodiert. 
+
   
   
 {{</article>}}
@@ -790,16 +874,16 @@ Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Metho
 
 
 
-{{<article number="0016"  title="CHOP - 39.99.21 Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0017"  title="CHOP - 99.C- Pflege-Komplexbehandlung – Zuordnung einer Pflegeintervention nur zu einer Leistungsgruppe" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Anomalie des Aortenisthmus / Aortenisthmusstenose</td>
+    <td style="border: 1px solid black;">Pflege-Komplexbehandlung / Leistungsgruppen / Pflegeinterventionen</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Erstellt</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0879</td>
+    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0760</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aktualisiert</th>
@@ -811,7 +895,7 @@ Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Metho
   </tr>
   <tr>
     <th style="border: 1px solid black;">CHOP</th>
-    <td style="border: 1px solid black;">39.99.21</td>
+    <td style="border: 1px solid black;">99.C-</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Kodierregel</th>
@@ -821,8 +905,13 @@ Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Metho
 
 {{<markdown>}}
 **Problem/Erläuterung:**
+Pflegeinterventionen könnten theoretisch mehreren Leistungsgruppen zugeordnet werden. In der Pflege-Komplexbehandlung darf eine geleistete Pflegeintervention jedoch nur einer Leistungsgruppe zugeordnet werden. Dies bedeutet nicht, dass sie zwingend der Leistungsgruppe zugeordnet wird in der bereits Aufwandspunkte für diesen Tag erfasst wurden.
+  
+Beispiel 1: Ein «Transfer auf die Toilette» könnte im Rahmen des Pflegeinterventionsprofils 1.1 der Leistungsgruppe 1 «Bewegung» oder im Rahmen des Pflegeinterventionsprofils 3.1 der Leistungsgruppe 3 «Ausscheidung» geleistet werden. Wenn die Aktivität unter der Leistungsgruppe 1 erfasst wird, darf sie nicht zusätzlich bei der Leistungsgruppe 3 erfasst werden, oder umgekehrt. Die Aktivität darf nur einem der zwei Pflegeinterventionsprofile zugeordnet werden.
+  
+Beispiel 2: Eine «Hygienemassnahme» könnte im Rahmen des Pflegeinterventionsprofils 2.1 der Leistungsgruppe 2 «Körperpflege» oder im Rahmen des Pflegeinterventionsprofils 3.1 der Leistungsgruppe 3 «Ausscheidung» geleistet werden. Wenn die Aktivität unter der Leistungsgruppe 2 erfasst wird, darf sie nicht zusätzlich bei der Leistungsgruppe 3 erfasst werden, oder umgekehrt. Die Aktivität darf nur einem der zwei Pflegeinterventionsprofile zugeordnet werden.
 {{</markdown>}}
-Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Methode mit einem präzisen Kode aus Kapitel 7 <font color="green">"Operationen am kardiovaskulären System"</font> abgebildet. Gibt es einen präzisen Kode, wird 39.99.21 <I>Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen</I>nicht kodiert. 
+ 
   
   
 {{</article>}}
@@ -830,16 +919,16 @@ Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Metho
 
 
 
-{{<article number="0017"  title="CHOP - 39.99.21 Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0018"  title="CHOP - Palliativmedizin - Fallzusammenführung und PBA" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Anomalie des Aortenisthmus / Aortenisthmusstenose</td>
+    <td style="border: 1px solid black;">Fallzusammenführung / PBA</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Erstellt</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0879</td>
+    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0754/5</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aktualisiert</th>
@@ -851,7 +940,7 @@ Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Metho
   </tr>
   <tr>
     <th style="border: 1px solid black;">CHOP</th>
-    <td style="border: 1px solid black;">39.99.21</td>
+    <td style="border: 1px solid black;">93.8A.2- / 93.8B.-</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Kodierregel</th>
@@ -860,9 +949,95 @@ Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Metho
 </table>
 
 {{<markdown>}}
+
+**Fragestellung:**
+Ist das standardisierte palliativmedizinische Basisassessment [PBA] bei der Rückkehr eines Patienten / einer Patientin im Rahmen einer Fallzusammenführung zu wiederholen?
+  
+
 **Problem/Erläuterung:**
+Folgende Fragestellung und Erläuterung bezieht sich auf die Elementegruppe 93.8A.2- _Palliativmedizinische Komplexbehandlung (ausserhalb einer eigenständigen spezialisierten Palliative Care Station), nach Anzahl Behandlungstage_ und die Subkategorie 93.8B.- _Behandlung auf einer eigenständigen spezialisierten Palliative Care Station_.
+  
+Erläuterung:
+Bei einer Fallzusammenführung mit palliativmedizinischer Komplexbehandlung im ersten Fall ist nach der Rückkehr der Patientin / des Patienten das PBA zu aktualisieren (d.h. nicht, dass es vollständig erneut durchgeführt werden muss. Es kann auch nur dokumentiert werden, dass die Werte des vorherigen PBAs weiter gelten).
+
+
+{{</markdown>}}  
+  
+{{</article>}}
+
+
+
+
+{{<article number="0019"  title="CHOP - Palliativmedizin - Erläuterungen zu den Mindestmerkmalen" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+
+<table border="1" style="border-collapse: collapse;">
+  <tr>
+    <th style="border: 1px solid black;">Schlagwort</th>
+    <td style="border: 1px solid black;">Interprofessionelle Teambesprechung / palliativmedizinische Komplexbehandlung / palliative care</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Erstellt</th>
+    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0754/2, 0754/3, 0754/4</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Aktualisiert</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">ICD</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">CHOP</th>
+    <td style="border: 1px solid black;">93.8A.2- / 93.8B.-</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Kodierregel</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+</table>
+
+{{<markdown>}}
+
+Folgende Fragestellungen und Erläuterungen beziehen sich auf die Elementegruppe 93.8A.2- _Palliativmedizinische Komplexbehandlung (ausserhalb einer eigenständigen spezialisierten Palliative Care Station), nach Anzahl Behandlungstage_ und die Subkategorie 93.8B.- _Behandlung auf einer eigenständigen spezialisierten Palliative Care Station_.
+  
+**Fragestellung Nr. 1:**
+In Bezug auf Mindestmerkmal Punkt 3, _Behandlungsteam und Therapie_ der 93.8A.2- und _Mindestmerkmal Punkt 3_, Therapie sowie _Mindestmerkmal_ Punkt 4, Behandlungsteam der 93.8B.-: Welche Therapiebereiche gibt es und was wird zu den 6 Stunden gezählt?
+  
+**Erläuterung Nr. 1:**
+Die Aufzählung der Therapiebereiche (Sozialarbeit/-pädagogik, Psychologie, Physiotherapie, Ergotherapie, Logopädie, Ernährungsberatung/-therapie, Seelsorge, Kunsttherapie) ist sowohl für 93.8A.2- als für 93.8B.- abschliessend. 
+  
+Grundvoraussetzung für die Kodierung ist die Dokumentation der Gespräche und Therapien. Die Art der Therapie, deren Dauer und das Datum der Durchführung müssen von allen beteiligten Berufsgruppen nachvollziehbar dokumentiert sein. 
+Es gibt keine Festlegung für die Mindesttherapiedauer einer Therapieeinheit. 
+Die dokumentierten Patienten-, Angehörigen- und Familiengespräche können von allen aufgeführten Berufsgruppen (Arzt, Pflege, Sozialarbeit/-pädagogik, Psychologie, Physiotherapie, Ergotherapie, Logopädie, Ernährungsberatung/-therapie, Seel-sorge, Kunsttherapie) erbracht werden. Zu diesen gehört ebenfalls die Information des Patienten und dessen Angehörigen im Rahmen der Therapie. 
+Die dokumentierten und spezifischen Koordinationsaufgaben in direktem Zusammenhang mit dem Behandlungs- und Beratungsprozess sowie die Patienten-, Angehörigen- und Familiengespräche werden den 6 Stunden angerechnet. 
+  
+  
+
+Folgendes zählt nicht zu den 6 Stunden:
+•	Die wöchentlichen interprofessionellen Teambesprechungen und die Wegzeiten,
+•	Die interprofessionellen Visiten (Mindestmerkmal Punkt 3, Therapie, a) der Subkategorie 93.8B.-).
+   
+  
+**Fragestellung Nr. 2:**
+Was ist unter «wöchentlich» bei der «wöchentlicher interprofessioneller Teambesprechung» unter 93.8A.2- im _Mindestmerkmal_ Punkt 4, _Therapieplanung und -kontrolle_ und unter 93.8B.- im _Mindestmerkmal_ Punkt 5, _Therapieplanung und -kontrolle_?
+  
+**Erläuterung Nr. 2:**
+«wöchentlich» ist struktur- und nicht patientenbezogen. Das bedeutet, dass im klinischen Betrieb mindestens einmal pro Woche eine interprofessionelle Teambesprechung stattfindet.
+  
+Beispiel: 
+Der Patient ist 10 Tage hospitalisiert (von Montag der Woche 1 bis Mittwoch der Woche 2). Der Patient tritt am Mittwoch der 2. Woche aus oder verstirbt. Die Teambesprechungen finden jeweils donnerstags statt. Für die 2. Woche ist das strukturbezogene Mindestmerkmal ebenfalls erfüllt.
+  
+**Fragestellung Nr. 3:**
+Was ist unter «interprofessionell» unter 93.8A.2- im _Mindestmerkmal_ Punkt 4, _Therapieplanung und -kontrolle_ und unter 93.8B.- in den _Mindestmerkmal_ Punkt 3, _Therapie und Mindestmerkmal_ Punkt 5, _Therapieplanung und -kontrolle_ zu verstehen?
+  
+**Erläuterung Nr. 3:**
+Bei der «wöchentlichen interprofessionellen Teambesprechung» ist unter «interprofessionell» zu verstehen, dass im Minimum Arzt, Pflege und eine weitere Berufsgruppe teilnehmen (s. _Mindestmerkmal_ Punkt 5, _Therapieplanung und -kontrolle_ bei 93.8A.2- und 93.8B.-).
+Bei der «interprofessionellen Visite» ist unter «interprofessionell» zu verstehen, dass im Minimum Arzt und Pflege teilnehmen (s. _Mindestmerkmal_ Punkt 3, _Therapie_ 93.8B.-).
+  
+  
 {{</markdown>}}
-Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Methode mit einem präzisen Kode aus Kapitel 7 <font color="green">"Operationen am kardiovaskulären System"</font> abgebildet. Gibt es einen präzisen Kode, wird 39.99.21 <I>Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen</I>nicht kodiert. 
+ 
   
   
 {{</article>}}
@@ -870,16 +1045,16 @@ Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Metho
 
 
 
-{{<article number="0018"  title="CHOP - 39.99.21 Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0020"  title="CHOP - Standardisiertes palliativmedizinisches Basisassessment - SENS" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Anomalie des Aortenisthmus / Aortenisthmusstenose</td>
+    <td style="border: 1px solid black;">Interprofessionelle Teambesprechung / palliativmedizinische Komplexbehandlung / palliative care</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Erstellt</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0879</td>
+    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0754/2, 0754/3, 0754/4</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aktualisiert</th>
@@ -891,7 +1066,83 @@ Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Metho
   </tr>
   <tr>
     <th style="border: 1px solid black;">CHOP</th>
-    <td style="border: 1px solid black;">39.99.21</td>
+    <td style="border: 1px solid black;">93.8A.2- / 93.8B.-</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Kodierregel</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+</table>
+
+{{<markdown>}}
+Folgende Fragestellungen und Erläuterungen beziehen sich auf die Elementegruppe 93.8A.2- _Palliativmedizinische Komplexbehandlung (ausserhalb einer eigenständigen spezialisierten Palliative Care Station), nach Anzahl Behandlungstage_ und die Subkategorie 93.8B.- _Behandlung auf einer eigenständigen spezialisierten Palliative Care Station_.
+  
+**Fragestellung Nr. 1:**
+In Bezug auf _Mindestmerkmal_ Punkt 3, _Behandlungsteam und Therapie_ der 93.8A.2- und _Mindestmerkmal_ Punkt 3, _Therapie sowie Mindestmerkmal_ Punkt 4, _Behandlungsteam_ der 93.8B.-: Welche Therapiebereiche gibt es und was wird zu den 6 Stunden gezählt?
+  
+**Erläuterung Nr. 1:**
+Die Aufzählung der Therapiebereiche (Sozialarbeit/-pädagogik, Psychologie, Physiotherapie, Ergotherapie, Logopädie, Ernährungsberatung/-therapie, Seelsorge, Kunsttherapie) ist sowohl für 93.8A.2- als für 93.8B.- abschliessend. 
+  
+Grundvoraussetzung für die Kodierung ist die Dokumentation der Gespräche und Therapien. Die Art der Therapie, deren Dauer und das Datum der Durchführung müssen von allen beteiligten Berufsgruppen nachvollziehbar dokumentiert sein. 
+Es gibt keine Festlegung für die Mindesttherapiedauer einer Therapieeinheit. 
+Die dokumentierten Patienten-, Angehörigen- und Familiengespräche können von allen aufgeführten Berufsgruppen (Arzt, Pflege, Sozialarbeit/-pädagogik, Psychologie, Physiotherapie, Ergotherapie, Logopädie, Ernährungsberatung/-therapie, Seel-sorge, Kunsttherapie) erbracht werden. Zu diesen gehört ebenfalls die Information des Patienten und dessen Angehörigen im Rahmen der Therapie. 
+Die dokumentierten und spezifischen Koordinationsaufgaben in direktem Zusammenhang mit dem Behandlungs- und Beratungsprozess sowie die Patienten-, Angehörigen- und Familiengespräche werden den 6 Stunden angerechnet. 
+  
+
+  
+Folgendes zählt nicht zu den 6 Stunden:
+•	Die wöchentlichen interprofessionellen Teambesprechungen und die Wegzeiten,
+•	Die interprofessionellen Visiten (_Mindestmerkmal_ Punkt 3, Therapie, a) der Subkategorie 93.8B.-).
+  
+  
+**Fragestellung Nr. 2:**
+Was ist unter «wöchentlich» bei der «wöchentlicher interprofessioneller Teambesprechung» unter 93.8A.2- im _Mindestmerkmal_ Punkt 4, _Therapieplanung und -kontrolle_ und unter 93.8B.- im _Mindestmerkmal_ Punkt 5, _Therapieplanung und -kontrolle_?
+  
+**Erläuterung Nr. 2:**
+«wöchentlich» ist struktur- und nicht patientenbezogen. Das bedeutet, dass im klinischen Betrieb mindestens einmal pro Woche eine interprofessionelle Teambesprechung stattfindet.
+  
+Beispiel: 
+Der Patient ist 10 Tage hospitalisiert (von Montag der Woche 1 bis Mittwoch der Woche 2). Der Patient tritt am Mittwoch der 2. Woche aus oder verstirbt. Die Teambesprechungen finden jeweils donnerstags statt. Für die 2. Woche ist das strukturbezogene Mindestmerkmal ebenfalls erfüllt.
+  
+**Fragestellung Nr. 3:**
+Was ist unter «interprofessionell» unter 93.8A.2- im _Mindestmerkmal_ Punkt 4, _Therapieplanung und -kontrolle_ und unter 93.8B.- in den _Mindestmerkmal_ Punkt 3, _Therapie und Mindestmerkmal_ Punkt 5, _Therapieplanung und -kontrolle_ zu verstehen?
+  
+**Erläuterung Nr. 3:**
+Bei der «wöchentlichen interprofessionellen Teambesprechung» ist unter «interprofessionell» zu verstehen, dass im Minimum Arzt, Pflege und eine weitere Berufsgruppe teilnehmen (s. _Mindestmerkmal_ Punkt 5, _Therapieplanung und -kontrolle_ bei 93.8A.2- und 93.8B.-).
+Bei der «interprofessionellen Visite» ist unter «interprofessionell» zu verstehen, dass im Minimum Arzt und Pflege teilnehmen (s. _Mindestmerkmal_ Punkt 3, _Therapie_ 93.8B.-).
+  
+  
+
+{{</markdown>}}
+
+  
+{{</article>}}
+
+
+
+
+{{<article number="0021"  title="CHOP - Erfassung «Zusatzleistung auf einer eigenständigen spezialisierten Palliative Care Station, nach Anzahl Behandlungstage»" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+
+<table border="1" style="border-collapse: collapse;">
+  <tr>
+    <th style="border: 1px solid black;">Schlagwort</th>
+    <td style="border: 1px solid black;">Zusatzkodes der Elementegruppe 93.8B.2-</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Erstellt</th>
+    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0754/6</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Aktualisiert</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">ICD</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">CHOP</th>
+    <td style="border: 1px solid black;">93.8B.-</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Kodierregel</th>
@@ -901,8 +1152,55 @@ Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Metho
 
 {{<markdown>}}
 **Problem/Erläuterung:**
+Die Elementegruppe 93.8B.1- stellt den _«Aufenthalt auf einer eigenständigen spezialisierten Palliative Care Station, nach Anzahl Behandlungstage»_ dar. Falls die Mindestmerkmale unter 93.8B.- sowie unter 93.8B.1- erfüllt sind, ist der entsprechende Kode unter 93.8B.1- für die gesamte Behandlungsdauer auf der spezialisierten Palliative Care Station zu erfassen. Falls in einer oder mehreren Behandlungswochen parallel zum Aufenthalt auf einer eigenständigen spezialisierten Palliative Care Station spezialisierte Palliative Care Zusatzleistungen erbracht werden, kann der entsprechende Kode der Elementegruppe 93.8B.2- _Zusatzleistung auf einer eigenständigen spezialisierten Palliative Care Station, nach Anzahl Behandlungstage_ erfasst werden.
+  
+Folgende zwei Beispiele veranschaulichen die gemeinte Erfassungsweise der Zusatzkodes der Elementegruppe 93.8B.2- _«Zusatzleistung auf einer eigenständigen spezialisierten Palliative Care Station, nach Anzahl Behandlungstage»_.
+
 {{</markdown>}}
-Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Methode mit einem präzisen Kode aus Kapitel 7 <font color="green">"Operationen am kardiovaskulären System"</font> abgebildet. Gibt es einen präzisen Kode, wird 39.99.21 <I>Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen</I>nicht kodiert. 
+
+  
+  
+{{</article>}}
+
+
+
+{{<article number="0022"  title="CHOP - Spondylodese: Zählung der Segmente bei Stabwechsel und bei Verlängerung" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+
+<table border="1" style="border-collapse: collapse;">
+  <tr>
+    <th style="border: 1px solid black;">Schlagwort</th>
+    <td style="border: 1px solid black;">Stabwechsel Wirbelsäule / Neufusion Segmente bei Überbrückung / Revisionseingriff Wirbelsäule / Zählung der Segmente</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Erstellt</th>
+    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0788</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Aktualisiert</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">ICD</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">CHOP</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Kodierregel</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+</table>
+
+{{<markdown>}}
+**Problem/Erläuterung:**
+Die Segmente, bei denen anlässlich eines Revisionseingriffs an der Wirbelsäule nur die Stäbe entfernt (und diese z. B. durch längere Stäbe ersetzt werden bei Anschlusssegment-Pathologie) und bei denen sonst keine operativen Massnahmen an den Wirbelkörpern vorgenommen werden, wie z. B. Einsetzen neuer Pedikelschrauben oder eines Cages, Dekortizierung der Facettengelenke, Anlage von lokalem Knochen oder Knochenersatzmaterial, fliessen nicht in die Zählung der operierten Segmente mit ein.
+
+**Ad Zählen der Segmente bei Überbrückung:**
+Bei z. B. vorbestehender Spondylodese L2 – L4 und aktuell Neufusion der Segmente L1/L2 und L4/L5 wird dies mit dem zutreffenden CHOP-Kode für 2 Segmente abgebildet, falls wie oben erwähnt, an den Wirbelkörpern L2 – L4 ausser der Stabanlage keine weiteren Massnahmen durchgeführt wurden.
+{{</markdown>}}
+
   
   
 {{</article>}}
@@ -910,16 +1208,16 @@ Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Metho
 
 
 
-{{<article number="0019"  title="CHOP - 39.99.21 Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0023"  title="CHOP- 7A.A2 Growing rod – Zusatzkode – Segmente beim spezifischen Eingriff" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Anomalie des Aortenisthmus / Aortenisthmusstenose</td>
+    <td style="border: 1px solid black;">Growing rod, dynamische Stabilisierung der Wirbelsäule / Zählung der Segmente</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Erstellt</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0879</td>
+    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0819</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aktualisiert</th>
@@ -931,7 +1229,7 @@ Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Metho
   </tr>
   <tr>
     <th style="border: 1px solid black;">CHOP</th>
-    <td style="border: 1px solid black;">39.99.21</td>
+    <td style="border: 1px solid black;">7A.A2 / 7A.72.1-</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Kodierregel</th>
@@ -941,167 +1239,13 @@ Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Metho
 
 {{<markdown>}}
 **Problem/Erläuterung:**
+Der Kode 7A.A2 Implantation von mitwachsenden oder expandierenden Systemen, Wirbelsäule ist ein Zusatzkode und kann daher nicht allein kodiert werden. 
+  
+Beim Eingriff handelt es sich um eine **dynamische Stabilisierung der Wirbelsäule**, die mit **7A.72.1- D_ynamische Stabilisierung der Wirbelsäule, Zugang dorsal und dorsolateral_** erfasst wird.
+Zur Zählung der behandelten Segmente werden nur die Segmente, an denen das System befestigt wird, berücksichtigt. 
+
 {{</markdown>}}
-Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Methode mit einem präzisen Kode aus Kapitel 7 <font color="green">"Operationen am kardiovaskulären System"</font> abgebildet. Gibt es einen präzisen Kode, wird 39.99.21 <I>Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen</I>nicht kodiert. 
-  
-  
-{{</article>}}
 
-
-
-
-{{<article number="0020"  title="CHOP - 39.99.21 Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen" collapsibleClass="d-inline-block" groupId="chopfaq">}}
-
-<table border="1" style="border-collapse: collapse;">
-  <tr>
-    <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Anomalie des Aortenisthmus / Aortenisthmusstenose</td>
-  </tr>
-  <tr>
-    <th style="border: 1px solid black;">Erstellt</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0879</td>
-  </tr>
-  <tr>
-    <th style="border: 1px solid black;">Aktualisiert</th>
-    <td style="border: 1px solid black;"></td>
-  </tr>
-  <tr>
-    <th style="border: 1px solid black;">ICD</th>
-    <td style="border: 1px solid black;"></td>
-  </tr>
-  <tr>
-    <th style="border: 1px solid black;">CHOP</th>
-    <td style="border: 1px solid black;">39.99.21</td>
-  </tr>
-  <tr>
-    <th style="border: 1px solid black;">Kodierregel</th>
-    <td style="border: 1px solid black;"></td>
-  </tr>
-</table>
-
-{{<markdown>}}
-**Problem/Erläuterung:**
-{{</markdown>}}
-Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Methode mit einem präzisen Kode aus Kapitel 7 <font color="green">"Operationen am kardiovaskulären System"</font> abgebildet. Gibt es einen präzisen Kode, wird 39.99.21 <I>Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen</I>nicht kodiert. 
-  
-  
-{{</article>}}
-
-
-
-
-{{<article number="0021"  title="CHOP - 39.99.21 Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen" collapsibleClass="d-inline-block" groupId="chopfaq">}}
-
-<table border="1" style="border-collapse: collapse;">
-  <tr>
-    <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Anomalie des Aortenisthmus / Aortenisthmusstenose</td>
-  </tr>
-  <tr>
-    <th style="border: 1px solid black;">Erstellt</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0879</td>
-  </tr>
-  <tr>
-    <th style="border: 1px solid black;">Aktualisiert</th>
-    <td style="border: 1px solid black;"></td>
-  </tr>
-  <tr>
-    <th style="border: 1px solid black;">ICD</th>
-    <td style="border: 1px solid black;"></td>
-  </tr>
-  <tr>
-    <th style="border: 1px solid black;">CHOP</th>
-    <td style="border: 1px solid black;">39.99.21</td>
-  </tr>
-  <tr>
-    <th style="border: 1px solid black;">Kodierregel</th>
-    <td style="border: 1px solid black;"></td>
-  </tr>
-</table>
-
-{{<markdown>}}
-**Problem/Erläuterung:**
-{{</markdown>}}
-Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Methode mit einem präzisen Kode aus Kapitel 7 <font color="green">"Operationen am kardiovaskulären System"</font> abgebildet. Gibt es einen präzisen Kode, wird 39.99.21 <I>Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen</I>nicht kodiert. 
-  
-  
-{{</article>}}
-
-
-
-{{<article number="0022"  title="CHOP - 39.99.21 Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen" collapsibleClass="d-inline-block" groupId="chopfaq">}}
-
-<table border="1" style="border-collapse: collapse;">
-  <tr>
-    <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Anomalie des Aortenisthmus / Aortenisthmusstenose</td>
-  </tr>
-  <tr>
-    <th style="border: 1px solid black;">Erstellt</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0879</td>
-  </tr>
-  <tr>
-    <th style="border: 1px solid black;">Aktualisiert</th>
-    <td style="border: 1px solid black;"></td>
-  </tr>
-  <tr>
-    <th style="border: 1px solid black;">ICD</th>
-    <td style="border: 1px solid black;"></td>
-  </tr>
-  <tr>
-    <th style="border: 1px solid black;">CHOP</th>
-    <td style="border: 1px solid black;">39.99.21</td>
-  </tr>
-  <tr>
-    <th style="border: 1px solid black;">Kodierregel</th>
-    <td style="border: 1px solid black;"></td>
-  </tr>
-</table>
-
-{{<markdown>}}
-**Problem/Erläuterung:**
-{{</markdown>}}
-Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Methode mit einem präzisen Kode aus Kapitel 7 <font color="green">"Operationen am kardiovaskulären System"</font> abgebildet. Gibt es einen präzisen Kode, wird 39.99.21 <I>Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen</I>nicht kodiert. 
-  
-  
-{{</article>}}
-
-
-
-
-{{<article number="0023"  title="CHOP - 39.99.21 Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen" collapsibleClass="d-inline-block" groupId="chopfaq">}}
-
-<table border="1" style="border-collapse: collapse;">
-  <tr>
-    <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Anomalie des Aortenisthmus / Aortenisthmusstenose</td>
-  </tr>
-  <tr>
-    <th style="border: 1px solid black;">Erstellt</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0879</td>
-  </tr>
-  <tr>
-    <th style="border: 1px solid black;">Aktualisiert</th>
-    <td style="border: 1px solid black;"></td>
-  </tr>
-  <tr>
-    <th style="border: 1px solid black;">ICD</th>
-    <td style="border: 1px solid black;"></td>
-  </tr>
-  <tr>
-    <th style="border: 1px solid black;">CHOP</th>
-    <td style="border: 1px solid black;">39.99.21</td>
-  </tr>
-  <tr>
-    <th style="border: 1px solid black;">Kodierregel</th>
-    <td style="border: 1px solid black;"></td>
-  </tr>
-</table>
-
-{{<markdown>}}
-**Problem/Erläuterung:**
-{{</markdown>}}
-Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Methode mit einem präzisen Kode aus Kapitel 7 <font color="green">"Operationen am kardiovaskulären System"</font> abgebildet. Gibt es einen präzisen Kode, wird 39.99.21 <I>Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen</I>nicht kodiert. 
   
   
 {{</article>}}
