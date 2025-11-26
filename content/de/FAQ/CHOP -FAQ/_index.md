@@ -332,14 +332,16 @@ Tag X:
 </table>
 
 {{<markdown>}}
-**Problem/Erläuterung:**
+**Problem/Erläuterung:**  
 Folgende Tabelle gibt eine grobe Übersicht der Abbildung der vaskulären Stents und Stent-Grafts [gecoverte Stents] in der CHOP.
+  
 {{</markdown>}}
 {{<lineBreak>}}
 {{<insertImage image="FAQCHOP0005Tabelle.png" class="edge max-w-90">}}
 {{<lineBreak>}}
 
 {{<markdown>}}
+  
 Um die Anzahl der implantierten Stents / Stent-Grafts wiederzugeben, ist der entsprechende Kode pro implantierten Stent / Stent-Graft zu erfassen.
 Die Zusatzkodes, die es erlaubten, die Summe, der über den Aufenthalt implantierten Stents / Stent-Grafts zu erfassen, wurden aus der CHOP entfernt.
 Nota bene: Die Resektion von Blutgefässen mit Ersatz (s. 38.4-) wird in dieser Klarstellung/FAQ bewusst nicht erwähnt.
