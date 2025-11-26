@@ -418,16 +418,16 @@ Die Kodes 38.7X.11 <I>Einsetzen eines Embolie-Protektionssystems in die Vena cav
 
 
 
-{{<article number="0007"  title="CHOP - 39.99.21 Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0007"  title="CHOP - Sonstige Operationen an den Gallenwegen " collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Anomalie des Aortenisthmus / Aortenisthmusstenose</td>
+    <td style="border: 1px solid black;">Gallenwege / offen chirurgische / laparoskopische Eingriffe</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Erstellt</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0879</td>
+    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0903</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aktualisiert</th>
@@ -439,7 +439,7 @@ Die Kodes 38.7X.11 <I>Einsetzen eines Embolie-Protektionssystems in die Vena cav
   </tr>
   <tr>
     <th style="border: 1px solid black;">CHOP</th>
-    <td style="border: 1px solid black;">39.99.21</td>
+    <td style="border: 1px solid black;">51.99.00 - 51.99.14 / 51.99.91 / 51.99.99</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Kodierregel</th>
@@ -449,8 +449,16 @@ Die Kodes 38.7X.11 <I>Einsetzen eines Embolie-Protektionssystems in die Vena cav
 
 {{<markdown>}}
 **Problem/Erläuterung:**
+Folgende Kodes der Subkategorie 51.99.- Sonstige Operationen an den Gallenwegen sind nur für offen chirurgische oder laparoskopische Eingriffe abzubilden:
+•	51.99.00 n.n.bez. und 51.99.99 sonstige
+•	51.99.11 Destruktion an den Gallengängen
+•	51.99.12 Einlage einer Drainage in den Gallengang
+•	51.99.13 Blutstillung an den Gallengängen
+•	51.99.14 Revision an den Gallengängen
+•	51.99.91 Sonstige Rekonstruktion der Gallenwegen
+
+Der Kode 51.99.90 Sonstige endoskopische Operationen an den Gallenwegen, wie im Titel angegeben, ist nur für endoskopische Interventionen zu erfassen.
 {{</markdown>}}
-Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Methode mit einem präzisen Kode aus Kapitel 7 <font color="green">"Operationen am kardiovaskulären System"</font> abgebildet. Gibt es einen präzisen Kode, wird 39.99.21 <I>Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen</I>nicht kodiert. 
   
   
 {{</article>}}
@@ -458,16 +466,16 @@ Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Metho
 
 
 
-{{<article number="0008"  title="CHOP - 39.99.21 Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0008"  title="CHOP - Wechsel einer Knieendoprothese und Implantation weiterer/anderer Komponenten" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Anomalie des Aortenisthmus / Aortenisthmusstenose</td>
+    <td style="border: 1px solid black;">Wechsel Knieendoprothese / Implantation Knieendoprothese / Wechsel Komponenten / Patella-Rückflächenersatz</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Erstellt</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0879</td>
+    <td style="border: 1px solid black;">Erstellt: 	01.01.2026 – Basis RS 2025/2: 0808</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aktualisiert</th>
@@ -479,7 +487,7 @@ Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Metho
   </tr>
   <tr>
     <th style="border: 1px solid black;">CHOP</th>
-    <td style="border: 1px solid black;">39.99.21</td>
+    <td style="border: 1px solid black;">81.54.2-; 81.54.3-; 81.54.4-</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Kodierregel</th>
@@ -490,24 +498,29 @@ Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Metho
 {{<markdown>}}
 **Problem/Erläuterung:**
 {{</markdown>}}
-Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Methode mit einem präzisen Kode aus Kapitel 7 <font color="green">"Operationen am kardiovaskulären System"</font> abgebildet. Gibt es einen präzisen Kode, wird 39.99.21 <I>Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen</I>nicht kodiert. 
+Wird eine bestehende Knieendoprothese, unabhängig vom Typ, durch eine andere Knieendoprothese ersetzt, ist für die Implantation der Kode mit der Bezeichnung «bei einem Prothesenwechsel» zu wählen. 
+
+Z. B. Explantation einer Hemiendoprothese und Implantation einer Totalendoprothese am gleichen Knie: für die Implantation muss der Kode 81.54.31 <I>Implantation einer Standard-Totalendoprothese des Kniegelenks bei einem Prothesenwechsel</I> erfasst werden und <b>nicht</b> der Kode 81.54.21 <I>Erstimplantation einer Standard-Totalendoprothese des Kniegelenks</I>.
+
+Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückflächenersatz eingesetzt, muss der Kode 81.54.42 <I>Implantation eines Patella-Rückflächenersatz bei einem Wechsel</I> erfasst werden und <b>nicht</b> der Kode 81.54.27 <I>Erstimplantation eines Patella-Rückflächenersatzes</I>.
   
   
+
 {{</article>}}
 
 
 
 
-{{<article number="0009"  title="CHOP - 39.99.21 Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0009"  title="CHOP - «Einzeitige Eingriffe an Mittelhand- und Fingerstrahlen oder Mittelfuss- und Zehenstrahlen»" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Anomalie des Aortenisthmus / Aortenisthmusstenose</td>
+    <td style="border: 1px solid black;">Eingriffe Hand, Fuss, Mittelhand- Fingerstrahlen, Mittelfuss-Zehenstrahlen</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Erstellt</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0879</td>
+    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0818</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aktualisiert</th>
@@ -519,7 +532,7 @@ Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Metho
   </tr>
   <tr>
     <th style="border: 1px solid black;">CHOP</th>
-    <td style="border: 1px solid black;">39.99.21</td>
+    <td style="border: 1px solid black;">00.9C.-</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Kodierregel</th>
@@ -529,10 +542,10 @@ Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Metho
 
 {{<markdown>}}
 **Problem/Erläuterung:**
+Folgende Tabelle präzisiert die Kodierung von Eingriffskode und Zusatzkode bei einzeitigen Mehrfacheingriffen, am Beispiel der Hand.
+  
+  
 {{</markdown>}}
-Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Methode mit einem präzisen Kode aus Kapitel 7 <font color="green">"Operationen am kardiovaskulären System"</font> abgebildet. Gibt es einen präzisen Kode, wird 39.99.21 <I>Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen</I>nicht kodiert. 
-  
-  
 {{</article>}}
 
 
