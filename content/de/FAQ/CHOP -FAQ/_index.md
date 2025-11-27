@@ -214,9 +214,7 @@ Beispiel: Am Tag X werden zwei selbstexpandierende Prothesen in den Ösophagus e
 Tag X:
     {{</grid/column>}}
     {{<grid/column>}}
-        {{<markdown>}}
-42.81.41 Einsetzen und Wechsel von zwei selbstexpandierenden Prothesen       (permanenter Tubus) in den Ösophagus, endoskopisch
-        {{</markdown>}}
+42.81.41 Einsetzen und Wechsel von zwei selbstexpandierenden Prothesen (permanenter Tubus) in den Ösophagus, endoskopisch
     {{</grid/column>}}
 {{</grid>}}
 
@@ -225,9 +223,7 @@ Tag X:
 Tag Y:
     {{</grid/column>}}
     {{<grid/column>}}
-        {{<markdown>}}
 42.81.40 Einsetzen und Wechsel einer selbstexpandierenden Prothese (permanenter Tubus) in den Ösophagus, endoskopisch
-        {{</markdown>}}
     {{</grid/column>}}
 {{</grid>}}
 <br>
@@ -658,17 +654,26 @@ Ausnahme: Es bestehen CHOP-Kodes, bei denen im Beachte angegeben ist, dass die g
 <b>Problem/Erläuterung:</b><br>
 Unter den Elementegruppen 99.84.1- <L>Kontaktisolierung, nach Anzahl Behandlungstage,</L> 
 99.84.2- <L>Tröpfchenisolierung, […]</L> und 99.84.3- <L>Aerosolisolierung, […]</L> ist folgendes «Exklusivum – Kode weglassen» angegeben: 
-
+<br>
 {{<grid class="ps-0">}}
     {{<grid/column>}}
+
+    {{</grid/column>}}
+    {{<grid/column>}}
+        {{<markdown>}}
 EXKL. «Kode weglassen - Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage (93.59.5-)».     
+        {{</markdown>}}
     {{</grid/column>}}
 {{</grid>}}
+<br>
 Dies bedeutet, dass die zeitgleiche Kodierung von 93.59.5- und 99.84.1-, 99.84.2-, 99.84.3- nicht gestattet ist. Werden 99.84.1-, 99.84.2-, 99.84.3- zeitlich versetzt erbracht zur 93.59.5- können die Kodes im gleichen Fall erfasst werden. Die Erfassung von 99.84.1-, 99.84.2-, 99.84.3- darf nie für das gleiche Zeitintervall wie 93.59.5- erfolgen.
 <br>  
 <br>
   
 {{</article>}}
+
+
+
 
 
 
