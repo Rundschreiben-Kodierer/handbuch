@@ -285,6 +285,8 @@ Folgende Kodes haben keine Unterteilung nach Anzahl der implantierten Stents/Pro
 
 </div>
 
+<br>
+<br>
 
 {{<grid class="ps-0">}}
     {{<grid/column>}}
@@ -472,6 +474,9 @@ Einlegen eines Stents in die prostatische Harnröhre
     {{</grid/column>}}
     {{<grid/column>}}
         {{<markdown>}}
+<br>
+<br>
+
 09.83		Konjunktivozystorhinostomie mit Einsetzen von Tubus oder Stent<br>
 31.93		Ersetzen eines Larynx- oder Trachea-Stents<br>
 31.96		Einsetzen eines Larynx- oder Trachea-Stents<br>
@@ -490,6 +495,8 @@ Einlegen eines Stents in die prostatische Harnröhre
         {{</markdown>}}
     {{</grid/column>}}
 {{</grid>}}
+<br>
+<br>
 Je Eingriff ist der Kode so oft zu kodieren, wie Stents/Prothesen implantiert wurden.
 <br>
 <br>
@@ -1080,7 +1087,7 @@ Beispiel: Unter 99.A6.- Neurologische Komplexdiagnostik wird im «Beachte» folg
 {{</markdown>}}
 <br>
 <br>
-Beachte: 	[…]  
+Beachte: 	[…]<br>
 mind. 3 der folgenden Massnahmen:
 <body>
     <ul>
@@ -1230,21 +1237,25 @@ Bei einer Fallzusammenführung mit palliativmedizinischer Komplexbehandlung im e
 </table>
 
 Folgende Fragestellungen und Erläuterungen beziehen sich auf die Elementegruppe 93.8A.2- <I>Palliativmedizinische Komplexbehandlung (ausserhalb einer eigenständigen spezialisierten Palliative Care Station), nach Anzahl Behandlungstage</I> und die Subkategorie 93.8B.- <I>Behandlung auf einer eigenständigen spezialisierten Palliative Care Station</I>.
-<br>  
+<br>
+<br>
 <b>Fragestellung Nr. 1:</b><br>  
 In Bezug auf Mindestmerkmal Punkt 3, _Behandlungsteam und Therapie_ der 93.8A.2- und _Mindestmerkmal Punkt 3_, Therapie sowie _Mindestmerkmal_ Punkt 4, Behandlungsteam der 93.8B.-: Welche Therapiebereiche gibt es und was wird zu den 6 Stunden gezählt?
 <br>
+<br>
 <b>Erläuterung Nr. 1:</b><br>  
 Die Aufzählung der Therapiebereiche (Sozialarbeit/-pädagogik, Psychologie, Physiotherapie, Ergotherapie, Logopädie, Ernährungsberatung/-therapie, Seelsorge, Kunsttherapie) ist sowohl für 93.8A.2- als für 93.8B.- abschliessend. 
+<br>
 <br>  
 Grundvoraussetzung für die Kodierung ist die Dokumentation der Gespräche und Therapien. Die Art der Therapie, deren Dauer und das Datum der Durchführung müssen von allen beteiligten Berufsgruppen nachvollziehbar dokumentiert sein.<br>
 Es gibt keine Festlegung für die Mindesttherapiedauer einer Therapieeinheit.<br>
 Die dokumentierten Patienten-, Angehörigen- und Familiengespräche können von allen aufgeführten Berufsgruppen (Arzt, Pflege, Sozialarbeit/-pädagogik, Psychologie, Physiotherapie, Ergotherapie, Logopädie, Ernährungsberatung/-therapie, Seel-sorge, Kunsttherapie) erbracht werden. Zu diesen gehört ebenfalls die Information des Patienten und dessen Angehörigen im Rahmen der Therapie.<br>
 Die dokumentierten und spezifischen Koordinationsaufgaben in direktem Zusammenhang mit dem Behandlungs- und Beratungsprozess sowie die Patienten-, Angehörigen- und Familiengespräche werden den 6 Stunden angerechnet. 
 <br>
-Folgendes zählt nicht zu den 6 Stunden:  
-•	Die wöchentlichen interprofessionellen Teambesprechungen und die Wegzeiten,  
-•	Die interprofessionellen Visiten (Mindestmerkmal Punkt 3, Therapie, a) der Subkategorie 93.8B.-).
+<br>
+Folgendes zählt nicht zu den 6 Stunden:  <br>
+•	Die wöchentlichen interprofessionellen Teambesprechungen und die Wegzeiten,  <br>
+•	Die interprofessionellen Visiten (Mindestmerkmal Punkt 3, Therapie, a) der Subkategorie 93.8B.-).<br>
 <br>  
 <br>  
 <b>Fragestellung Nr. 2:</b><br>  
@@ -1261,9 +1272,11 @@ Der Patient ist 10 Tage hospitalisiert (von Montag der Woche 1 bis Mittwoch der 
 <br>  
 <b>Fragestellung Nr. 3:</b><br>  
 Was ist unter «interprofessionell» unter 93.8A.2- im _Mindestmerkmal_ Punkt 4, _Therapieplanung und -kontrolle_ und unter 93.8B.- in den _Mindestmerkmal_ Punkt 3, _Therapie und Mindestmerkmal_ Punkt 5, _Therapieplanung und -kontrolle_ zu verstehen?
-<br>  
+<br>
+<br>
 <b>Erläuterung Nr. 3:</b><br>  
 Bei der «wöchentlichen interprofessionellen Teambesprechung» ist unter «interprofessionell» zu verstehen, dass im Minimum Arzt, Pflege und eine weitere Berufsgruppe teilnehmen (s. _Mindestmerkmal_ Punkt 5, _Therapieplanung und -kontrolle_ bei 93.8A.2- und 93.8B.-).
+<br>
 <br>  
 Bei der «interprofessionellen Visite» ist unter «interprofessionell» zu verstehen, dass im Minimum Arzt und Pflege teilnehmen (s. _Mindestmerkmal_ Punkt 3, _Therapie_ 93.8B.-).
 <br>  
@@ -1446,9 +1459,11 @@ Bei z. B. vorbestehender Spondylodese L2 – L4 und aktuell Neufusion der Segmen
 </table>
 
 <b>Problem/Erläuterung:</b>
+<br>
 Der Kode 7A.A2 Implantation von mitwachsenden oder expandierenden Systemen, Wirbelsäule ist ein Zusatzkode und kann daher nicht allein kodiert werden. 
-  
-Beim Eingriff handelt es sich um eine <b>dynamische Stabilisierung der Wirbelsäule</b>, die mit <b><L>7A.72.1- Dynamische Stabilisierung der Wirbelsäule, Zugang dorsal und dorsolateral<b></L> erfasst wird.  
+<br>
+<br>
+Beim Eingriff handelt es sich um eine <b>dynamische Stabilisierung der Wirbelsäule</b>, die mit <b><L>7A.72.1- Dynamische Stabilisierung der Wirbelsäule, Zugang dorsal und dorsolateral<b></L> erfasst wird.<br>
 Zur Zählung der behandelten Segmente werden nur die Segmente, an denen das System befestigt wird, berücksichtigt. 
 
 <br>  
@@ -1490,7 +1505,7 @@ Zur Zählung der behandelten Segmente werden nur die Segmente, an denen das Syst
 
 {{<markdown>}}
 **Problem/Erläuterung:**  
-Für die Subkategorien 7A.71.- bis 7A.74.- erfolgte die Aufgliederung in 5. Stelle für den Zugang «dorsal und dorsolateral», bzw. «ventral», in 6. Stelle nach der Anzahl behandelter Segmente (aufgegliedert bis 14 und mehr). 
+Für die Subkategorien 7A.71.- bis 7A.74.- erfolgte die Aufgliederung in 5. Stelle für den Zugang «dorsal und dorsolateral», bzw. «ventral», in 6. Stelle nach der Anzahl behandelter Segmente (aufgegliedert bis 14 und mehr).  
 Das «und» ist gemäss CHOP-Konventionen als «und/oder» zu verstehen. 
   
 Das «Beachte» unter 7A.7- _Stabilisierung der Wirbelsäule und Stellungskorrektur_ lautet: 
@@ -1515,7 +1530,7 @@ Im Beispiel der folgenden Abbildung erfolgte eine Spondylodese über sechs Wirbe
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Fusion Wirbelsäule / Instrumentierung / Knochenanlagerung, Knochentransplantation, Knochenersatz an der Wirbelsäule, stabilisierende Massnahmen
+    <td style="border: 1px solid black;">Fusion Wirbelsäule / Instrumentierung / <br>Knochenanlagerung, Knochentransplantation,<br> Knochenersatz an der Wirbelsäule,<br> stabilisierende Massnahmen
 </td>
   </tr>
   <tr>
@@ -1541,7 +1556,7 @@ Im Beispiel der folgenden Abbildung erfolgte eine Spondylodese über sechs Wirbe
 </table>
 
 <b>Problem/Erläuterung:</b><br>
-Der Kode <b>7A.71.-</b> _Fusion von Wirbeln mit Stabilisierung der Wirbelsäule_ ist anzuwenden, wenn eine <b>Wirbelfusion/ Versteifung</b> mit Stabilisierung durchgeführt wird, die zusätzlich eines der folgenden Merkmale erfüllt:<br>
+Der Kode <b>7A.71.-</b> <I>Fusion von Wirbeln mit Stabilisierung der Wirbelsäule</I> ist anzuwenden, wenn eine <b>Wirbelfusion/ Versteifung</b> mit Stabilisierung durchgeführt wird, die zusätzlich eines der folgenden Merkmale erfüllt:<br>
 
 <body>
     <ul>
@@ -1566,7 +1581,7 @@ Es liegt keine <b>potenzielle Bewegungserhaltung</b> im betroffenen Segment vor.
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Knöcherne Fusion Wirbelsäule ohne Instrumentierung / Knochentransplantation, Knochentransposition, 
+    <td style="border: 1px solid black;">Knöcherne Fusion Wirbelsäule ohne <br>Instrumentierung / Knochentransplantation,<br> Knochentransposition,<br> 
 Knochenersatz an der Wirbelsäule
 
 </td>
@@ -1615,7 +1630,7 @@ Es darf **kein** Kode der Subkategorie 7A.71.- _Fusion von Wirbeln mit Stabilisi
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Nicht-dynamische Stabilisierung Wirbelsäule, Instrumentierung / Osteosynthese an der Wirbelsäule</td>
+    <td style="border: 1px solid black;">Nicht-dynamische Stabilisierung Wirbelsäule,<br> Instrumentierung / Osteosynthese an der Wirbelsäule</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Erstellt</th>
