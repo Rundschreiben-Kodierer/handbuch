@@ -245,6 +245,9 @@ Konjunktivozystorhinostomie mit Einsetzen von Tubus oder Stent
 
 {{<grid class="ps-0">}}
     {{<grid/column>}}
+ 
+    {{</grid/column>}}
+    {{<grid/column>}}
 31.93
     {{</grid/column>}}
     {{<grid/column>}}
@@ -252,6 +255,161 @@ Ersetzen eines Larynx- oder Trachea-Stents
     {{</grid/column>}}
 {{</grid>}}
 
+{{<grid class="ps-0">}}
+    {{<grid/column>}}
+ 
+    {{</grid/column>}}
+    {{<grid/column>}}
+31.96
+    {{</grid/column>}}
+    {{<grid/column>}}
+Einsetzen eines Larynx- oder Trachea-Stents
+    {{</grid/column>}}
+{{</grid>}}
+
+{{<grid class="ps-0">}}
+    {{<grid/column>}}
+ 
+    {{</grid/column>}}
+    {{<grid/column>}}
+33.91.2-
+    {{</grid/column>}}
+    {{<grid/column>}}
+Bronchusdilatation, endoskopisch, mit Einlegen oder Wechsel eines Stents/Stent-Grafts
+    {{</grid/column>}}
+{{</grid>}}
+
+{{<grid class="ps-0">}}
+    {{<grid/column>}}
+ 
+    {{</grid/column>}}
+    {{<grid/column>}}
+44.99.5-
+    {{</grid/column>}}
+    {{<grid/column>}}
+Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Magen
+    {{</grid/column>}}
+{{</grid>}}
+
+{{<grid class="ps-0">}}
+    {{<grid/column>}}
+ 
+    {{</grid/column>}}
+    {{<grid/column>}}
+44.99.6-
+    {{</grid/column>}}
+    {{<grid/column>}}
+Einlegen oder Wechsel einer selbstexpandierenden Prothese am Magen
+    {{</grid/column>}}
+{{</grid>}}
+
+{{<grid class="ps-0">}}
+    {{<grid/column>}}
+ 
+    {{</grid/column>}}
+    {{<grid/column>}}
+46.99.5-
+    {{</grid/column>}}
+    {{<grid/column>}}
+Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Darm
+    {{</grid/column>}}
+{{</grid>}}
+
+{{<grid class="ps-0">}}
+    {{<grid/column>}}
+ 
+    {{</grid/column>}}
+    {{<grid/column>}}
+46.99.6-
+    {{</grid/column>}}
+    {{<grid/column>}}
+Einlegen oder Wechsel einer selbstexpandierenden Prothese am Darm
+    {{</grid/column>}}
+{{</grid>}}
+
+{{<grid class="ps-0">}}
+    {{<grid/column>}}
+ 
+    {{</grid/column>}}
+    {{<grid/column>}}
+48.99.50
+    {{</grid/column>}}
+    {{<grid/column>}}
+Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese im Rektum
+    {{</grid/column>}}
+{{</grid>}}
+
+{{<grid class="ps-0">}}
+    {{<grid/column>}}
+ 
+    {{</grid/column>}}
+    {{<grid/column>}}
+48.99.60
+    {{</grid/column>}}
+    {{<grid/column>}}
+Einlegen oder Wechsel einer selbstexpandierenden Prothese im Rektum
+    {{</grid/column>}}
+{{</grid>}}
+
+{{<grid class="ps-0">}}
+    {{<grid/column>}}
+ 
+    {{</grid/column>}}
+    {{<grid/column>}}
+52.93.-
+    {{</grid/column>}}
+    {{<grid/column>}}
+Endoskopische Einlage, Wechsel oder Entfernen von Stent [Prothese] in den Ductus pancreaticus
+    {{</grid/column>}}
+{{</grid>}}
+
+{{<grid class="ps-0">}}
+    {{<grid/column>}}
+ 
+    {{</grid/column>}}
+    {{<grid/column>}}
+52.95.4-
+    {{</grid/column>}}
+    {{<grid/column>}}
+Einlage oder Wechsel eines nicht selbstexpandierenden Stents [Prothese] in den Pankreasgang, offen chirurgisch oder laparoskopisch
+    {{</grid/column>}}
+{{</grid>}}
+
+{{<grid class="ps-0">}}
+    {{<grid/column>}}
+ 
+    {{</grid/column>}}
+    {{<grid/column>}}
+52.95.5-
+    {{</grid/column>}}
+    {{<grid/column>}}
+Einlage oder Wechsel eines selbstexpandierenden Stents [Prothese] in den Pankreasgang, offen chirurgisch oder laparoskopisch
+    {{</grid/column>}}
+{{</grid>}}
+
+{{<grid class="ps-0">}}
+    {{<grid/column>}}
+ 
+    {{</grid/column>}}
+    {{<grid/column>}}
+58.99.10
+    {{</grid/column>}}
+    {{<grid/column>}}
+Sonstige Operationen an Urethra und Periurethralgewebe, Einlegen und Wechsel eines Stents in die Urethra
+    {{</grid/column>}}
+{{</grid>}}
+
+{{<grid class="ps-0">}}
+    {{<grid/column>}}
+ 
+    {{</grid/column>}}
+    {{<grid/column>}}
+60.99.31
+    {{</grid/column>}}
+    {{<grid/column>}}
+Einlegen eines Stents in die prostatische Harnröhre
+    {{</grid/column>}}
+{{</grid>}}
 
 {{<grid class="ps-0">}}
     {{<grid/column>}}
@@ -676,6 +834,7 @@ Ausnahme: Es bestehen CHOP-Kodes, bei denen im Beachte angegeben ist, dass die g
 <b>Problem/Erläuterung:</b><br>
 Unter den Elementegruppen 99.84.1- <L>Kontaktisolierung, nach Anzahl Behandlungstage,</L> 
 99.84.2- <L>Tröpfchenisolierung, […]</L> und 99.84.3- <L>Aerosolisolierung, […]</L> ist folgendes «Exklusivum – Kode weglassen» angegeben: 
+<br>
 <br>
 {{<grid class="ps-0">}}
     {{<grid/column>}}
