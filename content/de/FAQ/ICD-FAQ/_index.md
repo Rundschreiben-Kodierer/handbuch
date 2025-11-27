@@ -223,7 +223,7 @@ Finden sich auch im umliegenden Gewebe Echinokokkusbestandteile und dadurch herv
 
 <b>Fragestellung:</b><br>
 Wie wird eine Carotisstenose bds. erfasst? Wie werden ein- oder beidseitige Stenosen präzerebraler Arterien erfasst?
-<br>
+<br><br>
 <b>Problem/Erläuterung:</b><br>
 <b>Erläuterung:</b><br>
 Grundsätzlich gilt: Es ist stets der spezifischste ICD-Kode zu wählen, der die dokumentierte Diagnose am genauesten beschreibt.  
@@ -232,7 +232,7 @@ Grundsätzlich gilt: Es ist stets der spezifischste ICD-Kode zu wählen, der die
         <li><b>Beidseitiger Verschluss einer einzelnen präzerebralen Arterie</b> (z. B. Arteria carotis) wird mit dem spezifischen Kode <b>I65.-</b> unter Angabe der Lateralität verschlüsselt.<br>
 <b>Beispiel</b>: <I>Beidseitiger Verschluss/Stenose der Arteria carotis → <b>I65.2</b>: Verschluss und Stenose der A. carotis L bds</I>. 
 
-</li><br>
+</li>
         <li><b>Der Verschluss/ die Stenose mehrerer unterschiedlicher präzerebraler Arterien</b> wird mit dem Kode <b>I65.3</b> verschlüsselt:<br>
 <b>Beispiel:</b> <I>Einseitige oder beidseitige Stenose der Arteria vertebralis sowie zusätzlich eine einseitige oder beidseitige Stenose der Arteria carotis interna.→ <b>I65.3</b>Verschluss und Stenose mehrerer und beidseitiger präzerebraler Arterie L = R, L oder B. </I></li>
     </ul>
