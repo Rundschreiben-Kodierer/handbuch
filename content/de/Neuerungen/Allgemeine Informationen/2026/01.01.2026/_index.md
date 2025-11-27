@@ -44,11 +44,15 @@ Die gesetzlichen Grundlagen sind:
     </ul>
 </body>
 
-**Referenzversionen**
+**Referenzversionen**  
 Für die Klassifikationen, das Kodierungshandbuch <font color="green">und die Aktualisierungen zu den Publikationen der Medizinischen Klassifikationen des BFS</font> sind bei Unterschieden zwischen den Sprachversionen die Originalversionen (deutschsprachige Versionen) massgebend.
   
-**Aktualisierungen zu den Publikationen der Medizinischen Klassifikationen des BFS und FAQ/Klarstellungen** 
-<font color="green">Die «Aktualisierungen zu den Publikationen der Medizinischen Klassifikationen des BFS» enthalten Grundlagen und Zusatzinformationen (inkl. Korrekturen) zu den folgenden Publikationen der Medizinischen Klassifikationen des BFS Instrumente zur medizinischen Kodierung | Bundesamt für Statistik - BFS:
+**Aktualisierungen zu den Publikationen der Medizinischen Klassifikationen des BFS und FAQ/Klarstellungen**   
+<font color="green">Die «Aktualisierungen zu den Publikationen der Medizinischen Klassifikationen des BFS» enthalten Grundlagen und Zusatzinformationen (inkl. Korrekturen) zu den folgenden Publikationen der Medizinischen Klassifikationen des BFS <a href="Instrumente zur medizinischen Kodierung | Bundesamt für Statistik - BFS"
+   target="_blank"
+   rel="noopener noreferrer">
+    Instrumente zur medizinischen Kodierung | Bundesamt für Statistik - BFS
+</a>:
 <body>
     <ul>
         <li>Medizinisches Kodierungshandbuch</li>
@@ -56,14 +60,14 @@ Für die Klassifikationen, das Kodierungshandbuch <font color="green">und die Ak
     </ul>
 </body>
 Das Kapitel «FAQ/Klarstellungen» ersetzt das bisherige Kapitel 5 des früheren Rundschreibens. Die Inhalte des bisherigen Kapitels 5 «Anhang» wurden in das neue Kapitel «FAQ/Klarstellungen» migriert.
-Die «FAQ/Klarstellungen» leiten sich aus (wiederholten) Anfragen an das Kodierungssekretariat zu einem spezifischen oder allgemeinen Sachverhalt ab und wurden innerhalb der Fachgremien diskutiert.
+Die «FAQ/Klarstellungen» leiten sich aus (wiederholten) Anfragen an das Kodierungssekretariat zu einem spezifischen oder allgemeinen Sachverhalt ab und wurden innerhalb der Fachgremien diskutiert.  
   
-Bei den «Aktualisierungen zu den Publikationen», wie auch den «FAQ/Klarstellungen» handelt es sich um offizielle Informationen des BFS, die für die Kodierung zu berücksichtigen sind. 
+Bei den «Aktualisierungen zu den Publikationen», wie auch den «FAQ/Klarstellungen» handelt es sich um offizielle Informationen des BFS, die für die Kodierung zu berücksichtigen sind.  
 Die Inhalte der «Aktualisierungen zu den Publikationen der medizinischen Klassifikationen des BFS» werden im Rahmen der halbjährlichen Publikationszyklen – jeweils Ende Juni und Ende Dezember – zusammen mit den «FAQ/Klarstellungen» aktualisiert.</font>
   
 Die darin aufgeführten Neuerungen, Korrekturen sowie sonstigen Anpassungen treten jeweils mit dem angegebenen Gültigkeitszeitpunkt in Kraft. Eine rückwirkende Gültigkeit ist ausgeschlossen.
   
-**Analogiekodierungen und Hinweise zur Leistungserfassung und Abrechnung der SwissDRG AG**
+**Analogiekodierungen und Hinweise zur Leistungserfassung und Abrechnung der SwissDRG AG**  
 Die Hinweise zur Leistungserfassung und Abrechnung der SwissDRG AG sind ebenfalls zu berücksichtigen.
 Pfad: Analogiekodierung :: SwissDRG => Akutsomatik / Psychiatrie / Rehabilitation => Abschnitt SwissDRG => Hinweis zur Leistungserfassung und Abrechnung
 https://www.swissdrg.org/de/akutsomatik/swissdrg/hinweis-zur-leistungserfassung
@@ -74,11 +78,11 @@ https://www.swissdrg.org/de/akutsomatik/swissdrg-system-1502026/analogiekodierun
    
 Weitere Publikationen der SwissDRG AG sind unterjährig laufend zu beachten.
   
-**Anfragen zu Kodierungsrichtlinien und Klassifikationen**
+**Anfragen zu Kodierungsrichtlinien und Klassifikationen**  
 Für Anfragen zu Kodierungsrichtlinien und Klassifikationen gibt das BFS-Präzisierungen und Klarstellungen ab.
   
-**Anfragen zur Einzelfallbeurteilung**
-Vorgehen
+**Anfragen zur Einzelfallbeurteilung**  
+**Vorgehen**  
 Zu spezifischen Einzelfällen gibt das BFS Empfehlungen ohne Präjudiz für weitere ähnliche Fälle.
 Die gegebene Empfehlung ist rechtlich nicht bindend. Eine Haftung des BFS im Zusammenhang mit einer erteilten Empfehlung ist daher ausgeschlossen.
   
@@ -86,7 +90,7 @@ Es werden nur Kodierungsanfragen behandelt, welche in der Beilage **alle notwend
   
 Bei Anfragen ohne Dokumentation oder mit ungenügender Dokumentation geben wir keine Empfehlung ab.
   
-**Anonymisierung** 
+**Anonymisierung**  
 Für die Anonymisierung der zugesendeten Dokumente sind die folgenden Angaben von Patientinnen / Patienten und Angehörigen zu entfernen:
 
 <body>
@@ -100,8 +104,8 @@ Für die Anonymisierung der zugesendeten Dokumente sind die folgenden Angaben vo
 
 BFS-Mitarbeiter unterstehen nur dem Statistikgeheimnis (gemäss Art. 14 des Bundesstatistikgesetzes), sowie der Geheimhaltungspflicht gemäss Datenschutzgesetz.
   
-Achtung: Es reicht nicht, in Adobe Acrobat Pro den zu löschenden Text mit einem schwarzen oder weissen Rechteck abzudecken. Dieses lässt sich entfernen, sodass der Text darunter wieder sichtbar wird.
-Für eine ordnungsgemässe Anonymisierung einer PDF-Datei mit Adobe Acrobat Pro ist das Werkzeug „Streichen“ zu verwenden.
+Achtung: Es reicht nicht, in Adobe Acrobat Pro den zu löschenden Text mit einem schwarzen oder weissen Rechteck abzudecken. Dieses lässt sich entfernen, sodass der Text darunter wieder sichtbar wird.  
+Für eine ordnungsgemässe Anonymisierung einer PDF-Datei mit Adobe Acrobat Pro ist das Werkzeug „Streichen“ zu verwenden.  
 Die Anleitungen dazu finden Sie unter den folgenden Links: <br>
 https://creativecloud.adobe.com/de-CH/learn/acrobat/web/redact-pdf<br>
 https://helpx.adobe.com/ch_de/acrobat/kb/prevent-file-size-increase-after-sanitizing-pdf.html
