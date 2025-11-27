@@ -236,7 +236,7 @@ Folgende Kodes haben keine Unterteilung nach Anzahl der implantierten Stents/Pro
  
     {{</grid/column>}}
     {{<grid/column>}}
-09.83 
+09.83&nbsp
     {{</grid/column>}}
     {{<grid/column>}}
 Konjunktivozystorhinostomie mit Einsetzen von Tubus oder Stent
