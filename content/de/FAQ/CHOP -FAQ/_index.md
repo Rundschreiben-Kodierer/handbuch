@@ -750,7 +750,7 @@ Zur Berechnung der Behandlungstage für die CHOP-Kodes der Elementegruppe 93.59.
 
 {{<markdown>}}
 **Problem/Erläuterung:**  
-Die Kodes «[…], bis 6 Behandlungstage» werden in Fällen erfasst, bei denen während des stationären Aufenthalts an maximal 6 Behandlungstagen die jeweils genannte Komplexbehandlung durchgeführt wurde. Diese Kodes beinhalten keine Mindestanzahl Behandlungstage. 
+Die Kodes «[…], bis 6 Behandlungstage» werden in Fällen erfasst, bei denen während des stationären Aufenthalts an maximal 6 Behandlungstagen die jeweils genannte Komplexbehandlung durchgeführt wurde. Diese Kodes beinhalten keine Mindestanzahl Behandlungstage.  
 D. h. bei diesen Kodes entfallen die Mindestmerkmale, die sich auf eine Woche oder bestimmte Anzahl Behandlungstage beziehen. Mindestmerkmale, wie Indikationen, Assessments, Behandlungsinfrastruktur (z. B. Zertifizierung) und Qualifikationen sind einzuhalten
 
 {{</markdown>}}
@@ -792,7 +792,7 @@ D. h. bei diesen Kodes entfallen die Mindestmerkmale, die sich auf eine Woche od
 </table>
 
 {{<markdown>}}
-**Problem/Erläuterung:**
+**Problem/Erläuterung:**  
 Gemäss dem offiziellen Referenzdokument zur Zertifizierung von Stroke Units und Stroke Centern (Version V vom 18.11.2021, Swiss Federation of Clinical Neuro-Societies SFCNS) muss der klinisch-neurologische Befund mindestens viermal innerhalb von 24 Stunden systematisch überprüft werden.
   
 Der vom jeweiligen Stroke Center oder der Stroke Unit etablierte Prozess zur Früherkennung von Hirnschlagprogression, Rezidiven und anderen neurologischen Komplikationen wird im Rahmen der Zertifizierung evaluiert und durch eine erfolgreiche Zertifizierung in seiner Validität bestätigt.
@@ -800,7 +800,7 @@ Der vom jeweiligen Stroke Center oder der Stroke Unit etablierte Prozess zur Fr�
 Die Subkategorie 99.A7 _Komplexdiagnostik des akuten Hirnschlags in Stroke Unit oder Stroke Center, bis maximal 24 Stunden_ und die Elementegruppen 99.BA.1- _Neurologische Komplexbehandlung des akuten Hirnschlags in Stroke Center [SC], nach Behandlungsdauer in Stunden_ und 99.BA.2- _Neurologische Komplexbehandlung des akuten Hirnschlags in einer Stroke Unit [SU], nach Behandlungsdauer in Stunden_ verweisen auf die erwähnten Referenzdokumente. Entsprechend ist die klinische Überwachung bei diesen Kodes gemäss den Vorgaben durchzuführen und zu dokumentieren. 
 
 Wichtig:
-Die alleinige Erfassung des Glasgow Coma Scale (GCS) ist für den klinisch neurologischen Befund zur Hirnschlag-Überwachung im Anwendungsbereich der 99.A7, 99.BA.1- und 99.BA.2- nicht ausreichend.
+Die **alleinige** Erfassung des Glasgow Coma Scale (GCS) ist für den klinisch neurologischen Befund zur Hirnschlag-Überwachung im Anwendungsbereich der 99.A7, 99.BA.1- und 99.BA.2- nicht ausreichend.
 
 {{</markdown>}}
 <br>  
@@ -842,11 +842,11 @@ Die alleinige Erfassung des Glasgow Coma Scale (GCS) ist für den klinisch neuro
 </table>
 
 {{<markdown>}}
-**Problem/Erläuterung:**
+**Problem/Erläuterung:**  
 In den Beachte zu den Komplexbehandlungen oder Komplexdiagnostiken angegebene Auflistungen, die auf Sätze folgen im Sinne von «Einsatz von mindestens x Therapiebereichen» oder «Mindestens x der folgenden Massnahmen», bedeuten, dass mindestens x verschiedene der aufgelisteten Therapiebereiche oder Massnahmen zum Einsatz kommen. Der Einsatz / die Durchführung von x-mal der gleichen Massnahme / des gleichen Therapiebereichs erfüllt die Mindestanforderungen nicht.
 Beispiel: Unter 99.A6.- Neurologische Komplexdiagnostik wird im «Beachte» folgende Auflistung aufgeführt:
   
-Beachte: 	[…]
+Beachte: 	[…]  
 mind. 3 der folgenden Massnahmen:
 -	LP (Liquorentnahme über Lumbalpunktion),
 -	craniale und spinale MRI,
@@ -901,7 +901,7 @@ Werden hingegen ein craniales MRI, eine neurophysiologische Diagnostik sowie ein
 </table>
 
 {{<markdown>}}
-**Problem/Erläuterung:**
+**Problem/Erläuterung:**  
 Pflegeinterventionen könnten theoretisch mehreren Leistungsgruppen zugeordnet werden. In der Pflege-Komplexbehandlung darf eine geleistete Pflegeintervention jedoch nur einer Leistungsgruppe zugeordnet werden. Dies bedeutet nicht, dass sie zwingend der Leistungsgruppe zugeordnet wird in der bereits Aufwandspunkte für diesen Tag erfasst wurden.
   
 Beispiel 1: Ein «Transfer auf die Toilette» könnte im Rahmen des Pflegeinterventionsprofils 1.1 der Leistungsgruppe 1 «Bewegung» oder im Rahmen des Pflegeinterventionsprofils 3.1 der Leistungsgruppe 3 «Ausscheidung» geleistet werden. Wenn die Aktivität unter der Leistungsgruppe 1 erfasst wird, darf sie nicht zusätzlich bei der Leistungsgruppe 3 erfasst werden, oder umgekehrt. Die Aktivität darf nur einem der zwei Pflegeinterventionsprofile zugeordnet werden.
@@ -947,14 +947,14 @@ Beispiel 2: Eine «Hygienemassnahme» könnte im Rahmen des Pflegeinterventionsp
 
 {{<markdown>}}
 
-**Fragestellung:**
+**Fragestellung:**  
 Ist das standardisierte palliativmedizinische Basisassessment [PBA] bei der Rückkehr eines Patienten / einer Patientin im Rahmen einer Fallzusammenführung zu wiederholen?
   
 
-**Problem/Erläuterung:**
+**Problem/Erläuterung:**  
 Folgende Fragestellung und Erläuterung bezieht sich auf die Elementegruppe 93.8A.2- _Palliativmedizinische Komplexbehandlung (ausserhalb einer eigenständigen spezialisierten Palliative Care Station), nach Anzahl Behandlungstage_ und die Subkategorie 93.8B.- _Behandlung auf einer eigenständigen spezialisierten Palliative Care Station_.
   
-Erläuterung:
+Erläuterung:  
 Bei einer Fallzusammenführung mit palliativmedizinischer Komplexbehandlung im ersten Fall ist nach der Rückkehr der Patientin / des Patienten das PBA zu aktualisieren (d.h. nicht, dass es vollständig erneut durchgeführt werden muss. Es kann auch nur dokumentiert werden, dass die Werte des vorherigen PBAs weiter gelten).
 
 {{</markdown>}}  
@@ -999,10 +999,10 @@ Bei einer Fallzusammenführung mit palliativmedizinischer Komplexbehandlung im e
 
 Folgende Fragestellungen und Erläuterungen beziehen sich auf die Elementegruppe 93.8A.2- _Palliativmedizinische Komplexbehandlung (ausserhalb einer eigenständigen spezialisierten Palliative Care Station), nach Anzahl Behandlungstage_ und die Subkategorie 93.8B.- _Behandlung auf einer eigenständigen spezialisierten Palliative Care Station_.
   
-**Fragestellung Nr. 1:**
+**Fragestellung Nr. 1:**  
 In Bezug auf Mindestmerkmal Punkt 3, _Behandlungsteam und Therapie_ der 93.8A.2- und _Mindestmerkmal Punkt 3_, Therapie sowie _Mindestmerkmal_ Punkt 4, Behandlungsteam der 93.8B.-: Welche Therapiebereiche gibt es und was wird zu den 6 Stunden gezählt?
   
-**Erläuterung Nr. 1:**
+**Erläuterung Nr. 1:**  
 Die Aufzählung der Therapiebereiche (Sozialarbeit/-pädagogik, Psychologie, Physiotherapie, Ergotherapie, Logopädie, Ernährungsberatung/-therapie, Seelsorge, Kunsttherapie) ist sowohl für 93.8A.2- als für 93.8B.- abschliessend. 
   
 Grundvoraussetzung für die Kodierung ist die Dokumentation der Gespräche und Therapien. Die Art der Therapie, deren Dauer und das Datum der Durchführung müssen von allen beteiligten Berufsgruppen nachvollziehbar dokumentiert sein. 
@@ -1012,25 +1012,26 @@ Die dokumentierten und spezifischen Koordinationsaufgaben in direktem Zusammenha
   
   
 
-Folgendes zählt nicht zu den 6 Stunden:
-•	Die wöchentlichen interprofessionellen Teambesprechungen und die Wegzeiten,
+Folgendes zählt nicht zu den 6 Stunden:  
+•	Die wöchentlichen interprofessionellen Teambesprechungen und die Wegzeiten,  
 •	Die interprofessionellen Visiten (Mindestmerkmal Punkt 3, Therapie, a) der Subkategorie 93.8B.-).
    
   
-**Fragestellung Nr. 2:**
+**Fragestellung Nr. 2:**  
 Was ist unter «wöchentlich» bei der «wöchentlicher interprofessioneller Teambesprechung» unter 93.8A.2- im _Mindestmerkmal_ Punkt 4, _Therapieplanung und -kontrolle_ und unter 93.8B.- im _Mindestmerkmal_ Punkt 5, _Therapieplanung und -kontrolle_?
   
-**Erläuterung Nr. 2:**
+**Erläuterung Nr. 2:**  
 «wöchentlich» ist struktur- und nicht patientenbezogen. Das bedeutet, dass im klinischen Betrieb mindestens einmal pro Woche eine interprofessionelle Teambesprechung stattfindet.
   
-Beispiel: 
+Beispiel:  
 Der Patient ist 10 Tage hospitalisiert (von Montag der Woche 1 bis Mittwoch der Woche 2). Der Patient tritt am Mittwoch der 2. Woche aus oder verstirbt. Die Teambesprechungen finden jeweils donnerstags statt. Für die 2. Woche ist das strukturbezogene Mindestmerkmal ebenfalls erfüllt.
   
-**Fragestellung Nr. 3:**
+**Fragestellung Nr. 3:**  
 Was ist unter «interprofessionell» unter 93.8A.2- im _Mindestmerkmal_ Punkt 4, _Therapieplanung und -kontrolle_ und unter 93.8B.- in den _Mindestmerkmal_ Punkt 3, _Therapie und Mindestmerkmal_ Punkt 5, _Therapieplanung und -kontrolle_ zu verstehen?
   
-**Erläuterung Nr. 3:**
+**Erläuterung Nr. 3:**  
 Bei der «wöchentlichen interprofessionellen Teambesprechung» ist unter «interprofessionell» zu verstehen, dass im Minimum Arzt, Pflege und eine weitere Berufsgruppe teilnehmen (s. _Mindestmerkmal_ Punkt 5, _Therapieplanung und -kontrolle_ bei 93.8A.2- und 93.8B.-).
+  
 Bei der «interprofessionellen Visite» ist unter «interprofessionell» zu verstehen, dass im Minimum Arzt und Pflege teilnehmen (s. _Mindestmerkmal_ Punkt 3, _Therapie_ 93.8B.-).
 
 {{</markdown>}}
@@ -1072,41 +1073,14 @@ Bei der «interprofessionellen Visite» ist unter «interprofessionell» zu vers
 </table>
 
 {{<markdown>}}
-Folgende Fragestellungen und Erläuterungen beziehen sich auf die Elementegruppe 93.8A.2- _Palliativmedizinische Komplexbehandlung (ausserhalb einer eigenständigen spezialisierten Palliative Care Station), nach Anzahl Behandlungstage_ und die Subkategorie 93.8B.- _Behandlung auf einer eigenständigen spezialisierten Palliative Care Station_.
+**Problem/Erläuterung:**  
+**Ist SENS ebenfalls ein standardisiertes palliativmedizinisches Basisassessment (PBA)?**  
+Mit dem SENS-Assessment werden folgende Bereiche der Palliativversorgung abgedeckt: Symptommanagement, Entscheidungsfindung/ End of Life Vorbereitung, Netzwerk-Organisation, Support der Angehörigen. SENS integriert alle Themenbereiche der gängigen Ziele, Definitionen und Modelle.  
+Somit ist auch ein dokumentiertes SENS-Assessment als standardisiertes palliativmedizinisches Basisassessment für die Kodes 93.8A.2- und 93.8B.- anzuerkennen.
   
-**Fragestellung Nr. 1:**
-In Bezug auf _Mindestmerkmal_ Punkt 3, _Behandlungsteam und Therapie_ der 93.8A.2- und _Mindestmerkmal_ Punkt 3, _Therapie sowie Mindestmerkmal_ Punkt 4, _Behandlungsteam_ der 93.8B.-: Welche Therapiebereiche gibt es und was wird zu den 6 Stunden gezählt?
-  
-**Erläuterung Nr. 1:**
-Die Aufzählung der Therapiebereiche (Sozialarbeit/-pädagogik, Psychologie, Physiotherapie, Ergotherapie, Logopädie, Ernährungsberatung/-therapie, Seelsorge, Kunsttherapie) ist sowohl für 93.8A.2- als für 93.8B.- abschliessend. 
-  
-Grundvoraussetzung für die Kodierung ist die Dokumentation der Gespräche und Therapien. Die Art der Therapie, deren Dauer und das Datum der Durchführung müssen von allen beteiligten Berufsgruppen nachvollziehbar dokumentiert sein. 
-Es gibt keine Festlegung für die Mindesttherapiedauer einer Therapieeinheit. 
-Die dokumentierten Patienten-, Angehörigen- und Familiengespräche können von allen aufgeführten Berufsgruppen (Arzt, Pflege, Sozialarbeit/-pädagogik, Psychologie, Physiotherapie, Ergotherapie, Logopädie, Ernährungsberatung/-therapie, Seel-sorge, Kunsttherapie) erbracht werden. Zu diesen gehört ebenfalls die Information des Patienten und dessen Angehörigen im Rahmen der Therapie. 
-Die dokumentierten und spezifischen Koordinationsaufgaben in direktem Zusammenhang mit dem Behandlungs- und Beratungsprozess sowie die Patienten-, Angehörigen- und Familiengespräche werden den 6 Stunden angerechnet. 
-  
+**Kann ein einzelnes Assessmentinstrument als palliativmedizinisches Basisassessment zählen?**  
+Die alleinige Durchführung eines Assessmentinstrumentes (z. B. ESAS) zur Erfassung der körperlichen Dimension ist nicht als vollständiges PBA anzuerkennen. In einem PBA müssen die biologischen, psychologischen, sozialen und spirituellen Dimensionen berücksichtigt werden.
 
-  
-Folgendes zählt nicht zu den 6 Stunden:
-•	Die wöchentlichen interprofessionellen Teambesprechungen und die Wegzeiten,
-•	Die interprofessionellen Visiten (_Mindestmerkmal_ Punkt 3, Therapie, a) der Subkategorie 93.8B.-).
-  
-  
-**Fragestellung Nr. 2:**
-Was ist unter «wöchentlich» bei der «wöchentlicher interprofessioneller Teambesprechung» unter 93.8A.2- im _Mindestmerkmal_ Punkt 4, _Therapieplanung und -kontrolle_ und unter 93.8B.- im _Mindestmerkmal_ Punkt 5, _Therapieplanung und -kontrolle_?
-  
-**Erläuterung Nr. 2:**
-«wöchentlich» ist struktur- und nicht patientenbezogen. Das bedeutet, dass im klinischen Betrieb mindestens einmal pro Woche eine interprofessionelle Teambesprechung stattfindet.
-  
-Beispiel: 
-Der Patient ist 10 Tage hospitalisiert (von Montag der Woche 1 bis Mittwoch der Woche 2). Der Patient tritt am Mittwoch der 2. Woche aus oder verstirbt. Die Teambesprechungen finden jeweils donnerstags statt. Für die 2. Woche ist das strukturbezogene Mindestmerkmal ebenfalls erfüllt.
-  
-**Fragestellung Nr. 3:**
-Was ist unter «interprofessionell» unter 93.8A.2- im _Mindestmerkmal_ Punkt 4, _Therapieplanung und -kontrolle_ und unter 93.8B.- in den _Mindestmerkmal_ Punkt 3, _Therapie und Mindestmerkmal_ Punkt 5, _Therapieplanung und -kontrolle_ zu verstehen?
-  
-**Erläuterung Nr. 3:**
-Bei der «wöchentlichen interprofessionellen Teambesprechung» ist unter «interprofessionell» zu verstehen, dass im Minimum Arzt, Pflege und eine weitere Berufsgruppe teilnehmen (s. _Mindestmerkmal_ Punkt 5, _Therapieplanung und -kontrolle_ bei 93.8A.2- und 93.8B.-).
-Bei der «interprofessionellen Visite» ist unter «interprofessionell» zu verstehen, dass im Minimum Arzt und Pflege teilnehmen (s. _Mindestmerkmal_ Punkt 3, _Therapie_ 93.8B.-).
 
 {{</markdown>}}
 <br>  
@@ -1147,12 +1121,18 @@ Bei der «interprofessionellen Visite» ist unter «interprofessionell» zu vers
 </table>
 
 {{<markdown>}}
-**Problem/Erläuterung:**
-Die Elementegruppe 93.8B.1- stellt den _«Aufenthalt auf einer eigenständigen spezialisierten Palliative Care Station, nach Anzahl Behandlungstage»_ dar. Falls die Mindestmerkmale unter 93.8B.- sowie unter 93.8B.1- erfüllt sind, ist der entsprechende Kode unter 93.8B.1- für die gesamte Behandlungsdauer auf der spezialisierten Palliative Care Station zu erfassen. Falls in einer oder mehreren Behandlungswochen parallel zum Aufenthalt auf einer eigenständigen spezialisierten Palliative Care Station spezialisierte Palliative Care Zusatzleistungen erbracht werden, kann der entsprechende Kode der Elementegruppe 93.8B.2- _Zusatzleistung auf einer eigenständigen spezialisierten Palliative Care Station, nach Anzahl Behandlungstage_ erfasst werden.
+**Problem/Erläuterung:**  
+Die Elementegruppe 93.8B.1- stellt den _«Aufenthalt auf einer eigenständigen spezialisierten Palliative Care Station, nach Anzahl Behandlungstage»_ dar. Falls die Mindestmerkmale unter 93.8B.- sowie unter 93.8B.1- erfüllt sind, ist der entsprechende Kode unter 93.8B.1- für die gesamte Behandlungsdauer auf der spezialisierten Palliative Care Station zu erfassen. Falls in einer oder mehreren Behandlungswochen **parallel zum Aufenthalt** auf einer eigenständigen spezialisierten Palliative Care Station spezialisierte Palliative Care Zusatzleistungen erbracht werden, kann der entsprechende Kode der Elementegruppe 93.8B.2- _Zusatzleistung auf einer eigenständigen spezialisierten Palliative Care Station, nach Anzahl Behandlungstage_ erfasst werden.
   
 Folgende zwei Beispiele veranschaulichen die gemeinte Erfassungsweise der Zusatzkodes der Elementegruppe 93.8B.2- _«Zusatzleistung auf einer eigenständigen spezialisierten Palliative Care Station, nach Anzahl Behandlungstage»_.
 
 {{</markdown>}}
+<br><br>
+{{<insertImage image="FAQCHOP0021Beispiel1.png" class="edge max-w-90">}}
+<br><br>
+{{<insertImage image="FAQCHOP0021Beispiel2.png" class="edge max-w-90">}}
+<br><br>
+
 <br>  
 <br>
   
@@ -1190,10 +1170,10 @@ Folgende zwei Beispiele veranschaulichen die gemeinte Erfassungsweise der Zusatz
 </table>
 
 {{<markdown>}}
-**Problem/Erläuterung:**
+**Problem/Erläuterung:**  
 Die Segmente, bei denen anlässlich eines Revisionseingriffs an der Wirbelsäule nur die Stäbe entfernt (und diese z. B. durch längere Stäbe ersetzt werden bei Anschlusssegment-Pathologie) und bei denen sonst keine operativen Massnahmen an den Wirbelkörpern vorgenommen werden, wie z. B. Einsetzen neuer Pedikelschrauben oder eines Cages, Dekortizierung der Facettengelenke, Anlage von lokalem Knochen oder Knochenersatzmaterial, fliessen nicht in die Zählung der operierten Segmente mit ein.
 
-**Ad Zählen der Segmente bei Überbrückung:**
+**Ad Zählen der Segmente bei Überbrückung:**  
 Bei z. B. vorbestehender Spondylodese L2 – L4 und aktuell Neufusion der Segmente L1/L2 und L4/L5 wird dies mit dem zutreffenden CHOP-Kode für 2 Segmente abgebildet, falls wie oben erwähnt, an den Wirbelkörpern L2 – L4 ausser der Stabanlage keine weiteren Massnahmen durchgeführt wurden.
 {{</markdown>}}
 <br>  
@@ -1235,10 +1215,10 @@ Bei z. B. vorbestehender Spondylodese L2 – L4 und aktuell Neufusion der Segmen
 </table>
 
 {{<markdown>}}
-**Problem/Erläuterung:**
+**Problem/Erläuterung:**  
 Der Kode 7A.A2 Implantation von mitwachsenden oder expandierenden Systemen, Wirbelsäule ist ein Zusatzkode und kann daher nicht allein kodiert werden. 
   
-Beim Eingriff handelt es sich um eine **dynamische Stabilisierung der Wirbelsäule**, die mit **7A.72.1- D_ynamische Stabilisierung der Wirbelsäule, Zugang dorsal und dorsolateral_** erfasst wird.
+Beim Eingriff handelt es sich um eine **dynamische Stabilisierung der Wirbelsäule**, die mit **7A.72.1- Dynamische Stabilisierung der Wirbelsäule, Zugang dorsal und dorsolateral_** erfasst wird.  
 Zur Zählung der behandelten Segmente werden nur die Segmente, an denen das System befestigt wird, berücksichtigt. 
 
 {{</markdown>}}
@@ -1280,17 +1260,19 @@ Zur Zählung der behandelten Segmente werden nur die Segmente, an denen das Syst
 </table>
 
 {{<markdown>}}
-**Problem/Erläuterung:**
+**Problem/Erläuterung:**  
 Für die Subkategorien 7A.71.- bis 7A.74.- erfolgte die Aufgliederung in 5. Stelle für den Zugang «dorsal und dorsolateral», bzw. «ventral», in 6. Stelle nach der Anzahl behandelter Segmente (aufgegliedert bis 14 und mehr). 
 Das «und» ist gemäss CHOP-Konventionen als «und/oder» zu verstehen. 
   
 Das «Beachte» unter 7A.7- _Stabilisierung der Wirbelsäule und Stellungskorrektur_ lautet: 
-_«Erfolgt der Zugang für gewisse Segmente von dorsal sowie von ventral, so ist für das gesamte Eingriffsgebiet die gesamte Anzahl der Segmente, die von dorsal operiert wurden mit einem Kode anzugeben, sowie die gesamte Anzahl der Segmente, die von ventral operiert wurden mit einem anderen Kode. Zusätzlich wird der Zusatzkode der gesamten Anzahl operierter Segmente angegeben.»_ 
+_«Erfolgt der Zugang für gewisse Segmente von dorsal sowie von ventral, so ist für das gesamte Eingriffsgebiet die gesamte Anzahl der Segmente, die von dorsal operiert wurden mit einem Kode anzugeben, sowie die gesamte Anzahl der Segmente, die von ventral operiert wurden mit einem anderen Kode. Zusätzlich wird der Zusatzkode der gesamten Anzahl operierter Segmente angegeben.»_  
 Die dorsolateralen Zugänge zählen zu den dorsalen Zugängen. Sprich das Segment wird nicht doppelt gezählt, wenn es von dorsal sowie dorsolateral operiert wird.
   
 Im Beispiel der folgenden Abbildung erfolgte eine Spondylodese über sechs Wirbel, d.h. über fünf Segmente. Drei Segmente werden von dorsal und/oder dorsolateral operiert, 4 Segmente von ventral. Es werden somit ein Kode für drei Segmente «dorsal und dorsolateral» sowie ein Kode für vier Segmente «ventral» erfasst. Zusätzlich wird der entsprechende Kode der Subkategorie 7A.B4.- _Summe der operierten Segmente der Wirbelsäule_ für fünf Segmente kodiert.
   
 {{</markdown>}}
+<br><br>
+{{<insertImage image="FAQCHOP0024Tabelle.png" class="edge max-w-90">}}
 <br>  
 <br>
   
@@ -1330,12 +1312,12 @@ Im Beispiel der folgenden Abbildung erfolgte eine Spondylodese über sechs Wirbe
 </table>
 
 {{<markdown>}}
-**Problem/Erläuterung:**
-Der Kode 7A.71.- _Fusion von Wirbeln mit Stabilisierung der Wirbelsäule_ ist anzuwenden, wenn eine **Wirbelfusion/ Versteifung** mit Stabilisierung durchgeführt wird, die zusätzlich eines der folgenden Merkmale erfüllt:
-o	Implantation von stabilisierenden Materialien (z. B. Cage, Schrauben-Stab-Systeme, Platten) sowie eine der folgenden Massnahmen 
-o	Dekortikation der Gelenkflächen oder
-o	Osteotomie oder
-o	Anbringen von Knochen(ersatz)material 
+**Problem/Erläuterung:**  
+Der Kode **7A.71.-** _Fusion von Wirbeln mit Stabilisierung der Wirbelsäule_ ist anzuwenden, wenn eine **Wirbelfusion/ Versteifung** mit Stabilisierung durchgeführt wird, die zusätzlich eines der folgenden Merkmale erfüllt:  
+o	Implantation von stabilisierenden Materialien (z. B. Cage, Schrauben-Stab-Systeme, Platten) sowie eine der folgenden Massnahmen  
+o	Dekortikation der Gelenkflächen oder  
+o	Osteotomie oder  
+o	Anbringen von Knochen(ersatz)material  
   
 Es liegt keine **potenzielle Bewegungserhaltung** im betroffenen Segment vor.
 {{</markdown>}}
@@ -1380,9 +1362,11 @@ Knochenersatz an der Wirbelsäule
 </table>
 
 {{<markdown>}}
-**Problem/Erläuterung:**
-Eine knöcherne Fusion (Arthrodese / Spondylodese) der Wirbelsäule, bei der ausschliesslich autogenes Knochenmaterial (Spongiosa und/oder kortikospongiöser Span) eingebracht wird und **keine Instrumentierung** (z. B. Schrauben, Platten, Stäbe) erfolgt, wird mit dem CHOP-Kode **7A.51.14** _Knochentransplantation an der Wirbelsäule, autogen, Spongiosa und kortikospongiöser Span_ erfasst. 
-Bei einer durchgeführten Laminotomie, Laminektomie oder Laminoplastik ist dies zusätzlich mit dem zutreffenden Kode der Subkategorie 03.03.- _Laminotomie, Laminektomie und Laminoplastik_ zu erfassen. Die Höhe des Eingriffs an der Wirbelsäule wird mit dem zutreffenden Kode der Subkategorie 7A.B1.- _Höhe des Eingriffs an der Wirbelsäule_ kodiert, während der Zugang zur Wirbelsäule mit dem Kode 03.04.- dargestellt wird. 
+**Problem/Erläuterung:**  
+Eine knöcherne Fusion (Arthrodese / Spondylodese) der Wirbelsäule, bei der ausschliesslich autogenes Knochenmaterial (Spongiosa und/oder kortikospongiöser Span) eingebracht wird und **keine Instrumentierung** (z. B. Schrauben, Platten, Stäbe) erfolgt, wird mit dem CHOP-Kode **7A.51.14** _Knochentransplantation an der Wirbelsäule, autogen, Spongiosa und kortikospongiöser Span_ erfasst.  
+  
+Bei einer durchgeführten Laminotomie, Laminektomie oder Laminoplastik ist dies zusätzlich mit dem zutreffenden Kode der Subkategorie 03.03.- _Laminotomie, Laminektomie und Laminoplastik_ zu erfassen. Die Höhe des Eingriffs an der Wirbelsäule wird mit dem zutreffenden Kode der Subkategorie 7A.B1.- _Höhe des Eingriffs an der Wirbelsäule_ kodiert, während der Zugang zur Wirbelsäule mit dem Kode 03.04.- dargestellt wird.  
+  
 Es darf kein Kode der Subkategorie 7A.71.- _Fusion von Wirbeln mit Stabilisierung der Wirbelsäule_ erfasst werden.
   
 {{</markdown>}}
@@ -1424,7 +1408,7 @@ Es darf kein Kode der Subkategorie 7A.71.- _Fusion von Wirbeln mit Stabilisierun
 </table>
 
 {{<markdown>}}
-**Problem/Erläuterung:**
+**Problem/Erläuterung:**  
 Die Subkategorie **7A.73.-** wird verwendet zur Kodierung einer operativen Massnahme, bei der die Wirbelsäule mittels Osteosynthesematerialien wie **Schrauben, Stäben oder Platten** mechanisch **stabilisiert bzw. geschient** wird. Die Stabilisierung ist potenziell **reversibel –** durch eine **partielle oder vollständige Materialentfernung (OSME) nach Frakturheilung**.
 
 Typischerweise wird dieser Kode bei **traumatischen Pathologien**, insbesondere **thorakolumbalen Frakturen**, angewendet. Er kommt jedoch auch bei **anderen Indikationen** zum Einsatz.
