@@ -201,9 +201,9 @@ Folgende Tabelle illustriert die verschiedenen Situationen einer abdominalen Hau
 <b>Problem/Erläuterung:</b><br>
 Folgende Kodes haben eine Unterteilung nach Anzahl der implantierten Stents/Prothesen. Es gibt für diese Stent-/Prothesen-Typen keine Summen-Kodes über den gesamten Aufenthalt.
 {{<indent level="4">}}
-42.81.- Einsetzen eines permanenten Tubus in den Ösophagus  
-51.87.- Endoskopische Einlage oder Wechsel von Stent in den Gallengang  
-51.9A.- Einlage oder Wechsel von Stent in den Gallengang  
+42.81.- Einsetzen eines permanenten Tubus in den Ösophagus<br>
+51.87.- Endoskopische Einlage oder Wechsel von Stent in den Gallengang<br>
+51.9A.- Einlage oder Wechsel von Stent in den Gallengang<br>
 {{</indent>}}
 Je Eingriff ist der Kode mit der entsprechenden Anzahl von eingesetzten Stents/Prothesen auszuwählen und einmal pro Eingriff zu erfassen.
 <br>  
