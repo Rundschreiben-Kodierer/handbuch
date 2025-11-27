@@ -54,7 +54,6 @@ keywords: []
 Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Methode mit einem präzisen Kode aus Kapitel 7 <font color="green">"Operationen am kardiovaskulären System"</font> abgebildet. Gibt es einen präzisen Kode, wird 39.99.21 <I>Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen</I>nicht kodiert. 
 <br>  
 <br>
-<br>
 
 {{</article>}}
 
@@ -88,11 +87,9 @@ Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Metho
   </tr>
 </table>
 
-{{<markdown>}}
-**Problem/Erläuterung:**
+<b>Problem/Erläuterung:</b><br>
 Eine perkutan-transluminale Thrombektomie an Lungengefässen mittels Thrombusentfernungssystem lässt sich anhand von einem Kode und zwei Zusatzkodes erfassen: 
-  
-{{</markdown>}}
+<br>
 <body>
     <ul>
         <li>39.75.17 <I>Perkutan-transluminale Thrombektomie, sonstige Gefässe</I></li>
@@ -137,45 +134,33 @@ Eine perkutan-transluminale Thrombektomie an Lungengefässen mittels Thrombusent
   </tr>
 </table>
 
-{{<markdown>}}
-**Problem/Erläuterung:**
-
-Bei den Kodes der Subkategorie 39.71.- «Endovaskuläre Implantation eines Stent-Grafts [Stent-Prothesen] an der abdominalen Aorta» und der Elementegruppe 39.73.4- «Endovaskuläre Implantation von Stent-Grafts [Stent-Prothesen] in die Aorta thoracoabdo-minalis» ist mit den Zusatzkodes 39.78.5- «Ende der untersten Stent-Grafts [Stent-Prothesen]» anzugeben, wie der Stent-Graft en-det.  
-Die Elementegruppe 39.78.5- umfasst drei Zusatzkodes:  
-{{</markdown>}}
-{{<pul>}}
-{{<indent level="4">}}
-{{<markdown>}}
-- 39.78.51 «Ende des untersten Stent-Grafts (Stent-Prothese), aortal»
-- 39.78.52 «Ende des untersten Stent-Grafts (Stent-Prothese), aortomonoiliakal»
-- 39.78.53 «Ende der untersten Stent-Grafts (Stent-Prothesen), aortobiiliakal»
-{{</markdown>}}
-{{</indent>}}
-{{</pul>}}
-
-{{<markdown>}}
-  
+<b>Problem/Erläuterung:</b>
+<br>
+Bei den Kodes der Subkategorie 39.71.- <I>«Endovaskuläre Implantation eines Stent-Grafts [Stent-Prothesen] an der abdominalen Aorta»</I> und der Elementegruppe 39.73.4- <I>«Endovaskuläre Implantation von Stent-Grafts [Stent-Prothesen] in die Aorta thoracoabdo-minalis»</I> ist mit den Zusatzkodes 39.78.5- <I>«Ende der untersten Stent-Grafts [Stent-Prothesen]» </I>anzugeben, wie der Stent-Graft en-det.
+<br>
+Die Elementegruppe 39.78.5- umfasst drei Zusatzkodes:<br>
+<body>
+    <ul>
+        <li>39.78.51 <I>«Ende des untersten Stent-Grafts (Stent-Prothese), aortal»</I></li>
+        <li>39.78.52 <I>«Ende des untersten Stent-Grafts (Stent-Prothese), aortomonoiliakal»</I></li>
+        <li>39.78.53 <I>«Ende der untersten Stent-Grafts (Stent-Prothesen), aortobiiliakal»</I></li>
+    </ul>
+</body>
+<br>
 In der folgenden Tabelle wurde die Bedeutung des jeweiligen Zusatzkodes graphisch dargestellt.
-  
-{{</markdown>}}
-{{<lineBreak>}}
+<br>
+<br>
 {{<insertImage image="0767_a.png" class="edge max-w-90">}}
-{{<lineBreak>}}
 <br>
+Die aortomonoiliakal oder aortobiiliakal endenden Stent-Grafts (Hauptkörper (blau)) können mit Stent-Grafts in der linken und/oder rechten A. iliaca communis verlängert werden (weitere Stent-Grafts werden dann anmodelliert, grün). Die entsprechenden Kodes der Subkategorie 39.7B.- <I>Endovaskuläre Implantation von Stent-Grafts [gecoverten Stents] in die Aa. iliacae communis und externa</I> sind in diesem Fall zusätzlich zu kodieren.
 <br>
-{{<markdown>}}
-Die aortomonoiliakal oder aortobiiliakal endenden Stent-Grafts können mit Stent-Grafts in der linken und/oder rechten A. iliaca com-munis verlängert werden (weitere Stent-Grafts werden dann anmodelliert). Die entsprechenden Kodes der Elementegruppen 39.7A.1- «Endovaskuläre Implantation in Beckenarterien von Stent-Grafts (Stent-Prothesen), iliakal, ohne Seitenarm, nach Anzahl Stent-Prothesen» und 39.7A.2- «Endovaskuläre Implantation in Beckenarterien von Stent-Grafts (Stent-Prothesen), iliakal mit Ver-sorgung von Seitenast» sind in diesem Fall zusätzlich zu kodieren.  
-  
-Folgende Tabelle illustriert die verschiedenen Situationen:  
-{{</markdown>}}
-{{<lineBreak>}}
-
+Folgende Tabelle illustriert die verschiedenen Situationen einer abdominalen Hauptprothese ohne Öffnungen (blau im Schema):
+<br>
 {{<insertImage image="0767_b.png" class="edge max-w-90">}}
-{{<lineBreak>}}
+<br>
 
 {{<insertImage image="0767_c.png" class="edge max-w-90">}}
 {{<lineBreak>}}
-<br>  
 <br>
 <br>
 
@@ -306,7 +291,6 @@ Tag X:
 {{</grid>}}
 <br>  
 <br>
-<br>
 
 {{</article>}}
 
@@ -347,7 +331,6 @@ Folgende Tabelle gibt eine grobe Übersicht der Abbildung der vaskulären Stents
 {{</markdown>}}
 <br><br>
 {{<insertImage image="FAQCHOP0005Tabelle.png" class="edge max-w-90">}}
-{{<lineBreak>}}
 <br><br>
 Um die Anzahl der implantierten Stents / Stent-Grafts wiederzugeben, ist der entsprechende Kode pro implantierten Stent / Stent-Graft zu erfassen.
 Die Zusatzkodes, die es erlaubten, die Summe, der über den Aufenthalt implantierten Stents / Stent-Grafts zu erfassen, wurden aus der CHOP entfernt.
@@ -369,7 +352,6 @@ Kodierung:
 <I>36.08.22  Implantation perkutan-transluminal von Stents mit Medikamentenfreisetzung, in mehreren Koronararterien</I><br>
 <I>36.08.11  Implantation perkutan-transluminal von Stents ohne Medikamentenfreisetzung, in einer Koronararterie</I><br>
 <br>  
-<br>
 <br>
 
 {{</article>}}
@@ -424,7 +406,6 @@ Der Zusatzkode 39.E1 <I>Verwendung eines Embolie-Protektionssystems</I> ermögli
 Die Kodes 38.7X.11 <I>Einsetzen eines Embolie-Protektionssystems in die Vena cava, offen chirurgisch</I>, 38.7X.21 <I>Einsetzen eines Embolie-Protektionssystems in die Vena cava, perkutan-transluminal</I>, <I>39.75.13 Perkutan-transluminale Gefässintervention, sonstige Gefässe, Embolie-Protektionssystem (periphere oder viszerale Gefässe)</I> stellen permanente Systeme dar.
 <br>  
 <br>
-<br>
   
 {{</article>}}
 
@@ -472,9 +453,8 @@ Folgende Kodes der Subkategorie 51.99.- Sonstige Operationen an den Gallenwegen 
         <li>51.99.91 <I>Sonstige Rekonstruktion der Gallenwegen</I></li>
     </ul>
 </body>
-<br>Der Kode 51.99.90 Sonstige endoskopische Operationen an den Gallenwegen, wie im Titel angegeben, ist nur für endoskopische Interventionen zu erfassen.
+Der Kode 51.99.90 Sonstige endoskopische Operationen an den Gallenwegen, wie im Titel angegeben, ist nur für endoskopische Interventionen zu erfassen.
 <br>  
-<br>
 <br>
   
 {{</article>}}
@@ -517,10 +497,6 @@ Wird eine bestehende Knieendoprothese, unabhängig vom Typ, durch eine andere Kn
 Z. B. Explantation einer Hemiendoprothese und Implantation einer Totalendoprothese am gleichen Knie: für die Implantation muss der Kode 81.54.31 <I>Implantation einer Standard-Totalendoprothese des Kniegelenks bei einem Prothesenwechsel</I> erfasst werden und <b>nicht</b> der Kode 81.54.21 <I>Erstimplantation einer Standard-Totalendoprothese des Kniegelenks</I>.
 <br><br>
 Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückflächenersatz eingesetzt, muss der Kode 81.54.42 <I>Implantation eines Patella-Rückflächenersatz bei einem Wechsel</I> erfasst werden und <b>nicht</b> der Kode 81.54.27 <I>Erstimplantation eines Patella-Rückflächenersatzes</I>.
-<br>  
-<br><br>
-{{<insertImage image="FAQCHOP0008Tabelle.png" class="edge max-w-90">}}
-{{<lineBreak>}}
 <br>
 <br>
 
@@ -561,7 +537,9 @@ Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückfl
 <b>Problem/Erläuterung:</b><br>
 Folgende Tabelle präzisiert die Kodierung von Eingriffskode und Zusatzkode bei einzeitigen Mehrfacheingriffen, am Beispiel der Hand.
 <br>  
-<br>
+<br><br>
+{{<insertImage image="FAQCHOP0008Tabelle.png" class="edge max-w-90">}}
+<br>  
 <br>
 
 {{</article>}}
@@ -602,7 +580,6 @@ Folgende Tabelle präzisiert die Kodierung von Eingriffskode und Zusatzkode bei 
 Die Angabe der Lateralität ist nur bei paarigen Organen ein Muss (entsprechende Kennzeichnung in der CHOP mit «[L]» in der PDF- Datei oder «Lateral» in der CSV-Datei). Bei nicht paarigen Organen oder Körperteilen «kann» die Lateralität erfasst werden, «muss» aber nicht.
 <br>  
 <br>
-<br>
  
 {{</article>}}
 
@@ -639,7 +616,7 @@ Die Angabe der Lateralität ist nur bei paarigen Organen ein Muss (entsprechende
 </table>
 
 {{<markdown>}}
-**Problem/Erläuterung:**
+**Problem/Erläuterung:**  
 Bei einer Gruppentherapie ist die gesamte Therapiedauer zu zählen, an der die Patientin / der Patient anwesend ist. Z. B. wenn fünf Patient/innen an einer Stunde Gruppentherapie mit einer Dauer von 60 Minuten teilgenommen haben, werden bei jeder Patientin/jedem Patienten 60 Minuten Therapiedauer angerechnet. Bei einer Therapiedauer von 50 Minuten werden 50 Minuten angerechnet usw.
 Wird bei einer Gruppen- oder Einzeltherapie die gleiche Therapieart / Therapieleistung durch zwei oder mehr Therapeuten / Pflegefachpersonen erbracht, ist die erbrachte Therapiezeit einmal zu zählen. 
 Es gilt unabhängig von der Anzahl der Therapeuten, die Therapiezeit am/an den Patienten. Es gilt die Therapiezeit, welche jede/r Patient/in erhalten hat, unabhängig von der Anzahl der Therapeuten.
@@ -647,7 +624,6 @@ Es gilt unabhängig von der Anzahl der Therapeuten, die Therapiezeit am/an den P
 Ausnahme: Es bestehen CHOP-Kodes, bei denen im Beachte angegeben ist, dass die gleiche Therapieart / Therapieleistung, die durch zwei oder mehr Therapeutinnen / Therapeuten / Pflegefachpersonen erbracht wird, die Zeit pro Therapeutin / Therapeut / Pflegefachperson zu zählen ist.
 {{</markdown>}}
 <br>  
-<br>
 <br>
 
 {{</article>}}
@@ -684,19 +660,17 @@ Ausnahme: Es bestehen CHOP-Kodes, bei denen im Beachte angegeben ist, dass die g
 </table>
 
 {{<markdown>}}
-**Problem/Erläuterung:**
-
+**Problem/Erläuterung:**  
 Unter den Elementegruppen 99.84.1- Kontaktisolierung, nach Anzahl Behandlungstage, 
 99.84.2- Tröpfchenisolierung, […] und 99.84.3- Aerosolisolierung, […] ist folgendes «Exklusivum – Kode weglassen» angegeben: 
 
-EXKL. «Kode weglassen - Komplexbehandlung bei Besiedlung oder Infektion
-mit multiresistenten Erregern, nach Anzahl Behandlungstage (93.59.5-)». 
+   EXKL. «Kode weglassen - Komplexbehandlung bei Besiedlung oder Infektion  
+   mit multiresistenten Erregern, nach Anzahl Behandlungstage (93.59.5-)». 
 
 Dies bedeutet, dass die zeitgleiche Kodierung von 93.59.5- und 99.84.1-, 99.84.2-, 99.84.3- nicht gestattet ist. Werden 99.84.1-, 99.84.2-, 99.84.3- zeitlich versetzt erbracht zur 93.59.5- können die Kodes im gleichen Fall erfasst werden. Die Erfassung von 99.84.1-, 99.84.2-, 99.84.3- darf nie für das gleiche Zeitintervall wie 93.59.5- erfolgen.
 
 {{</markdown>}}
 <br>  
-<br>
 <br>
   
 {{</article>}}
@@ -734,11 +708,10 @@ Dies bedeutet, dass die zeitgleiche Kodierung von 93.59.5- und 99.84.1-, 99.84.2
 </table>
 
 {{<markdown>}}
-**Problem/Erläuterung:**
+**Problem/Erläuterung:**  
 Zur Berechnung der Behandlungstage für die CHOP-Kodes der Elementegruppe 93.59.5- _Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage_ darf bei Erfüllung der Mindestmerkmale der Eintritts- sowie Austrittstag nur als **ein Behandlungstag** angerechnet werden.
 {{</markdown>}}
 <br>  
-<br>
 <br>
   
 {{</article>}}
@@ -776,13 +749,12 @@ Zur Berechnung der Behandlungstage für die CHOP-Kodes der Elementegruppe 93.59.
 </table>
 
 {{<markdown>}}
-**Problem/Erläuterung:**
+**Problem/Erläuterung:**  
 Die Kodes «[…], bis 6 Behandlungstage» werden in Fällen erfasst, bei denen während des stationären Aufenthalts an maximal 6 Behandlungstagen die jeweils genannte Komplexbehandlung durchgeführt wurde. Diese Kodes beinhalten keine Mindestanzahl Behandlungstage. 
 D. h. bei diesen Kodes entfallen die Mindestmerkmale, die sich auf eine Woche oder bestimmte Anzahl Behandlungstage beziehen. Mindestmerkmale, wie Indikationen, Assessments, Behandlungsinfrastruktur (z. B. Zertifizierung) und Qualifikationen sind einzuhalten
 
 {{</markdown>}}
 <br>  
-<br>
 <br>
   
 {{</article>}}
@@ -833,7 +805,7 @@ Die alleinige Erfassung des Glasgow Coma Scale (GCS) ist für den klinisch neuro
 {{</markdown>}}
 <br>  
 <br>
-<br>
+
   
 {{</article>}}
 
@@ -893,7 +865,6 @@ Werden hingegen ein craniales MRI, eine neurophysiologische Diagnostik sowie ein
 {{</markdown>}}
 <br>  
 <br>
-<br>
   
 {{</article>}}
 
@@ -938,7 +909,6 @@ Beispiel 1: Ein «Transfer auf die Toilette» könnte im Rahmen des Pflegeinterv
 Beispiel 2: Eine «Hygienemassnahme» könnte im Rahmen des Pflegeinterventionsprofils 2.1 der Leistungsgruppe 2 «Körperpflege» oder im Rahmen des Pflegeinterventionsprofils 3.1 der Leistungsgruppe 3 «Ausscheidung» geleistet werden. Wenn die Aktivität unter der Leistungsgruppe 2 erfasst wird, darf sie nicht zusätzlich bei der Leistungsgruppe 3 erfasst werden, oder umgekehrt. Die Aktivität darf nur einem der zwei Pflegeinterventionsprofile zugeordnet werden.
 {{</markdown>}}
 <br>  
-<br>
 <br>
   
 {{</article>}}
@@ -989,7 +959,6 @@ Bei einer Fallzusammenführung mit palliativmedizinischer Komplexbehandlung im e
 
 {{</markdown>}}  
 <br>  
-<br>
 <br>
   
 {{</article>}}
@@ -1067,7 +1036,6 @@ Bei der «interprofessionellen Visite» ist unter «interprofessionell» zu vers
 {{</markdown>}}
 <br>  
 <br>
-<br>
   
 {{</article>}}
 
@@ -1143,7 +1111,6 @@ Bei der «interprofessionellen Visite» ist unter «interprofessionell» zu vers
 {{</markdown>}}
 <br>  
 <br>
-<br>
   
 {{</article>}}
 
@@ -1188,7 +1155,6 @@ Folgende zwei Beispiele veranschaulichen die gemeinte Erfassungsweise der Zusatz
 {{</markdown>}}
 <br>  
 <br>
-<br>
   
 {{</article>}}
 
@@ -1232,7 +1198,7 @@ Bei z. B. vorbestehender Spondylodese L2 – L4 und aktuell Neufusion der Segmen
 {{</markdown>}}
 <br>  
 <br>
-<br>
+
   
 {{</article>}}
 
@@ -1277,7 +1243,6 @@ Zur Zählung der behandelten Segmente werden nur die Segmente, an denen das Syst
 
 {{</markdown>}}
 <br>  
-<br>
 <br>
   
 {{</article>}}
@@ -1328,7 +1293,6 @@ Im Beispiel der folgenden Abbildung erfolgte eine Spondylodese über sechs Wirbe
 {{</markdown>}}
 <br>  
 <br>
-<br>
   
 {{</article>}}
 
@@ -1377,7 +1341,6 @@ Es liegt keine **potenzielle Bewegungserhaltung** im betroffenen Segment vor.
 {{</markdown>}}
 <br>  
 <br>
-<br>
   
 {{</article>}}
 
@@ -1425,7 +1388,6 @@ Es darf kein Kode der Subkategorie 7A.71.- _Fusion von Wirbeln mit Stabilisierun
 {{</markdown>}}
 <br>  
 <br>
-<br>
   
 {{</article>}}
 
@@ -1468,7 +1430,6 @@ Die Subkategorie **7A.73.-** wird verwendet zur Kodierung einer operativen Massn
 Typischerweise wird dieser Kode bei **traumatischen Pathologien**, insbesondere **thorakolumbalen Frakturen**, angewendet. Er kommt jedoch auch bei **anderen Indikationen** zum Einsatz.
 {{</markdown>}}
 <br>  
-<br>
 <br>
   
 {{</article>}}
