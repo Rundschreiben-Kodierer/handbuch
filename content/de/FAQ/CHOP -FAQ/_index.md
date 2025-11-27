@@ -349,7 +349,6 @@ Folgende Tabelle gibt eine grobe Übersicht der Abbildung der vaskulären Stents
 {{<insertImage image="FAQCHOP0005Tabelle.png" class="edge max-w-90">}}
 {{<lineBreak>}}
 <br><br>
-  
 Um die Anzahl der implantierten Stents / Stent-Grafts wiederzugeben, ist der entsprechende Kode pro implantierten Stent / Stent-Graft zu erfassen.
 Die Zusatzkodes, die es erlaubten, die Summe, der über den Aufenthalt implantierten Stents / Stent-Grafts zu erfassen, wurden aus der CHOP entfernt.
 Nota bene: Die Resektion von Blutgefässen mit Ersatz (s. 38.4-) wird in dieser Klarstellung/FAQ bewusst nicht erwähnt.
@@ -359,16 +358,16 @@ Nota bene: Die Resektion von Blutgefässen mit Ersatz (s. 38.4-) wird in dieser 
 Beispiel für die Aa. coronariae
 <br>
 Zuerst wird der Stent-Typ gewählt, dann identifiziert, ob dieser Stent-Typ in eine oder mehrere Koronararterien implantiert wurde. Der entsprechende Kode wird dann pro implantierten Stent / Stent-Graft von diesem Typ erfasst.
-<br>  
+<br><br>
 Fallbeispiel:
 <br>
 Zwei medikamentenfreisetzende Stents werden perkutan-transluminal implantiert, der eine in den Ramus interventricularis anterior der A. coronaria sinistra [RIVA], der andere in den Ramus circumflexus der A. coronaria sinistra [RCX]. Zusätzlich wird ein nicht medikamentenfreisetzender Stent in A. coronaria destra [RCA] perkutan-transluminal implantiert.
-<br>
+<br><br>
 Kodierung:
 <br>
-<I>36.08.22  Implantation perkutan-transluminal von Stents mit Medikamentenfreisetzung, in mehreren Koronararterien</I>
-<I>36.08.22  Implantation perkutan-transluminal von Stents mit Medikamentenfreisetzung, in mehreren Koronararterien</I>
-<I>36.08.11  Implantation perkutan-transluminal von Stents ohne Medikamentenfreisetzung, in einer Koronararterie</I>
+<I>36.08.22  Implantation perkutan-transluminal von Stents mit Medikamentenfreisetzung, in mehreren Koronararterien</I><br>
+<I>36.08.22  Implantation perkutan-transluminal von Stents mit Medikamentenfreisetzung, in mehreren Koronararterien</I><br>
+<I>36.08.11  Implantation perkutan-transluminal von Stents ohne Medikamentenfreisetzung, in einer Koronararterie</I><br>
 <br>  
 <br>
 <br>
@@ -413,15 +412,15 @@ Kodierung:
 <br>
 <u>Gefässverschliessende Operationen</u><br>
     In der CHOP existieren Kodes für gefässverschliessende Operationen/Interventionen, die s.g. Embolisationen mit Coils, Plugs, Schirmen usw., z. B. 39.79.2- <I>Coil-Embolisation oder -Verschluss von sonstigen Gefässen</I>, <I>39.79.5- Selektive Embolisation von sonstigen Gefässen mit Schirmen</I> oder 39.79.A- <I>Selektive Embolisation von sonstigen Gefässen mit Plugs</I> usw. 
-<br>
+<br><br>
 Des Weiteren stehen die Zusatzkodes aus der Subkategorie 00.4A.- <I>Anzahl verwendeter endovaskulärer Coils</I> und 00.4G.- <I>Einsetzen von Gefässverschlusskörpern</I> zur Verfügung. 
-<br>
+<br><br>
 Die Zusatzkodes der Elementegruppen von 00.4G.2- bis 00.4G.6-<I> Eingesetzte vaskuläre Schirme in [...], nach Anzahl</I>, gelten nur für die Abbildung der verwendeten Devices im Kontext von gefässverschliessenden Operationen/Interventionen (z. B. selektive Embolisationen) als Zusatzkodes. 
 Die Kodes unter 00.4G.- sind für Embolie-Protektionssysteme nicht zu verwenden. 
-<br>
+<br><br>
 Embolie-Protektionssysteme
 Der Zusatzkode 39.E1 <I>Verwendung eines Embolie-Protektionssystems</I> ermöglicht die Erfassung von periinterventionellen Embolie-Protektionssystemen. 
-<br>
+<br><br>
 Die Kodes 38.7X.11 <I>Einsetzen eines Embolie-Protektionssystems in die Vena cava, offen chirurgisch</I>, 38.7X.21 <I>Einsetzen eines Embolie-Protektionssystems in die Vena cava, perkutan-transluminal</I>, <I>39.75.13 Perkutan-transluminale Gefässintervention, sonstige Gefässe, Embolie-Protektionssystem (periphere oder viszerale Gefässe)</I> stellen permanente Systeme dar.
 <br>  
 <br>
@@ -514,11 +513,14 @@ Folgende Kodes der Subkategorie 51.99.- Sonstige Operationen an den Gallenwegen 
 <br>
 <b>Problem/Erläuterung:</b><br>
 Wird eine bestehende Knieendoprothese, unabhängig vom Typ, durch eine andere Knieendoprothese ersetzt, ist für die Implantation der Kode mit der Bezeichnung «bei einem Prothesenwechsel» zu wählen. 
-<br>
+<br><br>
 Z. B. Explantation einer Hemiendoprothese und Implantation einer Totalendoprothese am gleichen Knie: für die Implantation muss der Kode 81.54.31 <I>Implantation einer Standard-Totalendoprothese des Kniegelenks bei einem Prothesenwechsel</I> erfasst werden und <b>nicht</b> der Kode 81.54.21 <I>Erstimplantation einer Standard-Totalendoprothese des Kniegelenks</I>.
-<br>
+<br><br>
 Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückflächenersatz eingesetzt, muss der Kode 81.54.42 <I>Implantation eines Patella-Rückflächenersatz bei einem Wechsel</I> erfasst werden und <b>nicht</b> der Kode 81.54.27 <I>Erstimplantation eines Patella-Rückflächenersatzes</I>.
 <br>  
+<br><br>
+{{<insertImage image="FAQCHOP0008Tabelle.png" class="edge max-w-90">}}
+{{<lineBreak>}}
 <br>
 <br>
 
