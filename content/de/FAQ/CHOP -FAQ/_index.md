@@ -236,7 +236,7 @@ Folgende Kodes haben keine Unterteilung nach Anzahl der implantierten Stents/Pro
  
     {{</grid/column>}}
     {{<grid/column>}}
-09.83&nbsp
+09.83&nbsp&nbsp&nbsp
     {{</grid/column>}}
     {{<grid/column>}}
 Konjunktivozystorhinostomie mit Einsetzen von Tubus oder Stent
@@ -248,7 +248,7 @@ Konjunktivozystorhinostomie mit Einsetzen von Tubus oder Stent
  
     {{</grid/column>}}
     {{<grid/column>}}
-31.93 
+31.93&nbsp&nbsp&nbsp
     {{</grid/column>}}
     {{<grid/column>}}
 Ersetzen eines Larynx- oder Trachea-Stents
@@ -260,7 +260,7 @@ Ersetzen eines Larynx- oder Trachea-Stents
  
     {{</grid/column>}}
     {{<grid/column>}}
-31.96
+31.96&nbsp&nbsp&nbsp
     {{</grid/column>}}
     {{<grid/column>}}
 Einsetzen eines Larynx- oder Trachea-Stents
@@ -356,7 +356,7 @@ Einlegen oder Wechsel einer selbstexpandierenden Prothese im Rektum
  
     {{</grid/column>}}
     {{<grid/column>}}
-52.93.-
+52.93.-&nbsp
     {{</grid/column>}}
     {{<grid/column>}}
 Endoskopische Einlage, Wechsel oder Entfernen von Stent [Prothese] in den Ductus pancreaticus
