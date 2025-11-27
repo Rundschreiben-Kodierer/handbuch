@@ -91,6 +91,7 @@ Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Metho
 {{<markdown>}}
 **Problem/Erläuterung:**
 Eine perkutan-transluminale Thrombektomie an Lungengefässen mittels Thrombusentfernungssystem lässt sich anhand von einem Kode und zwei Zusatzkodes erfassen: 
+  
 {{</markdown>}}
 <body>
     <ul>
@@ -160,9 +161,9 @@ In der folgenden Tabelle wurde die Bedeutung des jeweiligen Zusatzkodes graphisc
 {{<lineBreak>}}
 {{<insertImage image="0767_a.png" class="edge max-w-90">}}
 {{<lineBreak>}}
-
+<br>
+<br>
 {{<markdown>}}
-  
 Die aortomonoiliakal oder aortobiiliakal endenden Stent-Grafts können mit Stent-Grafts in der linken und/oder rechten A. iliaca com-munis verlängert werden (weitere Stent-Grafts werden dann anmodelliert). Die entsprechenden Kodes der Elementegruppen 39.7A.1- «Endovaskuläre Implantation in Beckenarterien von Stent-Grafts (Stent-Prothesen), iliakal, ohne Seitenarm, nach Anzahl Stent-Prothesen» und 39.7A.2- «Endovaskuläre Implantation in Beckenarterien von Stent-Grafts (Stent-Prothesen), iliakal mit Ver-sorgung von Seitenast» sind in diesem Fall zusätzlich zu kodieren.  
   
 Folgende Tabelle illustriert die verschiedenen Situationen:  
@@ -276,13 +277,11 @@ Tag Z:
         {{</markdown>}}
     {{</grid/column>}}
 {{</grid>}}
-{{<markdown>}}
-
+<br>
 Je Eingriff ist der Kode so oft zu kodieren, wie Stents/Prothesen implantiert wurden.
-  
+<br>
 Beispiel: Am Tag X werden zwei nicht selbstexpandierende Prothesen am Darm eingelegt. Am Tag Y werden beide entfernt und durch eine selbstexpandierende Prothese ersetzt.
 Kodierung:  
-{{</markdown>}}
 {{<grid class="ps-0">}}
     {{<grid/column>}}
 Tag X:
@@ -346,10 +345,10 @@ Tag X:
 Folgende Tabelle gibt eine grobe Übersicht der Abbildung der vaskulären Stents und Stent-Grafts [gecoverte Stents] in der CHOP.
   
 {{</markdown>}}
-{{<lineBreak>}}
+<br><br>
 {{<insertImage image="FAQCHOP0005Tabelle.png" class="edge max-w-90">}}
 {{<lineBreak>}}
-
+<br><br>
 {{<markdown>}}
   
 Um die Anzahl der implantierten Stents / Stent-Grafts wiederzugeben, ist der entsprechende Kode pro implantierten Stent / Stent-Graft zu erfassen.
@@ -358,13 +357,16 @@ Nota bene: Die Resektion von Blutgefässen mit Ersatz (s. 38.4-) wird in dieser 
   
   
 **Kodierempfehlung:**
+  
 Beispiel für die Aa. coronariae
 Zuerst wird der Stent-Typ gewählt, dann identifiziert, ob dieser Stent-Typ in eine oder mehrere Koronararterien implantiert wurde. Der entsprechende Kode wird dann pro implantierten Stent / Stent-Graft von diesem Typ erfasst.
   
 Fallbeispiel:
+  
 Zwei medikamentenfreisetzende Stents werden perkutan-transluminal implantiert, der eine in den Ramus interventricularis anterior der A. coronaria sinistra [RIVA], der andere in den Ramus circumflexus der A. coronaria sinistra [RCX]. Zusätzlich wird ein nicht medikamentenfreisetzender Stent in A. coronaria destra [RCA] perkutan-transluminal implantiert.
   
 Kodierung:
+  
 _36.08.22  Implantation perkutan-transluminal von Stents mit Medikamentenfreisetzung, in mehreren Koronararterien_
 _36.08.22  Implantation perkutan-transluminal von Stents mit Medikamentenfreisetzung, in mehreren Koronararterien_
 _36.08.11  Implantation perkutan-transluminal von Stents ohne Medikamentenfreisetzung, in einer Koronararterie_
