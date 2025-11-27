@@ -48,10 +48,10 @@ keywords: []
 </table>
 
 {{<markdown>}}
-**Fragestellung:**
+**Fragestellung:**  
 Wie wird in der Kodierung unterschieden zwischen J98.11 Partielle Atelektase und J98.12 Totalatelektase?
   
-**Problem/Erläuterung:**
+**Problem/Erläuterung:**  
 Der Unterschied zwischen Teilatelektase und Totalatelektase liegt im Ausmass des betroffenen Lungengewebes:
   
 Teilatelektase: Hier ist nur ein Teil des Lungenflügels betroffen. Dies kann ein oder mehrere Lungensegmente oder Lappen umfassen. 
@@ -59,7 +59,7 @@ Teilatelektase: Hier ist nur ein Teil des Lungenflügels betroffen. Dies kann ei
 Totalatelektase: Bei dieser Form ist der gesamte rechte und/oder linke Lungenflügel betroffen. 
 Eine Totalatelektase beider Lungenflügel ist über die Lokalitätsbezeichnung "beidseits" anzugeben.
   
-**Kodierempfehlung:**
+**Kodierempfehlung:**  
 Der alphabet. Index verweist bei Atelektase einzelner Lappen z.B. Mittellappen oder Unterlappen auf den Kode für die Teilatelektase. Bei der Suche nach Lungenflügel, Atelektase wird auf den Kode für die Totalatelektase verwiesen.
   
 Die fehlende Belüftung von Teilabschnitten der Lunge (Lungensegmenten, Lungenlappen) wird daher mit J98.11, Partielle Atelektase, die fehlende Belüftung eines gesamten Lungenflügels mit J98.12, Totalatelektase, kodiert.
@@ -67,8 +67,6 @@ Die fehlende Belüftung von Teilabschnitten der Lunge (Lungensegmenten, Lungenla
 {{</markdown>}}
 <br>  
 <br>
-<br>
-
 {{</article>}}
 
 
@@ -103,10 +101,10 @@ Die fehlende Belüftung von Teilabschnitten der Lunge (Lungensegmenten, Lungenla
 </table>
 
 {{<markdown>}}
-**Fragestellung:**
+**Fragestellung:**  
 Wie wird ein Endoleak nach endovaskulärer Versorgung (EVAR) eines Aortenaneurysmas abgebildet werden?
   
-**Problem/Erläuterung:**
+**Problem/Erläuterung:**  
 Ein Endoleak ist ein Leck zwischen der Gefäßprothese und dem Aneurysmasack nach der endovaskulären Versorgung (EVAR) eines Aortenaneurysmas.  
   
 Ein Endoleak **Typ I** entsteht durch eine unzureichende Abdichtung an der Ansatzstelle des Grafts.
@@ -123,7 +121,7 @@ Endoleaks vom **Typ IV** treten auf, wenn aufgrund der Porosität des Transplant
 
 Ein Endoleak **Typ V** wird auch als Endotension bezeichnet. In diesem Fall zeigt sich eine im Verlauf fortgesetzte Expansion des Aneurysmasackes > 5 mm ohne nachweisbare Endoleckage.      
   
-**Kodierempfehlung:**
+**Kodierempfehlung:**  
 **Typ 1:** Kode: T82.5 Mechanische Komplikation durch sonstige Geräte und Implantate im Herzen und in den Gefäßen,
   
 **Typ IIa/ IIb:** Kode: I71.- Aneurysma der Aorta (da keine Komplikation des Grafts)  
@@ -137,7 +135,6 @@ Ein Endoleak **Typ V** wird auch als Endotension bezeichnet. In diesem Fall zeig
  
 {{</markdown>}}
 <br>  
-<br>
 <br>
 
 {{</article>}}
@@ -173,17 +170,17 @@ Ein Endoleak **Typ V** wird auch als Endotension bezeichnet. In diesem Fall zeig
 </table>
 
 {{<markdown>}}
-**Fragestellung:**
+**Fragestellung:**  
 Wie wird eine Hydatidenzyste, zystische Echinokokkose abgebildet?
   
-**Problem/Erläuterung:**
+**Problem/Erläuterung:**  
 Im alphabetischen ICD -10- GM 2024 wird bei Echinokkose, Leber, zystisch, auf _B67.0† Echinococcus-granulosus-Infektion [zystische Echinokokkose] der Leber_, mit 
 _K77.0* Leberkrankheiten bei anderenorts klassifizierten infektiösen und parasitären Krankheiten_ verwiesen.
   
 Bei Echinococcus, Zyste, durch Hydatiden, Leber, verweist der alphabet. Index auf B67.0 Echinococcus-granulosus-Infektion [zystische Echinokokkose] der Leber
 In der ICD wird unterschieden zwischen Hydatidenzyste in der Leber mit oder ohne Infektion des umliegenden Lebergewebes
     
-**Kodierempfehlung:**
+**Kodierempfehlung:**  
 Ist die Hydatidenzyste blande gekapselt, kann ausgeschält werden und liegt keine Entzündung des umliegenden Lebergewebes vor, soll _B67.0 Echinococcus-granulosus-Infektion [zystische Echinokokkose] der Leber_, kodiert werden. Es wird kein Sterncode erfasst.
   
 Finden sich auch im umliegenden Gewebe Echinokokkusbestandteile und dadurch hervorgerufen eine Entzündungsreaktion, soll _K77.0* Leberkrankheiten bei anderenorts klassifizierten infektiösen und parasitären Krankheiten zusätzlich_ kodiert werden.
@@ -191,7 +188,7 @@ Finden sich auch im umliegenden Gewebe Echinokokkusbestandteile und dadurch herv
 {{</markdown>}}
 <br>  
 <br>
-<br>
+
 
 {{</article>}}
 
@@ -225,22 +222,21 @@ Finden sich auch im umliegenden Gewebe Echinokokkusbestandteile und dadurch herv
 </table>
 
 {{<markdown>}}
-**Fragestellung:**
+**Fragestellung:**  
 Wie wird eine Carotisstenose bds. erfasst? Wie werden ein- oder beidseitige Stenosen präzerebraler Arterien erfasst?
   
-**Problem/Erläuterung:**
-**Erläuterung:** 
-Grundsätzlich gilt: Es ist stets der spezifischste ICD-Kode zu wählen, der die dokumentierte Diagnose am genauesten beschreibt. 
-•	**Beidseitiger Verschluss einer einzelnen präzerebralen Arterie** (z. B. Arteria carotis) wird mit dem spezifischen Kode **I65.-** unter Angabe der Lateralität verschlüsselt. 
+**Problem/Erläuterung:**  
+**Erläuterung:**  
+Grundsätzlich gilt: Es ist stets der spezifischste ICD-Kode zu wählen, der die dokumentierte Diagnose am genauesten beschreibt.  
+•	**Beidseitiger Verschluss einer einzelnen präzerebralen Arterie** (z. B. Arteria carotis) wird mit dem spezifischen Kode **I65.-** unter Angabe der Lateralität verschlüsselt.   
 **Beispiel**: Beidseitiger Verschluss/Stenose der Arteria carotis → **I65.2**: Verschluss und Stenose der A. carotis L bds. 
   
-•	**Der Verschluss/ die Stenose mehrerer unterschiedlicher präzerebraler Arterien** wird mit dem Kode **I65.3** verschlüsselt: 
+•	**Der Verschluss/ die Stenose mehrerer unterschiedlicher präzerebraler Arterien** wird mit dem Kode **I65.3** verschlüsselt:  
 **Beispiel:** Einseitige oder beidseitige Stenose der Arteria vertebralis sowie zusätzlich eine einseitige oder beidseitige Stenose der Arteria carotis interna.→ **I65.3** Verschluss und Stenose mehrerer und beidseitiger präzerebraler Arterie L = R, L oder B. 
        
 **Kodierempfehlung:**
 {{</markdown>}}
 <br>  
-<br>
 <br>
 
 {{</article>}}
@@ -276,20 +272,19 @@ Grundsätzlich gilt: Es ist stets der spezifischste ICD-Kode zu wählen, der die
 </table>
 
 {{<markdown>}}
-**Fragestellung:**
+**Fragestellung:**  
 Wie wird Ulcus (cruris) hypertonicum (Martorell abgebildet?
   
-**Problem/Erläuterung:**
+**Problem/Erläuterung:**  
 Beim Ulcus (cruris) hypertonicum handelt es sich um eine spezielle Form des Ulcus cruris, die vorwiegend am laterodorsalen Unterschenkel oder über der Achillessehne auftritt. Die meisten Betroffenen weisen einen markanten, langzeitig bestehenden Hypertonus auf, in ca. 60% der Fälle kombiniert mit einem Diabetes mellitus Typ 2. Zur Ätiologie des Ulcus hypertonicum gibt es drei Erklärungsansätze: die ischämisierende Arteriosklerose, die Mediakalzinose der pathologischen Arteriolen und die lokalen Entzündungsvorgänge. Die Arteriosklerose in der Subkutis steht für die Pathogenese der Hautnekrose dabei im Vordergrund. Auch wenn die Erkrankung pathogenetisch auf eine Arteriosklerose zurückzuführen ist, ist die eigentliche Grundursache die Hypertonie.
   
-**Kodierempfehlung:**
+**Kodierempfehlung:**  
 Für das Ulcus hypertonicum (Martorell) empfehlen wir folgende Kodekombination: L97 _Ulcus cruris, anderenorts nicht klassifiziert_ zusammen mit der Kreuz-Stern-Kombination aus dem zutreffenden Kode I10.-† bis I15.-† und L99.8* _Sonstige näher bezeichnete Krankheiten der Haut und der Unterhaut bei anderenorts klassifizierten Krankheiten_. 
 Durch diese Erfassung kann das Ulcus hypertonicum von anderen Ulcus cruris-Arten unterschieden werden.
 
  
 {{</markdown>}}
 <br>  
-<br>
 <br>
 
 {{</article>}}

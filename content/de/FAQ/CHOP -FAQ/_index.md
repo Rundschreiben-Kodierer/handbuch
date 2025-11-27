@@ -49,7 +49,7 @@ keywords: []
 </table>
 
 {{<markdown>}}
-**Problem/Erläuterung:**
+**Problem/Erläuterung:**  
 {{</markdown>}}
 Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Methode mit einem präzisen Kode aus Kapitel 7 <font color="green">"Operationen am kardiovaskulären System"</font> abgebildet. Gibt es einen präzisen Kode, wird 39.99.21 <I>Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen</I>nicht kodiert. 
 <br>  
@@ -136,7 +136,7 @@ Eine perkutan-transluminale Thrombektomie an Lungengefässen mittels Thrombusent
 
 <b>Problem/Erläuterung:</b>
 <br>
-Bei den Kodes der Subkategorie 39.71.- <I>«Endovaskuläre Implantation eines Stent-Grafts [Stent-Prothesen] an der abdominalen Aorta»</I> und der Elementegruppe 39.73.4- <I>«Endovaskuläre Implantation von Stent-Grafts [Stent-Prothesen] in die Aorta thoracoabdo-minalis»</I> ist mit den Zusatzkodes 39.78.5- <I>«Ende der untersten Stent-Grafts [Stent-Prothesen]» </I>anzugeben, wie der Stent-Graft en-det.
+Bei den Kodes der Subkategorie 39.71.- <I>«Endovaskuläre Implantation eines Stent-Grafts [Stent-Prothesen] an der abdominalen Aorta»</I> und der Elementegruppe 39.73.4- <I>«Endovaskuläre Implantation von Stent-Grafts [Stent-Prothesen] in die Aorta thoracoabdo-minalis»</I> ist mit den Zusatzkodes 39.78.5- <I>«Ende der untersten Stent-Grafts [Stent-Prothesen]» </I>anzugeben, wie der Stent-Graft en-det.<br>
 <br>
 Die Elementegruppe 39.78.5- umfasst drei Zusatzkodes:<br>
 <body>
@@ -146,13 +146,14 @@ Die Elementegruppe 39.78.5- umfasst drei Zusatzkodes:<br>
         <li>39.78.53 <I>«Ende der untersten Stent-Grafts (Stent-Prothesen), aortobiiliakal»</I></li>
     </ul>
 </body>
-<br>
 In der folgenden Tabelle wurde die Bedeutung des jeweiligen Zusatzkodes graphisch dargestellt.
 <br>
 <br>
 {{<insertImage image="0767_a.png" class="edge max-w-90">}}
 <br>
+<br>
 Die aortomonoiliakal oder aortobiiliakal endenden Stent-Grafts (Hauptkörper (blau)) können mit Stent-Grafts in der linken und/oder rechten A. iliaca communis verlängert werden (weitere Stent-Grafts werden dann anmodelliert, grün). Die entsprechenden Kodes der Subkategorie 39.7B.- <I>Endovaskuläre Implantation von Stent-Grafts [gecoverten Stents] in die Aa. iliacae communis und externa</I> sind in diesem Fall zusätzlich zu kodieren.
+<br>
 <br>
 Folgende Tabelle illustriert die verschiedenen Situationen einer abdominalen Hauptprothese ohne Öffnungen (blau im Schema):
 <br>
@@ -198,8 +199,15 @@ Folgende Tabelle illustriert die verschiedenen Situationen einer abdominalen Hau
   </tr>
 </table>
 
-**Problem/Erläuterung:**
+<b>Problem/Erläuterung:</b>
+Folgende Kodes haben eine Unterteilung nach Anzahl der implantierten Stents/Prothesen. Es gibt für diese Stent-/Prothesen-Typen keine Summen-Kodes über den gesamten Aufenthalt.
+   42.81.- Einsetzen eines permanenten Tubus in den Ösophagus  
+   51.87.- Endoskopische Einlage oder Wechsel von Stent in den Gallengang  
+   51.9A.- Einlage oder Wechsel von Stent in den Gallengang  
+Je Eingriff ist der Kode mit der entsprechenden Anzahl von eingesetzten Stents/Prothesen auszuwählen und einmal pro Eingriff zu erfassen.
+<br>
 {{<markdown>}}
+**Problem/Erläuterung:**
 Folgende Kodes haben eine Unterteilung nach Anzahl der implantierten Stents/Prothesen. Es gibt für diese Stent-/Prothesen-Typen keine Summen-Kodes über den gesamten Aufenthalt.
 {{<indent level="4">}}
 42.81.- Einsetzen eines permanenten Tubus in den Ösophagus  
@@ -536,7 +544,6 @@ Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückfl
 
 <b>Problem/Erläuterung:</b><br>
 Folgende Tabelle präzisiert die Kodierung von Eingriffskode und Zusatzkode bei einzeitigen Mehrfacheingriffen, am Beispiel der Hand.
-<br>  
 <br><br>
 {{<insertImage image="FAQCHOP0008Tabelle.png" class="edge max-w-90">}}
 <br>  
@@ -664,8 +671,8 @@ Ausnahme: Es bestehen CHOP-Kodes, bei denen im Beachte angegeben ist, dass die g
 Unter den Elementegruppen 99.84.1- Kontaktisolierung, nach Anzahl Behandlungstage, 
 99.84.2- Tröpfchenisolierung, […] und 99.84.3- Aerosolisolierung, […] ist folgendes «Exklusivum – Kode weglassen» angegeben: 
 
-   EXKL. «Kode weglassen - Komplexbehandlung bei Besiedlung oder Infektion  
-   mit multiresistenten Erregern, nach Anzahl Behandlungstage (93.59.5-)». 
+&nbsp&nbsp&nbspEXKL. «Kode weglassen - Komplexbehandlung bei Besiedlung oder Infektion  
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspmit multiresistenten Erregern, nach Anzahl Behandlungstage (93.59.5-)». 
 
 Dies bedeutet, dass die zeitgleiche Kodierung von 93.59.5- und 99.84.1-, 99.84.2-, 99.84.3- nicht gestattet ist. Werden 99.84.1-, 99.84.2-, 99.84.3- zeitlich versetzt erbracht zur 93.59.5- können die Kodes im gleichen Fall erfasst werden. Die Erfassung von 99.84.1-, 99.84.2-, 99.84.3- darf nie für das gleiche Zeitintervall wie 93.59.5- erfolgen.
 
@@ -845,24 +852,26 @@ Die **alleinige** Erfassung des Glasgow Coma Scale (GCS) ist für den klinisch n
 **Problem/Erläuterung:**  
 In den Beachte zu den Komplexbehandlungen oder Komplexdiagnostiken angegebene Auflistungen, die auf Sätze folgen im Sinne von «Einsatz von mindestens x Therapiebereichen» oder «Mindestens x der folgenden Massnahmen», bedeuten, dass mindestens x verschiedene der aufgelisteten Therapiebereiche oder Massnahmen zum Einsatz kommen. Der Einsatz / die Durchführung von x-mal der gleichen Massnahme / des gleichen Therapiebereichs erfüllt die Mindestanforderungen nicht.
 Beispiel: Unter 99.A6.- Neurologische Komplexdiagnostik wird im «Beachte» folgende Auflistung aufgeführt:
-  
+{{</markdown>}}
+<br>
 Beachte: 	[…]  
 mind. 3 der folgenden Massnahmen:
--	LP (Liquorentnahme über Lumbalpunktion),
--	craniale und spinale MRI,
--	funktionelle Bildgebung (z. B. PET, SPECT),
--	Diffusion Imaging, Perfusion Imaging
--	volumetrische und morphometrische Bildanalyse, 
--	elektrophysiologische (neurophysiologische) Diagnostik,
--	neurosonologische/psychologische/psychiatrische Diagnostik,
--	neuropsychologische Diagnostik,
--	Elektroenzephalographie [EEG] (mobiles Langzeit-EEG über mindestens 24 Stunden oder mehr und polygraphisches Nachtschlaf-EEG und video- und radiotelemetriertes elektroenzephalographisches Monitoring über mindestens 4 Stunden und Orthostase-EEG)    
-  
+<body>
+    <ul>
+        <li>LP (Liquorentnahme über Lumbalpunktion),</li>
+        <li>craniale und spinale MRI,</li>
+        <li>funktionelle Bildgebung (z. B. PET, SPECT),</li>
+        <li>Diffusion Imaging, Perfusion Imaging</li>
+        <li>volumetrische und morphometrische Bildanalyse,</li>
+        <li>elektrophysiologische (neurophysiologische) Diagnostik,</li>
+        <li>neurosonologische/psychologische/psychiatrische Diagnostik,</li>
+        <li>neuropsychologische Diagnostik,</li>
+        <li>Elektroenzephalographie [EEG] (mobiles Langzeit-EEG über mindestens 24 Stunden oder mehr und polygraphisches Nachtschlaf-EEG und video- und radiotelemetriertes elektroenzephalographisches Monitoring über mindestens 4 Stunden und Orthostase-EEG)</li>
+    </ul>
+</body>
+<br>
 Wird dreimal ein EEG durchgeführt ohne zwei weitere der aufgelisteten Massnahmen sind die Mindestmerkmale nicht erfüllt und ein Kode der Subkategorie 99.A6.- kann nicht erfasst werden.
 Werden hingegen ein craniales MRI, eine neurophysiologische Diagnostik sowie ein mobiles Langzeit-EEG über mindestens 24 Stunden durchgeführt mit Erfüllen der anderen Mindestmerkmale, kann ein Kode der Subkategorie 99.A6.- erfasst werden.
-
-
-{{</markdown>}}
 <br>  
 <br>
   
@@ -1214,14 +1223,12 @@ Bei z. B. vorbestehender Spondylodese L2 – L4 und aktuell Neufusion der Segmen
   </tr>
 </table>
 
-{{<markdown>}}
-**Problem/Erläuterung:**  
+<b>Problem/Erläuterung:</b>
 Der Kode 7A.A2 Implantation von mitwachsenden oder expandierenden Systemen, Wirbelsäule ist ein Zusatzkode und kann daher nicht allein kodiert werden. 
   
-Beim Eingriff handelt es sich um eine **dynamische Stabilisierung der Wirbelsäule**, die mit **7A.72.1- Dynamische Stabilisierung der Wirbelsäule, Zugang dorsal und dorsolateral_** erfasst wird.  
+Beim Eingriff handelt es sich um eine <b>dynamische Stabilisierung der Wirbelsäule</b>, die mit <b><L>7A.72.1- Dynamische Stabilisierung der Wirbelsäule, Zugang dorsal und dorsolateral<b></L> erfasst wird.  
 Zur Zählung der behandelten Segmente werden nur die Segmente, an denen das System befestigt wird, berücksichtigt. 
 
-{{</markdown>}}
 <br>  
 <br>
   
@@ -1311,16 +1318,22 @@ Im Beispiel der folgenden Abbildung erfolgte eine Spondylodese über sechs Wirbe
   </tr>
 </table>
 
-{{<markdown>}}
-**Problem/Erläuterung:**  
-Der Kode **7A.71.-** _Fusion von Wirbeln mit Stabilisierung der Wirbelsäule_ ist anzuwenden, wenn eine **Wirbelfusion/ Versteifung** mit Stabilisierung durchgeführt wird, die zusätzlich eines der folgenden Merkmale erfüllt:  
-o	Implantation von stabilisierenden Materialien (z. B. Cage, Schrauben-Stab-Systeme, Platten) sowie eine der folgenden Massnahmen  
-o	Dekortikation der Gelenkflächen oder  
-o	Osteotomie oder  
-o	Anbringen von Knochen(ersatz)material  
-  
-Es liegt keine **potenzielle Bewegungserhaltung** im betroffenen Segment vor.
-{{</markdown>}}
+<b>Problem/Erläuterung:</b><br>
+Der Kode <b>7A.71.-</b> _Fusion von Wirbeln mit Stabilisierung der Wirbelsäule_ ist anzuwenden, wenn eine <b>Wirbelfusion/ Versteifung</b> mit Stabilisierung durchgeführt wird, die zusätzlich eines der folgenden Merkmale erfüllt:<br>
+
+
+
+
+<body>
+    <ul>
+        <li>Implantation von stabilisierenden Materialien (z. B. Cage, Schrauben-Stab-Systeme, Platten) sowie eine der folgenden Massnahmen  </li>
+        <li>Dekortikation der Gelenkflächen oder</li>
+        <li>Osteotomie oder</li>
+        <li>Anbringen von Knochen(ersatz)material</li>
+    </ul>
+</body>
+<br>
+Es liegt keine <b>potenzielle Bewegungserhaltung</b> im betroffenen Segment vor.
 <br>  
 <br>
   
@@ -1367,7 +1380,7 @@ Eine knöcherne Fusion (Arthrodese / Spondylodese) der Wirbelsäule, bei der aus
   
 Bei einer durchgeführten Laminotomie, Laminektomie oder Laminoplastik ist dies zusätzlich mit dem zutreffenden Kode der Subkategorie 03.03.- _Laminotomie, Laminektomie und Laminoplastik_ zu erfassen. Die Höhe des Eingriffs an der Wirbelsäule wird mit dem zutreffenden Kode der Subkategorie 7A.B1.- _Höhe des Eingriffs an der Wirbelsäule_ kodiert, während der Zugang zur Wirbelsäule mit dem Kode 03.04.- dargestellt wird.  
   
-Es darf kein Kode der Subkategorie 7A.71.- _Fusion von Wirbeln mit Stabilisierung der Wirbelsäule_ erfasst werden.
+Es darf **kein** Kode der Subkategorie 7A.71.- _Fusion von Wirbeln mit Stabilisierung der Wirbelsäule_ erfasst werden.
   
 {{</markdown>}}
 <br>  
