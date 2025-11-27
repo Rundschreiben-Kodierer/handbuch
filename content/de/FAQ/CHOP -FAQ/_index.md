@@ -198,15 +198,15 @@ Folgende Tabelle illustriert die verschiedenen Situationen einer abdominalen Hau
 </table>
 
 <b>Problem/Erläuterung:</b><br>
-Folgende Kodes haben eine Unterteilung nach Anzahl der implantierten Stents/Prothesen. Es gibt für diese Stent-/Prothesen-Typen keine Summen-Kodes über den gesamten Aufenthalt.
+Folgende Kodes haben eine Unterteilung nach Anzahl der implantierten Stents/Prothesen. [
 {{<indent level="4">}}
-42.81.- Einsetzen eines permanenten Tubus in den Ösophagus<br>
-51.87.- Endoskopische Einlage oder Wechsel von Stent in den Gallengang<br>
-51.9A.- Einlage oder Wechsel von Stent in den Gallengang<br>
+42.81.- <I>Einsetzen eines permanenten Tubus in den Ösophagus</I><br>
+51.87.- <I>Endoskopische Einlage oder Wechsel von Stent in den Gallengang</I><br>
+51.9A.- <I>Einlage oder Wechsel von Stent in den Gallengang</I><br>
 {{</indent>}}
 Je Eingriff ist der Kode mit der entsprechenden Anzahl von eingesetzten Stents/Prothesen auszuwählen und einmal pro Eingriff zu erfassen.
 <br>  
-Beispiel: Am Tag X werden zwei selbstexpandierende Prothesen in den Ösophagus eingesetzt. Am Tag Y wird eine selbstexpandie-rende Prothese ausgewechselt.
+Beispiel: Am Tag X werden zwei selbstexpandierende Prothesen in den Ösophagus eingesetzt. Am Tag Y wird eine selbstexpandierende Prothese ausgewechselt.
 <br>  
 <b>Kodierempfehlung</b>
 {{<grid class="ps-0">}}
@@ -215,7 +215,7 @@ Tag X:
     {{</grid/column>}}
     {{<grid/column>}}
         {{<markdown>}}
-42.81.41 «Einsetzen und Wechsel von zwei selbstexpandierenden Prothesen (permanenter Tubus) in den Ösophagus, endoskopisch»
+42.81.41 Einsetzen und Wechsel von zwei selbstexpandierenden Prothesen       (permanenter Tubus) in den Ösophagus, endoskopisch
         {{</markdown>}}
     {{</grid/column>}}
 {{</grid>}}
@@ -226,13 +226,13 @@ Tag Y:
     {{</grid/column>}}
     {{<grid/column>}}
         {{<markdown>}}
-42.81.40 «Einsetzen und Wechsel einer selbstexpandierenden Prothese (permanenter Tubus) in den Ösophagus, endo-skopisch»
+42.81.40 Einsetzen und Wechsel einer selbstexpandierenden Prothese (permanenter Tubus) in den Ösophagus, endoskopisch
         {{</markdown>}}
     {{</grid/column>}}
 {{</grid>}}
 <br>
 {{<markdown>}}
-Folgende Kodes geben jeweils nur «eines Stents» oder «Stent», bzw. «einer Prothese» an. Es gibt für diese Stent-/Prothesen-Ty-pen keine Summen-Kodes über den gesamten Aufenthalt.
+Folgende Kodes haben keine Unterteilung nach Anzahl der implantierten Stents/Prothesen und geben jeweils nur «eines Stents», «Stent» oder «einer Prothese» an.
 {{</markdown>}}
 
 {{<grid class="ps-0">}}
@@ -241,36 +241,37 @@ Folgende Kodes geben jeweils nur «eines Stents» oder «Stent», bzw. «einer P
     {{</grid/column>}}
     {{<grid/column>}}
         {{<markdown>}}
-09.83 Konjunktivozystorhinostomie mit Einsetzen von Tubus oder Stent  
-31.93 Ersetzen eines Larynx- oder Trachea-Stents  
-31.96 Einsetzen eines Larynx- oder Trachea-Stents  
-33.91.2- Bronchusdilatation, endoskopisch, mit Einlegen oder Wechsel eines Stents/Stent-Grafts  
-44.99.5- Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Magen  
-44.99.6- Einlegen oder Wechsel einer selbstexpandierenden Prothese am Magen  
-46.99.5- Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Darm  
-46.99.6- Einlegen oder Wechsel einer selbstexpandierenden Prothese am Darm  
-48.99.50 Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese im Rektum  
-48.99.60 Einlegen oder Wechsel einer selbstexpandierenden Prothese im Rektum  
-52.93.- Endoskopische Einlage, Wechsel oder Entfernen von Stent (Prothese) in den Ductus pancreaticus  
-52.95.4- Einlage oder Wechsel eines nicht selbstexpandierenden Stents (Prothese) in den Pankreasgang, offen chirur-gisch oder laparoskopisch  
-52.95.5- Einlage oder Wechsel eines selbstexpandierenden Stents (Prothese) in den Pankreasgang, offen chirurgisch oder laparoskopisch  
-58.99.10 Sonstige Operationen an Urethra und Periurethralgewebe, Einlegen und Wechsel eines Stents in die Urethra  
-60.99.31 Einlegen eines Stents in die prostatische Harnröhre  
+09.83		Konjunktivozystorhinostomie mit Einsetzen von Tubus oder Stent
+31.93		Ersetzen eines Larynx- oder Trachea-Stents
+31.96		Einsetzen eines Larynx- oder Trachea-Stents
+33.91.2-	Bronchusdilatation, endoskopisch, mit Einlegen oder Wechsel eines Stents/Stent-Grafts
+44.99.5-	Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Magen
+44.99.6-	Einlegen oder Wechsel einer selbstexpandierenden Prothese am Magen
+46.99.5-	Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Darm
+46.99.6-	Einlegen oder Wechsel einer selbstexpandierenden Prothese am Darm
+48.99.50	Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese im Rektum
+48.99.60	Einlegen oder Wechsel einer selbstexpandierenden Prothese im Rektum
+52.93.-		Endoskopische Einlage, Wechsel oder Entfernen von Stent [Prothese] in den Ductus pancreaticus
+52.95.4-	Einlage oder Wechsel eines nicht selbstexpandierenden Stents [Prothese] in den Pankreasgang, offen chirurgisch oder laparoskopisch
+52.95.5-	Einlage oder Wechsel eines selbstexpandierenden Stents [Prothese] in den Pankreasgang, offen chirurgisch oder laparoskopisch
+58.99.10	Sonstige Operationen an Urethra und Periurethralgewebe, Einlegen und Wechsel eines Stents in die Urethra
+60.99.31	Einlegen eines Stents in die prostatische Harnröhre
+
         {{</markdown>}}
     {{</grid/column>}}
 {{</grid>}}
 <br><br>
 Je Eingriff ist der Kode so oft zu kodieren, wie Stents/Prothesen implantiert wurden.
 <br>
-Beispiel: Am Tag X werden zwei nicht selbstexpandierende Prothesen am Darm eingelegt. Am Tag Y werden beide entfernt und durch eine selbstexpandierende Prothese ersetzt.
-Kodierung:  
+Beispiel: Am Tag X werden zwei nicht selbstexpandierende Prothesen am Darm eingelegt. Am Tag Y werden beide entfernt und durch eine selbstexpandierende Prothese ersetzt.<br>
+Kodierung:
 {{<grid class="ps-0">}}
     {{<grid/column>}}
 Tag X:
     {{</grid/column>}}
     {{<grid/column>}}
         {{<markdown>}}
-46.99.51 «Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Darm, offen chirurgisch» wird zweimal kodiert.  
+46.99.51 Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Darm, offen chirurgisch wird <b>zweimal</b> kodiert.
         {{</markdown>}}
     {{</grid/column>}}
 {{</grid>}}
@@ -281,8 +282,8 @@ Tag Y:
     {{</grid/column>}}
     {{<grid/column>}}
         {{<markdown>}}
-46.99.71 «Entfernen einer Prothese am Darm, offen chirurgisch» wird zweimal kodiert.  
-46.99.61 «Einlegen oder Wechsel einer selbstexpandierenden Prothese am Darm, offen chirurgisch» wird einmal erfasst.
+46.99.71 Entfernen einer Prothese am Darm, offen chirurgisch wird <b>zweimal</b> kodiert.
+46.99.61 Einlegen oder Wechsel einer selbstexpandierenden Prothese am Darm, offen chirurgisch wird <b>einmal</b> erfasst.
         {{</markdown>}}
     {{</grid/column>}}
 {{</grid>}}
