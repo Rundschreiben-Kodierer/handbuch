@@ -236,6 +236,28 @@ Folgende Kodes haben keine Unterteilung nach Anzahl der implantierten Stents/Pro
  
     {{</grid/column>}}
     {{<grid/column>}}
+09.83
+    {{</grid/column>}}
+    {{<grid/column>}}
+Konjunktivozystorhinostomie mit Einsetzen von Tubus oder Stent
+    {{</grid/column>}}
+{{</grid>}}
+
+{{<grid class="ps-0">}}
+    {{<grid/column>}}
+31.93
+    {{</grid/column>}}
+    {{<grid/column>}}
+Ersetzen eines Larynx- oder Trachea-Stents
+    {{</grid/column>}}
+{{</grid>}}
+
+
+{{<grid class="ps-0">}}
+    {{<grid/column>}}
+ 
+    {{</grid/column>}}
+    {{<grid/column>}}
         {{<markdown>}}
 09.83		Konjunktivozystorhinostomie mit Einsetzen von Tubus oder Stent<br>
 31.93		Ersetzen eines Larynx- oder Trachea-Stents<br>
