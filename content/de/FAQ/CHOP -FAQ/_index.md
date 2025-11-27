@@ -136,6 +136,7 @@ Eine perkutan-transluminale Thrombektomie an Lungengefässen mittels Thrombusent
 <br>
 Bei den Kodes der Subkategorie 39.71.- <L>Endovaskuläre Implantation von Stent-Grafts [gecoverten Stents] in die Aorta abdominalis</L> und der Elementegruppe 39.73.4- <L>Endovaskuläre Implantation von Stent-Grafts [gecoverten Stents] in die Aorta thoracoabdominalis</L> ist mit den Zusatzkodes 39.78.5- <L>Ende der untersten Stent-Grafts [gecoverten Stents]</L> anzugeben, wie der Stent-Graft endet.
 <br>
+<br>
 Die Elementegruppe 39.78.5- umfasst drei Zusatzkodes:
 <body>
     <ul>
@@ -507,7 +508,7 @@ Kodierung:
 Tag X:
     {{</grid/column>}}
     {{<grid/column>}}
-46.99.51 <I>Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Darm, offen chirurgisch wird</I><b>zweimal</b> kodiert.
+46.99.51 <I>Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Darm, offen chirurgisch wird</I><b> zweimal</b> kodiert.
     {{</grid/column>}}
 {{</grid>}}
 
@@ -1056,7 +1057,7 @@ Die **alleinige** Erfassung des Glasgow Coma Scale (GCS) ist für den klinisch n
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;"Massnahmen Komplexdiagnostiken / Komplexbehandlungen, Therapiebereiche / Mindestmerkmale</td>
+    <td style="border: 1px solid black;">Massnahmen Komplexdiagnostiken /<br> Komplexbehandlungen, Therapiebereiche /<br> Mindestmerkmale"</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Erstellt</th>
@@ -1087,7 +1088,7 @@ Beispiel: Unter 99.A6.- Neurologische Komplexdiagnostik wird im «Beachte» folg
 {{</markdown>}}
 <br>
 <br>
-Beachte: 	[…]<br>
+Beachte:&nbsp	&nbsp	&nbsp 	[…]<br><br>
 mind. 3 der folgenden Massnahmen:
 <body>
     <ul>
@@ -1239,12 +1240,15 @@ Bei einer Fallzusammenführung mit palliativmedizinischer Komplexbehandlung im e
 Folgende Fragestellungen und Erläuterungen beziehen sich auf die Elementegruppe 93.8A.2- <I>Palliativmedizinische Komplexbehandlung (ausserhalb einer eigenständigen spezialisierten Palliative Care Station), nach Anzahl Behandlungstage</I> und die Subkategorie 93.8B.- <I>Behandlung auf einer eigenständigen spezialisierten Palliative Care Station</I>.
 <br>
 <br>
+<br>
 <b>Fragestellung Nr. 1:</b><br>  
 In Bezug auf Mindestmerkmal Punkt 3, _Behandlungsteam und Therapie_ der 93.8A.2- und _Mindestmerkmal Punkt 3_, Therapie sowie _Mindestmerkmal_ Punkt 4, Behandlungsteam der 93.8B.-: Welche Therapiebereiche gibt es und was wird zu den 6 Stunden gezählt?
 <br>
 <br>
+<br>
 <b>Erläuterung Nr. 1:</b><br>  
 Die Aufzählung der Therapiebereiche (Sozialarbeit/-pädagogik, Psychologie, Physiotherapie, Ergotherapie, Logopädie, Ernährungsberatung/-therapie, Seelsorge, Kunsttherapie) ist sowohl für 93.8A.2- als für 93.8B.- abschliessend. 
+<br>
 <br>
 <br>  
 Grundvoraussetzung für die Kodierung ist die Dokumentation der Gespräche und Therapien. Die Art der Therapie, deren Dauer und das Datum der Durchführung müssen von allen beteiligten Berufsgruppen nachvollziehbar dokumentiert sein.<br>
@@ -1462,8 +1466,7 @@ Bei z. B. vorbestehender Spondylodese L2 – L4 und aktuell Neufusion der Segmen
 <br>
 Der Kode 7A.A2 Implantation von mitwachsenden oder expandierenden Systemen, Wirbelsäule ist ein Zusatzkode und kann daher nicht allein kodiert werden. 
 <br>
-<br>
-Beim Eingriff handelt es sich um eine <b>dynamische Stabilisierung der Wirbelsäule</b>, die mit <b><L>7A.72.1- Dynamische Stabilisierung der Wirbelsäule, Zugang dorsal und dorsolateral<b></L> erfasst wird.<br>
+Beim Eingriff handelt es sich um eine <b>dynamische Stabilisierung der Wirbelsäule</b>, die mit <b><L>7A.72.1- Dynamische Stabilisierung der Wirbelsäule, Zugang dorsal und dorsolateral</b></L> erfasst wird.<br>
 Zur Zählung der behandelten Segmente werden nur die Segmente, an denen das System befestigt wird, berücksichtigt. 
 
 <br>  
@@ -1530,8 +1533,7 @@ Im Beispiel der folgenden Abbildung erfolgte eine Spondylodese über sechs Wirbe
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Fusion Wirbelsäule / Instrumentierung / <br>Knochenanlagerung, Knochentransplantation,<br> Knochenersatz an der Wirbelsäule,<br> stabilisierende Massnahmen
-</td>
+    <td style="border: 1px solid black;">Fusion Wirbelsäule / Instrumentierung / <br>Knochenanlagerung, Knochentransplantation,<br> Knochenersatz an der Wirbelsäule,<br> stabilisierende Massnahmen</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Erstellt</th>
@@ -1555,7 +1557,7 @@ Im Beispiel der folgenden Abbildung erfolgte eine Spondylodese über sechs Wirbe
   </tr>
 </table>
 
-<b>Problem/Erläuterung:</b><br>
+<b>Problem/Erläuterung:</b> <br>
 Der Kode <b>7A.71.-</b> <I>Fusion von Wirbeln mit Stabilisierung der Wirbelsäule</I> ist anzuwenden, wenn eine <b>Wirbelfusion/ Versteifung</b> mit Stabilisierung durchgeführt wird, die zusätzlich eines der folgenden Merkmale erfüllt:<br>
 
 <body>
