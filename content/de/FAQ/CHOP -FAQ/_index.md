@@ -256,7 +256,6 @@ Folgende Kodes haben keine Unterteilung nach Anzahl der implantierten Stents/Pro
 52.95.5-	Einlage oder Wechsel eines selbstexpandierenden Stents [Prothese] in den Pankreasgang, offen chirurgisch oder laparoskopisch
 58.99.10	Sonstige Operationen an Urethra und Periurethralgewebe, Einlegen und Wechsel eines Stents in die Urethra
 60.99.31	Einlegen eines Stents in die prostatische Harnröhre
-
         {{</markdown>}}
     {{</grid/column>}}
 {{</grid>}}
