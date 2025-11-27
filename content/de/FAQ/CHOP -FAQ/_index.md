@@ -203,8 +203,8 @@ Folgende Tabelle illustriert die verschiedenen Situationen:
   </tr>
   <tr>
     <th style="border: 1px solid black;">CHOP</th>
-    <td style="border: 1px solid black;">CHOP: 	42.81.-/ 51.87.- / 51.9A / 09.83 /	
-31.93 / 31.96 / 33.91.2- / 44.99.5- / 46.99.6 / 48.99.- / 52.93.- / 52.95.4- / 52.95.5- / 58.99.- / 60.99.31
+    <td style="border: 1px solid black;">CHOP: 	42.81.-/ 51.87.- / 51.9A / 09.83 /<br>
+31.93 / 31.96 / 33.91.2- / 44.99.5- / 46.99.6 / 48.99.- / 52.93.- / 52.95.4- /<br> 52.95.5- / 58.99.- / 60.99.31
 </td>
   </tr>
   <tr>
@@ -349,30 +349,26 @@ Folgende Tabelle gibt eine grobe Übersicht der Abbildung der vaskulären Stents
 {{<insertImage image="FAQCHOP0005Tabelle.png" class="edge max-w-90">}}
 {{<lineBreak>}}
 <br><br>
-{{<markdown>}}
   
 Um die Anzahl der implantierten Stents / Stent-Grafts wiederzugeben, ist der entsprechende Kode pro implantierten Stent / Stent-Graft zu erfassen.
 Die Zusatzkodes, die es erlaubten, die Summe, der über den Aufenthalt implantierten Stents / Stent-Grafts zu erfassen, wurden aus der CHOP entfernt.
 Nota bene: Die Resektion von Blutgefässen mit Ersatz (s. 38.4-) wird in dieser Klarstellung/FAQ bewusst nicht erwähnt.
-  
-  
-**Kodierempfehlung:**
-  
+<br><br><br>  
+<b>Kodierempfehlung:</b>
+<br>
 Beispiel für die Aa. coronariae
+<br>
 Zuerst wird der Stent-Typ gewählt, dann identifiziert, ob dieser Stent-Typ in eine oder mehrere Koronararterien implantiert wurde. Der entsprechende Kode wird dann pro implantierten Stent / Stent-Graft von diesem Typ erfasst.
-  
+<br>  
 Fallbeispiel:
-  
+<br>
 Zwei medikamentenfreisetzende Stents werden perkutan-transluminal implantiert, der eine in den Ramus interventricularis anterior der A. coronaria sinistra [RIVA], der andere in den Ramus circumflexus der A. coronaria sinistra [RCX]. Zusätzlich wird ein nicht medikamentenfreisetzender Stent in A. coronaria destra [RCA] perkutan-transluminal implantiert.
-  
+<br>
 Kodierung:
-  
-_36.08.22  Implantation perkutan-transluminal von Stents mit Medikamentenfreisetzung, in mehreren Koronararterien_
-_36.08.22  Implantation perkutan-transluminal von Stents mit Medikamentenfreisetzung, in mehreren Koronararterien_
-_36.08.11  Implantation perkutan-transluminal von Stents ohne Medikamentenfreisetzung, in einer Koronararterie_
-  
-  
-{{</markdown>}}
+<br>
+<I>36.08.22  Implantation perkutan-transluminal von Stents mit Medikamentenfreisetzung, in mehreren Koronararterien</I>
+<I>36.08.22  Implantation perkutan-transluminal von Stents mit Medikamentenfreisetzung, in mehreren Koronararterien</I>
+<I>36.08.11  Implantation perkutan-transluminal von Stents ohne Medikamentenfreisetzung, in einer Koronararterie</I>
 <br>  
 <br>
 <br>
@@ -414,17 +410,18 @@ _36.08.11  Implantation perkutan-transluminal von Stents ohne Medikamentenfreise
 {{<markdown>}}
 **Problem/Erläuterung:**
 {{</markdown>}}
-<u>Gefässverschliessende Operationen</u>
-In der CHOP existieren Kodes für gefässverschliessende Operationen/Interventionen, die s.g. Embolisationen mit Coils, Plugs, Schirmen usw., z. B. 39.79.2- <I>Coil-Embolisation oder -Verschluss von sonstigen Gefässen</I>, <I>39.79.5- Selektive Embolisation von sonstigen Gefässen mit Schirmen</I> oder 39.79.A- <I>Selektive Embolisation von sonstigen Gefässen mit Plugs</I> usw. 
-
+<br>
+<u>Gefässverschliessende Operationen</u><br>
+    In der CHOP existieren Kodes für gefässverschliessende Operationen/Interventionen, die s.g. Embolisationen mit Coils, Plugs, Schirmen usw., z. B. 39.79.2- <I>Coil-Embolisation oder -Verschluss von sonstigen Gefässen</I>, <I>39.79.5- Selektive Embolisation von sonstigen Gefässen mit Schirmen</I> oder 39.79.A- <I>Selektive Embolisation von sonstigen Gefässen mit Plugs</I> usw. 
+<br>
 Des Weiteren stehen die Zusatzkodes aus der Subkategorie 00.4A.- <I>Anzahl verwendeter endovaskulärer Coils</I> und 00.4G.- <I>Einsetzen von Gefässverschlusskörpern</I> zur Verfügung. 
-
+<br>
 Die Zusatzkodes der Elementegruppen von 00.4G.2- bis 00.4G.6-<I> Eingesetzte vaskuläre Schirme in [...], nach Anzahl</I>, gelten nur für die Abbildung der verwendeten Devices im Kontext von gefässverschliessenden Operationen/Interventionen (z. B. selektive Embolisationen) als Zusatzkodes. 
 Die Kodes unter 00.4G.- sind für Embolie-Protektionssysteme nicht zu verwenden. 
-
+<br>
 Embolie-Protektionssysteme
 Der Zusatzkode 39.E1 <I>Verwendung eines Embolie-Protektionssystems</I> ermöglicht die Erfassung von periinterventionellen Embolie-Protektionssystemen. 
-
+<br>
 Die Kodes 38.7X.11 <I>Einsetzen eines Embolie-Protektionssystems in die Vena cava, offen chirurgisch</I>, 38.7X.21 <I>Einsetzen eines Embolie-Protektionssystems in die Vena cava, perkutan-transluminal</I>, <I>39.75.13 Perkutan-transluminale Gefässintervention, sonstige Gefässe, Embolie-Protektionssystem (periphere oder viszerale Gefässe)</I> stellen permanente Systeme dar.
 <br>  
 <br>
@@ -464,18 +461,19 @@ Die Kodes 38.7X.11 <I>Einsetzen eines Embolie-Protektionssystems in die Vena cav
   </tr>
 </table>
 
-{{<markdown>}}
-**Problem/Erläuterung:**
+<b>Problem/Erläuterung:</b><br>
 Folgende Kodes der Subkategorie 51.99.- Sonstige Operationen an den Gallenwegen sind nur für offen chirurgische oder laparoskopische Eingriffe abzubilden:
-•	51.99.00 n.n.bez. und 51.99.99 sonstige
-•	51.99.11 Destruktion an den Gallengängen
-•	51.99.12 Einlage einer Drainage in den Gallengang
-•	51.99.13 Blutstillung an den Gallengängen
-•	51.99.14 Revision an den Gallengängen
-•	51.99.91 Sonstige Rekonstruktion der Gallenwegen
-
-Der Kode 51.99.90 Sonstige endoskopische Operationen an den Gallenwegen, wie im Titel angegeben, ist nur für endoskopische Interventionen zu erfassen.
-{{</markdown>}}
+<body>
+    <ul>
+        <li>51.99.00 <I>n.n.bez.</I> und 51.99.99 <I>sonstige</I></li>
+        <li>51.99.11 <I>Destruktion an den Gallengängen</I></li>
+        <li>51.99.12 <I>Einlage einer Drainage in den Gallengang</I></li>
+        <li>51.99.13 <I>Blutstillung an den Gallengängen</I></li>
+        <li>51.99.14 <I>Revision an den Gallengängen</I></li>
+        <li>51.99.91 <I>Sonstige Rekonstruktion der Gallenwegen</I></li>
+    </ul>
+</body>
+<br>Der Kode 51.99.90 Sonstige endoskopische Operationen an den Gallenwegen, wie im Titel angegeben, ist nur für endoskopische Interventionen zu erfassen.
 <br>  
 <br>
 <br>
@@ -513,14 +511,12 @@ Der Kode 51.99.90 Sonstige endoskopische Operationen an den Gallenwegen, wie im 
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
-
-{{<markdown>}}
-**Problem/Erläuterung:**
-{{</markdown>}}
+<br>
+<b>Problem/Erläuterung:</b><br>
 Wird eine bestehende Knieendoprothese, unabhängig vom Typ, durch eine andere Knieendoprothese ersetzt, ist für die Implantation der Kode mit der Bezeichnung «bei einem Prothesenwechsel» zu wählen. 
-
+<br>
 Z. B. Explantation einer Hemiendoprothese und Implantation einer Totalendoprothese am gleichen Knie: für die Implantation muss der Kode 81.54.31 <I>Implantation einer Standard-Totalendoprothese des Kniegelenks bei einem Prothesenwechsel</I> erfasst werden und <b>nicht</b> der Kode 81.54.21 <I>Erstimplantation einer Standard-Totalendoprothese des Kniegelenks</I>.
-
+<br>
 Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückflächenersatz eingesetzt, muss der Kode 81.54.42 <I>Implantation eines Patella-Rückflächenersatz bei einem Wechsel</I> erfasst werden und <b>nicht</b> der Kode 81.54.27 <I>Erstimplantation eines Patella-Rückflächenersatzes</I>.
 <br>  
 <br>
@@ -560,12 +556,8 @@ Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückfl
   </tr>
 </table>
 
-{{<markdown>}}
-**Problem/Erläuterung:**
+<b>Problem/Erläuterung:</b><br>
 Folgende Tabelle präzisiert die Kodierung von Eingriffskode und Zusatzkode bei einzeitigen Mehrfacheingriffen, am Beispiel der Hand.
-  
-  
-{{</markdown>}}
 <br>  
 <br>
 <br>
@@ -604,10 +596,8 @@ Folgende Tabelle präzisiert die Kodierung von Eingriffskode und Zusatzkode bei 
   </tr>
 </table>
 
-{{<markdown>}}
-**Erläuterung:**
+<b>Erläuterung:</b><br>
 Die Angabe der Lateralität ist nur bei paarigen Organen ein Muss (entsprechende Kennzeichnung in der CHOP mit «[L]» in der PDF- Datei oder «Lateral» in der CSV-Datei). Bei nicht paarigen Organen oder Körperteilen «kann» die Lateralität erfasst werden, «muss» aber nicht.
-{{</markdown>}}
 <br>  
 <br>
 <br>
