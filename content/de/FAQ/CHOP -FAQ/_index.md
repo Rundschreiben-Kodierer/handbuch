@@ -227,10 +227,9 @@ Tag Y:
     {{</grid/column>}}
 {{</grid>}}
 <br>
-{{<markdown>}}
 Folgende Kodes haben keine Unterteilung nach Anzahl der implantierten Stents/Prothesen und geben jeweils nur «eines Stents», «Stent» oder «einer Prothese» an.
-{{</markdown>}}
-
+<br>
+<br>
 {{<grid class="ps-0">}}
     {{<grid/column>}}
  
@@ -435,8 +434,8 @@ Einlegen eines Stents in die prostatische Harnröhre
         {{</markdown>}}
     {{</grid/column>}}
 {{</grid>}}
-<br><br>
 Je Eingriff ist der Kode so oft zu kodieren, wie Stents/Prothesen implantiert wurden.
+<br>
 <br>
 Beispiel: Am Tag X werden zwei nicht selbstexpandierende Prothesen am Darm eingelegt. Am Tag Y werden beide entfernt und durch eine selbstexpandierende Prothese ersetzt.<br>
 Kodierung:
@@ -445,9 +444,7 @@ Kodierung:
 Tag X:
     {{</grid/column>}}
     {{<grid/column>}}
-        {{<markdown>}}
-46.99.51 Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Darm, offen chirurgisch wird <b>zweimal</b> kodiert.
-        {{</markdown>}}
+46.99.51 <I>Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Darm, offen chirurgisch wird</I><b>zweimal</b> kodiert.
     {{</grid/column>}}
 {{</grid>}}
 
@@ -456,10 +453,8 @@ Tag X:
 Tag Y:
     {{</grid/column>}}
     {{<grid/column>}}
-        {{<markdown>}}
-46.99.71 Entfernen einer Prothese am Darm, offen chirurgisch wird <b>zweimal</b> kodiert.
-46.99.61 Einlegen oder Wechsel einer selbstexpandierenden Prothese am Darm, offen chirurgisch wird <b>einmal</b> erfasst.
-        {{</markdown>}}
+46.99.71 <I>Entfernen einer Prothese am Darm, offen chirurgisch</I> wird <b>zweimal</b> kodiert.<br>
+46.99.61 <I>Einlegen oder Wechsel einer selbstexpandierenden Prothese am Darm, offen chirurgisch</I> wird <b>einmal</b> erfasst.
     {{</grid/column>}}
 {{</grid>}}
 <br>  
