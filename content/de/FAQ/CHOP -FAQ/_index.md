@@ -661,9 +661,7 @@ Unter den Elementegruppen 99.84.1- <L>Kontaktisolierung, nach Anzahl Behandlungs
 
 {{<grid class="ps-0">}}
     {{<grid/column>}}
-    {{</grid/column>}}
-    {{<grid/column>}}
-EXKL. «Kode weglassen - Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage (93.59.5-)».     {{</grid/column>}}
+EXKL. «Kode weglassen - Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage (93.59.5-)».     
     {{</grid/column>}}
 {{</grid>}}
 Dies bedeutet, dass die zeitgleiche Kodierung von 93.59.5- und 99.84.1-, 99.84.2-, 99.84.3- nicht gestattet ist. Werden 99.84.1-, 99.84.2-, 99.84.3- zeitlich versetzt erbracht zur 93.59.5- können die Kodes im gleichen Fall erfasst werden. Die Erfassung von 99.84.1-, 99.84.2-, 99.84.3- darf nie für das gleiche Zeitintervall wie 93.59.5- erfolgen.
