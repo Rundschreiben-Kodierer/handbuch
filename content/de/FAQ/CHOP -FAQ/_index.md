@@ -91,15 +91,15 @@ Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Metho
 {{<markdown>}}
 **Problem/Erläuterung:**
 Eine perkutan-transluminale Thrombektomie an Lungengefässen mittels Thrombusentfernungssystem lässt sich anhand von einem Kode und zwei Zusatzkodes erfassen: 
-
-•	39.75.17 Perkutan-transluminale Thrombektomie, sonstige Gefässe
-•	00.4B.13 PTKI an Lungengefässen 
-•	Zutreffende Zusatzkodes der Elementegruppe 00.4F.2- Einsatz von kathetergeführten Thrombus- und Fremdkörperentfernungs-Systemen, nach Anzahl Systeme
-s
- (Je nach Fall sind weitere CHOP-Kodes zu berücksichtigen.)
-
 {{</markdown>}}
-<br>  
+<body>
+    <ul>
+        <li>39.75.17 <I>Perkutan-transluminale Thrombektomie, sonstige Gefässe</I></li>
+        <li>00.4B.13 <I>PTKI an Lungengefässen</I></li>
+        <li>Zutreffende Zusatzkodes der Elementegruppe 00.4F.2- <I>Einsatz von kathetergeführten Thrombus- und Fremdkörperentfernungs-Systemen, nach Anzahl Systeme</I></li>
+    </ul>
+</body>
+(Je nach Fall sind weitere CHOP-Kodes zu berücksichtigen.)<br>  
 <br>
 <br>
  
