@@ -65,6 +65,9 @@ Der alphabet. Index verweist bei Atelektase einzelner Lappen z.B. Mittellappen o
 Die fehlende Belüftung von Teilabschnitten der Lunge (Lungensegmenten, Lungenlappen) wird daher mit J98.11, Partielle Atelektase, die fehlende Belüftung eines gesamten Lungenflügels mit J98.12, Totalatelektase, kodiert.
  
 {{</markdown>}}
+<br>  
+<br>
+<br>
 
 {{</article>}}
 
@@ -133,6 +136,9 @@ Ein Endoleak **Typ V** wird auch als Endotension bezeichnet. In diesem Fall zeig
 
  
 {{</markdown>}}
+<br>  
+<br>
+<br>
 
 {{</article>}}
 
@@ -183,6 +189,9 @@ Ist die Hydatidenzyste blande gekapselt, kann ausgeschält werden und liegt kein
 Finden sich auch im umliegenden Gewebe Echinokokkusbestandteile und dadurch hervorgerufen eine Entzündungsreaktion, soll _K77.0* Leberkrankheiten bei anderenorts klassifizierten infektiösen und parasitären Krankheiten zusätzlich_ kodiert werden.
   
 {{</markdown>}}
+<br>  
+<br>
+<br>
 
 {{</article>}}
 
@@ -230,6 +239,9 @@ Grundsätzlich gilt: Es ist stets der spezifischste ICD-Kode zu wählen, der die
        
 **Kodierempfehlung:**
 {{</markdown>}}
+<br>  
+<br>
+<br>
 
 {{</article>}}
 
@@ -276,5 +288,8 @@ Durch diese Erfassung kann das Ulcus hypertonicum von anderen Ulcus cruris-Arten
 
  
 {{</markdown>}}
+<br>  
+<br>
+<br>
 
 {{</article>}}
