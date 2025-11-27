@@ -361,7 +361,7 @@ Kodierung:
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Gefässverschlusskörper / Embolie-Protektionssysteme/ gefässverschliessende Operationen/Interventionen</td>
+    <td style="border: 1px solid black;">Gefässverschlusskörper / Embolie-Protektionssysteme/<br> gefässverschliessende Operationen/Interventionen</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Erstellt</th>
@@ -397,7 +397,7 @@ Des Weiteren stehen die Zusatzkodes aus der Subkategorie 00.4A.- <I>Anzahl verwe
 Die Zusatzkodes der Elementegruppen von 00.4G.2- bis 00.4G.6-<I> Eingesetzte vaskuläre Schirme in [...], nach Anzahl</I>, gelten nur für die Abbildung der verwendeten Devices im Kontext von gefässverschliessenden Operationen/Interventionen (z. B. selektive Embolisationen) als Zusatzkodes. 
 Die Kodes unter 00.4G.- sind für Embolie-Protektionssysteme nicht zu verwenden. 
 <br><br>
-Embolie-Protektionssysteme
+<u>Embolie-Protektionssysteme</u><br>
 Der Zusatzkode 39.E1 <I>Verwendung eines Embolie-Protektionssystems</I> ermöglicht die Erfassung von periinterventionellen Embolie-Protektionssystemen. 
 <br><br>
 Die Kodes 38.7X.11 <I>Einsetzen eines Embolie-Protektionssystems in die Vena cava, offen chirurgisch</I>, 38.7X.21 <I>Einsetzen eines Embolie-Protektionssystems in die Vena cava, perkutan-transluminal</I>, <I>39.75.13 Perkutan-transluminale Gefässintervention, sonstige Gefässe, Embolie-Protektionssystem (periphere oder viszerale Gefässe)</I> stellen permanente Systeme dar.
@@ -663,13 +663,10 @@ Unter den Elementegruppen 99.84.1- <L>Kontaktisolierung, nach Anzahl Behandlungs
     {{<grid/column>}}
     {{</grid/column>}}
     {{<grid/column>}}
-EXKL. «Kode weglassen - Komplexbehandlung bei Besiedlung oder Infektion  
-    {{<grid/column>}}
-mit multiresistenten Erregern, nach Anzahl Behandlungstage (93.59.5-)».     {{</grid/column>}}
+EXKL. «Kode weglassen - Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage (93.59.5-)».     {{</grid/column>}}
     {{</grid/column>}}
 {{</grid>}}
 Dies bedeutet, dass die zeitgleiche Kodierung von 93.59.5- und 99.84.1-, 99.84.2-, 99.84.3- nicht gestattet ist. Werden 99.84.1-, 99.84.2-, 99.84.3- zeitlich versetzt erbracht zur 93.59.5- können die Kodes im gleichen Fall erfasst werden. Die Erfassung von 99.84.1-, 99.84.2-, 99.84.3- darf nie für das gleiche Zeitintervall wie 93.59.5- erfolgen.
-
 <br>  
 <br>
   
@@ -799,7 +796,7 @@ Der vom jeweiligen Stroke Center oder der Stroke Unit etablierte Prozess zur Fr�
   
 Die Subkategorie 99.A7 _Komplexdiagnostik des akuten Hirnschlags in Stroke Unit oder Stroke Center, bis maximal 24 Stunden_ und die Elementegruppen 99.BA.1- _Neurologische Komplexbehandlung des akuten Hirnschlags in Stroke Center [SC], nach Behandlungsdauer in Stunden_ und 99.BA.2- _Neurologische Komplexbehandlung des akuten Hirnschlags in einer Stroke Unit [SU], nach Behandlungsdauer in Stunden_ verweisen auf die erwähnten Referenzdokumente. Entsprechend ist die klinische Überwachung bei diesen Kodes gemäss den Vorgaben durchzuführen und zu dokumentieren. 
 
-Wichtig:
+Wichtig:<br>
 Die **alleinige** Erfassung des Glasgow Coma Scale (GCS) ist für den klinisch neurologischen Befund zur Hirnschlag-Überwachung im Anwendungsbereich der 99.A7, 99.BA.1- und 99.BA.2- nicht ausreichend.
 
 {{</markdown>}}
@@ -847,6 +844,7 @@ In den Beachte zu den Komplexbehandlungen oder Komplexdiagnostiken angegebene Au
 Beispiel: Unter 99.A6.- Neurologische Komplexdiagnostik wird im «Beachte» folgende Auflistung aufgeführt:
 {{</markdown>}}
 <br>
+<br>
 Beachte: 	[…]  
 mind. 3 der folgenden Massnahmen:
 <body>
@@ -862,7 +860,6 @@ mind. 3 der folgenden Massnahmen:
         <li>Elektroenzephalographie [EEG] (mobiles Langzeit-EEG über mindestens 24 Stunden oder mehr und polygraphisches Nachtschlaf-EEG und video- und radiotelemetriertes elektroenzephalographisches Monitoring über mindestens 4 Stunden und Orthostase-EEG)</li>
     </ul>
 </body>
-<br>
 Wird dreimal ein EEG durchgeführt ohne zwei weitere der aufgelisteten Massnahmen sind die Mindestmerkmale nicht erfüllt und ein Kode der Subkategorie 99.A6.- kann nicht erfasst werden.
 Werden hingegen ein craniales MRI, eine neurophysiologische Diagnostik sowie ein mobiles Langzeit-EEG über mindestens 24 Stunden durchgeführt mit Erfüllen der anderen Mindestmerkmale, kann ein Kode der Subkategorie 99.A6.- erfasst werden.
 <br>  
@@ -997,46 +994,43 @@ Bei einer Fallzusammenführung mit palliativmedizinischer Komplexbehandlung im e
   </tr>
 </table>
 
-{{<markdown>}}
-
-Folgende Fragestellungen und Erläuterungen beziehen sich auf die Elementegruppe 93.8A.2- _Palliativmedizinische Komplexbehandlung (ausserhalb einer eigenständigen spezialisierten Palliative Care Station), nach Anzahl Behandlungstage_ und die Subkategorie 93.8B.- _Behandlung auf einer eigenständigen spezialisierten Palliative Care Station_.
-  
-**Fragestellung Nr. 1:**  
+Folgende Fragestellungen und Erläuterungen beziehen sich auf die Elementegruppe 93.8A.2- <I>Palliativmedizinische Komplexbehandlung (ausserhalb einer eigenständigen spezialisierten Palliative Care Station), nach Anzahl Behandlungstage</I> und die Subkategorie 93.8B.- <I>Behandlung auf einer eigenständigen spezialisierten Palliative Care Station</I>.
+<br>  
+<b>Fragestellung Nr. 1:</b><br>  
 In Bezug auf Mindestmerkmal Punkt 3, _Behandlungsteam und Therapie_ der 93.8A.2- und _Mindestmerkmal Punkt 3_, Therapie sowie _Mindestmerkmal_ Punkt 4, Behandlungsteam der 93.8B.-: Welche Therapiebereiche gibt es und was wird zu den 6 Stunden gezählt?
-  
-**Erläuterung Nr. 1:**  
+<br>
+<b>Erläuterung Nr. 1:</b><br>  
 Die Aufzählung der Therapiebereiche (Sozialarbeit/-pädagogik, Psychologie, Physiotherapie, Ergotherapie, Logopädie, Ernährungsberatung/-therapie, Seelsorge, Kunsttherapie) ist sowohl für 93.8A.2- als für 93.8B.- abschliessend. 
-  
-Grundvoraussetzung für die Kodierung ist die Dokumentation der Gespräche und Therapien. Die Art der Therapie, deren Dauer und das Datum der Durchführung müssen von allen beteiligten Berufsgruppen nachvollziehbar dokumentiert sein. 
-Es gibt keine Festlegung für die Mindesttherapiedauer einer Therapieeinheit. 
-Die dokumentierten Patienten-, Angehörigen- und Familiengespräche können von allen aufgeführten Berufsgruppen (Arzt, Pflege, Sozialarbeit/-pädagogik, Psychologie, Physiotherapie, Ergotherapie, Logopädie, Ernährungsberatung/-therapie, Seel-sorge, Kunsttherapie) erbracht werden. Zu diesen gehört ebenfalls die Information des Patienten und dessen Angehörigen im Rahmen der Therapie. 
+<br>  
+Grundvoraussetzung für die Kodierung ist die Dokumentation der Gespräche und Therapien. Die Art der Therapie, deren Dauer und das Datum der Durchführung müssen von allen beteiligten Berufsgruppen nachvollziehbar dokumentiert sein.<br>
+Es gibt keine Festlegung für die Mindesttherapiedauer einer Therapieeinheit.<br>
+Die dokumentierten Patienten-, Angehörigen- und Familiengespräche können von allen aufgeführten Berufsgruppen (Arzt, Pflege, Sozialarbeit/-pädagogik, Psychologie, Physiotherapie, Ergotherapie, Logopädie, Ernährungsberatung/-therapie, Seel-sorge, Kunsttherapie) erbracht werden. Zu diesen gehört ebenfalls die Information des Patienten und dessen Angehörigen im Rahmen der Therapie.<br>
 Die dokumentierten und spezifischen Koordinationsaufgaben in direktem Zusammenhang mit dem Behandlungs- und Beratungsprozess sowie die Patienten-, Angehörigen- und Familiengespräche werden den 6 Stunden angerechnet. 
-  
-  
-
+<br>
 Folgendes zählt nicht zu den 6 Stunden:  
 •	Die wöchentlichen interprofessionellen Teambesprechungen und die Wegzeiten,  
 •	Die interprofessionellen Visiten (Mindestmerkmal Punkt 3, Therapie, a) der Subkategorie 93.8B.-).
-   
-  
-**Fragestellung Nr. 2:**  
+<br>  
+<br>  
+<b>Fragestellung Nr. 2:</b><br>  
 Was ist unter «wöchentlich» bei der «wöchentlicher interprofessioneller Teambesprechung» unter 93.8A.2- im _Mindestmerkmal_ Punkt 4, _Therapieplanung und -kontrolle_ und unter 93.8B.- im _Mindestmerkmal_ Punkt 5, _Therapieplanung und -kontrolle_?
-  
-**Erläuterung Nr. 2:**  
+<br>  
+<br>  
+<b>Erläuterung Nr. 2:</b><br>
 «wöchentlich» ist struktur- und nicht patientenbezogen. Das bedeutet, dass im klinischen Betrieb mindestens einmal pro Woche eine interprofessionelle Teambesprechung stattfindet.
-  
-Beispiel:  
+<br>  
+<br>  
+Beispiel:  <br>  
 Der Patient ist 10 Tage hospitalisiert (von Montag der Woche 1 bis Mittwoch der Woche 2). Der Patient tritt am Mittwoch der 2. Woche aus oder verstirbt. Die Teambesprechungen finden jeweils donnerstags statt. Für die 2. Woche ist das strukturbezogene Mindestmerkmal ebenfalls erfüllt.
-  
-**Fragestellung Nr. 3:**  
+<br>  
+<br>  
+<b>Fragestellung Nr. 3:</b><br>  
 Was ist unter «interprofessionell» unter 93.8A.2- im _Mindestmerkmal_ Punkt 4, _Therapieplanung und -kontrolle_ und unter 93.8B.- in den _Mindestmerkmal_ Punkt 3, _Therapie und Mindestmerkmal_ Punkt 5, _Therapieplanung und -kontrolle_ zu verstehen?
-  
-**Erläuterung Nr. 3:**  
+<br>  
+<b>Erläuterung Nr. 3:</b><br>  
 Bei der «wöchentlichen interprofessionellen Teambesprechung» ist unter «interprofessionell» zu verstehen, dass im Minimum Arzt, Pflege und eine weitere Berufsgruppe teilnehmen (s. _Mindestmerkmal_ Punkt 5, _Therapieplanung und -kontrolle_ bei 93.8A.2- und 93.8B.-).
-  
+<br>  
 Bei der «interprofessionellen Visite» ist unter «interprofessionell» zu verstehen, dass im Minimum Arzt und Pflege teilnehmen (s. _Mindestmerkmal_ Punkt 3, _Therapie_ 93.8B.-).
-
-{{</markdown>}}
 <br>  
 <br>
   
