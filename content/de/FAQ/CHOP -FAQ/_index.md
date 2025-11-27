@@ -134,32 +134,31 @@ Eine perkutan-transluminale Thrombektomie an Lungengefässen mittels Thrombusent
 
 <b>Problem/Erläuterung:</b>
 <br>
-Bei den Kodes der Subkategorie 39.71.- <I>«Endovaskuläre Implantation eines Stent-Grafts [Stent-Prothesen] an der abdominalen Aorta»</I> und der Elementegruppe 39.73.4- <I>«Endovaskuläre Implantation von Stent-Grafts [Stent-Prothesen] in die Aorta thoracoabdo-minalis»</I> ist mit den Zusatzkodes 39.78.5- <I>«Ende der untersten Stent-Grafts [Stent-Prothesen]» </I>anzugeben, wie der Stent-Graft en-det.<br>
+Bei den Kodes der Subkategorie 39.71.- <L>Endovaskuläre Implantation von Stent-Grafts [gecoverten Stents] in die Aorta abdominalis</L> und der Elementegruppe 39.73.4- <L>Endovaskuläre Implantation von Stent-Grafts [gecoverten Stents] in die Aorta thoracoabdominalis</L> ist mit den Zusatzkodes 39.78.5- <L>Ende der untersten Stent-Grafts [gecoverten Stents]</L> anzugeben, wie der Stent-Graft endet.
 <br>
-Die Elementegruppe 39.78.5- umfasst drei Zusatzkodes:<br>
+Die Elementegruppe 39.78.5- umfasst drei Zusatzkodes:
 <body>
     <ul>
-        <li>39.78.51 <I>«Ende des untersten Stent-Grafts (Stent-Prothese), aortal»</I></li>
-        <li>39.78.52 <I>«Ende des untersten Stent-Grafts (Stent-Prothese), aortomonoiliakal»</I></li>
-        <li>39.78.53 <I>«Ende der untersten Stent-Grafts (Stent-Prothesen), aortobiiliakal»</I></li>
+        <li>39.78.51 <I>Ende des untersten Stent-Grafts [gecoverten Stents], aortal</I></li>
+        <li>39.78.52 <I>Ende des untersten Stent-Grafts [gecoverten Stents], aortomonoiliakal</I></li>
+        <li>39.78.53 <I>Ende der untersten Stent-Grafts [gecoverten Stents], aortobiiliakal</I></li>
     </ul>
 </body>
-In der folgenden Tabelle wurde die Bedeutung des jeweiligen Zusatzkodes graphisch dargestellt.
+In der folgenden Tabelle wurde die Bedeutung des jeweiligen Zusatzkodes für den Hauptkörper (blau) graphisch dargestellt.
 <br>
 <br>
 {{<insertImage image="0767_a.png" class="edge max-w-90">}}
 <br>
 <br>
-Die aortomonoiliakal oder aortobiiliakal endenden Stent-Grafts (Hauptkörper (blau)) können mit Stent-Grafts in der linken und/oder rechten A. iliaca communis verlängert werden (weitere Stent-Grafts werden dann anmodelliert, grün). Die entsprechenden Kodes der Subkategorie 39.7B.- <I>Endovaskuläre Implantation von Stent-Grafts [gecoverten Stents] in die Aa. iliacae communis und externa</I> sind in diesem Fall zusätzlich zu kodieren.
-<br>
+Die aortomonoiliakal oder aortobiiliakal endenden Stent-Grafts (Hauptkörper (blau)) können mit Stent-Grafts in der linken und/oder rechten A. iliaca communis verlängert werden (weitere Stent-Grafts werden dann anmodelliert, grün). Die entsprechenden Kodes der Subkategorie 39.7B.- <L>Endovaskuläre Implantation von Stent-Grafts [gecoverten Stents] in die Aa. iliacae communis und externa</L> sind in diesem Fall zusätzlich zu kodieren.<br>
 <br>
 Folgende Tabelle illustriert die verschiedenen Situationen einer abdominalen Hauptprothese ohne Öffnungen (blau im Schema):
 <br>
 <br>
-{{<insertImage image="0767_b.png" class="edge max-w-90">}}
+{{<insertImage image="FAQCHOP0003Tabelle1.png" class="edge max-w-90">}}
 <br>
 
-{{<insertImage image="0767_c.png" class="edge max-w-90">}}
+{{<insertImage image="FAQCHOP0003Tabelle2.png" class="edge max-w-90">}}
 {{<lineBreak>}}
 <br>
 <br>
