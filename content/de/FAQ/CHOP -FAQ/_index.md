@@ -48,9 +48,7 @@ keywords: []
   </tr>
 </table>
 
-{{<markdown>}}
-**Problem/Erläuterung:**  
-{{</markdown>}}
+<b>Problem/Erläuterung:</b></br>
 Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Methode mit einem präzisen Kode aus Kapitel 7 <font color="green">"Operationen am kardiovaskulären System"</font> abgebildet. Gibt es einen präzisen Kode, wird 39.99.21 <I>Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen</I>nicht kodiert. 
 <br>  
 <br>
@@ -157,6 +155,7 @@ Die aortomonoiliakal oder aortobiiliakal endenden Stent-Grafts (Hauptkörper (bl
 <br>
 Folgende Tabelle illustriert die verschiedenen Situationen einer abdominalen Hauptprothese ohne Öffnungen (blau im Schema):
 <br>
+<br>
 {{<insertImage image="0767_b.png" class="edge max-w-90">}}
 <br>
 
@@ -199,15 +198,7 @@ Folgende Tabelle illustriert die verschiedenen Situationen einer abdominalen Hau
   </tr>
 </table>
 
-<b>Problem/Erläuterung:</b>
-Folgende Kodes haben eine Unterteilung nach Anzahl der implantierten Stents/Prothesen. Es gibt für diese Stent-/Prothesen-Typen keine Summen-Kodes über den gesamten Aufenthalt.
-   42.81.- Einsetzen eines permanenten Tubus in den Ösophagus  
-   51.87.- Endoskopische Einlage oder Wechsel von Stent in den Gallengang  
-   51.9A.- Einlage oder Wechsel von Stent in den Gallengang  
-Je Eingriff ist der Kode mit der entsprechenden Anzahl von eingesetzten Stents/Prothesen auszuwählen und einmal pro Eingriff zu erfassen.
-<br>
-{{<markdown>}}
-**Problem/Erläuterung:**
+<b>Problem/Erläuterung:<b><br>
 Folgende Kodes haben eine Unterteilung nach Anzahl der implantierten Stents/Prothesen. Es gibt für diese Stent-/Prothesen-Typen keine Summen-Kodes über den gesamten Aufenthalt.
 {{<indent level="4">}}
 42.81.- Einsetzen eines permanenten Tubus in den Ösophagus  
@@ -215,11 +206,10 @@ Folgende Kodes haben eine Unterteilung nach Anzahl der implantierten Stents/Prot
 51.9A.- Einlage oder Wechsel von Stent in den Gallengang  
 {{</indent>}}
 Je Eingriff ist der Kode mit der entsprechenden Anzahl von eingesetzten Stents/Prothesen auszuwählen und einmal pro Eingriff zu erfassen.
-  
+<br>  
 Beispiel: Am Tag X werden zwei selbstexpandierende Prothesen in den Ösophagus eingesetzt. Am Tag Y wird eine selbstexpandie-rende Prothese ausgewechselt.
-  
-Kodierung
-{{</markdown>}}
+<br>  
+<b>Kodierempfehlung</b>
 {{<grid class="ps-0">}}
     {{<grid/column>}}
 Tag X:
@@ -241,14 +231,14 @@ Tag Y:
         {{</markdown>}}
     {{</grid/column>}}
 {{</grid>}}
-
+<br>
 {{<markdown>}}
 Folgende Kodes geben jeweils nur «eines Stents» oder «Stent», bzw. «einer Prothese» an. Es gibt für diese Stent-/Prothesen-Ty-pen keine Summen-Kodes über den gesamten Aufenthalt.
 {{</markdown>}}
 
 {{<grid class="ps-0">}}
     {{<grid/column>}}
-Tag Z:
+ 
     {{</grid/column>}}
     {{<grid/column>}}
         {{<markdown>}}
@@ -270,7 +260,7 @@ Tag Z:
         {{</markdown>}}
     {{</grid/column>}}
 {{</grid>}}
-<br>
+<br><br>
 Je Eingriff ist der Kode so oft zu kodieren, wie Stents/Prothesen implantiert wurden.
 <br>
 Beispiel: Am Tag X werden zwei nicht selbstexpandierende Prothesen am Darm eingelegt. Am Tag Y werden beide entfernt und durch eine selbstexpandierende Prothese ersetzt.
@@ -288,7 +278,7 @@ Tag X:
 
 {{<grid class="ps-0">}}
     {{<grid/column>}}
-Tag X:
+Tag Y:
     {{</grid/column>}}
     {{<grid/column>}}
         {{<markdown>}}
@@ -624,8 +614,8 @@ Die Angabe der Lateralität ist nur bei paarigen Organen ein Muss (entsprechende
 
 {{<markdown>}}
 **Problem/Erläuterung:**  
-Bei einer Gruppentherapie ist die gesamte Therapiedauer zu zählen, an der die Patientin / der Patient anwesend ist. Z. B. wenn fünf Patient/innen an einer Stunde Gruppentherapie mit einer Dauer von 60 Minuten teilgenommen haben, werden bei jeder Patientin/jedem Patienten 60 Minuten Therapiedauer angerechnet. Bei einer Therapiedauer von 50 Minuten werden 50 Minuten angerechnet usw.
-Wird bei einer Gruppen- oder Einzeltherapie die gleiche Therapieart / Therapieleistung durch zwei oder mehr Therapeuten / Pflegefachpersonen erbracht, ist die erbrachte Therapiezeit einmal zu zählen. 
+Bei einer Gruppentherapie ist die gesamte Therapiedauer zu zählen, an der die Patientin / der Patient anwesend ist. Z. B. wenn fünf Patient/innen an einer Stunde Gruppentherapie mit einer Dauer von 60 Minuten teilgenommen haben, werden bei jeder Patientin/jedem Patienten 60 Minuten Therapiedauer angerechnet. Bei einer Therapiedauer von 50 Minuten werden 50 Minuten angerechnet usw.  
+Wird bei einer Gruppen- oder Einzeltherapie die gleiche Therapieart / Therapieleistung durch zwei oder mehr Therapeuten / Pflegefachpersonen erbracht, ist die erbrachte Therapiezeit einmal zu zählen.  
 Es gilt unabhängig von der Anzahl der Therapeuten, die Therapiezeit am/an den Patienten. Es gilt die Therapiezeit, welche jede/r Patient/in erhalten hat, unabhängig von der Anzahl der Therapeuten.
    
 Ausnahme: Es bestehen CHOP-Kodes, bei denen im Beachte angegeben ist, dass die gleiche Therapieart / Therapieleistung, die durch zwei oder mehr Therapeutinnen / Therapeuten / Pflegefachpersonen erbracht wird, die Zeit pro Therapeutin / Therapeut / Pflegefachperson zu zählen ist.
@@ -666,17 +656,21 @@ Ausnahme: Es bestehen CHOP-Kodes, bei denen im Beachte angegeben ist, dass die g
   </tr>
 </table>
 
-{{<markdown>}}
-**Problem/Erläuterung:**  
-Unter den Elementegruppen 99.84.1- Kontaktisolierung, nach Anzahl Behandlungstage, 
-99.84.2- Tröpfchenisolierung, […] und 99.84.3- Aerosolisolierung, […] ist folgendes «Exklusivum – Kode weglassen» angegeben: 
+<b>Problem/Erläuterung:</b><br>
+Unter den Elementegruppen 99.84.1- <L>Kontaktisolierung, nach Anzahl Behandlungstage,</L> 
+99.84.2- <L>Tröpfchenisolierung, […]</L> und 99.84.3- <L>Aerosolisolierung, […]</L> ist folgendes «Exklusivum – Kode weglassen» angegeben: 
 
-&nbsp&nbsp&nbspEXKL. «Kode weglassen - Komplexbehandlung bei Besiedlung oder Infektion  
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspmit multiresistenten Erregern, nach Anzahl Behandlungstage (93.59.5-)». 
-
+{{<grid class="ps-0">}}
+    {{<grid/column>}}
+    {{</grid/column>}}
+    {{<grid/column>}}
+EXKL. «Kode weglassen - Komplexbehandlung bei Besiedlung oder Infektion  
+    {{<grid/column>}}
+mit multiresistenten Erregern, nach Anzahl Behandlungstage (93.59.5-)».     {{</grid/column>}}
+    {{</grid/column>}}
+{{</grid>}}
 Dies bedeutet, dass die zeitgleiche Kodierung von 93.59.5- und 99.84.1-, 99.84.2-, 99.84.3- nicht gestattet ist. Werden 99.84.1-, 99.84.2-, 99.84.3- zeitlich versetzt erbracht zur 93.59.5- können die Kodes im gleichen Fall erfasst werden. Die Erfassung von 99.84.1-, 99.84.2-, 99.84.3- darf nie für das gleiche Zeitintervall wie 93.59.5- erfolgen.
 
-{{</markdown>}}
 <br>  
 <br>
   
@@ -1320,9 +1314,6 @@ Im Beispiel der folgenden Abbildung erfolgte eine Spondylodese über sechs Wirbe
 
 <b>Problem/Erläuterung:</b><br>
 Der Kode <b>7A.71.-</b> _Fusion von Wirbeln mit Stabilisierung der Wirbelsäule_ ist anzuwenden, wenn eine <b>Wirbelfusion/ Versteifung</b> mit Stabilisierung durchgeführt wird, die zusätzlich eines der folgenden Merkmale erfüllt:<br>
-
-
-
 
 <body>
     <ul>
