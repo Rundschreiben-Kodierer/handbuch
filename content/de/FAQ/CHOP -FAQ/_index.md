@@ -198,7 +198,7 @@ Folgende Tabelle illustriert die verschiedenen Situationen einer abdominalen Hau
   </tr>
 </table>
 
-<b>Problem/Erläuterung:<b><br>
+<b>Problem/Erläuterung:</b><br>
 Folgende Kodes haben eine Unterteilung nach Anzahl der implantierten Stents/Prothesen. Es gibt für diese Stent-/Prothesen-Typen keine Summen-Kodes über den gesamten Aufenthalt.
 {{<indent level="4">}}
 42.81.- Einsetzen eines permanenten Tubus in den Ösophagus  
