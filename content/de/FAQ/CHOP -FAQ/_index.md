@@ -230,31 +230,6 @@ Tag Y:
 <br>
 Folgende Kodes haben keine Unterteilung nach Anzahl der implantierten Stents/Prothesen und geben jeweils nur «eines Stents», «Stent» oder «einer Prothese» an.
 <br>
-<br>
-<div>
-<p>09.83    <em>Konjunktivozystorhinostomie mit Einsetzen von Tubus oder Stent</em></p>
-<p>31.93    <em>Ersetzen eines Larynx- oder Trachea-Stents</em></p>
-<p>31.96    <em>Einsetzen eines Larynx- oder Trachea-Stents</em></p>
-<p>33.91.2- <em>Bronchusdilatation, endoskopisch, mit Einlegen oder Wechsel eines Stents/Stent-Grafts</em></p>
-<p>44.99.5- <em>Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Magen</em></p>
-<p>44.99.6- <em>Einlegen oder Wechsel einer selbstexpandierenden Prothese am Magen</em></p>
-<p>46.99.5- <em>Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Darm</em></p>
-<p>46.99.6- <em>Einlegen oder Wechsel einer selbstexpandierenden Prothese am Darm</em></p>
-
-<p>48.99.50 <em>Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese im Rektum</em></p>
-
-<p>48.99.60 <em>Einlegen oder Wechsel einer selbstexpandierenden Prothese im Rektum</em></p>
-<p>52.93.-  <em>Endoskopische Einlage, Wechsel oder Entfernen von Stent [Prothese] in den Ductus pancreaticus</em></p>
-
-<p>52.95.4- <em>Einlage oder Wechsel eines nicht selbstexpandierenden Stents [Prothese] in den Pankreasgang, offen chirurgisch oder laparoskopisch</em></p>
-<p>52.95.5- <em>Einlage oder Wechsel eines selbstexpandierenden Stents [Prothese] in den Pankreasgang, offen chirurgisch oder laparoskopisch</em></p>
-<p>58.99.10 <em>Sonstige Operationen an Urethra und Periurethralgewebe, Einlegen und Wechsel eines Stents in die Urethra</em></p>
-<p>60.99.31 <em>Einlegen eines Stents in die prostatische Harnröhre</em></p>
-</div>
-<br>
-<br>
-<br>
-<br>
  
 {{</markdown>}}
 
@@ -324,14 +299,6 @@ Einlegen eines Stents in die prostatische Harnröhre
 
 {{<markdown>}}
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<br>
 <br>
 Je Eingriff ist der Kode so oft zu kodieren, wie Stents/Prothesen implantiert wurden.
 <br>
