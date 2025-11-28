@@ -11,15 +11,15 @@ keywords: []
   
 Die nachfolgenden Aktualisierungen des Registers **«Allgemeine Informationen»** sind ab dem 01.01.2026 gültig. 
   
-{{<markdown>}}Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Löschungen in rot~~</font>
-  
+{{<markdown>}}
+
 Gültige Kodierungsinstrumente<br><br>
 Ab 1. Januar 2026 gelten folgende Kodierungsinstrumente:
 
 <body>
     <ul>
         <li>Medizinisches Kodierungshandbuch: Der offizielle Leitfaden der Kodierrichtlinien in der Schweiz. Version 2026</li>
-        <li><font color="green">Aktualisierungen zu den Publikationen der Medizinischen Klassifikationen des BFS – 01.01.2026</font></li>
+        <li>Aktualisierungen zu den Publikationen der Medizinischen Klassifikationen des BFS – 01.01.2026</li>
         <li>Schweizerische Operationsklassifikation (CHOP): Systematisches Verzeichnis - Version 2026</li>
         <li>ICD-10-GM 2024 Systematisches Verzeichnis: Internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme - 10. Revision – German Modification</li>
         <li>ICD-10-GM 2024 Systematisches Verzeichnis, deutsche Version: Zusatzinformationen für den schweizerischen Kontext</li>
@@ -33,8 +33,7 @@ Die Dateien der ICD-10-GM in deutscher Sprache werden vom Bundesinstitut für Ar
    rel="noopener noreferrer">www.bfarm.de</a> zur Verfügung:  
 Kodiersysteme => Services => Downloads => ICD-10-GM
   
-Die Medizinische Statistik (MS) der Krankenhäuser ist eine jährliche, obligatorische Vollerhebung. Die Datenerhebung erfolgt ab 2025 gemeinsam mit der Fallkostenstatistik (FKS) sowie Teilen der Krankenhausstatistik (KS) einheitlich und dient der Weiterentwicklung der Datenerhebung. Ein einheitlicher Standarddatensatz soll als Grundlage für alle weiteren Datenbearbeitungen genutzt werden und die qualitativen Mindestanforderungen für eine Mehrfachverwendung der erhobenen Daten («Once-Only») definieren. Die damit verbundene Datenerfassung erfolgt ab dem 1. Januar 2024 (s. Projekt SpiGes (Erhebung Spitalstationäre Gesundheitsversorgung)).
-Die obengenannten Kodierungsinstrumente gelten für die Kodierung aller stationärer Aufenthalte in Spitäler und Kliniken der Schweiz, einschliesslich Rehabilitations-, Psychiatrie- und Spezialkliniken sowie Geburtshäuser.
+Die SpiGes Statistik – die Erhebung der stationären Spitalaufenthalte -  ist eine jährliche, obligatorische Vollerhebung. Diese Datenerhebung folgt dem «Once-Only-Prinzip», der Mehrfachnutzung von Daten, und beinhaltet ab 2025 auch die Fallkostendaten sowie Teile der Krankenhausstatistik (KS). Ein einheitlicher Standarddatensatz soll als Grundlage für alle weiteren Datenbearbeitungen genutzt werden und die qualitativen Mindestanforderungen für eine Mehrfachverwendung der erhobenen Daten definieren. Die damit verbundene Datenerfassung erfolgt ab dem 1. Januar 2024 (s. Projekt SpiGes (Erhebung Spitalstationäre Gesundheitsversorgung)).
 
 Die gesetzlichen Grundlagen sind:
 <body>
@@ -45,10 +44,10 @@ Die gesetzlichen Grundlagen sind:
 </body>
 
 **Referenzversionen**  
-Für die Klassifikationen, das Kodierungshandbuch <font color="green">und die Aktualisierungen zu den Publikationen der Medizinischen Klassifikationen des BFS</font> sind bei Unterschieden zwischen den Sprachversionen die Originalversionen (deutschsprachige Versionen) massgebend.
+Für die Klassifikationen, das Kodierungshandbuch und die Aktualisierungen zu den Publikationen der Medizinischen Klassifikationen des BFS sind bei Unterschieden zwischen den Sprachversionen die Originalversionen (deutschsprachige Versionen) massgebend.
   
 **Aktualisierungen zu den Publikationen der Medizinischen Klassifikationen des BFS und FAQ/Klarstellungen**   
-<font color="green">Die «Aktualisierungen zu den Publikationen der Medizinischen Klassifikationen des BFS» enthalten Grundlagen und Zusatzinformationen (inkl. Korrekturen) zu den folgenden Publikationen der Medizinischen Klassifikationen des BFS <a href="Instrumente zur medizinischen Kodierung | Bundesamt für Statistik - BFS"
+Die «Aktualisierungen zu den Publikationen der Medizinischen Klassifikationen des BFS» enthalten Grundlagen und Zusatzinformationen (inkl. Korrekturen) zu den folgenden Publikationen der Medizinischen Klassifikationen des BFS <a href="Instrumente zur medizinischen Kodierung | Bundesamt für Statistik - BFS"
    target="_blank"
    rel="noopener noreferrer">
     Instrumente zur medizinischen Kodierung | Bundesamt für Statistik - BFS
@@ -63,7 +62,7 @@ Das Kapitel «FAQ/Klarstellungen» ersetzt das bisherige Kapitel 5 des früheren
 Die «FAQ/Klarstellungen» leiten sich aus (wiederholten) Anfragen an das Kodierungssekretariat zu einem spezifischen oder allgemeinen Sachverhalt ab und wurden innerhalb der Fachgremien diskutiert.  
   
 Bei den «Aktualisierungen zu den Publikationen», wie auch den «FAQ/Klarstellungen» handelt es sich um offizielle Informationen des BFS, die für die Kodierung zu berücksichtigen sind.  
-Die Inhalte der «Aktualisierungen zu den Publikationen der medizinischen Klassifikationen des BFS» werden im Rahmen der halbjährlichen Publikationszyklen – jeweils Ende Juni und Ende Dezember – zusammen mit den «FAQ/Klarstellungen» aktualisiert.</font>
+Die Inhalte der «Aktualisierungen zu den Publikationen der medizinischen Klassifikationen des BFS» werden im Rahmen der halbjährlichen Publikationszyklen – jeweils Ende Juni und Ende Dezember – zusammen mit den «FAQ/Klarstellungen» aktualisiert.
   
 Die darin aufgeführten Neuerungen, Korrekturen sowie sonstigen Anpassungen treten jeweils mit dem angegebenen Gültigkeitszeitpunkt in Kraft. Eine rückwirkende Gültigkeit ist ausgeschlossen.
   
