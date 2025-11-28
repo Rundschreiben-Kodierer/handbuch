@@ -56,7 +56,7 @@ Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Metho
 {{</article>}}
 
 
-{{<article number="0002"  title="CHOP- Perkutan-transluminale Thrombektomie an Lungengefässen mittels Thrombusentfernungssystem" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0002"  title="CHOP - Perkutan-transluminale Thrombektomie an Lungengefässen mittels Thrombusentfernungssystem" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -167,7 +167,7 @@ Folgende Tabelle illustriert die verschiedenen Situationen einer abdominalen Hau
 {{</article>}}
 
 
-{{<article number="0004"  title="CHOP- Erfassung von nicht-vaskulären Stents/Prothesen" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0004"  title="CHOP - Erfassung von nicht-vaskulären Stents/Prothesen" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -256,28 +256,17 @@ Folgende Kodes haben keine Unterteilung nach Anzahl der implantierten Stents/Pro
 {{</markdown>}}
 
 {{<indent level="4">}}
-42.81.- <I>Einsetzen eines permanenten Tubus in den Ösophagus</I><br>
-51.87.- <I>Endoskopische Einlage oder Wechsel von Stent in den Gallengang</I><br>
-51.9A.- <I>Einlage oder Wechsel von Stent in den Gallengang</I><br>
 
-{{<codeEntry level="1" title="111">}}
-asdf
-{{</codeEntry>}}
-
-{{<codeEntry level="2" title="09.83">}}
-{{<markdown>}}
+{{<codeEntry level="1" title="09.83">}}
 Konjunktivozystorhinostomie mit Einsetzen von Tubus oder Stent
-{{</markdown>}}
 {{</codeEntry>}}
 
-
-{{<codeEntry level="2" title="44.99.5-" >}}
-{{<markdown>}}
+{{<codeEntry level="1" title="44.99.5-" >}}
 Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Magen 
-{{</markdown>}}
 {{</codeEntry>}}
-{{<markdown>}}
 {{</indent>}}
+
+{{<markdown>}}
 
 <br>
 <br>
@@ -626,7 +615,7 @@ Kodierung:
 
 
 
-{{<article number="0006"  title="CHOP- Gefässverschlusskörper vs. Embolie-Protektionssysteme" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0006"  title="CHOP - Gefässverschlusskörper vs. Embolie-Protektionssysteme" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -813,7 +802,7 @@ Folgende Tabelle präzisiert die Kodierung von Eingriffskode und Zusatzkode bei 
 
 
 
-{{<article number="0010"  title="CHOP- Lateralitätsmarkierung in der CHOP" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0010"  title="CHOP - Lateralitätsmarkierung in der CHOP" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -852,7 +841,7 @@ Die Angabe der Lateralität ist nur bei paarigen Organen ein Muss (entsprechende
 
 
 
-{{<article number="0011"  title="CHOP– Berücksichtigte Therapiedauer Gruppentherapie / Einzeltherapie" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0011"  title="CHOP - Berücksichtigte Therapiedauer Gruppentherapie / Einzeltherapie" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -896,7 +885,7 @@ Ausnahme: Es bestehen CHOP-Kodes, bei denen im Beachte angegeben ist, dass die g
 
 
 
-{{<article number="0012"  title="CHOP- Abgrenzung 93.59.5- und 99.84.1-, 99.84.2-, 99.84.3-" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0012"  title="CHOP - Abgrenzung 93.59.5- und 99.84.1-, 99.84.2-, 99.84.3-" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -953,7 +942,7 @@ Dies bedeutet, dass die zeitgleiche Kodierung von 93.59.5- und 99.84.1-, 99.84.2
 
 
 
-{{<article number="0013"  title="CHOP- Berechnung der Aufenthaltstage für Kodes der Elementegruppe 93.59.5-" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0013"  title="CHOP - Berechnung der Aufenthaltstage für Kodes der Elementegruppe 93.59.5-" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -1037,7 +1026,7 @@ D. h. bei diesen Kodes entfallen die Mindestmerkmale, die sich auf eine Woche od
 
 
 
-{{<article number="0015"  title="Neurologische Befunderhebung des Stroke" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0015"  title="CHOP - Neurologische Befunderhebung des Stroke" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -1468,7 +1457,7 @@ Bei z. B. vorbestehender Spondylodese L2 – L4 und aktuell Neufusion der Segmen
 
 
 
-{{<article number="0023"  title="CHOP- 7A.A2 Growing rod – Zusatzkode – Segmente beim spezifischen Eingriff" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0023"  title="CHOP - 7A.A2 Growing rod – Zusatzkode – Segmente beim spezifischen Eingriff" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -1563,7 +1552,7 @@ Im Beispiel der folgenden Abbildung erfolgte eine Spondylodese über sechs Wirbe
 
 
 
-{{<article number="0025"  title="CHOP – knöcherne Fusion mit Instrumentierung – Wirbelsäule " collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0025"  title="CHOP - knöcherne Fusion mit Instrumentierung – Wirbelsäule " collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -1613,7 +1602,7 @@ Es liegt keine <b>potenzielle Bewegungserhaltung</b> im betroffenen Segment vor.
 
 
 
-{{<article number="0026"  title="CHOP – knöcherne Fusion ohne Instrumentierung – Wirbelsäule" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0026"  title="CHOP - knöcherne Fusion ohne Instrumentierung – Wirbelsäule" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -1662,7 +1651,7 @@ Es darf **kein** Kode der Subkategorie 7A.71.- _Fusion von Wirbeln mit Stabilisi
 
 
 
-{{<article number="0027"  title="CHOP – Stabilisierung Wirbelsäule ohne Fusion" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0027"  title="CHOP - Stabilisierung Wirbelsäule ohne Fusion" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>

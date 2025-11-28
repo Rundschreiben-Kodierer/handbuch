@@ -71,7 +71,7 @@ Die fehlende Belüftung von Teilabschnitten der Lunge (Lungensegmenten, Lungenla
 
 
 
-{{<article number="0002"  title="ICD – Endoleak" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0002"  title="ICD - Endoleak" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -140,7 +140,7 @@ Ein Endoleak **Typ V** wird auch als Endotension bezeichnet. In diesem Fall zeig
 {{</article>}}
 
 
-{{<article number="0003"  title="Hydatidenzyste, zystische Echinokokkose" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0003"  title="ICD - Hydatidenzyste, zystische Echinokokkose" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -192,7 +192,7 @@ Finden sich auch im umliegenden Gewebe Echinokokkusbestandteile und dadurch herv
 
 {{</article>}}
 
-{{<article number="0004"  title="0004 ICD - Stenosen präzerebraler Arterien Carotisstenose bds/ Stenosen ein-oder beidseitiger präzerebraler Arterien" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0004"  title="ICD - Stenosen präzerebraler Arterien Carotisstenose bds/ Stenosen ein-oder beidseitiger präzerebraler Arterien" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -271,7 +271,7 @@ Grundsätzlich gilt: Es ist stets der spezifischste ICD-Kode zu wählen, der die
 
 {{<markdown>}}
 **Fragestellung:**  
-Wie wird Ulcus (cruris) hypertonicum (Martorell abgebildet?
+Wie wird Ulcus (cruris) hypertonicum (Martorell abgebildet)?
   
 **Problem/Erläuterung:**  
 Beim Ulcus (cruris) hypertonicum handelt es sich um eine spezielle Form des Ulcus cruris, die vorwiegend am laterodorsalen Unterschenkel oder über der Achillessehne auftritt. Die meisten Betroffenen weisen einen markanten, langzeitig bestehenden Hypertonus auf, in ca. 60% der Fälle kombiniert mit einem Diabetes mellitus Typ 2. Zur Ätiologie des Ulcus hypertonicum gibt es drei Erklärungsansätze: die ischämisierende Arteriosklerose, die Mediakalzinose der pathologischen Arteriolen und die lokalen Entzündungsvorgänge. Die Arteriosklerose in der Subkutis steht für die Pathogenese der Hautnekrose dabei im Vordergrund. Auch wenn die Erkrankung pathogenetisch auf eine Arteriosklerose zurückzuführen ist, ist die eigentliche Grundursache die Hypertonie.
