@@ -252,7 +252,8 @@ Folgende Kodes haben keine Unterteilung nach Anzahl der implantierten Stents/Pro
 <br>
 <br>
 <br>
-
+ 
+{{</markdown>}}
 
 {<codeEntry level="1" title=" ">}}
 {{<markdown>}}
@@ -272,6 +273,8 @@ Konjunktivozystorhinostomie mit Einsetzen von Tubus oder Stent
 Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Magen 
 {{</markdown>}}
 {{</codeEntry>}}
+{{<markdown>}}
+
 <br>
 <br>
 <br>
