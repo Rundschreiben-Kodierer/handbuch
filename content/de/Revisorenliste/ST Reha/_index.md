@@ -1,6 +1,6 @@
 ---
-title: "STReha"
-slug: STReha
+title: "ST Reha"
+slug: ST Reha
 description: ""
 weight: 300
 type: docs
@@ -13,15 +13,15 @@ keywords: []
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: left;">
-      <th>Liste der schweizerischen Revisorinnen und Revisoren in der medizinischen Kodierung - STReha</th>
+      <th>Liste der schweizerischen Revisorinnen und Revisoren in der medizinischen Kodierung - ST Reha</th>
     </tr>
   </thead>
   <tbody>
     <tr style="text-align: left;">
-      <th>Liste des réviseuses et réviseurs suisses en codage médical - STReha</th>
+      <th>Liste des réviseuses et réviseurs suisses en codage médical - ST Reha</th>
     </tr>
     <tr style="text-align: left;">
-      <th>Elenco dei revisori svizzeri in codifica medica - STReha</th>
+      <th>Elenco dei revisori svizzeri in codifica medica - ST Reha</th>
     </tr>
     <tr>
     </tr>
