@@ -235,6 +235,32 @@ sadfsfsfsfd
 asfdasdf
 asdfadsf
 
+<br>
+Je Eingriff ist der Kode so oft zu kodieren, wie Stents/Prothesen implantiert wurden.
+<br>
+<br>
+Beispiel: Am Tag X werden zwei nicht selbstexpandierende Prothesen am Darm eingelegt. Am Tag Y werden beide entfernt und durch eine selbstexpandierende Prothese ersetzt.<br>
+Kodierung:
+{{<grid class="ps-0">}}
+    {{<grid/column>}}
+Tag X:
+    {{</grid/column>}}
+    {{<grid/column>}}
+46.99.51 <I>Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Darm, offen chirurgisch wird</I><b> zweimal</b> kodiert.
+    {{</grid/column>}}
+{{</grid>}}
+{{<grid class="ps-0">}}
+    {{<grid/column>}}
+Tag Y:
+    {{</grid/column>}}
+    {{<grid/column>}}
+46.99.71 <I>Entfernen einer Prothese am Darm, offen chirurgisch</I> wird <b>zweimal</b> kodiert.<br>
+46.99.61 <I>Einlegen oder Wechsel einer selbstexpandierenden Prothese am Darm, offen chirurgisch</I> wird <b>einmal</b> erfasst.
+    {{</grid/column>}}
+{{</grid>}}
+<br>  
+<br>
+
 
 {{</article>}}
 
