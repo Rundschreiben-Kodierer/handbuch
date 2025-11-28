@@ -255,6 +255,11 @@ Folgende Kodes haben keine Unterteilung nach Anzahl der implantierten Stents/Pro
  
 {{</markdown>}}
 
+{{<indent level="4">}}
+42.81.- <I>Einsetzen eines permanenten Tubus in den Ösophagus</I><br>
+51.87.- <I>Endoskopische Einlage oder Wechsel von Stent in den Gallengang</I><br>
+51.9A.- <I>Einlage oder Wechsel von Stent in den Gallengang</I><br>
+
 {{<codeEntry level="1" title="111">}}
 asdf
 {{</codeEntry>}}
@@ -272,6 +277,7 @@ Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Magen
 {{</markdown>}}
 {{</codeEntry>}}
 {{<markdown>}}
+{{</indent>}}
 
 <br>
 <br>
