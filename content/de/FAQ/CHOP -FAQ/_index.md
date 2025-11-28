@@ -250,6 +250,34 @@ Folgende Kodes haben keine Unterteilung nach Anzahl der implantierten Stents/Pro
 </div>
 <br>
 <br>
+<br>
+<br>
+
+
+{<codeEntry level="1" title=" ">}}
+{{<markdown>}}
+ 
+{{</markdown>}}
+{{</codeEntry>}}
+
+{{<codeEntry level="2" title="09.83">}}
+{{<markdown>}}
+Konjunktivozystorhinostomie mit Einsetzen von Tubus oder Stent
+{{</markdown>}}
+{{</codeEntry>}}
+
+
+{{<codeEntry level="2" title="44.99.5-" >}}
+{{<markdown>}}
+Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Magen 
+{{</markdown>}}
+{{</codeEntry>}}
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <p class="MsoNormal" style="line-height: 12.0pt; mso-line-height-rule: exactly;"><span lang="DE-CH" style="mso-fareast-font-family: Calibri; mso-bidi-font-weight: normal;">09.83<span style="mso-tab-count: 1;">&nbsp;&nbsp;&nbsp; </span><span style="mso-tab-count: 1;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><em>Konjunktivozystorhinostomie mit Einsetzen von Tubus oder Stent<br></em>31.93<span style="mso-tab-count: 1;">&nbsp;&nbsp;&nbsp; </span><span style="mso-tab-count: 1;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><em>Ersetzen eines Larynx- oder Trachea-Stents<br></em>31.96<span style="mso-tab-count: 1;">&nbsp;&nbsp;&nbsp; </span><span style="mso-tab-count: 1;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><em>Einsetzen eines Larynx- oder Trachea-Stents<br></em>33.91.2-<span style="mso-tab-count: 1;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><em>Bronchusdilatation, endoskopisch, mit Einlegen oder Wechsel eines Stents/Stent-Grafts<br></em>44.99.5-<span style="mso-tab-count: 1;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><em>Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Magen<br></em>44.99.6-<span style="mso-tab-count: 1;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><em>Einlegen oder Wechsel einer selbstexpandierenden Prothese am Mage<br></em>46.99.5-<span style="mso-tab-count: 1;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><em>Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Dar<br></em>46.99.6-<span style="mso-tab-count: 1;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><em>Einlegen oder Wechsel einer selbstexpandierenden Prothese am Darm<br></em>48.99.50<span style="mso-tab-count: 1;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><em>Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese im Rektum<br></em>48.99.60<span style="mso-tab-count: 1;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><em>Einlegen oder Wechsel einer selbstexpandierenden Prothese im Rektum<br></em>52.93.-<span style="mso-tab-count: 1;">&nbsp; </span><span style="mso-tab-count: 1;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><em>Endoskopische Einlage, Wechsel oder Entfernen von Stent [Prothese] in den Ductus pancreaticus<br></em>52.95.4-<span style="mso-tab-count: 1;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><em>Einlage oder Wechsel eines nicht selbstexpandierenden Stents [Prothese] in den Pankreasgang, offen chirurgisch oder laparoskopisch<br></em>52.95.5-<span style="mso-tab-count: 1;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><em>Einlage oder Wechsel eines selbstexpandierenden Stents [Prothese] in den Pankreasgang, offen chirurgisch oder laparoskopisch<br></em>58.99.10<span style="mso-tab-count: 1;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><em>Sonstige Operationen an Urethra und Periurethralgewebe, Einlegen und Wechsel eines Stents in die Urethra<br></em>60.99.31<span style="mso-tab-count: 1;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><em>Einlegen eines Stents in die prostatische Harnr&ouml;hre</em></span></p>
 <br>
