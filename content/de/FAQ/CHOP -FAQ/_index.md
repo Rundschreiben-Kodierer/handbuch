@@ -230,11 +230,8 @@ Tag Y:
 <br>
 Folgende Kodes haben keine Unterteilung nach Anzahl der implantierten Stents/Prothesen und geben jeweils nur «eines Stents», «Stent» oder «einer Prothese» an.
 <br>
- 
-{{</markdown>}}
-ICI
 
-{{<markdown>}}
+ICI
 
 <br>
 Je Eingriff ist der Kode so oft zu kodieren, wie Stents/Prothesen implantiert wurden.
