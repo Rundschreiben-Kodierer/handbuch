@@ -230,9 +230,6 @@ Tag Y:
 <br>
 Folgende Kodes haben keine Unterteilung nach Anzahl der implantierten Stents/Prothesen und geben jeweils nur «eines Stents», «Stent» oder «einer Prothese» an.
 <br>
-asdf
-asdf
-asdf
 
 {{<indent level="4">}}
 
@@ -298,10 +295,6 @@ Einlegen eines Stents in die prostatische Harnröhre
 
 {{</indent>}}
 
-
-sadfsfsfsfd
-asfdasdf
-asdfadsf
 
 <br>
 Je Eingriff ist der Kode so oft zu kodieren, wie Stents/Prothesen implantiert wurden.
