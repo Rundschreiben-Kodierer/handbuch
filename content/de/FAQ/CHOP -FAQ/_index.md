@@ -256,9 +256,7 @@ Folgende Kodes haben keine Unterteilung nach Anzahl der implantierten Stents/Pro
 {{</markdown>}}
 
 {<codeEntry level="1" title=" ">}}
-{{<markdown>}}
- 
-{{</markdown>}}
+   
 {{</codeEntry>}}
 
 {{<codeEntry level="2" title="09.83">}}
