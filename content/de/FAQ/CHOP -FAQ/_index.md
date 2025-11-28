@@ -265,6 +265,7 @@ Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Darm
 Einlegen oder Wechsel einer selbstexpandierenden Prothese am Darm
 {{</codeEntry>}}
 
+
 {{<codeEntry level="1" title="48.99.50 " >}}
 Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese im Rektum
 {{</codeEntry>}}
