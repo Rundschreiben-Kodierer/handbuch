@@ -30,7 +30,7 @@ Das Kapitel **«Allgemeine Informationen»** enthält grundsätzliche Informatio
 Dieses Kapitel bildet somit die Grundlage für die Nutzung der weiteren Inhalte und unterstützt die Kodiererinnen und Kodierer bei der Orientierung innerhalb der Publikationen.
 Je Version der «Allgemeinen Informationen» werden Register gebildet mit dem Datum des Inkrafttretens. 
 Diese Register dokumentieren die unterjährigen Aktualisierungen und verdeutlichen den jeweiligen Beginn der Gültigkeit.
-Im Kontext der Publikationsversionen KHB YYYY und CHOP YYYY, sowie ICD-10-GM erfolgte die Aktualisierung der «Allgemeinen Informationen» halbjährlich. 
+Im Kontext der Publikationsversionen KHB YYYY und CHOP YYYY, sowie ICD-10-GM erfolgte die Aktualisierung der «Allgemeinen Informationen» halbjährlich.  
 Pro Publikationsjahr können somit folgende Register vorkommen:
 Register pro Publikationsjahr
 <body>
