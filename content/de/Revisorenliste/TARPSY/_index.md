@@ -13,15 +13,15 @@ keywords: []
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: left;">
-      <th>Liste der schweizerischen Revisorinnen und Revisoren in der medizinischen Kodierung - SwissDRG</th>
+      <th>Liste der schweizerischen Revisorinnen und Revisoren in der medizinischen Kodierung - TARPSY</th>
     </tr>
   </thead>
   <tbody>
     <tr style="text-align: left;">
-      <th>Liste des réviseuses et réviseurs suisses en codage médical - SwissDRG</th>
+      <th>Liste des réviseuses et réviseurs suisses en codage médical - TARPSY</th>
     </tr>
     <tr style="text-align: left;">
-      <th>Elenco dei revisori svizzeri in codifica medica - SwissDRG</th>
+      <th>Elenco dei revisori svizzeri in codifica medica - TARPSY</th>
     </tr>
     <tr>
     </tr>
@@ -618,7 +618,7 @@ keywords: []
     <col style="width: 400px;">
   </colgroup>
   <tr>
-    <td class="tg-zr06">Quelle: Bundesamt für Statistik, Kodierungssekretariat<br>© BFS - 2025<br>Stand der Daten: 30.09.2025<br><a href="mailto:codeInfo@bfs.admin.ch">codeInfo@bfs.admin.ch</a><br><br>Office fédéral de la statistique, Secrétariat de codage<br>© OFS - 2025<br>Etat des données: 30.09.2025<br><a href="mailto:codeInfo@bfs.admin.ch">codeInfo@bfs.admin.ch</a><br><br>Fonte: Ufficio federale di statistica, Segreteria di codifica<br>© UST - 2025<br>Stato dei dati: 30.09.2025<br><a href="mailto:codeInfo@bfs.admin.ch">codeInfo@bfs.admin.ch</a></td>
+    <td class="tg-zr06">Quelle: Bundesamt für Statistik, Kodierungssekretariat<br>© BFS - 2025<br>Stand der Daten: 15.12.2025<br><a href="mailto:codeInfo@bfs.admin.ch">codeInfo@bfs.admin.ch</a><br><br>Office fédéral de la statistique, Secrétariat de codage<br>© OFS - 2025<br>Etat des données: 15.12.2025<br><a href="mailto:codeInfo@bfs.admin.ch">codeInfo@bfs.admin.ch</a><br><br>Fonte: Ufficio federale di statistica, Segreteria di codifica<br>© UST - 2025<br>Stato dei dati: 15.12.2025<br><a href="mailto:codeInfo@bfs.admin.ch">codeInfo@bfs.admin.ch</a></td>
   </tr></thead>
 </table>
 

@@ -8,7 +8,7 @@ keywords: []
 ---
 <p style="text-align: right;">{{<printButton>}}
 
-Das Kapitel «ICD-10-GM» enthält sämtliche Aktualisierungen zu den französisch- und italienisch-sprachigen Ausgaben der angegebenen Version der internationalen statistischen Klassifikation der Krankheiten und verwandter Gesundheitsprobleme, 10. Revision, German Modification.
+Das Kapitel «Aktualisierungen zur ICD-10-GM» enthält sämtliche Aktualisierungen zu den französisch- und italienisch-sprachigen Ausgaben der angegebenen Version der internationalen statistischen Klassifikation der Krankheiten und verwandter Gesundheitsprobleme, 10. Revision, German Modification.
   
 Neuigkeiten zur deutschsprachigen Ausgabe sind von der Internetseite des Bundesinstituts für Arzneimittel und Medizinprodukte (BfArM) in Deutschland zu beziehen. Das BFS informiert über das Inkrafttreten allfälliger Aktualisierungen der systematischen und alphabetischen Verzeichnisse in der Schweiz (Zeitpunkt der Übernahme der vom BfArM kommunizierten Anpassungen).
   

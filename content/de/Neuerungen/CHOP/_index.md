@@ -19,7 +19,7 @@ Je Version können somit folgende Links vorkommen:
 <body>
     <ul>
         <li>Gültig ab dem 01.01.YYYY: do-t-14.04.01-chopYYYY-up-01</li>
-        <li>Gültig ab dem 01.07.YYYY:do-t-14.04.01-chopYYYY-up-02</li>
+        <li>Gültig ab dem 01.07.YYYY: do-t-14.04.01-chopYYYY-up-02</li>
     </ul>
 </body>
 <p style="text-align: left;">
