@@ -38,14 +38,14 @@ Die bekannten halbjährlichen **Publikationszyklen der bisherigen Rundschreiben 
 </ul>
   
   
-Unter jedem Kapitel werden jeweils **das Publikationsjahr sowie die Gültigkeitsspanne** der darin aufgeführten Inhalte angegeben, sodass die zeitliche Zuordnung der Änderungen und Ergänzungen jederzeit klar nachvollzogen werden kann.
+Unter jedem Kapitel werden jeweils **das Publikationsjahr sowie der Beginn der Gültigkeit** der darin aufgeführten Inhalte angegeben, sodass die zeitliche Zuordnung der Änderungen und Ergänzungen jederzeit klar nachvollzogen werden kann.
   
 Register mit dem Zusatz Ø None enthalten keine Aktualisierungen.
   
   
 **Kapitel «Aktualisierungen zur CHOP»**
   
-Die Informationen zu Aktualisierungen der CHOP-Kodes werden neu in Form einer Excel-Tabelle (xlsx) bereitgestellt, die direkt über die jeweiligen Register des Kapitel CHOP abrufbar ist. Diese Tabelle ermöglicht eine übersichtliche Nachverfolgung der Änderungen und bildet die Aktualisierungen in den Sprachen **Deutsch, Französisch und Italienisch** ab.
+Die Informationen zu Aktualisierungen zur CHOP werden neu in Form eines **Excel-Ordners (xlsx)** bereitgestellt, der direkt über die jeweiligen Register des Kapitels CHOP abrufbar ist. Diese Tabelle ermöglicht eine übersichtliche Nachverfolgung der Änderungen und bildet die Aktualisierungen in den Sprachen **Deutsch, Französisch und Italienisch** ab.
   
   
 **Neues Kapitel «FAQ/Klarstellungen»**
