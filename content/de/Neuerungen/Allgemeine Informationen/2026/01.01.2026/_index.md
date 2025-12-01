@@ -9,7 +9,7 @@ keywords: []
 
 <p style="text-align: right;">{{<printButton>}}
   
-Die nachfolgenden Aktualisierungen des Registers **«Allgemeine Informationen»** sind ab dem 01.01.2026 gültig. 
+Die nachfolgenden **«Allgemeinen Informationen»** sind ab dem 01.01.2026 gültig. 
   
 {{<markdown>}}
 
