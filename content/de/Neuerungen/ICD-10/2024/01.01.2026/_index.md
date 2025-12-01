@@ -9,8 +9,6 @@ keywords: []
 
 <p style="text-align: right;">{{<printButton>}}
   
-Die nachfolgenden Aktualisierungen des Registers **«ICD-10-GM»** sind ab dem 01.01.2026 gültig. 
-  
-{{<markdown>}}Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Löschungen in rot~~</font>
+Auf der ICD-10-GM 2024 gibt es keine neuen Aktualisierungen, die ab dem 01.01.2026 zu berücksichtigen sind.
   
 {{</markdown>}}
