@@ -9,6 +9,6 @@ keywords: []
 
 <p style="text-align: right;">{{<printButton>}}
   
-<p style="text-align: left;">{{<printButton>}}
+<p style="text-align: left;">
 Bitte klicken Sie links das Register mit dem gewünschten Datum an. 
 

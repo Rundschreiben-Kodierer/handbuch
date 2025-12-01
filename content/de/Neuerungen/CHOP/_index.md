@@ -39,7 +39,7 @@ Zum Beginn jedes Unterregisters befindet sich eine Zeile mit folgenden Angaben i
   «Line number for the subregister»: «0»,
   </li>
   <li>
-  «Item / Subregister number», «Modification FR / Subregister number», «Modification IT / Subregister number»: «Nummer des Unterregisters, z. B. SR1»,
+  «Item / Subregister number», «Modification FR / Subregister number», «Modification IT / Subregister number»: Nummer des Unterregisters, z. B. SR1»,
   </li>
   <li>
   «Text DE», «Text FR», «Text IT»: «Titel des Unterregisters in der entsprechenden Sprache»
