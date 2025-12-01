@@ -9,9 +9,8 @@ keywords: []
 
 <p style="text-align: right;">{{<printButton>}}
   
-  
-{{<markdown>}}
-  
-{{</markdown>}}
+<p style="text-align: left;">{{<printButton>}}
+Bitte klicken Sie links das Register mit dem gewünschten Datum an. 
+
 
 
