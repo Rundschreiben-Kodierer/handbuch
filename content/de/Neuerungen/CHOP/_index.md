@@ -291,20 +291,8 @@ Zuvor wurde im Kapitel 3, Zusatzinformationen zur CHOP, in der PDF-Datei des Run
 **Unterregister Nr. 3.1 Titel**
   
 *Kurzer einführender Text zum Unterregister.*
-  
-{{<codeEntry level="1" title="NN.NN.NN ">}}
-{{<markdown>}}
-<strong> Kode-Titel</strong><br>
-<font color="green">Neue ergänzende Beschreibung</font><br>
-Exkl. Text des Exklusivum<font color="red"> zu löschender Text im Exklusivum</font> (MM.MM.-)
-{{</markdown>}}
-{{</codeEntry>}}
-
-{{<insertImage image="CHOP NN.NN.NN.png" class="edge max-w-90">}}
-
 <br>
-<br>
-<p class="MsoNormal" style="margin-bottom: 0cm;"><strong><span lang="DE-CH" style="mso-fareast-language: DE-CH;">NN.NN.NN<span style="mso-tab-count: 1;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Kode-Titell<br></span></strong><span lang="DE-CH" style="mso-fareast-language: DE-CH;"><span style="mso-tab-count: 2;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;</span><span style="color: #00b050;">Neue erg&auml;nzende Beschreibung<span style="mso-tab-count: 1;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="mso-tab-count: 1;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></p>
+<p class="MsoNormal" style="margin-bottom: 0cm;"><strong><span lang="DE-CH" style="mso-fareast-language: DE-CH;">NN.NN.NN<span style="mso-tab-count: 1;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Kode-Titel<br></span></strong><span lang="DE-CH" style="mso-fareast-language: DE-CH;"><span style="mso-tab-count: 2;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;</span><span style="color: #00b050;">Neue erg&auml;nzende Beschreibung<span style="mso-tab-count: 1;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="mso-tab-count: 1;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></p>
 <p class="MsoNormal" style="text-indent: 36.0pt; margin: 0cm 0cm 0cm 36.0pt;"><span lang="DE-CH" style="mso-fareast-language: DE-CH;">&nbsp; &nbsp; &nbsp; &nbsp;Exkl. Text des Exklusivum <s><span style="color: red;">zu l&ouml;schender Text im Exklusivum</span></s><span style="color: red;"> </span>(MM.MM.-)</span></p>
 
 <br>
