@@ -9,54 +9,54 @@ keywords: []
 <p style="text-align: right;">{{<printButton>}}
 
 
-Das Kapitel «Aktualisierungen zur CHOP» enthält die unterjährigen Aktualisierungen zur angegebenen Jahresversion der schweizerischen Operationsklassifikation (CHOP). Unter Aktualisierungen versteht man Anpassungen und Korrekturen der im Juli auf Deutsch und im Oktober auf Französisch und Italienisch publizierten CHOP-Version.
+Le chapitre «Actualisations de la CHOP» contient les actualisations en cours d’année de la version annuelle indiquée de la classification suisse des interventions chirurgicales (CHOP). Les actualisations comprennent les adaptations et les corrections apportées à la version CHOP publiée en juillet en allemand et en octobre en français et en italien.
     
-Zu jeder Version der Klassifikation wird ein Register angelegt. 
-Unter diesem Register sind die Excel-Ordner, die die unterjährigen Aktualisierungen zur entsprechenden CHOP-Version im Tabellenformat sowie erklärende «Lies mich» enthalten, per Link verknüpft. Der Dateiname enthält jeweils die CHOP-Version, «UP» für Update und die Nummer des Aktualisierungspakets. 
+Pour chaque version de la classification, un registre est créé.
+Sous ce registre les liens vers les classeurs Excel qui contiennent les actualisations en cours d'année pour la version CHOP correspondante sous forme de tableau ainsi que les «lisez-moi» explicatifs. Le nom du fichier contient la version CHOP, «UP» pour actualisation (Update) et le numéro du paquet d’actualisations.
   
-Voraussichtlich ist eine Version YYYY der CHOP ein Jahr gültig (im Jahr YYYY).  
-Je Version können somit folgende Links vorkommen:
+Il est prévu qu’une version YYYY de la CHOP soit valable pendant un an (en l'année YYYY).
+Ainsi, pour chaque version, les liens suivants peuvent exister:
 <body>
     <ul>
-        <li>Gültig ab dem 01.01.YYYY: do-t-14.04.01-chopYYYY-up-01</li>
-        <li>Gültig ab dem 01.07.YYYY: do-t-14.04.01-chopYYYY-up-02</li>
+        <li>Valable dès le 01.01.YYYY: do-t-14.04.01-chopYYYY-up-01</li>
+        <li>Valable dès le 01.07.YYYY: do-t-14.04.01-chopYYYY-up-02</li>
     </ul>
 </body>
 <p style="text-align: left;">
-Das Datum gibt jeweils den Beginn der Gültigkeit an. Eine Anpassung / Korrektur zu einem Zeitpunkt X kann in seltenen Fällen zu einem späteren Zeitpunkt Z einer weiteren Anpassung unterliegen. Bitte beachten Sie in der zweiten Jahreshälfte beide Tabellen. 
+La date indique le début de la validité. Dans de rares cas, une adaptation/correction effectuée à un moment X peut faire l'objet d’une nouvelle adaptation à une date ultérieure Z. Veuillez tenir compte des deux tableaux au cours du second semestre. 
   
-Die angegebenen Anpassungen und Korrekturen zu einer Version (z. B. CHOP 2026) werden in der darauffolgenden Version der CHOP (z. B. CHOP 2027) übernommen oder entfallen aufgrund einer Weiterentwicklung der Klassifikation im entsprechenden Klassifikationsabschnitt.
+Les adaptations et corrections indiquées pour une version (p. ex. CHOP 2026) sont reprises dans la version suivante du CHOP (p. ex. CHOP 2027) ou supprimées en raison d'une évolution de la classification dans la section correspondante.
   
-Die Aktualisierungen werden in der Tabelle thematisch gruppiert und durchnummeriert. Jedes Thema erhält eine Unterregister-Nummer und einen Unterregister-Titel. Die Unterregister werden aufsteigend nach Kode-Nummer sortiert. Betrifft ein Unterregister mehrere Kodes, erfolgt die Einordnung unter dem ersten, hauptsächlich betroffenen Kode.
+Les actualisations sont regroupées par thème dans le tableau et numérotées. Chaque thème reçoit un numéro de sous-registre et un titre de sous-registre. Les sous-registres sont classés par ordre croissant selon le numéro du code. Si un sous-registre concerne plusieurs codes, il est classé sous le premier code principalement concerné.
   
-Die Struktur der Tabelle wird im untenstehenden Text sowie auf «Lies mich»-Blättern pro Sprache im Excel-Ordner erklärt.
+La structure du tableau est expliquée dans le texte ci-dessous, ainsi que dans les feuilles «lisez-moi» par langue dans le classeur Excel.
   
-Die Spalten-Überschriften der Tabelle mit den Aktualisierungen wurden auf Englisch gewählt, weil die Tabelle dreisprachig ist.
+Les titres des colonnes du tableau avec les actualisations ont été choisis en anglais, car le tableau est trilingue
   
-Zum Beginn jedes Unterregisters befindet sich eine Zeile mit folgenden Angaben in den Spalten:
+Chaque sous-registre commence par une ligne contenant les informations suivantes dans les colonnes indiquées:
 <ul>  
   <li>
   «Line number for the subregister»: «0»,
   </li>
   <li>
-  «Item / Subregister number», «Modification FR / Subregister number», «Modification IT / Subregister number»: Nummer des Unterregisters, z. B. «SR1»,
+  «Item / Subregister number», «Modification FR / Subregister number», «Modification IT / Subregister number» : numéro du sous-registre, p. ex. «SR1»,
   </li>
   <li>
-  «Text DE», «Text FR», «Text IT»: «Titel des Unterregisters in der entsprechenden Sprache,
+  «Text DE», «Text FR», «Text IT» : Titre du sous-registre dans la langue correspondante,
   </li>
   <li>
-  «New text DE / Comment DE», «New text FR / Comment FR», «New text IT / Comment IT»: Ein kurzer einführender Text zum Unterregister beschreibt die Anpassung/Korrektur in der entsprechenden Sprache.
+  «New text DE / Comment DE», «New text FR / Comment FR», «New text IT / Comment IT» : Un court texte introductif au sous-registre décrit l’adaptation/la correction dans la langue correspondante.
   </li>
 </ul>
-Diese Zeile ist zur besseren Abgrenzung der Abschnitte grau markiert.
+Cette ligne est surlignée en gris afin de mieux délimiter les sections.
  <br>
  <br>
    
-Folgende Spalten befinden sich in der Tabelle:
-- In Orange die Spalten, die sprachübergreifend gelten.
-- In Gelb die Spalten, die für die deutschsprachige Version gelten.
-- In Blau die Spalten, die für die französischsprachige Version gelten.
-- In Grün die Spalten, die für die italienischsprachige Version gelten.
+Le tableau comporte les colonnes suivantes :
+- En orange, les colonnes qui s'appliquent à toutes les langues
+- En jaune, les colonnes qui s'appliquent à la version allemande.
+- En bleu, les colonnes qui s'appliquent à la version française.
+- En vert, les colonnes qui s'appliquent à la version italienne.
 
 
 <table class="MsoTableGrid" style="border-collapse: collapse; border: none; width: 96.1447%;" border="1" cellspacing="0" cellpadding="0">
