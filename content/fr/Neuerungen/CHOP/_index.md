@@ -1,5 +1,5 @@
 ---
-title: "Aktualisierungen zur CHOP"
+title: "Actualisations de la CHOP"
 slug: KHB2026
 description: ""
 weight: 303

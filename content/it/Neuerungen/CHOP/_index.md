@@ -1,5 +1,5 @@
 ---
-title: "Aktualisierungen zur CHOP"
+title: "Aggiornamenti della CHOP"
 slug: KHB2026
 description: ""
 weight: 303
@@ -9,54 +9,54 @@ keywords: []
 <p style="text-align: right;">{{<printButton>}}
 
 
-Das Kapitel «Aktualisierungen zur CHOP» enthält die unterjährigen Aktualisierungen zur angegebenen Jahresversion der schweizerischen Operationsklassifikation (CHOP). Unter Aktualisierungen versteht man Anpassungen und Korrekturen der im Juli auf Deutsch und im Oktober auf Französisch und Italienisch publizierten CHOP-Version.
+Il capitolo «Aggiornamenti della CHOP» contiene gli aggiornamenti in corso d’anno relativi alla versione annuale indicata della classificazione svizzera degli interventi chirurgici (CHOP). Per aggiornamenti si intendono gli adeguamenti e le correzioni apportati alla versione CHOP pubblicata in tedesco a luglio e in francese e italiano a ottobre.
     
-Zu jeder Version der Klassifikation wird ein Register angelegt. 
-Unter diesem Register sind die Excel-Ordner, die die unterjährigen Aktualisierungen zur entsprechenden CHOP-Version im Tabellenformat sowie erklärende «Lies mich» enthalten, per Link verknüpft. Der Dateiname enthält jeweils die CHOP-Version, «UP» für Update und die Nummer des Aktualisierungspakets. 
+Per ogni versione della classificazione viene creato un registro.
+In questo registro sono collegati tramite link i file Excel contenenti gli aggiornamenti in corso d’anno alla versione CHOP corrispondente in formato tabella e le note esplicative «Leggimi». Il nome del file contiene la versione CHOP, «UP» per aggiornamento (Update) e il numero del pacchetto di aggiornamenti.
   
-Voraussichtlich ist eine Version YYYY der CHOP ein Jahr gültig (im Jahr YYYY).  
-Je Version können somit folgende Links vorkommen:
+Si prevede che una versione YYYY della CHOP sia valida per un anno (nell’anno YYYY).
+A seconda della versione possono quindi essere presenti i seguenti link:
 <body>
     <ul>
-        <li>Gültig ab dem 01.01.YYYY: do-t-14.04.01-chopYYYY-up-01</li>
-        <li>Gültig ab dem 01.07.YYYY: do-t-14.04.01-chopYYYY-up-02</li>
+        <li>Valido a partire dal 01.01.YYYY: do-t-14.04.01-chopYYYY-up-01</li>
+        <li>Valido a partire dal 01.07.YYYY: do-t-14.04.01-chopYYYY-up-02</li>
     </ul>
 </body>
 <p style="text-align: left;">
-Das Datum gibt jeweils den Beginn der Gültigkeit an. Eine Anpassung / Korrektur zu einem Zeitpunkt X kann in seltenen Fällen zu einem späteren Zeitpunkt Z einer weiteren Anpassung unterliegen. Bitte beachten Sie in der zweiten Jahreshälfte beide Tabellen. 
+La data indica l’inizio della validità. In rari casi, una modifica/correzione effettuata in un determinato momento X può essere soggetta a un’ulteriore modifica in un momento successivo Z. Si prega di tenere conto di entrambe le tabelle nella seconda metà dell’anno.
   
-Die angegebenen Anpassungen und Korrekturen zu einer Version (z. B. CHOP 2026) werden in der darauffolgenden Version der CHOP (z. B. CHOP 2027) übernommen oder entfallen aufgrund einer Weiterentwicklung der Klassifikation im entsprechenden Klassifikationsabschnitt.
+Le modifiche e le correzioni indicate per una versione (p. es. CHOP 2026) vengono riprese nella versione successiva della CHOP (p. es. CHOP 2027) oppure vengono eliminate a causa di un ulteriore sviluppo della classificazione nella sezione di classificazione corrispondente.
   
-Die Aktualisierungen werden in der Tabelle thematisch gruppiert und durchnummeriert. Jedes Thema erhält eine Unterregister-Nummer und einen Unterregister-Titel. Die Unterregister werden aufsteigend nach Kode-Nummer sortiert. Betrifft ein Unterregister mehrere Kodes, erfolgt die Einordnung unter dem ersten, hauptsächlich betroffenen Kode.
+Gli aggiornamenti sono raggruppati per argomento nella tabella e numerati in ordine progressivo. Ogni argomento riceve un numero di sottoregistro e un titolo di sottoregistro. I sottoregistri sono ordinati in ordine crescente in base al numero di codice. Se un sottoregistro riguarda più codici, la classificazione avviene in base al primo codice principalmente interessato.  
+
+La struttura della tabella è spiegata nel testo sottostante e nei fogli «Leggimi» per ciascuna lingua nella cartella Excel.
   
-Die Struktur der Tabelle wird im untenstehenden Text sowie auf «Lies mich»-Blättern pro Sprache im Excel-Ordner erklärt.
+Le intestazioni delle colonne della tabella con gli aggiornamenti sono state scelte in inglese perché la tabella è trilingue. 
   
-Die Spalten-Überschriften der Tabelle mit den Aktualisierungen wurden auf Englisch gewählt, weil die Tabelle dreisprachig ist.
-  
-Zum Beginn jedes Unterregisters befindet sich eine Zeile mit folgenden Angaben in den Spalten:
+All’inizio di ogni sotto registro è presente una riga con le seguenti informazioni nelle colonne:
 <ul>  
   <li>
-  «Line number for the subregister»: «0»,
+  «Line number for the subregister»: «0», 
   </li>
   <li>
-  «Item / Subregister number», «Modification FR / Subregister number», «Modification IT / Subregister number»: Nummer des Unterregisters, z. B. «SR1»,
+  «Item / Subregister number», «Modification FR / Subregister number», «Modification IT / Subregister number»: Numero del sottoregistro, p. es. «SR1», 
   </li>
   <li>
-  «Text DE», «Text FR», «Text IT»: «Titel des Unterregisters in der entsprechenden Sprache,
+  «Text DE», «Text FR», «Text IT»: Titolo del sottoregistro nella lingua corrispondente,
   </li>
   <li>
-  «New text DE / Comment DE», «New text FR / Comment FR», «New text IT / Comment IT»: Ein kurzer einführender Text zum Unterregister beschreibt die Anpassung/Korrektur in der entsprechenden Sprache.
+  «New text DE / Comment DE», «New text FR / Comment FR», «New text IT / Comment IT»: Un breve testo introduttivo al sottoregistro descrive l’adeguamento/la correzione nella lingua corrispondente.
   </li>
 </ul>
-Diese Zeile ist zur besseren Abgrenzung der Abschnitte grau markiert.
+Questa riga è evidenziata in grigio per distinguere meglio le sezioni.
  <br>
  <br>
    
-Folgende Spalten befinden sich in der Tabelle:
-- In Orange die Spalten, die sprachübergreifend gelten.
-- In Gelb die Spalten, die für die deutschsprachige Version gelten.
-- In Blau die Spalten, die für die französischsprachige Version gelten.
-- In Grün die Spalten, die für die italienischsprachige Version gelten.
+Nella tabella sono presenti le seguenti colonne:
+- In arancione le colonne valide per tutte le lingue.
+- In giallo le colonne valide per la versione in lingua tedesca.
+- In blu le colonne valide per la versione in lingua francese.
+- In verde le colonne valide per la versione in lingua italiana.
 
 
 <table class="MsoTableGrid" style="border-collapse: collapse; border: none; width: 96.1447%;" border="1" cellspacing="0" cellpadding="0">

@@ -9,10 +9,10 @@ keywords: []
 
 <p style="text-align: right;">{{<printButton>}}
   
-Die Tabelle mit den unterjährigen Aktualisierungen zur «CHOP 2026» steht unter folgendem Link zur Verfügung:
+La tabella con gli aggiornamenti in corso d’anno relativi alla **«CHOP 2026»** è disponibile al seguente link:
   
 <body>
     <ul>
-        <li>Gültig ab dem 01.01.2026: Link zum Excel-Ordner do-t-14.04.01-chop2026-up-01</li>
+        <li>Valido a partire dal 01.01.2026: Link zum Excel-Ordner do-t-14.04.01-chop2026-up-01</li>
     </ul>
 </body>

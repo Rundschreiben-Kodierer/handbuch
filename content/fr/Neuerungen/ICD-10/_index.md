@@ -1,5 +1,5 @@
 ---
-title: "Aktualisierungen zur ICD-10-GM"
+title: "Actualisations de la CIM-10-GM"
 slug: ICD10
 description: ""
 weight: 404
