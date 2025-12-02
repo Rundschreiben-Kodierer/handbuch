@@ -13,7 +13,7 @@ keywords: []
 **Einführung des Kapitels «FAQ/Klarstellungen» mit den Neuerungen und Zusatzinformationen zu den Publikationen**
 
 Mit der Publikation der Neuerungen und Zusatzinformationen zu den Publikationen am **01. Januar 2026** wird das neue Kapitel «FAQ/Klarstellungen» aufgeschaltet.
-Dieses Kapitel ersetzt das bisherige Kapitel 5 «Anhang».
+Dieses ersetzt das Kapitel 5 «Anhang».
 Die Inhalte des bisherigen Kapitels 5 «Anhang» wurden in das neue Kapitel «FAQ/Klarstellungen» migriert.
   
 Das Kapitel bietet praxisorientierte Unterstützung bei allgemeinen und spezifischen Fragen rund um die Kodierung.
