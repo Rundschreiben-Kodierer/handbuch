@@ -1,5 +1,5 @@
 ---
-title: "FAQ/Klarstellungen"
+title: "FAQ/Clarifications"
 slug: FAQKlarstellungen
 description: ""
 weight: 10
@@ -10,73 +10,73 @@ keywords: []
 <p style="text-align: right;">{{<printButton>}}
 
 
-**Einführung des Kapitels «FAQ/Klarstellungen» mit den Neuerungen und Zusatzinformationen zu den Publikationen**
+**Introduction du chapitre «FAQ/Clarifications»**
 
-Mit der Publikation der Neuerungen und Zusatzinformationen zu den Publikationen am **01. Januar 2026** wird das neue Kapitel «FAQ/Klarstellungen» aufgeschaltet.
-Dieses ersetzt das Kapitel 5 «Anhang».
-Die Inhalte des bisherigen Kapitels 5 «Anhang» wurden in das neue Kapitel «FAQ/Klarstellungen» migriert.
+Le nouveau chapitre «FAQ/Clarifications» sera mis en ligne lors de la publication des mises à jour des publications le **1er janvier 2026**.
+Ceci remplace l'ancien chapitre 5 «Annexe» de la circulaire.
+Le contenu de l'ancien «Annexe» a été transféré dans le nouveau chapitre «FAQ/Clarifications».
+
   
-Das Kapitel bietet praxisorientierte Unterstützung bei allgemeinen und spezifischen Fragen rund um die Kodierung.
-Die Inhalte des Kapitels «FAQ/Klarstellungen» werden im Rahmen der halbjährlichen Publikationszyklen – jeweils Ende Juni und Mitte Dezember – zusammen mit den Neuerungen und Zusatzinformationen zu den Publikationen aktualisiert.
+Le chapitre «FAQ/Clarifications» de la circulaire offre une aide pratique pour les questions générales et spécifiques relatives au codage.
+Le contenu du chapitre «FAQ/Clarifications» est mis à jour dans le cadre des cycles de publication semestriels, en même temps que les mises à jour des publications.
+
   
-Die FAQ/Klarstellungen leiten sich aus (wiederholten) Anfragen an das Kodierungssekretariat zu einem spezifischen oder allgemeinen Sachverhalt sowie aus Einzelfallbeurteilungen und Diskussionen innerhalb der Fachgremien ab.
+Les FAQ/ Clarifications sont issues de demandes (répétées) adressées au secrétariat de codification concernant un sujet spécifique ou général, ainsi que d'évaluations de cas individuels et de discussions au sein des comités d'experts. 
 ________________________________________
 
-**Struktur, Inhalt und Gültigkeit der FAQ/Klarstellungen**
+**Structure, contenu et validité des FAQ/Clarifications**
   
-Jede FAQ/Klarstellung enthält:
+Chaque FAQ/Clarification contient:
   
-•	mindestens ein **Schlagwort**, auf das sie sich bezieht,
+•	au moins un **mot-clé** auquel elle se réfère,
   
-•	das **Erstellungsdatum**,
+•	la **date de création**,
   
-•	den **Themenbereich** (ICD-10-GM oder CHOP) mit den jeweils relevanten Kodes,
+•	le **domaine thématique** (CIM-10-GM ou CHOP) avec les codes correspondants,
   
-•	sofern zutreffend, einen **Verweis auf die jeweilige Kodierregel**,
+•	le cas échéant, une **référence à la règle de codage correspondante**,
   
-•	ein Feld **«Aktualisiert»**, in dem das Datum der letzten inhaltlichen Anpassung ausgewiesen wird,
+•	un champ **«Actualisation»** indiquant la date de la dernière modification du contenu,
   
-Mit der Einführung der Onlineschaltung des Kapitels «FAQ/Klarstellungen» wurde bei **allen FAQ/Klarstellungen das Erstellungsdatum auf den 01.01.2026 angepasst**.
-Bei den FAQ/Klarstellungen, die aus **dem Anhang des letzten Rundschreibens 2025/2** übernommen und migriert wurden, findet sich **nebst dem neuen Erstellungsdatum zusätzlich ein Verweis auf die jeweilige Nummer der Präzisierung des ehemaligen Kapitels 5**.
+Avec la mise en ligne du chapitre «FAQ/Clarifications», **la date de création de toutes les FAQ/Clarifications** a été **ajustée au 01.01.2026**.
+Pour les FAQ/Clarifications qui ont été reprises et migrées de **l'annexe de la dernière circulaire 2025/2, la nouvelle date de création est accompagnée d'une référence au numéro correspondant de la précision de l'ancien chapitre 5.**
   
-Die Aktualisierung/Anpassung erfolgt im Halbjahreszyklus jeweils Ende Juni und Ende Dezember – zusammen mit den Neuerungen und Zusatzinformationen zu den Publikationen.
+La actualisation/l'adaptation a lieu tous les six mois, en même temps que les mises à jour des publications.
   
-Die Darstellung erfolgt so, dass die jeweils **aktuelle Fassung** zuoberst steht.
+La présentation est telle que la **version actuelle** figure en haut de la liste.
 
-{{<markdown>}}Alte, ungültige Versionen werden nachfolgend mit dem Zeitraum der Gültigkeit («von – bis») aufgeführt und in <font color="red">rot durchgestrichener Schrift</font> dargestellt.
-{{</markdown>}}
-<br>
+Les anciennes versions non valables sont répertoriées ci-dessous avec leur période de validité («de – à») et affichées en **rouge barré**.
 
-Sämtliche auf der Website des BFS aufgeschalteten FAQ/Klarstellungen behalten in ihrer jeweils gültigen Fassung so lange ihre **Gültigkeit**, bis sie:
+Toutes les FAQ/clarifications publiées sur le site web de l'OFS restent **valables** jusqu'à ce qu'elles soient :
   
-•	in die jeweiligen Regelwerke KHB oder CHOP integriert wurden, oder
+•	soient intégrées dans les réglementations respectives Manuel de codage ou CHOP, ou
   
-•	durch eine neue FAQ/Klarstellung ersetzt, oder
+•	ne soient remplacées par une nouvelle FAQ/Clarification, ou
   
-•	durch das BFS gelöscht wurden.
+•	soient supprimées par l'OFS.
   
-Damit ist der Werdegang einer jeden FAQ/Klarstellung jederzeit transparent nachvollziehbar.
+Le parcours de chaque FAQ/clarification est ainsi transparent et traçable à tout moment.
   
 ________________________________________
 
-**Nummerierungssystem**
+**Système de numérotation**
   
-Die FAQ/Klarstellungen sind chronologisch aufsteigend nummeriert. Sowohl für die ICD-FAQ, wie auch die CHOP-FAQ wird jeweils die folgende Nummerierung verwendet :
+Les FAQ/Clarifications sont numérotées par ordre chronologique croissant sur
   
 •	**0001 – 9999**
   
-Die bisherige Nummerierung des Kapitels 5 «Anhang» wird nicht fortgeführt. Bereits bestehende Präzisierungen im Anhang des Rundschreibens erhalten eine neue Nummer (s. Erläuterung zur Struktur der FAQ/Klarstellungen oben).
+La numérotation actuelle du chapitre 5 «Annexe» n'est pas reprise. Les clarifications déjà existantes dans l'annexe de la circulaire reçoivent un nouveau numéro (voir explication sur la structure des FAQ/Clarifications ci-dessus).
   
 ________________________________________
   
-**Kennzeichnung von Anpassungen**
+**Marquage des modifications**
   
-Wie in den übrigen Kapiteln der Aktualisierungen zu den Publikationen, wird auch im Kapitel «FAQ/Klarstellungen» für Anpassungen, Ergänzungen und Streichungen folgende Legende angewendet:
+Comme dans les autres chapitres des mises à jour concernant les publications, la légende suivante est également utilisée dans le chapitre « FAQ/Clarifications » pour les adaptations, les ajouts et les suppressions:
   
 
 {{<markdown>}}
   
-Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Löschungen in rot~~</font>
+Légende: <font color="green">Nouveautés en vert</font>, <font color="red">~~Suppressions en rouge~~</font>
 
 
 {{</markdown>}}

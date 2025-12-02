@@ -9,6 +9,6 @@ keywords: []
 
 <p style="text-align: right;">{{<printButton>}}
   
-Auf der ICD-10-GM 2024 gibt es keine neuen Aktualisierungen, die ab dem 01.01.2026 zu berücksichtigen sind.
+Aucune nouvelle actualisation de la **CIM-10-GM 2024** n’est à prendre en compte à partir du 1er janvier 2026.
 
 

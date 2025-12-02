@@ -1,5 +1,5 @@
 ---
-title: "Aktualisierungen zur ICD-10-GM"
+title: "Aggiornamenti dell'ICD-10-GM"
 slug: ICD10
 description: ""
 weight: 404
@@ -8,20 +8,20 @@ keywords: []
 ---
 <p style="text-align: right;">{{<printButton>}}
 
-Das Kapitel «Aktualisierungen zur ICD-10-GM» enthält sämtliche Aktualisierungen zu den französisch- und italienisch-sprachigen Ausgaben der angegebenen Version der internationalen statistischen Klassifikation der Krankheiten und verwandter Gesundheitsprobleme, 10. Revision, German Modification.
+Il capitolo «Aggiornamenti dell’ICD-10-GM» contiene tutti gli aggiornamenti relativi alle edizioni in lingua francese e italiana della versione indicata della classificazione statistica internazionale delle malattie e dei problemi sanitari correlati, 10a revisione, German Modification.
   
-Neuigkeiten zur deutschsprachigen Ausgabe sind von der Internetseite des Bundesinstituts für Arzneimittel und Medizinprodukte (BfArM) in Deutschland zu beziehen. Das BFS informiert über das Inkrafttreten allfälliger Aktualisierungen der systematischen und alphabetischen Verzeichnisse in der Schweiz (Zeitpunkt der Übernahme der vom BfArM kommunizierten Anpassungen).
+Le novità relative all’edizione in lingua tedesca sono disponibili sul sito web del «Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM)». L’UST informa in merito all’entrata in vigore di eventuali aggiornamenti degli indici sistematici e alfabetici in Svizzera (data di recepimento delle modifiche comunicate dal BfArM).
   
-Zu jeder Version der Klassifikation werden Register mit dem Datum des Inkrafttretens gebildet.
-Die Aktualisierungen werden thematisch gruppiert und durchnummeriert.
-Sie werden aufsteigend nach Kode-Nummer angegeben.  
-Betrifft ein Anpassungs-/Korrekturthema mehrere Kodes, erfolgt die Einordnung unter dem ersten, hauptsächlich betroffenen Kode.
+Per ogni versione della classificazione vengono creati registri con la data di entrata in vigore.
+Gli aggiornamenti sono raggruppati per argomento e numerati in ordine progressivo.
+Sono indicati in ordine crescente in base al numero di codice.
+Se un argomento di modifica/correzione riguarda più codici, la classificazione avviene in base al primo codice principalmente interessato.
   
-Die ICD-10-GM 2024 ist seit dem 1. Januar 2025 in der Schweiz in Kraft. In den Rundschreiben 2025 Nr. 1 und Nr. 2 gab es keine Korrektur oder Anpassung auf die Sprachversionen Französisch und Italienisch. Die ICD-10-GM 2024 wird auch im Jahr 2026 gültig sein. Falls es zu Anpassungen oder Korrekturen kommt, wird es voraussichtlich zwei Register zu dieser Version geben. 
+L’ICD-10-GM 2024 è in vigore in Svizzera dal 1° gennaio 2025. Nelle circolari 2025 n. 1 e n. 2 non sono state apportate correzioni o modifiche alle versioni in lingua francese e italiana. L’ICD-10-GM 2024 sarà valida anche nel 2026. In caso di modifiche o correzioni, sono previsti due registri per questa versione. 
   
-Voraussichtlich ist eine Version YYYY der ICD-10-GM in der Schweiz drei Jahre gültig (vom Jahr YYYY+1 bis zum Jahr YYYY+3). Die ICD-10-GM 2026 tritt z. B. am 1. Januar 2027 in der Schweiz in Kraft und gilt bis zum 31. Dezember 2029.
+Si prevede che una versione YYYY dell’ICD-10-GM sarà valida in Svizzera per tre anni (dall’anno YYYY+1 all’anno YYYY+3). L’ICD-10-GM 2026 entrerà in vigore in Svizzera, ad esempio, il 1° gennaio 2027 e sarà valida fino al 31 dicembre 2029.
   
-Je Version können somit folgende Register vorkommen:
+A seconda della versione possono quindi essere presenti i seguenti registri:
 <body>
     <ul>
         <li>01.01.YYYY+1</li>
@@ -33,13 +33,13 @@ Je Version können somit folgende Register vorkommen:
     </ul>
 </body>
   
-Das Datum gibt jeweils den Beginn der Gültigkeit an. Eine Anpassung/Korrektur zu einem Zeitpunkt X kann in seltenen Fällen zu einem späteren Zeitpunkt Z einer weiteren Anpassung unterliegen. Bitte beachten Sie sämtliche Register. 
+La data indica l’inizio della validità. In rari casi, una modifica/correzione effettuata in un determinato momento X può essere soggetta ad un’ulteriore modifica in un momento successivo Z. Si prega di prendere nota di tutti i registri.
   
-Die angegebenen Anpassungen und Korrekturen zu einer Version (z. B. ICD-10-GM 2026) werden in der darauffolgenden Version der ICD-10-GM (z. B. ICD-10-GM 2029) übernommen oder entfallen aufgrund einer Weiterentwicklung der Klassifikation im entsprechenden Klassifikationsabschnitt.
+Le modifiche e le correzioni indicate per una versione (p. es. ICD-10-GM 2026) vengono riprese nella versione successiva dell’ICD-10-GM (p. es. ICD-10-GM 2029) oppure vengono eliminate a seguito di un ulteriore sviluppo della classificazione nella sezione corrispondente.
   
-Eine unterjährige Belegung von unbelegten Schlüsselnummern kann von der WHO oder dem BfArM in Ausnahmesituationen (z. B. Pandemien) vorkommen. Ein weiteres Register würde zu diesem Zeitpunkt mit der Angabe des Datums des Inkrafttretens aufgenommen.
+In situazioni eccezionali (p. es. pandemie), l’OMS o il BfArM possono in corso d'anno, attribuire un contenuto a codici non attribuiti. In tal caso, verrebbe aggiunto un ulteriore registro con l'indicazione della data di entrata in vigore.
   
-{{<markdown>}}Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Löschungen in rot~~</font>
+{{<markdown>}}Legenda: <font color="green">Novità in verde</font>, <font color="red">~~Cancellazioni in rosso~~</font>
   
 {{</markdown>}}
 

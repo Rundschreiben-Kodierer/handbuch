@@ -12,5 +12,5 @@ keywords: []
   
 <p style="text-align: left;">
 
-Bitte klicken Sie links das Register mit dem gewünschten Datum an. 
+Clicca sulla scheda a sinistra con la data desiderata.
 

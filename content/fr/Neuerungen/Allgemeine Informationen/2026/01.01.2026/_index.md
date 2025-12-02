@@ -40,6 +40,9 @@ Die gesetzlichen Grundlagen sind:
     <ul>
         <li>Bundesstatistikgesetz vom 9. Oktober 1992 (BStatG) und</li>
         <li>Bundesgesetz über die Krankenversicherung vom 18. März 1994 (KVG)</li>
+        <li>Bundesstatistikverordnung vom 30. April 2025  
+ 
+</li>
     </ul>
 </body>
 
@@ -58,7 +61,9 @@ Die «Aktualisierungen zu den Publikationen der Medizinischen Klassifikationen d
         <li>Schweizerische Operationsklassifikation (CHOP)</li>
     </ul>
 </body>
-Das Kapitel «FAQ/Klarstellungen» ersetzt das bisherige Kapitel 5 des früheren Rundschreibens. Die Inhalte des bisherigen Kapitels 5 «Anhang» wurden in das neue Kapitel «FAQ/Klarstellungen» migriert.
+
+Das Kapitel «FAQ/Klarstellungen» ersetzt das bisherige Kapitel 5 des früheren Rundschreibens.  
+Die Inhalte des bisherigen Kapitels 5 «Anhang» wurden in das neue Kapitel «FAQ/Klarstellungen» migriert.
 Die «FAQ/Klarstellungen» leiten sich aus (wiederholten) Anfragen an das Kodierungssekretariat zu einem spezifischen oder allgemeinen Sachverhalt ab und wurden innerhalb der Fachgremien diskutiert.  
   
 Bei den «Aktualisierungen zu den Publikationen», wie auch den «FAQ/Klarstellungen» handelt es sich um offizielle Informationen des BFS, die für die Kodierung zu berücksichtigen sind.  
