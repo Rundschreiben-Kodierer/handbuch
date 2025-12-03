@@ -212,7 +212,7 @@ Beispiel: Am Tag X werden zwei selbstexpandierende Prothesen in den Ösophagus e
 Tag X:
     {{</grid/column>}}
     {{<grid/column>}}
-42.81.41 <i>Einsetzen und Wechsel von zwei selbstexpandierenden Prothesen (permanenter Tubus) in den Ösophagus, endoskopisch</l>
+42.81.41 <i>Einsetzen und Wechsel von zwei selbstexpandierenden Prothesen (permanenter Tubus) in den Ösophagus, endoskopisch</i>
     {{</grid/column>}}
 {{</grid>}}
 
@@ -221,7 +221,7 @@ Tag X:
 Tag Y:
     {{</grid/column>}}
     {{<grid/column>}}
-42.81.40 <i>Einsetzen und Wechsel einer selbstexpandierenden Prothese (permanenter Tubus) in den Ösophagus, endoskopisch</l>
+42.81.40 <i>Einsetzen und Wechsel einer selbstexpandierenden Prothese (permanenter Tubus) in den Ösophagus, endoskopisch</i>
     {{</grid/column>}}
 {{</grid>}}
 <br>
