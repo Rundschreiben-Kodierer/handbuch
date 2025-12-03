@@ -57,9 +57,9 @@ Il precedente capitolo 5 «Appendice» è stato sostituito dal nuovo capitolo **
 La versione online offre funzioni aggiuntive:
 <ul>  
   <li>
-  Se necessario, gli utenti possono **scaricare** i contenuti in **formato PDF** e stamparli.</li>
+  Se necessario, gli utenti possono <strong>scaricare</strong> i contenuti in <strong>formato PDF</strong> e stamparli.</li>
   <li>
-  Una **ricerca per parole chiave (Ctrl + F)** consente una navigazione semplice e veloce all'interno dei testi.
+  Una <strong>ricerca per parole chiave (Ctrl + F)</strong> consente una navigazione semplice e veloce all'interno dei testi.
   </li>
 </ul>  
 

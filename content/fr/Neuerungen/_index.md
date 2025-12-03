@@ -57,7 +57,7 @@ L'ancien chapitre 5 « Annexe » est remplacé par le nouveau chapitre **«FAQ/P
 La version en ligne offre des fonctions supplémentaires :
 <ul>  
   <li>
- •	les utilisateurs peuvent <strong>télécharger et imprimer</strong> les contenus sous forme de <strong>fichiers PDF</strong> si nécessaire.
+  les utilisateurs peuvent <strong>télécharger et imprimer</strong> les contenus sous forme de <strong>fichiers PDF</strong> si nécessaire.
   </li>
   <li>
   Une <strong>recherche par mot-clé (Ctrl + F)</strong> permet une navigation simple et rapide dans les textes.

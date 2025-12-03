@@ -18,10 +18,10 @@ Dal 1° gennaio 2026 vanno utilizzati i seguenti strumenti di codifica:
 
 <body>
     <ul>
-        <li>•	Manuale di codifica medica: Le linee guida ufficiali delle regole di codifica in Svizzera. Versione 2026</li>
-        <li>•	Aggiornamenti delle pubblicazioni delle classificazioni mediche dell'UST – 01.01.2026</li>
-        <li>•	Classificazione Svizzera degli Interventi Chirurgici (CHOP): Indice sistematico - Versione 2026</li>
-        <li>•	ICD-10-GM 2024 Indice sistematico: Classificazione statistica internazionale delle malattie e dei problemi sanitari correlati: 10a revisione – German Modification</li>
+        <li>Manuale di codifica medica: Le linee guida ufficiali delle regole di codifica in Svizzera. Versione 2026</li>
+        <li>Aggiornamenti delle pubblicazioni delle classificazioni mediche dell'UST – 01.01.2026</li>
+        <li>Classificazione Svizzera degli Interventi Chirurgici (CHOP): Indice sistematico - Versione 2026</li>
+        <li>ICD-10-GM 2024 Indice sistematico: Classificazione statistica internazionale delle malattie e dei problemi sanitari correlati: 10a revisione – German Modification</li>
         <li>ICD-10-GM 2024 Systematisches Verzeichnis, deutsche Version: Zusatzinformationen für den schweizerischen Kontext</li>
     </ul>
 </body>
