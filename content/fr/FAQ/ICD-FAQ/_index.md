@@ -18,19 +18,19 @@ keywords: []
 {{<collapsibleGroupCommand groupId="icdfaq">}}
 
 
-{{<article number="0001"  title="ICD - Atelektase der Lunge" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0001"  title="CIM - Atélectasie pulmonaire" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Schlagwort</th>
+    <th style="border: 1px solid black;">Mot-clé:</th>
     <td style="border: 1px solid black;">Teilatelektase/Totalatelektase</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Erstellt</th>
+    <th style="border: 1px solid black;">Créé le:</th>
     <td style="border: 1px solid black;">01.01.2026</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Aktualisiert</th>
+    <th style="border: 1px solid black;">Mise à jour:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -42,27 +42,27 @@ keywords: []
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Kodierregel</th>
+    <th style="border: 1px solid black;">Règle de codage:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
 
 {{<markdown>}}
-**Fragestellung:**  
-Wie wird in der Kodierung unterschieden zwischen J98.11 Partielle Atelektase und J98.12 Totalatelektase?
+**Question:**  
+Comment distingue-t-on dans le codage entre J98.11 Atélectasie partielle et J98.12 Atélectasie totale?
+
   
-**Problem/Erläuterung:**  
-Der Unterschied zwischen Teilatelektase und Totalatelektase liegt im Ausmass des betroffenen Lungengewebes:
+**Problème/explication:**
+La différence entre l'atélectasie partielle et l'atélectasie totale réside dans l'étendue du tissu pulmonaire affecté:
   
-Teilatelektase: Hier ist nur ein Teil des Lungenflügels betroffen. Dies kann ein oder mehrere Lungensegmente oder Lappen umfassen. 
+Atélectasie partielle: seule une partie du poumon est touchée. Cela peut concerner un ou plusieurs segments pulmonaires ou lobes. 
   
-Totalatelektase: Bei dieser Form ist der gesamte rechte und/oder linke Lungenflügel betroffen. 
-Eine Totalatelektase beider Lungenflügel ist über die Lokalitätsbezeichnung "beidseits" anzugeben.
+Atélectasie totale: dans cette forme, l'ensemble du poumon droit et/ou gauche est touché. 
   
-**Kodierempfehlung:**  
-Der alphabet. Index verweist bei Atelektase einzelner Lappen z.B. Mittellappen oder Unterlappen auf den Kode für die Teilatelektase. Bei der Suche nach Lungenflügel, Atelektase wird auf den Kode für die Totalatelektase verwiesen.
+**Recommandation de codage :**  
+L'index alphabétique renvoie au code de l'atélectasie partielle en cas d'atélectasie d'un lobe individuel, par exemple le lobe moyen ou le lobe inférieur. La recherche «poumon, atélectasie» renvoie au code de l'atélectasie totale.
   
-Die fehlende Belüftung von Teilabschnitten der Lunge (Lungensegmenten, Lungenlappen) wird daher mit J98.11, Partielle Atelektase, die fehlende Belüftung eines gesamten Lungenflügels mit J98.12, Totalatelektase, kodiert.
+L'absence de ventilation de certaines parties du poumon (segments pulmonaires, lobes pulmonaires) est donc codée par J98.11 *Atélectasie partielle*, et l'absence de ventilation d'un poumon entier par J98.12 *Atélectasie totale*.
  
 {{</markdown>}}
 <br>  
@@ -71,19 +71,19 @@ Die fehlende Belüftung von Teilabschnitten der Lunge (Lungensegmenten, Lungenla
 
 
 
-{{<article number="0002"  title="ICD - Endoleak" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0002"  title="CIM - Endoleak" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Einteilung Endoleaks</td>
+    <th style="border: 1px solid black;">Mot-clé:</th>
+    <td style="border: 1px solid black;">Classification des endofuites</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Erstellt</th>
+    <th style="border: 1px solid black;">Créé le:</th>
     <td style="border: 1px solid black;">01.01.2026</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Aktualisiert</th>
+    <th style="border: 1px solid black;">Mise à jour:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -95,42 +95,43 @@ Die fehlende Belüftung von Teilabschnitten der Lunge (Lungensegmenten, Lungenla
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Kodierregel</th>
+    <th style="border: 1px solid black;">Règle de codage:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
 
 {{<markdown>}}
-**Fragestellung:**  
-Wie wird ein Endoleak nach endovaskulärer Versorgung (EVAR) eines Aortenaneurysmas abgebildet werden?
+**Questions:**  
+Comment représenter une endofuite après traitement endovasculaire (EVAR) d'un anévrisme aortique?
   
-**Problem/Erläuterung:**  
-Ein Endoleak ist ein Leck zwischen der Gefäßprothese und dem Aneurysmasack nach der endovaskulären Versorgung (EVAR) eines Aortenaneurysmas.  
+**Problème/explication:**  
+Une endofuite est une fuite entre la prothèse vasculaire et la poche anévrismale après le traitement endovasculaire (EVAR) d'un anévrisme aortique.  
   
-Ein Endoleak **Typ I** entsteht durch eine unzureichende Abdichtung an der Ansatzstelle des Grafts.
+Une endofuite de **type I** est due à une étanchéité insuffisante au niveau du point d'attache du greffon.
   
-Beim Endoleak **Typ II** wird der Aneurysmasack durch einen Seitenast mit Blut gefüllt. Man unterscheidet zwischen: 
-**Typ IIa:** einzelnes zuführendes Blutgefäß 
-**Typ IIb:** mehrere zuführende Blutgefäße
-  
-Ein Endoleak **Typ III** entsteht durch mechanisches Versagen des Stentgrafts: 
-**Typ IIIa:** Verbindung zwischen modularen Komponenten gelöst 
-**Typ IIIb:** Bruch oder Löcher im Stentgraft
-  
-Endoleaks vom **Typ IV** treten auf, wenn aufgrund der Porosität des Transplantats Blut austritt
+Dans le cas d'une endofuite de **type II**, le sac anévrismal est rempli de sang par une branche latérale. On distingue: 
+**Type IIa**: un seul vaisseau sanguin affluent 
+**Type IIb**: plusieurs vaisseaux sanguins afférents
 
-Ein Endoleak **Typ V** wird auch als Endotension bezeichnet. In diesem Fall zeigt sich eine im Verlauf fortgesetzte Expansion des Aneurysmasackes > 5 mm ohne nachweisbare Endoleckage.      
   
-**Kodierempfehlung:**  
-**Typ 1:** Kode: T82.5 Mechanische Komplikation durch sonstige Geräte und Implantate im Herzen und in den Gefäßen,
+Une endofuite de **type III** est due à une défaillance mécanique de l'endoprothèse: 
+**Type IIIa**: connexion entre les composants modulaires détachée 
+**Type IIIb**: rupture ou trous dans l'endoprothèse
   
-**Typ IIa/ IIb:** Kode: I71.- Aneurysma der Aorta (da keine Komplikation des Grafts)  
+Les endofuites de **type IV** surviennent lorsque du sang s'échappe en raison de la porosité du greffon.  
+
+Une endofuite de **type V** est également appelée endotension. Dans ce cas, on observe une expansion continue de la poche anévrismale > 5 mm sans endofuite détectable.      
   
-**Typ IIIa/ IIIb:** Kode: T82.5 Mechanische Komplikation durch sonstige Geräte und Implantate im Herzen und in den Gefäßen.
+**Recommandation de codage::**  
+**Type 1:** T82.5 Complication mécanique d’autres prothèses et implants cardiaques et vasculaires
   
-**Typ IV:** Kode: T82.5 Mechanische Komplikation durch sonstige Geräte und Implantate im Herzen und in den Gefäßen
+**Type IIa/ IIb:** Code: I71.- Anévrisme aortique et dissection (car aucune complication du greffon) 
   
-**Typ V:** Kode: I71.- Aneurysma der Aorta (da keine Komplikation des Grafts)     
+**Type IIIa/ IIIb:** Code: T82.5 Complication mécanique d’autres prothèses et implants cardiaques et vasculaires
+  
+**Type IV:** Code: T82.5 Complication mécanique d’autres prothèses et implants cardiaques et vasculaires
+  
+**Type V:** Kode: I71.- Anévrisme aortique et dissection (car aucune complication du greffon)          
 
  
 {{</markdown>}}
@@ -140,19 +141,19 @@ Ein Endoleak **Typ V** wird auch als Endotension bezeichnet. In diesem Fall zeig
 {{</article>}}
 
 
-{{<article number="0003"  title="ICD - Hydatidenzyste, zystische Echinokokkose" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0003"  title="CIM - Kyste hydatique, échinococcose kystique" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Hydatidenzyste / zystische Echinokokkose</td>
+    <th style="border: 1px solid black;">Mot-clé:</th>
+    <td style="border: 1px solid black;">Kyste hydatique, échinococcose kystique</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Erstellt</th>
+    <th style="border: 1px solid black;">Créé le:</th>
     <td style="border: 1px solid black;">01.01.2026</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Aktualisiert</th>
+    <th style="border: 1px solid black;">Mise à jour:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -164,26 +165,27 @@ Ein Endoleak **Typ V** wird auch als Endotension bezeichnet. In diesem Fall zeig
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Kodierregel</th>
+    <th style="border: 1px solid black;">Règle de codage:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
 
 {{<markdown>}}
-**Fragestellung:**  
-Wie wird eine Hydatidenzyste, zystische Echinokokkose abgebildet?
+**Questions:**  
+Comment représenter un kyste hydatique, une échinococcose kystique?
   
-**Problem/Erläuterung:**  
-Im alphabetischen ICD -10- GM 2024 wird bei Echinokkose, Leber, zystisch, auf _B67.0† Echinococcus-granulosus-Infektion [zystische Echinokokkose] der Leber_, mit 
-_K77.0* Leberkrankheiten bei anderenorts klassifizierten infektiösen und parasitären Krankheiten_ verwiesen.
+**Problème/explication:**  
+Dans la classification alphabétique CIM-10-GM 2024, l'échinococcose kystique du foie est référencée sous B67.0† *Infection hépatique à Echinococcus granulosus [echinococcose kystique]*, avec 
+K77.0* *Atteintes hépatiques au cours de maladies infectieuses et parasitaires classées ailleurs*.
   
-Bei Echinococcus, Zyste, durch Hydatiden, Leber, verweist der alphabet. Index auf B67.0 Echinococcus-granulosus-Infektion [zystische Echinokokkose] der Leber
-In der ICD wird unterschieden zwischen Hydatidenzyste in der Leber mit oder ohne Infektion des umliegenden Lebergewebes
+Pour Echinococcus, kyste, par hydatides, foie, l'index alphabétique renvoie à B67.0 *Infection hépatique à Echinococcus granulosus [echinococcose kystique]*.
+Dans la CIM, une distinction est faite entre les kystes hydatiques du foie avec ou sans infection du tissu hépatique environnant.
+
     
-**Kodierempfehlung:**  
-Ist die Hydatidenzyste blande gekapselt, kann ausgeschält werden und liegt keine Entzündung des umliegenden Lebergewebes vor, soll _B67.0 Echinococcus-granulosus-Infektion [zystische Echinokokkose] der Leber_, kodiert werden. Es wird kein Sterncode erfasst.
-  
-Finden sich auch im umliegenden Gewebe Echinokokkusbestandteile und dadurch hervorgerufen eine Entzündungsreaktion, soll _K77.0* Leberkrankheiten bei anderenorts klassifizierten infektiösen und parasitären Krankheiten zusätzlich_ kodiert werden.
+**Recommandation de codage:**  
+Si le kyste hydatique est encapsulé de manière bénigne, s'il peut être retiré et s'il n'y a pas d'inflammation du tissu hépatique environnant, il convient de coder B67.0 *Infection à Echinococcus granulosus [échinococcose kystique] du foie*. Aucun code étoile n'est saisi.
+Si des composants d'Echinococcus sont également présents dans les tissus environnants et provoquent une réaction inflammatoire, il convient de coder en plus K77.0* *Atteintes hépatiques au cours de maladies infectieuses et parasitaires classées ailleurs*.
+
   
 {{</markdown>}}
 <br>  
@@ -192,19 +194,19 @@ Finden sich auch im umliegenden Gewebe Echinokokkusbestandteile und dadurch herv
 
 {{</article>}}
 
-{{<article number="0004"  title="ICD - Stenosen präzerebraler Arterien Carotisstenose bds/ Stenosen ein-oder beidseitiger präzerebraler Arterien" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0004"  title="CIM - Sténoses des artères précérébrales // Sténose carotidienne bilatérale/sténoses des artères précérébrales unilatérales ou bilatérales" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Stenose/n präzerebraler Arterien</td>
+    <th style="border: 1px solid black;">Mot-clé:</th>
+    <td style="border: 1px solid black;">Sténose(s) des artères précérébrales</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Erstellt</th>
+    <th style="border: 1px solid black;">Créé le:</th>
     <td style="border: 1px solid black;">01.01.2026</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Aktualisiert</th>
+    <th style="border: 1px solid black;">Mise à jour:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -216,43 +218,42 @@ Finden sich auch im umliegenden Gewebe Echinokokkusbestandteile und dadurch herv
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Kodierregel</th>
+    <th style="border: 1px solid black;">Règle de codage:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
 
-<b>Fragestellung:</b><br>
-Wie wird eine Carotisstenose bds. erfasst? Wie werden ein- oder beidseitige Stenosen präzerebraler Arterien erfasst?
+<b>Questions:</b><br>
+Comment enregistrer une sténose carotidienne bilatérale ? Comment enregistrer des sténoses unilatérales ou bilatérales des artères précérébrales?
 <br><br>
-<b>Problem/Erläuterung:</b><br>
-<b>Erläuterung:</b><br>
-Grundsätzlich gilt: Es ist stets der spezifischste ICD-Kode zu wählen, der die dokumentierte Diagnose am genauesten beschreibt.  
+<b>Problème/explication:</b><br>
+En principe, il convient de toujours choisir le code CIM le plus spécifique qui décrit le plus précisément le diagnostic documenté.  
 <body>
     <ul>
-        <li><b>Beidseitiger Verschluss einer einzelnen präzerebralen Arterie</b> (z. B. Arteria carotis) wird mit dem spezifischen Kode <b>I65.-</b> unter Angabe der Lateralität verschlüsselt.<br>
-<b>Beispiel</b>: <I>Beidseitiger Verschluss/Stenose der Arteria carotis → <b>I65.2</b>: Verschluss und Stenose der A. carotis L bds</I>. 
-
+        <li><b>L'occlusion bilatérale d'une seule artère précérébrale</b> (par exemple, l'artère carotide) est codée avec le code spécifique <b>I65.-</b> en indiquant la latéralité. 
+</b>Exemple</b> : <i>occlusion/sténose bilatérale de l'artère carotide → I65.2 Occlusion et sténose de l’artère carotide gauche et droite.</i> 
 </li>
-        <li><b>Der Verschluss/ die Stenose mehrerer unterschiedlicher präzerebraler Arterien</b> wird mit dem Kode <b>I65.3</b> verschlüsselt:<br>
-<b>Beispiel:</b> <I>Einseitige oder beidseitige Stenose der Arteria vertebralis sowie zusätzlich eine einseitige oder beidseitige Stenose der Arteria carotis interna.→ <b>I65.3</b>Verschluss und Stenose mehrerer und beidseitiger präzerebraler Arterie L = R, L oder B. </I></li>
+        <li><b>L'occlusion/sténose de plusieurs artères précérébrales différentes </b>est codée avec le code <b>I65.3</b>: 
+<b>Exemple</b>: <i>sténose unilatérale ou bilatérale de l'artère vertébrale ainsi qu'une sténose unilatérale ou bilatérale supplémentaire de l'artère carotide interne.→ I65.3 Occlusion et sténose des artères précérébrales, multiples et bilatérales L = R, L ou B.</i> 
+</li>
     </ul>
 </body>
 {{</article>}}
 
 
-{{<article number="0005"  title="ICD - Ulcus hypertonicum (Martorell)" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0005"  title="CIM - Ulcère hypertensif (Martorell)" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Ulcus hypertonicum / Martorell</td>
+    <th style="border: 1px solid black;">Mot-clé:</th>
+    <td style="border: 1px solid black;">Ulcère hypertonique / Martorell</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Erstellt</th>
+    <th style="border: 1px solid black;">Créé le:</th>
     <td style="border: 1px solid black;">01.01.2026</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Aktualisiert</th>
+    <th style="border: 1px solid black;">Mise à jour:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -264,21 +265,25 @@ Grundsätzlich gilt: Es ist stets der spezifischste ICD-Kode zu wählen, der die
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Kodierregel</th>
+    <th style="border: 1px solid black;">Règle de codage:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
 
 {{<markdown>}}
-**Fragestellung:**  
-Wie wird Ulcus (cruris) hypertonicum (Martorell abgebildet)?
+**Question:**  
+Comment l'ulcère (cruris) hypertonique (Martorell) est-il représenté?
   
-**Problem/Erläuterung:**  
-Beim Ulcus (cruris) hypertonicum handelt es sich um eine spezielle Form des Ulcus cruris, die vorwiegend am laterodorsalen Unterschenkel oder über der Achillessehne auftritt. Die meisten Betroffenen weisen einen markanten, langzeitig bestehenden Hypertonus auf, in ca. 60% der Fälle kombiniert mit einem Diabetes mellitus Typ 2. Zur Ätiologie des Ulcus hypertonicum gibt es drei Erklärungsansätze: die ischämisierende Arteriosklerose, die Mediakalzinose der pathologischen Arteriolen und die lokalen Entzündungsvorgänge. Die Arteriosklerose in der Subkutis steht für die Pathogenese der Hautnekrose dabei im Vordergrund. Auch wenn die Erkrankung pathogenetisch auf eine Arteriosklerose zurückzuführen ist, ist die eigentliche Grundursache die Hypertonie.
+**Problème/explication:**  
+L'ulcère (cruris) hypertonique est une forme particulière d'ulcère crural qui apparaît principalement sur la partie latéro-dorsale de la jambe ou au-dessus du tendon d'Achille. La plupart des personnes touchées présentent une hypertonie marquée et persistante, associée dans environ 60% des cas à un diabète sucré de type 2. Il existe trois explications possibles à l'étiologie de l'ulcère hypertonique: l'artériosclérose ischémique, la calcification médiale des artérioles pathologiques et les processus inflammatoires locaux. 
+L'artériosclérose dans le tissu sous-cutané est au premier plan de la pathogenèse de la nécrose cutanée. Même si la maladie est d'origine pathogénique due à une artériosclérose, la cause fondamentale réelle est l'hypertension.
+
   
-**Kodierempfehlung:**  
-Für das Ulcus hypertonicum (Martorell) empfehlen wir folgende Kodekombination: L97 _Ulcus cruris, anderenorts nicht klassifiziert_ zusammen mit der Kreuz-Stern-Kombination aus dem zutreffenden Kode I10.-† bis I15.-† und L99.8* _Sonstige näher bezeichnete Krankheiten der Haut und der Unterhaut bei anderenorts klassifizierten Krankheiten_. 
-Durch diese Erfassung kann das Ulcus hypertonicum von anderen Ulcus cruris-Arten unterschieden werden.
+**Recommandation de codage:**  
+Pour l'ulcère hypertonique (Martorell), nous recommandons la combinaison de codes suivante:
+L97 Ulcère du membre inférieur, non classé ailleurs, associé à la combinaison Dague-étoile du code applicable I10.-† à I15.-† et L99.8* *Autres affections précisées de la peau et du tissu cellulaire sous-cutané au cours de maladies classées ailleurs*. 
+Cette classification permet de distinguer l'ulcère hypertonique des autres types d'ulcères de jambe.
+
 
  
 {{</markdown>}}

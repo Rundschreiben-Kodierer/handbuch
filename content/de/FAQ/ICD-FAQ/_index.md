@@ -62,7 +62,7 @@ Eine Totalatelektase beider Lungenflügel ist über die Lokalitätsbezeichnung "
 **Kodierempfehlung:**  
 Der alphabet. Index verweist bei Atelektase einzelner Lappen z.B. Mittellappen oder Unterlappen auf den Kode für die Teilatelektase. Bei der Suche nach Lungenflügel, Atelektase wird auf den Kode für die Totalatelektase verwiesen.
   
-Die fehlende Belüftung von Teilabschnitten der Lunge (Lungensegmenten, Lungenlappen) wird daher mit J98.11, Partielle Atelektase, die fehlende Belüftung eines gesamten Lungenflügels mit J98.12, Totalatelektase, kodiert.
+Die fehlende Belüftung von Teilabschnitten der Lunge (Lungensegmenten, Lungenlappen) wird daher mit J98.11, *Partielle Atelektase*, die fehlende Belüftung eines gesamten Lungenflügels mit J98.12, *Totalatelektase*, kodiert.
  
 {{</markdown>}}
 <br>  
@@ -122,15 +122,15 @@ Endoleaks vom **Typ IV** treten auf, wenn aufgrund der Porosität des Transplant
 Ein Endoleak **Typ V** wird auch als Endotension bezeichnet. In diesem Fall zeigt sich eine im Verlauf fortgesetzte Expansion des Aneurysmasackes > 5 mm ohne nachweisbare Endoleckage.      
   
 **Kodierempfehlung:**  
-**Typ 1:** Kode: T82.5 Mechanische Komplikation durch sonstige Geräte und Implantate im Herzen und in den Gefäßen,
+**Typ 1:** Kode: T82.5 *Mechanische Komplikation durch sonstige Geräte und Implantate im Herzen und in den Gefäßen*,
   
-**Typ IIa/ IIb:** Kode: I71.- Aneurysma der Aorta (da keine Komplikation des Grafts)  
+**Typ IIa/ IIb:** Kode: I71.- *Aneurysma der Aorta (da keine Komplikation des Grafts)*  
   
-**Typ IIIa/ IIIb:** Kode: T82.5 Mechanische Komplikation durch sonstige Geräte und Implantate im Herzen und in den Gefäßen.
+**Typ IIIa/ IIIb:** Kode: T82.5 *Mechanische Komplikation durch sonstige Geräte und Implantate im Herzen und in den Gefäßen.
   
-**Typ IV:** Kode: T82.5 Mechanische Komplikation durch sonstige Geräte und Implantate im Herzen und in den Gefäßen
+**Typ IV:** Kode: T82.5 *Mechanische Komplikation durch sonstige Geräte und Implantate im Herzen und in den Gefäßen*
   
-**Typ V:** Kode: I71.- Aneurysma der Aorta (da keine Komplikation des Grafts)     
+**Typ V:** Kode: I71.- *Aneurysma der Aorta (da keine Komplikation des Grafts)*     
 
  
 {{</markdown>}}
@@ -174,16 +174,16 @@ Ein Endoleak **Typ V** wird auch als Endotension bezeichnet. In diesem Fall zeig
 Wie wird eine Hydatidenzyste, zystische Echinokokkose abgebildet?
   
 **Problem/Erläuterung:**  
-Im alphabetischen ICD -10- GM 2024 wird bei Echinokkose, Leber, zystisch, auf _B67.0† Echinococcus-granulosus-Infektion [zystische Echinokokkose] der Leber_, mit 
-_K77.0* Leberkrankheiten bei anderenorts klassifizierten infektiösen und parasitären Krankheiten_ verwiesen.
+Im alphabetischen ICD -10- GM 2024 wird bei Echinokkose, Leber, zystisch, auf _B67.0† *Echinococcus-granulosus-Infektion [zystische Echinokokkose] der Leber*, mit 
+K77.0* *Leberkrankheiten bei anderenorts klassifizierten infektiösen und parasitären Krankheiten* verwiesen.
   
-Bei Echinococcus, Zyste, durch Hydatiden, Leber, verweist der alphabet. Index auf B67.0 Echinococcus-granulosus-Infektion [zystische Echinokokkose] der Leber
+Bei Echinococcus, Zyste, durch Hydatiden, Leber, verweist der alphabet. Index auf B67.0 *Echinococcus-granulosus-Infektion [zystische Echinokokkose] der Leber*
 In der ICD wird unterschieden zwischen Hydatidenzyste in der Leber mit oder ohne Infektion des umliegenden Lebergewebes
     
 **Kodierempfehlung:**  
-Ist die Hydatidenzyste blande gekapselt, kann ausgeschält werden und liegt keine Entzündung des umliegenden Lebergewebes vor, soll _B67.0 Echinococcus-granulosus-Infektion [zystische Echinokokkose] der Leber_, kodiert werden. Es wird kein Sterncode erfasst.
+Ist die Hydatidenzyste blande gekapselt, kann ausgeschält werden und liegt keine Entzündung des umliegenden Lebergewebes vor, soll _B67.0 *Echinococcus-granulosus-Infektion [zystische Echinokokkose] der Leber*, kodiert werden. Es wird kein Sterncode erfasst.
   
-Finden sich auch im umliegenden Gewebe Echinokokkusbestandteile und dadurch hervorgerufen eine Entzündungsreaktion, soll _K77.0* Leberkrankheiten bei anderenorts klassifizierten infektiösen und parasitären Krankheiten zusätzlich_ kodiert werden.
+Finden sich auch im umliegenden Gewebe Echinokokkusbestandteile und dadurch hervorgerufen eine Entzündungsreaktion, soll _K77.0* *Leberkrankheiten bei anderenorts klassifizierten infektiösen und parasitären Krankheiten zusätzlich* kodiert werden.
   
 {{</markdown>}}
 <br>  
