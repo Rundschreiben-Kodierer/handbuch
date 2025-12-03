@@ -49,7 +49,6 @@ keywords: []
 </table>
 
 <b>Problème/explication:</b></br>
-Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Methode mit einem präzisen Kode aus Kapitel 7 <font  color="green">"Operationen am kardiovaskulären System"</font> abgebildet. Gibt es einen präzisen Kode, wird 39.99.21 <i>Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen</i>nicht kodiert. 
 Une opération ouverte d'une sténose congénitale de l'isthme aortique est représentée, selon la méthode utilisée, par un code précis du chapitre 7 <font  color="green">«Opérations du système cardio-vasculaire»</font>. S'il existe un code précis, le code 39.99.21 *Opérations d’anomalie congénitale de l’isthme aortique (sténose) ou d’interruption de la crosse aortique* n'est pas codé. 
 <br>  
 <br>
