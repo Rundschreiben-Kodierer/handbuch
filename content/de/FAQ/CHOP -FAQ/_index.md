@@ -134,7 +134,7 @@ Eine perkutan-transluminale Thrombektomie an Lungengefässen mittels Thrombusent
 
 <b>Problem/Erläuterung:</b>
 <br>
-Bei den Kodes der Subkategorie 39.71.- <l>Endovaskuläre Implantation von Stent-Grafts [gecoverten Stents] in die Aorta abdominalis</l> und der Elementegruppe 39.73.4- <l>Endovaskuläre Implantation von Stent-Grafts [gecoverten Stents] in die Aorta thoracoabdominalis</l> ist mit den Zusatzkodes 39.78.5- <l>Ende der untersten Stent-Grafts [gecoverten Stents]</l> anzugeben, wie der Stent-Graft endet.
+Bei den Kodes der Subkategorie 39.71.- <i>Endovaskuläre Implantation von Stent-Grafts [gecoverten Stents] in die Aorta abdominalis</i> und der Elementegruppe 39.73.4- <i>Endovaskuläre Implantation von Stent-Grafts [gecoverten Stents] in die Aorta thoracoabdominalis</i> ist mit den Zusatzkodes 39.78.5- <i>Ende der untersten Stent-Grafts [gecoverten Stents]</i> anzugeben, wie der Stent-Graft endet.
 <br>
 <br>
 Die Elementegruppe 39.78.5- umfasst drei Zusatzkodes:
@@ -154,6 +154,7 @@ In der folgenden Tabelle wurde die Bedeutung des jeweiligen Zusatzkodes für den
 Die aortomonoiliakal oder aortobiiliakal endenden Stent-Grafts (Hauptkörper (blau)) können mit Stent-Grafts in der linken und/oder rechten A. iliaca communis verlängert werden (weitere Stent-Grafts werden dann anmodelliert, grün). Die entsprechenden Kodes der Subkategorie 39.7B.- <l>Endovaskuläre Implantation von Stent-Grafts [gecoverten Stents] in die Aa. iliacae communis und externa</l> sind in diesem Fall zusätzlich zu kodieren.<br>
 <br>
 Folgende Tabelle illustriert die verschiedenen Situationen einer abdominalen Hauptprothese ohne Öffnungen (blau im Schema):
+<br>
 <br>
 {{<insertImage image="FAQCHOP0003Tabelle2.png" class="edge max-w-90">}}
 {{<lineBreak>}}
