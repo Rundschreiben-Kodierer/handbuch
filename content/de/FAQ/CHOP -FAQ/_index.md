@@ -476,7 +476,7 @@ Folgende Kodes der Subkategorie 51.99.- Sonstige Operationen an den Gallenwegen 
     <ul>
         <li>51.99.00 <i>n.n.bez.</i> und 51.99.99 <i>sonstige</i></li>
         <li>51.99.11 <i>Destruktion an den Gallengängen</i></li>
-        <li>51.99.12 <i>Einlage einer Drainage in den Gallengang</Ii></li>
+        <li>51.99.12 <i>Einlage einer Drainage in den Gallengang</i></li>
         <li>51.99.13 <i>Blutstillung an den Gallengängen</i></li>
         <li>51.99.14 <i>Revision an den Gallengängen</i></li>
         <li>51.99.91 <i>Sonstige Rekonstruktion der Gallenwegen</i></li>
@@ -804,7 +804,7 @@ D. h. bei diesen Kodes entfallen die Mindestmerkmale, die sich auf eine Woche od
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Stroke Unit / Stroke Center, Komplexdiagnostik des akuten Hirnschlags in Stroke Unit oder Stroke Center / neurologische Befunderhebung / Auslegung Mindestmerkmal Punkt 3</td>
+    <td style="border: 1px solid black;">Stroke Unit / Stroke Center, Komplexdiagnostik des akuten Hirnschlags in Stroke Unit oder Stroke Center /<br> neurologische Befunderhebung / Auslegung Mindestmerkmal Punkt 3</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Erstellt</th>
@@ -881,7 +881,7 @@ Die **alleinige** Erfassung des Glasgow Coma Scale (GCS) ist für den klinisch n
 {{<markdown>}}
 **Problem/Erläuterung:**  
 In den Beachte zu den Komplexbehandlungen oder Komplexdiagnostiken angegebene Auflistungen, die auf Sätze folgen im Sinne von «Einsatz von mindestens x Therapiebereichen» oder «Mindestens x der folgenden Massnahmen», bedeuten, dass mindestens x verschiedene der aufgelisteten Therapiebereiche oder Massnahmen zum Einsatz kommen. Der Einsatz / die Durchführung von x-mal der gleichen Massnahme / des gleichen Therapiebereichs erfüllt die Mindestanforderungen nicht.
-Beispiel: Unter 99.A6.- <l>Neurologische Komplexdiagnostik</l> wird im «Beachte» folgende Auflistung aufgeführt:
+Beispiel: Unter 99.A6.- <i>Neurologische Komplexdiagnostik</i> wird im «Beachte» folgende Auflistung aufgeführt:
 {{</markdown>}}
 <br>
 <br>
@@ -1327,7 +1327,7 @@ Im Beispiel der folgenden Abbildung erfolgte eine Spondylodese über sechs Wirbe
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Fusion Wirbelsäule / Instrumentierung / Knochenanlagerung, Knochentransplantation, Knochenersatz an der Wirbelsäule, stabilisierende Massnahmen</td>
+    <td style="border: 1px solid black;">Fusion Wirbelsäule / Instrumentierung / Knochenanlagerung, Knochentransplantation, Knochenersatz an der Wirbelsäule, <br>stabilisierende Massnahmen</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Erstellt</th>
