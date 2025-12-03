@@ -11,26 +11,26 @@ keywords: []
 
 <p style="text-align: left;">
 
-{{<markdown>}}Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Löschungen in rot~~</font> {{</markdown>}}
+{{<markdown>}}Legende: <font color="green">Novità in verde</font>, <font color="red">~~Cancellazioni in rosso~~</font> {{</markdown>}}
 
 <br>  
 <br>
 {{<collapsibleGroupCommand groupId="icdfaq">}}
 
 
-{{<article number="0001"  title="ICD - Atelektase der Lunge" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0001"  title="ICD - Atelettasia polmonare" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Teilatelektase/Totalatelektase</td>
+    <th style="border: 1px solid black;">Parola chiave:</th>
+    <td style="border: 1px solid black;">Atelettasia parziale/atelettasia totale</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Erstellt</th>
+    <th style="border: 1px solid black;">Creato:</th>
     <td style="border: 1px solid black;">01.01.2026</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Aktualisiert</th>
+    <th style="border: 1px solid black;">Aggiornato</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -42,27 +42,26 @@ keywords: []
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Kodierregel</th>
+    <th style="border: 1px solid black;">Regola di codifica:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
 
 {{<markdown>}}
-**Fragestellung:**  
-Wie wird in der Kodierung unterschieden zwischen J98.11 Partielle Atelektase und J98.12 Totalatelektase?
+**Domanda:**  
+Come si distingue nella codifica tra J98.11 Atelettasia parziale e J98.12 Atelettasia totale?
   
-**Problem/Erläuterung:**  
-Der Unterschied zwischen Teilatelektase und Totalatelektase liegt im Ausmass des betroffenen Lungengewebes:
+**Problema/Spiegazione:**  
+La differenza tra atelettasia parziale e atelettasia totale risiede nell'estensione del tessuto polmonare interessato:
   
-Teilatelektase: Hier ist nur ein Teil des Lungenflügels betroffen. Dies kann ein oder mehrere Lungensegmente oder Lappen umfassen. 
+Atelettasia parziale: in questo caso è interessata solo una parte del polmone. Ciò può comprendere uno o più segmenti polmonari o lobi.  
   
-Totalatelektase: Bei dieser Form ist der gesamte rechte und/oder linke Lungenflügel betroffen. 
-Eine Totalatelektase beider Lungenflügel ist über die Lokalitätsbezeichnung "beidseits" anzugeben.
+Atelettasia totale: in questa forma è interessato l'intero polmone destro e/o sinistro. 
   
-**Kodierempfehlung:**  
-Der alphabet. Index verweist bei Atelektase einzelner Lappen z.B. Mittellappen oder Unterlappen auf den Kode für die Teilatelektase. Bei der Suche nach Lungenflügel, Atelektase wird auf den Kode für die Totalatelektase verwiesen.
+**Raccomandazione di codifica:**  
+L'indice alfabetico rimanda al codice per l'atelettasia parziale in caso di atelettasia di singoli lobi, ad esempio il lobo medio o il lobo inferiore. La ricerca di polmone, atelettasia rimanda al codice per l'atelettasia totale.
   
-Die fehlende Belüftung von Teilabschnitten der Lunge (Lungensegmenten, Lungenlappen) wird daher mit J98.11, *Partielle Atelektase*, die fehlende Belüftung eines gesamten Lungenflügels mit J98.12, *Totalatelektase*, kodiert.
+La mancanza di ventilazione di parti del polmone (segmenti polmonari, lobi polmonari) viene quindi codificata con J98.11 *Atelettasia parziale*, mentre la mancanza di ventilazione di un intero lobo polmone viene codificata con J98.12 *Atelettasia totale*.
  
 {{</markdown>}}
 <br>  
@@ -75,15 +74,15 @@ Die fehlende Belüftung von Teilabschnitten der Lunge (Lungensegmenten, Lungenla
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Schlagwort</th>
+    <th style="border: 1px solid black;">Parola chiave:</th>
     <td style="border: 1px solid black;">Einteilung Endoleaks</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Erstellt</th>
+    <th style="border: 1px solid black;">Creato:</th>
     <td style="border: 1px solid black;">01.01.2026</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Aktualisiert</th>
+    <th style="border: 1px solid black;">Aggiornato</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -95,7 +94,7 @@ Die fehlende Belüftung von Teilabschnitten der Lunge (Lungensegmenten, Lungenla
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Kodierregel</th>
+    <th style="border: 1px solid black;">Regola di codifica:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -144,15 +143,15 @@ Ein Endoleak **Typ V** wird auch als Endotension bezeichnet. In diesem Fall zeig
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Schlagwort</th>
+    <th style="border: 1px solid black;">Parola chiave:</th>
     <td style="border: 1px solid black;">Hydatidenzyste / zystische Echinokokkose</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Erstellt</th>
+    <th style="border: 1px solid black;">Creato:</th>
     <td style="border: 1px solid black;">01.01.2026</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Aktualisiert</th>
+    <th style="border: 1px solid black;">Aggiornato</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -164,7 +163,7 @@ Ein Endoleak **Typ V** wird auch als Endotension bezeichnet. In diesem Fall zeig
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Kodierregel</th>
+    <th style="border: 1px solid black;">Regola di codifica:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -196,15 +195,15 @@ Finden sich auch im umliegenden Gewebe Echinokokkusbestandteile und dadurch herv
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Schlagwort</th>
+    <th style="border: 1px solid black;">Parola chiave:</th>
     <td style="border: 1px solid black;">Stenose/n präzerebraler Arterien</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Erstellt</th>
+    <th style="border: 1px solid black;">Creato:</th>
     <td style="border: 1px solid black;">01.01.2026</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Aktualisiert</th>
+    <th style="border: 1px solid black;">Aggiornato</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -216,7 +215,7 @@ Finden sich auch im umliegenden Gewebe Echinokokkusbestandteile und dadurch herv
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Kodierregel</th>
+    <th style="border: 1px solid black;">Regola di codifica:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -244,15 +243,15 @@ Grundsätzlich gilt: Es ist stets der spezifischste ICD-Kode zu wählen, der die
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Schlagwort</th>
+    <th style="border: 1px solid black;">Parola chiave:</th>
     <td style="border: 1px solid black;">Ulcus hypertonicum / Martorell</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Erstellt</th>
+    <th style="border: 1px solid black;">Creato:</th>
     <td style="border: 1px solid black;">01.01.2026</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Aktualisiert</th>
+    <th style="border: 1px solid black;">Aggiornato</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -264,7 +263,7 @@ Grundsätzlich gilt: Es ist stets der spezifischste ICD-Kode zu wählen, der die
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Kodierregel</th>
+    <th style="border: 1px solid black;">Regola di codifica:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>

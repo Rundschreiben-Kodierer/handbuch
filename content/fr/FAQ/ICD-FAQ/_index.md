@@ -11,7 +11,7 @@ keywords: []
 
 <p style="text-align: left;">
 
-{{<markdown>}}Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Löschungen in rot~~</font> {{</markdown>}}
+{{<markdown>}}Legende: <font color="green">Nouveautés en vert</font>, <font color="red">~~Suppressions en rouge~~</font> {{</markdown>}}
 
 <br>  
 <br>
