@@ -287,7 +287,7 @@ Auparavant, au chapitre 3, Informations complémentaires à la CHOP, dans le fic
 <p class="MsoNormal" style="text-indent: 36.0pt; margin: 0cm 0cm 0cm 36.0pt;"><span lang="DE-CH" style="mso-fareast-language: DE-CH;">&nbsp; &nbsp; &nbsp; &nbsp;Excl. Texte de l’exclusion <s><span style="color: red;">Texte à supprimer de l’exclusion</span></s><span style="color: red;"> </span>(MM.MM.-)</span></p>
 Dans le tableau, cela est indiqué comme suit. Le tableau contient la comparaison des corrections dans les trois langues.  
 Seul l'extrait correspondant à la version française est reproduit ici.
-
+  
 <table class="MsoTableGrid" style="width: 956px; border-collapse: collapse; border: none;" border="1" width="840" cellspacing="0" cellpadding="0">
 <tbody>
 <tr style="mso-yfti-irow: 0; mso-yfti-firstrow: yes; height: 53.8pt;">
