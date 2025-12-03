@@ -41,8 +41,7 @@ Die gesetzlichen Grundlagen sind:
         <li>Bundesstatistikgesetz vom 9. Oktober 1992 (BStatG) und</li>
         <li>Bundesgesetz über die Krankenversicherung vom 18. März 1994 (KVG)</li>
         <li>Bundesstatistikverordnung vom 30. April 2025  
- 
-</li>
+ </li>
     </ul>
 </body>
 
@@ -59,6 +58,7 @@ Die «Aktualisierungen zu den Publikationen der Medizinischen Klassifikationen d
     <ul>
         <li>Medizinisches Kodierungshandbuch</li>
         <li>Schweizerische Operationsklassifikation (CHOP)</li>
+        <li>ICD-10-GM</li>
     </ul>
 </body>
 

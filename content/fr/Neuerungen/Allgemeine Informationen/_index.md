@@ -12,26 +12,26 @@ keywords: []
 
 {{<markdown>}} 
   
-Les **«Informations générales»** suivantes sont valables à partir du 1er janvier 2026
+Le chapitre **«Informations générales»** contient des informations fondamentales importantes pour l’utilisation et la compréhension des publications. Il s’agit notamment de:
   
 <body>
 <ul>
-  <li>Hinweise zur Nutzung und Struktur der Onlineversion</li>
+  <li>remarques sur l’utilisation et la structure de la version en ligne</li>
   
-  <li>Erläuterungen zu formalen Anpassungen oder redaktionellen Änderungen</li>
+  <li>explications sur les adaptations formelles ou les modifications rédactionnelles</li>
   
-  <li>Mitteilungen zu übergeordneten Themen im Bereich der medizinischen Klassifikationen</li>
+  <li>communications sur des thèmes généraux dans le domaine des classifications médicales</li>
   
-  <li>Organisatorische Informationen zu Publikationsabläufen und Ansprechpartnern</li>
+  <li>informations organisationnelles sur les processus de publication et les interlocuteurs</li>
 </ul>
 </body>
 
 
-Dieses Kapitel bildet somit die Grundlage für die Nutzung der weiteren Inhalte und unterstützt die Kodiererinnen und Kodierer bei der Orientierung innerhalb der Publikationen.
-Je Version der «Allgemeinen Informationen» werden Register gebildet mit dem Datum des Inkrafttretens. 
-Diese Register dokumentieren die unterjährigen Aktualisierungen und verdeutlichen den jeweiligen Beginn der Gültigkeit.
-Im Kontext der Publikationsversionen KHB YYYY und CHOP YYYY, sowie ICD-10-GM erfolgte die Aktualisierung der «Allgemeinen Informationen» halbjährlich.  
-Pro Publikationsjahr können somit folgende Register vorkommen:
+Ce chapitre constitue ainsi la base pour l’utilisation des autres contenus et aide les codeurs à s’orienter dans les publications.  
+Pour chaque version des « Informations générales », des registres sont créés avec la date d’entrée en vigueur. Ces registres documentent les actualisations effectuées en cours d'année et indiquent clairement la date de début de validité correspondante.
+Dans le contexte des versions de publication MDC YYYY et CHOP YYYY, ainsi que de la CIM-10-GM, la mise à jour des « Informations générales » avait lieu tous les six mois.  
+Pour chaque année de publication, les registres suivants peuvent donc exister
+
 <body>
     <ul>
         <li>01.01.YYYY</li>
@@ -39,8 +39,8 @@ Pro Publikationsjahr können somit folgende Register vorkommen:
     </ul>
 </body>
 
-Das Datum gibt jeweils den Beginn der Gültigkeit an. Eine Anpassung / Korrektur zu einem Zeitpunkt X kann in seltenen Fällen zu einem späteren Zeitpunkt Z einer weiteren Anpassung unterliegen. Bitte beachten Sie in der zweiten Jahreshälfte beide Register. 
-
-Die angegebenen Anpassungen und Korrekturen können in einer darauffolgenden Publikationsversion des KHB und / oder der CHOP und / oder der ICD-10-GM übernommen werden oder aufgrund einer Weiterentwicklung / Modifikation der allgemeinen Informationen im Kontext der Kodierungsrichtlinien und Klassifikationen entfallen.
+La date indique le début de la validité. Une adaptation/correction à un moment X peut, dans de rares cas, faire l’objet d’une nouvelle adaptation à une date ultérieure Z. Veuillez tenir compte des deux registres au cours du second semestre.  
+  
+Les ajustements et corrections indiqués peuvent être repris dans une version ultérieure du MDC et/ou de la CHOP et/ou de la CIM-10-GM, ou être supprimés en raison d'une évolution/modification des informations générales dans le contexte des directives de codage et des classifications.
 
 {{</markdown>}}

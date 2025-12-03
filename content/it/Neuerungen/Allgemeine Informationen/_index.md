@@ -12,26 +12,25 @@ keywords: []
 
 {{<markdown>}} 
   
-Das Kapitel **«Allgemeine Informationen»** enthält grundsätzliche Informationen, welche für die Anwendung und das Verständnis der Publikationen von Bedeutung sind. Hierzu zählen insbesondere:
+Il capitolo **«Informazioni generali»** contiene informazioni fondamentali, importanti per l’applicazione e la comprensione delle pubblicazioni. Tra queste, in particolare:
   
 <body>
 <ul>
-  <li>Hinweise zur Nutzung und Struktur der Onlineversion</li>
+  <li>Istruzioni per l’uso e la comprensione della struttura della versione online</li>
   
-  <li>Erläuterungen zu formalen Anpassungen oder redaktionellen Änderungen</li>
+  <liSpiegazioni di adeguamenti formali o modifiche editoriali</li>
   
-  <li>Mitteilungen zu übergeordneten Themen im Bereich der medizinischen Klassifikationen</li>
+  <li>Annunci su argomenti generali nel campo delle classificazioni mediche</li>
   
-  <li>Organisatorische Informationen zu Publikationsabläufen und Ansprechpartnern</li>
+  <li>Informazioni organizzative sulle procedure di pubblicazione e sui referenti</li>
 </ul>
 </body>
 
 
-Dieses Kapitel bildet somit die Grundlage für die Nutzung der weiteren Inhalte und unterstützt die Kodiererinnen und Kodierer bei der Orientierung innerhalb der Publikationen.
-Je Version der «Allgemeinen Informationen» werden Register gebildet mit dem Datum des Inkrafttretens. 
-Diese Register dokumentieren die unterjährigen Aktualisierungen und verdeutlichen den jeweiligen Beginn der Gültigkeit.
-Im Kontext der Publikationsversionen KHB YYYY und CHOP YYYY, sowie ICD-10-GM erfolgte die Aktualisierung der «Allgemeinen Informationen» halbjährlich.  
-Pro Publikationsjahr können somit folgende Register vorkommen:
+Questo capitolo costituisce quindi la base per l’utilizzo degli altri contenuti e aiuta i codificatori ad orientarsi tra le pubblicazioni.  
+Per ogni versione delle «Informazioni generali», vengono creati registri con la data di entrata in vigore. Questi registri documentano gli aggiornamenti effettuati nel corso dell’anno e chiariscono le rispettive date di inizio validità. Nell’ambito delle versioni di pubblicazione KHB YYYY e CHOP YYYY, nonché dell’ICD-10-GM, le «Informazioni generali» venivano aggiornate semestralmente.  
+Per ogni anno di pubblicazione potrebbero quindi essere presenti i seguenti registri:
+
 <body>
     <ul>
         <li>01.01.YYYY</li>
@@ -39,8 +38,8 @@ Pro Publikationsjahr können somit folgende Register vorkommen:
     </ul>
 </body>
 
-Das Datum gibt jeweils den Beginn der Gültigkeit an. Eine Anpassung / Korrektur zu einem Zeitpunkt X kann in seltenen Fällen zu einem späteren Zeitpunkt Z einer weiteren Anpassung unterliegen. Bitte beachten Sie in der zweiten Jahreshälfte beide Register. 
-
-Die angegebenen Anpassungen und Korrekturen können in einer darauffolgenden Publikationsversion des KHB und / oder der CHOP und / oder der ICD-10-GM übernommen werden oder aufgrund einer Weiterentwicklung / Modifikation der allgemeinen Informationen im Kontext der Kodierungsrichtlinien und Klassifikationen entfallen.
+La data indica l’inizio del periodo di validità. Un adeguamento/correzione apportato in un determinato momento potrebbe, in rari casi, essere soggetto ad ulteriori adeguamenti in un secondo momento. Si prega di fare riferimento ad entrambi i registri nella seconda metà dell’anno.
+  
+Gli aggiustamenti e le correzioni specificati possono essere incorporati in una versione di pubblicazione successiva del KHB e/o del CHOP e/o dell’ICD-10-GM, oppure possono essere rimossi a causa di ulteriori sviluppi/modifiche delle informazioni generali nel contesto delle linee guida e delle classificazioni di codifica.
 
 {{</markdown>}}
