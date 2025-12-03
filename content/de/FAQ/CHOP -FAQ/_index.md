@@ -134,7 +134,7 @@ Eine perkutan-transluminale Thrombektomie an Lungengefässen mittels Thrombusent
 
 <b>Problem/Erläuterung:</b>
 <br>
-Bei den Kodes der Subkategorie 39.71.- <L>Endovaskuläre Implantation von Stent-Grafts [gecoverten Stents] in die Aorta abdominalis</L> und der Elementegruppe 39.73.4- <L>Endovaskuläre Implantation von Stent-Grafts [gecoverten Stents] in die Aorta thoracoabdominalis</L> ist mit den Zusatzkodes 39.78.5- <L>Ende der untersten Stent-Grafts [gecoverten Stents]</L> anzugeben, wie der Stent-Graft endet.
+Bei den Kodes der Subkategorie 39.71.- <l>Endovaskuläre Implantation von Stent-Grafts [gecoverten Stents] in die Aorta abdominalis</l> und der Elementegruppe 39.73.4- <l>Endovaskuläre Implantation von Stent-Grafts [gecoverten Stents] in die Aorta thoracoabdominalis</l> ist mit den Zusatzkodes 39.78.5- <l>Ende der untersten Stent-Grafts [gecoverten Stents]</l> anzugeben, wie der Stent-Graft endet.
 <br>
 <br>
 Die Elementegruppe 39.78.5- umfasst drei Zusatzkodes:
@@ -148,17 +148,13 @@ Die Elementegruppe 39.78.5- umfasst drei Zusatzkodes:
 In der folgenden Tabelle wurde die Bedeutung des jeweiligen Zusatzkodes für den Hauptkörper (blau) graphisch dargestellt.
 <br>
 <br>
-{{<insertImage image="0767_a.png" class="edge max-w-90">}}
+{{<insertImage image="FAQCHOP0003Tabelle1.png" class="edge max-w-90">}}
 <br>
 <br>
 Die aortomonoiliakal oder aortobiiliakal endenden Stent-Grafts (Hauptkörper (blau)) können mit Stent-Grafts in der linken und/oder rechten A. iliaca communis verlängert werden (weitere Stent-Grafts werden dann anmodelliert, grün). Die entsprechenden Kodes der Subkategorie 39.7B.- <L>Endovaskuläre Implantation von Stent-Grafts [gecoverten Stents] in die Aa. iliacae communis und externa</L> sind in diesem Fall zusätzlich zu kodieren.<br>
 <br>
 Folgende Tabelle illustriert die verschiedenen Situationen einer abdominalen Hauptprothese ohne Öffnungen (blau im Schema):
 <br>
-<br>
-{{<insertImage image="FAQCHOP0003Tabelle1.png" class="edge max-w-90">}}
-<br>
-
 {{<insertImage image="FAQCHOP0003Tabelle2.png" class="edge max-w-90">}}
 {{<lineBreak>}}
 <br>
@@ -215,7 +211,7 @@ Beispiel: Am Tag X werden zwei selbstexpandierende Prothesen in den Ösophagus e
 Tag X:
     {{</grid/column>}}
     {{<grid/column>}}
-42.81.41 Einsetzen und Wechsel von zwei selbstexpandierenden Prothesen (permanenter Tubus) in den Ösophagus, endoskopisch
+42.81.41 <l>Einsetzen und Wechsel von zwei selbstexpandierenden Prothesen (permanenter Tubus) in den Ösophagus, endoskopisch</l>
     {{</grid/column>}}
 {{</grid>}}
 
@@ -224,7 +220,7 @@ Tag X:
 Tag Y:
     {{</grid/column>}}
     {{<grid/column>}}
-42.81.40 Einsetzen und Wechsel einer selbstexpandierenden Prothese (permanenter Tubus) in den Ösophagus, endoskopisch
+42.81.40 <l>Einsetzen und Wechsel einer selbstexpandierenden Prothese (permanenter Tubus) in den Ösophagus, endoskopisch</l>
     {{</grid/column>}}
 {{</grid>}}
 <br>
@@ -234,64 +230,64 @@ Folgende Kodes haben keine Unterteilung nach Anzahl der implantierten Stents/Pro
 {{<indent level="4">}}
 
 {{<codeEntry level="1" title="09.83">}}
-Konjunktivozystorhinostomie mit Einsetzen von Tubus oder Stent
+<l>Konjunktivozystorhinostomie mit Einsetzen von Tubus oder Stent</l>
 {{</codeEntry>}}
 
 {{<codeEntry level="1" title="31.93" >}}
-Ersetzen eines Larynx- oder Trachea-Stents 
+<l>Ersetzen eines Larynx- oder Trachea-Stents</l>
 {{</codeEntry>}}
 
 {{<codeEntry level="1" title="31.96" >}}
-Einsetzen eines Larynx- oder Trachea-Stents
+<l>Einsetzen eines Larynx- oder Trachea-Stents</l>
 {{</codeEntry>}}
 
 {{<codeEntry level="1" title="33.91.2-" >}}
-Bronchusdilatation, endoskopisch, mit Einlegen oder Wechsel eines Stents/Stent-Grafts 
+<l>Bronchusdilatation, endoskopisch, mit Einlegen oder Wechsel eines Stents/Stent-Grafts</l>
 {{</codeEntry>}}
 
 {{<codeEntry level="1" title="44.99.5-" >}}
-Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Magen 
+<l>Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Magen</l>
 {{</codeEntry>}}
 
 {{<codeEntry level="1" title="44.99.6-" >}}
-Einlegen oder Wechsel einer selbstexpandierenden Prothese am Magen
+<l>Einlegen oder Wechsel einer selbstexpandierenden Prothese am Magen</l>
 {{</codeEntry>}}
 
 {{<codeEntry level="1" title="46.99.5-" >}}
-Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Darm
+<l>Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Darm</l>
 {{</codeEntry>}}
 
 {{<codeEntry level="1" title="46.99.6-" >}}
-Einlegen oder Wechsel einer selbstexpandierenden Prothese am Darm
+<l>Einlegen oder Wechsel einer selbstexpandierenden Prothese am Darm</l>
 {{</codeEntry>}}
 
 
-{{<codeEntry level="1" title="48.99.50 " >}}
-Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese im Rektum
+{{<codeEntry level="1" title="48.99.50" >}}
+<l>Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese im Rektum</l>
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="48.99.60 " >}}
-Einlegen oder Wechsel einer selbstexpandierenden Prothese im Rektum
+{{<codeEntry level="1" title="48.99.60" >}}
+<l>Einlegen oder Wechsel einer selbstexpandierenden Prothese im Rektum</l>
 {{</codeEntry>}}
 
 {{<codeEntry level="1" title="52.93.- " >}}
-Endoskopische Einlage, Wechsel oder Entfernen von Stent [Prothese] in den Ductus pancreaticus
+<l>Endoskopische Einlage, Wechsel oder Entfernen von Stent [Prothese] in den Ductus pancreaticus</l>
 {{</codeEntry>}}
 
 {{<codeEntry level="1" title="52.95.4-" >}}
-Einlage oder Wechsel eines nicht selbstexpandierenden Stents [Prothese] in den Pankreasgang, offen chirurgisch oder laparoskopisch
+<l>Einlage oder Wechsel eines nicht selbstexpandierenden Stents [Prothese] in den Pankreasgang, offen chirurgisch oder laparoskopisch</l>
 {{</codeEntry>}}
 
 {{<codeEntry level="1" title="52.95.5- " >}}
-Einlage oder Wechsel eines selbstexpandierenden Stents [Prothese] in den Pankreasgang, offen chirurgisch oder laparoskopisch
+<l>Einlage oder Wechsel eines selbstexpandierenden Stents [Prothese] in den Pankreasgang, offen chirurgisch oder laparoskopisch</l>
 {{</codeEntry>}}
 
 {{<codeEntry level="1" title="58.99.10" >}}
-Sonstige Operationen an Urethra und Periurethralgewebe, Einlegen und Wechsel eines Stents in die Urethra
+<l>Sonstige Operationen an Urethra und Periurethralgewebe, Einlegen und Wechsel eines Stents in die Urethra</l>
 {{</codeEntry>}}
 
 {{<codeEntry level="1" title="60.99.31" >}}
-Einlegen eines Stents in die prostatische Harnröhre
+<l>Einlegen eines Stents in die prostatische Harnröhre</l>
 {{</codeEntry>}}
 
 {{</indent>}}
@@ -396,7 +392,7 @@ Kodierung:
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Gefässverschlusskörper / Embolie-Protektionssysteme/<br> gefässverschliessende Operationen/Interventionen</td>
+    <td style="border: 1px solid black;">Gefässverschlusskörper / Embolie-Protektionssysteme / gefässverschliessende Operationen / Interventionen</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Erstellt</th>
@@ -691,8 +687,8 @@ Ausnahme: Es bestehen CHOP-Kodes, bei denen im Beachte angegeben ist, dass die g
 </table>
 
 <b>Problem/Erläuterung:</b><br>
-Unter den Elementegruppen 99.84.1- <L>Kontaktisolierung, nach Anzahl Behandlungstage,</L> 
-99.84.2- <L>Tröpfchenisolierung, […]</L> und 99.84.3- <L>Aerosolisolierung, […]</L> ist folgendes «Exklusivum – Kode weglassen» angegeben: 
+Unter den Elementegruppen 99.84.1- <l>Kontaktisolierung, nach Anzahl Behandlungstage,</l> 
+99.84.2- <l>Tröpfchenisolierung, […]</l> und 99.84.3- <l>Aerosolisolierung, […]</l> ist folgendes «Exklusivum – Kode weglassen» angegeben: 
 <br>
 <br>
 {{<grid class="ps-0">}}
@@ -857,7 +853,7 @@ Die **alleinige** Erfassung des Glasgow Coma Scale (GCS) ist für den klinisch n
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Massnahmen Komplexdiagnostiken /<br> Komplexbehandlungen, Therapiebereiche /<br> Mindestmerkmale"</td>
+    <td style="border: 1px solid black;">Massnahmen Komplexdiagnostiken / Komplexbehandlungen, Therapiebereiche / Mindestmerkmale"</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Erstellt</th>
@@ -884,7 +880,7 @@ Die **alleinige** Erfassung des Glasgow Coma Scale (GCS) ist für den klinisch n
 {{<markdown>}}
 **Problem/Erläuterung:**  
 In den Beachte zu den Komplexbehandlungen oder Komplexdiagnostiken angegebene Auflistungen, die auf Sätze folgen im Sinne von «Einsatz von mindestens x Therapiebereichen» oder «Mindestens x der folgenden Massnahmen», bedeuten, dass mindestens x verschiedene der aufgelisteten Therapiebereiche oder Massnahmen zum Einsatz kommen. Der Einsatz / die Durchführung von x-mal der gleichen Massnahme / des gleichen Therapiebereichs erfüllt die Mindestanforderungen nicht.
-Beispiel: Unter 99.A6.- Neurologische Komplexdiagnostik wird im «Beachte» folgende Auflistung aufgeführt:
+Beispiel: Unter 99.A6.- <l>Neurologische Komplexdiagnostik</l> wird im «Beachte» folgende Auflistung aufgeführt:
 {{</markdown>}}
 <br>
 <br>
@@ -1013,7 +1009,7 @@ Bei einer Fallzusammenführung mit palliativmedizinischer Komplexbehandlung im e
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Interprofessionelle Teambesprechung / palliativmedizinische Komplexbehandlung / palliative care</td>
+    <td style="border: 1px solid black;">Interprofessionelle Teambesprechung / palliativmedizinische Komplexbehandlung / Palliative care</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Erstellt</th>
@@ -1040,15 +1036,12 @@ Bei einer Fallzusammenführung mit palliativmedizinischer Komplexbehandlung im e
 Folgende Fragestellungen und Erläuterungen beziehen sich auf die Elementegruppe 93.8A.2- <I>Palliativmedizinische Komplexbehandlung (ausserhalb einer eigenständigen spezialisierten Palliative Care Station), nach Anzahl Behandlungstage</I> und die Subkategorie 93.8B.- <I>Behandlung auf einer eigenständigen spezialisierten Palliative Care Station</I>.
 <br>
 <br>
-<br>
 <b>Fragestellung Nr. 1:</b><br>  
 In Bezug auf Mindestmerkmal Punkt 3, _Behandlungsteam und Therapie_ der 93.8A.2- und _Mindestmerkmal Punkt 3_, Therapie sowie _Mindestmerkmal_ Punkt 4, Behandlungsteam der 93.8B.-: Welche Therapiebereiche gibt es und was wird zu den 6 Stunden gezählt?
 <br>
 <br>
-<br>
 <b>Erläuterung Nr. 1:</b><br>  
 Die Aufzählung der Therapiebereiche (Sozialarbeit/-pädagogik, Psychologie, Physiotherapie, Ergotherapie, Logopädie, Ernährungsberatung/-therapie, Seelsorge, Kunsttherapie) ist sowohl für 93.8A.2- als für 93.8B.- abschliessend. 
-<br>
 <br>
 <br>  
 Grundvoraussetzung für die Kodierung ist die Dokumentation der Gespräche und Therapien. Die Art der Therapie, deren Dauer und das Datum der Durchführung müssen von allen beteiligten Berufsgruppen nachvollziehbar dokumentiert sein.<br>
@@ -1096,11 +1089,11 @@ Bei der «interprofessionellen Visite» ist unter «interprofessionell» zu vers
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Interprofessionelle Teambesprechung / palliativmedizinische Komplexbehandlung / palliative care</td>
+    <td style="border: 1px solid black;">SENS / palliativmedizinisches Basisassessment / ESAS</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Erstellt</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0754/2, 0754/3, 0754/4</td>
+    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0754/1</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aktualisiert</th>
@@ -1112,7 +1105,7 @@ Bei der «interprofessionellen Visite» ist unter «interprofessionell» zu vers
   </tr>
   <tr>
     <th style="border: 1px solid black;">CHOP</th>
-    <td style="border: 1px solid black;">93.8A.2- / 93.8B.-</td>
+    <td style="border: 1px solid black;">93.8A.12 / 93.8A.2- / 93.8B.-</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Kodierregel</th>
@@ -1264,9 +1257,9 @@ Bei z. B. vorbestehender Spondylodese L2 – L4 und aktuell Neufusion der Segmen
 
 <b>Problem/Erläuterung:</b>
 <br>
-Der Kode 7A.A2 Implantation von mitwachsenden oder expandierenden Systemen, Wirbelsäule ist ein Zusatzkode und kann daher nicht allein kodiert werden. 
+Der Kode 7A.A2 <i>Implantation von mitwachsenden oder expandierenden Systemen, Wirbelsäule</i> ist ein Zusatzkode und kann daher nicht allein kodiert werden. 
 <br>
-Beim Eingriff handelt es sich um eine <b>dynamische Stabilisierung der Wirbelsäule</b>, die mit <b><L>7A.72.1- Dynamische Stabilisierung der Wirbelsäule, Zugang dorsal und dorsolateral</b></L> erfasst wird.<br>
+Beim Eingriff handelt es sich um eine <b>dynamische Stabilisierung der Wirbelsäule</b>, die mit <b><L>7A.72.1- <i>Dynamische Stabilisierung der Wirbelsäule, Zugang dorsal und dorsolateral</i></b></L> erfasst wird.<br>
 Zur Zählung der behandelten Segmente werden nur die Segmente, an denen das System befestigt wird, berücksichtigt. 
 
 <br>  
@@ -1286,7 +1279,7 @@ Zur Zählung der behandelten Segmente werden nur die Segmente, an denen das Syst
   </tr>
   <tr>
     <th style="border: 1px solid black;">Erstellt</th>
-    <td style="border: 1px solid black;">Stabilisierung / Stellungskorrektur der Wirbelsäule / Zugang dorsal und/ oder dorsolateral / ventral, Zählung Segmente</td>
+    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0766</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aktualisiert</th>
@@ -1333,7 +1326,7 @@ Im Beispiel der folgenden Abbildung erfolgte eine Spondylodese über sechs Wirbe
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Fusion Wirbelsäule / Instrumentierung / <br>Knochenanlagerung, Knochentransplantation,<br> Knochenersatz an der Wirbelsäule,<br> stabilisierende Massnahmen</td>
+    <td style="border: 1px solid black;">Fusion Wirbelsäule / Instrumentierung / Knochenanlagerung, Knochentransplantation, Knochenersatz an der Wirbelsäule, stabilisierende Massnahmen</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Erstellt</th>
@@ -1358,7 +1351,7 @@ Im Beispiel der folgenden Abbildung erfolgte eine Spondylodese über sechs Wirbe
 </table>
 
 <b>Problem/Erläuterung:</b> <br>
-Der Kode <b>7A.71.-</b> <I>Fusion von Wirbeln mit Stabilisierung der Wirbelsäule</I> ist anzuwenden, wenn eine <b>Wirbelfusion/ Versteifung</b> mit Stabilisierung durchgeführt wird, die zusätzlich eines der folgenden Merkmale erfüllt:<br>
+Der Kode <b>7A.71.-</b> <I>Fusion von Wirbeln mit Stabilisierung der Wirbelsäule</I> ist anzuwenden, wenn eine <b>Wirbelfusion / Versteifung</b> mit Stabilisierung durchgeführt wird, die zusätzlich eines der folgenden Merkmale erfüllt:<br>
 
 <body>
     <ul>
@@ -1383,8 +1376,7 @@ Es liegt keine <b>potenzielle Bewegungserhaltung</b> im betroffenen Segment vor.
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Knöcherne Fusion Wirbelsäule ohne <br>Instrumentierung / Knochentransplantation,<br> Knochentransposition,<br> 
-Knochenersatz an der Wirbelsäule
+    <td style="border: 1px solid black;">Knöcherne Fusion Wirbelsäule ohne Instrumentierung / Knochentransplantation, Knochentransposition, Knochenersatz an der Wirbelsäule
 
 </td>
   </tr>
