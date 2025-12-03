@@ -49,7 +49,7 @@ keywords: []
 </table>
 
 <b>Problem/Erläuterung:</b></br>
-Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Methode mit einem präzisen Kode aus Kapitel 7 <font color="green">"Operationen am kardiovaskulären System"</font> abgebildet. Gibt es einen präzisen Kode, wird 39.99.21 <I>Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen</I>nicht kodiert. 
+Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Methode mit einem präzisen Kode aus Kapitel 7 <font  color="green">"Operationen am kardiovaskulären System"</font> abgebildet. Gibt es einen präzisen Kode, wird 39.99.21 <i>Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen</i>nicht kodiert. 
 <br>  
 <br>
 
@@ -90,9 +90,9 @@ Eine perkutan-transluminale Thrombektomie an Lungengefässen mittels Thrombusent
 <br>
 <body>
     <ul>
-        <li>39.75.17 <I>Perkutan-transluminale Thrombektomie, sonstige Gefässe</I></li>
-        <li>00.4B.13 <I>PTKI an Lungengefässen</I></li>
-        <li>Zutreffende Zusatzkodes der Elementegruppe 00.4F.2- <I>Einsatz von kathetergeführten Thrombus- und Fremdkörperentfernungs-Systemen, nach Anzahl Systeme</I></li>
+        <li>39.75.17 <i>Perkutan-transluminale Thrombektomie, sonstige Gefässe</i></li>
+        <li>00.4B.13 <i>PTKI an Lungengefässen</i></li>
+        <li>Zutreffende Zusatzkodes der Elementegruppe 00.4F.2- <i>Einsatz von kathetergeführten Thrombus- und Fremdkörperentfernungs-Systemen, nach Anzahl Systeme</i></li>
     </ul>
 </body>
 (Je nach Fall sind weitere CHOP-Kodes zu berücksichtigen.)<br>  
@@ -198,9 +198,9 @@ Folgende Tabelle illustriert die verschiedenen Situationen einer abdominalen Hau
 <b>Problem/Erläuterung:</b><br>
 Folgende Kodes haben eine Unterteilung nach Anzahl der implantierten Stents/Prothesen. [
 {{<indent level="4">}}
-42.81.- <I>Einsetzen eines permanenten Tubus in den Ösophagus</I><br>
-51.87.- <I>Endoskopische Einlage oder Wechsel von Stent in den Gallengang</I><br>
-51.9A.- <I>Einlage oder Wechsel von Stent in den Gallengang</I><br>
+42.81.- <i>Einsetzen eines permanenten Tubus in den Ösophagus</i><br>
+51.87.- <i>Endoskopische Einlage oder Wechsel von Stent in den Gallengang</i><br>
+51.9A.- <i>Einlage oder Wechsel von Stent in den Gallengang</i><br>
 {{</indent>}}
 Je Eingriff ist der Kode mit der entsprechenden Anzahl von eingesetzten Stents/Prothesen auszuwählen und einmal pro Eingriff zu erfassen.
 <br>  <br>  
@@ -212,7 +212,7 @@ Beispiel: Am Tag X werden zwei selbstexpandierende Prothesen in den Ösophagus e
 Tag X:
     {{</grid/column>}}
     {{<grid/column>}}
-42.81.41 <l>Einsetzen und Wechsel von zwei selbstexpandierenden Prothesen (permanenter Tubus) in den Ösophagus, endoskopisch</l>
+42.81.41 <i>Einsetzen und Wechsel von zwei selbstexpandierenden Prothesen (permanenter Tubus) in den Ösophagus, endoskopisch</l>
     {{</grid/column>}}
 {{</grid>}}
 
@@ -221,7 +221,7 @@ Tag X:
 Tag Y:
     {{</grid/column>}}
     {{<grid/column>}}
-42.81.40 <l>Einsetzen und Wechsel einer selbstexpandierenden Prothese (permanenter Tubus) in den Ösophagus, endoskopisch</l>
+42.81.40 <i>Einsetzen und Wechsel einer selbstexpandierenden Prothese (permanenter Tubus) in den Ösophagus, endoskopisch</l>
     {{</grid/column>}}
 {{</grid>}}
 <br>
@@ -231,64 +231,64 @@ Folgende Kodes haben keine Unterteilung nach Anzahl der implantierten Stents/Pro
 {{<indent level="4">}}
 
 {{<codeEntry level="1" title="09.83">}}
-<l>Konjunktivozystorhinostomie mit Einsetzen von Tubus oder Stent</l>
+<i>Konjunktivozystorhinostomie mit Einsetzen von Tubus oder Stent</i>
 {{</codeEntry>}}
 
 {{<codeEntry level="1" title="31.93">}}
-<l>Ersetzen eines Larynx- oder Trachea-Stents</l>
+<i>Ersetzen eines Larynx- oder Trachea-Stents</i>
 {{</codeEntry>}}
 
 {{<codeEntry level="1" title="31.96">}}
-<l>Einsetzen eines Larynx- oder Trachea-Stents</l>
+<i>Einsetzen eines Larynx- oder Trachea-Stents</i>
 {{</codeEntry>}}
 
 {{<codeEntry level="1" title="33.91.2-">}}
-<l>Bronchusdilatation, endoskopisch, mit Einlegen oder Wechsel eines Stents/Stent-Grafts</l>
+<i>Bronchusdilatation, endoskopisch, mit Einlegen oder Wechsel eines Stents/Stent-Grafts</i>
 {{</codeEntry>}}
 
 {{<codeEntry level="1" title="44.99.5-">}}
-<l>Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Magen</l>
+<i>Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Magen</i>
 {{</codeEntry>}}
 
 {{<codeEntry level="1" title="44.99.6-">}}
-<l>Einlegen oder Wechsel einer selbstexpandierenden Prothese am Magen</l>
+<i>Einlegen oder Wechsel einer selbstexpandierenden Prothese am Magen</i>
 {{</codeEntry>}}
 
 {{<codeEntry level="1" title="46.99.5-">}}
-<l>Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Darm</l>
+<i>Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Darm</i>
 {{</codeEntry>}}
 
 {{<codeEntry level="1" title="46.99.6-">}}
-<l>Einlegen oder Wechsel einer selbstexpandierenden Prothese am Darm</l>
+<i>Einlegen oder Wechsel einer selbstexpandierenden Prothese am Darm</i>
 {{</codeEntry>}}
 
 
 {{<codeEntry level="1" title="48.99.50">}}
-<l>Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese im Rektum</l>
+<i>Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese im Rektum</i>
 {{</codeEntry>}}
 
 {{<codeEntry level="1" title="48.99.60">}}
-<l>Einlegen oder Wechsel einer selbstexpandierenden Prothese im Rektum</l>
+<i>Einlegen oder Wechsel einer selbstexpandierenden Prothese im Rektum</i>
 {{</codeEntry>}}
 
 {{<codeEntry level="1" title="52.93.- ">}}
-<l>Endoskopische Einlage, Wechsel oder Entfernen von Stent [Prothese] in den Ductus pancreaticus</l>
+<i>Endoskopische Einlage, Wechsel oder Entfernen von Stent [Prothese] in den Ductus pancreaticus</i>
 {{</codeEntry>}}
 
 {{<codeEntry level="1" title="52.95.4-">}}
-<l>Einlage oder Wechsel eines nicht selbstexpandierenden Stents [Prothese] in den Pankreasgang, offen chirurgisch oder laparoskopisch</l>
+<i>Einlage oder Wechsel eines nicht selbstexpandierenden Stents [Prothese] in den Pankreasgang, offen chirurgisch oder laparoskopisch</i>
 {{</codeEntry>}}
 
 {{<codeEntry level="1" title="52.95.5- ">}}
-<l>Einlage oder Wechsel eines selbstexpandierenden Stents [Prothese] in den Pankreasgang, offen chirurgisch oder laparoskopisch</l>
+<i>Einlage oder Wechsel eines selbstexpandierenden Stents [Prothese] in den Pankreasgang, offen chirurgisch oder laparoskopisch</i>
 {{</codeEntry>}}
 
 {{<codeEntry level="1" title="58.99.10">}}
-<l>Sonstige Operationen an Urethra und Periurethralgewebe, Einlegen und Wechsel eines Stents in die Urethra</l>
+<i>Sonstige Operationen an Urethra und Periurethralgewebe, Einlegen und Wechsel eines Stents in die Urethra</i>
 {{</codeEntry>}}
 
 {{<codeEntry level="1" title="60.99.31">}}
-<l>Einlegen eines Stents in die prostatische Harnröhre</l>
+<i>Einlegen eines Stents in die prostatische Harnröhre</i>
 {{</codeEntry>}}
 
 {{</indent>}}
@@ -305,7 +305,7 @@ Kodierung:
 Tag X:
     {{</grid/column>}}
     {{<grid/column>}}
-46.99.51 <I>Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Darm, offen chirurgisch wird</I><b> zweimal</b> kodiert.
+46.99.51 <i>Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Darm, offen chirurgisch wird</i><b> zweimal</b> kodiert.
     {{</grid/column>}}
 {{</grid>}}
 {{<grid class="ps-0">}}
@@ -313,8 +313,8 @@ Tag X:
 Tag Y:
     {{</grid/column>}}
     {{<grid/column>}}
-46.99.71 <I>Entfernen einer Prothese am Darm, offen chirurgisch</I> wird <b>zweimal</b> kodiert.<br>
-46.99.61 <I>Einlegen oder Wechsel einer selbstexpandierenden Prothese am Darm, offen chirurgisch</I> wird <b>einmal</b> erfasst.
+46.99.71 <i>Entfernen einer Prothese am Darm, offen chirurgisch</i> wird <b>zweimal</b> kodiert.<br>
+46.99.61 <i>Einlegen oder Wechsel einer selbstexpandierenden Prothese am Darm, offen chirurgisch</i> wird <b>einmal</b> erfasst.
     {{</grid/column>}}
 {{</grid>}}
 <br>  
@@ -377,9 +377,9 @@ Zwei medikamentenfreisetzende Stents werden perkutan-transluminal implantiert, d
 <br><br>
 Kodierung:
 <br>
-<I>36.08.22  Implantation perkutan-transluminal von Stents mit Medikamentenfreisetzung, in mehreren Koronararterien</I><br>
-<I>36.08.22  Implantation perkutan-transluminal von Stents mit Medikamentenfreisetzung, in mehreren Koronararterien</I><br>
-<I>36.08.11  Implantation perkutan-transluminal von Stents ohne Medikamentenfreisetzung, in einer Koronararterie</I><br>
+<i>36.08.22  Implantation perkutan-transluminal von Stents mit Medikamentenfreisetzung, in mehreren Koronararterien</i><br>
+<i>36.08.22  Implantation perkutan-transluminal von Stents mit Medikamentenfreisetzung, in mehreren Koronararterien</i><br>
+<i>36.08.11  Implantation perkutan-transluminal von Stents ohne Medikamentenfreisetzung, in einer Koronararterie</i><br>
 <br>  
 <br>
 
@@ -422,17 +422,17 @@ Kodierung:
 {{</markdown>}}
 <br>
 <u>Gefässverschliessende Operationen</u><br>
-    In der CHOP existieren Kodes für gefässverschliessende Operationen/Interventionen, die s.g. Embolisationen mit Coils, Plugs, Schirmen usw., z. B. 39.79.2- <I>Coil-Embolisation oder -Verschluss von sonstigen Gefässen</I>, <I>39.79.5- Selektive Embolisation von sonstigen Gefässen mit Schirmen</I> oder 39.79.A- <I>Selektive Embolisation von sonstigen Gefässen mit Plugs</I> usw. 
+    In der CHOP existieren Kodes für gefässverschliessende Operationen/Interventionen, die s.g. Embolisationen mit Coils, Plugs, Schirmen usw., z. B. 39.79.2- <i>Coil-Embolisation oder -Verschluss von sonstigen Gefässen</i>, <i>39.79.5- Selektive Embolisation von sonstigen Gefässen mit Schirmen</i> oder 39.79.A- <i>Selektive Embolisation von sonstigen Gefässen mit Plugs</i> usw. 
 <br><br>
-Des Weiteren stehen die Zusatzkodes aus der Subkategorie 00.4A.- <I>Anzahl verwendeter endovaskulärer Coils</I> und 00.4G.- <I>Einsetzen von Gefässverschlusskörpern</I> zur Verfügung. 
+Des Weiteren stehen die Zusatzkodes aus der Subkategorie 00.4A.- <i>Anzahl verwendeter endovaskulärer Coils</i> und 00.4G.- <i>Einsetzen von Gefässverschlusskörpern</i> zur Verfügung. 
 <br><br>
-Die Zusatzkodes der Elementegruppen von 00.4G.2- bis 00.4G.6-<I> Eingesetzte vaskuläre Schirme in [...], nach Anzahl</I>, gelten nur für die Abbildung der verwendeten Devices im Kontext von gefässverschliessenden Operationen/Interventionen (z. B. selektive Embolisationen) als Zusatzkodes. 
+Die Zusatzkodes der Elementegruppen von 00.4G.2- bis 00.4G.6-<i> Eingesetzte vaskuläre Schirme in [...], nach Anzahl</i>, gelten nur für die Abbildung der verwendeten Devices im Kontext von gefässverschliessenden Operationen/Interventionen (z. B. selektive Embolisationen) als Zusatzkodes. 
 Die Kodes unter 00.4G.- sind für Embolie-Protektionssysteme nicht zu verwenden. 
 <br><br>
 <u>Embolie-Protektionssysteme</u><br>
-Der Zusatzkode 39.E1 <I>Verwendung eines Embolie-Protektionssystems</I> ermöglicht die Erfassung von periinterventionellen Embolie-Protektionssystemen. 
+Der Zusatzkode 39.E1 <i>Verwendung eines Embolie-Protektionssystems</i> ermöglicht die Erfassung von periinterventionellen Embolie-Protektionssystemen. 
 <br><br>
-Die Kodes 38.7X.11 <I>Einsetzen eines Embolie-Protektionssystems in die Vena cava, offen chirurgisch</I>, 38.7X.21 <I>Einsetzen eines Embolie-Protektionssystems in die Vena cava, perkutan-transluminal</I>, <I>39.75.13 Perkutan-transluminale Gefässintervention, sonstige Gefässe, Embolie-Protektionssystem (periphere oder viszerale Gefässe)</I> stellen permanente Systeme dar.
+Die Kodes 38.7X.11 <i>Einsetzen eines Embolie-Protektionssystems in die Vena cava, offen chirurgisch</i>, 38.7X.21 <i>Einsetzen eines Embolie-Protektionssystems in die Vena cava, perkutan-transluminal</i>, <i>39.75.13 Perkutan-transluminale Gefässintervention, sonstige Gefässe, Embolie-Protektionssystem (periphere oder viszerale Gefässe)</i> stellen permanente Systeme dar.
 <br>  
 <br>
   
@@ -474,12 +474,12 @@ Die Kodes 38.7X.11 <I>Einsetzen eines Embolie-Protektionssystems in die Vena cav
 Folgende Kodes der Subkategorie 51.99.- Sonstige Operationen an den Gallenwegen sind nur für offen chirurgische oder laparoskopische Eingriffe abzubilden:
 <body>
     <ul>
-        <li>51.99.00 <I>n.n.bez.</I> und 51.99.99 <I>sonstige</I></li>
-        <li>51.99.11 <I>Destruktion an den Gallengängen</I></li>
-        <li>51.99.12 <I>Einlage einer Drainage in den Gallengang</I></li>
-        <li>51.99.13 <I>Blutstillung an den Gallengängen</I></li>
-        <li>51.99.14 <I>Revision an den Gallengängen</I></li>
-        <li>51.99.91 <I>Sonstige Rekonstruktion der Gallenwegen</I></li>
+        <li>51.99.00 <i>n.n.bez.</i> und 51.99.99 <i>sonstige</i></li>
+        <li>51.99.11 <i>Destruktion an den Gallengängen</i></li>
+        <li>51.99.12 <i>Einlage einer Drainage in den Gallengang</Ii></li>
+        <li>51.99.13 <i>Blutstillung an den Gallengängen</i></li>
+        <li>51.99.14 <i>Revision an den Gallengängen</i></li>
+        <li>51.99.91 <i>Sonstige Rekonstruktion der Gallenwegen</i></li>
     </ul>
 </body>
 Der Kode 51.99.90 Sonstige endoskopische Operationen an den Gallenwegen, wie im Titel angegeben, ist nur für endoskopische Interventionen zu erfassen.
@@ -523,9 +523,9 @@ Der Kode 51.99.90 Sonstige endoskopische Operationen an den Gallenwegen, wie im 
 <b>Problem/Erläuterung:</b><br>
 Wird eine bestehende Knieendoprothese, unabhängig vom Typ, durch eine andere Knieendoprothese ersetzt, ist für die Implantation der Kode mit der Bezeichnung «bei einem Prothesenwechsel» zu wählen. 
 <br><br>
-Z. B. Explantation einer Hemiendoprothese und Implantation einer Totalendoprothese am gleichen Knie: für die Implantation muss der Kode 81.54.31 <I>Implantation einer Standard-Totalendoprothese des Kniegelenks bei einem Prothesenwechsel</I> erfasst werden und <b>nicht</b> der Kode 81.54.21 <I>Erstimplantation einer Standard-Totalendoprothese des Kniegelenks</I>.
+Z. B. Explantation einer Hemiendoprothese und Implantation einer Totalendoprothese am gleichen Knie: für die Implantation muss der Kode 81.54.31 <i>Implantation einer Standard-Totalendoprothese des Kniegelenks bei einem Prothesenwechsel</i> erfasst werden und <b>nicht</b> der Kode 81.54.21 <i>Erstimplantation einer Standard-Totalendoprothese des Kniegelenks</i>.
 <br><br>
-Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückflächenersatz eingesetzt, muss der Kode 81.54.42 <I>Implantation eines Patella-Rückflächenersatz bei einem Wechsel</I> erfasst werden und <b>nicht</b> der Kode 81.54.27 <I>Erstimplantation eines Patella-Rückflächenersatzes</I>.
+Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückflächenersatz eingesetzt, muss der Kode 81.54.42 <i>Implantation eines Patella-Rückflächenersatz bei einem Wechsel</i> erfasst werden und <b>nicht</b> der Kode 81.54.27 <i>Erstimplantation eines Patella-Rückflächenersatzes</i>.
 <br>
 <br>
 
@@ -1034,7 +1034,7 @@ Bei einer Fallzusammenführung mit palliativmedizinischer Komplexbehandlung im e
   </tr>
 </table>
 
-Folgende Fragestellungen und Erläuterungen beziehen sich auf die Elementegruppe 93.8A.2- <I>Palliativmedizinische Komplexbehandlung (ausserhalb einer eigenständigen spezialisierten Palliative Care Station), nach Anzahl Behandlungstage</I> und die Subkategorie 93.8B.- <I>Behandlung auf einer eigenständigen spezialisierten Palliative Care Station</I>.
+Folgende Fragestellungen und Erläuterungen beziehen sich auf die Elementegruppe 93.8A.2- <i>Palliativmedizinische Komplexbehandlung (ausserhalb einer eigenständigen spezialisierten Palliative Care Station), nach Anzahl Behandlungstage</i> und die Subkategorie 93.8B.- <i>Behandlung auf einer eigenständigen spezialisierten Palliative Care Station</i>.
 <br>
 <br>
 <b>Fragestellung Nr. 1:</b><br>  
@@ -1352,7 +1352,7 @@ Im Beispiel der folgenden Abbildung erfolgte eine Spondylodese über sechs Wirbe
 </table>
 
 <b>Problem/Erläuterung:</b> <br>
-Der Kode <b>7A.71.-</b> <I>Fusion von Wirbeln mit Stabilisierung der Wirbelsäule</I> ist anzuwenden, wenn eine <b>Wirbelfusion / Versteifung</b> mit Stabilisierung durchgeführt wird, die zusätzlich eines der folgenden Merkmale erfüllt:<br>
+Der Kode <b>7A.71.-</b> <i>Fusion von Wirbeln mit Stabilisierung der Wirbelsäule</i> ist anzuwenden, wenn eine <b>Wirbelfusion / Versteifung</b> mit Stabilisierung durchgeführt wird, die zusätzlich eines der folgenden Merkmale erfüllt:<br>
 
 <body>
     <ul>
