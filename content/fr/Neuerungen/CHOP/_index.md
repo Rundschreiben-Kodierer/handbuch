@@ -285,7 +285,8 @@ Auparavant, au chapitre 3, Informations complémentaires à la CHOP, dans le fic
 *Court texte introductif au sous-registre.*
 <p class="MsoNormal" style="margin-bottom: 0cm;"><strong><span lang="DE-CH" style="mso-fareast-language: DE-CH;">NN.NN.NN<span style="mso-tab-count: 1;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Titre du code<br></span></strong><span lang="DE-CH" style="mso-fareast-language: DE-CH;"><span style="mso-tab-count: 2;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;</span><span style="color: #00b050;">Nouvelle description complémentaire<span style="mso-tab-count: 1;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="mso-tab-count: 1;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></p>
 <p class="MsoNormal" style="text-indent: 36.0pt; margin: 0cm 0cm 0cm 36.0pt;"><span lang="DE-CH" style="mso-fareast-language: DE-CH;">&nbsp; &nbsp; &nbsp; &nbsp;Excl. Texte de l’exclusion <s><span style="color: red;">Texte à supprimer de l’exclusion</span></s><span style="color: red;"> </span>(MM.MM.-)</span></p>
-Dans le tableau, cela est indiqué comme suit. Le tableau contient la comparaison des corrections dans les trois langues. Seul l'extrait correspondant à la version française est reproduit ici.
+Dans le tableau, cela est indiqué comme suit. Le tableau contient la comparaison des corrections dans les trois langues.  
+Seul l'extrait correspondant à la version française est reproduit ici.
 
 <table class="MsoTableGrid" style="width: 956px; border-collapse: collapse; border: none;" border="1" width="840" cellspacing="0" cellpadding="0">
 <tbody>

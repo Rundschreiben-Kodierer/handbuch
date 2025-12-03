@@ -307,7 +307,8 @@ Zuvor wurde im Kapitel 3, Zusatzinformationen zur CHOP, in der PDF-Datei des Run
 *Kurzer einführender Text zum Unterregister.*
 <p class="MsoNormal" style="margin-bottom: 0cm;"><strong><span lang="DE-CH" style="mso-fareast-language: DE-CH;">NN.NN.NN<span style="mso-tab-count: 1;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Kode-Titel<br></span></strong><span lang="DE-CH" style="mso-fareast-language: DE-CH;"><span style="mso-tab-count: 2;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;</span><span style="color: #00b050;">Neue erg&auml;nzende Beschreibung<span style="mso-tab-count: 1;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="mso-tab-count: 1;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></p>
 <p class="MsoNormal" style="text-indent: 36.0pt; margin: 0cm 0cm 0cm 36.0pt;"><span lang="DE-CH" style="mso-fareast-language: DE-CH;">&nbsp; &nbsp; &nbsp; &nbsp;Exkl. Text des Exklusivum <s><span style="color: red;">zu l&ouml;schender Text im Exklusivum</span></s><span style="color: red;"> </span>(MM.MM.-)</span></p>
-In der Tabelle wird dies wie folgt angegeben. Die Tabelle enthält die Gegenüberstellung der Korrektur in den drei Sprachen. Hier wird nur der Auszug für die deutschsprachige Version wiedergegeben. 
+In der Tabelle wird dies wie folgt angegeben. Die Tabelle enthält die Gegenüberstellung der Korrektur in den drei Sprachen.  
+Hier wird nur der Auszug für die deutschsprachige Version wiedergegeben. 
 <table class="MsoTableGrid" style="width: 1036px; border-collapse: collapse; border: none;" border="1" width="856" cellspacing="0" cellpadding="0">
 <tbody>
 <tr style="mso-yfti-irow: 0; mso-yfti-firstrow: yes; height: 53.8pt;">
