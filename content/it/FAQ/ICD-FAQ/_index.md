@@ -70,12 +70,12 @@ La mancanza di ventilazione di parti del polmone (segmenti polmonari, lobi polmo
 
 
 
-{{<article number="0002"  title="ICD - Endoleak" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0002"  title="ICD – Endoleak" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Parola chiave:</th>
-    <td style="border: 1px solid black;">Einteilung Endoleaks</td>
+    <td style="border: 1px solid black;">Classificazione delle perdite endoluminali</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Creato:</th>
@@ -100,36 +100,36 @@ La mancanza di ventilazione di parti del polmone (segmenti polmonari, lobi polmo
 </table>
 
 {{<markdown>}}
-**Fragestellung:**  
-Wie wird ein Endoleak nach endovaskulärer Versorgung (EVAR) eines Aortenaneurysmas abgebildet werden?
+**Domanda:**  
+Come viene rappresentato un endoleak dopo un trattamento endovascolare (EVAR) di un aneurisma aortico?
   
-**Problem/Erläuterung:**  
-Ein Endoleak ist ein Leck zwischen der Gefäßprothese und dem Aneurysmasack nach der endovaskulären Versorgung (EVAR) eines Aortenaneurysmas.  
+**Problema/Spiegazione:**  
+Un endoleak è una perdita tra la protesi vascolare e il sacco aneurismatico dopo un trattamento endovascolare (EVAR) di un aneurisma aortico.    
   
-Ein Endoleak **Typ I** entsteht durch eine unzureichende Abdichtung an der Ansatzstelle des Grafts.
+Un endoleak di **tipo I** è causato da una fissazione a tenuta insufficiente nel punto di attacco dell'innesto.
   
-Beim Endoleak **Typ II** wird der Aneurysmasack durch einen Seitenast mit Blut gefüllt. Man unterscheidet zwischen: 
-**Typ IIa:** einzelnes zuführendes Blutgefäß 
-**Typ IIb:** mehrere zuführende Blutgefäße
+Nell'endoleak di **tipo II**, il sacco aneurismatico si riempie di sangue attraverso un ramo laterale. Si distingue tra: 
+Tipo IIa: singolo vaso sanguigno afferente 
+Tipo IIb: più vasi sanguigni afferenti
   
-Ein Endoleak **Typ III** entsteht durch mechanisches Versagen des Stentgrafts: 
-**Typ IIIa:** Verbindung zwischen modularen Komponenten gelöst 
-**Typ IIIb:** Bruch oder Löcher im Stentgraft
+Un endoleak di **tipo III** è causato da un guasto meccanico dello stent graft: 
+**Tipo IIIa**: collegamento tra componenti modulari allentato 
+**Tipo IIIb**: rottura o fori nello stent graft
   
-Endoleaks vom **Typ IV** treten auf, wenn aufgrund der Porosität des Transplantats Blut austritt
+Le endoleak di **tipo IV** si verificano quando il sangue fuoriesce a causa della porosità dell'innesto.  
 
-Ein Endoleak **Typ V** wird auch als Endotension bezeichnet. In diesem Fall zeigt sich eine im Verlauf fortgesetzte Expansion des Aneurysmasackes > 5 mm ohne nachweisbare Endoleckage.      
+Un endoleak di **tipo V** è anche denominato endotensione. In questo caso si osserva una continua espansione della sacca dell'aneurisma > 5 mm senza endoleak dimostrabile.      
   
-**Kodierempfehlung:**  
-**Typ 1:** Kode: T82.5 *Mechanische Komplikation durch sonstige Geräte und Implantate im Herzen und in den Gefäßen*,
+**Raccomandazione di codifica:**  
+**Tipo 1**: codice: T82.5 *Complicanza meccanica di altri dispositivi ed impianti cardiaci e vascolar*
   
-**Typ IIa/ IIb:** Kode: I71.- *Aneurysma der Aorta (da keine Komplikation des Grafts)*  
+**Tipo IIa/ IIb**: Codice: I71.- *Aneurisma e dissezione dell’aorta (poiché non si tratta di una complicanza dell'innesto)*
   
-**Typ IIIa/ IIIb:** Kode: T82.5 *Mechanische Komplikation durch sonstige Geräte und Implantate im Herzen und in den Gefäßen.
+**Tipo IIIa/ IIIb**: Codice: T82.5 *Complicanza meccanica di altri dispositivi ed impianti cardiaci e vascolar*
   
-**Typ IV:** Kode: T82.5 *Mechanische Komplikation durch sonstige Geräte und Implantate im Herzen und in den Gefäßen*
+**Tipo IV**: Codice: T82.5 *Complicanza meccanica di altri dispositivi ed impianti cardiaci e vascolar*
   
-**Typ V:** Kode: I71.- *Aneurysma der Aorta (da keine Komplikation des Grafts)*     
+**Tipo V**: Codice: I71.- *Aneurisma e dissezione dell’aorta (poiché non si tratta di una complicanza dell'innesto) *         
 
  
 {{</markdown>}}
@@ -139,12 +139,12 @@ Ein Endoleak **Typ V** wird auch als Endotension bezeichnet. In diesem Fall zeig
 {{</article>}}
 
 
-{{<article number="0003"  title="ICD - Hydatidenzyste, zystische Echinokokkose" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0003"  title="ICD - Cisti idatidea, echinococcosi cistica" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Parola chiave:</th>
-    <td style="border: 1px solid black;">Hydatidenzyste / zystische Echinokokkose</td>
+    <td style="border: 1px solid black;">Cisti idatidea / echinococcosi cistica</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Creato:</th>
@@ -169,20 +169,21 @@ Ein Endoleak **Typ V** wird auch als Endotension bezeichnet. In diesem Fall zeig
 </table>
 
 {{<markdown>}}
-**Fragestellung:**  
-Wie wird eine Hydatidenzyste, zystische Echinokokkose abgebildet?
+**Domanda:**  
+Come viene rappresentata una cisti idatidea, echinococcosi cistica?
   
 **Problem/Erläuterung:**  
-Im alphabetischen ICD -10- GM 2024 wird bei Echinokkose, Leber, zystisch, auf _B67.0† *Echinococcus-granulosus-Infektion [zystische Echinokokkose] der Leber*, mit 
-K77.0* *Leberkrankheiten bei anderenorts klassifizierten infektiösen und parasitären Krankheiten* verwiesen.
+Nell'ICD-10-GM 2024 alfabetico, per l'echinococcosi cistica del fegato, alla voce B67.0† *Infezione del fegato da echinococco granuloso [echinococcosi cistica]*, si rimanda a 
+K77.0* *Disturbi epatici in malattie infettive e parassitarie classificate altrove*.
   
-Bei Echinococcus, Zyste, durch Hydatiden, Leber, verweist der alphabet. Index auf B67.0 *Echinococcus-granulosus-Infektion [zystische Echinokokkose] der Leber*
-In der ICD wird unterschieden zwischen Hydatidenzyste in der Leber mit oder ohne Infektion des umliegenden Lebergewebes
+Per Echinococcus, cisti, da idatidi, fegato, l'indice alfabetico rimanda a B67.0 *Infezione del fegato da echinococco granuloso [echinococcosi cistica]*
+Nell'ICD si distingue tra cisti idatidea nel fegato con o senza infezione del tessuto epatico circostante.
     
-**Kodierempfehlung:**  
-Ist die Hydatidenzyste blande gekapselt, kann ausgeschält werden und liegt keine Entzündung des umliegenden Lebergewebes vor, soll _B67.0 *Echinococcus-granulosus-Infektion [zystische Echinokokkose] der Leber*, kodiert werden. Es wird kein Sterncode erfasst.
+**Raccomandazione di codifica:**  
+se la cisti idatidea è incapsulata in modo netto, può essere asportata scollandola e non è presente infiammazione del tessuto epatico circostante, deve essere codificata B67.0 *Infezione del fegato da echinococco granuloso [echinococcosi cistica]*. Non viene registrato alcun codice asterisco.
   
-Finden sich auch im umliegenden Gewebe Echinokokkusbestandteile und dadurch hervorgerufen eine Entzündungsreaktion, soll _K77.0* *Leberkrankheiten bei anderenorts klassifizierten infektiösen und parasitären Krankheiten zusätzlich* kodiert werden.
+Se nel tessuto circostante sono presenti anche componenti dell'echinococco che provocano una reazione infiammatoria, deve essere codificato anche K77.0* *Disturbi epatici in malattie infettive e parassitarie classificate altrove*.
+
   
 {{</markdown>}}
 <br>  
@@ -191,12 +192,12 @@ Finden sich auch im umliegenden Gewebe Echinokokkusbestandteile und dadurch herv
 
 {{</article>}}
 
-{{<article number="0004"  title="ICD - Stenosen präzerebraler Arterien Carotisstenose bds/ Stenosen ein-oder beidseitiger präzerebraler Arterien" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0004"  title="ICD - Stenosi delle arterie precerebrali Stenosi carotidea bilaterale/stenosi delle arterie precerebrali unilaterali o bilaterali " collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Parola chiave:</th>
-    <td style="border: 1px solid black;">Stenose/n präzerebraler Arterien</td>
+    <td style="border: 1px solid black;">Stenosi delle arterie precerebrali</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Creato:</th>
@@ -220,31 +221,31 @@ Finden sich auch im umliegenden Gewebe Echinokokkusbestandteile und dadurch herv
   </tr>
 </table>
 
-<b>Fragestellung:</b><br>
-Wie wird eine Carotisstenose bds. erfasst? Wie werden ein- oder beidseitige Stenosen präzerebraler Arterien erfasst?
+<b>Domanda:</b><br>
+Come viene registrata una stenosi carotidea bilaterale? Come vengono registrate le stenosi unilaterali o bilaterali delle arterie precerebrali?
 <br><br>
-<b>Problem/Erläuterung:</b><br>
-<b>Erläuterung:</b><br>
-Grundsätzlich gilt: Es ist stets der spezifischste ICD-Kode zu wählen, der die dokumentierte Diagnose am genauesten beschreibt.  
+<b>Problema/Spiegazione:</b><br>
+<b>Spiegazione:</b><br>
+In linea di principio vale quanto segue: occorre sempre scegliere il codice ICD più specifico che descriva con maggiore precisione la diagnosi documentata.
 <body>
     <ul>
-        <li><b>Beidseitiger Verschluss einer einzelnen präzerebralen Arterie</b> (z. B. Arteria carotis) wird mit dem spezifischen Kode <b>I65.-</b> unter Angabe der Lateralität verschlüsselt.<br>
-<b>Beispiel</b>: <I>Beidseitiger Verschluss/Stenose der Arteria carotis → <b>I65.2</b>: Verschluss und Stenose der A. carotis L bds</I>. 
-
+        <li><b>L'occlusione bilaterale di una singola arteria precerebrale</b> (ad es. arteria carotide) viene codificata con il codice specifico <b>I65.-</b> <i>indicando la lateralità.</i>
+<b>Esempio</b> : occlusione/stenosi bilaterale dell'arteria carotide → <b>I65.2:</b> <i>Occlusione e stenosi dell’arteria carotidea.</i> 
 </li>
-        <li><b>Der Verschluss/ die Stenose mehrerer unterschiedlicher präzerebraler Arterien</b> wird mit dem Kode <b>I65.3</b> verschlüsselt:<br>
-<b>Beispiel:</b> <I>Einseitige oder beidseitige Stenose der Arteria vertebralis sowie zusätzlich eine einseitige oder beidseitige Stenose der Arteria carotis interna.→ <b>I65.3</b>Verschluss und Stenose mehrerer und beidseitiger präzerebraler Arterie L = R, L oder B. </I></li>
+        <li><b>L'occlusione/stenosi di più arterie precerebrali diverse</b> viene codificata con il codice <b>I65.3</b>: 
+<b>Esempio:</b><i> stenosi unilaterale o bilaterale dell'arteria vertebrale nonche stenosi unilaterale o bilaterale dell'arteria carotide interna</i>.→ <b>I65.3</b><i> Occlusione e stenosi di arterie extracraniche multiple e bilaterali L = R, L o B.</i>
+</li>
     </ul>
 </body>
 {{</article>}}
 
 
-{{<article number="0005"  title="ICD - Ulcus hypertonicum (Martorell)" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0005"  title="ICD - Ulcera ipertensiva (Martorell)" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Parola chiave:</th>
-    <td style="border: 1px solid black;">Ulcus hypertonicum / Martorell</td>
+    <td style="border: 1px solid black;">Ulcera ipertensiva / Martorell</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Creato:</th>
@@ -269,15 +270,16 @@ Grundsätzlich gilt: Es ist stets der spezifischste ICD-Kode zu wählen, der die
 </table>
 
 {{<markdown>}}
-**Fragestellung:**  
-Wie wird Ulcus (cruris) hypertonicum (Martorell abgebildet)?
+**Domanda:**  
+Come viene rappresentato l'ulcera (della gamba) ipertensiva (Martorell)?
   
-**Problem/Erläuterung:**  
-Beim Ulcus (cruris) hypertonicum handelt es sich um eine spezielle Form des Ulcus cruris, die vorwiegend am laterodorsalen Unterschenkel oder über der Achillessehne auftritt. Die meisten Betroffenen weisen einen markanten, langzeitig bestehenden Hypertonus auf, in ca. 60% der Fälle kombiniert mit einem Diabetes mellitus Typ 2. Zur Ätiologie des Ulcus hypertonicum gibt es drei Erklärungsansätze: die ischämisierende Arteriosklerose, die Mediakalzinose der pathologischen Arteriolen und die lokalen Entzündungsvorgänge. Die Arteriosklerose in der Subkutis steht für die Pathogenese der Hautnekrose dabei im Vordergrund. Auch wenn die Erkrankung pathogenetisch auf eine Arteriosklerose zurückzuführen ist, ist die eigentliche Grundursache die Hypertonie.
+**Problema/Spiegazione:**  
+L'ulcera (della gamba) ipertensiva è una forma speciale di ulcera crurale che si manifesta prevalentemente nella parte laterodorsale della gamba o sopra il tendine di Achille. La maggior parte dei pazienti presenta un ipertonia marcata e di lunga durata, combinata in circa il 60% dei casi con un diabete mellito di tipo 2. Esistono tre spiegazioni per l'eziologia dell'ulcera ipertensiva: l'arteriosclerosi ischemizzante, la calcificazione della tunica media di arteriole patologiche ed i processi infiammatori locali. L'arteriosclerosi nel sottocute è la causa principale della patogenesi della necrosi cutanea. Anche se dal punto di vista patogenetico la malattia è riconducibile all'arteriosclerosi, l’effettiva causa eziogenica è l'ipertensione.
   
-**Kodierempfehlung:**  
-Für das Ulcus hypertonicum (Martorell) empfehlen wir folgende Kodekombination: L97 _Ulcus cruris, anderenorts nicht klassifiziert_ zusammen mit der Kreuz-Stern-Kombination aus dem zutreffenden Kode I10.-† bis I15.-† und L99.8* _Sonstige näher bezeichnete Krankheiten der Haut und der Unterhaut bei anderenorts klassifizierten Krankheiten_. 
-Durch diese Erfassung kann das Ulcus hypertonicum von anderen Ulcus cruris-Arten unterschieden werden.
+**Raccomandazione di codifica:**  
+Per l'ulcera ipertensiva (Martorell) raccomandiamo la seguente combinazione di codici: L97 Ulcera dell’ arto inferiore non classificata altrove insieme alla combinazione croce-stella dal codice applicabile I10.-† a I15.-† e L99.8* *Altri disturbi specificati della cute e del tessuto sottocutaneo in malattie classificate altrove*.
+Questa registrazione consente di distinguere l'ulcera ipertensiva da altri tipi di ulcera crurale.
+
 
  
 {{</markdown>}}
