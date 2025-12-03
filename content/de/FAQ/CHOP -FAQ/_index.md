@@ -140,9 +140,9 @@ Bei den Kodes der Subkategorie 39.71.- <l>Endovaskuläre Implantation von Stent-
 Die Elementegruppe 39.78.5- umfasst drei Zusatzkodes:
 <body>
     <ul>
-        <li>39.78.51 <I>Ende des untersten Stent-Grafts [gecoverten Stents], aortal</I></li>
-        <li>39.78.52 <I>Ende des untersten Stent-Grafts [gecoverten Stents], aortomonoiliakal</I></li>
-        <li>39.78.53 <I>Ende der untersten Stent-Grafts [gecoverten Stents], aortobiiliakal</I></li>
+        <li>39.78.51 <i>Ende des untersten Stent-Grafts [gecoverten Stents], aortal</i></li>
+        <li>39.78.52 <i>Ende des untersten Stent-Grafts [gecoverten Stents], aortomonoiliakal</i></li>
+        <li>39.78.53 <i>Ende der untersten Stent-Grafts [gecoverten Stents], aortobiiliakal</i></li>
     </ul>
 </body>
 In der folgenden Tabelle wurde die Bedeutung des jeweiligen Zusatzkodes für den Hauptkörper (blau) graphisch dargestellt.
@@ -151,7 +151,7 @@ In der folgenden Tabelle wurde die Bedeutung des jeweiligen Zusatzkodes für den
 {{<insertImage image="FAQCHOP0003Tabelle1.png" class="edge max-w-90">}}
 <br>
 <br>
-Die aortomonoiliakal oder aortobiiliakal endenden Stent-Grafts (Hauptkörper (blau)) können mit Stent-Grafts in der linken und/oder rechten A. iliaca communis verlängert werden (weitere Stent-Grafts werden dann anmodelliert, grün). Die entsprechenden Kodes der Subkategorie 39.7B.- <L>Endovaskuläre Implantation von Stent-Grafts [gecoverten Stents] in die Aa. iliacae communis und externa</L> sind in diesem Fall zusätzlich zu kodieren.<br>
+Die aortomonoiliakal oder aortobiiliakal endenden Stent-Grafts (Hauptkörper (blau)) können mit Stent-Grafts in der linken und/oder rechten A. iliaca communis verlängert werden (weitere Stent-Grafts werden dann anmodelliert, grün). Die entsprechenden Kodes der Subkategorie 39.7B.- <l>Endovaskuläre Implantation von Stent-Grafts [gecoverten Stents] in die Aa. iliacae communis und externa</l> sind in diesem Fall zusätzlich zu kodieren.<br>
 <br>
 Folgende Tabelle illustriert die verschiedenen Situationen einer abdominalen Hauptprothese ohne Öffnungen (blau im Schema):
 <br>
@@ -233,60 +233,60 @@ Folgende Kodes haben keine Unterteilung nach Anzahl der implantierten Stents/Pro
 <l>Konjunktivozystorhinostomie mit Einsetzen von Tubus oder Stent</l>
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="31.93" >}}
+{{<codeEntry level="1" title="31.93">}}
 <l>Ersetzen eines Larynx- oder Trachea-Stents</l>
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="31.96" >}}
+{{<codeEntry level="1" title="31.96">}}
 <l>Einsetzen eines Larynx- oder Trachea-Stents</l>
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="33.91.2-" >}}
+{{<codeEntry level="1" title="33.91.2-">}}
 <l>Bronchusdilatation, endoskopisch, mit Einlegen oder Wechsel eines Stents/Stent-Grafts</l>
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="44.99.5-" >}}
+{{<codeEntry level="1" title="44.99.5-">}}
 <l>Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Magen</l>
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="44.99.6-" >}}
+{{<codeEntry level="1" title="44.99.6-">}}
 <l>Einlegen oder Wechsel einer selbstexpandierenden Prothese am Magen</l>
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="46.99.5-" >}}
+{{<codeEntry level="1" title="46.99.5-">}}
 <l>Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Darm</l>
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="46.99.6-" >}}
+{{<codeEntry level="1" title="46.99.6-">}}
 <l>Einlegen oder Wechsel einer selbstexpandierenden Prothese am Darm</l>
 {{</codeEntry>}}
 
 
-{{<codeEntry level="1" title="48.99.50" >}}
+{{<codeEntry level="1" title="48.99.50">}}
 <l>Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese im Rektum</l>
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="48.99.60" >}}
+{{<codeEntry level="1" title="48.99.60">}}
 <l>Einlegen oder Wechsel einer selbstexpandierenden Prothese im Rektum</l>
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="52.93.- " >}}
+{{<codeEntry level="1" title="52.93.- ">}}
 <l>Endoskopische Einlage, Wechsel oder Entfernen von Stent [Prothese] in den Ductus pancreaticus</l>
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="52.95.4-" >}}
+{{<codeEntry level="1" title="52.95.4-">}}
 <l>Einlage oder Wechsel eines nicht selbstexpandierenden Stents [Prothese] in den Pankreasgang, offen chirurgisch oder laparoskopisch</l>
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="52.95.5- " >}}
+{{<codeEntry level="1" title="52.95.5- ">}}
 <l>Einlage oder Wechsel eines selbstexpandierenden Stents [Prothese] in den Pankreasgang, offen chirurgisch oder laparoskopisch</l>
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="58.99.10" >}}
+{{<codeEntry level="1" title="58.99.10">}}
 <l>Sonstige Operationen an Urethra und Periurethralgewebe, Einlegen und Wechsel eines Stents in die Urethra</l>
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="60.99.31" >}}
+{{<codeEntry level="1" title="60.99.31">}}
 <l>Einlegen eines Stents in die prostatische Harnröhre</l>
 {{</codeEntry>}}
 
