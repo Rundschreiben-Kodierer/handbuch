@@ -1,5 +1,5 @@
 ---
-title: "Aktualisierungen zu den Publikationen"
+title: "Actualisations des publications"
 slug: Neuerungen
 description: ""
 weight: 1
@@ -10,66 +10,66 @@ keywords: []
 <p style="text-align: right;">{{<printButton>}}
 
 {{<markdown>}}
-**Information zur Umstellung der Publikation des Rundschreibens für Kodiererinnen und Kodierer**
+**Information concernant la modification du format de publication de la circulaire destinée aux codeurs**
   
-Der Bereich Medizinische Klassifikationen des Bundesamt für Statistik (BFS) hebt per **01. Januar 2026** die Publikation des Rundschreibens in seiner bisherigen Form auf. Ab diesem Zeitpunkt werden sämtliche **Aktualisierungen** zur publizierten Version des Medizinischen Kodierungshandbuchs (KHB), der Schweizerischen Operationsklassifikation (CHOP) sowie der ICD-10-GM ausschliesslich auf der Internetseite (Link GITHub hinzufügen) zur Verfügung gestellt.
+DLe domaine Classifications médicales de l'Office fédéral de la statistique (OFS) supprimera la publication de la circulaire sous sa forme actuelle à compter **du 1er janvier 2026**. À partir de cette date, toutes **les actualisations** de la version publiée du Manuel de codage médical (KHB), de la Classification suisse des opérations chirurgicales (CHOP) et de la CIM-10-GM seront disponibles exclusivement sur le site Internet (ajouter le lien GITHub) .
   
-Mit der Umstellung der Inhalte auf die Internetseite entfällt das Rundschreiben in seiner bisher bekannten Form. Die Möglichkeit, die Inhalte der Internetseite als PDF-Datei herunterzuladen, wird auch zukünftig bestehen. 
+Avec le transfert des contenus vers le site Internet, la circulaire sous sa forme actuelle disparaîtra. Il sera toujours possible de télécharger les contenus du site Internet sous forme de fichiers PDF.
   
-Die bekannten halbjährlichen **Publikationszyklen der bisherigen Rundschreiben Nr. 1 sowie Rundschreiben Nr. 2** bleiben vorerst unverändert bestehen. Die **inhaltliche Gliederung** der Kapitel wird jedoch angepasst. Zukünftig strukturieren sich die Inhalte wie folgt:
+Les **cycles de publication** semestriels connus **des circulaires n° 1 et n° 2** restent inchangés pour l'instant. La **structure** des chapitres est toutefois modifiée. À l'avenir, les contenus seront structurés comme suit :
 
 
 <ul>  
   <li>
-  Allgemeine Informationen
+  Informations générales
   </li>
   <li>
-  Aktualisierungen zum Kodierungshandbuch
+  Actualisations du manuel de codage 
   </li>
   <li>
-  Aktualisierungen zur CHOP
+  Actualisations de la CHOP
   </li>
   <li>
-  Aktualisierungen zur ICD-10-GM
+  Actualisations de la CIM-10-GM
   </li>
   <li>
-  FAQ/Klarstellungen
+  FAQ/Clarifications
   </li>
 </ul>
   
   
-Unter jedem Kapitel werden jeweils **das Publikationsjahr sowie der Beginn der Gültigkeit** der darin aufgeführten Inhalte angegeben, sodass die zeitliche Zuordnung der Änderungen und Ergänzungen jederzeit klar nachvollzogen werden kann.
+**L'année de publication et la date de début de validité** des contenus présentés sont indiquées sous chaque chapitre, afin que le classement chronologique des modifications et des ajouts puisse être clairement retracé à tout moment.
   
-Register mit dem Zusatz Ø None enthalten keine Aktualisierungen.
-  
-  
-**Kapitel «Aktualisierungen zur CHOP»**
-  
-Die Informationen zu Aktualisierungen zur CHOP werden neu in Form eines **Excel-Ordners (xlsx)** bereitgestellt, der direkt über die jeweiligen Register des Kapitels CHOP abrufbar ist. Diese Tabelle ermöglicht eine übersichtliche Nachverfolgung der Änderungen und bildet die Aktualisierungen in den Sprachen **Deutsch, Französisch und Italienisch** ab.
+Les registres avec la mention Ø None ne contiennent pas d’actualisation.
   
   
-**Neues Kapitel «FAQ/Klarstellungen»**
+**Chapitre «Mises à jour de laCHOP»**
   
-Das bisherige Kapitel 5 «Anhang» wird durch das neue Kapitel **«FAQ/Klarstellungen»** ersetzt. Dort werden künftig sowohl allgemeine als auch spezifische Fragen beantwortet. Die Inhalte des bisherigen Anhangs (Kapitel 5) sind, falls noch aktuell, in dieses neue Kapitel migriert worden.
+Les informations relatives aux actualisations de la CHOP sont désormais disponibles sous forme de **classeur Excel (xlsx)**, accessible directement à partir des registres correspondants du chapitre CHOP. Ce tableau permet de suivre clairement les modifications et présente les mises à jour de la classification en allemand, français et italien.
+  
+  
+**Nouveau chapitre «FAQ/Clarifications»**
+  
+L'ancien chapitre 5 « Annexe » est remplacé par le nouveau chapitre **«FAQ/Précisions»**. À l'avenir, ce chapitre répondra à des questions générales et spécifiques. Le contenu de l'ancienne annexe (chapitre 5) a été transféré dans ce nouveau chapitre, dans la mesure où il est toujours d'actualité.
   
     
-**Such- und Exportfunktionen**
-Die Onlineversion bietet zusätzliche Funktionen:
+**Fonctions de recherche et d'exportation**
+La version en ligne offre des fonctions supplémentaires :
 <ul>  
   <li>
-  Inhalte können von den Nutzerinnen und Nutzern bei Bedarf als <strong>PDF-Datei heruntergeladen und ausgedruckt</strong> werden.
+ •	les utilisateurs peuvent <strong>télécharger et imprimer</strong> les contenus sous forme de <strong>fichiers PDF</strong> si nécessaire.
   </li>
   <li>
-  Eine <strong>Stichwortsuche (Ctrl + F)</strong> ermöglicht eine einfache und schnelle Navigation innerhalb der Texte.
+  Une <strong>recherche par mot-clé (Ctrl + F)</strong> permet une navigation simple et rapide dans les textes.
   </li>
 </ul>  
 
-**Archiv**<br>
-Sämtliche Rundschreiben der Jahre 2009 bis einschliesslich 2025 stehen weiterhin unverändert im PDF-Format auf der Webseite des Bundesamtes für Statistik, Fachbereich Medizinische Klassifikationen, zur Verfügung.  
-<a href="https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/nomenklaturen/medkk/instrumente-medizinische-kodierung.html">
-Instrumente zur medizinischen Kodierung | Bundesamt für Statistik - BFS</a>
+**Archives**<br>
+Toutes les circulaires publiées entre 2009 et 2025 inclus sont toujours disponibles au format PDF sur le site web de l'Office fédéral de la statistique, section Classifications médicales.
+<a href="https://www.bfs.admin.ch/bfs/fr/home/statistiken/gesundheit/nomenklaturen/medkk/instrumente-medizinische-kodierung.html">
+Instruments pour le codage médical | Office fédéral de la statistique - OFS</a>
   
-Durch diese digitale Weiterentwicklung werden die **Aktualisierungen** zu den Publikationen nicht nur zeitgemäss und benutzerfreundlich gestaltet, sondern bieten auch zusätzliche Funktionen, die den Arbeitsalltag der Kodiererinnen und Kodierer erleichtern und die Übersichtlichkeit der Inhalte erhöhen.
+Grâce à cette évolution numérique, les **mises à jour** des publications sont non seulement modernes et conviviales, mais offrent également des fonctions supplémentaires qui facilitent le travail quotidien des codeurs et améliorent la clarté du contenu.
 
 
 {{</markdown>}}

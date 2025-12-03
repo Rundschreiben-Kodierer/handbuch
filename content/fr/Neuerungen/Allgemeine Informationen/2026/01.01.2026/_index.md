@@ -9,113 +9,114 @@ keywords: []
 
 <p style="text-align: right;">{{<printButton>}}
   
-Die nachfolgenden **«Allgemeinen Informationen»** sind ab dem 01.01.2026 gültig. 
+Les **«Informations générales»** suivantes sont valables à partir du 1er janvier 2026. 
   
 {{<markdown>}}
 
-Gültige Kodierungsinstrumente<br><br>
-Ab 1. Januar 2026 gelten folgende Kodierungsinstrumente:
+Instruments de codage en vigueur<br><br>
+À compter du 1er janvier 2026, les instruments de codage suivants s’appliquent:
 
 <body>
     <ul>
-        <li>Medizinisches Kodierungshandbuch: Der offizielle Leitfaden der Kodierrichtlinien in der Schweiz. Version 2026</li>
-        <li>Aktualisierungen zu den Publikationen der Medizinischen Klassifikationen des BFS – 01.01.2026</li>
-        <li>Schweizerische Operationsklassifikation (CHOP): Systematisches Verzeichnis - Version 2026</li>
-        <li>ICD-10-GM 2024 Systematisches Verzeichnis: Internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme - 10. Revision – German Modification</li>
+        <li>Manuel de codage médical: Le manuel officiel des règles de codage en Suisse. Version 2026 </li>
+        <li>Actualisations des publications des classifications médicales de l'OFS – 01.01.2026</li>
+        <li>lassification Suisse des interventions chirurgicales (CHOP): Index systématique – Version 2026 </li>
+        <li>CIM-10-GM 2024 Index systématique: Classification statistique internationale des maladies et des problèmes de santé connexes, 10e révision, German Modification</li>
         <li>ICD-10-GM 2024 Systematisches Verzeichnis, deutsche Version: Zusatzinformationen für den schweizerischen Kontext</li>
     </ul>
 </body>
 
-Die Instrumente zur medizinischen Kodierung finden Sie unter www.statistik.ch => Grundlagen  => Nomenklaturen => Medizinische Kodierung und Klassifikationen => Instrumente zur medizinischen Kodierung => Gültige Instrumente zur medizinischen Kodierung je Jahr.
+Les instruments pour le codage médical sont disponibles sur www.statistique.ch  Bases statistiques  Nomenclatures Classifications et codage médicaux  Instruments pour le codage médical  Instruments en vigueur pour le codage médical, par année.
   
-Die Dateien der ICD-10-GM in deutscher Sprache werden vom Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM) erstellt und stehen auf der Internetseite <a href="https://www.bfarm.de"
+Les fichiers de l’ICD-10-GM en langue allemande sont établis par le Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM) et mis à disposition sur le site Internet <a href="https://www.bfarm.de"
    target="_blank"
    rel="noopener noreferrer">www.bfarm.de</a> zur Verfügung:  
 Kodiersysteme => Services => Downloads => ICD-10-GM
   
-Die SpiGes Statistik – die Erhebung der stationären Spitalaufenthalte -  ist eine jährliche, obligatorische Vollerhebung. Diese Datenerhebung folgt dem «Once-Only-Prinzip», der Mehrfachnutzung von Daten, und beinhaltet ab 2025 auch die Fallkostendaten sowie Teile der Krankenhausstatistik (KS). Ein einheitlicher Standarddatensatz soll als Grundlage für alle weiteren Datenbearbeitungen genutzt werden und die qualitativen Mindestanforderungen für eine Mehrfachverwendung der erhobenen Daten definieren. Die damit verbundene Datenerfassung erfolgt ab dem 1. Januar 2024 (s. Projekt SpiGes (Erhebung Spitalstationäre Gesundheitsversorgung)).
-
-Die gesetzlichen Grundlagen sind:
+La statistique SpiGes – qui recense les hospitalisations stationnaires – est une enquête exhaustive annuelle obligatoire. Cette collecte de données suit le principe «once-only», qui consiste à utiliser les données une seule fois, et comprendra également à partir de 2025 les données sur les coûts par cas ainsi que certaines parties de la statistique hospitalière (KS). L’objectif est d’utiliser, pour tous les traitements de données ultérieurs, un ensemble cohérent de données standard et de définir les exigences minimales de qualité en matière d’utilisation multiple des données. Les données seront relevées à partir du 1er janvier 2024 (voir projet SpiGes (Relevé Séjours stationnaires en hôpitaux)). 
+  
+Les instruments de codage désignés ci-dessus valent pour le codage de toutes les hospitalisations dans les hôpitaux et cliniques de Suisse, y compris les cliniques de réadaptation, psychiatriques et cliniques spécialisées ainsi que les maisons de naissance.
+  
+Les bases légales sont:
 <body>
     <ul>
-        <li>Bundesstatistikgesetz vom 9. Oktober 1992 (BStatG) und</li>
-        <li>Bundesgesetz über die Krankenversicherung vom 18. März 1994 (KVG)</li>
-        <li>Bundesstatistikverordnung vom 30. April 2025  
- 
-</li>
+        <li>la loi du 9 octobre 1992 sur la statistique fédérale (LSF) et</li>
+        <li>la loi fédérale du 18 mars 1994 sur l’assurance-maladie (LAMal)</li>
+        <li>Ordonnance du 30 avril 2025 sur la statistique fédérale</li>
     </ul>
 </body>
 
-**Referenzversionen**  
-Für die Klassifikationen, das Kodierungshandbuch und die Aktualisierungen zu den Publikationen der Medizinischen Klassifikationen des BFS sind bei Unterschieden zwischen den Sprachversionen die Originalversionen (deutschsprachige Versionen) massgebend.
+**Versions de référencen**  
+Pour les classifications, le manuel de codage et les Actualisations des publications des classifications médicales de l'OFS, en cas de divergence entre les versions linguistiques, les versions originales (versions en langue allemande) font foi.
   
-**Aktualisierungen zu den Publikationen der Medizinischen Klassifikationen des BFS und FAQ/Klarstellungen**   
-Die «Aktualisierungen zu den Publikationen der Medizinischen Klassifikationen des BFS» enthalten Grundlagen und Zusatzinformationen (inkl. Korrekturen) zu den folgenden Publikationen der Medizinischen Klassifikationen des BFS <a href="Instrumente zur medizinischen Kodierung | Bundesamt für Statistik - BFS"
+**Actualisations des publications des classifications médicales de l'OFS et FAQ/ Clarifications**   
+Les «Actualisations des publications des classifications médicales de l'OFS» contiennent des informations de base et complémentaires (incl. corrections) sur les publications des classifications médicales de l'OFS<a href="Instruments pour le codage médical | Office fédéral de la statistique - OFS"
    target="_blank"
    rel="noopener noreferrer">
-    Instrumente zur medizinischen Kodierung | Bundesamt für Statistik - BFS
+    Instruments pour le codage médical | Office fédéral de la statistique - OFS
 </a>:
 <body>
     <ul>
-        <li>Medizinisches Kodierungshandbuch</li>
-        <li>Schweizerische Operationsklassifikation (CHOP)</li>
+        <li>Manuel de codage médical</li>
+        <li>Classification suisse des interventions chirurgicales (CHOP)</li>
+        <li>CIM-10-GM</li>
     </ul>
 </body>
 
-Das Kapitel «FAQ/Klarstellungen» ersetzt das bisherige Kapitel 5 des früheren Rundschreibens.  
-Die Inhalte des bisherigen Kapitels 5 «Anhang» wurden in das neue Kapitel «FAQ/Klarstellungen» migriert.
-Die «FAQ/Klarstellungen» leiten sich aus (wiederholten) Anfragen an das Kodierungssekretariat zu einem spezifischen oder allgemeinen Sachverhalt ab und wurden innerhalb der Fachgremien diskutiert.  
+Le chapitre «FAQ/Clarifications» remplace l'ancien chapitre 5 de la circulaire précédente. Le contenu de l'ancien chapitre 5 «Annexe» a été transféré dans le nouveau chapitre «FAQ/Clarifications».
+Les «FAQ/clarifications» découlent de demandes (répétées) adressées au secrétariat de codage concernant un sujet spécifique ou général et ont été discutées au sein des comités d'experts.
   
-Bei den «Aktualisierungen zu den Publikationen», wie auch den «FAQ/Klarstellungen» handelt es sich um offizielle Informationen des BFS, die für die Kodierung zu berücksichtigen sind.  
-Die Inhalte der «Aktualisierungen zu den Publikationen der medizinischen Klassifikationen des BFS» werden im Rahmen der halbjährlichen Publikationszyklen – jeweils Ende Juni und Ende Dezember – zusammen mit den «FAQ/Klarstellungen» aktualisiert.
+Les «Actualisations des publications des classifications médicales» et les «FAQ/Clarifications» sont des informations officielles de l'OFS qui doivent être prises en compte pour le codage. 
+Le contenu des «Actualisations des publications des classifications médicales de l'OFS» est actualisé dans le cadre des cycles de publication semestriels, à la fin juin et à la décembre, en même temps que la rubrique «FAQ/Clarifications».
   
-Die darin aufgeführten Neuerungen, Korrekturen sowie sonstigen Anpassungen treten jeweils mit dem angegebenen Gültigkeitszeitpunkt in Kraft. Eine rückwirkende Gültigkeit ist ausgeschlossen.
+Les nouveautés, corrections et autres adaptations mentionnées entrent en vigueur à la date de validité indiquée. Toute validité rétroactive est exclue.
   
-**Analogiekodierungen und Hinweise zur Leistungserfassung und Abrechnung der SwissDRG AG**  
-Die Hinweise zur Leistungserfassung und Abrechnung der SwissDRG AG sind ebenfalls zu berücksichtigen.
-Pfad: Analogiekodierung :: SwissDRG => Akutsomatik / Psychiatrie / Rehabilitation => Abschnitt SwissDRG => Hinweis zur Leistungserfassung und Abrechnung
-https://www.swissdrg.org/de/akutsomatik/swissdrg/hinweis-zur-leistungserfassung
+**Codages analogues et notices pour la saisie des prestations et de la tarification de SwissDRG SA**  
+Les notices pour la saisie des prestations et de la tarification de SwissDRG SA doivent également être prises en compte.
+Lien: www.swissdrg.org => Somatique aiguë/Psychiatrie/Réadaptation => Rubrique SwissDRG / TARPSY / ST Reha => Notice pour la saisie des prestations et de la tarification
+https://www.swissdrg.org/fr/somatique-aigue/swissdrg/notice-pour-la-saisie-des-prestations
   
-Die Hinweise auf Analogiekodierungen der SwissDRG AG sind ebenfalls zu berücksichtigen.
-Pfad: www.swissdrg.org => Akutsomatik => Abschnitt SwissDRG System 15.0/2026 => Analogiekodierung
-https://www.swissdrg.org/de/akutsomatik/swissdrg-system-1502026/analogiekodierung
+Les notices sur les codages analogues de SwissDRG SA doivent également être prises en compte.
+Lien: www.swissdrg.org => Somatique aiguë => Rubrique Système SwissDRG 15.0/2026 => Codage analogue
+https://www.swissdrg.org/fr/somatique-aigue/systeme-swissdrg-1502026/codage-analogue
+
    
-Weitere Publikationen der SwissDRG AG sind unterjährig laufend zu beachten.
+Les autres publications de SwissDRG SA doivent être prises en considération tout au long de l’année.
   
-**Anfragen zu Kodierungsrichtlinien und Klassifikationen**  
-Für Anfragen zu Kodierungsrichtlinien und Klassifikationen gibt das BFS-Präzisierungen und Klarstellungen ab.
+**Demandes concernant les directives de codage et les classifications**  
+L’OFS fournit des précisions et des clarifications pour toute demande relative aux directives de codage et aux classifications.
   
-**Anfragen zur Einzelfallbeurteilung**  
-**Vorgehen**  
-Zu spezifischen Einzelfällen gibt das BFS Empfehlungen ohne Präjudiz für weitere ähnliche Fälle.
-Die gegebene Empfehlung ist rechtlich nicht bindend. Eine Haftung des BFS im Zusammenhang mit einer erteilten Empfehlung ist daher ausgeschlossen.
+**Demande d’évaluation d’un cas spécifique**  
+**Procédure**  
+L’OFS émet des recommandations sur des cas spécifiques, sans préjudice d’autres cas similaires. 
+Ces recommandations ne sont pas juridiquement contraignantes. Toute responsabilité de l’OFS en rapport avec une recommandation émise est donc exclue.
   
-Es werden nur Kodierungsanfragen behandelt, welche in der Beilage **alle notwendigen klinischen Unterlagen zur Fallbeurteilung in anonymisierter Form** (Austrittsbericht, Operationsbericht, Argumentation und Kodierung beider Parteien etc.) enthalten. Sie sind mit Kopie an die andere Partei an codeInfo@bfs.admin.ch zu senden.
+Seules les questions de codage avec **toute la documentation clinique anonymisée nécessaire** pour l’évaluation du cas considéré (lettre de sortie, rapport opératoire, argumentation et codage des deux parties, etc.) seront traitées. Elles sont à adresser à codeInfo@bfs.admin.ch, avec copie à l’autre partie.
   
-Bei Anfragen ohne Dokumentation oder mit ungenügender Dokumentation geben wir keine Empfehlung ab.
+Pour toutes les questions sans documentation ou avec une documentation insuffisante, nous ne faisons pas de recommandation.
   
-**Anonymisierung**  
-Für die Anonymisierung der zugesendeten Dokumente sind die folgenden Angaben von Patientinnen / Patienten und Angehörigen zu entfernen:
+**Anonymisation**  
+Les informations suivantes du patient et des proches doivent être retirées pour rendre les documents anonymes:
 
 <body>
     <ul>
-        <li>Name, Vorname</li>
-        <li>Geburtstag und Monat (ausgenommen für Neugeborene bis zum Alter von einem Jahr (< 1Jahr))</li>
-        <li>Wohnadresse</li>
-        <li>Korrespondenzdaten (Telefonnummer, E-Mail-Adresse etc.)</li>
+        <li>Nom, prénom</li>
+        <li>Jour et mois de naissance (à l’exception des nouveau-nés jusqu’à l’âge d’un an (< 1 an)</li>
+        <li>Adresse du domicile</li>
+        <li>Coordonnées (numéro de téléphone, adresse e-mail, etc.)</li>
     </ul>
 </body>
 
-BFS-Mitarbeiter unterstehen nur dem Statistikgeheimnis (gemäss Art. 14 des Bundesstatistikgesetzes), sowie der Geheimhaltungspflicht gemäss Datenschutzgesetz.
+Le personnel de l’OFS est soumis uniquement au secret statistique (conformément à l’art. 14 de la loi sur la statistique fédérale) et à la loi fédérale sur la protection des données.
   
-Achtung: Es reicht nicht, in Adobe Acrobat Pro den zu löschenden Text mit einem schwarzen oder weissen Rechteck abzudecken. Dieses lässt sich entfernen, sodass der Text darunter wieder sichtbar wird.  
-Für eine ordnungsgemässe Anonymisierung einer PDF-Datei mit Adobe Acrobat Pro ist das Werkzeug „Streichen“ zu verwenden.  
-Die Anleitungen dazu finden Sie unter den folgenden Links: <br>
-https://creativecloud.adobe.com/de-CH/learn/acrobat/web/redact-pdf<br>
-https://helpx.adobe.com/ch_de/acrobat/kb/prevent-file-size-increase-after-sanitizing-pdf.html
+Attention: il ne suffit pas de rajouter un rectangle noir ou blanc sur le texte à biffer avec Adobe Acrobat Pro. Ce rajout peut ensuite toujours être supprimé et le texte qui est en dessous réapparaît alors.
+Pour anonymiser convenablement un PDF avec Adobe Acrobat Pro, il faut utiliser l’outil «Biffer». 
+Vous trouverez les manuels explicatifs sous ces liens: <br>
+https://creativecloud.adobe.com/fr-CH/learn/acrobat/web/redact-pdf <br>
+https://helpx.adobe.com/ch_fr/acrobat/kb/prevent-file-size-increase-after-sanitizing-pdf.html
   
-Falls Sie nicht mit Adobe Acrobat Pro arbeiten, müssen Sie das zuvor anonymisierte Dokument scannen.
+Toutes les demandes que nous recevons et qui ne sont pas proprement anonymisées seront automatiquement effacées. 
   
-Anfragen, die nicht korrekt anonymisiert sind, werden von unserer Hotline nicht bearbeitet. Sie werden anschliessend per Mail über die Löschung informiert und gebeten, uns sämtliche Dokumente vollständig anonymisiert erneut zuzustellen.
+Un mail vous parviendra vous indiquant que la demande a été supprimée. Il faudra ensuite nous retourner tous les documents à nouveau complètement anonymisés.
 
 {{</markdown>}}

@@ -1,5 +1,5 @@
 ---
-title: Bundesamt für Statistik – Bereich Medizinische Klassifikationen
+title: Aggiornamenti alle pubblicazioni delle classificazioni mediche dell'UST
 slug: introduction
 description: ""
 keywords: []
@@ -10,9 +10,9 @@ type: docs
 
 {{<markdown>}}
 
-Der Bereich Medizinische Kodierung und Klassifikationen publiziert und aktualisiert verschiedene in der Schweiz gültige medizinische Kodierungsinstrumente und unterstützt bei deren Anwendung. Diese Instrumente umfassen das Medizinische Kodierungshandbuch (KHB), die Schweizerische Operationsklassifikation (CHOP) und die französisch- und italienischsprachigen Versionen der ICD-10-GM (Internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme, 10. Revision – German Modification).
+Il settore Classificazioni e codifica mediche pubblica e aggiorna vari strumenti di codifica medica in vigore in Svizzera e ne fornisce supporto per il loro utilizzo.  Tali strumenti comprendono il manuale di codifica, la classificazione svizzera degli interventi chirurgici (CHOP) nonché le versioni francese e italiana dell'ICD-10-GM (Classificazione statistica internazionale delle malattie e dei problemi sanitari correlati, decima revisione - German Modification).
 
-Diese Kodierungsinstrumente sind für die Datenerhebung der in der Schweiz hospitalisierten Patientinnen und Patienten notwendig (Erhebung von Diagnosen und Behandlungen der stationären Fälle im Rahmen der Erhebung Spitalstationäre Gesundheitsversorgung (SpiGes)). Die erhobenen Daten werden sowohl für die epidemiologische Studien als auch im Rahmen der Tarifsysteme SwissDRG, TARPSY und ST Reha des schweizerischen Gesundheitswesens verwendet.
+Gli strumenti di codifica sono necessari per la rilevazione dei dati dei pazienti ricoverati in Svizzera (rilevazione delle diagnosi e dei trattamenti di ricovero nel contesto della statistica medica degli stabilimenti ospedalieri). I dati rilevati sono usati sia per studi epidemiologici sia nell' quadro dei sistemi tariffari SwissDRG, TARPSY e ST Reha del sistema sanitario svizzero.
   
 **Fragen zur Anwendung und zum Inhalt sowie Rückmeldungen zu technischen Problemen sind an <a href="mailto:medclass-updates@bfs.admin.ch">medclass-updates@bfs.admin.ch</a> zu richten.**
 

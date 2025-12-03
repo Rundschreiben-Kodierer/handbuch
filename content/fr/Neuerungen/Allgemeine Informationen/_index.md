@@ -1,5 +1,5 @@
 ---
-title: "Allgemeine Informationen"
+title: "Généralités"
 slug: AllgemeineInformationen
 description: ""
 weight: 101
@@ -12,7 +12,7 @@ keywords: []
 
 {{<markdown>}} 
   
-Das Kapitel **«Allgemeine Informationen»** enthält grundsätzliche Informationen, welche für die Anwendung und das Verständnis der Publikationen von Bedeutung sind. Hierzu zählen insbesondere:
+Les **«Informations générales»** suivantes sont valables à partir du 1er janvier 2026
   
 <body>
 <ul>

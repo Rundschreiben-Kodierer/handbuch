@@ -1,5 +1,5 @@
 ---
-title: Bundesamt für Statistik – Bereich Medizinische Klassifikationen
+title: Office fédéral de la statistique - Domaine Classifications et codage médicaux
 slug: introduction
 description: ""
 keywords: []
@@ -10,9 +10,9 @@ type: docs
 
 {{<markdown>}}
 
-Der Bereich Medizinische Kodierung und Klassifikationen publiziert und aktualisiert verschiedene in der Schweiz gültige medizinische Kodierungsinstrumente und unterstützt bei deren Anwendung. Diese Instrumente umfassen das Medizinische Kodierungshandbuch (KHB), die Schweizerische Operationsklassifikation (CHOP) und die französisch- und italienischsprachigen Versionen der ICD-10-GM (Internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme, 10. Revision – German Modification).
+Le domaine Classifications et codage médicaux publie et actualise divers instruments de codage médical en vigueur en Suisse et apporte son soutien lors de leur utilisation. Ces instruments comprennent le manuel de codage (KHB), la classification suisse des interventions chirurgicales (CHOP) ainsi que les versions française et italienne de la CIM-10-GM (classification statistique internationale des maladies et des problèmes de santé connexes, 10ème révision - German Modification).
 
-Diese Kodierungsinstrumente sind für die Datenerhebung der in der Schweiz hospitalisierten Patientinnen und Patienten notwendig (Erhebung von Diagnosen und Behandlungen der stationären Fälle im Rahmen der Erhebung Spitalstationäre Gesundheitsversorgung (SpiGes)). Die erhobenen Daten werden sowohl für die epidemiologische Studien als auch im Rahmen der Tarifsysteme SwissDRG, TARPSY und ST Reha des schweizerischen Gesundheitswesens verwendet.
+Ces instruments de codage sont nécessaires pour le relevé des données sur les patientes et patients hospitalisés en Suisse (relevé des diagnostics et des traitements des hospitalisations pour la statistique médicale des hôpitaux). Les données relevées sont utilisées aussi bien pour des études épidémiologiques que dans le cadre des systèmes tarifaires SwissDRG, TARPSY et ST Reha du système de santé suisse.
   
 **Fragen zur Anwendung und zum Inhalt sowie Rückmeldungen zu technischen Problemen sind an <a href="mailto:medclass-updates@bfs.admin.ch">medclass-updates@bfs.admin.ch</a> zu richten.**
 
