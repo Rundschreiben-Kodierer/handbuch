@@ -500,7 +500,7 @@ Der Kode 51.99.90 Sonstige endoskopische Operationen an den Gallenwegen, wie im 
   </tr>
   <tr>
     <th style="border: 1px solid black;">Erstellt</th>
-    <td style="border: 1px solid black;">Erstellt: 	01.01.2026 – Basis RS 2025/2: 0808</td>
+    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0808</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aktualisiert</th>
@@ -667,7 +667,7 @@ Ausnahme: Es bestehen CHOP-Kodes, bei denen im Beachte angegeben ist, dass die g
   </tr>
   <tr>
     <th style="border: 1px solid black;">Erstellt</th>
-    <td style="border: 1px solid black;">Erstellt:	01.01.2026 – Basis RS 2025/2: 0758/2</td>
+    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0758/2</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aktualisiert</th>
@@ -845,8 +845,6 @@ Die **alleinige** Erfassung des Glasgow Coma Scale (GCS) ist für den klinisch n
 
   
 {{</article>}}
-
-
 
 
 {{<article number="0016"  title="CHOP - Auflistung von Massnahmen in den Komplexbehandlungen oder Komplexdiagnostiken" collapsibleClass="d-inline-block" groupId="chopfaq">}}

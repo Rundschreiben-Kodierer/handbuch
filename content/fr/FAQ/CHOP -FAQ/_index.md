@@ -10,7 +10,7 @@ keywords: []
 <p style="text-align: right;">{{<printButton>}}
 
 <p style="text-align: left;">
-{{<markdown>}}Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Löschungen in rot~~</font> {{</markdown>}}
+{{<markdown>}}Légende: <font color="green">Nouveautés en vert</font>, <font color="red">~~Suppressions en rouge~~</font> {{</markdown>}}
 
 
 <br>  
@@ -19,19 +19,19 @@ keywords: []
 
 
 
-{{<article number="0001"  title="CHOP - 39.99.21 Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0001"  title="CHOP - 39.99.21 Opérations d’anomalie congénitale de l’isthme aortique (sténose) ou d’interruption de la crosse aortique" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Anomalie des Aortenisthmus / Aortenisthmusstenose</td>
+    <th style="border: 1px solid black;">Mot-clé:</th>
+    <td style="border: 1px solid black;">Anomalie de l'isthme aortique / sténose de l'isthme aortique</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Erstellt</th>
+    <th style="border: 1px solid black;">Créé le:</th>
     <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0879</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Aktualisiert</th>
+    <th style="border: 1px solid black;">Mise à jour:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -43,32 +43,33 @@ keywords: []
     <td style="border: 1px solid black;">39.99.21</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Kodierregel</th>
+    <th style="border: 1px solid black;">Règle de codage:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
 
-<b>Problem/Erläuterung:</b></br>
-Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Methode mit einem präzisen Kode aus Kapitel 7 <font color="green">"Operationen am kardiovaskulären System"</font> abgebildet. Gibt es einen präzisen Kode, wird 39.99.21 <I>Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen</I>nicht kodiert. 
+<b>Problème/explication:</b></br>
+Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Methode mit einem präzisen Kode aus Kapitel 7 <font  color="green">"Operationen am kardiovaskulären System"</font> abgebildet. Gibt es einen präzisen Kode, wird 39.99.21 <i>Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen</i>nicht kodiert. 
+Une opération ouverte d'une sténose congénitale de l'isthme aortique est représentée, selon la méthode utilisée, par un code précis du chapitre 7 <font  color="green">«Opérations du système cardio-vasculaire»</font>. S'il existe un code précis, le code 39.99.21 *Opérations d’anomalie congénitale de l’isthme aortique (sténose) ou d’interruption de la crosse aortique* n'est pas codé. 
 <br>  
 <br>
 
 {{</article>}}
 
 
-{{<article number="0002"  title="CHOP - Perkutan-transluminale Thrombektomie an Lungengefässen mittels Thrombusentfernungssystem" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0002"  title="CHOP - Thrombectomie transluminale percutanée sur les vaisseaux pulmonaires à l’aide d’un système d’élimination du thrombus" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Thrombektomie an Lungengefässen / Thrombusentfernungssystem</td>
+    <th style="border: 1px solid black;">Mot-clé:</th>
+    <td style="border: 1px solid black;">Thrombectomie sur les vaisseaux pulmonaires / système d'élimination des thrombus</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Erstellt</th>
+    <th style="border: 1px solid black;">Créé le:</th>
     <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0769</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Aktualisiert</th>
+    <th style="border: 1px solid black;">Mise à jour:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -80,22 +81,22 @@ Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Metho
     <td style="border: 1px solid black;">39.75.17/ 00.4B.13 / 00.4F.2-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Kodierregel</th>
+    <th style="border: 1px solid black;">Règle de codage:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
 
-<b>Problem/Erläuterung:</b><br>
-Eine perkutan-transluminale Thrombektomie an Lungengefässen mittels Thrombusentfernungssystem lässt sich anhand von einem Kode und zwei Zusatzkodes erfassen: 
+<b>Problème/explication:</b><br>
+Une thrombectomie transluminale percutanée sur des vaisseaux pulmonaires au moyen d’un système de retrait du thrombus peut être enregistrée à l’aide d’un code et de deux codes supplémentaires: 
 <br>
 <body>
     <ul>
-        <li>39.75.17 <I>Perkutan-transluminale Thrombektomie, sonstige Gefässe</I></li>
-        <li>00.4B.13 <I>PTKI an Lungengefässen</I></li>
-        <li>Zutreffende Zusatzkodes der Elementegruppe 00.4F.2- <I>Einsatz von kathetergeführten Thrombus- und Fremdkörperentfernungs-Systemen, nach Anzahl Systeme</I></li>
+        <li>39.75.17 <i>Thrombectomie transluminale percutanée, autres vaisseaux</i></li>
+        <li>00.4B.13 <i>ITPC sur des vaisseaux pulmonaires</i></li>
+        <li>les codes supplémentaires pertinents du groupe d’éléments 00.4F.2- <i>Utilisation de systèmes d’extraction de corps étranger et de thrombus guidés par cathéter, selon le nombre de systèmes</i></li>
     </ul>
 </body>
-(Je nach Fall sind weitere CHOP-Kodes zu berücksichtigen.)<br>  
+(Selon le cas, d’autres codes CHOP doivent être pris en compte.)<br>  
 <br>
 <br>
  
@@ -103,19 +104,19 @@ Eine perkutan-transluminale Thrombektomie an Lungengefässen mittels Thrombusent
 
 
 
-{{<article number="0003"  title="CHOP - Ende der untersten Stent-Grafts [gecoverten Stents]" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0003"  title="CHOP - Fin des stents greffés les plus bas [stents couverts]" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Stent-Grafts [gecoverte Stents], Ende der untersten Stent-Grafts</td>
+    <th style="border: 1px solid black;">Mot-clé:</th>
+    <td style="border: 1px solid black;">Endoprothèses [stents couverts], fin des endoprothèses les plus bas</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Erstellt</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0752</td>
+    <th style="border: 1px solid black;">Créé le:</th>
+    <td style="border: 1px solid black;">01/01/2026 – Base Circulaire 2025/2: 0752</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Aktualisiert</th>
+    <th style="border: 1px solid black;">Mise à jour:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -127,39 +128,36 @@ Eine perkutan-transluminale Thrombektomie an Lungengefässen mittels Thrombusent
     <td style="border: 1px solid black;">CHOP:	39.71.- / 39.78.5.- / 39.73.4-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Kodierregel</th>
+    <th style="border: 1px solid black;">Règle de codage:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
 
-<b>Problem/Erläuterung:</b>
+<b>Problème/explication:</b>
 <br>
-Bei den Kodes der Subkategorie 39.71.- <L>Endovaskuläre Implantation von Stent-Grafts [gecoverten Stents] in die Aorta abdominalis</L> und der Elementegruppe 39.73.4- <L>Endovaskuläre Implantation von Stent-Grafts [gecoverten Stents] in die Aorta thoracoabdominalis</L> ist mit den Zusatzkodes 39.78.5- <L>Ende der untersten Stent-Grafts [gecoverten Stents]</L> anzugeben, wie der Stent-Graft endet.
+Pour les codes de la sous-catégorie 39.71.- *Implantation endovasculaire de stents grafts [stents couverts] dans l’aorte abdominale* et de la sous-catégorie 39.73.4- *Implantation endovasculaire de stents grafts [stents couverts] dans l’aorte thoraco-abdominale*, il faut indiquer avec le code supplémentaire 39.78.5- *Extrémité des stents grafts [stents couverts]* les plus bas comment se termine l’endoprothèse.
 <br>
 <br>
-Die Elementegruppe 39.78.5- umfasst drei Zusatzkodes:
+Le groupe d'éléments 39.78.5- comprend trois codes supplémentaires :
 <body>
     <ul>
-        <li>39.78.51 <I>Ende des untersten Stent-Grafts [gecoverten Stents], aortal</I></li>
-        <li>39.78.52 <I>Ende des untersten Stent-Grafts [gecoverten Stents], aortomonoiliakal</I></li>
-        <li>39.78.53 <I>Ende der untersten Stent-Grafts [gecoverten Stents], aortobiiliakal</I></li>
+        <li>39.78.51 <i>Extrémité du stent graft [stent couvert] le plus bas, aortique</i></li>
+        <li>39.78.52 <i>Extrémité du stent graft [stent couvert] le plus bas, aorto-mono-iliaque</i></li>
+        <li>39.78.53 <i>Extrémité des stents grafts [stents couverts] les plus bas, aorto-bi-iliaque</i></li>
     </ul>
 </body>
-In der folgenden Tabelle wurde die Bedeutung des jeweiligen Zusatzkodes für den Hauptkörper (blau) graphisch dargestellt.
+Le tableau suivant présente graphiquement la signification du code supplémentaire correspondant pour le corps principal (en bleu).
 <br>
 <br>
-{{<insertImage image="0767_a.png" class="edge max-w-90">}}
+{{<insertImage image="FAQCHOP0003Tabelle1FR.png" class="edge max-w-90">}}
 <br>
 <br>
-Die aortomonoiliakal oder aortobiiliakal endenden Stent-Grafts (Hauptkörper (blau)) können mit Stent-Grafts in der linken und/oder rechten A. iliaca communis verlängert werden (weitere Stent-Grafts werden dann anmodelliert, grün). Die entsprechenden Kodes der Subkategorie 39.7B.- <L>Endovaskuläre Implantation von Stent-Grafts [gecoverten Stents] in die Aa. iliacae communis und externa</L> sind in diesem Fall zusätzlich zu kodieren.<br>
+Les endoprothèses aortomono-iliaques ou aorto-biliaires (corps principal (bleu)) peuvent être prolongées par des endoprothèses dans l'artère iliaque commune gauche et/ou droite (d'autres endoprothèses sont alors modelées, vert). Les codes correspondants de la sous-catégorie 39.7B.- *Implantation endovasculaire de stents grafts [stents couverts] dans les artères iliaques commune et externe* doivent être codés en plus dans ce cas.<br>
 <br>
-Folgende Tabelle illustriert die verschiedenen Situationen einer abdominalen Hauptprothese ohne Öffnungen (blau im Schema):
+Le tableau suivant illustre les différentes situations d'une prothèse abdominale principale sans ouvertures (en bleu dans le schéma) :
 <br>
 <br>
-{{<insertImage image="FAQCHOP0003Tabelle1.png" class="edge max-w-90">}}
-<br>
-
-{{<insertImage image="FAQCHOP0003Tabelle2.png" class="edge max-w-90">}}
+{{<insertImage image="FAQCHOP0003Tabelle2FR.png" class="edge max-w-90">}}
 {{<lineBreak>}}
 <br>
 <br>
@@ -171,15 +169,15 @@ Folgende Tabelle illustriert die verschiedenen Situationen einer abdominalen Hau
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Schlagwort</th>
+    <th style="border: 1px solid black;">Mot-clé:</th>
     <td style="border: 1px solid black;">Stents / Prothesen / nicht vaskulär</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Erstellt</th>
+    <th style="border: 1px solid black;">Créé le:</th>
     <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0789</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Aktualisiert</th>
+    <th style="border: 1px solid black;">Mise à jour:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -193,17 +191,17 @@ Folgende Tabelle illustriert die verschiedenen Situationen einer abdominalen Hau
 </td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Kodierregel</th>
+    <th style="border: 1px solid black;">Règle de codage:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
 
-<b>Problem/Erläuterung:</b><br>
+<b>Problème/explication:</b><br>
 Folgende Kodes haben eine Unterteilung nach Anzahl der implantierten Stents/Prothesen. [
 {{<indent level="4">}}
-42.81.- <I>Einsetzen eines permanenten Tubus in den Ösophagus</I><br>
-51.87.- <I>Endoskopische Einlage oder Wechsel von Stent in den Gallengang</I><br>
-51.9A.- <I>Einlage oder Wechsel von Stent in den Gallengang</I><br>
+42.81.- <i>Einsetzen eines permanenten Tubus in den Ösophagus</i><br>
+51.87.- <i>Endoskopische Einlage oder Wechsel von Stent in den Gallengang</i><br>
+51.9A.- <i>Einlage oder Wechsel von Stent in den Gallengang</i><br>
 {{</indent>}}
 Je Eingriff ist der Kode mit der entsprechenden Anzahl von eingesetzten Stents/Prothesen auszuwählen und einmal pro Eingriff zu erfassen.
 <br>  <br>  
@@ -215,7 +213,7 @@ Beispiel: Am Tag X werden zwei selbstexpandierende Prothesen in den Ösophagus e
 Tag X:
     {{</grid/column>}}
     {{<grid/column>}}
-42.81.41 Einsetzen und Wechsel von zwei selbstexpandierenden Prothesen (permanenter Tubus) in den Ösophagus, endoskopisch
+42.81.41 <i>Einsetzen und Wechsel von zwei selbstexpandierenden Prothesen (permanenter Tubus) in den Ösophagus, endoskopisch</i>
     {{</grid/column>}}
 {{</grid>}}
 
@@ -224,7 +222,7 @@ Tag X:
 Tag Y:
     {{</grid/column>}}
     {{<grid/column>}}
-42.81.40 Einsetzen und Wechsel einer selbstexpandierenden Prothese (permanenter Tubus) in den Ösophagus, endoskopisch
+42.81.40 <i>Einsetzen und Wechsel einer selbstexpandierenden Prothese (permanenter Tubus) in den Ösophagus, endoskopisch</i>
     {{</grid/column>}}
 {{</grid>}}
 <br>
@@ -234,64 +232,64 @@ Folgende Kodes haben keine Unterteilung nach Anzahl der implantierten Stents/Pro
 {{<indent level="4">}}
 
 {{<codeEntry level="1" title="09.83">}}
-Konjunktivozystorhinostomie mit Einsetzen von Tubus oder Stent
+<i>Konjunktivozystorhinostomie mit Einsetzen von Tubus oder Stent</i>
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="31.93" >}}
-Ersetzen eines Larynx- oder Trachea-Stents 
+{{<codeEntry level="1" title="31.93">}}
+<i>Ersetzen eines Larynx- oder Trachea-Stents</i>
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="31.96" >}}
-Einsetzen eines Larynx- oder Trachea-Stents
+{{<codeEntry level="1" title="31.96">}}
+<i>Einsetzen eines Larynx- oder Trachea-Stents</i>
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="33.91.2-" >}}
-Bronchusdilatation, endoskopisch, mit Einlegen oder Wechsel eines Stents/Stent-Grafts 
+{{<codeEntry level="1" title="33.91.2-">}}
+<i>Bronchusdilatation, endoskopisch, mit Einlegen oder Wechsel eines Stents/Stent-Grafts</i>
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="44.99.5-" >}}
-Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Magen 
+{{<codeEntry level="1" title="44.99.5-">}}
+<i>Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Magen</i>
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="44.99.6-" >}}
-Einlegen oder Wechsel einer selbstexpandierenden Prothese am Magen
+{{<codeEntry level="1" title="44.99.6-">}}
+<i>Einlegen oder Wechsel einer selbstexpandierenden Prothese am Magen</i>
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="46.99.5-" >}}
-Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Darm
+{{<codeEntry level="1" title="46.99.5-">}}
+<i>Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Darm</i>
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="46.99.6-" >}}
-Einlegen oder Wechsel einer selbstexpandierenden Prothese am Darm
+{{<codeEntry level="1" title="46.99.6-">}}
+<i>Einlegen oder Wechsel einer selbstexpandierenden Prothese am Darm</i>
 {{</codeEntry>}}
 
 
-{{<codeEntry level="1" title="48.99.50 " >}}
-Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese im Rektum
+{{<codeEntry level="1" title="48.99.50">}}
+<i>Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese im Rektum</i>
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="48.99.60 " >}}
-Einlegen oder Wechsel einer selbstexpandierenden Prothese im Rektum
+{{<codeEntry level="1" title="48.99.60">}}
+<i>Einlegen oder Wechsel einer selbstexpandierenden Prothese im Rektum</i>
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="52.93.- " >}}
-Endoskopische Einlage, Wechsel oder Entfernen von Stent [Prothese] in den Ductus pancreaticus
+{{<codeEntry level="1" title="52.93.- ">}}
+<i>Endoskopische Einlage, Wechsel oder Entfernen von Stent [Prothese] in den Ductus pancreaticus</i>
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="52.95.4-" >}}
-Einlage oder Wechsel eines nicht selbstexpandierenden Stents [Prothese] in den Pankreasgang, offen chirurgisch oder laparoskopisch
+{{<codeEntry level="1" title="52.95.4-">}}
+<i>Einlage oder Wechsel eines nicht selbstexpandierenden Stents [Prothese] in den Pankreasgang, offen chirurgisch oder laparoskopisch</i>
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="52.95.5- " >}}
-Einlage oder Wechsel eines selbstexpandierenden Stents [Prothese] in den Pankreasgang, offen chirurgisch oder laparoskopisch
+{{<codeEntry level="1" title="52.95.5- ">}}
+<i>Einlage oder Wechsel eines selbstexpandierenden Stents [Prothese] in den Pankreasgang, offen chirurgisch oder laparoskopisch</i>
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="58.99.10" >}}
-Sonstige Operationen an Urethra und Periurethralgewebe, Einlegen und Wechsel eines Stents in die Urethra
+{{<codeEntry level="1" title="58.99.10">}}
+<i>Sonstige Operationen an Urethra und Periurethralgewebe, Einlegen und Wechsel eines Stents in die Urethra</i>
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="60.99.31" >}}
-Einlegen eines Stents in die prostatische Harnröhre
+{{<codeEntry level="1" title="60.99.31">}}
+<i>Einlegen eines Stents in die prostatische Harnröhre</i>
 {{</codeEntry>}}
 
 {{</indent>}}
@@ -308,7 +306,7 @@ Kodierung:
 Tag X:
     {{</grid/column>}}
     {{<grid/column>}}
-46.99.51 <I>Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Darm, offen chirurgisch wird</I><b> zweimal</b> kodiert.
+46.99.51 <i>Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Darm, offen chirurgisch wird</i><b> zweimal</b> kodiert.
     {{</grid/column>}}
 {{</grid>}}
 {{<grid class="ps-0">}}
@@ -316,8 +314,8 @@ Tag X:
 Tag Y:
     {{</grid/column>}}
     {{<grid/column>}}
-46.99.71 <I>Entfernen einer Prothese am Darm, offen chirurgisch</I> wird <b>zweimal</b> kodiert.<br>
-46.99.61 <I>Einlegen oder Wechsel einer selbstexpandierenden Prothese am Darm, offen chirurgisch</I> wird <b>einmal</b> erfasst.
+46.99.71 <i>Entfernen einer Prothese am Darm, offen chirurgisch</i> wird <b>zweimal</b> kodiert.<br>
+46.99.61 <i>Einlegen oder Wechsel einer selbstexpandierenden Prothese am Darm, offen chirurgisch</i> wird <b>einmal</b> erfasst.
     {{</grid/column>}}
 {{</grid>}}
 <br>  
@@ -327,19 +325,19 @@ Tag Y:
 {{</article>}}
 
 
-{{<article number="0005"  title="CHOP - Erfassen der Anzahl der implantierten vaskulären Stents oder Stent-Grafts" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0005"  title="CHOP - Erfassen der Anzahl der implantierten vaskulären Stents oder Stent-Graftsasdf" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Schlagwort</th>
+    <th style="border: 1px solid black;">Mot-clé:</th>
     <td style="border: 1px solid black;">Anzahl vaskuläre Stents / Stent-Grafts [gecoverte Stents]</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Erstellt</th>
+    <th style="border: 1px solid black;">Créé le:</th>
     <td style="border: 1px solid black;">01.01.2026 – Neu</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Aktualisiert</th>
+    <th style="border: 1px solid black;">Mise à jour:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -351,13 +349,13 @@ Tag Y:
     <td style="border: 1px solid black;">36.03.- / 36.08.- / 39.71.- / 39.73.- / 39.7B.- / 39.B- / 39.C-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Kodierregel</th>
+    <th style="border: 1px solid black;">Règle de codage:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
 
 {{<markdown>}}
-**Problem/Erläuterung:**  
+**Problème/explication:**  
 Folgende Tabelle gibt eine grobe Übersicht der Abbildung der vaskulären Stents und Stent-Grafts [gecoverte Stents] in der CHOP.
   
 {{</markdown>}}
@@ -380,9 +378,9 @@ Zwei medikamentenfreisetzende Stents werden perkutan-transluminal implantiert, d
 <br><br>
 Kodierung:
 <br>
-<I>36.08.22  Implantation perkutan-transluminal von Stents mit Medikamentenfreisetzung, in mehreren Koronararterien</I><br>
-<I>36.08.22  Implantation perkutan-transluminal von Stents mit Medikamentenfreisetzung, in mehreren Koronararterien</I><br>
-<I>36.08.11  Implantation perkutan-transluminal von Stents ohne Medikamentenfreisetzung, in einer Koronararterie</I><br>
+<i>36.08.22  Implantation perkutan-transluminal von Stents mit Medikamentenfreisetzung, in mehreren Koronararterien</i><br>
+<i>36.08.22  Implantation perkutan-transluminal von Stents mit Medikamentenfreisetzung, in mehreren Koronararterien</i><br>
+<i>36.08.11  Implantation perkutan-transluminal von Stents ohne Medikamentenfreisetzung, in einer Koronararterie</i><br>
 <br>  
 <br>
 
@@ -395,15 +393,15 @@ Kodierung:
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Gefässverschlusskörper / Embolie-Protektionssysteme/<br> gefässverschliessende Operationen/Interventionen</td>
+    <th style="border: 1px solid black;">Mot-clé:</th>
+    <td style="border: 1px solid black;">Gefässverschlusskörper / Embolie-Protektionssysteme / gefässverschliessende Operationen / Interventionen</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Erstellt</th>
+    <th style="border: 1px solid black;">Créé le:</th>
     <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0768</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Aktualisiert</th>
+    <th style="border: 1px solid black;">Mise à jour:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -415,27 +413,27 @@ Kodierung:
     <td style="border: 1px solid black;">39.79.2- / 39.79.5- / 39.E1 / 38.7X. / 00.4A.- / 00.4G.-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Kodierregel</th>
+    <th style="border: 1px solid black;">Règle de codage:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
 
 {{<markdown>}}
-**Problem/Erläuterung:**
+**Problème/explication:**
 {{</markdown>}}
 <br>
 <u>Gefässverschliessende Operationen</u><br>
-    In der CHOP existieren Kodes für gefässverschliessende Operationen/Interventionen, die s.g. Embolisationen mit Coils, Plugs, Schirmen usw., z. B. 39.79.2- <I>Coil-Embolisation oder -Verschluss von sonstigen Gefässen</I>, <I>39.79.5- Selektive Embolisation von sonstigen Gefässen mit Schirmen</I> oder 39.79.A- <I>Selektive Embolisation von sonstigen Gefässen mit Plugs</I> usw. 
+    In der CHOP existieren Kodes für gefässverschliessende Operationen/Interventionen, die s.g. Embolisationen mit Coils, Plugs, Schirmen usw., z. B. 39.79.2- <i>Coil-Embolisation oder -Verschluss von sonstigen Gefässen</i>, <i>39.79.5- Selektive Embolisation von sonstigen Gefässen mit Schirmen</i> oder 39.79.A- <i>Selektive Embolisation von sonstigen Gefässen mit Plugs</i> usw. 
 <br><br>
-Des Weiteren stehen die Zusatzkodes aus der Subkategorie 00.4A.- <I>Anzahl verwendeter endovaskulärer Coils</I> und 00.4G.- <I>Einsetzen von Gefässverschlusskörpern</I> zur Verfügung. 
+Des Weiteren stehen die Zusatzkodes aus der Subkategorie 00.4A.- <i>Anzahl verwendeter endovaskulärer Coils</i> und 00.4G.- <i>Einsetzen von Gefässverschlusskörpern</i> zur Verfügung. 
 <br><br>
-Die Zusatzkodes der Elementegruppen von 00.4G.2- bis 00.4G.6-<I> Eingesetzte vaskuläre Schirme in [...], nach Anzahl</I>, gelten nur für die Abbildung der verwendeten Devices im Kontext von gefässverschliessenden Operationen/Interventionen (z. B. selektive Embolisationen) als Zusatzkodes. 
+Die Zusatzkodes der Elementegruppen von 00.4G.2- bis 00.4G.6-<i> Eingesetzte vaskuläre Schirme in [...], nach Anzahl</i>, gelten nur für die Abbildung der verwendeten Devices im Kontext von gefässverschliessenden Operationen/Interventionen (z. B. selektive Embolisationen) als Zusatzkodes. 
 Die Kodes unter 00.4G.- sind für Embolie-Protektionssysteme nicht zu verwenden. 
 <br><br>
 <u>Embolie-Protektionssysteme</u><br>
-Der Zusatzkode 39.E1 <I>Verwendung eines Embolie-Protektionssystems</I> ermöglicht die Erfassung von periinterventionellen Embolie-Protektionssystemen. 
+Der Zusatzkode 39.E1 <i>Verwendung eines Embolie-Protektionssystems</i> ermöglicht die Erfassung von periinterventionellen Embolie-Protektionssystemen. 
 <br><br>
-Die Kodes 38.7X.11 <I>Einsetzen eines Embolie-Protektionssystems in die Vena cava, offen chirurgisch</I>, 38.7X.21 <I>Einsetzen eines Embolie-Protektionssystems in die Vena cava, perkutan-transluminal</I>, <I>39.75.13 Perkutan-transluminale Gefässintervention, sonstige Gefässe, Embolie-Protektionssystem (periphere oder viszerale Gefässe)</I> stellen permanente Systeme dar.
+Die Kodes 38.7X.11 <i>Einsetzen eines Embolie-Protektionssystems in die Vena cava, offen chirurgisch</i>, 38.7X.21 <i>Einsetzen eines Embolie-Protektionssystems in die Vena cava, perkutan-transluminal</i>, <i>39.75.13 Perkutan-transluminale Gefässintervention, sonstige Gefässe, Embolie-Protektionssystem (periphere oder viszerale Gefässe)</i> stellen permanente Systeme dar.
 <br>  
 <br>
   
@@ -448,15 +446,15 @@ Die Kodes 38.7X.11 <I>Einsetzen eines Embolie-Protektionssystems in die Vena cav
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Schlagwort</th>
+    <th style="border: 1px solid black;">Mot-clé:</th>
     <td style="border: 1px solid black;">Gallenwege / offen chirurgische / laparoskopische Eingriffe</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Erstellt</th>
+    <th style="border: 1px solid black;">Créé le:</th>
     <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0903</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Aktualisiert</th>
+    <th style="border: 1px solid black;">Mise à jour:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -468,21 +466,21 @@ Die Kodes 38.7X.11 <I>Einsetzen eines Embolie-Protektionssystems in die Vena cav
     <td style="border: 1px solid black;">51.99.00 - 51.99.14 / 51.99.91 / 51.99.99</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Kodierregel</th>
+    <th style="border: 1px solid black;">Règle de codage:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
 
-<b>Problem/Erläuterung:</b><br>
+<b>Problème/explication:</b><br>
 Folgende Kodes der Subkategorie 51.99.- Sonstige Operationen an den Gallenwegen sind nur für offen chirurgische oder laparoskopische Eingriffe abzubilden:
 <body>
     <ul>
-        <li>51.99.00 <I>n.n.bez.</I> und 51.99.99 <I>sonstige</I></li>
-        <li>51.99.11 <I>Destruktion an den Gallengängen</I></li>
-        <li>51.99.12 <I>Einlage einer Drainage in den Gallengang</I></li>
-        <li>51.99.13 <I>Blutstillung an den Gallengängen</I></li>
-        <li>51.99.14 <I>Revision an den Gallengängen</I></li>
-        <li>51.99.91 <I>Sonstige Rekonstruktion der Gallenwegen</I></li>
+        <li>51.99.00 <i>n.n.bez.</i> und 51.99.99 <i>sonstige</i></li>
+        <li>51.99.11 <i>Destruktion an den Gallengängen</i></li>
+        <li>51.99.12 <i>Einlage einer Drainage in den Gallengang</i></li>
+        <li>51.99.13 <i>Blutstillung an den Gallengängen</i></li>
+        <li>51.99.14 <i>Revision an den Gallengängen</i></li>
+        <li>51.99.91 <i>Sonstige Rekonstruktion der Gallenwegen</i></li>
     </ul>
 </body>
 Der Kode 51.99.90 Sonstige endoskopische Operationen an den Gallenwegen, wie im Titel angegeben, ist nur für endoskopische Interventionen zu erfassen.
@@ -498,15 +496,15 @@ Der Kode 51.99.90 Sonstige endoskopische Operationen an den Gallenwegen, wie im 
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Schlagwort</th>
+    <th style="border: 1px solid black;">Mot-clé:</th>
     <td style="border: 1px solid black;">Wechsel Knieendoprothese / Implantation Knieendoprothese / Wechsel Komponenten / Patella-Rückflächenersatz</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Erstellt</th>
-    <td style="border: 1px solid black;">Erstellt: 	01.01.2026 – Basis RS 2025/2: 0808</td>
+    <th style="border: 1px solid black;">Créé le:</th>
+    <td style="border: 1px solid black;">Créé le:: 	01.01.2026 – Basis RS 2025/2: 0808</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Aktualisiert</th>
+    <th style="border: 1px solid black;">Mise à jour:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -518,17 +516,17 @@ Der Kode 51.99.90 Sonstige endoskopische Operationen an den Gallenwegen, wie im 
     <td style="border: 1px solid black;">81.54.2-; 81.54.3-; 81.54.4-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Kodierregel</th>
+    <th style="border: 1px solid black;">Règle de codage:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
 <br>
-<b>Problem/Erläuterung:</b><br>
+<b>Problème/explication:</b><br>
 Wird eine bestehende Knieendoprothese, unabhängig vom Typ, durch eine andere Knieendoprothese ersetzt, ist für die Implantation der Kode mit der Bezeichnung «bei einem Prothesenwechsel» zu wählen. 
 <br><br>
-Z. B. Explantation einer Hemiendoprothese und Implantation einer Totalendoprothese am gleichen Knie: für die Implantation muss der Kode 81.54.31 <I>Implantation einer Standard-Totalendoprothese des Kniegelenks bei einem Prothesenwechsel</I> erfasst werden und <b>nicht</b> der Kode 81.54.21 <I>Erstimplantation einer Standard-Totalendoprothese des Kniegelenks</I>.
+Z. B. Explantation einer Hemiendoprothese und Implantation einer Totalendoprothese am gleichen Knie: für die Implantation muss der Kode 81.54.31 <i>Implantation einer Standard-Totalendoprothese des Kniegelenks bei einem Prothesenwechsel</i> erfasst werden und <b>nicht</b> der Kode 81.54.21 <i>Erstimplantation einer Standard-Totalendoprothese des Kniegelenks</i>.
 <br><br>
-Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückflächenersatz eingesetzt, muss der Kode 81.54.42 <I>Implantation eines Patella-Rückflächenersatz bei einem Wechsel</I> erfasst werden und <b>nicht</b> der Kode 81.54.27 <I>Erstimplantation eines Patella-Rückflächenersatzes</I>.
+Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückflächenersatz eingesetzt, muss der Kode 81.54.42 <i>Implantation eines Patella-Rückflächenersatz bei einem Wechsel</i> erfasst werden und <b>nicht</b> der Kode 81.54.27 <i>Erstimplantation eines Patella-Rückflächenersatzes</i>.
 <br>
 <br>
 
@@ -541,15 +539,15 @@ Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückfl
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Schlagwort</th>
+    <th style="border: 1px solid black;">Mot-clé:</th>
     <td style="border: 1px solid black;">Eingriffe Hand, Fuss, Mittelhand- Fingerstrahlen, Mittelfuss-Zehenstrahlen</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Erstellt</th>
+    <th style="border: 1px solid black;">Créé le:</th>
     <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0818</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Aktualisiert</th>
+    <th style="border: 1px solid black;">Mise à jour:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -561,12 +559,12 @@ Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückfl
     <td style="border: 1px solid black;">00.9C.-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Kodierregel</th>
+    <th style="border: 1px solid black;">Règle de codage:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
 
-<b>Problem/Erläuterung:</b><br>
+<b>Problème/explication:</b><br>
 Folgende Tabelle präzisiert die Kodierung von Eingriffskode und Zusatzkode bei einzeitigen Mehrfacheingriffen, am Beispiel der Hand.
 <br><br>
 {{<insertImage image="FAQCHOP0008Tabelle.png" class="edge max-w-90">}}
@@ -582,15 +580,15 @@ Folgende Tabelle präzisiert die Kodierung von Eingriffskode und Zusatzkode bei 
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Schlagwort</th>
+    <th style="border: 1px solid black;">Mot-clé:</th>
     <td style="border: 1px solid black;">Lateralitätsmarkierung / paarige Organe / nicht- paarige Organe</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Erstellt</th>
+    <th style="border: 1px solid black;">Créé le:</th>
     <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0759</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Aktualisiert</th>
+    <th style="border: 1px solid black;">Mise à jour:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -602,7 +600,7 @@ Folgende Tabelle präzisiert die Kodierung von Eingriffskode und Zusatzkode bei 
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Kodierregel</th>
+    <th style="border: 1px solid black;">Règle de codage:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -621,15 +619,15 @@ Die Angabe der Lateralität ist nur bei paarigen Organen ein Muss (entsprechende
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Schlagwort</th>
+    <th style="border: 1px solid black;">Mot-clé:</th>
     <td style="border: 1px solid black;">Zählung Therapieminuten / Gruppentherapie / Einzeltherapie / Therapiedauer</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Erstellt</th>
+    <th style="border: 1px solid black;">Créé le:</th>
     <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0762</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Aktualisiert</th>
+    <th style="border: 1px solid black;">Mise à jour:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -641,13 +639,13 @@ Die Angabe der Lateralität ist nur bei paarigen Organen ein Muss (entsprechende
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Kodierregel</th>
+    <th style="border: 1px solid black;">Règle de codage:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
 
 {{<markdown>}}
-**Problem/Erläuterung:**  
+**Problème/explication:**  
 Bei einer Gruppentherapie ist die gesamte Therapiedauer zu zählen, an der die Patientin / der Patient anwesend ist. Z. B. wenn fünf Patient/innen an einer Stunde Gruppentherapie mit einer Dauer von 60 Minuten teilgenommen haben, werden bei jeder Patientin/jedem Patienten 60 Minuten Therapiedauer angerechnet. Bei einer Therapiedauer von 50 Minuten werden 50 Minuten angerechnet usw.  
 Wird bei einer Gruppen- oder Einzeltherapie die gleiche Therapieart / Therapieleistung durch zwei oder mehr Therapeuten / Pflegefachpersonen erbracht, ist die erbrachte Therapiezeit einmal zu zählen.  
 Es gilt unabhängig von der Anzahl der Therapeuten, die Therapiezeit am/an den Patienten. Es gilt die Therapiezeit, welche jede/r Patient/in erhalten hat, unabhängig von der Anzahl der Therapeuten.
@@ -665,15 +663,15 @@ Ausnahme: Es bestehen CHOP-Kodes, bei denen im Beachte angegeben ist, dass die g
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Schlagwort</th>
+    <th style="border: 1px solid black;">Mot-clé:</th>
     <td style="border: 1px solid black;">Isolationsmassnahmen / Isolierung / Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Erstellt</th>
-    <td style="border: 1px solid black;">Erstellt:	01.01.2026 – Basis RS 2025/2: 0758/2</td>
+    <th style="border: 1px solid black;">Créé le:</th>
+    <td style="border: 1px solid black;">Créé le::	01.01.2026 – Basis RS 2025/2: 0758/2</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Aktualisiert</th>
+    <th style="border: 1px solid black;">Mise à jour:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -685,14 +683,14 @@ Ausnahme: Es bestehen CHOP-Kodes, bei denen im Beachte angegeben ist, dass die g
     <td style="border: 1px solid black;">93.59.5- / 99.84.1- / 99.84.2- / 99.84.3-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Kodierregel</th>
+    <th style="border: 1px solid black;">Règle de codage:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
 
-<b>Problem/Erläuterung:</b><br>
-Unter den Elementegruppen 99.84.1- <L>Kontaktisolierung, nach Anzahl Behandlungstage,</L> 
-99.84.2- <L>Tröpfchenisolierung, […]</L> und 99.84.3- <L>Aerosolisolierung, […]</L> ist folgendes «Exklusivum – Kode weglassen» angegeben: 
+<b>Problème/explication:</b><br>
+Unter den Elementegruppen 99.84.1- <l>Kontaktisolierung, nach Anzahl Behandlungstage,</l> 
+99.84.2- <l>Tröpfchenisolierung, […]</l> und 99.84.3- <l>Aerosolisolierung, […]</l> ist folgendes «Exklusivum – Kode weglassen» angegeben: 
 <br>
 <br>
 {{<grid class="ps-0">}}
@@ -722,15 +720,15 @@ Dies bedeutet, dass die zeitgleiche Kodierung von 93.59.5- und 99.84.1-, 99.84.2
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Schlagwort</th>
+    <th style="border: 1px solid black;">Mot-clé:</th>
     <td style="border: 1px solid black;">Infektion mit multiresistenten Erregern / Isolationsmassnahme</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Erstellt</th>
+    <th style="border: 1px solid black;">Créé le:</th>
     <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0758/1</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Aktualisiert</th>
+    <th style="border: 1px solid black;">Mise à jour:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -742,13 +740,13 @@ Dies bedeutet, dass die zeitgleiche Kodierung von 93.59.5- und 99.84.1-, 99.84.2
     <td style="border: 1px solid black;">93.59.5-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Kodierregel</th>
+    <th style="border: 1px solid black;">Règle de codage:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
 
 {{<markdown>}}
-**Problem/Erläuterung:**  
+**Problème/explication:**  
 Zur Berechnung der Behandlungstage für die CHOP-Kodes der Elementegruppe 93.59.5- _Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage_ darf bei Erfüllung der Mindestmerkmale der Eintritts- sowie Austrittstag nur als **ein Behandlungstag** angerechnet werden.
 {{</markdown>}}
 <br>  
@@ -763,15 +761,15 @@ Zur Berechnung der Behandlungstage für die CHOP-Kodes der Elementegruppe 93.59.
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Schlagwort</th>
+    <th style="border: 1px solid black;">Mot-clé:</th>
     <td style="border: 1px solid black;">Komplexbehandlungen / 6 Behandlungstage /  Mindestmerkmale</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Erstellt</th>
+    <th style="border: 1px solid black;">Créé le:</th>
     <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0782</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Aktualisiert</th>
+    <th style="border: 1px solid black;">Mise à jour:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -783,13 +781,13 @@ Zur Berechnung der Behandlungstage für die CHOP-Kodes der Elementegruppe 93.59.
     <td style="border: 1px solid black;">39.99.21</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Kodierregel</th>
+    <th style="border: 1px solid black;">Règle de codage:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
 
 {{<markdown>}}
-**Problem/Erläuterung:**  
+**Problème/explication:**  
 Die Kodes «[…], bis 6 Behandlungstage» werden in Fällen erfasst, bei denen während des stationären Aufenthalts an maximal 6 Behandlungstagen die jeweils genannte Komplexbehandlung durchgeführt wurde. Diese Kodes beinhalten keine Mindestanzahl Behandlungstage.  
 D. h. bei diesen Kodes entfallen die Mindestmerkmale, die sich auf eine Woche oder bestimmte Anzahl Behandlungstage beziehen. Mindestmerkmale, wie Indikationen, Assessments, Behandlungsinfrastruktur (z. B. Zertifizierung) und Qualifikationen sind einzuhalten
 
@@ -806,15 +804,15 @@ D. h. bei diesen Kodes entfallen die Mindestmerkmale, die sich auf eine Woche od
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Stroke Unit / Stroke Center, Komplexdiagnostik des akuten Hirnschlags in Stroke Unit oder Stroke Center / neurologische Befunderhebung / Auslegung Mindestmerkmal Punkt 3</td>
+    <th style="border: 1px solid black;">Mot-clé:</th>
+    <td style="border: 1px solid black;">Stroke Unit / Stroke Center, Komplexdiagnostik des akuten Hirnschlags in Stroke Unit oder Stroke Center /<br> neurologische Befunderhebung / Auslegung Mindestmerkmal Punkt 3</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Erstellt</th>
+    <th style="border: 1px solid black;">Créé le:</th>
     <td style="border: 1px solid black;">01.01.2026 - Neu</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Aktualisiert</th>
+    <th style="border: 1px solid black;">Mise à jour:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -826,13 +824,13 @@ D. h. bei diesen Kodes entfallen die Mindestmerkmale, die sich auf eine Woche od
     <td style="border: 1px solid black;">99.A7. / 99.BA.1- / 99.BA.2- / 99.BA.3</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Kodierregel</th>
+    <th style="border: 1px solid black;">Règle de codage:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
 
 {{<markdown>}}
-**Problem/Erläuterung:**  
+**Problème/explication:**  
 Gemäss dem offiziellen Referenzdokument zur Zertifizierung von Stroke Units und Stroke Centern (Version V vom 18.11.2021, Swiss Federation of Clinical Neuro-Societies SFCNS) muss der klinisch-neurologische Befund mindestens viermal innerhalb von 24 Stunden systematisch überprüft werden.
   
 Der vom jeweiligen Stroke Center oder der Stroke Unit etablierte Prozess zur Früherkennung von Hirnschlagprogression, Rezidiven und anderen neurologischen Komplikationen wird im Rahmen der Zertifizierung evaluiert und durch eine erfolgreiche Zertifizierung in seiner Validität bestätigt.
@@ -850,21 +848,19 @@ Die **alleinige** Erfassung des Glasgow Coma Scale (GCS) ist für den klinisch n
 {{</article>}}
 
 
-
-
 {{<article number="0016"  title="CHOP - Auflistung von Massnahmen in den Komplexbehandlungen oder Komplexdiagnostiken" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Massnahmen Komplexdiagnostiken /<br> Komplexbehandlungen, Therapiebereiche /<br> Mindestmerkmale"</td>
+    <th style="border: 1px solid black;">Mot-clé:</th>
+    <td style="border: 1px solid black;">Massnahmen Komplexdiagnostiken / Komplexbehandlungen, Therapiebereiche / Mindestmerkmale</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Erstellt</th>
+    <th style="border: 1px solid black;">Créé le:</th>
     <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0761</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Aktualisiert</th>
+    <th style="border: 1px solid black;">Mise à jour:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -876,15 +872,15 @@ Die **alleinige** Erfassung des Glasgow Coma Scale (GCS) ist für den klinisch n
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Kodierregel</th>
+    <th style="border: 1px solid black;">Règle de codage:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
 
 {{<markdown>}}
-**Problem/Erläuterung:**  
+**Problème/explication:**  
 In den Beachte zu den Komplexbehandlungen oder Komplexdiagnostiken angegebene Auflistungen, die auf Sätze folgen im Sinne von «Einsatz von mindestens x Therapiebereichen» oder «Mindestens x der folgenden Massnahmen», bedeuten, dass mindestens x verschiedene der aufgelisteten Therapiebereiche oder Massnahmen zum Einsatz kommen. Der Einsatz / die Durchführung von x-mal der gleichen Massnahme / des gleichen Therapiebereichs erfüllt die Mindestanforderungen nicht.
-Beispiel: Unter 99.A6.- Neurologische Komplexdiagnostik wird im «Beachte» folgende Auflistung aufgeführt:
+Beispiel: Unter 99.A6.- <i>Neurologische Komplexdiagnostik</i> wird im «Beachte» folgende Auflistung aufgeführt:
 {{</markdown>}}
 <br>
 <br>
@@ -917,15 +913,15 @@ Werden hingegen ein craniales MRI, eine neurophysiologische Diagnostik sowie ein
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Schlagwort</th>
+    <th style="border: 1px solid black;">Mot-clé:</th>
     <td style="border: 1px solid black;">Pflege-Komplexbehandlung / Leistungsgruppen / Pflegeinterventionen</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Erstellt</th>
+    <th style="border: 1px solid black;">Créé le:</th>
     <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0760</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Aktualisiert</th>
+    <th style="border: 1px solid black;">Mise à jour:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -937,13 +933,13 @@ Werden hingegen ein craniales MRI, eine neurophysiologische Diagnostik sowie ein
     <td style="border: 1px solid black;">99.C-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Kodierregel</th>
+    <th style="border: 1px solid black;">Règle de codage:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
 
 {{<markdown>}}
-**Problem/Erläuterung:**  
+**Problème/explication:**  
 Pflegeinterventionen könnten theoretisch mehreren Leistungsgruppen zugeordnet werden. In der Pflege-Komplexbehandlung darf eine geleistete Pflegeintervention jedoch nur einer Leistungsgruppe zugeordnet werden. Dies bedeutet nicht, dass sie zwingend der Leistungsgruppe zugeordnet wird in der bereits Aufwandspunkte für diesen Tag erfasst wurden.
   
 Beispiel 1: Ein «Transfer auf die Toilette» könnte im Rahmen des Pflegeinterventionsprofils 1.1 der Leistungsgruppe 1 «Bewegung» oder im Rahmen des Pflegeinterventionsprofils 3.1 der Leistungsgruppe 3 «Ausscheidung» geleistet werden. Wenn die Aktivität unter der Leistungsgruppe 1 erfasst wird, darf sie nicht zusätzlich bei der Leistungsgruppe 3 erfasst werden, oder umgekehrt. Die Aktivität darf nur einem der zwei Pflegeinterventionsprofile zugeordnet werden.
@@ -962,15 +958,15 @@ Beispiel 2: Eine «Hygienemassnahme» könnte im Rahmen des Pflegeinterventionsp
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Schlagwort</th>
+    <th style="border: 1px solid black;">Mot-clé:</th>
     <td style="border: 1px solid black;">Fallzusammenführung / PBA</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Erstellt</th>
+    <th style="border: 1px solid black;">Créé le:</th>
     <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0754/5</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Aktualisiert</th>
+    <th style="border: 1px solid black;">Mise à jour:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -982,7 +978,7 @@ Beispiel 2: Eine «Hygienemassnahme» könnte im Rahmen des Pflegeinterventionsp
     <td style="border: 1px solid black;">93.8A.2- / 93.8B.-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Kodierregel</th>
+    <th style="border: 1px solid black;">Règle de codage:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -993,7 +989,7 @@ Beispiel 2: Eine «Hygienemassnahme» könnte im Rahmen des Pflegeinterventionsp
 Ist das standardisierte palliativmedizinische Basisassessment [PBA] bei der Rückkehr eines Patienten / einer Patientin im Rahmen einer Fallzusammenführung zu wiederholen?
   
 
-**Problem/Erläuterung:**  
+**Problème/explication:**  
 Folgende Fragestellung und Erläuterung bezieht sich auf die Elementegruppe 93.8A.2- _Palliativmedizinische Komplexbehandlung (ausserhalb einer eigenständigen spezialisierten Palliative Care Station), nach Anzahl Behandlungstage_ und die Subkategorie 93.8B.- _Behandlung auf einer eigenständigen spezialisierten Palliative Care Station_.
   
 Erläuterung:  
@@ -1012,15 +1008,15 @@ Bei einer Fallzusammenführung mit palliativmedizinischer Komplexbehandlung im e
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Interprofessionelle Teambesprechung / palliativmedizinische Komplexbehandlung / palliative care</td>
+    <th style="border: 1px solid black;">Mot-clé:</th>
+    <td style="border: 1px solid black;">Interprofessionelle Teambesprechung / palliativmedizinische Komplexbehandlung / Palliative care</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Erstellt</th>
+    <th style="border: 1px solid black;">Créé le:</th>
     <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0754/2, 0754/3, 0754/4</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Aktualisiert</th>
+    <th style="border: 1px solid black;">Mise à jour:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -1032,23 +1028,20 @@ Bei einer Fallzusammenführung mit palliativmedizinischer Komplexbehandlung im e
     <td style="border: 1px solid black;">93.8A.2- / 93.8B.-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Kodierregel</th>
+    <th style="border: 1px solid black;">Règle de codage:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
 
-Folgende Fragestellungen und Erläuterungen beziehen sich auf die Elementegruppe 93.8A.2- <I>Palliativmedizinische Komplexbehandlung (ausserhalb einer eigenständigen spezialisierten Palliative Care Station), nach Anzahl Behandlungstage</I> und die Subkategorie 93.8B.- <I>Behandlung auf einer eigenständigen spezialisierten Palliative Care Station</I>.
-<br>
+Folgende Fragestellungen und Erläuterungen beziehen sich auf die Elementegruppe 93.8A.2- <i>Palliativmedizinische Komplexbehandlung (ausserhalb einer eigenständigen spezialisierten Palliative Care Station), nach Anzahl Behandlungstage</i> und die Subkategorie 93.8B.- <i>Behandlung auf einer eigenständigen spezialisierten Palliative Care Station</i>.
 <br>
 <br>
 <b>Fragestellung Nr. 1:</b><br>  
 In Bezug auf Mindestmerkmal Punkt 3, _Behandlungsteam und Therapie_ der 93.8A.2- und _Mindestmerkmal Punkt 3_, Therapie sowie _Mindestmerkmal_ Punkt 4, Behandlungsteam der 93.8B.-: Welche Therapiebereiche gibt es und was wird zu den 6 Stunden gezählt?
 <br>
 <br>
-<br>
 <b>Erläuterung Nr. 1:</b><br>  
 Die Aufzählung der Therapiebereiche (Sozialarbeit/-pädagogik, Psychologie, Physiotherapie, Ergotherapie, Logopädie, Ernährungsberatung/-therapie, Seelsorge, Kunsttherapie) ist sowohl für 93.8A.2- als für 93.8B.- abschliessend. 
-<br>
 <br>
 <br>  
 Grundvoraussetzung für die Kodierung ist die Dokumentation der Gespräche und Therapien. Die Art der Therapie, deren Dauer und das Datum der Durchführung müssen von allen beteiligten Berufsgruppen nachvollziehbar dokumentiert sein.<br>
@@ -1095,15 +1088,15 @@ Bei der «interprofessionellen Visite» ist unter «interprofessionell» zu vers
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Interprofessionelle Teambesprechung / palliativmedizinische Komplexbehandlung / palliative care</td>
+    <th style="border: 1px solid black;">Mot-clé:</th>
+    <td style="border: 1px solid black;">SENS / palliativmedizinisches Basisassessment / ESAS</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Erstellt</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0754/2, 0754/3, 0754/4</td>
+    <th style="border: 1px solid black;">Créé le:</th>
+    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0754/1</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Aktualisiert</th>
+    <th style="border: 1px solid black;">Mise à jour:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -1112,16 +1105,16 @@ Bei der «interprofessionellen Visite» ist unter «interprofessionell» zu vers
   </tr>
   <tr>
     <th style="border: 1px solid black;">CHOP</th>
-    <td style="border: 1px solid black;">93.8A.2- / 93.8B.-</td>
+    <td style="border: 1px solid black;">93.8A.12 / 93.8A.2- / 93.8B.-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Kodierregel</th>
+    <th style="border: 1px solid black;">Règle de codage:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
 
 {{<markdown>}}
-**Problem/Erläuterung:**  
+**Problème/explication:**  
 **Ist SENS ebenfalls ein standardisiertes palliativmedizinisches Basisassessment (PBA)?**  
 Mit dem SENS-Assessment werden folgende Bereiche der Palliativversorgung abgedeckt: Symptommanagement, Entscheidungsfindung/ End of Life Vorbereitung, Netzwerk-Organisation, Support der Angehörigen. SENS integriert alle Themenbereiche der gängigen Ziele, Definitionen und Modelle.  
 Somit ist auch ein dokumentiertes SENS-Assessment als standardisiertes palliativmedizinisches Basisassessment für die Kodes 93.8A.2- und 93.8B.- anzuerkennen.
@@ -1143,15 +1136,15 @@ Die alleinige Durchführung eines Assessmentinstrumentes (z. B. ESAS) zur Erfass
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Schlagwort</th>
+    <th style="border: 1px solid black;">Mot-clé:</th>
     <td style="border: 1px solid black;">Zusatzkodes der Elementegruppe 93.8B.2-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Erstellt</th>
+    <th style="border: 1px solid black;">Créé le:</th>
     <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0754/6</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Aktualisiert</th>
+    <th style="border: 1px solid black;">Mise à jour:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -1163,13 +1156,13 @@ Die alleinige Durchführung eines Assessmentinstrumentes (z. B. ESAS) zur Erfass
     <td style="border: 1px solid black;">93.8B.-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Kodierregel</th>
+    <th style="border: 1px solid black;">Règle de codage:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
 
 {{<markdown>}}
-**Problem/Erläuterung:**  
+**Problème/explication:**  
 Die Elementegruppe 93.8B.1- stellt den _«Aufenthalt auf einer eigenständigen spezialisierten Palliative Care Station, nach Anzahl Behandlungstage»_ dar. Falls die Mindestmerkmale unter 93.8B.- sowie unter 93.8B.1- erfüllt sind, ist der entsprechende Kode unter 93.8B.1- für die gesamte Behandlungsdauer auf der spezialisierten Palliative Care Station zu erfassen. Falls in einer oder mehreren Behandlungswochen **parallel zum Aufenthalt** auf einer eigenständigen spezialisierten Palliative Care Station spezialisierte Palliative Care Zusatzleistungen erbracht werden, kann der entsprechende Kode der Elementegruppe 93.8B.2- _Zusatzleistung auf einer eigenständigen spezialisierten Palliative Care Station, nach Anzahl Behandlungstage_ erfasst werden.
   
 Folgende zwei Beispiele veranschaulichen die gemeinte Erfassungsweise der Zusatzkodes der Elementegruppe 93.8B.2- _«Zusatzleistung auf einer eigenständigen spezialisierten Palliative Care Station, nach Anzahl Behandlungstage»_.
@@ -1192,15 +1185,15 @@ Folgende zwei Beispiele veranschaulichen die gemeinte Erfassungsweise der Zusatz
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Schlagwort</th>
+    <th style="border: 1px solid black;">Mot-clé:</th>
     <td style="border: 1px solid black;">Stabwechsel Wirbelsäule / Neufusion Segmente bei Überbrückung / Revisionseingriff Wirbelsäule / Zählung der Segmente</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Erstellt</th>
+    <th style="border: 1px solid black;">Créé le:</th>
     <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0788</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Aktualisiert</th>
+    <th style="border: 1px solid black;">Mise à jour:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -1212,13 +1205,13 @@ Folgende zwei Beispiele veranschaulichen die gemeinte Erfassungsweise der Zusatz
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Kodierregel</th>
+    <th style="border: 1px solid black;">Règle de codage:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
 
 {{<markdown>}}
-**Problem/Erläuterung:**  
+**Problème/explication:**  
 Die Segmente, bei denen anlässlich eines Revisionseingriffs an der Wirbelsäule nur die Stäbe entfernt (und diese z. B. durch längere Stäbe ersetzt werden bei Anschlusssegment-Pathologie) und bei denen sonst keine operativen Massnahmen an den Wirbelkörpern vorgenommen werden, wie z. B. Einsetzen neuer Pedikelschrauben oder eines Cages, Dekortizierung der Facettengelenke, Anlage von lokalem Knochen oder Knochenersatzmaterial, fliessen nicht in die Zählung der operierten Segmente mit ein.
 
 **Ad Zählen der Segmente bei Überbrückung:**  
@@ -1237,15 +1230,15 @@ Bei z. B. vorbestehender Spondylodese L2 – L4 und aktuell Neufusion der Segmen
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Schlagwort</th>
+    <th style="border: 1px solid black;">Mot-clé:</th>
     <td style="border: 1px solid black;">Growing rod, dynamische Stabilisierung der Wirbelsäule / Zählung der Segmente</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Erstellt</th>
+    <th style="border: 1px solid black;">Créé le:</th>
     <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0819</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Aktualisiert</th>
+    <th style="border: 1px solid black;">Mise à jour:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -1257,16 +1250,16 @@ Bei z. B. vorbestehender Spondylodese L2 – L4 und aktuell Neufusion der Segmen
     <td style="border: 1px solid black;">7A.A2 / 7A.72.1-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Kodierregel</th>
+    <th style="border: 1px solid black;">Règle de codage:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
 
-<b>Problem/Erläuterung:</b>
+<b>Problème/explication:</b>
 <br>
-Der Kode 7A.A2 Implantation von mitwachsenden oder expandierenden Systemen, Wirbelsäule ist ein Zusatzkode und kann daher nicht allein kodiert werden. 
+Der Kode 7A.A2 <i>Implantation von mitwachsenden oder expandierenden Systemen, Wirbelsäule</i> ist ein Zusatzkode und kann daher nicht allein kodiert werden. 
 <br>
-Beim Eingriff handelt es sich um eine <b>dynamische Stabilisierung der Wirbelsäule</b>, die mit <b><L>7A.72.1- Dynamische Stabilisierung der Wirbelsäule, Zugang dorsal und dorsolateral</b></L> erfasst wird.<br>
+Beim Eingriff handelt es sich um eine <b>dynamische Stabilisierung der Wirbelsäule</b>, die mit <b><L>7A.72.1- <i>Dynamische Stabilisierung der Wirbelsäule, Zugang dorsal und dorsolateral</i></b></L> erfasst wird.<br>
 Zur Zählung der behandelten Segmente werden nur die Segmente, an denen das System befestigt wird, berücksichtigt. 
 
 <br>  
@@ -1281,15 +1274,15 @@ Zur Zählung der behandelten Segmente werden nur die Segmente, an denen das Syst
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Schlagwort</th>
+    <th style="border: 1px solid black;">Mot-clé:</th>
     <td style="border: 1px solid black;">Stabilisierung / Stellungskorrektur der Wirbelsäule / Zugang dorsal und/ oder dorsolateral / ventral, Zählung Segmente</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Erstellt</th>
-    <td style="border: 1px solid black;">Stabilisierung / Stellungskorrektur der Wirbelsäule / Zugang dorsal und/ oder dorsolateral / ventral, Zählung Segmente</td>
+    <th style="border: 1px solid black;">Créé le:</th>
+    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0766</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Aktualisiert</th>
+    <th style="border: 1px solid black;">Mise à jour:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -1301,13 +1294,13 @@ Zur Zählung der behandelten Segmente werden nur die Segmente, an denen das Syst
     <td style="border: 1px solid black;">7A.7- / 7A.B4.-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Kodierregel</th>
+    <th style="border: 1px solid black;">Règle de codage:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
 
 {{<markdown>}}
-**Problem/Erläuterung:**  
+**Problème/explication:**  
 Für die Subkategorien 7A.71.- bis 7A.74.- erfolgte die Aufgliederung in 5. Stelle für den Zugang «dorsal und dorsolateral», bzw. «ventral», in 6. Stelle nach der Anzahl behandelter Segmente (aufgegliedert bis 14 und mehr).  
 Das «und» ist gemäss CHOP-Konventionen als «und/oder» zu verstehen. 
   
@@ -1332,15 +1325,15 @@ Im Beispiel der folgenden Abbildung erfolgte eine Spondylodese über sechs Wirbe
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Fusion Wirbelsäule / Instrumentierung / <br>Knochenanlagerung, Knochentransplantation,<br> Knochenersatz an der Wirbelsäule,<br> stabilisierende Massnahmen</td>
+    <th style="border: 1px solid black;">Mot-clé:</th>
+    <td style="border: 1px solid black;">Fusion Wirbelsäule / Instrumentierung / Knochenanlagerung, Knochentransplantation, Knochenersatz an der Wirbelsäule, <br>stabilisierende Massnahmen</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Erstellt</th>
+    <th style="border: 1px solid black;">Créé le:</th>
     <td style="border: 1px solid black;">01.01.2026 - Neu</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Aktualisiert</th>
+    <th style="border: 1px solid black;">Mise à jour:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -1352,13 +1345,13 @@ Im Beispiel der folgenden Abbildung erfolgte eine Spondylodese über sechs Wirbe
     <td style="border: 1px solid black;">7A.71.-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Kodierregel</th>
+    <th style="border: 1px solid black;">Règle de codage:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
 
-<b>Problem/Erläuterung:</b> <br>
-Der Kode <b>7A.71.-</b> <I>Fusion von Wirbeln mit Stabilisierung der Wirbelsäule</I> ist anzuwenden, wenn eine <b>Wirbelfusion/ Versteifung</b> mit Stabilisierung durchgeführt wird, die zusätzlich eines der folgenden Merkmale erfüllt:<br>
+<b>Problème/explication:</b> <br>
+Der Kode <b>7A.71.-</b> <i>Fusion von Wirbeln mit Stabilisierung der Wirbelsäule</i> ist anzuwenden, wenn eine <b>Wirbelfusion / Versteifung</b> mit Stabilisierung durchgeführt wird, die zusätzlich eines der folgenden Merkmale erfüllt:<br>
 
 <body>
     <ul>
@@ -1382,18 +1375,17 @@ Es liegt keine <b>potenzielle Bewegungserhaltung</b> im betroffenen Segment vor.
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Knöcherne Fusion Wirbelsäule ohne <br>Instrumentierung / Knochentransplantation,<br> Knochentransposition,<br> 
-Knochenersatz an der Wirbelsäule
+    <th style="border: 1px solid black;">Mot-clé:</th>
+    <td style="border: 1px solid black;">Knöcherne Fusion Wirbelsäule ohne Instrumentierung / Knochentransplantation, Knochentransposition, Knochenersatz an der Wirbelsäule
 
 </td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Erstellt</th>
+    <th style="border: 1px solid black;">Créé le:</th>
     <td style="border: 1px solid black;">01.01.2026 - Neu</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Aktualisiert</th>
+    <th style="border: 1px solid black;">Mise à jour:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -1405,13 +1397,13 @@ Knochenersatz an der Wirbelsäule
     <td style="border: 1px solid black;">7A.51.14 / 7A.B1.- / 03.03.- / 03.04.- / 7A.71.-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Kodierregel</th>
+    <th style="border: 1px solid black;">Règle de codage:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
 
 {{<markdown>}}
-**Problem/Erläuterung:**  
+**Problème/explication:**  
 Eine knöcherne Fusion (Arthrodese / Spondylodese) der Wirbelsäule, bei der ausschliesslich autogenes Knochenmaterial (Spongiosa und/oder kortikospongiöser Span) eingebracht wird und **keine Instrumentierung** (z. B. Schrauben, Platten, Stäbe) erfolgt, wird mit dem CHOP-Kode **7A.51.14** _Knochentransplantation an der Wirbelsäule, autogen, Spongiosa und kortikospongiöser Span_ erfasst.  
   
 Bei einer durchgeführten Laminotomie, Laminektomie oder Laminoplastik ist dies zusätzlich mit dem zutreffenden Kode der Subkategorie 03.03.- _Laminotomie, Laminektomie und Laminoplastik_ zu erfassen. Die Höhe des Eingriffs an der Wirbelsäule wird mit dem zutreffenden Kode der Subkategorie 7A.B1.- _Höhe des Eingriffs an der Wirbelsäule_ kodiert, während der Zugang zur Wirbelsäule mit dem Kode 03.04.- dargestellt wird.  
@@ -1431,15 +1423,15 @@ Es darf **kein** Kode der Subkategorie 7A.71.- _Fusion von Wirbeln mit Stabilisi
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Schlagwort</th>
+    <th style="border: 1px solid black;">Mot-clé:</th>
     <td style="border: 1px solid black;">Nicht-dynamische Stabilisierung Wirbelsäule,<br> Instrumentierung / Osteosynthese an der Wirbelsäule</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Erstellt</th>
+    <th style="border: 1px solid black;">Créé le:</th>
     <td style="border: 1px solid black;">01.01.2026 - Neu</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Aktualisiert</th>
+    <th style="border: 1px solid black;">Mise à jour:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -1451,13 +1443,13 @@ Es darf **kein** Kode der Subkategorie 7A.71.- _Fusion von Wirbeln mit Stabilisi
     <td style="border: 1px solid black;">37A.73.-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Kodierregel</th>
+    <th style="border: 1px solid black;">Règle de codage:</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
 
 {{<markdown>}}
-**Problem/Erläuterung:**  
+**Problème/explication:**  
 Die Subkategorie **7A.73.-** wird verwendet zur Kodierung einer operativen Massnahme, bei der die Wirbelsäule mittels Osteosynthesematerialien wie **Schrauben, Stäben oder Platten** mechanisch **stabilisiert bzw. geschient** wird. Die Stabilisierung ist potenziell **reversibel –** durch eine **partielle oder vollständige Materialentfernung (OSME) nach Frakturheilung**.
 
 Typischerweise wird dieser Kode bei **traumatischen Pathologien**, insbesondere **thorakolumbalen Frakturen**, angewendet. Er kommt jedoch auch bei **anderen Indikationen** zum Einsatz.
