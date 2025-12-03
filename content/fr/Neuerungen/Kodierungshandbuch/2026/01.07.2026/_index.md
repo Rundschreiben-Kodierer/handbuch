@@ -9,4 +9,4 @@ keywords: []
 
 <p style="text-align: right;">{{<printButton>}}
   
-In Bearbeitung. Die Angaben werden bis zum 30.06.2026 aktualisiert
+En cours de travaux. Les informations seront actualisées d'ici au 30 juin 2026.

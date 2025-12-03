@@ -9,19 +9,19 @@ keywords: []
 
 <p style="text-align: right;">{{<printButton>}}
   
-Die nachfolgenden Aktualisierungen **«Kodierungshandbuch»** sind ab dem 01.01.2026 gültig. 
+I seguenti aggiornamenti **«Manuale di codifica»** sono validi a partire dal 01.01.2026. 
   
-{{<markdown>}}Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Löschungen in rot~~</font>
+{{<markdown>}}Legenda: <font color="green">novità in verde</font>, <font color="red">~~cancellazioni in rosso~~</font>
   
 
 
 		
-**1.1	G40o Dokumentation der Diagnosen und der Prozeduren**
+**1.1	G40o Documentation des diagnostics et des procédures**
   
-Betrifft alle Sprachversionen
+Riguarda tutte le versioni linguistiche
   
 […]
-Das BFS weist darauf hin, dass es nicht in der Lage ist, anstelle einer Ärztin oder eines Arztes eine Diagnose zu stellen. Es obliegt dem medizinischen ärztlichen Personal zu definieren, welche Eingriffe vorgenommen wurden und die Kodiererinnen und Kodierer darüber zu informieren<font color="green">.</font><font color="red">~~,wobei die Informationen zu den Diagnosen und erfolgten Prozeduren vollständig und schriftlich in den jeweiligen Berichten zur Verfügung gestellt werden müssen.~~</font> 
+L’UST ribadisce tuttavia che non può sostituirsi ai medici nella formulazione delle diagnosi. Spetta a questi definire gli interventi eseguiti e informare in merito le persone addette alla codificafont color="green">.</font><font color="red">>~~, dove le informazioni relative alle diagnosi e alle procedure eseguite devono essere fornite in modo completo e per iscritto nei rispettivi rapporti.~~</font>
 […]
 
 

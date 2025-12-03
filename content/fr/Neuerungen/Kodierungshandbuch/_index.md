@@ -1,5 +1,5 @@
 ---
-title: "Aktualisierungen zum Kodierungshandbuch"
+title: "Actualisations du manuel de codage"
 slug: KHB2026
 description: ""
 weight: 202
@@ -9,14 +9,14 @@ keywords: []
 <p style="text-align: right;">{{<printButton>}}
 
     
-Das Kapitel «Kodierungshandbuch» enthält sämtliche Aktualisierungen zum jeweils gültigen Medizinischen Kodierungshandbuch.
-Es dient als zentrale Referenz für Kodiererinnen und Kodierer, indem es die verbindlichen Richtlinien für die Kodierungspraxis erläutert, präzisiert und – wo erforderlich – um neue Vorgaben ergänzt.
-Dieses Kapitel bietet Hilfestellungen zur Interpretation, zeigt Anwendungsbeispiele für die Kodierrichtlinien und präzisiert spezielle Probleme der Kodierung. 
-Die Inhalte dieses Kapitels werden im Rahmen der halbjährlichen Publikationszyklen aktualisiert.
+Le chapitre «Manuel de codage» contient toutes les actualisations du manuel de codage médical en vigueur.
+Il sert de référence centrale pour les codeurs et codeuses en expliquant et en précisant les directives contraignantes relatives à la pratique du codage et en les complétant, si nécessaire, par de nouvelles consignes.
+Ce chapitre fournit une aide à l'interprétation, présente des exemples d'application des directives de codage et précise certains problèmes spécifiques liés au codage. 
+Le contenu de ce chapitre est actualisé dans le cadre des cycles de publication semestriels.
 ________________________________________
-**Registersystem:**
+**Système de registres:**
   
-Die Aktualisierungen zum Kodierungshandbuch sind in folgende Register unterteilt:
+Les actualisations du manuel de codage sont réparties dans les registres suivants :
 
 <body>
     <ul>
@@ -28,11 +28,11 @@ Die Aktualisierungen zum Kodierungshandbuch sind in folgende Register unterteilt
 </body>
   
 
-**Regelungen zur Gültigkeit und Funktion:**
+**Règles relatives à la validité et au fonctionnement:**
   
-Zu jeder Version des Kodierungshandbuchs wird ein Register mit dem Datum des Inkrafttretens angelegt. Darin sind sämtliche unterjährigen Aktualisierungen zur jeweiligen KHB-Version dokumentiert
-Voraussichtlich ist eine Version YYYY des Kodierungshandbuch ein Jahr gültig (im Jahr YYYY).
-Je Version können somit folgende Register vorkommen:
+Pour chaque version du manuel de codage, un registre indiquant la date d’entrée en vigueur est créé. Il documente toutes les actualisations effectuées au cours de l'année pour la version correspondante du MDC.  
+Une version YYYY du manuel de codage est valable pendant un an (en l’année YYYY).
+Par version les registres suivants peuvent donc exister:
 <body>
     <ul>
         <li>01.01.YYYY
@@ -42,14 +42,14 @@ Je Version können somit folgende Register vorkommen:
     </ul>
 </body>
 
-Das Datum gibt jeweils den Beginn der Gültigkeit an. Eine Anpassung / Korrektur zu einem Zeitpunkt X kann zu einem späteren Zeitpunkt Z einer weiteren Anpassung unterliegen. Bitte beachten Sie in der zweiten Jahreshälfte beide Register. 
+La date indique le début de la validité. Une adaptation/correction à un moment X peut faire l’objet d’une nouvelle adaptation à un moment Z ultérieur. Veuillez tenir compte des deux registres au cours du second semestre.  
   
-Die angegebenen Anpassungen und Korrekturen zu einer Version (z. B. KHB 2026) werden in der darauffolgenden Version des Kodierungshandbuch (z. B. KHB 2027) übernommen oder entfallen aufgrund einer Weiterentwicklung der Kodierungsrichtlinien unter der jeweiligen Kodierregel.
+Les adaptations et corrections indiquées pour une version (par exemple MDC 2026) sont reprises dans la version suivante du manuel de codage (par exemple MDC 2027) ou supprimées en raison d'une évolution des directives de codage dans le cadre de la règle de codage correspondante.
   
-Analog zu den übrigen Kapiteln der Aktualisierungen zu den Publikationen wird auch im Kapitel «Kodierungshandbuch» für Anpassungen, Ergänzungen und Streichungen folgende Legende verwendet:
+Comme pour les autres chapitres des actualisations des publications, la légende suivante est également utilisée dans le chapitre « Manuel de codage » pour les adaptations, les ajouts et les suppressions :
   
   
 {{<markdown>}}
-Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Löschungen in rot~~</font>
+Legende: <font color="green">Nouveautés en vert</font>, <font color="red">~~Suppressions en rouge~~</font>
 {{</markdown>}}
 

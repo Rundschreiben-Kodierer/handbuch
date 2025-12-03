@@ -1,5 +1,5 @@
 ---
-title: "Liste der schweizerischen Revisorinnen und Revisoren in der medizinischen Kodierung"
+title: ":Liste des réviseuses et réviseurs du codage médical"
 slug: Revisorenliste
 description: ""
 weight: 100
@@ -13,68 +13,68 @@ keywords: []
   
 {{<markdown>}}
   
-Dem Bundesamt für Statistik (BFS) obliegt es, gestützt auf Ziffer 3 des Reglements für die Durchführung der Kodierrevision unter SwissDRG (seit dem 1. Januar 2012), des Reglements für die Durchführung der Kodierrevision unter TARPSY (seit dem 1. Januar 2018) sowie der Kodierrevision unter ST Reha (fakultativ für Daten ab dem 1. Januar 2021, obligatorisch ab dem 1. Januar 2022), eine fortlaufend aktualisierte Liste der Revisorinnen und Revisoren zu unterhalten.
+L'Office fédéral de la statistique (OFS) est chargé, sur la base du chiffre 3 du règlement relatif à la révision du codage dans le cadre de SwissDRG (depuis le 1er janvier 2012), du règlement relatif à la révision du codage sous TARPSY (depuis le 1er janvier 2018) et de la révision du codage sous ST Reha (facultative pour les données à partir du 1er janvier 2021, obligatoire à partir du 1er janvier 2022), de tenir à jour une liste des réviseurs.
   
-Die Liste der schweizerischen Revisorinnen und Revisoren in der medizinischen Kodierung enthält eine aktuelle Übersicht der vom Bundesamt für Statistik (BFS) anerkannten Fachpersonen, welche die dazu erforderlichen Voraussetzungen erfüllen und im Bereich der medizinischen Kodierung als Revisorinnen und Revisoren tätig sind. 
+La liste des réviseurs suisses en codage médical contient un aperçu actuel des spécialistes reconnus par l'Office fédéral de la statistique (OFS) qui remplissent les conditions requises et exercent en tant que réviseurs dans le domaine du codage médical sur le site. 
   
-Die Liste ist in die drei Tarifstrukturen SwissDRG, TARPSY und ST Reha unterteilt und umfasst insbesondere folgende Angaben:
+La liste est divisée en trois structures tarifaires SwissDRG, TARPSY et ST Reha et comprend notamment les informations suivantes :
   
 <body>
     <ul>
-        <li><strong>Name und Vorname</strong> der Revisorin bzw. des Revisors</li>
-        <li><strong>Institution oder Organisation</strong>, bei welcher die Tätigkeit ausgeübt wird</li>
-        <li><strong>Kontaktangaben</strong> (z. B. E-Mail-Adresse oder Telefonnummer, sofern freigegeben)</li>
-        <li><strong>Regionale oder fachliche Zuständigkeit</strong>, soweit zutreffend</li>
-        <li><strong>Status der Anerkennung</strong> (z. B. gültige Zertifizierung oder Akkreditierung)</li>
+        <li><strong>Nom et prénom</strong> de l'auditeur ou de l'auditrice</li>
+        <li><strong>Institution ou organisation</strong>dans laquelle l'activité est exercée</li>
+        <li><strong>Coordonnées</strong> (par exemple, adresse électronique ou numéro de téléphone, si autorisé)</li>
+        <li><strong>Compétence régionale ou technique</strong>, le cas échéant</li>
+        <li><strong>Statut de reconnaissance</strong> (p. ex. certification ou accréditation valide)</li>
     </ul>
 </body>
 
-Die Veröffentlichung dieser Informationen dient der Transparenz und Nachvollziehbarkeit der Prüf- und Revisionsprozesse im Bereich der medizinischen Kodierung. Sie ermöglicht es Spitälern, Leistungserbringern und weiteren Akteuren im Gesundheitswesen, sich bei Bedarf an die zuständigen Revisorinnen und Revisoren zu wenden.
+La publication de ces informations sert à garantir la transparence et la traçabilité des processus de contrôle et de révision dans le domaine du codage médical. Elle permet aux hôpitaux, aux prestataires de services et aux autres acteurs du secteur de la santé de s'adresser aux réviseurs compétents en cas de besoin.
   
-**Ab dem 01.01.2026 werden die Inhalte der Liste fortlaufend aktualisiert. Die bisher geltenden halbjährlichen Publikationszyklen – jeweils Ende Juni und Ende Dezember – entfallen mit diesem Datum.**
+**À partir du 1er janvier 2026, le contenu de la liste sera mis à jour en continu. Les cycles de publication semestriels en vigueur jusqu'à présent – fin juin et décembre – seront supprimés à cette date.**
   
-**Anmeldung**: Alle Personen, die beabsichtigen, Revisionen von Kodierfällen unter SwissDRG, unter TARPSY oder unter ST Reha durchzuführen, sind verpflichtet, beim BFS einen Antrag zur Aufnahme in die Liste der Revisorinnen und Revisoren zu stellen.
+**Inscription** : toutes les personnes qui ont l'intention d'effectuer des révisions de cas de codage sous SwissDRG, TARPSY ou ST Reha sont tenues de déposer une demande d'inscription sur la liste des réviseurs auprès de l'OFS.
 <br>
-Weiterführende Informationen zur Revision von Kodierfällen sowie die nachstehend aufgeführten Dokumente sind unter folgendem Link abrufbar: 
+De plus amples informations sur la révision des cas de codage ainsi que les documents mentionnés ci-dessous sont disponibles sous les liens suivants :  
 <body>
     <ul>
-        <li><a href="https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/nomenklaturen/medkk/revisionen-kodierfaelle.html#schweizerische-revisorinnen-und-revisoren-in-der-medizinischen-kodierung-liste-formular-informationen"
+        <li><a href="https://www.bfs.admin.ch/bfs/fr/home/statistiken/gesundheit/nomenklaturen/medkk/revisionen-kodierfaelle.html#schweizerische-revisorinnen-und-revisoren-in-der-medizinischen-kodierung-liste-formular-informationen"
         target="_blank"
         rel="noopener noreferrer">
-        Schweizerische Revisorinnen und Revisoren in der medizinischen Kodierung – Liste, Formular, Informationen</a>
+        Réviseuses et réviseurs suisses du codage médical – Liste, formulaire, informations</a>
         </li>
-        <li><a href="https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/nomenklaturen/medkk/revisionen-kodierfaelle.html#reglement-kodierrevision-unter-swissdrg"
+        <li><a href="https://www.bfs.admin.ch/bfs/fr/home/statistiken/gesundheit/nomenklaturen/medkk/revisionen-kodierfaelle.html#reglement-kodierrevision-unter-swissdrg"
         target="_blank"
         rel="noopener noreferrer">
-        Reglement – Kodierrevision unter SwissDRG</a>
+        Règlement – Révision du codage sous SwissDRG</a>
         </li>
-        <li><a href="https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/nomenklaturen/medkk/revisionen-kodierfaelle.html#archiv-reglement-kodierrevision-unter-swissdrg"
+        <li><a href="https://www.bfs.admin.ch/bfs/fr/home/statistiken/gesundheit/nomenklaturen/medkk/revisionen-kodierfaelle.html#archiv-reglement-kodierrevision-unter-swissdrg"
         target="_blank"
         rel="noopener noreferrer">
-        Archiv: Reglement – Kodierrevision unter SwissDRG</a>
+        Archives: Règlement – Révision du codage sous SwissDRG</a>
         </li>
-        <li><a href="https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/nomenklaturen/medkk/revisionen-kodierfaelle.html#reglement-kodierrevision-unter-tarpsy"
+        <li><a href="https://www.bfs.admin.ch/bfs/fr/home/statistiken/gesundheit/nomenklaturen/medkk/revisionen-kodierfaelle.html#reglement-kodierrevision-unter-tarpsy"
         target="_blank"
         rel="noopener noreferrer">
-        Reglement – Kodierrevision unter TARPSY</a>
+       Règlement - Révision du codage sous TARPSY</a>
         </li>
-        <li><a href="https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/nomenklaturen/medkk/revisionen-kodierfaelle.html#archiv-reglement-kodierrevision-unter-tarpsy"
+        <li><a href="https://www.bfs.admin.ch/bfs/fr/home/statistiken/gesundheit/nomenklaturen/medkk/revisionen-kodierfaelle.html#archiv-reglement-kodierrevision-unter-tarpsy"
         target="_blank"
         rel="noopener noreferrer">
-        Archiv: Reglement – Kodierrevision unter TARPSY</a>
+        Archives: Règlement – Révision du codage sous TARPSY</a>
         </li>
-        <li><a href="https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/nomenklaturen/medkk/revisionen-kodierfaelle.html#reglement-kodierrevision-unter-st-reha"
+        <li><a href="https://www.bfs.admin.ch/bfs/fr/home/statistiken/gesundheit/nomenklaturen/medkk/revisionen-kodierfaelle.html#reglement-kodierrevision-unter-st-reha"
         target="_blank"
         rel="noopener noreferrer">
-        Reglement – Kodierrevision unter ST Reha</a>
+        Règlement - Révision du codage sous ST Reha</a>
         </li>
     </ul>
 </body>
 <br>
 <br>
-<a href="https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/nomenklaturen/medkk/revisionen-kodierfaelle.html"
+<a href="https://www.bfs.admin.ch/bfs/fr/home/statistiken/gesundheit/nomenklaturen/medkk/revisionen-kodierfaelle.html"
         target="_blank"
         rel="noopener noreferrer">
-        BFS – Revisionen von Kodierfällen</a>
+        Révisions de cas de codage | Office fédéral de la statistique - OFS</a>
 
 {{</markdown>}}

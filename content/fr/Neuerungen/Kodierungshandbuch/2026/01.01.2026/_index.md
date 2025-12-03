@@ -9,19 +9,19 @@ keywords: []
 
 <p style="text-align: right;">{{<printButton>}}
   
-Die nachfolgenden Aktualisierungen **«Kodierungshandbuch»** sind ab dem 01.01.2026 gültig. 
+Les actualisations suivantes du **«Manuel de codage»** sont valables à partir du 01.01.2026. 
   
-{{<markdown>}}Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Löschungen in rot~~</font>
+{{<markdown>}}Légende: <font color="green">nouveautés en vert</font>, <font color="red">~~suppressions en rouge~~</font>
   
 
 
 		
-**1.1	G40o Dokumentation der Diagnosen und der Prozeduren**
+**1.1	G40o Documentation des diagnostics et des procédures**
   
-Betrifft alle Sprachversionen
+Concerne toutes les versions linguistiques
   
 […]
-Das BFS weist darauf hin, dass es nicht in der Lage ist, anstelle einer Ärztin oder eines Arztes eine Diagnose zu stellen. Es obliegt dem medizinischen ärztlichen Personal zu definieren, welche Eingriffe vorgenommen wurden und die Kodiererinnen und Kodierer darüber zu informieren<font color="green">.</font><font color="red">~~,wobei die Informationen zu den Diagnosen und erfolgten Prozeduren vollständig und schriftlich in den jeweiligen Berichten zur Verfügung gestellt werden müssen.~~</font> 
+L’OFS tient cependant à rappeler qu’il n’est pas en mesure de poser un diagnostic à la place d’un médecin. Il incombe aux médecins de définir quelles interventions ont été effectuées et d’en informer les personnes en charge du codage<font color="green">.</font><font color="red">~~, les informations relatives aux diagnostics et aux procédures effectuées devant être fournies de manière complète et écrite dans les rapports correspondants.~~</font> 
 […]
 
 
