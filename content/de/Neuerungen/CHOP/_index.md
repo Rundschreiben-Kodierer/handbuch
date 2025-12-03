@@ -302,9 +302,6 @@ Folgende Spalten befinden sich in der Tabelle:
 
 
 
-
-
-
 Zuvor wurde im Kapitel 3, Zusatzinformationen zur CHOP, in der PDF-Datei des Rundschreibens eine Anpassung oder Korrektur zu einer CHOP-Version wie folgt dargestellt.
 <br>  
 {{<markdown>}}Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Löschungen in rot~~</font>
@@ -323,10 +320,6 @@ Zuvor wurde im Kapitel 3, Zusatzinformationen zur CHOP, in der PDF-Datei des Run
 <br>
 In der Tabelle wird dies wie folgt angegeben. Die Tabelle enthält die Gegenüberstellung der Korrektur in den drei Sprachen. Hier wird nur der Auszug für die deutschsprachige Version wiedergegeben. 
 <br>
-
-
-
-
 
 
 
