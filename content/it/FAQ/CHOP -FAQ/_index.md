@@ -50,9 +50,8 @@ keywords: []
 
 <b>Problema/Spiegazione:</b></br>
 Un intervento a cielo aperto per una coartazione aortica congenita viene codificato, a seconda del metodo, con un codice preciso di cui al capitolo 7 <font  color="green">"Interventi chirurgici sul sistema cardiovascolare"</font>. Se esiste un codice preciso, il codice 39.99.21 <i>Interventi per anomalie congenite dell’istmo aortico (stenosi) o per arco aortico interrotto</i> non viene codificato.  
-<br>  
 <br>
-
+<br>
 {{</article>}}
 
 
@@ -98,7 +97,6 @@ Per la registrazione della trombectomia percutanea transluminale di vasi polmona
 (A seconda dei casi, vanno presi in considerazione ulteriori codici CHOP)<br>  
 <br>
 <br>
- 
 {{</article>}}
 
 
@@ -157,10 +155,8 @@ La tabella seguente illustra le diverse situazioni di una protesi addominale pri
 <br>
 <br>
 {{<insertImage image="FAQCHOP0003Tabelle2IT.png" class="edge max-w-90">}}
-{{<lineBreak>}}
 <br>
 <br>
-
 {{</article>}}
 
 
@@ -316,10 +312,8 @@ Giorno Y:
 46.99.61 <i>il codice 46.99.61 Inserzione o sostituzione di una protesi autoespandente nell’intestino, chirurgica a cielo aperto</i> va indicato<b> una volta</b>.
     {{</grid/column>}}
 {{</grid>}}
-<br>  
 <br>
-
-
+<br>
 {{</article>}}
 
 
@@ -378,10 +372,9 @@ Codifica:
 <br>
 <i>36.08.22  Impianto percutaneo transluminale di stents con liberazione di sostanza medicamentosa, in più arterie coronarie</i><br>
 <i>36.08.22  Impianto percutaneo transluminale di stents con liberazione di sostanza medicamentosa, in più arterie coronarie</i><br>
-<i>36.08.11  Impianto percutaneo transluminale di stents senza liberazione di sostanza medicamentosa, in un’arteria coronaria</i><br>
-<br>  
+<i>36.08.11  Impianto percutaneo transluminale di stents senza liberazione di sostanza medicamentosa, in un’arteria coronaria</i>
 <br>
-
+<br>
 {{</article>}}
 
 
@@ -428,9 +421,8 @@ I codici supplementari dei gruppi degli elementi da 00.4G.2- a 00.4G.6- <i>Filtr
 <u>Sistemi di protezione da embolia</u><br>
 Il codice supplementare 39.E1 <i>Impiego di sistema di protezione da embolia consente</i> di registrare l’utilizzo di sistemi di protezione da embolia perioperatori.<br>
 I codici 38.7X.11 <i>Inserzione di sistema di protezione da embolia nella vena cava, chirurgica a cielo aperto</i>, 38.7X.21 <i>Inserzione di sistema di protezione da embolia nella vena cava, percutanea transluminale</i>, 39.75.13 <i>Intervento vascolare percutaneo transluminale, altri vasi, sistema di protezione da embolia (vasi periferici o viscerali)</i> rappresentano invece sistemi permanenti.
-<br>  
 <br>
-  
+<br>
 {{</article>}}
 
 
@@ -478,9 +470,8 @@ I seguenti codici della sottocategoria 51.99.- <i>Altre operazioni sulle vie bil
     </ul>
 </body>
 Il codice 51.99.90 <i>Altri interventi endoscopici sulle vie biliari</i>, come indicato nel titolo, deve essere utilizzato solo per gli interventi endoscopici.
-<br>  
 <br>
-  
+<br>
 {{</article>}}
 
 
@@ -521,7 +512,6 @@ In caso di sostituzione di endoprotesi di ginocchio, indipendentemente dal tipo,
 Analogamente, se in occasione di una sostituzione di endoprotesi di ginocchio viene impiantato per la prima volta un bottone rotuleo, deve essere indicato il codice 81.54.42 <i>Impianto di bottone rotuleo per sostituzione</i> e <b>non</b> il codice 81.54.27 <i>Primo impianto di bottone rotuleo</i>.
 <br>
 <br>
-
 {{</article>}}
 
 
@@ -560,9 +550,8 @@ Analogamente, se in occasione di una sostituzione di endoprotesi di ginocchio vi
 La seguente tabella precisa l’utilizzo del codice e del codice supplementare per gli interventi multipli in un solo tempo operatorio sulla base dell’esempio della mano.
 <br><br>
 {{<insertImage image="FAQCHOP0009TabelleIT.png" class="edge max-w-90">}}
-<br>  
 <br>
-
+<br>
 {{</article>}}
 
 
@@ -599,9 +588,8 @@ La seguente tabella precisa l’utilizzo del codice e del codice supplementare p
 
 <b>Erläuterung:</b><br>
 L’indicazione della lateralità è obbligatoria solo per gli organi pari (nella CHOP è contrassegnata con una «[L]» nel file PDF o con «Lateral» nel file CSV). Per gli organi o le parti del corpo non pari la lateralità «può», ma non «deve» essere rilevata. 
-<br>  
 <br>
- 
+<br>
 {{</article>}}
 
 
@@ -643,9 +631,8 @@ Se, nel quadro di un intervento terapeutico individuale o di gruppo, due o più 
    
 Eccezione: esistono codici CHOP per i quali è indicato in nota che, se due o più terapeuti/infermieri somministrano lo stesso tipo di terapia/la stessa prestazione terapeutica, va conteggiato il tempo di intervento di ciascun terapeuta/infermiere.
 {{</markdown>}}
-<br>  
 <br>
-
+<br>
 {{</article>}}
 
 
@@ -701,9 +688,8 @@ Cela signifie qu’il n’est pas admis de coder simultanément 93.59.5- et 99.8
 
 
 Ciò significa che non è consentito codificare contemporaneamente 93.59.5- e 99.84.1-, 99.84.2-, 99.84.3-. Se 99.84.1-, 99.84.2-, 99.84.3- avvengono in momenti diversi rispetto a 93.59.5-, i codici possono essere registrati sotto lo stesso caso. I codici 99.84.1-, 99.84.2-, 99.84.3- non devono mai essere registrati per lo stesso intervallo di tempo per cui è registrato il codice 93.59.5-.
-<br>  
 <br>
-  
+<br>
 {{</article>}}
 
 
@@ -745,9 +731,8 @@ Ciò significa che non è consentito codificare contemporaneamente 93.59.5- e 99
 **Problema/Spiegazione:**  
 Ai fini del conteggio dei giorni di degenza per i codici CHOP del gruppo di elementi 93.59.5- <i>Trattamento complesso per colonizzazione o infezione da agenti multiresistenti, secondo il numero di giorni di trattamento</i>, il giorno di ricovero nonché il giorno di dimissione possono essere conteggiati come un solo giorno di trattamento, sempre a condizione che siano soddisfatti i corrispondenti requisiti minimi.
 {{</markdown>}}
-<br>  
 <br>
-  
+<br>
 {{</article>}}
 
 
@@ -786,9 +771,8 @@ Ai fini del conteggio dei giorni di degenza per i codici CHOP del gruppo di elem
 **Problema/Spiegazione:**  
 I codici «[…], fino a 6 giorni di trattamento» vanno utilizzati nei casi in cui, durante la degenza, è stato somministrato il trattamento complesso in questione al massimo in 6 giorni distinti. Questi codici non indicano un numero minimo di giorni di trattamento. Ciò significa che non si applicano i requisiti minimi riferiti a una settimana o ad un determinato numero di giorni trattamento. Vanno invece osservati i requisiti minimi in materia di indicazioni, valutazioni, infrastruttura di trattamento (p. es. certificazione) e qualifiche.
 {{</markdown>}}
-<br>  
 <br>
-  
+<br>
 {{</article>}}
 
 
@@ -835,10 +819,8 @@ Importante:<br>
 la **sola** registrazione della Glasgow Coma Scale (GCS) non è sufficiente per la diagnosi clinico-neurologica ai fini del monitoraggio dell'ictus cerebrale nell'ambito di applicazione dei codici 99.A7, 99.BA.1 e 99.BA.2.
 
 {{</markdown>}}
-<br>  
 <br>
-
-  
+<br>
 {{</article>}}
 
 
@@ -896,9 +878,8 @@ almeno 3 delle seguenti misure:
 </body>
 Se viene svolta un’elettroencefalografia per tre volte senza altre due delle misure elencate, i requisiti minimi non sono soddisfatti e non è possibile registrare un codice della sottocategoria 99.A6.
 Se invece vengono somministrati una RMN cranica, una diagnostica neuropsicologica come pure una EEG prolungata mobile per almeno 24 ore o più e gli altri requisiti minimi sono soddisfatti, allora può essere registrato un codice della sottocategoria 99.A6.
-<br>  
 <br>
-  
+<br>
 {{</article>}}
 
 
@@ -942,9 +923,8 @@ Esempio 1: un «Passaggio alla toilette» potrebbe essere fornito nel quadro del
   
 Esempio 2: una «misura di igiene» potrebbe essere fornita nel quadro del profilo di intervento infermieristico 2.1 del gruppo di prestazioni 2 «Igiene personale» o nel quadro del profilo di intervento infermieristico 3.1 del gruppo di prestazioni 3 «Evacuazione». Se l’attività viene registrata nel gruppo di prestazioni 2, non può essere registrata anche nel gruppo di prestazioni 3, o viceversa. All’attività può essere attribuito solo uno dei due profili di intervento infermieristico.
 {{</markdown>}}
-<br>  
 <br>
-  
+<br>
 {{</article>}}
 
 
@@ -992,9 +972,8 @@ Spiegazione:
 Per un raggruppamento di casi con trattamento medico palliativo complesso nel primo caso, dopo il ritorno del/della paziente va aggiornata la valutazione medico palliativa di base standardizzata (non significa che debba essere rifatta completamente. Ci si può limitare a documentare che i valori della valutazione medico palliativa di base standardizzata precedente restano validi).
 
 {{</markdown>}}  
-<br>  
 <br>
-  
+<br>
 {{</article>}}
 
 
@@ -1075,7 +1054,6 @@ Nella «riunione settimanale del team interprofessionale», per «interprofessio
 Nella «visita interprofessionale», per «interprofessionale» si intende che partecipano almeno un medico e personale infermieristico (cfr. <i>caratteristica minima punto 3, terapia</i> 93.8B.-).
 <br>
 <br>
-  
 {{</article>}}
 
 
@@ -1120,9 +1098,8 @@ L’applicazione di un solo strumento di valutazione (ad es. ESAS) per rilevare 
 
 
 {{</markdown>}}
-<br>  
 <br>
-  
+<br>
 {{</article>}}
 
 
@@ -1170,9 +1147,8 @@ I due esempi che seguono illustrano le modalità di registrazione dei codici sup
 {{<insertImage image="FAQCHOP0021Beispiel2IT.png" class="edge max-w-90">}}
 <br><br>
 
-<br>  
 <br>
-  
+<br>
 {{</article>}}
 
 
@@ -1214,10 +1190,8 @@ In occasione di un intervento di revisione alla colonna vertebrale, i segmenti n
 In caso p. es. di precedente spondilodesi L2-L4 e nuova fusione attuale dei segmenti L1/L2 e L4/L5, quest’ultima va rappresentata con il pertinente codice CHOP per 2 segmenti se, come sopra precisato, oltre alla posa di aste non vengono intraprese altre misure operatorie ai corpi vertebrali L2-L4.
 
 {{</markdown>}}
-<br>  
 <br>
-
-  
+<br>
 {{</article>}}
 
 
@@ -1258,11 +1232,8 @@ Il codice 7A.A2 <i>Impianto di sistemi allungabili o espansibili, colonna verteb
 <br>
 L'intervento consiste in una <b>stabilizzazione dinamica della colonna vertebrale</b>, che viene registrata con il codice <b>7A.72.1-</b> <i>Stabilizzazione dinamica della colonna vertebrale, approccio dorsale e dorsolaterale</i>.
 Per il conteggio dei segmenti trattati vengono considerati solo i segmenti a cui è fissato il sistema. 
-
-
-<br>  
 <br>
-  
+<br>
 {{</article>}}
 
 
@@ -1308,9 +1279,8 @@ Nell’esempio di cui alla seguente figura, è stata eseguita una spondilodesi c
 {{</markdown>}}
 <br><br>
 {{<insertImage image="FAQCHOP0024Tabelle.png" class="edge max-w-90">}}
-<br>  
 <br>
-  
+<br>
 {{</article>}}
 
 
@@ -1360,9 +1330,8 @@ Il codice <b>7A.71.-</b> Fusione di vertebre con stabilizzazione della colonna v
 </body>
 <br>
 <b>Non</b> è <b>possibile mantenere il movimento</b> nel segmento interessato.
-<br>  
 <br>
-  
+<br>
 {{</article>}}
 
 
@@ -1406,9 +1375,8 @@ In caso di laminotomia, laminectomia o laminoplastica eseguita, ciò deve essere
 Non è consentito registrare alcun codice della sottocategoria 7A.71.- Fusione di vertebre con stabilizzazione della colonna vertebrale.
   
 {{</markdown>}}
-<br>  
 <br>
-  
+<br>
 {{</article>}}
 
 
@@ -1449,9 +1417,8 @@ La sottocategoria **7A.73.-** viene utilizzata per codificare un intervento chir
 
 Tipicamente, questo codice viene utilizzato per **patologie traumatiche**, in particolare **fratture toracolombari**. Viene tuttavia utilizzato anche per **altre indicazioni**.
 {{</markdown>}}
-<br>  
 <br>
-  
+<br>
 {{</article>}}
 
 

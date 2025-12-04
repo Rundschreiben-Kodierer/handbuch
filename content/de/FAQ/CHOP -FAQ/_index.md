@@ -97,6 +97,7 @@ Eine perkutan-transluminale Thrombektomie an Lungengefässen mittels Thrombusent
 (Je nach Fall sind weitere CHOP-Kodes zu berücksichtigen.)
 <br>
 <br>
+<br>
 {{</article>}}
 
 
@@ -155,6 +156,7 @@ Folgende Tabelle illustriert die verschiedenen Situationen einer abdominalen Hau
 <br>
 <br>
 {{<insertImage image="FAQCHOP0003Tabelle2.png" class="edge max-w-90">}}
+<br>
 <br>
 <br>
 {{</article>}}
@@ -224,6 +226,70 @@ Folgende Kodes haben keine Unterteilung nach Anzahl der implantierten Stents/Pro
 <br>
 
 {{<indent level="4">}}
+
+
+
+{{<codeEntry title="09.83">}}
+Konjunktivozystorhinostomie mit Einsetzen von Tubus oder Stent
+{{</codeEntry>}}
+
+{{<codeEntry title="31.93">}}
+Ersetzen eines Larynx- oder Trachea-Stents
+{{</codeEntry>}}
+
+{{<codeEntry title="31.96">}}
+Einsetzen eines Larynx- oder Trachea-Stents
+{{</codeEntry>}}
+
+{{<codeEntry title="33.91.2-">}}
+Bronchusdilatation, endoskopisch, mit Einlegen oder Wechsel eines Stents/Stent-Grafts
+{{</codeEntry>}}
+
+{{<codeEntry title="44.99.5-">}}
+Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Magen
+{{</codeEntry>}}
+
+{{<codeEntry title="44.99.6-">}}
+Einlegen oder Wechsel einer selbstexpandierenden Prothese am Magen
+{{</codeEntry>}}
+
+{{<codeEntry title="46.99.5-">}}
+Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Darm
+{{</codeEntry>}}
+
+{{<codeEntry title="46.99.6-">}}
+Einlegen oder Wechsel einer selbstexpandierenden Prothese am Darm
+{{</codeEntry>}}
+
+{{<codeEntry title="48.99.50">}}
+Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese im Rektum
+{{</codeEntry>}}
+
+{{<codeEntry title="48.99.60">}}
+Einlegen oder Wechsel einer selbstexpandierenden Prothese im Rektum
+{{</codeEntry>}}
+
+{{<codeEntry title="52.93.-">}}
+Endoskopische Einlage, Wechsel oder Entfernen von Stent [Prothese] in den Ductus pancreaticus
+{{</codeEntry>}}
+
+{{<codeEntry title="52.95.4-">}}
+Einlage oder Wechsel eines nicht selbstexpandierenden Stents [Prothese] in den Pankreasgang, offen chirurgisch oder laparoskopisch
+{{</codeEntry>}}
+
+{{<codeEntry title="52.95.5-">}}
+Einlage oder Wechsel eines selbstexpandierenden Stents [Prothese] in den Pankreasgang, offen chirurgisch oder laparoskopisch
+{{</codeEntry>}}
+
+{{<codeEntry title="58.99.10">}}
+Sonstige Operationen an Urethra und Periurethralgewebe, Einlegen und Wechsel eines Stents in die Urethra
+{{</codeEntry>}}
+
+{{<codeEntry title="60.99.31">}}
+Einlegen eines Stents in die prostatische Harnröhre
+{{</codeEntry>}}
+
+
 
 {{<codeEntry level="1" title="09.83">}}
 <i>Konjunktivozystorhinostomie mit Einsetzen von Tubus oder Stent</i>
@@ -311,8 +377,6 @@ Tag Y:
 46.99.61 <i>Einlegen oder Wechsel einer selbstexpandierenden Prothese am Darm, offen chirurgisch</i> wird <b>einmal</b> erfasst.
     {{</grid/column>}}
 {{</grid>}}
-
-<br>
 <br>
 {{</article>}}
 
@@ -427,6 +491,7 @@ Der Zusatzkode 39.E1 <i>Verwendung eines Embolie-Protektionssystems</i> ermögli
 Die Kodes 38.7X.11 <i>Einsetzen eines Embolie-Protektionssystems in die Vena cava, offen chirurgisch</i>, 38.7X.21 <i>Einsetzen eines Embolie-Protektionssystems in die Vena cava, perkutan-transluminal</i>, <i>39.75.13 Perkutan-transluminale Gefässintervention, sonstige Gefässe, Embolie-Protektionssystem (periphere oder viszerale Gefässe)</i> stellen permanente Systeme dar.
 <br>
 <br>
+<br>
 {{</article>}}
 
 
@@ -476,6 +541,7 @@ Folgende Kodes der Subkategorie 51.99.- Sonstige Operationen an den Gallenwegen 
 Der Kode 51.99.90 <i>Sonstige endoskopische Operationen an den Gallenwegen</i>, wie im Titel angegeben, ist nur für endoskopische Interventionen zu erfassen.
 <br>
 <br>
+<br>
 {{</article>}}
 
 
@@ -518,6 +584,7 @@ Z. B. Explantation einer Hemiendoprothese und Implantation einer Totalendoprothe
 Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückflächenersatz eingesetzt, muss der Kode 81.54.42 <i>Implantation eines Patella-Rückflächenersatz bei einem Wechsel</i> erfasst werden und <b>nicht</b> der Kode 81.54.27 <i>Erstimplantation eines Patella-Rückflächenersatzes</i>.
 <br>
 <br>
+<br>
 {{</article>}}
 
 
@@ -558,6 +625,7 @@ Folgende Tabelle präzisiert die Kodierung von Eingriffskode und Zusatzkode bei 
 {{<insertImage image="FAQCHOP0009Tabelle.png" class="edge max-w-90">}}
 <br>
 <br>
+<br>
 {{</article>}}
 
 
@@ -594,6 +662,7 @@ Folgende Tabelle präzisiert die Kodierung von Eingriffskode und Zusatzkode bei 
 
 <b>Erläuterung:</b><br>
 Die Angabe der Lateralität ist nur bei paarigen Organen ein Muss (entsprechende Kennzeichnung in der CHOP mit «[L]» in der PDF- Datei oder «Lateral» in der CSV-Datei). Bei nicht paarigen Organen oder Körperteilen «kann» die Lateralität erfasst werden, «muss» aber nicht.
+<br>
 <br>
 <br>
 {{</article>}}
@@ -690,6 +759,7 @@ EXKL. «Kode weglassen - Komplexbehandlung bei Besiedlung oder Infektion mit mul
 {{</grid>}}
 <br>
 Dies bedeutet, dass die zeitgleiche Kodierung von 93.59.5- und 99.84.1-, 99.84.2-, 99.84.3- nicht gestattet ist. Werden 99.84.1-, 99.84.2-, 99.84.3- zeitlich versetzt erbracht zur 93.59.5- können die Kodes im gleichen Fall erfasst werden. Die Erfassung von 99.84.1-, 99.84.2-, 99.84.3- darf nie für das gleiche Zeitintervall wie 93.59.5- erfolgen.
+<br>
 <br>
 <br>
 {{</article>}}
@@ -882,6 +952,7 @@ Wird dreimal ein EEG durchgeführt ohne zwei weitere der aufgelisteten Massnahme
 Werden hingegen ein craniales MRI, eine neurophysiologische Diagnostik sowie ein mobiles Langzeit-EEG über mindestens 24 Stunden durchgeführt mit Erfüllen der anderen Mindestmerkmale, kann ein Kode der Subkategorie 99.A6.- erfasst werden.
 <br>
 <br>
+<br>
 {{</article>}}
 
 
@@ -1054,6 +1125,7 @@ Bei der «wöchentlichen interprofessionellen Teambesprechung» ist unter «inte
 Bei der «interprofessionellen Visite» ist unter «interprofessionell» zu verstehen, dass im Minimum Arzt und Pflege teilnehmen (s. <i>Mindestmerkmal</i> Punkt 3, <i>Therapie</i> 93.8B.-).
 <br>
 <br>
+<br>
 {{</article>}}
 
 
@@ -1148,6 +1220,7 @@ Folgende zwei Beispiele veranschaulichen die gemeinte Erfassungsweise der Zusatz
 {{<insertImage image="FAQCHOP0021Beispiel2.png" class="edge max-w-90">}}
 <br>
 <br>
+<br>
 {{</article>}}
 
 
@@ -1232,6 +1305,7 @@ Beim Eingriff handelt es sich um eine <b>dynamische Stabilisierung der Wirbelsä
 Zur Zählung der behandelten Segmente werden nur die Segmente, an denen das System befestigt wird, berücksichtigt. 
 <br>
 <br>
+<br>
 {{</article>}}
 
 
@@ -1280,7 +1354,8 @@ Im Beispiel der folgenden Abbildung erfolgte eine Spondylodese über sechs Wirbe
 {{</markdown>}}
 <br><br>
 {{<insertImage image="FAQCHOP0024Tabelle.png" class="edge max-w-90">}}
-<br> 
+<br>
+<br>
 <br>
 {{</article>}}
 
@@ -1329,6 +1404,7 @@ Der Kode <b>7A.71.-</b> <i>Fusion von Wirbeln mit Stabilisierung der Wirbelsäul
 </body>
 <br>
 Es liegt keine <b>potenzielle Bewegungserhaltung</b> im betroffenen Segment vor.
+<br>
 <br>
 <br>
 {{</article>}}

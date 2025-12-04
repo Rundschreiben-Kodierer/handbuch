@@ -52,7 +52,6 @@ keywords: []
 Une opération ouverte d'une sténose congénitale de l'isthme aortique est représentée, selon la méthode utilisée, par un code précis du chapitre 7 <font  color="green">«Opérations du système cardio-vasculaire»</font>. S'il existe un code précis, le code 39.99.21 *Opérations d’anomalie congénitale de l’isthme aortique (sténose) ou d’interruption de la crosse aortique* n'est pas codé. 
 <br>  
 <br>
-
 {{</article>}}
 
 
@@ -95,10 +94,9 @@ Une thrombectomie transluminale percutanée sur des vaisseaux pulmonaires au moy
         <li>les codes supplémentaires pertinents du groupe d’éléments 00.4F.2- <i>Utilisation de systèmes d’extraction de corps étranger et de thrombus guidés par cathéter, selon le nombre de systèmes</i></li>
     </ul>
 </body>
-(Selon le cas, d’autres codes CHOP doivent être pris en compte.)<br>  
+(Selon le cas, d’autres codes CHOP doivent être pris en compte.)
 <br>
 <br>
- 
 {{</article>}}
 
 
@@ -160,7 +158,6 @@ Le tableau suivant illustre les différentes situations d'une prothèse abdomina
 {{<lineBreak>}}
 <br>
 <br>
-
 {{</article>}}
 
 
@@ -318,8 +315,6 @@ Jour Y:
 {{</grid>}}
 <br>  
 <br>
-
-
 {{</article>}}
 
 
@@ -378,10 +373,9 @@ Codage :
 <br>
 <i>36.08.22  Implantation par voie transluminale percutanée de stents avec libération de substances médicamenteuses, dans plusieurs artères coronaires</i><br>
 <i>36.08.22  Implantation par voie transluminale percutanée de stents avec libération de substances médicamenteuses, dans plusieurs artères coronaires</i><br>
-<i>36.08.11  Implantation par voie transluminale percutanée de stents sans libération de substance médicamenteuse, dans une artère coronaire</i><br>
-<br>  
+<i>36.08.11  Implantation par voie transluminale percutanée de stents sans libération de substance médicamenteuse, dans une artère coronaire</i>
 <br>
-
+<br>
 {{</article>}}
 
 
@@ -431,9 +425,8 @@ Les codes supplémentaires des sous-catégories 00.4G.2- à 00.4G.6- <i>Filtres 
 Le code supplémentaire 39.E1 <i>Utilisation d’un système de protection anti-embolie</i> permet de saisir les systèmes de protection anti-embolie péri-interventionnels.
 <br><br>
 Les codes 38.7X.11 <i>Insertion d’un système de protection anti-embolie dans la veine cave, par chirurgie ouverte</i>, 38.7X.21 <i>Insertion d’un système de protection anti-embolie dans la veine cave, par voie transluminale percutanée</i>, 39.75.13 <i>Intervention vasculaire transluminale percutanée, autres vaisseaux, système de protection anti-embolie (vaisseaux périphériques ou viscéraux)</i> représentent des systèmes permanents.
-<br>  
 <br>
-  
+<br>
 {{</article>}}
 
 
@@ -481,9 +474,8 @@ Les codes suivants de la sous-catégorie 51.99.- <i>Autres opérations des voies
     </ul>
 </body>
 Le code 51.99.90 <i>Autre opération endoscopique des voies biliaires</i>, comme indiqué dans le titre, ne doit être utilisé que pour les interventions endoscopiques.
-<br>  
 <br>
-  
+<br>
 {{</article>}}
 
 
@@ -523,10 +515,8 @@ Si une prothèse totale du genou existante, quel que soit son type, est remplac�
 <br><br>
 Par exemple, explantation d'une hémi-endoprothèse et implantation d'une endoprothèse totale sur le même genou : pour l'implantation, il faut saisir le code 81.54.31 <i>Implantation d'une endoprothèse totale standard du genou lors d'un remplacement de prothèse</i> et <b>non</b> le code 81.54.21 Première implantation d'une endoprothèse totale standard du genou.
 Si, lors du remplacement d'une endoprothèse du genou, un remplacement de la face arrière de la rotule est utilisé pour la première fois, il faut saisir le code 81.54.42 <i>Implantation d'un remplacement de la face arrière de la rotule lors d'un remplacement</i> et <b>non</b> le code 81.54.27 <i>Première implantation d'un remplacement de la face arrière de la rotule</i>.
-
 <br>
 <br>
-
 {{</article>}}
 
 
@@ -564,9 +554,8 @@ Si, lors du remplacement d'une endoprothèse du genou, un remplacement de la fac
 Le tableau suivant précise, par l’exemple de la main, le codage avec le code d’intervention et le code supplémentaire lors d’interventions multiples en un temps.
 <br><br>
 {{<insertImage image="FAQCHOP0009TabelleFR.png" class="edge max-w-90">}}
-<br>  
 <br>
-
+<br>
 {{</article>}}
 
 
@@ -603,9 +592,8 @@ Le tableau suivant précise, par l’exemple de la main, le codage avec le code 
 
 <b>Problème/explication:</b><br>
 L’indication de la latéralité n’est impérative que pour les organes existant par paires (la CHOP le spécifie par «L» dans le fichier PDF et par «Lateral» dans le fichier CSV). Pour ce qui est des organes ou parties du corps non présents par paire, l’indication de la latéralité peut être saisie, mais cette saisie n’est pas obligatoire.
-<br>  
 <br>
- 
+<br>
 {{</article>}}
 
 
@@ -647,9 +635,8 @@ Si, dans le cadre d’une thérapie de groupe ou individuelle, le même type de 
    
 Exception: pour certains codes CHOP, il est indiqué en note que si le même type de thérapie/prestation thérapeutique est fourni par deux thérapeutes/infirmiers ou plus, il faut compter le temps par thérapeute/infirmier.
 {{</markdown>}}
-<br>  
 <br>
-
+<br>
 {{</article>}}
 
 
@@ -700,9 +687,8 @@ EXCL. Omettre le code - Traitement complexe de colonisation ou d’infection à 
 {{</grid>}}
 <br>
 Cela signifie qu’il n’est pas admis de coder simultanément 93.59.5- et 99.84.1-, 99.84.2-, 99.84.3-. Lorsque 99.84.1-, 99.84.2-, 99.84.3- ne sont pas appliquées en même temps que 93.59.5-, ces codes peuvent être saisis pour le même cas. La saisie de 99.84.1-, 99.84.2-, 99.84.3- ne doit jamais être effectuée pour le même intervalle de temps que 93.59.5-.
-<br>  
 <br>
-  
+<br>
 {{</article>}}
 
 
@@ -744,9 +730,8 @@ Cela signifie qu’il n’est pas admis de coder simultanément 93.59.5- et 99.8
 **Problème/explication:**  
 Pour le calcul des jours de traitement sous les codes du groupe d'éléments CHOP 93.59.5- <i>Traitement complexe de colonisation ou d’infection à agents infectieux multirésistants, selon le nombre de jours de traitement, le jour d’entrée et le jour de sortie</i> ne doivent être comptés que comme <b>un seul jour de traitement</b> si les caractéristiques minimales sont remplies.
 {{</markdown>}}
-<br>  
 <br>
-  
+<br>
 {{</article>}}
 
 
@@ -786,9 +771,8 @@ Pour le calcul des jours de traitement sous les codes du groupe d'éléments CHO
 Les codes «[…], jusqu’à 6 jours de traitement» sont saisis dans les cas où le traitement complexe respectivement désigné a été réalisé sur maximum 6 jours de traitement pendant le séjour hospitalier. Ces codes ne contiennent pas de nombre minimal de jours de traitement. 
 Cela signifie que, pour ces codes, les caractéristiques minimales qui se rapportent à une semaine ou à un nombre particulier de jours de traitement ne s’appliquent pas. Les caractéristiques minimales, telles que les indications, les évaluations, l’infrastructure de traitement (par ex. la certification) et les qualifications doivent être respectées.
 {{</markdown>}}
-<br>  
 <br>
-  
+<br>
 {{</article>}}
 
 
@@ -835,10 +819,8 @@ Important:<br>
 la <b>seule</b> saisie de l'échelle de Glasgow (GCS) n'est pas suffisante pour le diagnostic neurologique clinique dans le cadre de la surveillance des accidents vasculaires cérébraux dans le champ d'application des codes 99.A7, 99.BA.1 et 99.BA.2.
 
 {{</markdown>}}
-<br>  
 <br>
-
-  
+<br>
 {{</article>}}
 
 
@@ -893,9 +875,8 @@ au moins trois des mesures suivantes:
         <li>électroencéphalographie [EEG] (EEG mobile de longue durée sur au moins 24 heures ou plus et EEG polysomnographique et monitoring-encéphalographique par vidéo et radio-télémétrie sur au moins 4 heures et EEG en position orthostatique)</li>
     </ul>
 Si un EEG est réalisé à trois reprises sans que deux autres des mesures énumérées soient appliquées, les caractéristiques minimales ne sont pas remplies, de sorte qu’il n’est pas possible d’utiliser un code de la sous-catégorie 99.A6.-. Si l’activité comprend au contraire une IRM crânienne, un diagnostic neurophysiologique et un EEG mobile de longue durée sur au moins 24 heures et que les autres caractéristiques minimales sont remplies, il est possible d’utiliser un code de la sous-catégorie 99.A6.-.
-<br>  
 <br>
-  
+<br>
 {{</article>}}
 
 
@@ -938,9 +919,8 @@ Exemple 1: un «transfert jusqu’aux toilettes» pourrait être compris dans le
   
 Exemple 2: une «mesure d’hygiène» pourrait appartenir au groupe de prestations 2 «Soins d’hygiène corporelle» dans le profil d’intervention infirmière 2.1 ou au groupe de prestations 3 «Excrétion» dans le profil d’intervention infirmière 3. Si l’activité est saisie sous le groupe de prestations 2, elle ne peut pas être également saisie dans le groupe de prestations 3, ou inversement. Elle ne peut être affectée qu’à l’un des deux profils d’intervention infirmière.
 {{</markdown>}}
-<br>  
 <br>
-  
+<br>
 {{</article>}}
 
 
@@ -988,9 +968,8 @@ Explication:
 Lors d’un regroupement de cas avec un traitement complexe de médecine palliative dans le premier cas, il convient de mettre à jour le PBA après le retour du patient ou de la patiente. (Cela ne signifie pas qu’un nouvel examen de base complet doit être entrepris. Il suffit de documenter que les valeurs du PBA précédent restent valables.)
 
 {{</markdown>}}  
-<br>  
 <br>
-  
+<br>
 {{</article>}}
 
 
@@ -1062,9 +1041,8 @@ Dans le cadre de «chaque semaine, discussion interprofessionnelle en équipe»,
 <br>  
 Dans le cadre de la «visite interprofessionnelle», le terme «interprofessionnel» signifie qu'au minimum un médecin et un membre du personnel soignant participent à la visite.  
  (voir caractéristique minimale point 3, thérapie 93.8B.-).
-<br>  
 <br>
-  
+<br>
 {{</article>}}
 
 
@@ -1109,9 +1087,8 @@ Peut-on considérer un seul «examen ou test» comme une évaluation de base de 
 La réalisation d’un seul «examen ou test» pour l’évaluation de la dimension corporelle (p. ex. ESAS) ne peut pas être considérée comme une évaluation de base de médecine palliative complète. Une évaluation de base standardisée de médecine palliative doit tenir compte des dimensions biologique, psychologique, sociale et spirituelle.
 
 {{</markdown>}}
-<br>  
 <br>
-  
+<br>
 {{</article>}}
 
 
@@ -1157,11 +1134,8 @@ Les deux exemples ci-dessous illustrent la manière de saisir les codes supplém
 {{<insertImage image="FAQCHOP0021Beispiel1FR.png" class="edge max-w-90">}}
 <br><br>
 {{<insertImage image="FAQCHOP0021Beispiel2FR.png" class="edge max-w-90">}}
-<br><br>
-
-<br>  
 <br>
-  
+<br>
 {{</article>}}
 
 
@@ -1202,10 +1176,8 @@ Les segments sur lesquels seules les tiges sont enlevées lors d’une intervent
 <b>Comptage des segments en situation de pontage:</b>
 Exemple: une spondylodèse des vertèbres L2-L4 préexistante, complétée à présent par une nouvelle fusion des segments L1/L2 et L4/L5 sera représentée par le code CHOP correspondant pour 2 segments si, comme indiqué ci-dessus, aucune autre mesure n’est entreprise sur les vertèbres L2-L4 en dehors de la pose de la tige.
 {{</markdown>}}
-<br>  
 <br>
-
-  
+<br>
 {{</article>}}
 
 
@@ -1246,10 +1218,8 @@ Le code 7A.A2 <i>Implantation de systèmes évolutifs ou expansifs, colonne vert
 <br>
 L'intervention consiste en une <b>stabilisation dynamique de la colonne vertébrale</b>, qui est enregistrée sous <b>7A.72.1 -</b> <i>Stabilisation dynamique de la colonne vertébrale, abord dorsal et dorsolatéral</i>.<br>
 Seuls les segments auxquels le système est fixé sont pris en compte dans le décompte des segments traités.
-
-<br>  
 <br>
-  
+<br>
 {{</article>}}
 
 
@@ -1298,9 +1268,8 @@ Dans l’exemple de l’illustration suivante, une spondylodèse a été réalis
 {{</markdown>}}
 <br><br>
 {{<insertImage image="FAQCHOP0024TabelleFR.png" class="edge max-w-90">}}
-<br>  
 <br>
-  
+<br>
 {{</article>}}
 
 
@@ -1350,9 +1319,8 @@ Le code <b>7A.71.-</b> <i>Fusion de vertèbres avec stabilisation de la colonne 
 </body>
 <br>
 Il n'y a <b>pas</b> de <b>potentiel de conservation du mouvement</b> dans le segment concerné.
-<br>  
 <br>
-  
+<br>
 {{</article>}}
 
 
@@ -1394,7 +1362,8 @@ En cas de laminotomie, de laminectomie ou de laminoplastie, cela doit être enre
   
 **Aucun** code de la sous-catégorie 7A.71.- Fusion de vertèbres avec stabilisation de la colonne vertébrale **ne** doit être saisi.
 {{</markdown>}}
-  
+<br>
+<br>
 {{</article>}}
 
 
@@ -1435,9 +1404,8 @@ La sous-catégorie **7A.73.-** est utilisée pour coder une intervention chirurg
 
 Ce code est généralement utilisé pour les **pathologies traumatiques**, en particulier **les fractures thoraco-lombaires**. Il est toutefois également utilisé pour **d'autres indications**.
 {{</markdown>}}
-<br>  
 <br>
-  
+<br>
 {{</article>}}
 
 
