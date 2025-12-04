@@ -1256,6 +1256,53 @@ Seuls les segments auxquels le système est fixé sont pris en compte dans le d�
 
 
 
+{{<article number="0024"  title="CHOP - Stabilisation de la colonne vertébrale et correction de position – Abord dorsal et/ou dorsolatéral – Comptage des segments" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+
+<table border="1" style="border-collapse: collapse;">
+  <tr>
+    <th style="border: 1px solid black;">Mot-clé:</th>
+    <td style="border: 1px solid black;">Stabilisation / correction de la position de la colonne vertébrale / accès dorsal et/ou dorsolatéral / ventral, comptage des segments</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Créé le:</th>
+    <td style="border: 1px solid black;">01/01/2026 – Base Circulaire 2025/2: 0766</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Mise à jour:</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">ICD</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">CHOP</th>
+    <td style="border: 1px solid black;">7A.7- / 7A.B4.-</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Règle de codage:</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+</table>
+
+{{<markdown>}}
+**Problème/explication:**  
+Pour les sous-catégories 7A.71.- à 7A.74.-, la subdivision a été faite en 5e position pour la voie dorsale et dorsolatérale et en 6e position pour la voie ventrale, selon le nombre de segments traités (subdivisés en 14 et plus). Selon les conventions CHOP, le «et» doit être compris comme «et/ou». 
+  
+La note sous 7A.7- <i>«Stabilisation de la colonne vertébrale et correction de position» est la suivante: 
+«Si l’abord pour certains segments a lieu par voie dorsale ainsi que ventrale, il faut indiquer, pour la zone complète d’intervention, le nombre total de segments qui ont été opérés par voie dorsale avec un code ainsi que le nombre total de segments qui ont été opérés par voie ventrale avec un autre code. De plus, le code supplémentaire du nombre total de segments opérés est à saisir»</i>.
+Les voies d’abord dorsolatérales font partie des voies d’abord dorsales. En d’autres termes, le segment n’est pas compté deux fois s’il est opéré par voie dorsale et dorsolatérale. 
+  
+Dans l’exemple de l’illustration suivante, une spondylodèse a été réalisée sur six vertèbres, ce qui correspond à cinq segments. Trois segments sont opérés par voie dorsale et/ou dorsolatérale, quatre segments par voie ventrale. On saisit donc un code pour trois segments «dorsal et dorsolatéral» et un code pour quatre segments «ventral». Le code correspondant de la sous-catégorie 7A.B4.- <i>«Somme des segments opérés de la colonne vertébrale»</i> est par ailleurs codé pour cinq segments.
+  
+{{</markdown>}}
+<br><br>
+{{<insertImage image="FAQCHOP0024TabelleFR.png" class="edge max-w-90">}}
+<br>  
+<br>
+  
+{{</article>}}
+
 
 
 
