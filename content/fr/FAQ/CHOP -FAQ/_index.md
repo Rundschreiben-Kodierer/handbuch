@@ -498,7 +498,7 @@ Le code 51.99.90 <i>Autre opération endoscopique des voies biliaires</i>, comme
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé le:</th>
-    <td style="border: 1px solid black;">Créé le:: 	01.01.2026 – Basis RS 2025/2: 0808</td>
+    <td style="border: 1px solid black;">Créé le:	01.01.2026 – Basis RS 2025/2: 0808</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
@@ -517,12 +517,12 @@ Le code 51.99.90 <i>Autre opération endoscopique des voies biliaires</i>, comme
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
-<br>
+
 <b>Problème/explication:</b><br>
 Si une prothèse totale du genou existante, quel que soit son type, est remplacée par une autre prothèse totale du genou, il convient de sélectionner le code « lors d'un remplacement de prothèse » pour l'implantation. 
 <br><br>
-Par exemple, explantation d'une hémi-endoprothèse et implantation d'une endoprothèse totale sur le même genou : pour l'implantation, il faut saisir le code 81.54.31 <i>Implantation d'une endoprothèse totale standard du genou lors d'un remplacement de prothèse</i> et <br>non</br> le code 81.54.21 Première implantation d'une endoprothèse totale standard du genou.
-Si, lors du remplacement d'une endoprothèse du genou, un remplacement de la face arrière de la rotule est utilisé pour la première fois, il faut saisir le code 81.54.42 <i>Implantation d'un remplacement de la face arrière de la rotule lors d'un remplacement</i> et <br>non</br> le code 81.54.27 <i>Première implantation d'un remplacement de la face arrière de la rotule</i>.
+Par exemple, explantation d'une hémi-endoprothèse et implantation d'une endoprothèse totale sur le même genou : pour l'implantation, il faut saisir le code 81.54.31 <i>Implantation d'une endoprothèse totale standard du genou lors d'un remplacement de prothèse</i> et <b>non</b> le code 81.54.21 Première implantation d'une endoprothèse totale standard du genou.
+Si, lors du remplacement d'une endoprothèse du genou, un remplacement de la face arrière de la rotule est utilisé pour la première fois, il faut saisir le code 81.54.42 <i>Implantation d'un remplacement de la face arrière de la rotule lors d'un remplacement</i> et <b>non</b> le code 81.54.27 <i>Première implantation d'un remplacement de la face arrière de la rotule</i>.
 
 <br>
 <br>
@@ -561,7 +561,6 @@ Si, lors du remplacement d'une endoprothèse du genou, un remplacement de la fac
   </tr>
 </table>
 
-<b>Problème/explication:</b><br>
 Le tableau suivant précise, par l’exemple de la main, le codage avec le code d’intervention et le code supplémentaire lors d’interventions multiples en un temps.
 <br><br>
 {{<insertImage image="FAQCHOP0009TabelleFR.png" class="edge max-w-90">}}
@@ -602,7 +601,7 @@ Le tableau suivant précise, par l’exemple de la main, le codage avec le code 
   </tr>
 </table>
 
-<b>Erläuterung:</b><br>
+<b>Problème/explication:</b><br>
 L’indication de la latéralité n’est impérative que pour les organes existant par paires (la CHOP le spécifie par «L» dans le fichier PDF et par «Lateral» dans le fichier CSV). Pour ce qui est des organes ou parties du corps non présents par paire, l’indication de la latéralité peut être saisie, mais cette saisie n’est pas obligatoire.
 <br>  
 <br>
@@ -655,7 +654,7 @@ Exception: pour certains codes CHOP, il est indiqué en note que si le même typ
 
 
 
-{{<article number="0012"  title="Distinction entre 93.59.5- et 99.84.1-, 99.84.2-, 99.84.3-" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0012"  title="CHOP - Distinction entre 93.59.5- et 99.84.1-, 99.84.2-, 99.84.3-" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -686,6 +685,7 @@ Exception: pour certains codes CHOP, il est indiqué en note que si le même typ
 
 <b>Problème/explication:</b><br>
 Sous les groupes d’éléments 99.84.1- <i>Isolement de contact, selon le nombre de jours de traitement<i/>, 99.84.2- <i>Isolement contre l’infection par gouttelettes, selon le nombre de jours de traitement, […]</i> et 99.84.3- <i>Isolement contre l’infection par aérosol, selon le nombre de jours de traitement, […]</i>, figure l’«Exclusion – Omettre le code» suivante: 
+
 <br>
 <br>
 {{<grid class="ps-0">}}
@@ -694,7 +694,7 @@ Sous les groupes d’éléments 99.84.1- <i>Isolement de contact, selon le nombr
     {{</grid/column>}}
     {{<grid/column>}}
         {{<markdown>}}
-EXCL. Omettre le code - Traitement complexe de colonisation ou d’infection à agents infectieux multirésistants, selon le nombre de jours de traitement (93.59.5 ).
+EXCL. Omettre le code - Traitement complexe de colonisation ou d’infection à agents infectieux multirésistants, selon le nombre de jours de traitement (93.59.5-).
         {{</markdown>}}
     {{</grid/column>}}
 {{</grid>}}
@@ -785,7 +785,6 @@ Pour le calcul des jours de traitement sous les codes du groupe d'éléments CHO
 **Problème/explication:**  
 Les codes «[…], jusqu’à 6 jours de traitement» sont saisis dans les cas où le traitement complexe respectivement désigné a été réalisé sur maximum 6 jours de traitement pendant le séjour hospitalier. Ces codes ne contiennent pas de nombre minimal de jours de traitement. 
 Cela signifie que, pour ces codes, les caractéristiques minimales qui se rapportent à une semaine ou à un nombre particulier de jours de traitement ne s’appliquent pas. Les caractéristiques minimales, telles que les indications, les évaluations, l’infrastructure de traitement (par ex. la certification) et les qualifications doivent être respectées.
-
 {{</markdown>}}
 <br>  
 <br>
@@ -997,7 +996,7 @@ Lors d’un regroupement de cas avec un traitement complexe de médecine palliat
 
 
 
-{{<article number="0019"  title="Médecine palliative - Explications relatives aux caractéristiques minimales" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0019"  title="CHOP - Médecine palliative - Explications relatives aux caractéristiques minimales" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -1036,25 +1035,20 @@ En ce qui concerne la caractéristique minimale point 3, équipe de traitement e
 <b>Explication n° 1 :</b><br>  
 La liste des domaines thérapeutiques (travail social/socio-pédagogique/infirmière de liaison, psychologie, physiothérapie, ergothérapie, logopédie, consultation diététique/traitement nutritionnel, accompagnement spirituel, art-thérapie) est exhaustive tant pour 93.8A.2- que pour 93.8B.-.
 <br>
-<br>  
 La documentation des entretiens et des thérapies est la condition de base pour le codage. Le type de thérapie, sa durée et la date à laquelle elle a eu lieu doivent être clairement documentés par tous les groupes de professionnels concernés. Il n’y a pas de prescription fixant la durée minimale d’une unité thérapeutique.  
 Des entretiens documentés avec le patient, les proches et la famille peuvent être effectués par tous les groupes professionnels susmentionnés de l’équipe thérapeutique (médecins, infirmiers, travailleurs sociaux/socio-pédagogues, psychologues, physiothérapeutes, ergothérapeutes, logopédistes, diététiciens, accompagnant spirituel, art-thérapeutes). En font également partie les informations fournies aux patients et à ses proches dans le cadre de la thérapie.  
 Les travaux de documentation et de coordination en lien direct avec le traitement et les conseils prodigués, de même que les entretiens avec les patients, leurs proches et leur famille sont comptés dans les 6 heures.
-
-<br>
 <br>
 Les éléments suivants ne sont pas pris en compte dans les 6 heures :<br>
 •	Les discussions interprofessionnelles en équipe et la durée des déplacements  <br>
-•	Les «visites interprofessionnelles» (Caractéristique minimale point 3, traitement, a) de la sous-catégorie 93.8B.-).<br>
+•	Les «visites interprofessionnelles» (Caractéristique minimale point 3, traitement, a) de la sous-catégorie 93.8B.-).
 <br>  
 <br>  
 <b>Question n° 2:</b><br>  
 Que signifie <b>«Chaque semaine»</b> dans le cadre de la « réunion hebdomadaire de l'équipe interprofessionnelle » sous 93.8A.2- <i>dans la caractéristique minimale point 4, planification et contrôle du traitement,</i> et sous 93.8B.- <i>dans la caractéristique minimale point 5, planification et contrôle du traitement</i> ?
 <br>  
-<br>  
 <b>Explication n° 2 :</b><br>
 <b>«Chaque semaine»</b> se réfère à la structure, pas au patient. Cela signifie qu’au moins une discussion interprofessionnelle en équipe a lieu chaque semaine dans l’unité clinique.
-<br>  
 <br>  
 Exemple:  <br>  
 Le patient est hospitalisé pendant 10 jours (du lundi de la semaine 1 au mercredi de la semaine 2). Le patient sort le mercredi de la 2e semaine ou décède. Les discussions d’équipe ont toujours lieu le jeudi. L’exigence minimale du point de vue structurel est remplie également pour la 2e semaine.
@@ -1063,14 +1057,11 @@ Le patient est hospitalisé pendant 10 jours (du lundi de la semaine 1 au mercre
 <b>Question n° 3:</b><br>  
 Que signifie « interprofessionnel » au point 93.8A.2- <i>dans la caractéristique minimale n° 4, Planification et contrôle thérapeutiques</i>, et au point 93.8B.- <i>dans la caractéristique minimale n° 3, Thérapie, et dans la caractéristique minimale n° 5, Planification et contrôle thérapeutiques</i> ?
 <br>
-<br>
 <b>Explication n° 3 :</b><br>  
 Dans le cadre de «chaque semaine, discussion interprofessionnelle en équipe», le terme «interprofessionnel» signifie qu'au minimum un médecin, un membre du personnel soignant et un autre groupe professionnel participent à la réunion (cf. critère minimal point 5, planification et contrôle du traitement sous 93.8A.2- et 93.8B.-).
-<br>
 <br>  
 Dans le cadre de la «visite interprofessionnelle», le terme «interprofessionnel» signifie qu'au minimum un médecin et un membre du personnel soignant participent à la visite.  
  (voir caractéristique minimale point 3, thérapie 93.8B.-).
-
 <br>  
 <br>
   
@@ -1175,7 +1166,7 @@ Les deux exemples ci-dessous illustrent la manière de saisir les codes supplém
 
 
 
-{{<article number="0022"  title="Spondylodèse: comptage des segments lors de changement de tige et mise en place de rallonge" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0022"  title="CHOP - Spondylodèse: comptage des segments lors de changement de tige et mise en place de rallonge" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -1397,17 +1388,12 @@ Il n'y a <b>pas</b> de <b>potentiel de conservation du mouvement</b> dans le seg
 
 {{<markdown>}}
 **Problème/explication:**  
-Le **code 7A.71.-** *Fusion de vertèbres avec stabilisation de la colonne vertébrale* doit être utilisé lorsqu'une **fusion vertébrale/raidissement** avec stabilisation est réalisée et qu'elle présente en outre l'une des caractéristiques suivantes :
-<ul>
-  <li>**décortication des surfaces articulaires**</li>
-  <li>**Ostéotomie**</li>
-  <li>**Greffe ou allogreffe osseuse**</li>
-  <li>**Implantation de matériaux stabilisateurs** (par exemple cage, systèmes de vis et tiges, plaques)</li>
-</ul>
-Il n'y a **pas** de **potentiel de conservation du mouvement** dans le segment concerné.
-{{</markdown>}}
-<br>  
-<br>
+Une fusion osseuse (arthrodèse/spondylodèse) de la colonne vertébrale, dans laquelle seul du matériel osseux autogène (os spongieux et/ou copeaux cortico-spongieux) est utilisé et **aucun instrument** (par ex. vis, plaques, tiges) est enregistrée sous le code CHOP **7A.51.14** Greffe osseuse, colonne vertébrale, autogène, os spongieux et lamelles d’os cortico-spongieux. 
+  
+En cas de laminotomie, de laminectomie ou de laminoplastie, cela doit être enregistré en plus avec le code correspondant de la sous-catégorie 03.03.- _Laminotomie, laminectomie et laminoplastie_. La hauteur de l'intervention sur la colonne vertébrale est codée avec le code correspondant de la sous-catégorie 7A.B1.- _Niveau de l’intervention sur la colonne vertébrale_, tandis que l'accès à la colonne vertébrale est représenté par le code 03.04.-. 
+  
+**Aucun** code de la sous-catégorie 7A.71.- Fusion de vertèbres avec stabilisation de la colonne vertébrale **ne** doit être saisi.
+
   
 {{</article>}}
 
