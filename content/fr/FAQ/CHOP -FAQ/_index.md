@@ -879,7 +879,7 @@ Exemple: La note sous 99.A6.- <i>Diagnostic neurologique complexe</i> contient l
 {{</markdown>}}
 <br>
 <br>
-Note:&nbsp	&nbsp	&nbsp 	[…]<br><br>
+Note:&nbsp	&nbsp	&nbsp 	[…]<br>
 au moins trois des mesures suivantes:
     <ul>
         <li>PL (prélèvement de LCR par ponction lombaire),</li>

@@ -687,8 +687,8 @@ Ausnahme: Es bestehen CHOP-Kodes, bei denen im Beachte angegeben ist, dass die g
 </table>
 
 <b>Problem/Erläuterung:</b><br>
-Unter den Elementegruppen 99.84.1- <l>Kontaktisolierung, nach Anzahl Behandlungstage,</l> 
-99.84.2- <l>Tröpfchenisolierung, […]</l> und 99.84.3- <l>Aerosolisolierung, […]</l> ist folgendes «Exklusivum – Kode weglassen» angegeben: 
+Unter den Elementegruppen 99.84.1- <i>Kontaktisolierung, nach Anzahl Behandlungstage,</i> 
+99.84.2- <i>Tröpfchenisolierung, […]</i> und 99.84.3- <i>Aerosolisolierung, […]</i> ist folgendes «Exklusivum – Kode weglassen» angegeben: 
 <br>
 <br>
 {{<grid class="ps-0">}}
@@ -881,7 +881,7 @@ Beispiel: Unter 99.A6.- <i>Neurologische Komplexdiagnostik</i> wird im «Beachte
 {{</markdown>}}
 <br>
 <br>
-Beachte:&nbsp	&nbsp	&nbsp 	[…]<br><br>
+Beachte:&nbsp	&nbsp	&nbsp 	[…]<br>
 mind. 3 der folgenden Massnahmen:
 <body>
     <ul>
@@ -1065,14 +1065,14 @@ Der Patient ist 10 Tage hospitalisiert (von Montag der Woche 1 bis Mittwoch der 
 <br>  
 <br>  
 <b>Fragestellung Nr. 3:</b><br>  
-Was ist unter «interprofessionell» unter 93.8A.2- im _Mindestmerkmal_ Punkt 4, _Therapieplanung und -kontrolle_ und unter 93.8B.- in den _Mindestmerkmal_ Punkt 3, _Therapie und Mindestmerkmal_ Punkt 5, _Therapieplanung und -kontrolle_ zu verstehen?
+Was ist unter «interprofessionell» unter 93.8A.2- im <i>Mindestmerkmal</i> Punkt 4, <i>Therapieplanung und -kontrolle</i> und unter 93.8B.- in den <i>Mindestmerkmal</i> Punkt 3, <i>Therapie und Mindestmerkmal</i> Punkt 5, <i>Therapieplanung und -kontrolle</i> zu verstehen?
 <br>
 <br>
 <b>Erläuterung Nr. 3:</b><br>  
-Bei der «wöchentlichen interprofessionellen Teambesprechung» ist unter «interprofessionell» zu verstehen, dass im Minimum Arzt, Pflege und eine weitere Berufsgruppe teilnehmen (s. _Mindestmerkmal_ Punkt 5, _Therapieplanung und -kontrolle_ bei 93.8A.2- und 93.8B.-).
+Bei der «wöchentlichen interprofessionellen Teambesprechung» ist unter «interprofessionell» zu verstehen, dass im Minimum Arzt, Pflege und eine weitere Berufsgruppe teilnehmen (s. <i>Mindestmerkmal</i> Punkt 5, <i>Therapieplanung und -kontrolle</i> bei 93.8A.2- und 93.8B.-).
 <br>
 <br>  
-Bei der «interprofessionellen Visite» ist unter «interprofessionell» zu verstehen, dass im Minimum Arzt und Pflege teilnehmen (s. _Mindestmerkmal_ Punkt 3, _Therapie_ 93.8B.-).
+Bei der «interprofessionellen Visite» ist unter «interprofessionell» zu verstehen, dass im Minimum Arzt und Pflege teilnehmen (s. <i>Mindestmerkmal</i> Punkt 3, <i>Therapie</i> 93.8B.-).
 <br>  
 <br>
   

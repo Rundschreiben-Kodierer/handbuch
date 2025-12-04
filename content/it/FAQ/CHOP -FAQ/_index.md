@@ -680,7 +680,7 @@ Eccezione: esistono codici CHOP per i quali è indicato in nota che, se due o pi
 </table>
 
 <b>Problema/Spiegazione:</b><br>
-Nei gruppi di elementi 99.84.1- Isolamento da contatto, secondo il numero di giorni di trattamento, 99.84.2- Isolamento da goccioline, secondo il numero di giorni di trattamento, […] e 99.84.3- Isolamento da aerosol, secondo il numero di giorni di trattamento, […] è indicata la seguente esclusione di tipo «Omettere il codice»: 
+Nei gruppi di elementi 99.84.1- Isolamento da contatto, secondo il numero di giorni di trattamento, 99.84.2- <i>Isolamento da goccioline, secondo il numero di giorni di trattamento</i>, […] e 99.84.3- <i>Isolamento da aerosol, secondo il numero di giorni di trattamento, […]</i> è indicata la seguente esclusione di tipo «Omettere il codice»: 
 
 <br>
 <br>
@@ -878,7 +878,7 @@ Esempio: nella «Nota» al codice 99.A6 <i>Diagnostica neurologica complessa</i>
 {{</markdown>}}
 <br>
 <br>
-Nota:&nbsp	&nbsp	&nbsp 	[…]<br><br>
+Nota:&nbsp	&nbsp	&nbsp 	[…]<br>
 almeno 3 delle seguenti misure: 
 <body>
     <ul>
@@ -1064,7 +1064,7 @@ Il paziente è degente in ospedale per 10 giorni (da lunedì della prima settima
 <br>  
 <br>  
 <b>Domanda n. 3 dell' :</b><br>  
-Cosa si intende per «interprofessionale» al punto 93.8A.2- _nella caratteristica minima n. 4, Pianificazione e controllo della terapia_, e al punto 93.8B.- _nella caratteristica minima n. 3, Terapia, e nella caratteristica minima n. 5, Pianificazione e controllo della terapia_?
+Cosa si intende per «interprofessionale» al punto 93.8A.2- <i>nella caratteristica minima n. 4, Pianificazione e controllo della terapia</i>, e al punto 93.8B.- <i>nella caratteristica minima n. 3, Terapia, e nella caratteristica minima n. 5, Pianificazione e controllo della terapia</i>?
 <br>
 <br>
 <b>Spiegazione n. 3:</b><br>  
@@ -1072,7 +1072,7 @@ Nella «riunione settimanale del team interprofessionale», per «interprofessio
 (cfr. requisito minimo punto 5, pianificazione e controllo della terapia in 93.8A.2- e 93.8B.-).
 <br>
 <br>  
-Nella «visita interprofessionale», per «interprofessionale» si intende che partecipano almeno un medico e personale infermieristico (cfr. _caratteristica minima punto 3, terapia_ 93.8B.-).
+Nella «visita interprofessionale», per «interprofessionale» si intende che partecipano almeno un medico e personale infermieristico (cfr. <i>caratteristica minima punto 3, terapia</i> 93.8B.-).
 <br>
 <br>
   
