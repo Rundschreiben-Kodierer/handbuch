@@ -227,66 +227,67 @@ Chacun des codes suivants indique uniquement «d’une prothèse» ou «de proth
 
 {{<indent level="4">}}
 
-{{<codeEntry level="1" title="09.83">}}
+{{<codeEntry title="09.83">}}
 <i>Conjonctivo-rhinostomie avec insertion de tube ou de stent</i>
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="31.93">}}
+{{<codeEntry title="31.93">}}
 <i>Remplacement de tube [stent] de trachée ou de larynx</i>
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="31.96">}}
+{{<codeEntry title="31.96">}}
 <i>Insertion de tube [stent] de trachée ou de larynx</i>
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="33.91.2-">}}
+{{<codeEntry title="33.91.2-">}}
 <i>Dilatation bronchique, endoscopique, avec insertion ou remplacement de stent/endoprothèse
 [stent graft]</i>
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="44.99.5-">}}
+{{<codeEntry title="44.99.5-">}}
 <i>Insertion ou remplacement de prothèse non auto-expansible dans l’estomac</i>
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="44.99.6-">}}
+{{<codeEntry title="44.99.6-">}}
 <i>Insertion ou remplacement de prothèse auto-expansible dans l’estomac</i>
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="46.99.5-">}}
+{{<codeEntry title="46.99.5-">}}
 <i>Insertion ou remplacement de prothèse non auto-expansible dans l’intestin</i>
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="46.99.6-">}}
+{{<codeEntry title="46.99.6-">}}
 <i>Insertion ou remplacement de prothèse auto-expansible dans l’intestin</i>
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="48.99.50">}}
+{{<codeEntry title="48.99.50">}}
 <i>Insertion ou remplacement d’une prothèse non auto-expansible dans le rectum</i>
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="48.99.60">}}
+{{<codeEntry title="48.99.60">}}
 <i>Insertion ou remplacement d’une prothèse auto-expansible dans le rectum</i>
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="52.93.- ">}}
+{{<codeEntry title="52.93.-">}}
 <i>Insertion, remplacement ou enlèvement de stent [prothèse] dans le ou du canal pancréatique, par endoscopie</i>
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="52.95.4-">}}
+{{<codeEntry title="52.95.4-">}}
 <i>Insertion ou remplacement d’un stent [prothèse] non auto-expansible dans le canal pancréatique, chirurgical ouvert ou par laparoscopie</i>
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="52.95.5- ">}}
+{{<codeEntry title="52.95.5-">}}
 <i>Insertion ou remplacement d’un stent [prothèse] auto-expansible dans le canal pancréatique, chirurgical ouvert ou par laparoscopie</i>
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="58.99.10">}}
+{{<codeEntry title="58.99.10">}}
 <i>Autres opérations d’urètre et de tissu périurétral, insertion et remplacement d’un stent urétral</i>
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="60.99.31">}}
+{{<codeEntry title="60.99.31">}}
 <i>Insertion de stent dans l’urètre prostatique</i>
 {{</codeEntry>}}
+
 
 {{</indent>}}
 

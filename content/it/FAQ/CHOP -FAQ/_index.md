@@ -228,65 +228,68 @@ I seguenti codici indicano solo «di uno stent», «di stent» o di «una protes
 
 {{<indent level="4">}}
 
-{{<codeEntry level="1" title="09.83">}}
+
+{{<codeEntry title="09.83">}}
 <i>Congiuntivorinostomia con inserzione di tubo o di supporto</i>
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="31.93">}}
+{{<codeEntry title="31.93">}}
 <i>Sostituzione di stent laringeo o tracheale</i>
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="31.96">}}
+{{<codeEntry title="31.96">}}
 <i>Inserzione di stent laringeo o tracheale</i>
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="33.91.2-">}}
+{{<codeEntry title="33.91.2-">}}
 <i>Dilatazione bronchiale, per via endoscopica, con inserzione o sostituzione di stent/stentgraft</i>
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="44.99.5-">}}
+{{<codeEntry title="44.99.5-">}}
 <i>Inserzione o sostituzione di una protesi non autoespandente nello stomaco</i>
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="44.99.6-">}}
+{{<codeEntry title="44.99.6-">}}
 <i>Inserzione o sostituzione di una protesi autoespandente nello stomaco</i>
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="46.99.5-">}}
+{{<codeEntry title="46.99.5-">}}
 <i>Inserzione o sostituzione di una protesi non autoespandente nell’intestino</i>
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="46.99.6-">}}
+{{<codeEntry title="46.99.6-">}}
 <i>Inserzione o sostituzione di una protesi autoespandente nell’intestino</i>
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="48.99.50">}}
+{{<codeEntry title="48.99.50">}}
 <i>Inserzione o sostituzione di una protesi non autoespandente nel retto</i>
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="48.99.60">}}
+{{<codeEntry title="48.99.60">}}
 <i>Inserzione o sostituzione di una protesi autoespandente nel retto</i>
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="52.93.- ">}}
+{{<codeEntry title="52.93.-">}}
 <i>Inserzione, sostituzione o rimozione endoscopica di stent [protesi] nel dotto pancreatico</i>
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="52.95.4-">}}
+{{<codeEntry title="52.95.4-">}}
 <i>Inserzione o sostituzione di uno stent [protesi] non autoespandente nel dotto pancreatico, chirurgica a cielo aperto o per via laparoscopica</i>
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="52.95.5- ">}}
+{{<codeEntry title="52.95.5-">}}
 <i>Inserzione o sostituzione di uno stent [protesi] autoespandente nel dotto pancreatico, chirurgica a cielo aperto o per via laparoscopica</i>
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="58.99.10">}}
+{{<codeEntry title="58.99.10">}}
 <i>Altri interventi sull’uretra e sul tessuto periuretrale, posa e sostituzione di stent nell’uretra</i>
 {{</codeEntry>}}
 
-{{<codeEntry level="1" title="60.99.31">}}
+{{<codeEntry title="60.99.31">}}
 <i>Inserzione di stent nell’uretra prostatica</i>
 {{</codeEntry>}}
+
+
 
 {{</indent>}}
 

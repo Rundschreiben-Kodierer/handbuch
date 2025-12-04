@@ -226,7 +226,6 @@ Folgende Kodes haben keine Unterteilung nach Anzahl der implantierten Stents/Pro
 <br>
 
 {{<indent level="4">}}
-a
 {{<codeEntry title="09.83">}}
 <i>Konjunktivozystorhinostomie mit Einsetzen von Tubus oder Stent</i>
 {{</codeEntry>}}
@@ -284,68 +283,6 @@ a
 {{</codeEntry>}}
 
 {{<codeEntry title="60.99.31">}}
-<i>Einlegen eines Stents in die prostatische Harnröhre</i>
-{{</codeEntry>}}
-
-
-
-{{<codeEntry level="1" title="09.83">}}
-<i>Konjunktivozystorhinostomie mit Einsetzen von Tubus oder Stent</i>
-{{</codeEntry>}}
-
-{{<codeEntry level="1" title="31.93">}}
-<i>Ersetzen eines Larynx- oder Trachea-Stents</i>
-{{</codeEntry>}}
-
-{{<codeEntry level="1" title="31.96">}}
-<i>Einsetzen eines Larynx- oder Trachea-Stents</i>
-{{</codeEntry>}}
-
-{{<codeEntry level="1" title="33.91.2-">}}
-<i>Bronchusdilatation, endoskopisch, mit Einlegen oder Wechsel eines Stents/Stent-Grafts</i>
-{{</codeEntry>}}
-
-{{<codeEntry level="1" title="44.99.5-">}}
-<i>Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Magen</i>
-{{</codeEntry>}}
-
-{{<codeEntry level="1" title="44.99.6-">}}
-<i>Einlegen oder Wechsel einer selbstexpandierenden Prothese am Magen</i>
-{{</codeEntry>}}
-
-{{<codeEntry level="1" title="46.99.5-">}}
-<i>Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Darm</i>
-{{</codeEntry>}}
-
-{{<codeEntry level="1" title="46.99.6-">}}
-<i>Einlegen oder Wechsel einer selbstexpandierenden Prothese am Darm</i>
-{{</codeEntry>}}
-
-{{<codeEntry level="1" title="48.99.50">}}
-<i>Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese im Rektum</i>
-{{</codeEntry>}}
-
-{{<codeEntry level="1" title="48.99.60">}}
-<i>Einlegen oder Wechsel einer selbstexpandierenden Prothese im Rektum</i>
-{{</codeEntry>}}
-
-{{<codeEntry level="1" title="52.93.- ">}}
-<i>Endoskopische Einlage, Wechsel oder Entfernen von Stent [Prothese] in den Ductus pancreaticus</i>
-{{</codeEntry>}}
-
-{{<codeEntry level="1" title="52.95.4-">}}
-<i>Einlage oder Wechsel eines nicht selbstexpandierenden Stents [Prothese] in den Pankreasgang, offen chirurgisch oder laparoskopisch</i>
-{{</codeEntry>}}
-
-{{<codeEntry level="1" title="52.95.5- ">}}
-<i>Einlage oder Wechsel eines selbstexpandierenden Stents [Prothese] in den Pankreasgang, offen chirurgisch oder laparoskopisch</i>
-{{</codeEntry>}}
-
-{{<codeEntry level="1" title="58.99.10">}}
-<i>Sonstige Operationen an Urethra und Periurethralgewebe, Einlegen und Wechsel eines Stents in die Urethra</i>
-{{</codeEntry>}}
-
-{{<codeEntry level="1" title="60.99.31">}}
 <i>Einlegen eines Stents in die prostatische Harnröhre</i>
 {{</codeEntry>}}
 
