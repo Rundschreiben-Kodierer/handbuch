@@ -1305,55 +1305,6 @@ Dans l’exemple de l’illustration suivante, une spondylodèse a été réalis
 
 
 
-{{<article number="0025"  title="CHOP – Fusion osseuse avec instrumentation – Colonne vertébrale" collapsibleClass="d-inline-block" groupId="chopfaq">}}
-
-<table border="1" style="border-collapse: collapse;">
-  <tr>
-    <th style="border: 1px solid black;">Mot-clé:</th>
-    <td style="border: 1px solid black;">fusion vertébrale / instrumentation / greffe osseuse / transplantation osseuse / 
-substitut osseux au niveau de la colonne vertébrale / mesures de stabilisation
-</td>
-  </tr>
-  <tr>
-    <th style="border: 1px solid black;">Créé le:</th>
-    <td style="border: 1px solid black;">01.01.2026 - Nouveau</td>
-  </tr>
-  <tr>
-    <th style="border: 1px solid black;">Mise à jour:</th>
-    <td style="border: 1px solid black;"></td>
-  </tr>
-  <tr>
-    <th style="border: 1px solid black;">ICD</th>
-    <td style="border: 1px solid black;"></td>
-  </tr>
-  <tr>
-    <th style="border: 1px solid black;">CHOP</th>
-    <td style="border: 1px solid black;">7A.71.-</td>
-  </tr>
-  <tr>
-    <th style="border: 1px solid black;">Règle de codage:</th>
-    <td style="border: 1px solid black;"></td>
-  </tr>
-</table>
-
-<b>Problème/explication:</b> <br>
-Le code <b>7A.71.-</b> <i>Fusion de vertèbres avec stabilisation de la colonne vertébrale</i> doit être utilisé lorsqu'une <b>fusion vertébrale/raidissement</b> avec stabilisation est réalisée et qu'elle présente en outre l'une des caractéristiques suivantes :<br>
-
-<body>
-    <ul>
-        <li><b>décortication des surfaces articulaires</b></li>
-        <li><b>Ostéotomie</b></li>
-        <li><b>Greffe ou allogreffe osseuse</b></li>
-        <li><b>Implantation de matériaux stabilisateurs</b> (par exemple cage, systèmes de vis et tiges, plaques)</li>
-    </ul>
-</body>
-<br>
-Il n'y a <b>pas</b> de <b>potentiel de conservation du mouvement</b> dans le segment concerné.
-<br>  
-<br>
-  
-{{</article>}}
-
 
 
 
