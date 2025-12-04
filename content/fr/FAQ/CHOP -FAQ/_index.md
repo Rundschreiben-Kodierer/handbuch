@@ -564,7 +564,7 @@ Si, lors du remplacement d'une endoprothèse du genou, un remplacement de la fac
 <b>Problème/explication:</b><br>
 Le tableau suivant précise, par l’exemple de la main, le codage avec le code d’intervention et le code supplémentaire lors d’interventions multiples en un temps.
 <br><br>
-{{<insertImage image="FAQCHOP0008Tabelle.png" class="edge max-w-90">}}
+{{<insertImage image="FAQCHOP0009TabelleFR.png" class="edge max-w-90">}}
 <br>  
 <br>
 
@@ -882,7 +882,6 @@ Exemple: La note sous 99.A6.- <i>Diagnostic neurologique complexe</i> contient l
 <br>
 Note:&nbsp	&nbsp	&nbsp 	[…]<br><br>
 au moins trois des mesures suivantes:
-<body>
     <ul>
         <li>PL (prélèvement de LCR par ponction lombaire),</li>
         <li>IRM crânienne et spinale,</li>
@@ -892,10 +891,8 @@ au moins trois des mesures suivantes:
         <li>diagnostic électrophysiologique (neurophysiologique),</li>
         <li>diagnostic neurosonologique/psychologique/psychiatrique,</li>
         <li>diagnostic neuropsychologique,</li>
-        <li>électroencéphalographie [EEG] (EEG mobile de longue durée sur au moins 24 heures ou plus et EEG polysomnographique et monitoring-encéphalographique par vidéo et radio-télémétrie sur au moins 4 heures et EEG en position orthostatique)
-</li>
+        <li>électroencéphalographie [EEG] (EEG mobile de longue durée sur au moins 24 heures ou plus et EEG polysomnographique et monitoring-encéphalographique par vidéo et radio-télémétrie sur au moins 4 heures et EEG en position orthostatique)</li>
     </ul>
-</body>
 Si un EEG est réalisé à trois reprises sans que deux autres des mesures énumérées soient appliquées, les caractéristiques minimales ne sont pas remplies, de sorte qu’il n’est pas possible d’utiliser un code de la sous-catégorie 99.A6.-. Si l’activité comprend au contraire une IRM crânienne, un diagnostic neurophysiologique et un EEG mobile de longue durée sur au moins 24 heures et que les autres caractéristiques minimales sont remplies, il est possible d’utiliser un code de la sous-catégorie 99.A6.-.
 <br>  
 <br>
@@ -1178,16 +1175,16 @@ Les deux exemples ci-dessous illustrent la manière de saisir les codes supplém
 
 
 
-{{<article number="0022"  title="CHOP - Spondylodese: Zählung der Segmente bei Stabwechsel und bei Verlängerung" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0022"  title="Spondylodèse: comptage des segments lors de changement de tige et mise en place de rallonge" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Mot-clé:</th>
-    <td style="border: 1px solid black;">Stabwechsel Wirbelsäule / Neufusion Segmente bei Überbrückung / Revisionseingriff Wirbelsäule / Zählung der Segmente</td>
+    <td style="border: 1px solid black;">Changement de tige colonne vertébrale  nouvelle fusion segments lors d'un pontage / intervention de révision colonne vertébrale / comptage des segments</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé le:</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0788</td>
+    <td style="border: 1px solid black;">01/01/2026 – Base Circulaire 2025/2: 0788</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
@@ -1209,10 +1206,10 @@ Les deux exemples ci-dessous illustrent la manière de saisir les codes supplém
 
 {{<markdown>}}
 **Problème/explication:**  
-Die Segmente, bei denen anlässlich eines Revisionseingriffs an der Wirbelsäule nur die Stäbe entfernt (und diese z. B. durch längere Stäbe ersetzt werden bei Anschlusssegment-Pathologie) und bei denen sonst keine operativen Massnahmen an den Wirbelkörpern vorgenommen werden, wie z. B. Einsetzen neuer Pedikelschrauben oder eines Cages, Dekortizierung der Facettengelenke, Anlage von lokalem Knochen oder Knochenersatzmaterial, fliessen nicht in die Zählung der operierten Segmente mit ein.
-
-**Ad Zählen der Segmente bei Überbrückung:**  
-Bei z. B. vorbestehender Spondylodese L2 – L4 und aktuell Neufusion der Segmente L1/L2 und L4/L5 wird dies mit dem zutreffenden CHOP-Kode für 2 Segmente abgebildet, falls wie oben erwähnt, an den Wirbelkörpern L2 – L4 ausser der Stabanlage keine weiteren Massnahmen durchgeführt wurden.
+Les segments sur lesquels seules les tiges sont enlevées lors d’une intervention de révision sur la colonne vertébrale (pour être remplacées par des tiges plus longues en cas de pathologie du segment adjacent) et pour lesquels aucune autre mesure chirurgicale n’est entreprise sur les vertèbres, telle que la mise en place de nouvelles vis pédiculaires ou d’une cage, la décortication de facettes articulaires, l’insertion d’os local ou de matériau de remplacement d’os, n’entrent pas dans le calcul des segments opérés.
+Comptage des segments en situation de pontage:
+ 
+Exemple: une spondylodèse des vertèbres L2-L4 préexistante, complétée à présent par une nouvelle fusion des segments L1/L2 et L4/L5 sera représentée par le code CHOP correspondant pour 2 segments si, comme indiqué ci-dessus, aucune autre mesure n’est entreprise sur les vertèbres L2-L4 en dehors de la pose de la tige.
 {{</markdown>}}
 <br>  
 <br>
@@ -1223,16 +1220,16 @@ Bei z. B. vorbestehender Spondylodese L2 – L4 und aktuell Neufusion der Segmen
 
 
 
-{{<article number="0023"  title="CHOP - 7A.A2 Growing rod – Zusatzkode – Segmente beim spezifischen Eingriff" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0023"  title="CHOP - 7A.A2 Tige de croissance – Code supplémentaire – Segments pour intervention spécifique" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Mot-clé:</th>
-    <td style="border: 1px solid black;">Growing rod, dynamische Stabilisierung der Wirbelsäule / Zählung der Segmente</td>
+    <td style="border: 1px solid black;">Tige de croissance / stabilisation dynamique de la colonne vertébrale / comptage des segments</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé le:</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0819</td>
+    <td style="border: 1px solid black;">01/01/2026 – Base Circulaire 2025/2: 0819</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
@@ -1254,10 +1251,10 @@ Bei z. B. vorbestehender Spondylodese L2 – L4 und aktuell Neufusion der Segmen
 
 <b>Problème/explication:</b>
 <br>
-Der Kode 7A.A2 <i>Implantation von mitwachsenden oder expandierenden Systemen, Wirbelsäule</i> ist ein Zusatzkode und kann daher nicht allein kodiert werden. 
+Le code 7A.A2 <i>Implantation de systèmes évolutifs ou expansifs, colonne vertébrale</i> est un code supplémentaire et ne peut donc pas être codé seul. L’intervention consiste en une stabilisation dynamique de la colonne vertébrale.
 <br>
-Beim Eingriff handelt es sich um eine <b>dynamische Stabilisierung der Wirbelsäule</b>, die mit <b><L>7A.72.1- <i>Dynamische Stabilisierung der Wirbelsäule, Zugang dorsal und dorsolateral</i></b></L> erfasst wird.<br>
-Zur Zählung der behandelten Segmente werden nur die Segmente, an denen das System befestigt wird, berücksichtigt. 
+L'intervention consiste en une <b>stabilisation dynamique de la colonne vertébrale</b>, qui est enregistrée sous <b>7A.72.1 -</b> <i>Stabilisation dynamique de la colonne vertébrale, abord dorsal et dorsolatéral</i>.<br>
+Seuls les segments auxquels le système est fixé sont pris en compte dans le décompte des segments traités.
 
 <br>  
 <br>
@@ -1267,16 +1264,16 @@ Zur Zählung der behandelten Segmente werden nur die Segmente, an denen das Syst
 
 
 
-{{<article number="0024"  title="CHOP - Stabilisierung der Wirbelsäule und Stellungskorrektur – Zählung der Segmente" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0024"  title="CHOP - Stabilisation de la colonne vertébrale et correction de position – Abord dorsal et/ou dorsolatéral – Comptage des segments" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Mot-clé:</th>
-    <td style="border: 1px solid black;">Stabilisierung / Stellungskorrektur der Wirbelsäule / Zugang dorsal und/ oder dorsolateral / ventral, Zählung Segmente</td>
+    <td style="border: 1px solid black;">Stabilisation / correction de la position de la colonne vertébrale / accès dorsal et/ou dorsolatéral / ventral, comptage des segments</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé le:</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0766</td>
+    <td style="border: 1px solid black;">01/01/2026 – Base Circulaire 2025/2: 0766</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
@@ -1298,18 +1295,17 @@ Zur Zählung der behandelten Segmente werden nur die Segmente, an denen das Syst
 
 {{<markdown>}}
 **Problème/explication:**  
-Für die Subkategorien 7A.71.- bis 7A.74.- erfolgte die Aufgliederung in 5. Stelle für den Zugang «dorsal und dorsolateral», bzw. «ventral», in 6. Stelle nach der Anzahl behandelter Segmente (aufgegliedert bis 14 und mehr).  
-Das «und» ist gemäss CHOP-Konventionen als «und/oder» zu verstehen. 
+Pour les sous-catégories 7A.71.- à 7A.74.-, la subdivision a été faite en 5e position pour la voie dorsale et dorsolatérale et en 6e position pour la voie ventrale, selon le nombre de segments traités (subdivisés en 14 et plus). Selon les conventions CHOP, le «et» doit être compris comme «et/ou». 
   
-Das «Beachte» unter 7A.7- _Stabilisierung der Wirbelsäule und Stellungskorrektur_ lautet: 
-_«Erfolgt der Zugang für gewisse Segmente von dorsal sowie von ventral, so ist für das gesamte Eingriffsgebiet die gesamte Anzahl der Segmente, die von dorsal operiert wurden mit einem Kode anzugeben, sowie die gesamte Anzahl der Segmente, die von ventral operiert wurden mit einem anderen Kode. Zusätzlich wird der Zusatzkode der gesamten Anzahl operierter Segmente angegeben.»_  
-Die dorsolateralen Zugänge zählen zu den dorsalen Zugängen. Sprich das Segment wird nicht doppelt gezählt, wenn es von dorsal sowie dorsolateral operiert wird.
+La note sous 7A.7- <i>«Stabilisation de la colonne vertébrale et correction de position» est la suivante: 
+«Si l’abord pour certains segments a lieu par voie dorsale ainsi que ventrale, il faut indiquer, pour la zone complète d’intervention, le nombre total de segments qui ont été opérés par voie dorsale avec un code ainsi que le nombre total de segments qui ont été opérés par voie ventrale avec un autre code. De plus, le code supplémentaire du nombre total de segments opérés est à saisir»</i>.
+Les voies d’abord dorsolatérales font partie des voies d’abord dorsales. En d’autres termes, le segment n’est pas compté deux fois s’il est opéré par voie dorsale et dorsolatérale. 
   
-Im Beispiel der folgenden Abbildung erfolgte eine Spondylodese über sechs Wirbel, d.h. über fünf Segmente. Drei Segmente werden von dorsal und/oder dorsolateral operiert, 4 Segmente von ventral. Es werden somit ein Kode für drei Segmente «dorsal und dorsolateral» sowie ein Kode für vier Segmente «ventral» erfasst. Zusätzlich wird der entsprechende Kode der Subkategorie 7A.B4.- _Summe der operierten Segmente der Wirbelsäule_ für fünf Segmente kodiert.
+Dans l’exemple de l’illustration suivante, une spondylodèse a été réalisée sur six vertèbres, ce qui correspond à cinq segments. Trois segments sont opérés par voie dorsale et/ou dorsolatérale, quatre segments par voie ventrale. On saisit donc un code pour trois segments «dorsal et dorsolatéral» et un code pour quatre segments «ventral». Le code correspondant de la sous-catégorie 7A.B4.- <i>«Somme des segments opérés de la colonne vertébrale»</i> est par ailleurs codé pour cinq segments.
   
 {{</markdown>}}
 <br><br>
-{{<insertImage image="FAQCHOP0024Tabelle.png" class="edge max-w-90">}}
+{{<insertImage image="FAQCHOP0024TabelleFR.png" class="edge max-w-90">}}
 <br>  
 <br>
   
@@ -1318,16 +1314,18 @@ Im Beispiel der folgenden Abbildung erfolgte eine Spondylodese über sechs Wirbe
 
 
 
-{{<article number="0025"  title="CHOP - knöcherne Fusion mit Instrumentierung – Wirbelsäule " collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0025"  title="CHOP – Fusion osseuse avec instrumentation – Colonne vertébrale" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Mot-clé:</th>
-    <td style="border: 1px solid black;">Fusion Wirbelsäule / Instrumentierung / Knochenanlagerung, Knochentransplantation, Knochenersatz an der Wirbelsäule, <br>stabilisierende Massnahmen</td>
+    <td style="border: 1px solid black;">fusion vertébrale / instrumentation / greffe osseuse / transplantation osseuse / 
+substitut osseux au niveau de la colonne vertébrale / mesures de stabilisation
+</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé le:</th>
-    <td style="border: 1px solid black;">01.01.2026 - Neu</td>
+    <td style="border: 1px solid black;">01.01.2026 - Nouveau</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
@@ -1348,18 +1346,18 @@ Im Beispiel der folgenden Abbildung erfolgte eine Spondylodese über sechs Wirbe
 </table>
 
 <b>Problème/explication:</b> <br>
-Der Kode <b>7A.71.-</b> <i>Fusion von Wirbeln mit Stabilisierung der Wirbelsäule</i> ist anzuwenden, wenn eine <b>Wirbelfusion / Versteifung</b> mit Stabilisierung durchgeführt wird, die zusätzlich eines der folgenden Merkmale erfüllt:<br>
+Le code <b>7A.71.-</b> <i>Fusion de vertèbres avec stabilisation de la colonne vertébrale</i> doit être utilisé lorsqu'une <b>fusion vertébrale/raidissement</b> avec stabilisation est réalisée et qu'elle présente en outre l'une des caractéristiques suivantes :<br>
 
 <body>
     <ul>
-        <li>Implantation von stabilisierenden Materialien (z. B. Cage, Schrauben-Stab-Systeme, Platten) sowie eine der folgenden Massnahmen  </li>
-        <li>Dekortikation der Gelenkflächen oder</li>
-        <li>Osteotomie oder</li>
-        <li>Anbringen von Knochen(ersatz)material</li>
+        <li><b>décortication des surfaces articulaires</b></li>
+        <li><b>Ostéotomie</b></li>
+        <li><b>Greffe ou allogreffe osseuse</b></li>
+        <li><b>Implantation de matériaux stabilisateurs</b> (par exemple cage, systèmes de vis et tiges, plaques)</li>
     </ul>
 </body>
 <br>
-Es liegt keine <b>potenzielle Bewegungserhaltung</b> im betroffenen Segment vor.
+Il n'y a <b>pas</b> de <b>potentiel de conservation du mouvement</b> dans le segment concerné.
 <br>  
 <br>
   
@@ -1368,18 +1366,16 @@ Es liegt keine <b>potenzielle Bewegungserhaltung</b> im betroffenen Segment vor.
 
 
 
-{{<article number="0026"  title="CHOP - knöcherne Fusion ohne Instrumentierung – Wirbelsäule" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0026"  title="CHOP – Fusion osseuse sans instrumentation - Colonne vertébrale" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Mot-clé:</th>
-    <td style="border: 1px solid black;">Knöcherne Fusion Wirbelsäule ohne Instrumentierung / Knochentransplantation, Knochentransposition, Knochenersatz an der Wirbelsäule
-
-</td>
+    <td style="border: 1px solid black;">Fusion osseuse de la colonne vertébrale sans instrumentation / greffe osseuse, transposition osseuse / remplacement osseux au niveau de la colonne vertébrale</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé le:</th>
-    <td style="border: 1px solid black;">01.01.2026 - Neu</td>
+    <td style="border: 1px solid black;">01/01/2026 – Nouveau</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
@@ -1401,12 +1397,14 @@ Es liegt keine <b>potenzielle Bewegungserhaltung</b> im betroffenen Segment vor.
 
 {{<markdown>}}
 **Problème/explication:**  
-Eine knöcherne Fusion (Arthrodese / Spondylodese) der Wirbelsäule, bei der ausschliesslich autogenes Knochenmaterial (Spongiosa und/oder kortikospongiöser Span) eingebracht wird und **keine Instrumentierung** (z. B. Schrauben, Platten, Stäbe) erfolgt, wird mit dem CHOP-Kode **7A.51.14** _Knochentransplantation an der Wirbelsäule, autogen, Spongiosa und kortikospongiöser Span_ erfasst.  
-  
-Bei einer durchgeführten Laminotomie, Laminektomie oder Laminoplastik ist dies zusätzlich mit dem zutreffenden Kode der Subkategorie 03.03.- _Laminotomie, Laminektomie und Laminoplastik_ zu erfassen. Die Höhe des Eingriffs an der Wirbelsäule wird mit dem zutreffenden Kode der Subkategorie 7A.B1.- _Höhe des Eingriffs an der Wirbelsäule_ kodiert, während der Zugang zur Wirbelsäule mit dem Kode 03.04.- dargestellt wird.  
-  
-Es darf **kein** Kode der Subkategorie 7A.71.- _Fusion von Wirbeln mit Stabilisierung der Wirbelsäule_ erfasst werden.
-  
+Le **code 7A.71.-** *Fusion de vertèbres avec stabilisation de la colonne vertébrale* doit être utilisé lorsqu'une **fusion vertébrale/raidissement** avec stabilisation est réalisée et qu'elle présente en outre l'une des caractéristiques suivantes :
+<ul>
+  <li>**décortication des surfaces articulaires**</li>
+  <li>**Ostéotomie**</li>
+  <li>**Greffe ou allogreffe osseuse**</li>
+  <li>**Implantation de matériaux stabilisateurs** (par exemple cage, systèmes de vis et tiges, plaques)</li>
+</ul>
+Il n'y a **pas** de **potentiel de conservation du mouvement** dans le segment concerné.
 {{</markdown>}}
 <br>  
 <br>
@@ -1416,16 +1414,16 @@ Es darf **kein** Kode der Subkategorie 7A.71.- _Fusion von Wirbeln mit Stabilisi
 
 
 
-{{<article number="0027"  title="CHOP - Stabilisierung Wirbelsäule ohne Fusion" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0027"  title="CHOP – Stabilisation de la colonne vertébrale sans fusion" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Mot-clé:</th>
-    <td style="border: 1px solid black;">Nicht-dynamische Stabilisierung Wirbelsäule,<br> Instrumentierung / Osteosynthese an der Wirbelsäule</td>
+    <td style="border: 1px solid black;">Stabilisation non dynamique de la colonne vertébrale, instrumentation / ostéosynthèse de la colonne vertébrale</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé le:</th>
-    <td style="border: 1px solid black;">01.01.2026 - Neu</td>
+    <td style="border: 1px solid black;">01/01/2026 – Nouveau </td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
@@ -1447,9 +1445,9 @@ Es darf **kein** Kode der Subkategorie 7A.71.- _Fusion von Wirbeln mit Stabilisi
 
 {{<markdown>}}
 **Problème/explication:**  
-Die Subkategorie **7A.73.-** wird verwendet zur Kodierung einer operativen Massnahme, bei der die Wirbelsäule mittels Osteosynthesematerialien wie **Schrauben, Stäben oder Platten** mechanisch **stabilisiert bzw. geschient** wird. Die Stabilisierung ist potenziell **reversibel –** durch eine **partielle oder vollständige Materialentfernung (OSME) nach Frakturheilung**.
+La sous-catégorie **7A.73.-** est utilisée pour coder une intervention chirurgicale dans laquelle la colonne vertébrale est **stabilisée** mécaniquement **ou immobilisée** à l'aide de matériel d'ostéosynthèse tel que **des vis, des tiges ou des plaques**. La stabilisation peut être potentiellement **réversible**, par exemple avec la possibilité de libérer le segment après la guérison de la fracture en **retirant partiellement ou totalement le matériel** (OSME).
 
-Typischerweise wird dieser Kode bei **traumatischen Pathologien**, insbesondere **thorakolumbalen Frakturen**, angewendet. Er kommt jedoch auch bei **anderen Indikationen** zum Einsatz.
+Ce code est généralement utilisé pour les **pathologies traumatiques**, en particulier **les fractures thoraco-lombaires**. Il est toutefois également utilisé pour **d'autres indications**.
 {{</markdown>}}
 <br>  
 <br>
