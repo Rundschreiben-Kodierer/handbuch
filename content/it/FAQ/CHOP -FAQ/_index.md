@@ -898,16 +898,16 @@ Se invece vengono somministrati una RMN cranica, una diagnostica neuropsicologic
 
 
 
-{{<article number="0017"  title="CHOP - 99.C- Pflege-Komplexbehandlung – Zuordnung einer Pflegeintervention nur zu einer Leistungsgruppe" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0017"  title="CHOP - 99.C- Trattamento infermieristico complesso – Attribuzione di un intervento infermieristico ad un solo gruppo di prestazioni " collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Parola chiave:</th>
-    <td style="border: 1px solid black;">Pflege-Komplexbehandlung / Leistungsgruppen / Pflegeinterventionen</td>
+    <td style="border: 1px solid black;">Trattamento infermieristico complesso / Gruppi di prestazioni / Interventi infermieristici</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Creato:</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0760</td>
+    <td style="border: 1px solid black;">01.01.2026 – Base Circolare 2025/2: 0760</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aggiornato</th>
@@ -929,11 +929,12 @@ Se invece vengono somministrati una RMN cranica, una diagnostica neuropsicologic
 
 {{<markdown>}}
 **Problema/Spiegazione:**  
-Pflegeinterventionen könnten theoretisch mehreren Leistungsgruppen zugeordnet werden. In der Pflege-Komplexbehandlung darf eine geleistete Pflegeintervention jedoch nur einer Leistungsgruppe zugeordnet werden. Dies bedeutet nicht, dass sie zwingend der Leistungsgruppe zugeordnet wird in der bereits Aufwandspunkte für diesen Tag erfasst wurden.
+Gli interventi infermieristici potrebbero teoricamente essere attribuiti a più gruppi di prestazioni. In caso di trattamento infermieristico complesso, l’intervento infermieristico somministrato può essere però attribuito ad un solo gruppo di prestazioni. 
+Ciò non significa tuttavia che debba trattarsi necessariamente del gruppo di prestazioni per il quale, nel giorno in questione, sono già stati registrati punti risorse.
   
-Beispiel 1: Ein «Transfer auf die Toilette» könnte im Rahmen des Pflegeinterventionsprofils 1.1 der Leistungsgruppe 1 «Bewegung» oder im Rahmen des Pflegeinterventionsprofils 3.1 der Leistungsgruppe 3 «Ausscheidung» geleistet werden. Wenn die Aktivität unter der Leistungsgruppe 1 erfasst wird, darf sie nicht zusätzlich bei der Leistungsgruppe 3 erfasst werden, oder umgekehrt. Die Aktivität darf nur einem der zwei Pflegeinterventionsprofile zugeordnet werden.
+Esempio 1: un «Passaggio alla toilette» potrebbe essere fornito nel quadro del profilo di intervento infermieristico 1.1 del gruppo di prestazioni 1 «Mobilizzazione» o nel quadro del profilo di intervento infermieristico 3.1 del gruppo di prestazioni 3 «Evacuazione». Se l’attività viene registrata nel gruppo di prestazioni 1, non può essere registrata anche nel gruppo di prestazioni 3, o viceversa. All’attività può essere attribuito solo uno dei due profili di intervento infermieristico.
   
-Beispiel 2: Eine «Hygienemassnahme» könnte im Rahmen des Pflegeinterventionsprofils 2.1 der Leistungsgruppe 2 «Körperpflege» oder im Rahmen des Pflegeinterventionsprofils 3.1 der Leistungsgruppe 3 «Ausscheidung» geleistet werden. Wenn die Aktivität unter der Leistungsgruppe 2 erfasst wird, darf sie nicht zusätzlich bei der Leistungsgruppe 3 erfasst werden, oder umgekehrt. Die Aktivität darf nur einem der zwei Pflegeinterventionsprofile zugeordnet werden.
+Esempio 2: una «misura di igiene» potrebbe essere fornita nel quadro del profilo di intervento infermieristico 2.1 del gruppo di prestazioni 2 «Igiene personale» o nel quadro del profilo di intervento infermieristico 3.1 del gruppo di prestazioni 3 «Evacuazione». Se l’attività viene registrata nel gruppo di prestazioni 2, non può essere registrata anche nel gruppo di prestazioni 3, o viceversa. All’attività può essere attribuito solo uno dei due profili di intervento infermieristico.
 {{</markdown>}}
 <br>  
 <br>
@@ -943,16 +944,16 @@ Beispiel 2: Eine «Hygienemassnahme» könnte im Rahmen des Pflegeinterventionsp
 
 
 
-{{<article number="0018"  title="CHOP - Palliativmedizin - Fallzusammenführung und PBA" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0018"  title="CHOP - Raggruppamento di casi e valutazione medico palliativa di base standardizzata (PBA)" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Parola chiave:</th>
-    <td style="border: 1px solid black;">Fallzusammenführung / PBA</td>
+    <td style="border: 1px solid black;">Raggruppamento dei casi / PBA</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Creato:</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0754/5</td>
+    <td style="border: 1px solid black;">01.01.2026 – Base Circolare 2025/2: 0754/5</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aggiornato</th>
@@ -975,14 +976,14 @@ Beispiel 2: Eine «Hygienemassnahme» könnte im Rahmen des Pflegeinterventionsp
 {{<markdown>}}
 
 **Fragestellung:**  
-Ist das standardisierte palliativmedizinische Basisassessment [PBA] bei der Rückkehr eines Patienten / einer Patientin im Rahmen einer Fallzusammenführung zu wiederholen?
+La valutazione medico palliativa di base standardizzata (PBA) deve essere ripetuta al ritorno di un paziente nell'ambito di una riunificazione dei casi?
   
 
 **Problema/Spiegazione:**  
-Folgende Fragestellung und Erläuterung bezieht sich auf die Elementegruppe 93.8A.2- _Palliativmedizinische Komplexbehandlung (ausserhalb einer eigenständigen spezialisierten Palliative Care Station), nach Anzahl Behandlungstage_ und die Subkategorie 93.8B.- _Behandlung auf einer eigenständigen spezialisierten Palliative Care Station_.
+La seguente domanda e spiegazione si riferisce al gruppo di elementi 93.8A.2- _Trattamento medico palliativo complesso (fuori da un reparto specialistico autonomo di cure palliative), secondo il numero di giorni di trattamento_ e alla sottocategoria 93.8B.- _Trattamento in reparto specialistico autonomo di cure palliative_
   
-Erläuterung:  
-Bei einer Fallzusammenführung mit palliativmedizinischer Komplexbehandlung im ersten Fall ist nach der Rückkehr der Patientin / des Patienten das PBA zu aktualisieren (d.h. nicht, dass es vollständig erneut durchgeführt werden muss. Es kann auch nur dokumentiert werden, dass die Werte des vorherigen PBAs weiter gelten).
+Spiegazione:
+Per un raggruppamento di casi con trattamento medico palliativo complesso nel primo caso, dopo il ritorno del/della paziente va aggiornata la valutazione medico palliativa di base standardizzata (non significa che debba essere rifatta completamente. Ci si può limitare a documentare che i valori della valutazione medico palliativa di base standardizzata precedente restano validi).
 
 {{</markdown>}}  
 <br>  
@@ -993,16 +994,16 @@ Bei einer Fallzusammenführung mit palliativmedizinischer Komplexbehandlung im e
 
 
 
-{{<article number="0019"  title="CHOP - Palliativmedizin - Erläuterungen zu den Mindestmerkmalen" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0019"  title="CHOP - Medicina palliativa - Spiegazioni relative alle caratteristiche minime" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Parola chiave:</th>
-    <td style="border: 1px solid black;">Interprofessionelle Teambesprechung / palliativmedizinische Komplexbehandlung / Palliative care</td>
+    <td style="border: 1px solid black;">Riunione del team interprofessionale / trattamento complesso di medicina palliativa / cure palliative</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Creato:</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0754/2, 0754/3, 0754/4</td>
+    <td style="border: 1px solid black;">01.01.2026 – Base Circolare 2025/2: 0754/2, 0754/3, 0754/4</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aggiornato</th>
@@ -1022,50 +1023,51 @@ Bei einer Fallzusammenführung mit palliativmedizinischer Komplexbehandlung im e
   </tr>
 </table>
 
-Folgende Fragestellungen und Erläuterungen beziehen sich auf die Elementegruppe 93.8A.2- <i>Palliativmedizinische Komplexbehandlung (ausserhalb einer eigenständigen spezialisierten Palliative Care Station), nach Anzahl Behandlungstage</i> und die Subkategorie 93.8B.- <i>Behandlung auf einer eigenständigen spezialisierten Palliative Care Station</i>.
+Le seguenti domande e spiegazioni si riferiscono al gruppo di elementi 93.8A.2- _Trattamento medico palliativo complesso (fuori da un reparto specialistico autonomo di cure palliative), secondo il numero di giorni di trattamento e alla sottocategoria_ 93.8B.- _Trattamento in reparto specialistico autonomo di cure palliative_.
 <br>
 <br>
-<b>Fragestellung Nr. 1:</b><br>  
-In Bezug auf Mindestmerkmal Punkt 3, _Behandlungsteam und Therapie_ der 93.8A.2- und _Mindestmerkmal Punkt 3_, Therapie sowie _Mindestmerkmal_ Punkt 4, Behandlungsteam der 93.8B.-: Welche Therapiebereiche gibt es und was wird zu den 6 Stunden gezählt?
+<b>Domanda n. 1:</b><br>  
+In riferimento _alla caratteristica minima punto 3, équipe di trattamento e terapia_ della 93.8A.2- e _alla caratteristica minima punto 3, terapia, nonché alla caratteristica minima punto 4, équipe di trattamento_ della 93.8B.-: quali sono i settori terapeutici e cosa viene conteggiato nelle 6 ore?
 <br>
 <br>
-<b>Erläuterung Nr. 1:</b><br>  
-Die Aufzählung der Therapiebereiche (Sozialarbeit/-pädagogik, Psychologie, Physiotherapie, Ergotherapie, Logopädie, Ernährungsberatung/-therapie, Seelsorge, Kunsttherapie) ist sowohl für 93.8A.2- als für 93.8B.- abschliessend. 
+<b>Spiegazione n. 1:</b><br>  
+L’elenco dei settori terapeutici (assistenza sociale, pedagogia sociale, psicologia, fisioterapia, ergoterapia, logopedia, consulenza/ terapia dietetica, assistenza spirituale, arteterapia) è esaustivo sia per 93.8A.2- sia per 93.8B.- 
 <br>
 <br>  
-Grundvoraussetzung für die Kodierung ist die Dokumentation der Gespräche und Therapien. Die Art der Therapie, deren Dauer und das Datum der Durchführung müssen von allen beteiligten Berufsgruppen nachvollziehbar dokumentiert sein.<br>
-Es gibt keine Festlegung für die Mindesttherapiedauer einer Therapieeinheit.<br>
-Die dokumentierten Patienten-, Angehörigen- und Familiengespräche können von allen aufgeführten Berufsgruppen (Arzt, Pflege, Sozialarbeit/-pädagogik, Psychologie, Physiotherapie, Ergotherapie, Logopädie, Ernährungsberatung/-therapie, Seel-sorge, Kunsttherapie) erbracht werden. Zu diesen gehört ebenfalls die Information des Patienten und dessen Angehörigen im Rahmen der Therapie.<br>
-Die dokumentierten und spezifischen Koordinationsaufgaben in direktem Zusammenhang mit dem Behandlungs- und Beratungsprozess sowie die Patienten-, Angehörigen- und Familiengespräche werden den 6 Stunden angerechnet. 
+Il presupposto fondamentale per la codifica è la documentazione dei colloqui e delle terapie. Il tipo di terapia, la sua durata e la data dello svolgimento devono essere verbalizzate in modo comprensibile da tutti i gruppi professionali coinvolti.<br>
+Non c’è un termine definito per la durata terapeutica minima di un'unità terapeutica.<br>
+I colloqui documentati con pazienti, congiunti e famiglia possono essere condotti da tutti i gruppi professionali elencati (medico, personale di cura, lavoro/pedagogia sociale, psicologia, fisioterapia, ergoterapia, logopedia, consulenza/terapia dietetica, assistenza spirituale, arteterapia). Tra essi rientrano anche le informazioni al paziente e ai suoi congiunti in ambito terapeutico. <br>
+I compiti di coordinamento specifici e documentati in stretta relazione con il processo terapeutico e consultivo nonché i colloqui con pazienti, congiunti e famiglia rientrano nelle sei ore. 
 <br>
 <br>
-Folgendes zählt nicht zu den 6 Stunden:  <br>
-•	Die wöchentlichen interprofessionellen Teambesprechungen und die Wegzeiten,  <br>
-•	Die interprofessionellen Visiten (Mindestmerkmal Punkt 3, Therapie, a) der Subkategorie 93.8B.-).<br>
+Non rientrano nelle 6 ore:<br>
+•	Le riunioni del team interprofessionale ed i tempi di percorrenza<br>
+•	Le «visite interprofessionali» (requisiti minimi punto 3, terapia, lettera a) della sottocategoria 93.8B.-).<br>
 <br>  
 <br>  
-<b>Fragestellung Nr. 2:</b><br>  
-Was ist unter «wöchentlich» bei der «wöchentlicher interprofessioneller Teambesprechung» unter 93.8A.2- im _Mindestmerkmal_ Punkt 4, _Therapieplanung und -kontrolle_ und unter 93.8B.- im _Mindestmerkmal_ Punkt 5, _Therapieplanung und -kontrolle_?
+<b>Domanda n. 2:</b><br>  
+Cosa si intende per «settimanale» nella «riunione settimanale del team interprofessionale» di cui al punto 93.8A.2- _nella caratteristica minima punto 4, Pianificazione e controllo della terapia_, e al punto 93.8B.- _nella caratteristica minima punto 5, Pianificazione e controllo della terapia_?
 <br>  
 <br>  
-<b>Erläuterung Nr. 2:</b><br>
-«wöchentlich» ist struktur- und nicht patientenbezogen. Das bedeutet, dass im klinischen Betrieb mindestens einmal pro Woche eine interprofessionelle Teambesprechung stattfindet.
+<b>Spiegazione n. 2:</b><br>
+«settimanale» si riferisce alla struttura e non al paziente, il che significa che all’interno dell’esercizio il team interprofessionale si riunisce almeno una volta alla settimana.
 <br>  
 <br>  
-Beispiel:  <br>  
-Der Patient ist 10 Tage hospitalisiert (von Montag der Woche 1 bis Mittwoch der Woche 2). Der Patient tritt am Mittwoch der 2. Woche aus oder verstirbt. Die Teambesprechungen finden jeweils donnerstags statt. Für die 2. Woche ist das strukturbezogene Mindestmerkmal ebenfalls erfüllt.
+Esempio:<br>  
+Il paziente è degente in ospedale per 10 giorni (da lunedì della prima settimana a mercoledì della seconda). Mercoledì della seconda settimana il paziente lascia l’ospedale o decede. Le riunioni del team si tengono sempre il giovedì. Il requisito minimo riferito alla struttura è soddisfatto anche per la seconda settimana.
 <br>  
 <br>  
-<b>Fragestellung Nr. 3:</b><br>  
-Was ist unter «interprofessionell» unter 93.8A.2- im _Mindestmerkmal_ Punkt 4, _Therapieplanung und -kontrolle_ und unter 93.8B.- in den _Mindestmerkmal_ Punkt 3, _Therapie und Mindestmerkmal_ Punkt 5, _Therapieplanung und -kontrolle_ zu verstehen?
+<b>Domanda n. 3 dell' :</b><br>  
+Cosa si intende per «interprofessionale» al punto 93.8A.2- _nella caratteristica minima n. 4, Pianificazione e controllo della terapia_, e al punto 93.8B.- _nella caratteristica minima n. 3, Terapia, e nella caratteristica minima n. 5, Pianificazione e controllo della terapia_?
 <br>
 <br>
-<b>Erläuterung Nr. 3:</b><br>  
-Bei der «wöchentlichen interprofessionellen Teambesprechung» ist unter «interprofessionell» zu verstehen, dass im Minimum Arzt, Pflege und eine weitere Berufsgruppe teilnehmen (s. _Mindestmerkmal_ Punkt 5, _Therapieplanung und -kontrolle_ bei 93.8A.2- und 93.8B.-).
+<b>Spiegazione n. 3:</b><br>  
+Nella «riunione settimanale del team interprofessionale», per «interprofessionale» si intende che partecipano almeno medico, personale infermieristico e un altro gruppo professionale.
+(cfr. requisito minimo punto 5, pianificazione e controllo della terapia in 93.8A.2- e 93.8B.-).
 <br>
 <br>  
-Bei der «interprofessionellen Visite» ist unter «interprofessionell» zu verstehen, dass im Minimum Arzt und Pflege teilnehmen (s. _Mindestmerkmal_ Punkt 3, _Therapie_ 93.8B.-).
-<br>  
+Nella «visita interprofessionale», per «interprofessionale» si intende che partecipano almeno un medico e personale infermieristico (cfr. _caratteristica minima punto 3, terapia_ 93.8B.-).
+<br>
 <br>
   
 {{</article>}}
@@ -1073,16 +1075,16 @@ Bei der «interprofessionellen Visite» ist unter «interprofessionell» zu vers
 
 
 
-{{<article number="0020"  title="CHOP - Standardisiertes palliativmedizinisches Basisassessment - SENS" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0020"  title="CHOP - Valutazione di base standardizzata in medicina palliativa - SENS" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Parola chiave:</th>
-    <td style="border: 1px solid black;">SENS / palliativmedizinisches Basisassessment / ESAS</td>
+    <td style="border: 1px solid black;">SENS / valutazione di base in medicina palliativa / ESAS</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Creato:</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0754/1</td>
+    <td style="border: 1px solid black;">01.01.2026 – Base Circolare 2025/2: 0754/1 </td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aggiornato</th>
@@ -1104,12 +1106,11 @@ Bei der «interprofessionellen Visite» ist unter «interprofessionell» zu vers
 
 {{<markdown>}}
 **Problema/Spiegazione:**  
-**Ist SENS ebenfalls ein standardisiertes palliativmedizinisches Basisassessment (PBA)?**  
-Mit dem SENS-Assessment werden folgende Bereiche der Palliativversorgung abgedeckt: Symptommanagement, Entscheidungsfindung/ End of Life Vorbereitung, Netzwerk-Organisation, Support der Angehörigen. SENS integriert alle Themenbereiche der gängigen Ziele, Definitionen und Modelle.  
-Somit ist auch ein dokumentiertes SENS-Assessment als standardisiertes palliativmedizinisches Basisassessment für die Kodes 93.8A.2- und 93.8B.- anzuerkennen.
-  
-**Kann ein einzelnes Assessmentinstrument als palliativmedizinisches Basisassessment zählen?**  
-Die alleinige Durchführung eines Assessmentinstrumentes (z. B. ESAS) zur Erfassung der körperlichen Dimension ist nicht als vollständiges PBA anzuerkennen. In einem PBA müssen die biologischen, psychologischen, sozialen und spirituellen Dimensionen berücksichtigt werden.
+**La valutazione SENS è anch’essa un esame di base medico palliativa standardizzata?**  
+La valutazione SENS copre i seguenti ambiti delle cure palliative: gestione dei sintomi, presa di decisione/preparazione alla fine di vita, organizzazione della rete di cura, supporto ai congiunti. SENS integra tutti gli ambiti tematici dei correnti obiettivi, definizioni e modelli. Pertanto, anche una valutazione SENS documentata va riconosciuta come valutazione di base medico palliativa standardizzata per i codici 93.8A.2- e 93.8B.-. 
+
+**Un singolo strumento di valutazione può valere come valutazione di base medico palliativa standardizzata?**  
+L’applicazione di un solo strumento di valutazione (ad es. ESAS) per rilevare la dimensione corporale non va riconosciuto come valutazione di base medico palliativa standardizzata completa. In una valutazione di base medico palliativa standardizzata devono essere integrate le dimensioni biologica, psicologica, sociale e spirituale.
 
 
 {{</markdown>}}
@@ -1121,16 +1122,16 @@ Die alleinige Durchführung eines Assessmentinstrumentes (z. B. ESAS) zur Erfass
 
 
 
-{{<article number="0021"  title="CHOP - Erfassung «Zusatzleistung auf einer eigenständigen spezialisierten Palliative Care Station, nach Anzahl Behandlungstage»" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0021"  title="CHOP - Registrazione dei codici supplementari del gruppo di elementi 93.8B.2- «Prestazione supplementare in reparto specialistico autonomo di cure palliative, secondo il numero di giorni di trattamento»" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Parola chiave:</th>
-    <td style="border: 1px solid black;">Zusatzkodes der Elementegruppe 93.8B.2-</td>
+    <td style="border: 1px solid black;">Codici aggiuntivi del gruppo di elementi 93.8B.2-</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Creato:</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0754/6</td>
+    <td style="border: 1px solid black;">01.01.2026 – Base Circolare 2025/2: 0754/6</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aggiornato</th>
@@ -1152,15 +1153,15 @@ Die alleinige Durchführung eines Assessmentinstrumentes (z. B. ESAS) zur Erfass
 
 {{<markdown>}}
 **Problema/Spiegazione:**  
-Die Elementegruppe 93.8B.1- stellt den _«Aufenthalt auf einer eigenständigen spezialisierten Palliative Care Station, nach Anzahl Behandlungstage»_ dar. Falls die Mindestmerkmale unter 93.8B.- sowie unter 93.8B.1- erfüllt sind, ist der entsprechende Kode unter 93.8B.1- für die gesamte Behandlungsdauer auf der spezialisierten Palliative Care Station zu erfassen. Falls in einer oder mehreren Behandlungswochen **parallel zum Aufenthalt** auf einer eigenständigen spezialisierten Palliative Care Station spezialisierte Palliative Care Zusatzleistungen erbracht werden, kann der entsprechende Kode der Elementegruppe 93.8B.2- _Zusatzleistung auf einer eigenständigen spezialisierten Palliative Care Station, nach Anzahl Behandlungstage_ erfasst werden.
+Il gruppo di elementi 93.8B.1- rappresenta la «Degenza in reparto specialistico autonomo di cure palliative, secondo il numero di giorni di trattamento». Se i requisiti minimi di cui alla sottocategoria 93.8B.- nonché al gruppo di elementi 93.8B.1- sono soddisfatti, va indicato il corrispondente codice del gruppo di elementi 93.8B.1- per l’intera durata del trattamento in reparto specialistico di cure palliative. Se in una o più settimane di trattamento parallelamente alla degenza in reparto specialistico autonomo di cure palliative sono fornite prestazioni supplementari di cure palliative specializzate, può essere registrato il codice corrispondente del gruppo di elementi 93.8B.2- _Prestazione supplementare in reparto specialistico autonomo di cure palliative, secondo il numero di giorni di trattamento_.
   
-Folgende zwei Beispiele veranschaulichen die gemeinte Erfassungsweise der Zusatzkodes der Elementegruppe 93.8B.2- _«Zusatzleistung auf einer eigenständigen spezialisierten Palliative Care Station, nach Anzahl Behandlungstage»_.
+I due esempi che seguono illustrano le modalità di registrazione dei codici supplementari del gruppo di elementi 93.8B.2- «_Prestazione supplementare in reparto specialistico autonomo di cure palliative, secondo il numero di giorni di trattamento_».
 
 {{</markdown>}}
 <br><br>
-{{<insertImage image="FAQCHOP0021Beispiel1.png" class="edge max-w-90">}}
+{{<insertImage image="FAQCHOP0021Beispiel1IT.png" class="edge max-w-90">}}
 <br><br>
-{{<insertImage image="FAQCHOP0021Beispiel2.png" class="edge max-w-90">}}
+{{<insertImage image="FAQCHOP0021Beispiel2IT.png" class="edge max-w-90">}}
 <br><br>
 
 <br>  
@@ -1170,16 +1171,16 @@ Folgende zwei Beispiele veranschaulichen die gemeinte Erfassungsweise der Zusatz
 
 
 
-{{<article number="0022"  title="CHOP - Spondylodese: Zählung der Segmente bei Stabwechsel und bei Verlängerung" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0022"  title="CHOP - Spondilodesi: conteggio dei segmenti in caso di sostituzione dell'asta e di allungamento" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Parola chiave:</th>
-    <td style="border: 1px solid black;">Stabwechsel Wirbelsäule / Neufusion Segmente bei Überbrückung / Revisionseingriff Wirbelsäule / Zählung der Segmente</td>
+    <td style="border: 1px solid black;">Sostituzione della barra vertebrale / Nuova fusione dei segmenti in caso di ponte / Intervento di revisione della colonna vertebrale / Conteggio dei segmenti</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Creato:</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0788</td>
+    <td style="border: 1px solid black;">01.01.2026 – Base Circolare 2025/2: 0788</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aggiornato</th>
@@ -1201,10 +1202,10 @@ Folgende zwei Beispiele veranschaulichen die gemeinte Erfassungsweise der Zusatz
 
 {{<markdown>}}
 **Problema/Spiegazione:**  
-Die Segmente, bei denen anlässlich eines Revisionseingriffs an der Wirbelsäule nur die Stäbe entfernt (und diese z. B. durch längere Stäbe ersetzt werden bei Anschlusssegment-Pathologie) und bei denen sonst keine operativen Massnahmen an den Wirbelkörpern vorgenommen werden, wie z. B. Einsetzen neuer Pedikelschrauben oder eines Cages, Dekortizierung der Facettengelenke, Anlage von lokalem Knochen oder Knochenersatzmaterial, fliessen nicht in die Zählung der operierten Segmente mit ein.
+In occasione di un intervento di revisione alla colonna vertebrale, i segmenti nei quali vengono solamente rimosse le aste (per sostituirle p.es. con aste più lunghe in presenza di patologia del segmento adiacente) senza intraprendere misure operatorie ai corpi vertebrali, come p. es. la posa di nuove viti peduncolari o di una cage, la decorticazione di faccetta articolare, l’impianto osseo locale o l’inserzione di materiale di sostituzione di ossa, non confluiscono nel conteggio dei segmenti operati.  
+Conteggio dei segmenti in caso di ponte di connessione:  
+In caso p. es. di precedente spondilodesi L2-L4 e nuova fusione attuale dei segmenti L1/L2 e L4/L5, quest’ultima va rappresentata con il pertinente codice CHOP per 2 segmenti se, come sopra precisato, oltre alla posa di aste non vengono intraprese altre misure operatorie ai corpi vertebrali L2-L4.
 
-**Ad Zählen der Segmente bei Überbrückung:**  
-Bei z. B. vorbestehender Spondylodese L2 – L4 und aktuell Neufusion der Segmente L1/L2 und L4/L5 wird dies mit dem zutreffenden CHOP-Kode für 2 Segmente abgebildet, falls wie oben erwähnt, an den Wirbelkörpern L2 – L4 ausser der Stabanlage keine weiteren Massnahmen durchgeführt wurden.
 {{</markdown>}}
 <br>  
 <br>
@@ -1215,16 +1216,16 @@ Bei z. B. vorbestehender Spondylodese L2 – L4 und aktuell Neufusion der Segmen
 
 
 
-{{<article number="0023"  title="CHOP - 7A.A2 Growing rod – Zusatzkode – Segmente beim spezifischen Eingriff" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0023"  title="CHOP - 7A.A2 Asta di crescita – Codice aggiuntivo – Segmenti nell'intervento specifico" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Parola chiave:</th>
-    <td style="border: 1px solid black;">Growing rod, dynamische Stabilisierung der Wirbelsäule / Zählung der Segmente</td>
+    <td style="border: 1px solid black;">Aste di crescita / stabilizzazione dinamica della colonna vertebrale / conteggio dei segmenti</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Creato:</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0819</td>
+    <td style="border: 1px solid black;">01.01.2026 – Base Circolare 2025/2: 0819</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aggiornato</th>
@@ -1246,10 +1247,11 @@ Bei z. B. vorbestehender Spondylodese L2 – L4 und aktuell Neufusion der Segmen
 
 <b>Problema/Spiegazione:</b>
 <br>
-Der Kode 7A.A2 <i>Implantation von mitwachsenden oder expandierenden Systemen, Wirbelsäule</i> ist ein Zusatzkode und kann daher nicht allein kodiert werden. 
+Il codice 7A.A2 <i>Impianto di sistemi allungabili o espansibili, colonna vertebrale</i> è un codice supplementare e non può quindi essere utilizzato da solo.  
 <br>
-Beim Eingriff handelt es sich um eine <b>dynamische Stabilisierung der Wirbelsäule</b>, die mit <b><L>7A.72.1- <i>Dynamische Stabilisierung der Wirbelsäule, Zugang dorsal und dorsolateral</i></b></L> erfasst wird.<br>
-Zur Zählung der behandelten Segmente werden nur die Segmente, an denen das System befestigt wird, berücksichtigt. 
+L'intervento consiste in una <b>stabilizzazione dinamica della colonna vertebrale</b>, che viene registrata con il codice <b>7A.72.1-</b> <i>Stabilizzazione dinamica della colonna vertebrale, approccio dorsale e dorsolaterale</i>.
+Per il conteggio dei segmenti trattati vengono considerati solo i segmenti a cui è fissato il sistema. 
+
 
 <br>  
 <br>
@@ -1259,16 +1261,16 @@ Zur Zählung der behandelten Segmente werden nur die Segmente, an denen das Syst
 
 
 
-{{<article number="0024"  title="CHOP - Stabilisierung der Wirbelsäule und Stellungskorrektur – Zählung der Segmente" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0024"  title="CHOP - Stabilizzazione della colonna vertebrale e correzione della postura – Conteggio dei segmenti" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Parola chiave:</th>
-    <td style="border: 1px solid black;">Stabilisierung / Stellungskorrektur der Wirbelsäule / Zugang dorsal und/ oder dorsolateral / ventral, Zählung Segmente</td>
+    <td style="border: 1px solid black;">Stabilizzazione / correzione della posizione della colonna vertebrale / accesso dorsale e/o dorsolaterale / ventrale, conteggio dei segmenti</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Creato:</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0766</td>
+    <td style="border: 1px solid black;">01.01.2026 – Base Circolare 2025/2: 0766/td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aggiornato</th>
@@ -1290,14 +1292,11 @@ Zur Zählung der behandelten Segmente werden nur die Segmente, an denen das Syst
 
 {{<markdown>}}
 **Problema/Spiegazione:**  
-Für die Subkategorien 7A.71.- bis 7A.74.- erfolgte die Aufgliederung in 5. Stelle für den Zugang «dorsal und dorsolateral», bzw. «ventral», in 6. Stelle nach der Anzahl behandelter Segmente (aufgegliedert bis 14 und mehr).  
-Das «und» ist gemäss CHOP-Konventionen als «und/oder» zu verstehen. 
-  
-Das «Beachte» unter 7A.7- _Stabilisierung der Wirbelsäule und Stellungskorrektur_ lautet: 
-_«Erfolgt der Zugang für gewisse Segmente von dorsal sowie von ventral, so ist für das gesamte Eingriffsgebiet die gesamte Anzahl der Segmente, die von dorsal operiert wurden mit einem Kode anzugeben, sowie die gesamte Anzahl der Segmente, die von ventral operiert wurden mit einem anderen Kode. Zusätzlich wird der Zusatzkode der gesamten Anzahl operierter Segmente angegeben.»_  
-Die dorsolateralen Zugänge zählen zu den dorsalen Zugängen. Sprich das Segment wird nicht doppelt gezählt, wenn es von dorsal sowie dorsolateral operiert wird.
-  
-Im Beispiel der folgenden Abbildung erfolgte eine Spondylodese über sechs Wirbel, d.h. über fünf Segmente. Drei Segmente werden von dorsal und/oder dorsolateral operiert, 4 Segmente von ventral. Es werden somit ein Kode für drei Segmente «dorsal und dorsolateral» sowie ein Kode für vier Segmente «ventral» erfasst. Zusätzlich wird der entsprechende Kode der Subkategorie 7A.B4.- _Summe der operierten Segmente der Wirbelsäule_ für fünf Segmente kodiert.
+Per le sottocategorie da 7A.71.- a 7A.74.- è stata introdotta la strutturazione a livello di quinto carattere per l’approccio «dorsale e dorsolaterale», risp. «ventrale», e a livello di sesto carattere in base al numero di segmenti trattati (fino a 14 e più). Secondo le convenzioni CHOP, la congiunzione «e» va intesa come «e/o». La nota di cui alla categoria 7A.7- _Stabilizzazione della colonna vertebrale e correzione della postura_ recita:  
+«Se l’approccio a determinati segmenti è dorsale nonché ventrale, per l’intero campo operatorio vanno indicati con un codice il numero complessivo di segmenti operati con approccio dorsale, nonché con un altro codice il numero complessivo di segmenti operati con approccio ventrale. Va inoltre indicato il codice supplementare del numero complessivo di segmenti operati.»
+Gli approcci dorsolaterali contano come approcci dorsali. In altri termini, il segmento non viene conteggiato due volte se operato per via dorsale nonché per via dorsolaterale.  
+Nell’esempio di cui alla seguente figura, è stata eseguita una spondilodesi che ha interessato sei vertebre ossia cinque segmenti. Complessivamente, tre segmenti sono stati operati con approccio dorsale e/o dorsolaterale e quattro con approccio ventrale. In questo caso, va indicato il codice «dorsale e dorsolaterale» per tre segmenti nonché il codice «ventrale» per quattro segmenti. Deve inoltre essere registrato il codice della sottocategoria 7A.B4.- _Somma dei segmenti di colonna vertebrale operati_ corrispondente a cinque segmenti.
+
   
 {{</markdown>}}
 <br><br>
@@ -1310,16 +1309,18 @@ Im Beispiel der folgenden Abbildung erfolgte eine Spondylodese über sechs Wirbe
 
 
 
-{{<article number="0025"  title="CHOP - knöcherne Fusion mit Instrumentierung – Wirbelsäule " collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0025"  title="CHOP – fusione ossea con strumentazione – colonna vertebrale" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Parola chiave:</th>
-    <td style="border: 1px solid black;">Fusion Wirbelsäule / Instrumentierung / Knochenanlagerung, Knochentransplantation, Knochenersatz an der Wirbelsäule, <br>stabilisierende Massnahmen</td>
+    <td style="border: 1px solid black;">Fusione colonna vertebrale / Impianti / Innesto osseo, Trapianto osseo, 
+sostituzione ossea alla colonna vertebrale, misure stabilizzanti
+</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Creato:</th>
-    <td style="border: 1px solid black;">01.01.2026 - Neu</td>
+    <td style="border: 1px solid black;">01.01.2026 - Nuovo</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aggiornato</th>
@@ -1340,18 +1341,18 @@ Im Beispiel der folgenden Abbildung erfolgte eine Spondylodese über sechs Wirbe
 </table>
 
 <b>Problema/Spiegazione:</b> <br>
-Der Kode <b>7A.71.-</b> <i>Fusion von Wirbeln mit Stabilisierung der Wirbelsäule</i> ist anzuwenden, wenn eine <b>Wirbelfusion / Versteifung</b> mit Stabilisierung durchgeführt wird, die zusätzlich eines der folgenden Merkmale erfüllt:<br>
+Il codice <b>7A.71.-</b> Fusione di vertebre con stabilizzazione della colonna vertebrale deve essere utilizzato quando viene eseguita una <b>fusione/irrigidimento</b> vertebrale con stabilizzazione che soddisfa inoltre una delle seguenti caratteristiche:<br>
 
 <body>
     <ul>
-        <li>Implantation von stabilisierenden Materialien (z. B. Cage, Schrauben-Stab-Systeme, Platten) sowie eine der folgenden Massnahmen  </li>
-        <li>Dekortikation der Gelenkflächen oder</li>
-        <li>Osteotomie oder</li>
-        <li>Anbringen von Knochen(ersatz)material</li>
+        <li><b>Decorticazione delle superfici articolari<b></li>
+        <li><b>Osteotomia<b></li>
+        <li><b>Accrescimento o trapianto osseo<b></li>
+        <li><b>Impianto di materiali stabilizzanti<b> (ad es. cage, sistemi di viti e barre, placche)</li>
     </ul>
 </body>
 <br>
-Es liegt keine <b>potenzielle Bewegungserhaltung</b> im betroffenen Segment vor.
+<b>Non</b> è <b>possibile mantenere il movimento</b> nel segmento interessato.
 <br>  
 <br>
   
@@ -1360,16 +1361,16 @@ Es liegt keine <b>potenzielle Bewegungserhaltung</b> im betroffenen Segment vor.
 
 
 
-{{<article number="0026"  title="CHOP - knöcherne Fusion ohne Instrumentierung – Wirbelsäule" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0026"  title="CHOP – Fusione ossea senza strumentazione - Colonna vertebrale" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Parola chiave:</th>
-    <td style="border: 1px solid black;">Knöcherne Fusion Wirbelsäule ohne Instrumentierung / Knochentransplantation, Knochentransposition, Knochenersatz an der Wirbelsäule</td>
+    <td style="border: 1px solid black;">Fusione ossea colonna vertebrale senza strumentazione / Trapianto osseo, trasposizione ossea, sostituzione ossea alla colonna vertebrale</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Creato:</th>
-    <td style="border: 1px solid black;">01.01.2026 - Neu</td>
+    <td style="border: 1px solid black;">01.01.2026 - Nuovo</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aggiornato</th>
@@ -1391,11 +1392,11 @@ Es liegt keine <b>potenzielle Bewegungserhaltung</b> im betroffenen Segment vor.
 
 {{<markdown>}}
 **Problema/Spiegazione:**  
-Eine knöcherne Fusion (Arthrodese / Spondylodese) der Wirbelsäule, bei der ausschliesslich autogenes Knochenmaterial (Spongiosa und/oder kortikospongiöser Span) eingebracht wird und **keine Instrumentierung** (z. B. Schrauben, Platten, Stäbe) erfolgt, wird mit dem CHOP-Kode **7A.51.14** _Knochentransplantation an der Wirbelsäule, autogen, Spongiosa und kortikospongiöser Span_ erfasst.  
+Una fusione ossea (artrodesi / spondilodesi) della colonna vertebrale, in cui viene inserito esclusivamente materiale osseo autogeno (spongiosa e/o frammenti cortico-spongiosi) e non viene utilizzato alcun impianto (ad es. viti, placche, barre) viene registrata con il codice CHOP 7A.51.14 Innesto osseo della colonna vertebrale, autogeno, spongiosa e innesto corticospongioso. 
   
-Bei einer durchgeführten Laminotomie, Laminektomie oder Laminoplastik ist dies zusätzlich mit dem zutreffenden Kode der Subkategorie 03.03.- _Laminotomie, Laminektomie und Laminoplastik_ zu erfassen. Die Höhe des Eingriffs an der Wirbelsäule wird mit dem zutreffenden Kode der Subkategorie 7A.B1.- _Höhe des Eingriffs an der Wirbelsäule_ kodiert, während der Zugang zur Wirbelsäule mit dem Kode 03.04.- dargestellt wird.  
+In caso di laminotomia, laminectomia o laminoplastica eseguita, ciò deve essere registrato anche con il codice corrispondente della sottocategoria 03.03.- Laminotomia, laminectomia e laminoplastica. L'altezza dell'intervento alla colonna vertebrale viene codificata con il codice corrispondente della sottocategoria 7A.B1.- Localizzazione dell’intervento alla colonna vertebrale, mentre l'accesso alla colonna vertebrale viene rappresentato con il codice 03.04.-. 
   
-Es darf **kein** Kode der Subkategorie 7A.71.- _Fusion von Wirbeln mit Stabilisierung der Wirbelsäule_ erfasst werden.
+Non è consentito registrare alcun codice della sottocategoria 7A.71.- Fusione di vertebre con stabilizzazione della colonna vertebrale.
   
 {{</markdown>}}
 <br>  
@@ -1406,16 +1407,16 @@ Es darf **kein** Kode der Subkategorie 7A.71.- _Fusion von Wirbeln mit Stabilisi
 
 
 
-{{<article number="0027"  title="CHOP - Stabilisierung Wirbelsäule ohne Fusion" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0027"  title="CHOP – Stabilizzazione della colonna vertebrale senza fusione" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Parola chiave:</th>
-    <td style="border: 1px solid black;">Nicht-dynamische Stabilisierung Wirbelsäule,<br> Instrumentierung / Osteosynthese an der Wirbelsäule</td>
+    <td style="border: 1px solid black;">Stabilizzazione non dinamica della colonna vertebrale, impianti / osteosintesi della colonna vertebrale</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Creato:</th>
-    <td style="border: 1px solid black;">01.01.2026 - Neu</td>
+    <td style="border: 1px solid black;">01.01.2026 - Nuovo</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aggiornato</th>
@@ -1437,9 +1438,9 @@ Es darf **kein** Kode der Subkategorie 7A.71.- _Fusion von Wirbeln mit Stabilisi
 
 {{<markdown>}}
 **Problema/Spiegazione:**  
-Die Subkategorie **7A.73.-** wird verwendet zur Kodierung einer operativen Massnahme, bei der die Wirbelsäule mittels Osteosynthesematerialien wie **Schrauben, Stäben oder Platten** mechanisch **stabilisiert bzw. geschient** wird. Die Stabilisierung ist potenziell **reversibel –** durch eine **partielle oder vollständige Materialentfernung (OSME) nach Frakturheilung**.
+La sottocategoria **7A.73.-** viene utilizzata per codificare un intervento chirurgico in cui la colonna vertebrale viene **stabilizzata** meccanicamente **o immobilizzata** mediante materiali di osteosintesi quali **viti, barre o placche**. La stabilizzazione può essere potenzialmente **reversibile**, ad esempio con la possibilità che il segmento dopo la guarigione della frattura, venga nuovamente liberato mediante **la rimozione parziale o totale del materiale di osteosintesi (AMO)**.
 
-Typischerweise wird dieser Kode bei **traumatischen Pathologien**, insbesondere **thorakolumbalen Frakturen**, angewendet. Er kommt jedoch auch bei **anderen Indikationen** zum Einsatz.
+Tipicamente, questo codice viene utilizzato per **patologie traumatiche**, in particolare **fratture toracolombari**. Viene tuttavia utilizzato anche per **altre indicazioni**.
 {{</markdown>}}
 <br>  
 <br>
