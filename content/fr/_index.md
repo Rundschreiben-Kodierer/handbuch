@@ -14,6 +14,6 @@ Le domaine Classifications et codage médicaux publie et actualise divers instru
 
 Ces instruments de codage sont nécessaires pour le relevé des données sur les patientes et patients hospitalisés en Suisse (relevé des diagnostics et des traitements des hospitalisations pour la statistique médicale des hôpitaux). Les données relevées sont utilisées aussi bien pour des études épidémiologiques que dans le cadre des systèmes tarifaires SwissDRG, TARPSY et ST Reha du système de santé suisse.
   
-**Les questions concernant les sites web et les commentaires sur les problèmes techniques doivent être adressés à <a href="mailto:medclass-updates@bfs.admin.ch">medclass-updates@bfs.admin.ch</a>.**
+**Les questions concernant les sites web et les commentaires sur les problèmes techniques doivent être adressés à <br><a href="mailto:medclass-updates@bfs.admin.ch">medclass-updates@bfs.admin.ch</a>.**
 
 {{</markdown>}}

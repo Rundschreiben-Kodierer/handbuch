@@ -14,6 +14,6 @@ Il settore Classificazioni e codifica mediche pubblica e aggiorna vari strumenti
 
 Gli strumenti di codifica sono necessari per la rilevazione dei dati dei pazienti ricoverati in Svizzera (rilevazione delle diagnosi e dei trattamenti di ricovero nel contesto della statistica medica degli stabilimenti ospedalieri). I dati rilevati sono usati sia per studi epidemiologici sia nell' quadro dei sistemi tariffari SwissDRG, TARPSY e ST Reha del sistema sanitario svizzero.
   
-**Le domande relative ai siti web e i feedback su problemi tecnici devono essere inviati a <a href="mailto:medclass-updates@bfs.admin.ch">medclass-updates@bfs.admin.ch</a>.**
+**Le domande relative ai siti web e i feedback su problemi tecnici devono essere inviati a <br><a href="mailto:medclass-updates@bfs.admin.ch">medclass-updates@bfs.admin.ch</a>.**
 
 {{</markdown>}}
