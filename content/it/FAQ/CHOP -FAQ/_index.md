@@ -19,16 +19,16 @@ keywords: []
 
 
 
-{{<article number="0001"  title="CHOP - 39.99.21 Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0001"  title="CHOP - 39.99.21 Interventi per anomalie congenite dell’istmo aortico (stenosi) o per arco aortico interrotto" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Parola chiave:</th>
-    <td style="border: 1px solid black;">Anomalie des Aortenisthmus / Aortenisthmusstenose</td>
+    <td style="border: 1px solid black;">Anomalia dell'istmo aortico / stenosi dell'istmo aortico</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Creato:</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0879</td>
+    <td style="border: 1px solid black;">01.01.2026 – Base Circolare 2025/2: 0879</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aggiornato</th>
@@ -48,15 +48,15 @@ keywords: []
   </tr>
 </table>
 
-<b>Problem/Erläuterung:</b></br>
-Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Methode mit einem präzisen Kode aus Kapitel 7 <font  color="green">"Operationen am kardiovaskulären System"</font> abgebildet. Gibt es einen präzisen Kode, wird 39.99.21 <i>Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen</i>nicht kodiert. 
+<b>Problema/Spiegazione:</b></br>
+Un intervento a cielo aperto per una coartazione aortica congenita viene codificato, a seconda del metodo, con un codice preciso di cui al capitolo 7 <font  color="green">"Interventi chirurgici sul sistema cardiovascolare"</font>. Se esiste un codice preciso, il codice 39.99.21 <i>Interventi per anomalie congenite dell’istmo aortico (stenosi) o per arco aortico interrotto</i> non viene codificato.  
 <br>  
 <br>
 
 {{</article>}}
 
 
-{{<article number="0002"  title="CHOP - Perkutan-transluminale Thrombektomie an Lungengefässen mittels Thrombusentfernungssystem" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0002"  title="CHOP - Trombectomia percutanea transluminale dei vasi polmonari mediante sistema di rimozione del trombo" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -65,7 +65,7 @@ Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Metho
   </tr>
   <tr>
     <th style="border: 1px solid black;">Creato:</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0769</td>
+    <td style="border: 1px solid black;">01.01.2026 – Base Circolare 2025/2: 0769</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aggiornato</th>
@@ -85,17 +85,17 @@ Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Metho
   </tr>
 </table>
 
-<b>Problem/Erläuterung:</b><br>
-Eine perkutan-transluminale Thrombektomie an Lungengefässen mittels Thrombusentfernungssystem lässt sich anhand von einem Kode und zwei Zusatzkodes erfassen: 
+<b>Problema/Spiegazione:</b><br>
+Per la registrazione della trombectomia percutanea transluminale di vasi polmonari tramite sistema di rimozione di trombi vanno impiegati un codice e due codici supplementari:
 <br>
 <body>
     <ul>
-        <li>39.75.17 <i>Perkutan-transluminale Thrombektomie, sonstige Gefässe</i></li>
-        <li>00.4B.13 <i>PTKI an Lungengefässen</i></li>
-        <li>Zutreffende Zusatzkodes der Elementegruppe 00.4F.2- <i>Einsatz von kathetergeführten Thrombus- und Fremdkörperentfernungs-Systemen, nach Anzahl Systeme</i></li>
+        <li>39.75.17 <i>Trombectomia percutanea transluminale, altri vasi</i></li>
+        <li>00.4B.13 <i>PCI dei vasi polmonari</i></li>
+        <li>Codici supplementari pertinenti del gruppo di elementi 00.4F.2- <i>Impiego di sistemi di rimozione di trombi e corpi estranei catetere-guidati, secondo il numero di sistemi</i></li>
     </ul>
 </body>
-(Je nach Fall sind weitere CHOP-Kodes zu berücksichtigen.)<br>  
+(A seconda dei casi, vanno presi in considerazione ulteriori codici CHOP)<br>  
 <br>
 <br>
  
@@ -103,16 +103,16 @@ Eine perkutan-transluminale Thrombektomie an Lungengefässen mittels Thrombusent
 
 
 
-{{<article number="0003"  title="CHOP - Ende der untersten Stent-Grafts [gecoverten Stents]" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0003"  title="CHOP - Estremità degli stent grafts [stents ricoperti] inferiori" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Parola chiave:</th>
-    <td style="border: 1px solid black;">Stent-Grafts [gecoverte Stents], Ende der untersten Stent-Grafts</td>
+    <td style="border: 1px solid black;">Stent grafts [stents ricoperti] / Estremità degli stent grafts inferiori</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Creato:</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0752</td>
+    <td style="border: 1px solid black;">01.01.2026 – Base Circolare 2025/2: 0752</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aggiornato</th>
@@ -132,31 +132,31 @@ Eine perkutan-transluminale Thrombektomie an Lungengefässen mittels Thrombusent
   </tr>
 </table>
 
-<b>Problem/Erläuterung:</b>
+<b>Problema/Spiegazione:</b>
 <br>
-Bei den Kodes der Subkategorie 39.71.- <i>Endovaskuläre Implantation von Stent-Grafts [gecoverten Stents] in die Aorta abdominalis</i> und der Elementegruppe 39.73.4- <i>Endovaskuläre Implantation von Stent-Grafts [gecoverten Stents] in die Aorta thoracoabdominalis</i> ist mit den Zusatzkodes 39.78.5- <i>Ende der untersten Stent-Grafts [gecoverten Stents]</i> anzugeben, wie der Stent-Graft endet.
+Per i codici della sottocategoria 39.71.- <i>Impianto endovascolare di stent grafts [stents ricoperti] nell’aorta addominale</i> e del gruppo di elementi 39.73.4- <i>Impianto endovascolare di stent grafts [stents ricoperti] nell’aorta toracoaddominale</i> va indicato, con i codici supplementari del gruppo di elementi 39.78.5- <i>Estremità degli stent grafts [stents ricoperti] inferior</i>, come termina lo stent graft.
 <br>
 <br>
-Die Elementegruppe 39.78.5- umfasst drei Zusatzkodes:
+Il gruppo di elementi 39.78.5- comprende tre codici supplementari:
 <body>
     <ul>
-        <li>39.78.51 <i>Ende des untersten Stent-Grafts [gecoverten Stents], aortal</i></li>
-        <li>39.78.52 <i>Ende des untersten Stent-Grafts [gecoverten Stents], aortomonoiliakal</i></li>
-        <li>39.78.53 <i>Ende der untersten Stent-Grafts [gecoverten Stents], aortobiiliakal</i></li>
+        <li>39.78.51 <i>Estremità dello stent graft [stent ricoperto] inferiore, aortico</i></li>
+        <li>39.78.52 <i>Estremità dello stent graft [stent ricoperto] inferiore, aorto-mono-iliaco</i></li>
+        <li>39.78.53 <i>Estremità degli stent grafts [stents ricoperti] inferiori, aorto-bi-iliaci</i></li>
     </ul>
 </body>
-In der folgenden Tabelle wurde die Bedeutung des jeweiligen Zusatzkodes für den Hauptkörper (blau) graphisch dargestellt.
+Nella seguente tabella è illustrato graficamente il significato del codice supplementare corrispondente a ciascun corpo principale (in blu).
 <br>
 <br>
-{{<insertImage image="FAQCHOP0003Tabelle1.png" class="edge max-w-90">}}
+{{<insertImage image="FAQCHOP0003Tabelle1IT.png" class="edge max-w-90">}}
 <br>
 <br>
-Die aortomonoiliakal oder aortobiiliakal endenden Stent-Grafts (Hauptkörper (blau)) können mit Stent-Grafts in der linken und/oder rechten A. iliaca communis verlängert werden (weitere Stent-Grafts werden dann anmodelliert, grün). Die entsprechenden Kodes der Subkategorie 39.7B.- <l>Endovaskuläre Implantation von Stent-Grafts [gecoverten Stents] in die Aa. iliacae communis und externa</l> sind in diesem Fall zusätzlich zu kodieren.<br>
+Gli stent graft che terminano aortomonoiliacali o aortobiiliacali (corpo principale (blu)) possono essere prolungati con stent graft nell'arteria iliaca comune sinistra e/o destra (vengono quindi modellati ulteriori stent graft, verde). In questo caso, devono essere codificati anche i codici corrispondenti della sottocategoria 39.7B.- <i>Impianto endovascolare di stent grafts [stents ricoperti] nelle arterie iliache comune ed esterna</i>.<br>
 <br>
-Folgende Tabelle illustriert die verschiedenen Situationen einer abdominalen Hauptprothese ohne Öffnungen (blau im Schema):
+La tabella seguente illustra le diverse situazioni di una protesi addominale principale senza aperture (indicata in blu nello schema):
 <br>
 <br>
-{{<insertImage image="FAQCHOP0003Tabelle2.png" class="edge max-w-90">}}
+{{<insertImage image="FAQCHOP0003Tabelle2IT.png" class="edge max-w-90">}}
 {{<lineBreak>}}
 <br>
 <br>
@@ -164,16 +164,16 @@ Folgende Tabelle illustriert die verschiedenen Situationen einer abdominalen Hau
 {{</article>}}
 
 
-{{<article number="0004"  title="CHOP - Erfassung von nicht-vaskulären Stents/Prothesen" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0004"  title="CHOP - Codifica di stents / protesi non vascolari" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Parola chiave:</th>
-    <td style="border: 1px solid black;">Stents / Prothesen / nicht vaskulär</td>
+    <td style="border: 1px solid black;">Stent / Protesi / non vascolari</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Creato:</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0789</td>
+    <td style="border: 1px solid black;">01.01.2026 – Base Circolare 2025/2: 0789</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aggiornato</th>
@@ -195,126 +195,126 @@ Folgende Tabelle illustriert die verschiedenen Situationen einer abdominalen Hau
   </tr>
 </table>
 
-<b>Problem/Erläuterung:</b><br>
-Folgende Kodes haben eine Unterteilung nach Anzahl der implantierten Stents/Prothesen. [
+<b>Problema/Spiegazione:</b><br>
+I seguenti codici sono strutturati in base al numero di stents/protesi impiantati. Per questi tipi di stent/protesi non vi sono codici somma riguardanti l’intera degenza.
 {{<indent level="4">}}
-42.81.- <i>Einsetzen eines permanenten Tubus in den Ösophagus</i><br>
-51.87.- <i>Endoskopische Einlage oder Wechsel von Stent in den Gallengang</i><br>
-51.9A.- <i>Einlage oder Wechsel von Stent in den Gallengang</i><br>
+42.81.- <i>Inserzione di una sonda permanente nell’esofago</i><br>
+51.87.- <i>Inserzione endoscopica di stent nel dotto biliare</i><br>
+51.9A.- <i>Inserzione o sostituzione di stent nel dotto biliare</i><br>
 {{</indent>}}
-Je Eingriff ist der Kode mit der entsprechenden Anzahl von eingesetzten Stents/Prothesen auszuwählen und einmal pro Eingriff zu erfassen.
+Per ciascun intervento, va scelto e indicato una volta il codice corrispondente al numero di stents/protesi impiantati.
 <br>  <br>  
-Beispiel: Am Tag X werden zwei selbstexpandierende Prothesen in den Ösophagus eingesetzt. Am Tag Y wird eine selbstexpandierende Prothese ausgewechselt.
+Esempio: il giorno X sono inserite due protesi autoespandenti nell’esofago. Il giorno Y una protesi autoespandente viene sostituita.
 <br><br>  
-<b>Kodierempfehlung</b><br>
+<b>Codifica</b><br>
 {{<grid class="ps-0">}}
     {{<grid/column>}}
-Tag X:
+Giorno X:
     {{</grid/column>}}
     {{<grid/column>}}
-42.81.41 <i>Einsetzen und Wechsel von zwei selbstexpandierenden Prothesen (permanenter Tubus) in den Ösophagus, endoskopisch</i>
+42.81.41 <i>Inserzione e sostituzione di due protesi autoespandenti (sonda permanente) nell’esofago, per via endoscopica</i>
     {{</grid/column>}}
 {{</grid>}}
 
 {{<grid class="ps-0">}}
     {{<grid/column>}}
-Tag Y:
+Giorno Y:
     {{</grid/column>}}
     {{<grid/column>}}
-42.81.40 <i>Einsetzen und Wechsel einer selbstexpandierenden Prothese (permanenter Tubus) in den Ösophagus, endoskopisch</i>
+42.81.40 <i>Inserzione e sostituzione di una protesi autoespandente (sonda permanente) nell’esofago, per via endoscopica</i>
     {{</grid/column>}}
 {{</grid>}}
 <br>
-Folgende Kodes haben keine Unterteilung nach Anzahl der implantierten Stents/Prothesen und geben jeweils nur «eines Stents», «Stent» oder «einer Prothese» an.
+I seguenti codici indicano solo «di uno stent», «di stent» o di «una protesi». Per questi tipi di stents/protesi non vi sono codici somma riguardanti l’intera degenza.
 <br>
 
 {{<indent level="4">}}
 
 {{<codeEntry level="1" title="09.83">}}
-<i>Konjunktivozystorhinostomie mit Einsetzen von Tubus oder Stent</i>
+<i>Congiuntivorinostomia con inserzione di tubo o di supporto</i>
 {{</codeEntry>}}
 
 {{<codeEntry level="1" title="31.93">}}
-<i>Ersetzen eines Larynx- oder Trachea-Stents</i>
+<i>Sostituzione di stent laringeo o tracheale</i>
 {{</codeEntry>}}
 
 {{<codeEntry level="1" title="31.96">}}
-<i>Einsetzen eines Larynx- oder Trachea-Stents</i>
+<i>Inserzione di stent laringeo o tracheale</i>
 {{</codeEntry>}}
 
 {{<codeEntry level="1" title="33.91.2-">}}
-<i>Bronchusdilatation, endoskopisch, mit Einlegen oder Wechsel eines Stents/Stent-Grafts</i>
+<i>Dilatazione bronchiale, per via endoscopica, con inserzione o sostituzione di stent/stentgraft</i>
 {{</codeEntry>}}
 
 {{<codeEntry level="1" title="44.99.5-">}}
-<i>Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Magen</i>
+<i>Inserzione o sostituzione di una protesi non autoespandente nello stomaco</i>
 {{</codeEntry>}}
 
 {{<codeEntry level="1" title="44.99.6-">}}
-<i>Einlegen oder Wechsel einer selbstexpandierenden Prothese am Magen</i>
+<i>Inserzione o sostituzione di una protesi autoespandente nello stomaco</i>
 {{</codeEntry>}}
 
 {{<codeEntry level="1" title="46.99.5-">}}
-<i>Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Darm</i>
+<i>Inserzione o sostituzione di una protesi non autoespandente nell’intestino</i>
 {{</codeEntry>}}
 
 {{<codeEntry level="1" title="46.99.6-">}}
-<i>Einlegen oder Wechsel einer selbstexpandierenden Prothese am Darm</i>
+<i>Inserzione o sostituzione di una protesi autoespandente nell’intestino</i>
 {{</codeEntry>}}
 
-
 {{<codeEntry level="1" title="48.99.50">}}
-<i>Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese im Rektum</i>
+<i>Inserzione o sostituzione di una protesi non autoespandente nel retto</i>
 {{</codeEntry>}}
 
 {{<codeEntry level="1" title="48.99.60">}}
-<i>Einlegen oder Wechsel einer selbstexpandierenden Prothese im Rektum</i>
+<i>Inserzione o sostituzione di una protesi autoespandente nel retto</i>
 {{</codeEntry>}}
 
 {{<codeEntry level="1" title="52.93.- ">}}
-<i>Endoskopische Einlage, Wechsel oder Entfernen von Stent [Prothese] in den Ductus pancreaticus</i>
+<i>Inserzione, sostituzione o rimozione endoscopica di stent [protesi] nel dotto pancreatico</i>
 {{</codeEntry>}}
 
 {{<codeEntry level="1" title="52.95.4-">}}
-<i>Einlage oder Wechsel eines nicht selbstexpandierenden Stents [Prothese] in den Pankreasgang, offen chirurgisch oder laparoskopisch</i>
+<i>Inserzione o sostituzione di uno stent [protesi] non autoespandente nel dotto pancreatico, chirurgica a cielo aperto o per via laparoscopica</i>
 {{</codeEntry>}}
 
 {{<codeEntry level="1" title="52.95.5- ">}}
-<i>Einlage oder Wechsel eines selbstexpandierenden Stents [Prothese] in den Pankreasgang, offen chirurgisch oder laparoskopisch</i>
+<i>Inserzione o sostituzione di uno stent [protesi] autoespandente nel dotto pancreatico, chirurgica a cielo aperto o per via laparoscopica</i>
 {{</codeEntry>}}
 
 {{<codeEntry level="1" title="58.99.10">}}
-<i>Sonstige Operationen an Urethra und Periurethralgewebe, Einlegen und Wechsel eines Stents in die Urethra</i>
+<i>Altri interventi sull’uretra e sul tessuto periuretrale, posa e sostituzione di stent nell’uretra</i>
 {{</codeEntry>}}
 
 {{<codeEntry level="1" title="60.99.31">}}
-<i>Einlegen eines Stents in die prostatische Harnröhre</i>
+<i>Inserzione di stent nell’uretra prostatica</i>
 {{</codeEntry>}}
 
 {{</indent>}}
 
 
 <br>
-Je Eingriff ist der Kode so oft zu kodieren, wie Stents/Prothesen implantiert wurden.
+Per ciascun intervento va indicato il codice corrispondente un numero di volte pari a quello degli stents/delle protesi impiantati.
 <br>
 <br>
-Beispiel: Am Tag X werden zwei nicht selbstexpandierende Prothesen am Darm eingelegt. Am Tag Y werden beide entfernt und durch eine selbstexpandierende Prothese ersetzt.<br>
-Kodierung:
+Esempio: il giorno X sono inserite due protesi non autoespandenti nell’intestino. Il giorno Y sono rimosse entrambe e sostituite da una protesi autoespandente.
+<br><br>  
+<b>Codifica:</b><br>
 {{<grid class="ps-0">}}
     {{<grid/column>}}
-Tag X:
+Giorno X:
     {{</grid/column>}}
     {{<grid/column>}}
-46.99.51 <i>Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Darm, offen chirurgisch wird</i><b> zweimal</b> kodiert.
+46.99.51 <i>il codice 46.99.51 Inserzione o sostituzione di una protesi non autoespandente nell’intestino, chirurgica a cielo aperto </i>va indicato <b>due volte</b>.
     {{</grid/column>}}
 {{</grid>}}
 {{<grid class="ps-0">}}
     {{<grid/column>}}
-Tag Y:
+Giorno Y:
     {{</grid/column>}}
     {{<grid/column>}}
-46.99.71 <i>Entfernen einer Prothese am Darm, offen chirurgisch</i> wird <b>zweimal</b> kodiert.<br>
-46.99.61 <i>Einlegen oder Wechsel einer selbstexpandierenden Prothese am Darm, offen chirurgisch</i> wird <b>einmal</b> erfasst.
+46.99.71 <i>il codice 46.99.71 Rimozione di protesi dell’intestino, chirurgica a cielo aperto </i>va indicato<b>due volte</b>.<br>
+46.99.61 <i>il codice 46.99.61 Inserzione o sostituzione di una protesi autoespandente nell’intestino, chirurgica a cielo aperto</i> va indicato<b> una volta</b>.
     {{</grid/column>}}
 {{</grid>}}
 <br>  
@@ -324,16 +324,16 @@ Tag Y:
 {{</article>}}
 
 
-{{<article number="0005"  title="CHOP - Erfassen der Anzahl der implantierten vaskulären Stents oder Stent-Graftsasdf" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0005"  title="CHOP - Registrazione del numero di stents o stent grafts vascolari impiantati" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Parola chiave:</th>
-    <td style="border: 1px solid black;">Anzahl vaskuläre Stents / Stent-Grafts [gecoverte Stents]</td>
+    <td style="border: 1px solid black;">Numero di stent / stent graft [stent rivestiti] vascolari</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Creato:</th>
-    <td style="border: 1px solid black;">01.01.2026 – Neu</td>
+    <td style="border: 1px solid black;">01.01.2026 – Nuovo</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aggiornato</th>
@@ -354,32 +354,32 @@ Tag Y:
 </table>
 
 {{<markdown>}}
-**Problem/Erläuterung:**  
-Folgende Tabelle gibt eine grobe Übersicht der Abbildung der vaskulären Stents und Stent-Grafts [gecoverte Stents] in der CHOP.
+**Problema/Spiegazione:**  
+La tabella seguente fornisce una panoramica approssimativa della rappresentazione degli stents e stent grafts [stent ricoperti] vascolari nella CHOP.
   
 {{</markdown>}}
 <br><br>
 {{<insertImage image="FAQCHOP0005Tabelle.png" class="edge max-w-90">}}
 <br><br>
-Um die Anzahl der implantierten Stents / Stent-Grafts wiederzugeben, ist der entsprechende Kode pro implantierten Stent / Stent-Graft zu erfassen.
-Die Zusatzkodes, die es erlaubten, die Summe, der über den Aufenthalt implantierten Stents / Stent-Grafts zu erfassen, wurden aus der CHOP entfernt.
-Nota bene: Die Resektion von Blutgefässen mit Ersatz (s. 38.4-) wird in dieser Klarstellung/FAQ bewusst nicht erwähnt.
+Per riportare il numero di stents/stent grafts impiantati, è necessario inserire il codice corrispondente per ogni stent/stent graft impiantato.
+I codici aggiuntivi che consentivano di registrare il totale degli stents/stent grafts impiantati durante la degenza sono stati eliminati dalla CHOP.
+Nota bene: la resezione di vasi sanguigni con sostituzione (cfr. 38.4-) non viene volutamente menzionata in questa precisazione/FAQ.
 <br><br><br>  
-<b>Kodierempfehlung:</b>
+<b>Raccomandazione di codifica:</b>
 <br>
-Beispiel für die Aa. coronariae
+Esempio per le arterie coronarie
 <br>
-Zuerst wird der Stent-Typ gewählt, dann identifiziert, ob dieser Stent-Typ in eine oder mehrere Koronararterien implantiert wurde. Der entsprechende Kode wird dann pro implantierten Stent / Stent-Graft von diesem Typ erfasst.
+In primo luogo si seleziona il tipo di stent, quindi si identifica se questo tipo di stent è stato impiantato in una o più arterie coronarie. Il codice corrispondente viene quindi registrato per ogni stent/stent graft impiantato di questo tipo.
 <br><br>
-Fallbeispiel:
+Caso di studio:
 <br>
-Zwei medikamentenfreisetzende Stents werden perkutan-transluminal implantiert, der eine in den Ramus interventricularis anterior der A. coronaria sinistra [RIVA], der andere in den Ramus circumflexus der A. coronaria sinistra [RCX]. Zusätzlich wird ein nicht medikamentenfreisetzender Stent in A. coronaria destra [RCA] perkutan-transluminal implantiert.
+Due stent con liberazione di sostanza medicamentosa vengono impiantati per via percutanea transluminale, uno nel ramo interventricolare anteriore dell’arteria coronaria sinistra [RIVA], l’altro nel ramo circonflesso dell’arteria coronaria sinistra [RCX]. Inoltre, uno stent senza liberazione di sostanza medicamentosa viene impiantato per via percutanea transluminale nella coronaria destra [RCA].
 <br><br>
-Kodierung:
+Codifica:
 <br>
-<i>36.08.22  Implantation perkutan-transluminal von Stents mit Medikamentenfreisetzung, in mehreren Koronararterien</i><br>
-<i>36.08.22  Implantation perkutan-transluminal von Stents mit Medikamentenfreisetzung, in mehreren Koronararterien</i><br>
-<i>36.08.11  Implantation perkutan-transluminal von Stents ohne Medikamentenfreisetzung, in einer Koronararterie</i><br>
+<i>36.08.22  Impianto percutaneo transluminale di stents con liberazione di sostanza medicamentosa, in più arterie coronarie</i><br>
+<i>36.08.22  Impianto percutaneo transluminale di stents con liberazione di sostanza medicamentosa, in più arterie coronarie</i><br>
+<i>36.08.11  Impianto percutaneo transluminale di stents senza liberazione di sostanza medicamentosa, in un’arteria coronaria</i><br>
 <br>  
 <br>
 
@@ -388,16 +388,16 @@ Kodierung:
 
 
 
-{{<article number="0006"  title="CHOP - Gefässverschlusskörper vs. Embolie-Protektionssysteme" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0006"  title="CHOP - Dispositivi di chiusura di vasi vs sistemi di protezione da embolia" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Parola chiave:</th>
-    <td style="border: 1px solid black;">Gefässverschlusskörper / Embolie-Protektionssysteme / gefässverschliessende Operationen / Interventionen</td>
+    <td style="border: 1px solid black;">Corpi occlusivi vascolari / Sistemi di protezione dall'embolia / Interventi chirurgici/interventi di occlusione vascolare</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Creato:</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0768</td>
+    <td style="border: 1px solid black;">01.01.2026 – Base Circolare 2025/2: 0768</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aggiornato</th>
@@ -418,21 +418,17 @@ Kodierung:
 </table>
 
 {{<markdown>}}
-**Problem/Erläuterung:**
+**Problema/Spiegazione:**
 {{</markdown>}}
 <br>
-<u>Gefässverschliessende Operationen</u><br>
-    In der CHOP existieren Kodes für gefässverschliessende Operationen/Interventionen, die s.g. Embolisationen mit Coils, Plugs, Schirmen usw., z. B. 39.79.2- <i>Coil-Embolisation oder -Verschluss von sonstigen Gefässen</i>, <i>39.79.5- Selektive Embolisation von sonstigen Gefässen mit Schirmen</i> oder 39.79.A- <i>Selektive Embolisation von sonstigen Gefässen mit Plugs</i> usw. 
+<u>Interventi di occlusione vascolare</u><br>
+Nella CHOP esistono codici per operazioni/interventi di chiusura di vasi, le cosiddette embolizzazioni con coils, plugs, filtri ecc., p. es. 39.79.2- <i>Embolizzazione od occlusione mediante spirali di altri vasi</i>, 39.79.5- <i>Embolizzazione selettiva con filtri di altri vasi, NAS</i> o 39.79.A- <i>Embolizzazione selettiva di altri vasi con plugs</i> ecc.
+Sono inoltre disponibili i codici supplementari delle sottocategorie 00.4A.- <i>Numero di coils endovascolari utilizzate</i> e 00.4G.- <i>Inserzione di dispositivi di chiusura di vasi</i>.
+I codici supplementari dei gruppi degli elementi da 00.4G.2- a 00.4G.6- <i>Filtri vascolari inseriti […], secondo</i> il numero servono unicamente per indicare i dispositivi impiegati nel quadro di operazioni/interventi di chiusura di vasi (p. es. embolizzazioni selettive). I codici della sottocategoria 00.4G.- non vanno impiegati per i sistemi di protezione da embolia. 
 <br><br>
-Des Weiteren stehen die Zusatzkodes aus der Subkategorie 00.4A.- <i>Anzahl verwendeter endovaskulärer Coils</i> und 00.4G.- <i>Einsetzen von Gefässverschlusskörpern</i> zur Verfügung. 
-<br><br>
-Die Zusatzkodes der Elementegruppen von 00.4G.2- bis 00.4G.6-<i> Eingesetzte vaskuläre Schirme in [...], nach Anzahl</i>, gelten nur für die Abbildung der verwendeten Devices im Kontext von gefässverschliessenden Operationen/Interventionen (z. B. selektive Embolisationen) als Zusatzkodes. 
-Die Kodes unter 00.4G.- sind für Embolie-Protektionssysteme nicht zu verwenden. 
-<br><br>
-<u>Embolie-Protektionssysteme</u><br>
-Der Zusatzkode 39.E1 <i>Verwendung eines Embolie-Protektionssystems</i> ermöglicht die Erfassung von periinterventionellen Embolie-Protektionssystemen. 
-<br><br>
-Die Kodes 38.7X.11 <i>Einsetzen eines Embolie-Protektionssystems in die Vena cava, offen chirurgisch</i>, 38.7X.21 <i>Einsetzen eines Embolie-Protektionssystems in die Vena cava, perkutan-transluminal</i>, <i>39.75.13 Perkutan-transluminale Gefässintervention, sonstige Gefässe, Embolie-Protektionssystem (periphere oder viszerale Gefässe)</i> stellen permanente Systeme dar.
+<u>Sistemi di protezione da embolia</u><br>
+Il codice supplementare 39.E1 <i>Impiego di sistema di protezione da embolia consente</i> di registrare l’utilizzo di sistemi di protezione da embolia perioperatori.
+I codici 38.7X.11 <i>Inserzione di sistema di protezione da embolia nella vena cava, chirurgica a cielo aperto</i>, 38.7X.21 <i>Inserzione di sistema di protezione da embolia nella vena cava, percutanea transluminale</i>, 39.75.13 <i>Intervento vascolare percutaneo transluminale, altri vasi, sistema di protezione da embolia (vasi periferici o viscerali)</i> rappresentano invece sistemi permanenti.
 <br>  
 <br>
   
@@ -441,16 +437,16 @@ Die Kodes 38.7X.11 <i>Einsetzen eines Embolie-Protektionssystems in die Vena cav
 
 
 
-{{<article number="0007"  title="CHOP - Sonstige Operationen an den Gallenwegen " collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0007"  title="CHOP - Altri interventi sulle vie biliari" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Parola chiave:</th>
-    <td style="border: 1px solid black;">Gallenwege / offen chirurgische / laparoskopische Eingriffe</td>
+    <td style="border: 1px solid black;">Vie biliari, interventi chirurgici a cielo aperto, interventi laparoscopici</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Creato:</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0903</td>
+    <td style="border: 1px solid black;">01.01.2026 – Base Circolare 2025/2: 0903</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aggiornato</th>
@@ -470,19 +466,19 @@ Die Kodes 38.7X.11 <i>Einsetzen eines Embolie-Protektionssystems in die Vena cav
   </tr>
 </table>
 
-<b>Problem/Erläuterung:</b><br>
-Folgende Kodes der Subkategorie 51.99.- Sonstige Operationen an den Gallenwegen sind nur für offen chirurgische oder laparoskopische Eingriffe abzubilden:
+<b>Problema/Spiegazione:</b><br>
+I seguenti codici della sottocategoria 51.99.- <i>Altre operazioni sulle vie biliari</i> devono essere riportati solo per interventi chirurgici a cielo aperto o laparoscopici:
 <body>
     <ul>
-        <li>51.99.00 <i>n.n.bez.</i> und 51.99.99 <i>sonstige</i></li>
-        <li>51.99.11 <i>Destruktion an den Gallengängen</i></li>
-        <li>51.99.12 <i>Einlage einer Drainage in den Gallengang</i></li>
-        <li>51.99.13 <i>Blutstillung an den Gallengängen</i></li>
-        <li>51.99.14 <i>Revision an den Gallengängen</i></li>
-        <li>51.99.91 <i>Sonstige Rekonstruktion der Gallenwegen</i></li>
+        <li>51.99.00 <i>Altri interventi sulle vie biliari, NAS</i> e 51.99.99 <i>Altri interventi sulle vie biliari, altro</i></li>
+        <li>51.99.11 <i>Distruzione in dotti biliari</i></li>
+        <li>51.99.12 <i>Inserimento di drenaggio nel dotto biliare</i></li>
+        <li>51.99.13 <i>Emostasi di dotti biliari</i></li>
+        <li>51.99.14 <i>Revisione di dotti biliari</i></li>
+        <li>51.99.91 <i>Altre ricostruzioni delle vie biliari</i></li>
     </ul>
 </body>
-Der Kode 51.99.90 Sonstige endoskopische Operationen an den Gallenwegen, wie im Titel angegeben, ist nur für endoskopische Interventionen zu erfassen.
+Il codice 51.99.90 <i>Altri interventi endoscopici sulle vie biliari</i>, come indicato nel titolo, deve essere utilizzato solo per gli interventi endoscopici.
 <br>  
 <br>
   
@@ -491,16 +487,16 @@ Der Kode 51.99.90 Sonstige endoskopische Operationen an den Gallenwegen, wie im 
 
 
 
-{{<article number="0008"  title="CHOP - Wechsel einer Knieendoprothese und Implantation weiterer/anderer Komponenten" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0008"  title="CHOP - Sostituzione di endoprotesi di ginocchio e impianto di ulteriori/altri componenti" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Parola chiave:</th>
-    <td style="border: 1px solid black;">Wechsel Knieendoprothese / Implantation Knieendoprothese / Wechsel Komponenten / Patella-Rückflächenersatz</td>
+    <td style="border: 1px solid black;">Sostituzione di endoprotesi di ginocchio / Impianto endoprotesi del ginocchio / Sostituzione componenti / Impianto endoprotesi della rotula</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Creato:</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0808</td>
+    <td style="border: 1px solid black;">01.01.2026 – Base RS 2025/2: 0808</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aggiornato</th>
@@ -520,12 +516,10 @@ Der Kode 51.99.90 Sonstige endoskopische Operationen an den Gallenwegen, wie im 
   </tr>
 </table>
 <br>
-<b>Problem/Erläuterung:</b><br>
-Wird eine bestehende Knieendoprothese, unabhängig vom Typ, durch eine andere Knieendoprothese ersetzt, ist für die Implantation der Kode mit der Bezeichnung «bei einem Prothesenwechsel» zu wählen. 
+<b>Problema/Spiegazione:</b><br>
+In caso di sostituzione di endoprotesi di ginocchio, indipendentemente dal tipo, con altra endoprotesi di ginocchio, per l’impianto va utilizzato il codice con l’indicazione «per sostituzione di protesi». P. es. se viene espiantata un’endoprotesi parziale e impiantata una protesi totale sullo stesso ginocchio, per l’impianto deve essere indicato il codice 81.54.31 <i>Impianto di protesi totale standard del ginocchio per sostituzione di protesi</i> e <b>non</b> il codice 81.54.21 <i>Primo impianto di protesi totale standard del ginocchio</i>.
 <br><br>
-Z. B. Explantation einer Hemiendoprothese und Implantation einer Totalendoprothese am gleichen Knie: für die Implantation muss der Kode 81.54.31 <i>Implantation einer Standard-Totalendoprothese des Kniegelenks bei einem Prothesenwechsel</i> erfasst werden und <b>nicht</b> der Kode 81.54.21 <i>Erstimplantation einer Standard-Totalendoprothese des Kniegelenks</i>.
-<br><br>
-Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückflächenersatz eingesetzt, muss der Kode 81.54.42 <i>Implantation eines Patella-Rückflächenersatz bei einem Wechsel</i> erfasst werden und <b>nicht</b> der Kode 81.54.27 <i>Erstimplantation eines Patella-Rückflächenersatzes</i>.
+Analogamente, se in occasione di una sostituzione di endoprotesi di ginocchio viene impiantato per la prima volta un bottone rotuleo, deve essere indicato il codice 81.54.42 <i>Impianto di bottone rotuleo per sostituzione</i> e <b>non</b> il codice 81.54.27 <i>Primo impianto di bottone rotuleo</i>.
 <br>
 <br>
 
@@ -534,16 +528,16 @@ Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückfl
 
 
 
-{{<article number="0009"  title="CHOP - «Einzeitige Eingriffe an Mittelhand- und Fingerstrahlen oder Mittelfuss- und Zehenstrahlen»" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0009"  title="CHOP - «Interventi in un solo tempo operatorio su raggi metacarpali e digitali o su raggi metatarsali e digitali»" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Parola chiave:</th>
-    <td style="border: 1px solid black;">Eingriffe Hand, Fuss, Mittelhand- Fingerstrahlen, Mittelfuss-Zehenstrahlen</td>
+    <td style="border: 1px solid black;">Interventi alla mano, al piede, alle ossa metacarpali e falangi, alle ossa metatarsali e alle ossa delle dita dei piedi</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Creato:</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0818</td>
+    <td style="border: 1px solid black;">01.01.2026 – Base Circolare 2025/2: 0818</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aggiornato</th>
@@ -563,10 +557,10 @@ Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückfl
   </tr>
 </table>
 
-<b>Problem/Erläuterung:</b><br>
-Folgende Tabelle präzisiert die Kodierung von Eingriffskode und Zusatzkode bei einzeitigen Mehrfacheingriffen, am Beispiel der Hand.
+<b>Problema/Spiegazione:</b><br>
+La seguente tabella precisa l’utilizzo del codice e del codice supplementare per gli interventi multipli in un solo tempo operatorio sulla base dell’esempio della mano.
 <br><br>
-{{<insertImage image="FAQCHOP0008Tabelle.png" class="edge max-w-90">}}
+{{<insertImage image="FAQCHOP0009TabelleIT.png" class="edge max-w-90">}}
 <br>  
 <br>
 
@@ -575,16 +569,16 @@ Folgende Tabelle präzisiert die Kodierung von Eingriffskode und Zusatzkode bei 
 
 
 
-{{<article number="0010"  title="CHOP - Lateralitätsmarkierung in der CHOP" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0010"  title="CHOP - Indicazione di lateralità nella CHOP" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Parola chiave:</th>
-    <td style="border: 1px solid black;">Lateralitätsmarkierung / paarige Organe / nicht- paarige Organe</td>
+    <td style="border: 1px solid black;">Marcatura della lateralità / organi appaiati/ organi non appaiati</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Creato:</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0759</td>
+    <td style="border: 1px solid black;">01.01.2026 – Base Circolare 2025/2: 0759</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aggiornato</th>
@@ -605,7 +599,7 @@ Folgende Tabelle präzisiert die Kodierung von Eingriffskode und Zusatzkode bei 
 </table>
 
 <b>Erläuterung:</b><br>
-Die Angabe der Lateralität ist nur bei paarigen Organen ein Muss (entsprechende Kennzeichnung in der CHOP mit «[L]» in der PDF- Datei oder «Lateral» in der CSV-Datei). Bei nicht paarigen Organen oder Körperteilen «kann» die Lateralität erfasst werden, «muss» aber nicht.
+L’indicazione della lateralità è obbligatoria solo per gli organi pari (nella CHOP è contrassegnata con una «[L]» nel file PDF o con «Lateral» nel file CSV). Per gli organi o le parti del corpo non pari la lateralità «può», ma non «deve» essere rilevata. 
 <br>  
 <br>
  
@@ -614,16 +608,16 @@ Die Angabe der Lateralität ist nur bei paarigen Organen ein Muss (entsprechende
 
 
 
-{{<article number="0011"  title="CHOP - Berücksichtigte Therapiedauer Gruppentherapie / Einzeltherapie" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0011"  title="CHOP – Durata della terapia da prendere in considerazione Terapia di gruppo / Terapia individuale" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Parola chiave:</th>
-    <td style="border: 1px solid black;">Zählung Therapieminuten / Gruppentherapie / Einzeltherapie / Therapiedauer</td>
+    <td style="border: 1px solid black;">Conteggio minuti di terapia / terapia di gruppo / terapia individuale / durata della terapia</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Creato:</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0762</td>
+    <td style="border: 1px solid black;">01.01.2026 – Base Circolare 2025/2: 0762</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aggiornato</th>
@@ -644,12 +638,11 @@ Die Angabe der Lateralität ist nur bei paarigen Organen ein Muss (entsprechende
 </table>
 
 {{<markdown>}}
-**Problem/Erläuterung:**  
-Bei einer Gruppentherapie ist die gesamte Therapiedauer zu zählen, an der die Patientin / der Patient anwesend ist. Z. B. wenn fünf Patient/innen an einer Stunde Gruppentherapie mit einer Dauer von 60 Minuten teilgenommen haben, werden bei jeder Patientin/jedem Patienten 60 Minuten Therapiedauer angerechnet. Bei einer Therapiedauer von 50 Minuten werden 50 Minuten angerechnet usw.  
-Wird bei einer Gruppen- oder Einzeltherapie die gleiche Therapieart / Therapieleistung durch zwei oder mehr Therapeuten / Pflegefachpersonen erbracht, ist die erbrachte Therapiezeit einmal zu zählen.  
-Es gilt unabhängig von der Anzahl der Therapeuten, die Therapiezeit am/an den Patienten. Es gilt die Therapiezeit, welche jede/r Patient/in erhalten hat, unabhängig von der Anzahl der Therapeuten.
+**Problema/Spiegazione:**  
+In caso di intervento terapeutico di gruppo, va conteggiata l’intera durata della terapia in cui è presente il paziente; per esempio, se cinque pazienti partecipano a una terapia di gruppo di un’ora, per ciascuno di loro devono essere conteggiati 60 minuti di durata terapeutica.
+Se, nel quadro di un intervento terapeutico individuale o di gruppo, due o più terapeuti/infermieri somministrano lo stesso tipo di terapia/la stessa prestazione terapeutica, il tempo di somministrazione va conteggiato una sola volta. Ciò vale indipendentemente dal numero di terapeuti che intervengono presso il paziente.
    
-Ausnahme: Es bestehen CHOP-Kodes, bei denen im Beachte angegeben ist, dass die gleiche Therapieart / Therapieleistung, die durch zwei oder mehr Therapeutinnen / Therapeuten / Pflegefachpersonen erbracht wird, die Zeit pro Therapeutin / Therapeut / Pflegefachperson zu zählen ist.
+Eccezione: esistono codici CHOP per i quali è indicato in nota che, se due o più terapeuti/infermieri somministrano lo stesso tipo di terapia/la stessa prestazione terapeutica, va conteggiato il tempo di intervento di ciascun terapeuta/infermiere.
 {{</markdown>}}
 <br>  
 <br>
@@ -658,16 +651,16 @@ Ausnahme: Es bestehen CHOP-Kodes, bei denen im Beachte angegeben ist, dass die g
 
 
 
-{{<article number="0012"  title="CHOP - Abgrenzung 93.59.5- und 99.84.1-, 99.84.2-, 99.84.3-" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0012"  title="CHOP - Delimitazioni 93.59.5- e 99.84.1-, 99.84.2-, 99.84.3-" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Parola chiave:</th>
-    <td style="border: 1px solid black;">Isolationsmassnahmen / Isolierung / Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern</td>
+    <td style="border: 1px solid black;">Misure di isolamento / Isolamento / Trattamento complesso in caso di colonizzazione o infezione da agenti patogeni multiresistenti</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Creato:</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0758/2</td>
+    <td style="border: 1px solid black;">01.01.2026 – Base Circolare 2025/2: 0758/2</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aggiornato</th>
@@ -687,23 +680,21 @@ Ausnahme: Es bestehen CHOP-Kodes, bei denen im Beachte angegeben ist, dass die g
   </tr>
 </table>
 
-<b>Problem/Erläuterung:</b><br>
-Unter den Elementegruppen 99.84.1- <l>Kontaktisolierung, nach Anzahl Behandlungstage,</l> 
-99.84.2- <l>Tröpfchenisolierung, […]</l> und 99.84.3- <l>Aerosolisolierung, […]</l> ist folgendes «Exklusivum – Kode weglassen» angegeben: 
+<b>Problema/Spiegazione:</b><br>
+Nei gruppi di elementi 99.84.1- Isolamento da contatto, secondo il numero di giorni di trattamento, 99.84.2- Isolamento da goccioline, secondo il numero di giorni di trattamento, […] e 99.84.3- Isolamento da aerosol, secondo il numero di giorni di trattamento, […] è indicata la seguente esclusione di tipo «Omettere il codice»: 
 <br>
 <br>
 {{<grid class="ps-0">}}
     {{<grid/column>}}
-
     {{</grid/column>}}
     {{<grid/column>}}
         {{<markdown>}}
-EXKL. «Kode weglassen - Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage (93.59.5-)».     
+ESCL. «Omettere il codice - Trattamento complesso per colonizzazione o infezione da agenti multiresistenti, secondo il numero di giorni di trattamento (93.59.5-)».
         {{</markdown>}}
     {{</grid/column>}}
 {{</grid>}}
 <br>
-Dies bedeutet, dass die zeitgleiche Kodierung von 93.59.5- und 99.84.1-, 99.84.2-, 99.84.3- nicht gestattet ist. Werden 99.84.1-, 99.84.2-, 99.84.3- zeitlich versetzt erbracht zur 93.59.5- können die Kodes im gleichen Fall erfasst werden. Die Erfassung von 99.84.1-, 99.84.2-, 99.84.3- darf nie für das gleiche Zeitintervall wie 93.59.5- erfolgen.
+Ciò significa che non è consentito codificare contemporaneamente 93.59.5- e 99.84.1-, 99.84.2-, 99.84.3-. Se 99.84.1-, 99.84.2-, 99.84.3- avvengono in momenti diversi rispetto a 93.59.5-, i codici possono essere registrati sotto lo stesso caso. I codici 99.84.1-, 99.84.2-, 99.84.3- non devono mai essere registrati per lo stesso intervallo di tempo per cui è registrato il codice 93.59.5-.
 <br>  
 <br>
   
@@ -715,16 +706,16 @@ Dies bedeutet, dass die zeitgleiche Kodierung von 93.59.5- und 99.84.1-, 99.84.2
 
 
 
-{{<article number="0013"  title="CHOP - Berechnung der Aufenthaltstage für Kodes der Elementegruppe 93.59.5-" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0013"  title="CHOP - Calcolo dei giorni di degenza per codici del gruppo di elementi 93.59.5-" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Parola chiave:</th>
-    <td style="border: 1px solid black;">Infektion mit multiresistenten Erregern / Isolationsmassnahme</td>
+    <td style="border: 1px solid black;">Infezione da agenti patogeni multiresistenti / Misura di isolamento</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Creato:</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0758/1</td>
+    <td style="border: 1px solid black;">01.01.2026 – Base Circolare 2025/2: 0758/1</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aggiornato</th>
@@ -745,8 +736,8 @@ Dies bedeutet, dass die zeitgleiche Kodierung von 93.59.5- und 99.84.1-, 99.84.2
 </table>
 
 {{<markdown>}}
-**Problem/Erläuterung:**  
-Zur Berechnung der Behandlungstage für die CHOP-Kodes der Elementegruppe 93.59.5- _Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage_ darf bei Erfüllung der Mindestmerkmale der Eintritts- sowie Austrittstag nur als **ein Behandlungstag** angerechnet werden.
+**Problema/Spiegazione:**  
+Ai fini del conteggio dei giorni di degenza per i codici CHOP del gruppo di elementi 93.59.5- <i>Trattamento complesso per colonizzazione o infezione da agenti multiresistenti, secondo il numero di giorni di trattamento</i>, il giorno di ricovero nonché il giorno di dimissione possono essere conteggiati come un solo giorno di trattamento, sempre a condizione che siano soddisfatti i corrispondenti requisiti minimi.
 {{</markdown>}}
 <br>  
 <br>
@@ -756,16 +747,16 @@ Zur Berechnung der Behandlungstage für die CHOP-Kodes der Elementegruppe 93.59.
 
 
 
-{{<article number="0014"  title="CHOP - Komplexbehandlungen - Kode «[…], bis 6 Behandlungstage" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0014"  title="CHOP - Trattamenti complessi - Codice «[…], fino a 6 giorni di trattamento»" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Parola chiave:</th>
-    <td style="border: 1px solid black;">Komplexbehandlungen / 6 Behandlungstage /  Mindestmerkmale</td>
+    <td style="border: 1px solid black;">Trattamenti complessi / 6 giorni di trattamento /  caratteristiche minime</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Creato:</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0782</td>
+    <td style="border: 1px solid black;">01.01.2026 – Base Circolare 2025/2: 0782</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aggiornato</th>
@@ -786,10 +777,8 @@ Zur Berechnung der Behandlungstage für die CHOP-Kodes der Elementegruppe 93.59.
 </table>
 
 {{<markdown>}}
-**Problem/Erläuterung:**  
-Die Kodes «[…], bis 6 Behandlungstage» werden in Fällen erfasst, bei denen während des stationären Aufenthalts an maximal 6 Behandlungstagen die jeweils genannte Komplexbehandlung durchgeführt wurde. Diese Kodes beinhalten keine Mindestanzahl Behandlungstage.  
-D. h. bei diesen Kodes entfallen die Mindestmerkmale, die sich auf eine Woche oder bestimmte Anzahl Behandlungstage beziehen. Mindestmerkmale, wie Indikationen, Assessments, Behandlungsinfrastruktur (z. B. Zertifizierung) und Qualifikationen sind einzuhalten
-
+**Problema/Spiegazione:**  
+I codici «[…], fino a 6 giorni di trattamento» vanno utilizzati nei casi in cui, durante la degenza, è stato somministrato il trattamento complesso in questione al massimo in 6 giorni distinti. Questi codici non indicano un numero minimo di giorni di trattamento. Ciò significa che non si applicano i requisiti minimi riferiti a una settimana o ad un determinato numero di giorni trattamento. Vanno invece osservati i requisiti minimi in materia di indicazioni, valutazioni, infrastruttura di trattamento (p. es. certificazione) e qualifiche.
 {{</markdown>}}
 <br>  
 <br>
@@ -799,12 +788,12 @@ D. h. bei diesen Kodes entfallen die Mindestmerkmale, die sich auf eine Woche od
 
 
 
-{{<article number="0015"  title="CHOP - Neurologische Befunderhebung des Stroke" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0015"  title="CHOP - Esame neurologico dell'ictus" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Parola chiave:</th>
-    <td style="border: 1px solid black;">Stroke Unit / Stroke Center, Komplexdiagnostik des akuten Hirnschlags in Stroke Unit oder Stroke Center /<br> neurologische Befunderhebung / Auslegung Mindestmerkmal Punkt 3</td>
+    <td style="border: 1px solid black;">Unità Stroke/Centro Stroke / diagnosi complessa dell'ictus acuto nell'Unità Stroke o nel Centro Stroke / valutazione neurologica / interpretazione della caratteristica minima punto 3</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Creato:</th>
@@ -829,15 +818,15 @@ D. h. bei diesen Kodes entfallen die Mindestmerkmale, die sich auf eine Woche od
 </table>
 
 {{<markdown>}}
-**Problem/Erläuterung:**  
-Gemäss dem offiziellen Referenzdokument zur Zertifizierung von Stroke Units und Stroke Centern (Version V vom 18.11.2021, Swiss Federation of Clinical Neuro-Societies SFCNS) muss der klinisch-neurologische Befund mindestens viermal innerhalb von 24 Stunden systematisch überprüft werden.
+**Problema/Spiegazione:**  
+Secondo il documento di riferimento ufficiale per la certificazione delle stroke unit e degli stroke center (versione V del 18.11.2021, Swiss Federation of Clinical Neuro-Societies SFCNS), i risultati clinico-neurologici devono essere verificati sistematicamente almeno quattro volte nell'arco di 24 ore.
   
-Der vom jeweiligen Stroke Center oder der Stroke Unit etablierte Prozess zur Früherkennung von Hirnschlagprogression, Rezidiven und anderen neurologischen Komplikationen wird im Rahmen der Zertifizierung evaluiert und durch eine erfolgreiche Zertifizierung in seiner Validität bestätigt.
+Il processo stabilito dal rispettivo Stroke Center o  dalla Stroke Unit per la diagnosi precoce della progressione dell'ictus, delle recidive e di altre complicanze neurologiche viene valutato nell'ambito della certificazione e la sua validità viene confermata dal conseguimento della certificazione.
   
-Die Subkategorie 99.A7 _Komplexdiagnostik des akuten Hirnschlags in Stroke Unit oder Stroke Center, bis maximal 24 Stunden_ und die Elementegruppen 99.BA.1- _Neurologische Komplexbehandlung des akuten Hirnschlags in Stroke Center [SC], nach Behandlungsdauer in Stunden_ und 99.BA.2- _Neurologische Komplexbehandlung des akuten Hirnschlags in einer Stroke Unit [SU], nach Behandlungsdauer in Stunden_ verweisen auf die erwähnten Referenzdokumente. Entsprechend ist die klinische Überwachung bei diesen Kodes gemäss den Vorgaben durchzuführen und zu dokumentieren. 
+La sottocategoria 99.A7 _Diagnostica complessa dell’ictus cerebrale acuto in Stroke Unit o Stroke Center, fino a un massimo di 24 ore e i gruppi di elementi_ 99.BA.1- _Trattamento neurologico complesso dell’ictus cerebrale acuto in Stroke Center [SC], secondo la durata del trattamento in ore_ e 99.BA.2- _Trattamento neurologico complesso dell’ictus cerebrale acuto in Stroke Unit [SU], secondo la durata del trattamento in ore_, rimandano ai documenti di riferimento citati. Di conseguenza, il monitoraggio clinico per questi codici deve essere effettuato e documentato secondo le specifiche. 
 
-Wichtig:<br>
-Die **alleinige** Erfassung des Glasgow Coma Scale (GCS) ist für den klinisch neurologischen Befund zur Hirnschlag-Überwachung im Anwendungsbereich der 99.A7, 99.BA.1- und 99.BA.2- nicht ausreichend.
+Importante:<br>
+la **sola** registrazione della Glasgow Coma Scale (GCS) non è sufficiente per la diagnosi clinico-neurologica ai fini del monitoraggio dell'ictus cerebrale nell'ambito di applicazione dei codici 99.A7, 99.BA.1 e 99.BA.2.
 
 {{</markdown>}}
 <br>  
@@ -847,16 +836,16 @@ Die **alleinige** Erfassung des Glasgow Coma Scale (GCS) ist für den klinisch n
 {{</article>}}
 
 
-{{<article number="0016"  title="CHOP - Auflistung von Massnahmen in den Komplexbehandlungen oder Komplexdiagnostiken" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0016"  title="CHOP - Elenco di misure nei trattamenti complessi o nelle diagnostiche complesse" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Parola chiave:</th>
-    <td style="border: 1px solid black;">Massnahmen Komplexdiagnostiken / Komplexbehandlungen, Therapiebereiche / Mindestmerkmale</td>
+    <td style="border: 1px solid black;">Misure diagnostiche complesse / trattamenti complessi, aree terapeutiche / caratteristiche minime</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Creato:</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0761</td>
+    <td style="border: 1px solid black;">01.01.2026 – Base Circolare 2025/2: 0761</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aggiornato</th>
@@ -877,29 +866,30 @@ Die **alleinige** Erfassung des Glasgow Coma Scale (GCS) ist für den klinisch n
 </table>
 
 {{<markdown>}}
-**Problem/Erläuterung:**  
-In den Beachte zu den Komplexbehandlungen oder Komplexdiagnostiken angegebene Auflistungen, die auf Sätze folgen im Sinne von «Einsatz von mindestens x Therapiebereichen» oder «Mindestens x der folgenden Massnahmen», bedeuten, dass mindestens x verschiedene der aufgelisteten Therapiebereiche oder Massnahmen zum Einsatz kommen. Der Einsatz / die Durchführung von x-mal der gleichen Massnahme / des gleichen Therapiebereichs erfüllt die Mindestanforderungen nicht.
-Beispiel: Unter 99.A6.- <i>Neurologische Komplexdiagnostik</i> wird im «Beachte» folgende Auflistung aufgeführt:
+**Problema/Spiegazione:**  
+Gli elenchi che figurano nei campi «Nota» ai trattamenti complessi o alle diagnostiche complesse, e che seguono frasi del tipo «impiego di almeno x settori terapeutici» o «almeno x delle seguenti misure», significano che devono intervenire almeno x diversi settori terapeutici o misure tra quelli elencati. L’impiego/l’attuazione della stessa misura / dello stesso settore terapeutico x volte non soddisfa i requisiti minimi.
+Esempio: nella «Nota» al codice 99.A6 <i>Diagnostica neurologica complessa</i> figura il seguente elenco:
 {{</markdown>}}
 <br>
 <br>
-Beachte:&nbsp	&nbsp	&nbsp 	[…]<br><br>
-mind. 3 der folgenden Massnahmen:
+Nota:&nbsp	&nbsp	&nbsp 	[…]<br><br>
+almeno 3 delle seguenti misure: 
 <body>
     <ul>
-        <li>LP (Liquorentnahme über Lumbalpunktion),</li>
-        <li>craniale und spinale MRI,</li>
-        <li>funktionelle Bildgebung (z. B. PET, SPECT),</li>
-        <li>Diffusion Imaging, Perfusion Imaging</li>
-        <li>volumetrische und morphometrische Bildanalyse,</li>
-        <li>elektrophysiologische (neurophysiologische) Diagnostik,</li>
-        <li>neurosonologische/psychologische/psychiatrische Diagnostik,</li>
-        <li>neuropsychologische Diagnostik,</li>
-        <li>Elektroenzephalographie [EEG] (mobiles Langzeit-EEG über mindestens 24 Stunden oder mehr und polygraphisches Nachtschlaf-EEG und video- und radiotelemetriertes elektroenzephalographisches Monitoring über mindestens 4 Stunden und Orthostase-EEG)</li>
-    </ul>
+      <li>puntura lombare (prelievo di liquido tramite punzione lombare)</li>
+      <li>RMN cranica e spinale</li>
+      <li>diagnostica per immagini funzionale (es. PET, SPECT)</li>
+      <li>diffusion imaging, perfusion imaging</li>
+      <li>analisi volumetrica e morfometrica delle immagini</li>
+      <li>diagnostica elettrofisiologica (neurofisiologica)</li>
+      <li>diagnostica neurosonografica/psicologica/psichiatrica</li>
+      <li>diagnostica neuropsicologica</li>
+      <li>elettroencefalografia [EEG] (EEG prolungata mobile per almeno 24 ore o più e EEG poligrafico nel sonno notturno e monitoraggio elettroencefalografico video e radio-telemetrico per almeno 4 ore e EEG ortostatica)
+    </li>
+  </ul>
 </body>
-Wird dreimal ein EEG durchgeführt ohne zwei weitere der aufgelisteten Massnahmen sind die Mindestmerkmale nicht erfüllt und ein Kode der Subkategorie 99.A6.- kann nicht erfasst werden.
-Werden hingegen ein craniales MRI, eine neurophysiologische Diagnostik sowie ein mobiles Langzeit-EEG über mindestens 24 Stunden durchgeführt mit Erfüllen der anderen Mindestmerkmale, kann ein Kode der Subkategorie 99.A6.- erfasst werden.
+Se viene svolta un’elettroencefalografia per tre volte senza altre due delle misure elencate, i requisiti minimi non sono soddisfatti e non è possibile registrare un codice della sottocategoria 99.A6.
+Se invece vengono somministrati una RMN cranica, una diagnostica neuropsicologica come pure una EEG prolungata mobile per almeno 24 ore o più e gli altri requisiti minimi sono soddisfatti, allora può essere registrato un codice della sottocategoria 99.A6.
 <br>  
 <br>
   
@@ -938,7 +928,7 @@ Werden hingegen ein craniales MRI, eine neurophysiologische Diagnostik sowie ein
 </table>
 
 {{<markdown>}}
-**Problem/Erläuterung:**  
+**Problema/Spiegazione:**  
 Pflegeinterventionen könnten theoretisch mehreren Leistungsgruppen zugeordnet werden. In der Pflege-Komplexbehandlung darf eine geleistete Pflegeintervention jedoch nur einer Leistungsgruppe zugeordnet werden. Dies bedeutet nicht, dass sie zwingend der Leistungsgruppe zugeordnet wird in der bereits Aufwandspunkte für diesen Tag erfasst wurden.
   
 Beispiel 1: Ein «Transfer auf die Toilette» könnte im Rahmen des Pflegeinterventionsprofils 1.1 der Leistungsgruppe 1 «Bewegung» oder im Rahmen des Pflegeinterventionsprofils 3.1 der Leistungsgruppe 3 «Ausscheidung» geleistet werden. Wenn die Aktivität unter der Leistungsgruppe 1 erfasst wird, darf sie nicht zusätzlich bei der Leistungsgruppe 3 erfasst werden, oder umgekehrt. Die Aktivität darf nur einem der zwei Pflegeinterventionsprofile zugeordnet werden.
@@ -988,7 +978,7 @@ Beispiel 2: Eine «Hygienemassnahme» könnte im Rahmen des Pflegeinterventionsp
 Ist das standardisierte palliativmedizinische Basisassessment [PBA] bei der Rückkehr eines Patienten / einer Patientin im Rahmen einer Fallzusammenführung zu wiederholen?
   
 
-**Problem/Erläuterung:**  
+**Problema/Spiegazione:**  
 Folgende Fragestellung und Erläuterung bezieht sich auf die Elementegruppe 93.8A.2- _Palliativmedizinische Komplexbehandlung (ausserhalb einer eigenständigen spezialisierten Palliative Care Station), nach Anzahl Behandlungstage_ und die Subkategorie 93.8B.- _Behandlung auf einer eigenständigen spezialisierten Palliative Care Station_.
   
 Erläuterung:  
@@ -1113,7 +1103,7 @@ Bei der «interprofessionellen Visite» ist unter «interprofessionell» zu vers
 </table>
 
 {{<markdown>}}
-**Problem/Erläuterung:**  
+**Problema/Spiegazione:**  
 **Ist SENS ebenfalls ein standardisiertes palliativmedizinisches Basisassessment (PBA)?**  
 Mit dem SENS-Assessment werden folgende Bereiche der Palliativversorgung abgedeckt: Symptommanagement, Entscheidungsfindung/ End of Life Vorbereitung, Netzwerk-Organisation, Support der Angehörigen. SENS integriert alle Themenbereiche der gängigen Ziele, Definitionen und Modelle.  
 Somit ist auch ein dokumentiertes SENS-Assessment als standardisiertes palliativmedizinisches Basisassessment für die Kodes 93.8A.2- und 93.8B.- anzuerkennen.
@@ -1161,7 +1151,7 @@ Die alleinige Durchführung eines Assessmentinstrumentes (z. B. ESAS) zur Erfass
 </table>
 
 {{<markdown>}}
-**Problem/Erläuterung:**  
+**Problema/Spiegazione:**  
 Die Elementegruppe 93.8B.1- stellt den _«Aufenthalt auf einer eigenständigen spezialisierten Palliative Care Station, nach Anzahl Behandlungstage»_ dar. Falls die Mindestmerkmale unter 93.8B.- sowie unter 93.8B.1- erfüllt sind, ist der entsprechende Kode unter 93.8B.1- für die gesamte Behandlungsdauer auf der spezialisierten Palliative Care Station zu erfassen. Falls in einer oder mehreren Behandlungswochen **parallel zum Aufenthalt** auf einer eigenständigen spezialisierten Palliative Care Station spezialisierte Palliative Care Zusatzleistungen erbracht werden, kann der entsprechende Kode der Elementegruppe 93.8B.2- _Zusatzleistung auf einer eigenständigen spezialisierten Palliative Care Station, nach Anzahl Behandlungstage_ erfasst werden.
   
 Folgende zwei Beispiele veranschaulichen die gemeinte Erfassungsweise der Zusatzkodes der Elementegruppe 93.8B.2- _«Zusatzleistung auf einer eigenständigen spezialisierten Palliative Care Station, nach Anzahl Behandlungstage»_.
@@ -1210,7 +1200,7 @@ Folgende zwei Beispiele veranschaulichen die gemeinte Erfassungsweise der Zusatz
 </table>
 
 {{<markdown>}}
-**Problem/Erläuterung:**  
+**Problema/Spiegazione:**  
 Die Segmente, bei denen anlässlich eines Revisionseingriffs an der Wirbelsäule nur die Stäbe entfernt (und diese z. B. durch längere Stäbe ersetzt werden bei Anschlusssegment-Pathologie) und bei denen sonst keine operativen Massnahmen an den Wirbelkörpern vorgenommen werden, wie z. B. Einsetzen neuer Pedikelschrauben oder eines Cages, Dekortizierung der Facettengelenke, Anlage von lokalem Knochen oder Knochenersatzmaterial, fliessen nicht in die Zählung der operierten Segmente mit ein.
 
 **Ad Zählen der Segmente bei Überbrückung:**  
@@ -1254,7 +1244,7 @@ Bei z. B. vorbestehender Spondylodese L2 – L4 und aktuell Neufusion der Segmen
   </tr>
 </table>
 
-<b>Problem/Erläuterung:</b>
+<b>Problema/Spiegazione:</b>
 <br>
 Der Kode 7A.A2 <i>Implantation von mitwachsenden oder expandierenden Systemen, Wirbelsäule</i> ist ein Zusatzkode und kann daher nicht allein kodiert werden. 
 <br>
@@ -1299,7 +1289,7 @@ Zur Zählung der behandelten Segmente werden nur die Segmente, an denen das Syst
 </table>
 
 {{<markdown>}}
-**Problem/Erläuterung:**  
+**Problema/Spiegazione:**  
 Für die Subkategorien 7A.71.- bis 7A.74.- erfolgte die Aufgliederung in 5. Stelle für den Zugang «dorsal und dorsolateral», bzw. «ventral», in 6. Stelle nach der Anzahl behandelter Segmente (aufgegliedert bis 14 und mehr).  
 Das «und» ist gemäss CHOP-Konventionen als «und/oder» zu verstehen. 
   
@@ -1349,7 +1339,7 @@ Im Beispiel der folgenden Abbildung erfolgte eine Spondylodese über sechs Wirbe
   </tr>
 </table>
 
-<b>Problem/Erläuterung:</b> <br>
+<b>Problema/Spiegazione:</b> <br>
 Der Kode <b>7A.71.-</b> <i>Fusion von Wirbeln mit Stabilisierung der Wirbelsäule</i> ist anzuwenden, wenn eine <b>Wirbelfusion / Versteifung</b> mit Stabilisierung durchgeführt wird, die zusätzlich eines der folgenden Merkmale erfüllt:<br>
 
 <body>
@@ -1375,9 +1365,7 @@ Es liegt keine <b>potenzielle Bewegungserhaltung</b> im betroffenen Segment vor.
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Parola chiave:</th>
-    <td style="border: 1px solid black;">Knöcherne Fusion Wirbelsäule ohne Instrumentierung / Knochentransplantation, Knochentransposition, Knochenersatz an der Wirbelsäule
-
-</td>
+    <td style="border: 1px solid black;">Knöcherne Fusion Wirbelsäule ohne Instrumentierung / Knochentransplantation, Knochentransposition, Knochenersatz an der Wirbelsäule</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Creato:</th>
@@ -1402,7 +1390,7 @@ Es liegt keine <b>potenzielle Bewegungserhaltung</b> im betroffenen Segment vor.
 </table>
 
 {{<markdown>}}
-**Problem/Erläuterung:**  
+**Problema/Spiegazione:**  
 Eine knöcherne Fusion (Arthrodese / Spondylodese) der Wirbelsäule, bei der ausschliesslich autogenes Knochenmaterial (Spongiosa und/oder kortikospongiöser Span) eingebracht wird und **keine Instrumentierung** (z. B. Schrauben, Platten, Stäbe) erfolgt, wird mit dem CHOP-Kode **7A.51.14** _Knochentransplantation an der Wirbelsäule, autogen, Spongiosa und kortikospongiöser Span_ erfasst.  
   
 Bei einer durchgeführten Laminotomie, Laminektomie oder Laminoplastik ist dies zusätzlich mit dem zutreffenden Kode der Subkategorie 03.03.- _Laminotomie, Laminektomie und Laminoplastik_ zu erfassen. Die Höhe des Eingriffs an der Wirbelsäule wird mit dem zutreffenden Kode der Subkategorie 7A.B1.- _Höhe des Eingriffs an der Wirbelsäule_ kodiert, während der Zugang zur Wirbelsäule mit dem Kode 03.04.- dargestellt wird.  
@@ -1448,7 +1436,7 @@ Es darf **kein** Kode der Subkategorie 7A.71.- _Fusion von Wirbeln mit Stabilisi
 </table>
 
 {{<markdown>}}
-**Problem/Erläuterung:**  
+**Problema/Spiegazione:**  
 Die Subkategorie **7A.73.-** wird verwendet zur Kodierung einer operativen Massnahme, bei der die Wirbelsäule mittels Osteosynthesematerialien wie **Schrauben, Stäben oder Platten** mechanisch **stabilisiert bzw. geschient** wird. Die Stabilisierung ist potenziell **reversibel –** durch eine **partielle oder vollständige Materialentfernung (OSME) nach Frakturheilung**.
 
 Typischerweise wird dieser Kode bei **traumatischen Pathologien**, insbesondere **thorakolumbalen Frakturen**, angewendet. Er kommt jedoch auch bei **anderen Indikationen** zum Einsatz.
