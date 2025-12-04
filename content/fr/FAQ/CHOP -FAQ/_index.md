@@ -1393,7 +1393,7 @@ Une fusion osseuse (arthrodèse/spondylodèse) de la colonne vertébrale, dans l
 En cas de laminotomie, de laminectomie ou de laminoplastie, cela doit être enregistré en plus avec le code correspondant de la sous-catégorie 03.03.- _Laminotomie, laminectomie et laminoplastie_. La hauteur de l'intervention sur la colonne vertébrale est codée avec le code correspondant de la sous-catégorie 7A.B1.- _Niveau de l’intervention sur la colonne vertébrale_, tandis que l'accès à la colonne vertébrale est représenté par le code 03.04.-. 
   
 **Aucun** code de la sous-catégorie 7A.71.- Fusion de vertèbres avec stabilisation de la colonne vertébrale **ne** doit être saisi.
-
+{{</markdown>}}
   
 {{</article>}}
 
