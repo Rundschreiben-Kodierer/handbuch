@@ -164,7 +164,7 @@ Le tableau suivant illustre les différentes situations d'une prothèse abdomina
 {{</article>}}
 
 
-{{<article number="0004"  title="Stents / Prothèses / Non vasculaires" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0004"  title="CHOP - Stents / Prothèses / Non vasculaires" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -1154,9 +1154,9 @@ Les deux exemples ci-dessous illustrent la manière de saisir les codes supplém
 
 {{</markdown>}}
 <br><br>
-{{<insertImage image="FAQCHOP0021Beispiel1.png" class="edge max-w-90">}}
+{{<insertImage image="FAQCHOP0021Beispiel1FR.png" class="edge max-w-90">}}
 <br><br>
-{{<insertImage image="FAQCHOP0021Beispiel2.png" class="edge max-w-90">}}
+{{<insertImage image="FAQCHOP0021Beispiel2FR.png" class="edge max-w-90">}}
 <br><br>
 
 <br>  
@@ -1198,8 +1198,8 @@ Les deux exemples ci-dessous illustrent la manière de saisir les codes supplém
 {{<markdown>}}
 **Problème/explication:**  
 Les segments sur lesquels seules les tiges sont enlevées lors d’une intervention de révision sur la colonne vertébrale (pour être remplacées par des tiges plus longues en cas de pathologie du segment adjacent) et pour lesquels aucune autre mesure chirurgicale n’est entreprise sur les vertèbres, telle que la mise en place de nouvelles vis pédiculaires ou d’une cage, la décortication de facettes articulaires, l’insertion d’os local ou de matériau de remplacement d’os, n’entrent pas dans le calcul des segments opérés.
-Comptage des segments en situation de pontage:
- 
+<br>
+<b>Comptage des segments en situation de pontage:</b>
 Exemple: une spondylodèse des vertèbres L2-L4 préexistante, complétée à présent par une nouvelle fusion des segments L1/L2 et L4/L5 sera représentée par le code CHOP correspondant pour 2 segments si, comme indiqué ci-dessus, aucune autre mesure n’est entreprise sur les vertèbres L2-L4 en dehors de la pose de la tige.
 {{</markdown>}}
 <br>  

@@ -567,7 +567,7 @@ Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückfl
 Folgende Tabelle präzisiert die Kodierung von Eingriffskode und Zusatzkode bei einzeitigen Mehrfacheingriffen, am Beispiel der Hand.
 <br><br>
 {{<insertImage image="FAQCHOP0009Tabelle.png" class="edge max-w-90">}}
-<br>  
+<br>
 <br>
 
 {{</article>}}
@@ -608,7 +608,7 @@ Folgende Tabelle präzisiert die Kodierung von Eingriffskode und Zusatzkode bei 
 Die Angabe der Lateralität ist nur bei paarigen Organen ein Muss (entsprechende Kennzeichnung in der CHOP mit «[L]» in der PDF- Datei oder «Lateral» in der CSV-Datei). Bei nicht paarigen Organen oder Körperteilen «kann» die Lateralität erfasst werden, «muss» aber nicht.
 <br>  
 <br>
- 
+
 {{</article>}}
 
 
@@ -1050,7 +1050,7 @@ Die dokumentierten und spezifischen Koordinationsaufgaben in direktem Zusammenha
 <br>
 Folgendes zählt nicht zu den 6 Stunden:  <br>
 •	Die wöchentlichen interprofessionellen Teambesprechungen und die Wegzeiten,  <br>
-•	Die interprofessionellen Visiten (Mindestmerkmal Punkt 3, Therapie, a) der Subkategorie 93.8B.-).<br>
+•	Die interprofessionellen Visiten (Mindestmerkmal Punkt 3, Therapie, a) der Subkategorie 93.8B.-).
 <br>  
 <br>  
 <b>Fragestellung Nr. 2:</b><br>  

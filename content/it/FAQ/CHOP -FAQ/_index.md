@@ -299,7 +299,7 @@ Per ciascun intervento va indicato il codice corrispondente un numero di volte p
 <br>
 Esempio: il giorno X sono inserite due protesi non autoespandenti nell’intestino. Il giorno Y sono rimosse entrambe e sostituite da una protesi autoespandente.
 <br><br>  
-<b>Codifica:</b><br>
+Codifica:
 {{<grid class="ps-0">}}
     {{<grid/column>}}
 Giorno X:
@@ -313,7 +313,7 @@ Giorno X:
 Giorno Y:
     {{</grid/column>}}
     {{<grid/column>}}
-46.99.71 <i>il codice 46.99.71 Rimozione di protesi dell’intestino, chirurgica a cielo aperto </i>va indicato<b>due volte</b>.<br>
+46.99.71 <i>il codice 46.99.71 Rimozione di protesi dell’intestino, chirurgica a cielo aperto </i>va indicato<b> due volte</b>.<br>
 46.99.61 <i>il codice 46.99.61 Inserzione o sostituzione di una protesi autoespandente nell’intestino, chirurgica a cielo aperto</i> va indicato<b> una volta</b>.
     {{</grid/column>}}
 {{</grid>}}
@@ -422,12 +422,12 @@ Codifica:
 {{</markdown>}}
 <br>
 <u>Interventi di occlusione vascolare</u><br>
-Nella CHOP esistono codici per operazioni/interventi di chiusura di vasi, le cosiddette embolizzazioni con coils, plugs, filtri ecc., p. es. 39.79.2- <i>Embolizzazione od occlusione mediante spirali di altri vasi</i>, 39.79.5- <i>Embolizzazione selettiva con filtri di altri vasi, NAS</i> o 39.79.A- <i>Embolizzazione selettiva di altri vasi con plugs</i> ecc.
-Sono inoltre disponibili i codici supplementari delle sottocategorie 00.4A.- <i>Numero di coils endovascolari utilizzate</i> e 00.4G.- <i>Inserzione di dispositivi di chiusura di vasi</i>.
+Nella CHOP esistono codici per operazioni/interventi di chiusura di vasi, le cosiddette embolizzazioni con coils, plugs, filtri ecc., p. es. 39.79.2- <i>Embolizzazione od occlusione mediante spirali di altri vasi</i>, 39.79.5- <i>Embolizzazione selettiva con filtri di altri vasi, NAS</i> o 39.79.A- <i>Embolizzazione selettiva di altri vasi con plugs</i> ecc.<br>
+Sono inoltre disponibili i codici supplementari delle sottocategorie 00.4A.- <i>Numero di coils endovascolari utilizzate</i> e 00.4G.- <i>Inserzione di dispositivi di chiusura di vasi</i>.<br>
 I codici supplementari dei gruppi degli elementi da 00.4G.2- a 00.4G.6- <i>Filtri vascolari inseriti […], secondo</i> il numero servono unicamente per indicare i dispositivi impiegati nel quadro di operazioni/interventi di chiusura di vasi (p. es. embolizzazioni selettive). I codici della sottocategoria 00.4G.- non vanno impiegati per i sistemi di protezione da embolia. 
 <br><br>
 <u>Sistemi di protezione da embolia</u><br>
-Il codice supplementare 39.E1 <i>Impiego di sistema di protezione da embolia consente</i> di registrare l’utilizzo di sistemi di protezione da embolia perioperatori.
+Il codice supplementare 39.E1 <i>Impiego di sistema di protezione da embolia consente</i> di registrare l’utilizzo di sistemi di protezione da embolia perioperatori.<br>
 I codici 38.7X.11 <i>Inserzione di sistema di protezione da embolia nella vena cava, chirurgica a cielo aperto</i>, 38.7X.21 <i>Inserzione di sistema di protezione da embolia nella vena cava, percutanea transluminale</i>, 39.75.13 <i>Intervento vascolare percutaneo transluminale, altri vasi, sistema di protezione da embolia (vasi periferici o viscerali)</i> rappresentano invece sistemi permanenti.
 <br>  
 <br>
@@ -1209,8 +1209,9 @@ I due esempi che seguono illustrano le modalità di registrazione dei codici sup
 
 {{<markdown>}}
 **Problema/Spiegazione:**  
-In occasione di un intervento di revisione alla colonna vertebrale, i segmenti nei quali vengono solamente rimosse le aste (per sostituirle p.es. con aste più lunghe in presenza di patologia del segmento adiacente) senza intraprendere misure operatorie ai corpi vertebrali, come p. es. la posa di nuove viti peduncolari o di una cage, la decorticazione di faccetta articolare, l’impianto osseo locale o l’inserzione di materiale di sostituzione di ossa, non confluiscono nel conteggio dei segmenti operati.  
-Conteggio dei segmenti in caso di ponte di connessione:  
+In occasione di un intervento di revisione alla colonna vertebrale, i segmenti nei quali vengono solamente rimosse le aste (per sostituirle p.es. con aste più lunghe in presenza di patologia del segmento adiacente) senza intraprendere misure operatorie ai corpi vertebrali, come p. es. la posa di nuove viti peduncolari o di una cage, la decorticazione di faccetta articolare, l’impianto osseo locale o l’inserzione di materiale di sostituzione di ossa, non confluiscono nel conteggio dei segmenti operati.
+<br>
+<b>Conteggio dei segmenti in caso di ponte di connessione:</b>
 In caso p. es. di precedente spondilodesi L2-L4 e nuova fusione attuale dei segmenti L1/L2 e L4/L5, quest’ultima va rappresentata con il pertinente codice CHOP per 2 segmenti se, come sopra precisato, oltre alla posa di aste non vengono intraprese altre misure operatorie ai corpi vertebrali L2-L4.
 
 {{</markdown>}}
@@ -1352,9 +1353,9 @@ Il codice <b>7A.71.-</b> Fusione di vertebre con stabilizzazione della colonna v
 
 <body>
     <ul>
-        <li><b>Decorticazione delle superfici articolari<b></li>
-        <li><b>Osteotomia<b></li>
-        <li><b>Accrescimento o trapianto osseo<b></li>
+        <li><b>Decorticazione delle superfici articolari</b></li>
+        <li><b>Osteotomia</b></li>
+        <li><b>Accrescimento o trapianto osseo</b></li>
         <li><b>Impianto di materiali stabilizzanti</b> (ad es. cage, sistemi di viti e barre, placche)</li>
     </ul>
 </body>
