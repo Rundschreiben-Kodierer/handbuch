@@ -1373,7 +1373,7 @@ Il codice <b>7A.71.-</b> Fusione di vertebre con stabilizzazione della colonna v
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Parola chiave:</th>
-    <td style="border: 1px solid black;">Fusione ossea colonna vertebrale senza strumentazione / Trapianto osseo, trasposizione ossea, sostituzione ossea alla colonna vertebrale</td>
+    <td style="border: 1px solid black;">Fusione ossea colonna vertebrale senza strumentazione / Trapianto osseo, trasposizione ossea,<br> sostituzione ossea alla colonna vertebrale</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Creato:</th>

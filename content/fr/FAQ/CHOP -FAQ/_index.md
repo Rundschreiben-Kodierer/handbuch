@@ -1362,7 +1362,7 @@ Il n'y a <b>pas</b> de <b>potentiel de conservation du mouvement</b> dans le seg
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Mot-clé:</th>
-    <td style="border: 1px solid black;">Fusion osseuse de la colonne vertébrale sans instrumentation / greffe osseuse, transposition osseuse / remplacement osseux au niveau de la colonne vertébrale</td>
+    <td style="border: 1px solid black;">Fusion osseuse de la colonne vertébrale sans instrumentation / greffe osseuse, transposition osseuse / <br>remplacement osseux au niveau de la colonne vertébrale</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé le:</th>

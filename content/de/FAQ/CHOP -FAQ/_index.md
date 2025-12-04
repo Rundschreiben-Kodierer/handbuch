@@ -1373,7 +1373,7 @@ Es liegt keine <b>potenzielle Bewegungserhaltung</b> im betroffenen Segment vor.
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Knöcherne Fusion Wirbelsäule ohne Instrumentierung / Knochentransplantation, Knochentransposition, Knochenersatz an der Wirbelsäule</td>
+    <td style="border: 1px solid black;">Knöcherne Fusion Wirbelsäule ohne Instrumentierung / Knochentransplantation, Knochentransposition,<br> Knochenersatz an der Wirbelsäule</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Erstellt</th>
