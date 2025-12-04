@@ -52,6 +52,7 @@ keywords: []
 Un intervento a cielo aperto per una coartazione aortica congenita viene codificato, a seconda del metodo, con un codice preciso di cui al capitolo 7 <font  color="green">"Interventi chirurgici sul sistema cardiovascolare"</font>. Se esiste un codice preciso, il codice 39.99.21 <i>Interventi per anomalie congenite dell’istmo aortico (stenosi) o per arco aortico interrotto</i> non viene codificato.  
 <br>
 <br>
+<br>
 {{</article>}}
 
 
@@ -94,7 +95,8 @@ Per la registrazione della trombectomia percutanea transluminale di vasi polmona
         <li>Codici supplementari pertinenti del gruppo di elementi 00.4F.2- <i>Impiego di sistemi di rimozione di trombi e corpi estranei catetere-guidati, secondo il numero di sistemi</i></li>
     </ul>
 </body>
-(A seconda dei casi, vanno presi in considerazione ulteriori codici CHOP)<br>  
+(A seconda dei casi, vanno presi in considerazione ulteriori codici CHOP)
+<br>
 <br>
 <br>
 {{</article>}}
@@ -155,6 +157,7 @@ La tabella seguente illustra le diverse situazioni di una protesi addominale pri
 <br>
 <br>
 {{<insertImage image="FAQCHOP0003Tabelle2IT.png" class="edge max-w-90">}}
+<br>
 <br>
 <br>
 {{</article>}}
@@ -375,6 +378,7 @@ Codifica:
 <i>36.08.11  Impianto percutaneo transluminale di stents senza liberazione di sostanza medicamentosa, in un’arteria coronaria</i>
 <br>
 <br>
+<br>
 {{</article>}}
 
 
@@ -421,6 +425,7 @@ I codici supplementari dei gruppi degli elementi da 00.4G.2- a 00.4G.6- <i>Filtr
 <u>Sistemi di protezione da embolia</u><br>
 Il codice supplementare 39.E1 <i>Impiego di sistema di protezione da embolia consente</i> di registrare l’utilizzo di sistemi di protezione da embolia perioperatori.<br>
 I codici 38.7X.11 <i>Inserzione di sistema di protezione da embolia nella vena cava, chirurgica a cielo aperto</i>, 38.7X.21 <i>Inserzione di sistema di protezione da embolia nella vena cava, percutanea transluminale</i>, 39.75.13 <i>Intervento vascolare percutaneo transluminale, altri vasi, sistema di protezione da embolia (vasi periferici o viscerali)</i> rappresentano invece sistemi permanenti.
+<br>
 <br>
 <br>
 {{</article>}}
@@ -472,6 +477,7 @@ I seguenti codici della sottocategoria 51.99.- <i>Altre operazioni sulle vie bil
 Il codice 51.99.90 <i>Altri interventi endoscopici sulle vie biliari</i>, come indicato nel titolo, deve essere utilizzato solo per gli interventi endoscopici.
 <br>
 <br>
+<br>
 {{</article>}}
 
 
@@ -510,6 +516,7 @@ Il codice 51.99.90 <i>Altri interventi endoscopici sulle vie biliari</i>, come i
 In caso di sostituzione di endoprotesi di ginocchio, indipendentemente dal tipo, con altra endoprotesi di ginocchio, per l’impianto va utilizzato il codice con l’indicazione «per sostituzione di protesi». P. es. se viene espiantata un’endoprotesi parziale e impiantata una protesi totale sullo stesso ginocchio, per l’impianto deve essere indicato il codice 81.54.31 <i>Impianto di protesi totale standard del ginocchio per sostituzione di protesi</i> e <b>non</b> il codice 81.54.21 <i>Primo impianto di protesi totale standard del ginocchio</i>.
 <br><br>
 Analogamente, se in occasione di una sostituzione di endoprotesi di ginocchio viene impiantato per la prima volta un bottone rotuleo, deve essere indicato il codice 81.54.42 <i>Impianto di bottone rotuleo per sostituzione</i> e <b>non</b> il codice 81.54.27 <i>Primo impianto di bottone rotuleo</i>.
+<br>
 <br>
 <br>
 {{</article>}}
@@ -552,6 +559,7 @@ La seguente tabella precisa l’utilizzo del codice e del codice supplementare p
 {{<insertImage image="FAQCHOP0009TabelleIT.png" class="edge max-w-90">}}
 <br>
 <br>
+<br>
 {{</article>}}
 
 
@@ -588,6 +596,7 @@ La seguente tabella precisa l’utilizzo del codice e del codice supplementare p
 
 <b>Erläuterung:</b><br>
 L’indicazione della lateralità è obbligatoria solo per gli organi pari (nella CHOP è contrassegnata con una «[L]» nel file PDF o con «Lateral» nel file CSV). Per gli organi o le parti del corpo non pari la lateralità «può», ma non «deve» essere rilevata. 
+<br>
 <br>
 <br>
 {{</article>}}
@@ -688,6 +697,7 @@ Cela signifie qu’il n’est pas admis de coder simultanément 93.59.5- et 99.8
 
 
 Ciò significa che non è consentito codificare contemporaneamente 93.59.5- e 99.84.1-, 99.84.2-, 99.84.3-. Se 99.84.1-, 99.84.2-, 99.84.3- avvengono in momenti diversi rispetto a 93.59.5-, i codici possono essere registrati sotto lo stesso caso. I codici 99.84.1-, 99.84.2-, 99.84.3- non devono mai essere registrati per lo stesso intervallo di tempo per cui è registrato il codice 93.59.5-.
+<br>
 <br>
 <br>
 {{</article>}}
@@ -880,6 +890,7 @@ Se viene svolta un’elettroencefalografia per tre volte senza altre due delle m
 Se invece vengono somministrati una RMN cranica, una diagnostica neuropsicologica come pure una EEG prolungata mobile per almeno 24 ore o più e gli altri requisiti minimi sono soddisfatti, allora può essere registrato un codice della sottocategoria 99.A6.
 <br>
 <br>
+<br>
 {{</article>}}
 
 
@@ -1054,6 +1065,7 @@ Nella «riunione settimanale del team interprofessionale», per «interprofessio
 Nella «visita interprofessionale», per «interprofessionale» si intende che partecipano almeno un medico e personale infermieristico (cfr. <i>caratteristica minima punto 3, terapia</i> 93.8B.-).
 <br>
 <br>
+<br>
 {{</article>}}
 
 
@@ -1145,8 +1157,6 @@ I due esempi che seguono illustrano le modalità di registrazione dei codici sup
 {{<insertImage image="FAQCHOP0021Beispiel1IT.png" class="edge max-w-90">}}
 <br><br>
 {{<insertImage image="FAQCHOP0021Beispiel2IT.png" class="edge max-w-90">}}
-<br><br>
-
 <br>
 <br>
 {{</article>}}
@@ -1234,6 +1244,7 @@ L'intervento consiste in una <b>stabilizzazione dinamica della colonna vertebral
 Per il conteggio dei segmenti trattati vengono considerati solo i segmenti a cui è fissato il sistema. 
 <br>
 <br>
+<br>
 {{</article>}}
 
 
@@ -1279,6 +1290,7 @@ Nell’esempio di cui alla seguente figura, è stata eseguita una spondilodesi c
 {{</markdown>}}
 <br><br>
 {{<insertImage image="FAQCHOP0024Tabelle.png" class="edge max-w-90">}}
+<br>
 <br>
 <br>
 {{</article>}}
@@ -1330,6 +1342,7 @@ Il codice <b>7A.71.-</b> Fusione di vertebre con stabilizzazione della colonna v
 </body>
 <br>
 <b>Non</b> è <b>possibile mantenere il movimento</b> nel segmento interessato.
+<br>
 <br>
 <br>
 {{</article>}}

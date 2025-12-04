@@ -52,6 +52,7 @@ keywords: []
 Une opération ouverte d'une sténose congénitale de l'isthme aortique est représentée, selon la méthode utilisée, par un code précis du chapitre 7 <font  color="green">«Opérations du système cardio-vasculaire»</font>. S'il existe un code précis, le code 39.99.21 *Opérations d’anomalie congénitale de l’isthme aortique (sténose) ou d’interruption de la crosse aortique* n'est pas codé. 
 <br>  
 <br>
+<br>
 {{</article>}}
 
 
@@ -155,7 +156,7 @@ Le tableau suivant illustre les différentes situations d'une prothèse abdomina
 <br>
 <br>
 {{<insertImage image="FAQCHOP0003Tabelle2FR.png" class="edge max-w-90">}}
-{{<lineBreak>}}
+<br>
 <br>
 <br>
 {{</article>}}
@@ -376,6 +377,7 @@ Codage :
 <i>36.08.11  Implantation par voie transluminale percutanée de stents sans libération de substance médicamenteuse, dans une artère coronaire</i>
 <br>
 <br>
+<br>
 {{</article>}}
 
 
@@ -427,6 +429,7 @@ Le code supplémentaire 39.E1 <i>Utilisation d’un système de protection anti-
 Les codes 38.7X.11 <i>Insertion d’un système de protection anti-embolie dans la veine cave, par chirurgie ouverte</i>, 38.7X.21 <i>Insertion d’un système de protection anti-embolie dans la veine cave, par voie transluminale percutanée</i>, 39.75.13 <i>Intervention vasculaire transluminale percutanée, autres vaisseaux, système de protection anti-embolie (vaisseaux périphériques ou viscéraux)</i> représentent des systèmes permanents.
 <br>
 <br>
+<br>
 {{</article>}}
 
 
@@ -476,6 +479,7 @@ Les codes suivants de la sous-catégorie 51.99.- <i>Autres opérations des voies
 Le code 51.99.90 <i>Autre opération endoscopique des voies biliaires</i>, comme indiqué dans le titre, ne doit être utilisé que pour les interventions endoscopiques.
 <br>
 <br>
+<br>
 {{</article>}}
 
 
@@ -517,6 +521,7 @@ Par exemple, explantation d'une hémi-endoprothèse et implantation d'une endopr
 Si, lors du remplacement d'une endoprothèse du genou, un remplacement de la face arrière de la rotule est utilisé pour la première fois, il faut saisir le code 81.54.42 <i>Implantation d'un remplacement de la face arrière de la rotule lors d'un remplacement</i> et <b>non</b> le code 81.54.27 <i>Première implantation d'un remplacement de la face arrière de la rotule</i>.
 <br>
 <br>
+<br>
 {{</article>}}
 
 
@@ -556,6 +561,7 @@ Le tableau suivant précise, par l’exemple de la main, le codage avec le code 
 {{<insertImage image="FAQCHOP0009TabelleFR.png" class="edge max-w-90">}}
 <br>
 <br>
+<br>
 {{</article>}}
 
 
@@ -592,6 +598,7 @@ Le tableau suivant précise, par l’exemple de la main, le codage avec le code 
 
 <b>Problème/explication:</b><br>
 L’indication de la latéralité n’est impérative que pour les organes existant par paires (la CHOP le spécifie par «L» dans le fichier PDF et par «Lateral» dans le fichier CSV). Pour ce qui est des organes ou parties du corps non présents par paire, l’indication de la latéralité peut être saisie, mais cette saisie n’est pas obligatoire.
+<br>
 <br>
 <br>
 {{</article>}}
@@ -687,6 +694,7 @@ EXCL. Omettre le code - Traitement complexe de colonisation ou d’infection à 
 {{</grid>}}
 <br>
 Cela signifie qu’il n’est pas admis de coder simultanément 93.59.5- et 99.84.1-, 99.84.2-, 99.84.3-. Lorsque 99.84.1-, 99.84.2-, 99.84.3- ne sont pas appliquées en même temps que 93.59.5-, ces codes peuvent être saisis pour le même cas. La saisie de 99.84.1-, 99.84.2-, 99.84.3- ne doit jamais être effectuée pour le même intervalle de temps que 93.59.5-.
+<br>
 <br>
 <br>
 {{</article>}}
@@ -877,6 +885,7 @@ au moins trois des mesures suivantes:
 Si un EEG est réalisé à trois reprises sans que deux autres des mesures énumérées soient appliquées, les caractéristiques minimales ne sont pas remplies, de sorte qu’il n’est pas possible d’utiliser un code de la sous-catégorie 99.A6.-. Si l’activité comprend au contraire une IRM crânienne, un diagnostic neurophysiologique et un EEG mobile de longue durée sur au moins 24 heures et que les autres caractéristiques minimales sont remplies, il est possible d’utiliser un code de la sous-catégorie 99.A6.-.
 <br>
 <br>
+<br>
 {{</article>}}
 
 
@@ -1043,6 +1052,7 @@ Dans le cadre de la «visite interprofessionnelle», le terme «interprofessionn
  (voir caractéristique minimale point 3, thérapie 93.8B.-).
 <br>
 <br>
+<br>
 {{</article>}}
 
 
@@ -1136,6 +1146,7 @@ Les deux exemples ci-dessous illustrent la manière de saisir les codes supplém
 {{<insertImage image="FAQCHOP0021Beispiel2FR.png" class="edge max-w-90">}}
 <br>
 <br>
+<br>
 {{</article>}}
 
 
@@ -1220,6 +1231,7 @@ L'intervention consiste en une <b>stabilisation dynamique de la colonne vertébr
 Seuls les segments auxquels le système est fixé sont pris en compte dans le décompte des segments traités.
 <br>
 <br>
+<br>
 {{</article>}}
 
 
@@ -1268,6 +1280,7 @@ Dans l’exemple de l’illustration suivante, une spondylodèse a été réalis
 {{</markdown>}}
 <br><br>
 {{<insertImage image="FAQCHOP0024TabelleFR.png" class="edge max-w-90">}}
+<br>
 <br>
 <br>
 {{</article>}}
@@ -1319,6 +1332,7 @@ Le code <b>7A.71.-</b> <i>Fusion de vertèbres avec stabilisation de la colonne 
 </body>
 <br>
 Il n'y a <b>pas</b> de <b>potentiel de conservation du mouvement</b> dans le segment concerné.
+<br>
 <br>
 <br>
 {{</article>}}
