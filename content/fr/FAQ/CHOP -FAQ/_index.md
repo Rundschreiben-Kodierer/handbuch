@@ -164,7 +164,7 @@ Le tableau suivant illustre les différentes situations d'une prothèse abdomina
 {{</article>}}
 
 
-{{<article number="0004"  title="CHOP - Erfassung von nicht-vaskulären Stents/Prothesen" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0004"  title="Stents / Prothèses / Non vasculaires" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -185,8 +185,7 @@ Le tableau suivant illustre les différentes situations d'une prothèse abdomina
   </tr>
   <tr>
     <th style="border: 1px solid black;">CHOP</th>
-    <td style="border: 1px solid black;">CHOP: 	42.81.-/ 51.87.- / 51.9A / 09.83 /<br>
-31.93 / 31.96 / 33.91.2- / 44.99.5- / 46.99.6 / 48.99.- / 52.93.- / 52.95.4- /<br> 52.95.5- / 58.99.- / 60.99.31
+    <td style="border: 1px solid black;">CHOP: 	42.81.-/ 51.87.- / 51.9A / 09.83 /31.93 / 31.96 / 33.91.2- / 44.99.5- /<br> 46.99.6 / 48.99.- / 52.93.- / 52.95.4- / 52.95.5- / 58.99.- / 60.99.31
 </td>
   </tr>
   <tr>
@@ -196,125 +195,125 @@ Le tableau suivant illustre les différentes situations d'une prothèse abdomina
 </table>
 
 <b>Problème/explication:</b><br>
-Folgende Kodes haben eine Unterteilung nach Anzahl der implantierten Stents/Prothesen. [
+Les codes suivants présentent une subdivision par nombre de stents/prothèses implanté(e)s. Il n’existe pas de codes totaux pour l’ensemble du séjour pour ces types de stents/prothèses.
 {{<indent level="4">}}
-42.81.- <i>Einsetzen eines permanenten Tubus in den Ösophagus</i><br>
-51.87.- <i>Endoskopische Einlage oder Wechsel von Stent in den Gallengang</i><br>
-51.9A.- <i>Einlage oder Wechsel von Stent in den Gallengang</i><br>
+42.81.- <i>Insertion d’un tube permanent dans l’œsophage</i><br>
+51.87.- <i>Insertion ou remplacement de stent de voie biliaire, par endoscopie</i><br>
+51.9A.- <i>Insertion ou remplacement de stent de voie biliaire</i><br>
 {{</indent>}}
-Je Eingriff ist der Kode mit der entsprechenden Anzahl von eingesetzten Stents/Prothesen auszuwählen und einmal pro Eingriff zu erfassen.
+Le code doit être choisi par intervention avec le nombre correspondant de stents/prothèses inséré(e)s et saisi une fois par intervention.
 <br>  <br>  
-Beispiel: Am Tag X werden zwei selbstexpandierende Prothesen in den Ösophagus eingesetzt. Am Tag Y wird eine selbstexpandierende Prothese ausgewechselt.
+Exemple: Le jour X, deux prothèses auto-expansibles sont insérées dans l’œsophage. Le jour Y, une prothèse auto-expansible est remplacée.
 <br><br>  
-<b>Kodierempfehlung</b><br>
+<b>Codage</b><br>
 {{<grid class="ps-0">}}
     {{<grid/column>}}
-Tag X:
+Jour X:
     {{</grid/column>}}
     {{<grid/column>}}
-42.81.41 <i>Einsetzen und Wechsel von zwei selbstexpandierenden Prothesen (permanenter Tubus) in den Ösophagus, endoskopisch</i>
+42.81.41 <i>Insertion et remplacement de deux prothèses auto-expansibles (tubes permanents) dans l’œsophage, par endoscopie</i>
     {{</grid/column>}}
 {{</grid>}}
 
 {{<grid class="ps-0">}}
     {{<grid/column>}}
-Tag Y:
+Jour Y:
     {{</grid/column>}}
     {{<grid/column>}}
-42.81.40 <i>Einsetzen und Wechsel einer selbstexpandierenden Prothese (permanenter Tubus) in den Ösophagus, endoskopisch</i>
+42.81.40 <i>Insertion et remplacement de prothèse auto-expansible (tube permanent) dans l’œsophage, par endoscopie</i>
     {{</grid/column>}}
 {{</grid>}}
 <br>
-Folgende Kodes haben keine Unterteilung nach Anzahl der implantierten Stents/Prothesen und geben jeweils nur «eines Stents», «Stent» oder «einer Prothese» an.
+Chacun des codes suivants indique uniquement «d’une prothèse» ou «de prothèse», resp. «d’un stent» ou de «stent». Il n’existe pas de codes totaux pour l’ensemble du séjour pour ces types de stents/prothèses.
 <br>
 
 {{<indent level="4">}}
 
 {{<codeEntry level="1" title="09.83">}}
-<i>Konjunktivozystorhinostomie mit Einsetzen von Tubus oder Stent</i>
+<i>Conjonctivo-rhinostomie avec insertion de tube ou de stent</i>
 {{</codeEntry>}}
 
 {{<codeEntry level="1" title="31.93">}}
-<i>Ersetzen eines Larynx- oder Trachea-Stents</i>
+<i>Remplacement de tube [stent] de trachée ou de larynx</i>
 {{</codeEntry>}}
 
 {{<codeEntry level="1" title="31.96">}}
-<i>Einsetzen eines Larynx- oder Trachea-Stents</i>
+<i>Insertion de tube [stent] de trachée ou de larynx</i>
 {{</codeEntry>}}
 
 {{<codeEntry level="1" title="33.91.2-">}}
-<i>Bronchusdilatation, endoskopisch, mit Einlegen oder Wechsel eines Stents/Stent-Grafts</i>
+<i>Dilatation bronchique, endoscopique, avec insertion ou remplacement de stent/endoprothèse
+[stent graft]</i>
 {{</codeEntry>}}
 
 {{<codeEntry level="1" title="44.99.5-">}}
-<i>Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Magen</i>
+<i>Insertion ou remplacement de prothèse non auto-expansible dans l’estomac</i>
 {{</codeEntry>}}
 
 {{<codeEntry level="1" title="44.99.6-">}}
-<i>Einlegen oder Wechsel einer selbstexpandierenden Prothese am Magen</i>
+<i>Insertion ou remplacement de prothèse auto-expansible dans l’estomac</i>
 {{</codeEntry>}}
 
 {{<codeEntry level="1" title="46.99.5-">}}
-<i>Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Darm</i>
+<i>Insertion ou remplacement de prothèse non auto-expansible dans l’intestin</i>
 {{</codeEntry>}}
 
 {{<codeEntry level="1" title="46.99.6-">}}
-<i>Einlegen oder Wechsel einer selbstexpandierenden Prothese am Darm</i>
+<i>Insertion ou remplacement de prothèse auto-expansible dans l’intestin</i>
 {{</codeEntry>}}
 
-
 {{<codeEntry level="1" title="48.99.50">}}
-<i>Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese im Rektum</i>
+<i>Insertion ou remplacement d’une prothèse non auto-expansible dans le rectum</i>
 {{</codeEntry>}}
 
 {{<codeEntry level="1" title="48.99.60">}}
-<i>Einlegen oder Wechsel einer selbstexpandierenden Prothese im Rektum</i>
+<i>Insertion ou remplacement d’une prothèse auto-expansible dans le rectum</i>
 {{</codeEntry>}}
 
 {{<codeEntry level="1" title="52.93.- ">}}
-<i>Endoskopische Einlage, Wechsel oder Entfernen von Stent [Prothese] in den Ductus pancreaticus</i>
+<i>Insertion, remplacement ou enlèvement de stent [prothèse] dans le ou du canal pancréatique, par endoscopie</i>
 {{</codeEntry>}}
 
 {{<codeEntry level="1" title="52.95.4-">}}
-<i>Einlage oder Wechsel eines nicht selbstexpandierenden Stents [Prothese] in den Pankreasgang, offen chirurgisch oder laparoskopisch</i>
+<i>Insertion ou remplacement d’un stent [prothèse] non auto-expansible dans le canal pancréatique, chirurgical ouvert ou par laparoscopie</i>
 {{</codeEntry>}}
 
 {{<codeEntry level="1" title="52.95.5- ">}}
-<i>Einlage oder Wechsel eines selbstexpandierenden Stents [Prothese] in den Pankreasgang, offen chirurgisch oder laparoskopisch</i>
+<i>Insertion ou remplacement d’un stent [prothèse] auto-expansible dans le canal pancréatique, chirurgical ouvert ou par laparoscopie</i>
 {{</codeEntry>}}
 
 {{<codeEntry level="1" title="58.99.10">}}
-<i>Sonstige Operationen an Urethra und Periurethralgewebe, Einlegen und Wechsel eines Stents in die Urethra</i>
+<i>Autres opérations d’urètre et de tissu périurétral, insertion et remplacement d’un stent urétral</i>
 {{</codeEntry>}}
 
 {{<codeEntry level="1" title="60.99.31">}}
-<i>Einlegen eines Stents in die prostatische Harnröhre</i>
+<i>Insertion de stent dans l’urètre prostatique</i>
 {{</codeEntry>}}
 
 {{</indent>}}
 
 
 <br>
-Je Eingriff ist der Kode so oft zu kodieren, wie Stents/Prothesen implantiert wurden.
+Pour chaque intervention, le code doit être saisi autant de fois qu’il y a de stents/prothèses implanté(e)s.
 <br>
 <br>
-Beispiel: Am Tag X werden zwei nicht selbstexpandierende Prothesen am Darm eingelegt. Am Tag Y werden beide entfernt und durch eine selbstexpandierende Prothese ersetzt.<br>
-Kodierung:
+Exemple: Le jour X, deux prothèses non auto-expansibles sont insérées dans l’intestin. Le jour Y, ces deux prothèses sont enlevées et remplacées par une prothèse auto-expansible.<br>
+Codage:
 {{<grid class="ps-0">}}
     {{<grid/column>}}
-Tag X:
+Jour X:
     {{</grid/column>}}
     {{<grid/column>}}
-46.99.51 <i>Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese am Darm, offen chirurgisch wird</i><b> zweimal</b> kodiert.
+46.99.51 <i>	Insertion ou remplacement de prothèse non auto-expansible dans l’intestin, par chirurgie ouverte est codé</i><b> deux fois</b>.
     {{</grid/column>}}
 {{</grid>}}
 {{<grid class="ps-0">}}
     {{<grid/column>}}
-Tag Y:
+Jour Y:
     {{</grid/column>}}
     {{<grid/column>}}
-46.99.71 <i>Entfernen einer Prothese am Darm, offen chirurgisch</i> wird <b>zweimal</b> kodiert.<br>
-46.99.61 <i>Einlegen oder Wechsel einer selbstexpandierenden Prothese am Darm, offen chirurgisch</i> wird <b>einmal</b> erfasst.
+46.99.71 <i>Enlèvement de prothèse de l’intestin, par chirurgie ouverte est codé </i><b>deux fois</b>.<br>
+46.99.61 <i>Insertion ou remplacement de prothèse auto-expansible dans l’intestin, par chirurgie ouverte est saisi </i><b>une fois</b>.
     {{</grid/column>}}
 {{</grid>}}
 <br>  
@@ -324,12 +323,12 @@ Tag Y:
 {{</article>}}
 
 
-{{<article number="0005"  title="CHOP - Erfassen der Anzahl der implantierten vaskulären Stents oder Stent-Graftsasdf" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0005"  title="CHOP - Saisie du nombre de stents ou de stents grafts vasculaires" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Mot-clé:</th>
-    <td style="border: 1px solid black;">Anzahl vaskuläre Stents / Stent-Grafts [gecoverte Stents]</td>
+    <td style="border: 1px solid black;">Nombre de stents / stents grafts [stents couverts] vasculaires</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé le:</th>
@@ -355,31 +354,31 @@ Tag Y:
 
 {{<markdown>}}
 **Problème/explication:**  
-Folgende Tabelle gibt eine grobe Übersicht der Abbildung der vaskulären Stents und Stent-Grafts [gecoverte Stents] in der CHOP.
+Le tableau suivant donne un aperçu général de la représentation des stents et stents grafts [stents couverts] vasculaires dans la CHOP.
   
 {{</markdown>}}
 <br><br>
-{{<insertImage image="FAQCHOP0005Tabelle.png" class="edge max-w-90">}}
+{{<insertImage image="FAQCHOP0005TabelleFR.png" class="edge max-w-90">}}
 <br><br>
-Um die Anzahl der implantierten Stents / Stent-Grafts wiederzugeben, ist der entsprechende Kode pro implantierten Stent / Stent-Graft zu erfassen.
-Die Zusatzkodes, die es erlaubten, die Summe, der über den Aufenthalt implantierten Stents / Stent-Grafts zu erfassen, wurden aus der CHOP entfernt.
-Nota bene: Die Resektion von Blutgefässen mit Ersatz (s. 38.4-) wird in dieser Klarstellung/FAQ bewusst nicht erwähnt.
+Afin de refléter le nombre de stents / stents grafts, le code correspondant doit être saisi pour chaque stent / stent graft implanté.
+Les codes supplémentaires qui permettaient de saisir le nombre total de stents/stents grafts vasculaires implantés pendant le séjour ont été supprimés de la CHOP.
+Nota bene: la résection de vaisseaux sanguins avec remplacement (voir 38.4-) n'est délibérément pas mentionnée dans cette clarification/FAQ.
 <br><br><br>  
-<b>Kodierempfehlung:</b>
+<b>Recommandation de codage:</b>
 <br>
-Beispiel für die Aa. coronariae
+Exemple pour les artères coronaires
 <br>
-Zuerst wird der Stent-Typ gewählt, dann identifiziert, ob dieser Stent-Typ in eine oder mehrere Koronararterien implantiert wurde. Der entsprechende Kode wird dann pro implantierten Stent / Stent-Graft von diesem Typ erfasst.
+On choisit d'abord le type de stent, puis on identifie, si ce type de stent a été implanté dans une ou plusieurs artères coronaires. Le code correspondant est ensuite saisi pour chaque stent / stent graft du type implanté.
 <br><br>
-Fallbeispiel:
+Exemple de cas :
 <br>
-Zwei medikamentenfreisetzende Stents werden perkutan-transluminal implantiert, der eine in den Ramus interventricularis anterior der A. coronaria sinistra [RIVA], der andere in den Ramus circumflexus der A. coronaria sinistra [RCX]. Zusätzlich wird ein nicht medikamentenfreisetzender Stent in A. coronaria destra [RCA] perkutan-transluminal implantiert.
+Deux stents avec libération de substances médicamenteuses sont implantés par voie percutanée transluminale, l’un dans la branche antérieure interventriculaire de l'artère coronaire gauche [RIVA], l’autre dans la branche circonflexe de l'artère coronaire gauche [RCX]. De plus, un stent sans libération de substance médicamenteuse est implanté par voie percutanée transluminale dans l’artère coronaire droite [RCA].
 <br><br>
-Kodierung:
+Codage :
 <br>
-<i>36.08.22  Implantation perkutan-transluminal von Stents mit Medikamentenfreisetzung, in mehreren Koronararterien</i><br>
-<i>36.08.22  Implantation perkutan-transluminal von Stents mit Medikamentenfreisetzung, in mehreren Koronararterien</i><br>
-<i>36.08.11  Implantation perkutan-transluminal von Stents ohne Medikamentenfreisetzung, in einer Koronararterie</i><br>
+<i>36.08.22  Implantation par voie transluminale percutanée de stents avec libération de substances médicamenteuses, dans plusieurs artères coronaires</i><br>
+<i>36.08.22  Implantation par voie transluminale percutanée de stents avec libération de substances médicamenteuses, dans plusieurs artères coronaires</i><br>
+<i>36.08.11  Implantation par voie transluminale percutanée de stents sans libération de substance médicamenteuse, dans une artère coronaire</i><br>
 <br>  
 <br>
 
@@ -388,12 +387,12 @@ Kodierung:
 
 
 
-{{<article number="0006"  title="CHOP - Gefässverschlusskörper vs. Embolie-Protektionssysteme" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0006"  title="CHOP - Dispositifs vaso-occlusifs vs. systèmes de protection contre l’embolie" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Mot-clé:</th>
-    <td style="border: 1px solid black;">Gefässverschlusskörper / Embolie-Protektionssysteme / gefässverschliessende Operationen / Interventionen</td>
+    <td style="border: 1px solid black;">Dispositifs vaso-occlusifs /. systèmes de protection contre l’embolie  Opérations / interventions vaso-occlusives</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé le:</th>
@@ -421,18 +420,17 @@ Kodierung:
 **Problème/explication:**
 {{</markdown>}}
 <br>
-<u>Gefässverschliessende Operationen</u><br>
-    In der CHOP existieren Kodes für gefässverschliessende Operationen/Interventionen, die s.g. Embolisationen mit Coils, Plugs, Schirmen usw., z. B. 39.79.2- <i>Coil-Embolisation oder -Verschluss von sonstigen Gefässen</i>, <i>39.79.5- Selektive Embolisation von sonstigen Gefässen mit Schirmen</i> oder 39.79.A- <i>Selektive Embolisation von sonstigen Gefässen mit Plugs</i> usw. 
+<u>Opérations/interventions vaso-occlusives</u><br>
+    Dans la CHOP, il existe des codes pour les opérations/interventions vaso-occlusives, appelées embolisations par coils, plugs, filtres (parapluie), etc., par exemple 39.79.2- <i>Embolisation ou occlusion par coils, autres vaisseaux</i>, 39.79.5- <i>Embolisation sélective d’autres vaisseaux par filtres [parapluie]</i> ou 39.79.A- <i>Embolisation sélective d’autres vaisseaux par plugs</i>.
 <br><br>
-Des Weiteren stehen die Zusatzkodes aus der Subkategorie 00.4A.- <i>Anzahl verwendeter endovaskulärer Coils</i> und 00.4G.- <i>Einsetzen von Gefässverschlusskörpern</i> zur Verfügung. 
+Les codes supplémentaires de la catégorie 00.4A.- <i>Nombre de coils endovasculaires utilisés</i> et 00.4G.- <i>Insertion de corps d’obturation vasculaire</i> sont également disponibles.
+Les codes supplémentaires des sous-catégories 00.4G.2- à 00.4G.6- <i>Filtres [parapluie] vasculaires implantés dans des vaisseaux thoraciques, abdominaux et périphériques, selon le nombre</i> ne sont valables que pour la représentation des dispositifs utilisés dans le contexte d’opérations/interventions vaso-occlusives (par ex. embolisations sélectives). Les codes sous 00.4G.- ne doivent pas être utilisés pour les systèmes de protection contre l’embolie. 
+
 <br><br>
-Die Zusatzkodes der Elementegruppen von 00.4G.2- bis 00.4G.6-<i> Eingesetzte vaskuläre Schirme in [...], nach Anzahl</i>, gelten nur für die Abbildung der verwendeten Devices im Kontext von gefässverschliessenden Operationen/Interventionen (z. B. selektive Embolisationen) als Zusatzkodes. 
-Die Kodes unter 00.4G.- sind für Embolie-Protektionssysteme nicht zu verwenden. 
+<u>Systèmes de protection contre l’embolie</u><br>
+Le code supplémentaire 39.E1 <i>Utilisation d’un système de protection anti-embolie</i> permet de saisir les systèmes de protection anti-embolie péri-interventionnels.
 <br><br>
-<u>Embolie-Protektionssysteme</u><br>
-Der Zusatzkode 39.E1 <i>Verwendung eines Embolie-Protektionssystems</i> ermöglicht die Erfassung von periinterventionellen Embolie-Protektionssystemen. 
-<br><br>
-Die Kodes 38.7X.11 <i>Einsetzen eines Embolie-Protektionssystems in die Vena cava, offen chirurgisch</i>, 38.7X.21 <i>Einsetzen eines Embolie-Protektionssystems in die Vena cava, perkutan-transluminal</i>, <i>39.75.13 Perkutan-transluminale Gefässintervention, sonstige Gefässe, Embolie-Protektionssystem (periphere oder viszerale Gefässe)</i> stellen permanente Systeme dar.
+Les codes 38.7X.11 <i>Insertion d’un système de protection anti-embolie dans la veine cave, par chirurgie ouverte</i>, 38.7X.21 <i>Insertion d’un système de protection anti-embolie dans la veine cave, par voie transluminale percutanée</i>, 39.75.13 <i>Intervention vasculaire transluminale percutanée, autres vaisseaux, système de protection anti-embolie (vaisseaux périphériques ou viscéraux)</i> représentent des systèmes permanents.
 <br>  
 <br>
   
@@ -441,12 +439,12 @@ Die Kodes 38.7X.11 <i>Einsetzen eines Embolie-Protektionssystems in die Vena cav
 
 
 
-{{<article number="0007"  title="CHOP - Sonstige Operationen an den Gallenwegen " collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0007"  title="CHOP - Autres opérations des voies biliaires" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Mot-clé:</th>
-    <td style="border: 1px solid black;">Gallenwege / offen chirurgische / laparoskopische Eingriffe</td>
+    <td style="border: 1px solid black;">Voies biliaires / chirurgie ouverte / interventions laparoscopiques</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé le:</th>
@@ -471,18 +469,18 @@ Die Kodes 38.7X.11 <i>Einsetzen eines Embolie-Protektionssystems in die Vena cav
 </table>
 
 <b>Problème/explication:</b><br>
-Folgende Kodes der Subkategorie 51.99.- Sonstige Operationen an den Gallenwegen sind nur für offen chirurgische oder laparoskopische Eingriffe abzubilden:
+Les codes suivants de la sous-catégorie 51.99.- <i>Autres opérations des voies biliaires</i> ne doivent être utilisés que pour les interventions chirurgicales ouvertes ou laparoscopiques :
 <body>
     <ul>
-        <li>51.99.00 <i>n.n.bez.</i> und 51.99.99 <i>sonstige</i></li>
-        <li>51.99.11 <i>Destruktion an den Gallengängen</i></li>
-        <li>51.99.12 <i>Einlage einer Drainage in den Gallengang</i></li>
-        <li>51.99.13 <i>Blutstillung an den Gallengängen</i></li>
-        <li>51.99.14 <i>Revision an den Gallengängen</i></li>
-        <li>51.99.91 <i>Sonstige Rekonstruktion der Gallenwegen</i></li>
+        <li>51.99.00 <i>Autre opération des voies biliaires, SAP</i> und 51.99.99 <i>autre</i></li>
+        <li>51.99.11 <i>Destruction aux voies biliaires</i></li>
+        <li>51.99.12 <i>Insertion de drain des voies biliaires</i></li>
+        <li>51.99.13 <i>Hémostase des voies biliaires</i></li>
+        <li>51.99.14 <i>Révision des voies biliaires</i></li>
+        <li>51.99.91 <i>Autre réparation des voies biliaires</i></li>
     </ul>
 </body>
-Der Kode 51.99.90 Sonstige endoskopische Operationen an den Gallenwegen, wie im Titel angegeben, ist nur für endoskopische Interventionen zu erfassen.
+Le code 51.99.90 <i>Autre opération endoscopique des voies biliaires</i>, comme indiqué dans le titre, ne doit être utilisé que pour les interventions endoscopiques.
 <br>  
 <br>
   
@@ -491,12 +489,12 @@ Der Kode 51.99.90 Sonstige endoskopische Operationen an den Gallenwegen, wie im 
 
 
 
-{{<article number="0008"  title="CHOP - Wechsel einer Knieendoprothese und Implantation weiterer/anderer Komponenten" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0008"  title="CHOP - Remplacement d’endoprothèse de genou et implantation d’autres composantes/de composantes supplémentaires" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Mot-clé:</th>
-    <td style="border: 1px solid black;">Wechsel Knieendoprothese / Implantation Knieendoprothese / Wechsel Komponenten / Patella-Rückflächenersatz</td>
+    <td style="border: 1px solid black;">Remplacement de prothèse totale du genou / Implantation de prothèse totale du genou /<br> Remplacement de composants / Remplacement de la surface postérieure de la rotule</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé le:</th>
@@ -521,11 +519,11 @@ Der Kode 51.99.90 Sonstige endoskopische Operationen an den Gallenwegen, wie im 
 </table>
 <br>
 <b>Problème/explication:</b><br>
-Wird eine bestehende Knieendoprothese, unabhängig vom Typ, durch eine andere Knieendoprothese ersetzt, ist für die Implantation der Kode mit der Bezeichnung «bei einem Prothesenwechsel» zu wählen. 
+Si une prothèse totale du genou existante, quel que soit son type, est remplacée par une autre prothèse totale du genou, il convient de sélectionner le code « lors d'un remplacement de prothèse » pour l'implantation. 
 <br><br>
-Z. B. Explantation einer Hemiendoprothese und Implantation einer Totalendoprothese am gleichen Knie: für die Implantation muss der Kode 81.54.31 <i>Implantation einer Standard-Totalendoprothese des Kniegelenks bei einem Prothesenwechsel</i> erfasst werden und <b>nicht</b> der Kode 81.54.21 <i>Erstimplantation einer Standard-Totalendoprothese des Kniegelenks</i>.
-<br><br>
-Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückflächenersatz eingesetzt, muss der Kode 81.54.42 <i>Implantation eines Patella-Rückflächenersatz bei einem Wechsel</i> erfasst werden und <b>nicht</b> der Kode 81.54.27 <i>Erstimplantation eines Patella-Rückflächenersatzes</i>.
+Par exemple, explantation d'une hémi-endoprothèse et implantation d'une endoprothèse totale sur le même genou : pour l'implantation, il faut saisir le code 81.54.31 <i>Implantation d'une endoprothèse totale standard du genou lors d'un remplacement de prothèse</i> et <br>non</br> le code 81.54.21 Première implantation d'une endoprothèse totale standard du genou.
+Si, lors du remplacement d'une endoprothèse du genou, un remplacement de la face arrière de la rotule est utilisé pour la première fois, il faut saisir le code 81.54.42 <i>Implantation d'un remplacement de la face arrière de la rotule lors d'un remplacement</i> et <br>non</br> le code 81.54.27 <i>Première implantation d'un remplacement de la face arrière de la rotule</i>.
+
 <br>
 <br>
 
@@ -534,12 +532,12 @@ Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückfl
 
 
 
-{{<article number="0009"  title="CHOP - «Einzeitige Eingriffe an Mittelhand- und Fingerstrahlen oder Mittelfuss- und Zehenstrahlen»" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0009"  title="CHOP - Interventions en un temps, sur des rayons métacarpiens et des doigts ou sur des rayons métatarsiens et des orteils" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Mot-clé:</th>
-    <td style="border: 1px solid black;">Eingriffe Hand, Fuss, Mittelhand- Fingerstrahlen, Mittelfuss-Zehenstrahlen</td>
+    <td style="border: 1px solid black;">Interventions sur la main, le pied, le métacarpe, les rayons des doigts, le métatarse et les rayons des orteils</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé le:</th>
@@ -564,7 +562,7 @@ Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückfl
 </table>
 
 <b>Problème/explication:</b><br>
-Folgende Tabelle präzisiert die Kodierung von Eingriffskode und Zusatzkode bei einzeitigen Mehrfacheingriffen, am Beispiel der Hand.
+Le tableau suivant précise, par l’exemple de la main, le codage avec le code d’intervention et le code supplémentaire lors d’interventions multiples en un temps.
 <br><br>
 {{<insertImage image="FAQCHOP0008Tabelle.png" class="edge max-w-90">}}
 <br>  
@@ -575,12 +573,12 @@ Folgende Tabelle präzisiert die Kodierung von Eingriffskode und Zusatzkode bei 
 
 
 
-{{<article number="0010"  title="CHOP - Lateralitätsmarkierung in der CHOP" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0010"  title="CHOP - Indication de la latéralité" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Mot-clé:</th>
-    <td style="border: 1px solid black;">Lateralitätsmarkierung / paarige Organe / nicht- paarige Organe</td>
+    <td style="border: 1px solid black;"><br>Indication de la latéralité</br> / organes existant par paires / organes non présents par paire</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé le:</th>
@@ -605,7 +603,7 @@ Folgende Tabelle präzisiert die Kodierung von Eingriffskode und Zusatzkode bei 
 </table>
 
 <b>Erläuterung:</b><br>
-Die Angabe der Lateralität ist nur bei paarigen Organen ein Muss (entsprechende Kennzeichnung in der CHOP mit «[L]» in der PDF- Datei oder «Lateral» in der CSV-Datei). Bei nicht paarigen Organen oder Körperteilen «kann» die Lateralität erfasst werden, «muss» aber nicht.
+L’indication de la latéralité n’est impérative que pour les organes existant par paires (la CHOP le spécifie par «L» dans le fichier PDF et par «Lateral» dans le fichier CSV). Pour ce qui est des organes ou parties du corps non présents par paire, l’indication de la latéralité peut être saisie, mais cette saisie n’est pas obligatoire.
 <br>  
 <br>
  
@@ -614,16 +612,16 @@ Die Angabe der Lateralität ist nur bei paarigen Organen ein Muss (entsprechende
 
 
 
-{{<article number="0011"  title="CHOP - Berücksichtigte Therapiedauer Gruppentherapie / Einzeltherapie" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0011"  title="CHOP – Durée de la thérapie prise en compte Thérapie de groupe / Thérapie individuellee" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Mot-clé:</th>
-    <td style="border: 1px solid black;">Zählung Therapieminuten / Gruppentherapie / Einzeltherapie / Therapiedauer</td>
+    <td style="border: 1px solid black;"><br>Comptage des minutes de thérapie / thérapie de groupe / thérapie individuelle / durée de la thérapie</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé le:</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0762</td>
+    <td style="border: 1px solid black;">01/01/2026 – Base Circulaire 2025/2: 0762</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
@@ -645,11 +643,10 @@ Die Angabe der Lateralität ist nur bei paarigen Organen ein Muss (entsprechende
 
 {{<markdown>}}
 **Problème/explication:**  
-Bei einer Gruppentherapie ist die gesamte Therapiedauer zu zählen, an der die Patientin / der Patient anwesend ist. Z. B. wenn fünf Patient/innen an einer Stunde Gruppentherapie mit einer Dauer von 60 Minuten teilgenommen haben, werden bei jeder Patientin/jedem Patienten 60 Minuten Therapiedauer angerechnet. Bei einer Therapiedauer von 50 Minuten werden 50 Minuten angerechnet usw.  
-Wird bei einer Gruppen- oder Einzeltherapie die gleiche Therapieart / Therapieleistung durch zwei oder mehr Therapeuten / Pflegefachpersonen erbracht, ist die erbrachte Therapiezeit einmal zu zählen.  
-Es gilt unabhängig von der Anzahl der Therapeuten, die Therapiezeit am/an den Patienten. Es gilt die Therapiezeit, welche jede/r Patient/in erhalten hat, unabhängig von der Anzahl der Therapeuten.
+Pour une thérapie de groupe, la durée totale des séances de traitement où le patient est présent est prise en compte. Par exemple, si cinq patients ont participé à une heure de thérapie de groupe, une durée de traitement de 60 minutes est prise en compte pour chaque patient.
+Si, dans le cadre d’une thérapie de groupe ou individuelle, le même type de thérapie/prestation thérapeutique est fourni par deux thérapeutes/infirmiers ou plus, le temps de thérapie doit être compté une seule fois. Indépendamment du nombre de thérapeutes, c’est le temps de thérapie consacré au(x) patient(s) qui s’applique.
    
-Ausnahme: Es bestehen CHOP-Kodes, bei denen im Beachte angegeben ist, dass die gleiche Therapieart / Therapieleistung, die durch zwei oder mehr Therapeutinnen / Therapeuten / Pflegefachpersonen erbracht wird, die Zeit pro Therapeutin / Therapeut / Pflegefachperson zu zählen ist.
+Exception: pour certains codes CHOP, il est indiqué en note que si le même type de thérapie/prestation thérapeutique est fourni par deux thérapeutes/infirmiers ou plus, il faut compter le temps par thérapeute/infirmier.
 {{</markdown>}}
 <br>  
 <br>
@@ -658,16 +655,16 @@ Ausnahme: Es bestehen CHOP-Kodes, bei denen im Beachte angegeben ist, dass die g
 
 
 
-{{<article number="0012"  title="CHOP - Abgrenzung 93.59.5- und 99.84.1-, 99.84.2-, 99.84.3-" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0012"  title="Distinction entre 93.59.5- et 99.84.1-, 99.84.2-, 99.84.3-" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Mot-clé:</th>
-    <td style="border: 1px solid black;">Isolationsmassnahmen / Isolierung / Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern</td>
+    <td style="border: 1px solid black;">Mesures d'isolement / isolement / traitement complexe en cas de colonisation ou d'infection par des agents infectieux multirésistants</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé le:</th>
-    <td style="border: 1px solid black;">Créé le::	01.01.2026 – Basis RS 2025/2: 0758/2</td>
+    <td style="border: 1px solid black;">01/01/2026 - Base Circulaire 2025/2: 0758/2</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
@@ -688,8 +685,7 @@ Ausnahme: Es bestehen CHOP-Kodes, bei denen im Beachte angegeben ist, dass die g
 </table>
 
 <b>Problème/explication:</b><br>
-Unter den Elementegruppen 99.84.1- <l>Kontaktisolierung, nach Anzahl Behandlungstage,</l> 
-99.84.2- <l>Tröpfchenisolierung, […]</l> und 99.84.3- <l>Aerosolisolierung, […]</l> ist folgendes «Exklusivum – Kode weglassen» angegeben: 
+Sous les groupes d’éléments 99.84.1- <i>Isolement de contact, selon le nombre de jours de traitement<i/>, 99.84.2- <i>Isolement contre l’infection par gouttelettes, selon le nombre de jours de traitement, […]</i> et 99.84.3- <i>Isolement contre l’infection par aérosol, selon le nombre de jours de traitement, […]</i>, figure l’«Exclusion – Omettre le code» suivante: 
 <br>
 <br>
 {{<grid class="ps-0">}}
@@ -698,12 +694,12 @@ Unter den Elementegruppen 99.84.1- <l>Kontaktisolierung, nach Anzahl Behandlungs
     {{</grid/column>}}
     {{<grid/column>}}
         {{<markdown>}}
-EXKL. «Kode weglassen - Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage (93.59.5-)».     
+EXCL. Omettre le code - Traitement complexe de colonisation ou d’infection à agents infectieux multirésistants, selon le nombre de jours de traitement (93.59.5 ).
         {{</markdown>}}
     {{</grid/column>}}
 {{</grid>}}
 <br>
-Dies bedeutet, dass die zeitgleiche Kodierung von 93.59.5- und 99.84.1-, 99.84.2-, 99.84.3- nicht gestattet ist. Werden 99.84.1-, 99.84.2-, 99.84.3- zeitlich versetzt erbracht zur 93.59.5- können die Kodes im gleichen Fall erfasst werden. Die Erfassung von 99.84.1-, 99.84.2-, 99.84.3- darf nie für das gleiche Zeitintervall wie 93.59.5- erfolgen.
+Cela signifie qu’il n’est pas admis de coder simultanément 93.59.5- et 99.84.1-, 99.84.2-, 99.84.3-. Lorsque 99.84.1-, 99.84.2-, 99.84.3- ne sont pas appliquées en même temps que 93.59.5-, ces codes peuvent être saisis pour le même cas. La saisie de 99.84.1-, 99.84.2-, 99.84.3- ne doit jamais être effectuée pour le même intervalle de temps que 93.59.5-.
 <br>  
 <br>
   
@@ -715,16 +711,16 @@ Dies bedeutet, dass die zeitgleiche Kodierung von 93.59.5- und 99.84.1-, 99.84.2
 
 
 
-{{<article number="0013"  title="CHOP - Berechnung der Aufenthaltstage für Kodes der Elementegruppe 93.59.5-" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0013"  title="CHOP - Calcul des jours de séjour pour les codes du groupe d’éléments 93.59.5-" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Mot-clé:</th>
-    <td style="border: 1px solid black;">Infektion mit multiresistenten Erregern / Isolationsmassnahme</td>
+    <td style="border: 1px solid black;">Infection à agents infectieux multirésistants / Mesures d'isolement</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé le:</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0758/1</td>
+    <td style="border: 1px solid black;">01/01/2026 - Base Circulaire 2025/2: 0758/1 </td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
@@ -746,7 +742,7 @@ Dies bedeutet, dass die zeitgleiche Kodierung von 93.59.5- und 99.84.1-, 99.84.2
 
 {{<markdown>}}
 **Problème/explication:**  
-Zur Berechnung der Behandlungstage für die CHOP-Kodes der Elementegruppe 93.59.5- _Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage_ darf bei Erfüllung der Mindestmerkmale der Eintritts- sowie Austrittstag nur als **ein Behandlungstag** angerechnet werden.
+Pour le calcul des jours de traitement sous les codes du groupe d'éléments CHOP 93.59.5- <i>Traitement complexe de colonisation ou d’infection à agents infectieux multirésistants, selon le nombre de jours de traitement, le jour d’entrée et le jour de sortie</i> ne doivent être comptés que comme <b>un seul jour de traitement</b> si les caractéristiques minimales sont remplies.
 {{</markdown>}}
 <br>  
 <br>
@@ -756,16 +752,16 @@ Zur Berechnung der Behandlungstage für die CHOP-Kodes der Elementegruppe 93.59.
 
 
 
-{{<article number="0014"  title="CHOP - Komplexbehandlungen - Kode «[…], bis 6 Behandlungstage" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0014"  title="CHOP - Codes des traitements complexes «[…], jusqu’à 6 jours de traitement»" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Mot-clé:</th>
-    <td style="border: 1px solid black;">Komplexbehandlungen / 6 Behandlungstage /  Mindestmerkmale</td>
+    <td style="border: 1px solid black;">Traitements complexes / 6 jours de traitement / caractéristiques minimales</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé le:</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0782</td>
+    <td style="border: 1px solid black;">01/01/2026 - Base Circulaire 2025/2: 0782</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
@@ -787,8 +783,8 @@ Zur Berechnung der Behandlungstage für die CHOP-Kodes der Elementegruppe 93.59.
 
 {{<markdown>}}
 **Problème/explication:**  
-Die Kodes «[…], bis 6 Behandlungstage» werden in Fällen erfasst, bei denen während des stationären Aufenthalts an maximal 6 Behandlungstagen die jeweils genannte Komplexbehandlung durchgeführt wurde. Diese Kodes beinhalten keine Mindestanzahl Behandlungstage.  
-D. h. bei diesen Kodes entfallen die Mindestmerkmale, die sich auf eine Woche oder bestimmte Anzahl Behandlungstage beziehen. Mindestmerkmale, wie Indikationen, Assessments, Behandlungsinfrastruktur (z. B. Zertifizierung) und Qualifikationen sind einzuhalten
+Les codes «[…], jusqu’à 6 jours de traitement» sont saisis dans les cas où le traitement complexe respectivement désigné a été réalisé sur maximum 6 jours de traitement pendant le séjour hospitalier. Ces codes ne contiennent pas de nombre minimal de jours de traitement. 
+Cela signifie que, pour ces codes, les caractéristiques minimales qui se rapportent à une semaine ou à un nombre particulier de jours de traitement ne s’appliquent pas. Les caractéristiques minimales, telles que les indications, les évaluations, l’infrastructure de traitement (par ex. la certification) et les qualifications doivent être respectées.
 
 {{</markdown>}}
 <br>  
@@ -799,16 +795,16 @@ D. h. bei diesen Kodes entfallen die Mindestmerkmale, die sich auf eine Woche od
 
 
 
-{{<article number="0015"  title="CHOP - Neurologische Befunderhebung des Stroke" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0015"  title="CHOP - Examen neurologique de l'AVC" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Mot-clé:</th>
-    <td style="border: 1px solid black;">Stroke Unit / Stroke Center, Komplexdiagnostik des akuten Hirnschlags in Stroke Unit oder Stroke Center /<br> neurologische Befunderhebung / Auslegung Mindestmerkmal Punkt 3</td>
+    <td style="border: 1px solid black;">Unité de soins spécialisée dans les AVC / centre de soins spécialisé dans les AVC / diagnostic complexe de l'accident vasculaire cérébral aigu dans une unité de soins spécialisée dans les AVC ou un centre de soins spécialisé dans les AVC / examen neurologique / interprétation de la caractéristique minimale point 3</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé le:</th>
-    <td style="border: 1px solid black;">01.01.2026 - Neu</td>
+    <td style="border: 1px solid black;">01/01/2026 - Nouveau</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
@@ -830,14 +826,14 @@ D. h. bei diesen Kodes entfallen die Mindestmerkmale, die sich auf eine Woche od
 
 {{<markdown>}}
 **Problème/explication:**  
-Gemäss dem offiziellen Referenzdokument zur Zertifizierung von Stroke Units und Stroke Centern (Version V vom 18.11.2021, Swiss Federation of Clinical Neuro-Societies SFCNS) muss der klinisch-neurologische Befund mindestens viermal innerhalb von 24 Stunden systematisch überprüft werden.
+Selon le document de référence officiel pour la certification des unités et centres de prise en charge des AVC (version V du 18 novembre 2021, Swiss Federation of Clinical Neuro-Societies SFCNS), les résultats cliniques et neurologiques doivent être systématiquement vérifiés au moins quatre fois en 24 heures.
   
-Der vom jeweiligen Stroke Center oder der Stroke Unit etablierte Prozess zur Früherkennung von Hirnschlagprogression, Rezidiven und anderen neurologischen Komplikationen wird im Rahmen der Zertifizierung evaluiert und durch eine erfolgreiche Zertifizierung in seiner Validität bestätigt.
+Le processus mis en place par le centre de prise en charge des AVC ou l'unité de soins spécialisée dans les AVC pour le dépistage précoce de la progression de l'AVC, des récidives et d'autres complications neurologiques est évalué dans le cadre de la certification et sa validité est confirmée par une certification réussie.
   
-Die Subkategorie 99.A7 _Komplexdiagnostik des akuten Hirnschlags in Stroke Unit oder Stroke Center, bis maximal 24 Stunden_ und die Elementegruppen 99.BA.1- _Neurologische Komplexbehandlung des akuten Hirnschlags in Stroke Center [SC], nach Behandlungsdauer in Stunden_ und 99.BA.2- _Neurologische Komplexbehandlung des akuten Hirnschlags in einer Stroke Unit [SU], nach Behandlungsdauer in Stunden_ verweisen auf die erwähnten Referenzdokumente. Entsprechend ist die klinische Überwachung bei diesen Kodes gemäss den Vorgaben durchzuführen und zu dokumentieren. 
+La sous-catégorie 99.A7 <i>Diagnostic complexe de l’AVC aigu en stroke unit ou stroke center, jusqu’à 24 heures maximum</i>, et les groupes d'éléments 99.BA.1 - <i>Traitement neurologique complexe de l’AVC aigu en stroke center [SC], selon la durée de traitement en heures</i>, et 99.BA.2- <i>Traitement neurologique complexe de l’AVC aigu en stroke unit [SU], selon la durée de traitement en heures</i> renvoient aux documents de référence mentionnés. En conséquence, la surveillance clinique pour ces codes doit être effectuée et documentée conformément aux spécifications. 
 
-Wichtig:<br>
-Die **alleinige** Erfassung des Glasgow Coma Scale (GCS) ist für den klinisch neurologischen Befund zur Hirnschlag-Überwachung im Anwendungsbereich der 99.A7, 99.BA.1- und 99.BA.2- nicht ausreichend.
+Important:<br>
+la <b>seule</b> saisie de l'échelle de Glasgow (GCS) n'est pas suffisante pour le diagnostic neurologique clinique dans le cadre de la surveillance des accidents vasculaires cérébraux dans le champ d'application des codes 99.A7, 99.BA.1 et 99.BA.2.
 
 {{</markdown>}}
 <br>  
@@ -847,16 +843,16 @@ Die **alleinige** Erfassung des Glasgow Coma Scale (GCS) ist für den klinisch n
 {{</article>}}
 
 
-{{<article number="0016"  title="CHOP - Auflistung von Massnahmen in den Komplexbehandlungen oder Komplexdiagnostiken" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0016"  title="CHOP - Énumération de mesures dans les traitements complexes ou les diagnostics complexes" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Mot-clé:</th>
-    <td style="border: 1px solid black;">Massnahmen Komplexdiagnostiken / Komplexbehandlungen, Therapiebereiche / Mindestmerkmale</td>
+    <td style="border: 1px solid black;">Mesures Diagnostics complexes / traitements complexes, domaines thérapeutiques / caractéristiques minimales</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé le:</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0761</td>
+    <td style="border: 1px solid black;">01/01/2026 - Base Circulaire 2025/2: 0761</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
@@ -878,28 +874,29 @@ Die **alleinige** Erfassung des Glasgow Coma Scale (GCS) ist für den klinisch n
 
 {{<markdown>}}
 **Problème/explication:**  
-In den Beachte zu den Komplexbehandlungen oder Komplexdiagnostiken angegebene Auflistungen, die auf Sätze folgen im Sinne von «Einsatz von mindestens x Therapiebereichen» oder «Mindestens x der folgenden Massnahmen», bedeuten, dass mindestens x verschiedene der aufgelisteten Therapiebereiche oder Massnahmen zum Einsatz kommen. Der Einsatz / die Durchführung von x-mal der gleichen Massnahme / des gleichen Therapiebereichs erfüllt die Mindestanforderungen nicht.
-Beispiel: Unter 99.A6.- <i>Neurologische Komplexdiagnostik</i> wird im «Beachte» folgende Auflistung aufgeführt:
+Dans les notes concernant les traitements complexes ou les diagnostics complexes, les éléments de texte «au moins x des disciplines thérapeutiques suivantes» ou «au moins x des mesures suivantes» signifient qu’au moins x des disciplines thérapeutiques ou des 
+mesures énumérées sont appliquées. Appliquer x fois la même mesure ou la même discipline thérapeutique ne correspond pas aux caractéristiques minimales. 
+Exemple: La note sous 99.A6.- <i>Diagnostic neurologique complexe</i> contient la liste ci-après:
 {{</markdown>}}
 <br>
 <br>
-Beachte:&nbsp	&nbsp	&nbsp 	[…]<br><br>
-mind. 3 der folgenden Massnahmen:
+Note:&nbsp	&nbsp	&nbsp 	[…]<br><br>
+au moins trois des mesures suivantes:
 <body>
     <ul>
-        <li>LP (Liquorentnahme über Lumbalpunktion),</li>
-        <li>craniale und spinale MRI,</li>
-        <li>funktionelle Bildgebung (z. B. PET, SPECT),</li>
-        <li>Diffusion Imaging, Perfusion Imaging</li>
-        <li>volumetrische und morphometrische Bildanalyse,</li>
-        <li>elektrophysiologische (neurophysiologische) Diagnostik,</li>
-        <li>neurosonologische/psychologische/psychiatrische Diagnostik,</li>
-        <li>neuropsychologische Diagnostik,</li>
-        <li>Elektroenzephalographie [EEG] (mobiles Langzeit-EEG über mindestens 24 Stunden oder mehr und polygraphisches Nachtschlaf-EEG und video- und radiotelemetriertes elektroenzephalographisches Monitoring über mindestens 4 Stunden und Orthostase-EEG)</li>
+        <li>PL (prélèvement de LCR par ponction lombaire),</li>
+        <li>IRM crânienne et spinale,</li>
+        <li>imagerie fonctionnelle (p. ex. PET, SPECT),</li>
+        <li>imagerie de diffusion, imagerie de perfusion,</li> 
+        <li>analyse volumétrique et morphométrique d’image,</li>
+        <li>diagnostic électrophysiologique (neurophysiologique),</li>
+        <li>diagnostic neurosonologique/psychologique/psychiatrique,</li>
+        <li>diagnostic neuropsychologique,</li>
+        <li>électroencéphalographie [EEG] (EEG mobile de longue durée sur au moins 24 heures ou plus et EEG polysomnographique et monitoring-encéphalographique par vidéo et radio-télémétrie sur au moins 4 heures et EEG en position orthostatique)
+</li>
     </ul>
 </body>
-Wird dreimal ein EEG durchgeführt ohne zwei weitere der aufgelisteten Massnahmen sind die Mindestmerkmale nicht erfüllt und ein Kode der Subkategorie 99.A6.- kann nicht erfasst werden.
-Werden hingegen ein craniales MRI, eine neurophysiologische Diagnostik sowie ein mobiles Langzeit-EEG über mindestens 24 Stunden durchgeführt mit Erfüllen der anderen Mindestmerkmale, kann ein Kode der Subkategorie 99.A6.- erfasst werden.
+Si un EEG est réalisé à trois reprises sans que deux autres des mesures énumérées soient appliquées, les caractéristiques minimales ne sont pas remplies, de sorte qu’il n’est pas possible d’utiliser un code de la sous-catégorie 99.A6.-. Si l’activité comprend au contraire une IRM crânienne, un diagnostic neurophysiologique et un EEG mobile de longue durée sur au moins 24 heures et que les autres caractéristiques minimales sont remplies, il est possible d’utiliser un code de la sous-catégorie 99.A6.-.
 <br>  
 <br>
   
@@ -908,16 +905,16 @@ Werden hingegen ein craniales MRI, eine neurophysiologische Diagnostik sowie ein
 
 
 
-{{<article number="0017"  title="CHOP - 99.C- Pflege-Komplexbehandlung – Zuordnung einer Pflegeintervention nur zu einer Leistungsgruppe" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0017"  title="CHOP - 99.C- Traitement de soins infirmiers complexes – affectation d’une intervention à un seul groupe de prestations" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Mot-clé:</th>
-    <td style="border: 1px solid black;">Pflege-Komplexbehandlung / Leistungsgruppen / Pflegeinterventionen</td>
+    <td style="border: 1px solid black;">Traitement infirmier complexe / Groupes de prestations / Interventions infirmières</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé le:</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0760</td>
+    <td style="border: 1px solid black;">01/01/2026 – Base Circulaire 2025/2: 0760</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
@@ -939,11 +936,11 @@ Werden hingegen ein craniales MRI, eine neurophysiologische Diagnostik sowie ein
 
 {{<markdown>}}
 **Problème/explication:**  
-Pflegeinterventionen könnten theoretisch mehreren Leistungsgruppen zugeordnet werden. In der Pflege-Komplexbehandlung darf eine geleistete Pflegeintervention jedoch nur einer Leistungsgruppe zugeordnet werden. Dies bedeutet nicht, dass sie zwingend der Leistungsgruppe zugeordnet wird in der bereits Aufwandspunkte für diesen Tag erfasst wurden.
+Les interventions infirmières pourraient théoriquement être affectées à plusieurs groupes de prestations. Dans le cas des soins infirmiers complexes, une intervention de soins fournie ne peut toutefois être affectée qu’à un seul groupe de prestations. Cela ne signifie pas qu’elle sera obligatoirement affectée au groupe de prestations dans lequel des points ont déjà été saisis pour cette journée.
   
-Beispiel 1: Ein «Transfer auf die Toilette» könnte im Rahmen des Pflegeinterventionsprofils 1.1 der Leistungsgruppe 1 «Bewegung» oder im Rahmen des Pflegeinterventionsprofils 3.1 der Leistungsgruppe 3 «Ausscheidung» geleistet werden. Wenn die Aktivität unter der Leistungsgruppe 1 erfasst wird, darf sie nicht zusätzlich bei der Leistungsgruppe 3 erfasst werden, oder umgekehrt. Die Aktivität darf nur einem der zwei Pflegeinterventionsprofile zugeordnet werden.
+Exemple 1: un «transfert jusqu’aux toilettes» pourrait être compris dans le groupe de prestations 1 «Mobilité» du profil d’intervention infirmière 1.1 ou dans le groupe de prestations 3 «Excrétion» du profil d’intervention infirmière 3.1. Si l’activité est saisie sous le groupe de prestations 1, elle ne peut pas être également saisie dans le groupe de prestations 3, ou inversement. Elle ne peut être affectée qu’à l’un des deux profils d’intervention infirmière.
   
-Beispiel 2: Eine «Hygienemassnahme» könnte im Rahmen des Pflegeinterventionsprofils 2.1 der Leistungsgruppe 2 «Körperpflege» oder im Rahmen des Pflegeinterventionsprofils 3.1 der Leistungsgruppe 3 «Ausscheidung» geleistet werden. Wenn die Aktivität unter der Leistungsgruppe 2 erfasst wird, darf sie nicht zusätzlich bei der Leistungsgruppe 3 erfasst werden, oder umgekehrt. Die Aktivität darf nur einem der zwei Pflegeinterventionsprofile zugeordnet werden.
+Exemple 2: une «mesure d’hygiène» pourrait appartenir au groupe de prestations 2 «Soins d’hygiène corporelle» dans le profil d’intervention infirmière 2.1 ou au groupe de prestations 3 «Excrétion» dans le profil d’intervention infirmière 3. Si l’activité est saisie sous le groupe de prestations 2, elle ne peut pas être également saisie dans le groupe de prestations 3, ou inversement. Elle ne peut être affectée qu’à l’un des deux profils d’intervention infirmière.
 {{</markdown>}}
 <br>  
 <br>
@@ -953,16 +950,16 @@ Beispiel 2: Eine «Hygienemassnahme» könnte im Rahmen des Pflegeinterventionsp
 
 
 
-{{<article number="0018"  title="CHOP - Palliativmedizin - Fallzusammenführung und PBA" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0018"  title="CHOP - Regroupement de cas et examen de base de médecine palliative, standardisé (PBA)" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Mot-clé:</th>
-    <td style="border: 1px solid black;">Fallzusammenführung / PBA</td>
+    <td style="border: 1px solid black;">Regroupement de cas / PBA</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé le:</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0754/5</td>
+    <td style="border: 1px solid black;">01/01/2026 – Base Circulaire 2025/2: 0754/5</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
@@ -985,14 +982,14 @@ Beispiel 2: Eine «Hygienemassnahme» könnte im Rahmen des Pflegeinterventionsp
 {{<markdown>}}
 
 **Fragestellung:**  
-Ist das standardisierte palliativmedizinische Basisassessment [PBA] bei der Rückkehr eines Patienten / einer Patientin im Rahmen einer Fallzusammenführung zu wiederholen?
+L'évaluation palliative standardisée de base [PBA] doit-elle être répétée lors du retour d'un patient / d'une patiente dans le cadre d'une fusion de cas ?
   
 
 **Problème/explication:**  
-Folgende Fragestellung und Erläuterung bezieht sich auf die Elementegruppe 93.8A.2- _Palliativmedizinische Komplexbehandlung (ausserhalb einer eigenständigen spezialisierten Palliative Care Station), nach Anzahl Behandlungstage_ und die Subkategorie 93.8B.- _Behandlung auf einer eigenständigen spezialisierten Palliative Care Station_.
+La question et l'explication suivantes se réfèrent au groupe d'éléments 93.8A.2- _Traitement complexe de médecine palliative (hors d’un service spécialisé autonome de soins palliatifs), selon le nombre de jours de traitement_, et à la sous-catégorie 93.8B.- _Traitement en service spécialisé autonome de soins palliatifs_.
   
-Erläuterung:  
-Bei einer Fallzusammenführung mit palliativmedizinischer Komplexbehandlung im ersten Fall ist nach der Rückkehr der Patientin / des Patienten das PBA zu aktualisieren (d.h. nicht, dass es vollständig erneut durchgeführt werden muss. Es kann auch nur dokumentiert werden, dass die Werte des vorherigen PBAs weiter gelten).
+Explication:  
+Lors d’un regroupement de cas avec un traitement complexe de médecine palliative dans le premier cas, il convient de mettre à jour le PBA après le retour du patient ou de la patiente. (Cela ne signifie pas qu’un nouvel examen de base complet doit être entrepris. Il suffit de documenter que les valeurs du PBA précédent restent valables.)
 
 {{</markdown>}}  
 <br>  
@@ -1003,16 +1000,16 @@ Bei einer Fallzusammenführung mit palliativmedizinischer Komplexbehandlung im e
 
 
 
-{{<article number="0019"  title="CHOP - Palliativmedizin - Erläuterungen zu den Mindestmerkmalen" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0019"  title="Médecine palliative - Explications relatives aux caractéristiques minimales" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Mot-clé:</th>
-    <td style="border: 1px solid black;">Interprofessionelle Teambesprechung / palliativmedizinische Komplexbehandlung / Palliative care</td>
+    <td style="border: 1px solid black;">Réunion d'équipe interprofessionnelle / traitement palliatif complexe / soins palliatifs</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé le:</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0754/2, 0754/3, 0754/4</td>
+    <td style="border: 1px solid black;">01.01.2026 – Base Circulaire 2025/2: 0754/2, 0754/3, 0754/4</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
@@ -1032,49 +1029,51 @@ Bei einer Fallzusammenführung mit palliativmedizinischer Komplexbehandlung im e
   </tr>
 </table>
 
-Folgende Fragestellungen und Erläuterungen beziehen sich auf die Elementegruppe 93.8A.2- <i>Palliativmedizinische Komplexbehandlung (ausserhalb einer eigenständigen spezialisierten Palliative Care Station), nach Anzahl Behandlungstage</i> und die Subkategorie 93.8B.- <i>Behandlung auf einer eigenständigen spezialisierten Palliative Care Station</i>.
+Les questions et explications suivantes concernent le groupe d’éléments 93.8A.2- Traitement complexe de médecine palliative (hors d’un service spécialisé autonome de soins palliatifs), selon le nombre de jours de traitement et la sous-catégorie 93.8B.- Traitement en service spécialisé autonome de soins palliatifs.
 <br>
 <br>
-<b>Fragestellung Nr. 1:</b><br>  
-In Bezug auf Mindestmerkmal Punkt 3, _Behandlungsteam und Therapie_ der 93.8A.2- und _Mindestmerkmal Punkt 3_, Therapie sowie _Mindestmerkmal_ Punkt 4, Behandlungsteam der 93.8B.-: Welche Therapiebereiche gibt es und was wird zu den 6 Stunden gezählt?
+<b>Question n° 1:</b><br>  
+En ce qui concerne la caractéristique minimale point 3, équipe de traitement et thérapie du 93.8A.2- et la caractéristique minimale point 3, thérapie ainsi que la caractéristique minimale point 4, équipe de traitement du 93.8B.- : quels sont les domaines thérapeutiques et qu'est-ce qui est pris en compte dans les 6 heures ?
 <br>
 <br>
-<b>Erläuterung Nr. 1:</b><br>  
-Die Aufzählung der Therapiebereiche (Sozialarbeit/-pädagogik, Psychologie, Physiotherapie, Ergotherapie, Logopädie, Ernährungsberatung/-therapie, Seelsorge, Kunsttherapie) ist sowohl für 93.8A.2- als für 93.8B.- abschliessend. 
+<b>Explication n° 1 :</b><br>  
+La liste des domaines thérapeutiques (travail social/socio-pédagogique/infirmière de liaison, psychologie, physiothérapie, ergothérapie, logopédie, consultation diététique/traitement nutritionnel, accompagnement spirituel, art-thérapie) est exhaustive tant pour 93.8A.2- que pour 93.8B.-.
 <br>
 <br>  
-Grundvoraussetzung für die Kodierung ist die Dokumentation der Gespräche und Therapien. Die Art der Therapie, deren Dauer und das Datum der Durchführung müssen von allen beteiligten Berufsgruppen nachvollziehbar dokumentiert sein.<br>
-Es gibt keine Festlegung für die Mindesttherapiedauer einer Therapieeinheit.<br>
-Die dokumentierten Patienten-, Angehörigen- und Familiengespräche können von allen aufgeführten Berufsgruppen (Arzt, Pflege, Sozialarbeit/-pädagogik, Psychologie, Physiotherapie, Ergotherapie, Logopädie, Ernährungsberatung/-therapie, Seel-sorge, Kunsttherapie) erbracht werden. Zu diesen gehört ebenfalls die Information des Patienten und dessen Angehörigen im Rahmen der Therapie.<br>
-Die dokumentierten und spezifischen Koordinationsaufgaben in direktem Zusammenhang mit dem Behandlungs- und Beratungsprozess sowie die Patienten-, Angehörigen- und Familiengespräche werden den 6 Stunden angerechnet. 
+La documentation des entretiens et des thérapies est la condition de base pour le codage. Le type de thérapie, sa durée et la date à laquelle elle a eu lieu doivent être clairement documentés par tous les groupes de professionnels concernés. Il n’y a pas de prescription fixant la durée minimale d’une unité thérapeutique.  
+Des entretiens documentés avec le patient, les proches et la famille peuvent être effectués par tous les groupes professionnels susmentionnés de l’équipe thérapeutique (médecins, infirmiers, travailleurs sociaux/socio-pédagogues, psychologues, physiothérapeutes, ergothérapeutes, logopédistes, diététiciens, accompagnant spirituel, art-thérapeutes). En font également partie les informations fournies aux patients et à ses proches dans le cadre de la thérapie.  
+Les travaux de documentation et de coordination en lien direct avec le traitement et les conseils prodigués, de même que les entretiens avec les patients, leurs proches et leur famille sont comptés dans les 6 heures.
+
 <br>
 <br>
-Folgendes zählt nicht zu den 6 Stunden:  <br>
-•	Die wöchentlichen interprofessionellen Teambesprechungen und die Wegzeiten,  <br>
-•	Die interprofessionellen Visiten (Mindestmerkmal Punkt 3, Therapie, a) der Subkategorie 93.8B.-).<br>
+Les éléments suivants ne sont pas pris en compte dans les 6 heures :<br>
+•	Les discussions interprofessionnelles en équipe et la durée des déplacements  <br>
+•	Les «visites interprofessionnelles» (Caractéristique minimale point 3, traitement, a) de la sous-catégorie 93.8B.-).<br>
 <br>  
 <br>  
-<b>Fragestellung Nr. 2:</b><br>  
-Was ist unter «wöchentlich» bei der «wöchentlicher interprofessioneller Teambesprechung» unter 93.8A.2- im _Mindestmerkmal_ Punkt 4, _Therapieplanung und -kontrolle_ und unter 93.8B.- im _Mindestmerkmal_ Punkt 5, _Therapieplanung und -kontrolle_?
+<b>Question n° 2:</b><br>  
+Que signifie <b>«Chaque semaine»</b> dans le cadre de la « réunion hebdomadaire de l'équipe interprofessionnelle » sous 93.8A.2- <i>dans la caractéristique minimale point 4, planification et contrôle du traitement,</i> et sous 93.8B.- <i>dans la caractéristique minimale point 5, planification et contrôle du traitement</i> ?
 <br>  
 <br>  
-<b>Erläuterung Nr. 2:</b><br>
-«wöchentlich» ist struktur- und nicht patientenbezogen. Das bedeutet, dass im klinischen Betrieb mindestens einmal pro Woche eine interprofessionelle Teambesprechung stattfindet.
+<b>Explication n° 2 :</b><br>
+<b>«Chaque semaine»</b> se réfère à la structure, pas au patient. Cela signifie qu’au moins une discussion interprofessionnelle en équipe a lieu chaque semaine dans l’unité clinique.
 <br>  
 <br>  
-Beispiel:  <br>  
-Der Patient ist 10 Tage hospitalisiert (von Montag der Woche 1 bis Mittwoch der Woche 2). Der Patient tritt am Mittwoch der 2. Woche aus oder verstirbt. Die Teambesprechungen finden jeweils donnerstags statt. Für die 2. Woche ist das strukturbezogene Mindestmerkmal ebenfalls erfüllt.
+Exemple:  <br>  
+Le patient est hospitalisé pendant 10 jours (du lundi de la semaine 1 au mercredi de la semaine 2). Le patient sort le mercredi de la 2e semaine ou décède. Les discussions d’équipe ont toujours lieu le jeudi. L’exigence minimale du point de vue structurel est remplie également pour la 2e semaine.
 <br>  
 <br>  
-<b>Fragestellung Nr. 3:</b><br>  
-Was ist unter «interprofessionell» unter 93.8A.2- im _Mindestmerkmal_ Punkt 4, _Therapieplanung und -kontrolle_ und unter 93.8B.- in den _Mindestmerkmal_ Punkt 3, _Therapie und Mindestmerkmal_ Punkt 5, _Therapieplanung und -kontrolle_ zu verstehen?
+<b>Question n° 3:</b><br>  
+Que signifie « interprofessionnel » au point 93.8A.2- <i>dans la caractéristique minimale n° 4, Planification et contrôle thérapeutiques</i>, et au point 93.8B.- <i>dans la caractéristique minimale n° 3, Thérapie, et dans la caractéristique minimale n° 5, Planification et contrôle thérapeutiques</i> ?
 <br>
 <br>
-<b>Erläuterung Nr. 3:</b><br>  
-Bei der «wöchentlichen interprofessionellen Teambesprechung» ist unter «interprofessionell» zu verstehen, dass im Minimum Arzt, Pflege und eine weitere Berufsgruppe teilnehmen (s. _Mindestmerkmal_ Punkt 5, _Therapieplanung und -kontrolle_ bei 93.8A.2- und 93.8B.-).
+<b>Explication n° 3 :</b><br>  
+Dans le cadre de «chaque semaine, discussion interprofessionnelle en équipe», le terme «interprofessionnel» signifie qu'au minimum un médecin, un membre du personnel soignant et un autre groupe professionnel participent à la réunion (cf. critère minimal point 5, planification et contrôle du traitement sous 93.8A.2- et 93.8B.-).
 <br>
 <br>  
-Bei der «interprofessionellen Visite» ist unter «interprofessionell» zu verstehen, dass im Minimum Arzt und Pflege teilnehmen (s. _Mindestmerkmal_ Punkt 3, _Therapie_ 93.8B.-).
+Dans le cadre de la «visite interprofessionnelle», le terme «interprofessionnel» signifie qu'au minimum un médecin et un membre du personnel soignant participent à la visite.  
+ (voir caractéristique minimale point 3, thérapie 93.8B.-).
+
 <br>  
 <br>
   
@@ -1083,16 +1082,16 @@ Bei der «interprofessionellen Visite» ist unter «interprofessionell» zu vers
 
 
 
-{{<article number="0020"  title="CHOP - Standardisiertes palliativmedizinisches Basisassessment - SENS" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0020"  title="CHOP - Évaluation de base standardisée de médecine palliative - SENS" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Mot-clé:</th>
-    <td style="border: 1px solid black;">SENS / palliativmedizinisches Basisassessment / ESAS</td>
+    <td style="border: 1px solid black;">SENS / évaluation palliative de base / ESAS</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé le:</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0754/1</td>
+    <td style="border: 1px solid black;">01/01/2026 – Base Circulaire 2025/2: 0754/1 </td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
@@ -1114,13 +1113,12 @@ Bei der «interprofessionellen Visite» ist unter «interprofessionell» zu vers
 
 {{<markdown>}}
 **Problème/explication:**  
-**Ist SENS ebenfalls ein standardisiertes palliativmedizinisches Basisassessment (PBA)?**  
-Mit dem SENS-Assessment werden folgende Bereiche der Palliativversorgung abgedeckt: Symptommanagement, Entscheidungsfindung/ End of Life Vorbereitung, Netzwerk-Organisation, Support der Angehörigen. SENS integriert alle Themenbereiche der gängigen Ziele, Definitionen und Modelle.  
-Somit ist auch ein dokumentiertes SENS-Assessment als standardisiertes palliativmedizinisches Basisassessment für die Kodes 93.8A.2- und 93.8B.- anzuerkennen.
-  
-**Kann ein einzelnes Assessmentinstrument als palliativmedizinisches Basisassessment zählen?**  
-Die alleinige Durchführung eines Assessmentinstrumentes (z. B. ESAS) zur Erfassung der körperlichen Dimension ist nicht als vollständiges PBA anzuerkennen. In einem PBA müssen die biologischen, psychologischen, sozialen und spirituellen Dimensionen berücksichtigt werden.
+L’examen SENS est-il également une évaluation de base standardisée de médecine palliative?
+L’examen SENS couvre les domaines suivants de la médecine palliative: gestion des symptômes, décisions/préparation de la fin de vie, organisation du réseau, soutien aux proches. L’examen SENS intègre tous les domaines thématiques des objectifs, définitions et modèles usuels. Un examen SENS documenté doit donc être reconnu comme une évaluation de base standardisée de médecine palliative pour les codes 93.8A.2- et 93.8B.-.
+Peut-on considérer un seul «examen ou test» comme une évaluation de base de médecine palliative?
 
+  
+La réalisation d’un seul «examen ou test» pour l’évaluation de la dimension corporelle (p. ex. ESAS) ne peut pas être considérée comme une évaluation de base de médecine palliative complète. Une évaluation de base standardisée de médecine palliative doit tenir compte des dimensions biologique, psychologique, sociale et spirituelle.
 
 {{</markdown>}}
 <br>  
@@ -1131,16 +1129,16 @@ Die alleinige Durchführung eines Assessmentinstrumentes (z. B. ESAS) zur Erfass
 
 
 
-{{<article number="0021"  title="CHOP - Erfassung «Zusatzleistung auf einer eigenständigen spezialisierten Palliative Care Station, nach Anzahl Behandlungstage»" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0021"  title="CHOP - Saisie «Prestation supplémentaire dans une unité spécialisée indépendante de soins palliatifs, selon le nombre de jours de traitement»" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Mot-clé:</th>
-    <td style="border: 1px solid black;">Zusatzkodes der Elementegruppe 93.8B.2-</td>
+    <td style="border: 1px solid black;">Codes supplémentaires du groupe d'éléments 93.8B.2-</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé le:</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0754/6</td>
+    <td style="border: 1px solid black;">01/01/2026 – Base Circulaire 2025/2: 0754/6</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
@@ -1162,9 +1160,9 @@ Die alleinige Durchführung eines Assessmentinstrumentes (z. B. ESAS) zur Erfass
 
 {{<markdown>}}
 **Problème/explication:**  
-Die Elementegruppe 93.8B.1- stellt den _«Aufenthalt auf einer eigenständigen spezialisierten Palliative Care Station, nach Anzahl Behandlungstage»_ dar. Falls die Mindestmerkmale unter 93.8B.- sowie unter 93.8B.1- erfüllt sind, ist der entsprechende Kode unter 93.8B.1- für die gesamte Behandlungsdauer auf der spezialisierten Palliative Care Station zu erfassen. Falls in einer oder mehreren Behandlungswochen **parallel zum Aufenthalt** auf einer eigenständigen spezialisierten Palliative Care Station spezialisierte Palliative Care Zusatzleistungen erbracht werden, kann der entsprechende Kode der Elementegruppe 93.8B.2- _Zusatzleistung auf einer eigenständigen spezialisierten Palliative Care Station, nach Anzahl Behandlungstage_ erfasst werden.
+Le groupe d’éléments 93.8B.1- représente le <i>«Séjour en service spécialisé autonome de soins palliatifs, selon le nombre de jours de traitement»</i>. Si les caractéristiques minimales sous 93.8B.- ainsi que sous 93.8B.1- sont remplies, le code correspondant sous 93.8B.1- doit être saisi pour toute la durée de traitement en service spécialisé autonome de soins palliatifs. Si des prestations supplémentaires de soins palliatifs spécialisés sont fournies lors d’une ou plusieurs semaines de <b>traitement parallèlement à un séjour</b> en service spécialisé autonome de soins palliatifs, on peut saisir le code correspondant du groupe d’éléments 93.8B.2- <i>Prestation supplémentaire en service spécialisé autonome de soins palliatifs, selon le nombre de jours de traitement</i>.
   
-Folgende zwei Beispiele veranschaulichen die gemeinte Erfassungsweise der Zusatzkodes der Elementegruppe 93.8B.2- _«Zusatzleistung auf einer eigenständigen spezialisierten Palliative Care Station, nach Anzahl Behandlungstage»_.
+Les deux exemples ci-dessous illustrent la manière de saisir les codes supplémentaires du groupe d’éléments 93.8B.2- <i>Prestation supplémentaire en service spécialisé autonome de soins palliatifs</i>, selon le nombre de jours de traitement.
 
 {{</markdown>}}
 <br><br>
