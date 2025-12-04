@@ -185,8 +185,7 @@ La tabella seguente illustra le diverse situazioni di una protesi addominale pri
   </tr>
   <tr>
     <th style="border: 1px solid black;">CHOP</th>
-    <td style="border: 1px solid black;">CHOP: 	42.81.-/ 51.87.- / 51.9A / 09.83 /<br>
-31.93 / 31.96 / 33.91.2- / 44.99.5- / 46.99.6 / 48.99.- / 52.93.- / 52.95.4- /<br> 52.95.5- / 58.99.- / 60.99.31
+    <td style="border: 1px solid black;">CHOP: 	42.81.-/ 51.87.- / 51.9A / 09.83 / 31.93 / 31.96 / 33.91.2- / 44.99.5- /<br> 46.99.6 / 48.99.- / 52.93.- / 52.95.4- /<br> 52.95.5- / 58.99.- / 60.99.31
 </td>
   </tr>
   <tr>
