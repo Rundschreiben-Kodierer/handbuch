@@ -52,7 +52,6 @@ keywords: []
 Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Methode mit einem präzisen Kode aus Kapitel 7 <font  color="green">"Operationen am kardiovaskulären System"</font> abgebildet. Gibt es einen präzisen Kode, wird 39.99.21 <i>Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen</i>nicht kodiert. 
 <br>  
 <br>
-
 {{</article>}}
 
 
@@ -95,10 +94,9 @@ Eine perkutan-transluminale Thrombektomie an Lungengefässen mittels Thrombusent
         <li>Zutreffende Zusatzkodes der Elementegruppe 00.4F.2- <i>Einsatz von kathetergeführten Thrombus- und Fremdkörperentfernungs-Systemen, nach Anzahl Systeme</i></li>
     </ul>
 </body>
-(Je nach Fall sind weitere CHOP-Kodes zu berücksichtigen.)<br>  
+(Je nach Fall sind weitere CHOP-Kodes zu berücksichtigen.)
 <br>
 <br>
- 
 {{</article>}}
 
 
@@ -157,10 +155,8 @@ Folgende Tabelle illustriert die verschiedenen Situationen einer abdominalen Hau
 <br>
 <br>
 {{<insertImage image="FAQCHOP0003Tabelle2.png" class="edge max-w-90">}}
-{{<lineBreak>}}
 <br>
 <br>
-
 {{</article>}}
 
 
@@ -261,7 +257,6 @@ Folgende Kodes haben keine Unterteilung nach Anzahl der implantierten Stents/Pro
 <i>Einlegen oder Wechsel einer selbstexpandierenden Prothese am Darm</i>
 {{</codeEntry>}}
 
-
 {{<codeEntry level="1" title="48.99.50">}}
 <i>Einlegen oder Wechsel einer nicht selbstexpandierenden Prothese im Rektum</i>
 {{</codeEntry>}}
@@ -316,10 +311,9 @@ Tag Y:
 46.99.61 <i>Einlegen oder Wechsel einer selbstexpandierenden Prothese am Darm, offen chirurgisch</i> wird <b>einmal</b> erfasst.
     {{</grid/column>}}
 {{</grid>}}
+
 <br>  
 <br>
-
-
 {{</article>}}
 
 
@@ -378,10 +372,9 @@ Kodierung:
 <br>
 <i>36.08.22  Implantation perkutan-transluminal von Stents mit Medikamentenfreisetzung, in mehreren Koronararterien</i><br>
 <i>36.08.22  Implantation perkutan-transluminal von Stents mit Medikamentenfreisetzung, in mehreren Koronararterien</i><br>
-<i>36.08.11  Implantation perkutan-transluminal von Stents ohne Medikamentenfreisetzung, in einer Koronararterie</i><br>
+<i>36.08.11  Implantation perkutan-transluminal von Stents ohne Medikamentenfreisetzung, in einer Koronararterie</i>
 <br>  
 <br>
-
 {{</article>}}
 
 
@@ -434,7 +427,6 @@ Der Zusatzkode 39.E1 <i>Verwendung eines Embolie-Protektionssystems</i> ermögli
 Die Kodes 38.7X.11 <i>Einsetzen eines Embolie-Protektionssystems in die Vena cava, offen chirurgisch</i>, 38.7X.21 <i>Einsetzen eines Embolie-Protektionssystems in die Vena cava, perkutan-transluminal</i>, <i>39.75.13 Perkutan-transluminale Gefässintervention, sonstige Gefässe, Embolie-Protektionssystem (periphere oder viszerale Gefässe)</i> stellen permanente Systeme dar.
 <br>  
 <br>
-  
 {{</article>}}
 
 
@@ -484,7 +476,6 @@ Folgende Kodes der Subkategorie 51.99.- Sonstige Operationen an den Gallenwegen 
 Der Kode 51.99.90 <i>Sonstige endoskopische Operationen an den Gallenwegen</i>, wie im Titel angegeben, ist nur für endoskopische Interventionen zu erfassen.
 <br>  
 <br>
-  
 {{</article>}}
 
 
@@ -527,7 +518,6 @@ Z. B. Explantation einer Hemiendoprothese und Implantation einer Totalendoprothe
 Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückflächenersatz eingesetzt, muss der Kode 81.54.42 <i>Implantation eines Patella-Rückflächenersatz bei einem Wechsel</i> erfasst werden und <b>nicht</b> der Kode 81.54.27 <i>Erstimplantation eines Patella-Rückflächenersatzes</i>.
 <br>
 <br>
-
 {{</article>}}
 
 
@@ -568,7 +558,6 @@ Folgende Tabelle präzisiert die Kodierung von Eingriffskode und Zusatzkode bei 
 {{<insertImage image="FAQCHOP0009Tabelle.png" class="edge max-w-90">}}
 <br>
 <br>
-
 {{</article>}}
 
 
@@ -607,7 +596,6 @@ Folgende Tabelle präzisiert die Kodierung von Eingriffskode und Zusatzkode bei 
 Die Angabe der Lateralität ist nur bei paarigen Organen ein Muss (entsprechende Kennzeichnung in der CHOP mit «[L]» in der PDF- Datei oder «Lateral» in der CSV-Datei). Bei nicht paarigen Organen oder Körperteilen «kann» die Lateralität erfasst werden, «muss» aber nicht.
 <br>  
 <br>
-
 {{</article>}}
 
 
@@ -652,7 +640,6 @@ Ausnahme: Es bestehen CHOP-Kodes, bei denen im Beachte angegeben ist, dass die g
 {{</markdown>}}
 <br>  
 <br>
-
 {{</article>}}
 
 
@@ -705,7 +692,6 @@ EXKL. «Kode weglassen - Komplexbehandlung bei Besiedlung oder Infektion mit mul
 Dies bedeutet, dass die zeitgleiche Kodierung von 93.59.5- und 99.84.1-, 99.84.2-, 99.84.3- nicht gestattet ist. Werden 99.84.1-, 99.84.2-, 99.84.3- zeitlich versetzt erbracht zur 93.59.5- können die Kodes im gleichen Fall erfasst werden. Die Erfassung von 99.84.1-, 99.84.2-, 99.84.3- darf nie für das gleiche Zeitintervall wie 93.59.5- erfolgen.
 <br>  
 <br>
-  
 {{</article>}}
 
 
@@ -749,7 +735,6 @@ Zur Berechnung der Behandlungstage für die CHOP-Kodes der Elementegruppe 93.59.
 {{</markdown>}}
 <br>  
 <br>
-  
 {{</article>}}
 
 
@@ -791,7 +776,6 @@ D. h. bei diesen Kodes entfallen die Mindestmerkmale, die sich auf eine Woche od
 {{</markdown>}}
 <br>  
 <br>
-  
 {{</article>}}
 
 
@@ -840,8 +824,6 @@ Die **alleinige** Erfassung des Glasgow Coma Scale (GCS) ist für den klinisch n
 {{</markdown>}}
 <br>  
 <br>
-
-  
 {{</article>}}
 
 
@@ -900,7 +882,6 @@ Wird dreimal ein EEG durchgeführt ohne zwei weitere der aufgelisteten Massnahme
 Werden hingegen ein craniales MRI, eine neurophysiologische Diagnostik sowie ein mobiles Langzeit-EEG über mindestens 24 Stunden durchgeführt mit Erfüllen der anderen Mindestmerkmale, kann ein Kode der Subkategorie 99.A6.- erfasst werden.
 <br>  
 <br>
-  
 {{</article>}}
 
 
@@ -945,7 +926,6 @@ Beispiel 2: Eine «Hygienemassnahme» könnte im Rahmen des Pflegeinterventionsp
 {{</markdown>}}
 <br>  
 <br>
-  
 {{</article>}}
 
 
@@ -995,7 +975,6 @@ Bei einer Fallzusammenführung mit palliativmedizinischer Komplexbehandlung im e
 {{</markdown>}}  
 <br>  
 <br>
-  
 {{</article>}}
 
 
@@ -1075,7 +1054,6 @@ Bei der «wöchentlichen interprofessionellen Teambesprechung» ist unter «inte
 Bei der «interprofessionellen Visite» ist unter «interprofessionell» zu verstehen, dass im Minimum Arzt und Pflege teilnehmen (s. <i>Mindestmerkmal</i> Punkt 3, <i>Therapie</i> 93.8B.-).
 <br>  
 <br>
-  
 {{</article>}}
 
 
@@ -1123,7 +1101,6 @@ Die alleinige Durchführung eines Assessmentinstrumentes (z. B. ESAS) zur Erfass
 {{</markdown>}}
 <br>  
 <br>
-  
 {{</article>}}
 
 
@@ -1169,11 +1146,8 @@ Folgende zwei Beispiele veranschaulichen die gemeinte Erfassungsweise der Zusatz
 {{<insertImage image="FAQCHOP0021Beispiel1.png" class="edge max-w-90">}}
 <br><br>
 {{<insertImage image="FAQCHOP0021Beispiel2.png" class="edge max-w-90">}}
-<br><br>
-
-<br>  
 <br>
-  
+<br>
 {{</article>}}
 
 
@@ -1216,8 +1190,6 @@ Bei z. B. vorbestehender Spondylodese L2 – L4 und aktuell Neufusion der Segmen
 {{</markdown>}}
 <br>  
 <br>
-
-  
 {{</article>}}
 
 
@@ -1258,10 +1230,8 @@ Der Kode 7A.A2 <i>Implantation von mitwachsenden oder expandierenden Systemen, W
 <br>
 Beim Eingriff handelt es sich um eine <b>dynamische Stabilisierung der Wirbelsäule</b>, die mit <b><L>7A.72.1- <i>Dynamische Stabilisierung der Wirbelsäule, Zugang dorsal und dorsolateral</i></b></L> erfasst wird.<br>
 Zur Zählung der behandelten Segmente werden nur die Segmente, an denen das System befestigt wird, berücksichtigt. 
-
 <br>  
 <br>
-  
 {{</article>}}
 
 
@@ -1312,7 +1282,6 @@ Im Beispiel der folgenden Abbildung erfolgte eine Spondylodese über sechs Wirbe
 {{<insertImage image="FAQCHOP0024Tabelle.png" class="edge max-w-90">}}
 <br>  
 <br>
-  
 {{</article>}}
 
 
@@ -1362,7 +1331,6 @@ Der Kode <b>7A.71.-</b> <i>Fusion von Wirbeln mit Stabilisierung der Wirbelsäul
 Es liegt keine <b>potenzielle Bewegungserhaltung</b> im betroffenen Segment vor.
 <br>  
 <br>
-  
 {{</article>}}
 
 
@@ -1408,7 +1376,6 @@ Es darf **kein** Kode der Subkategorie 7A.71.- _Fusion von Wirbeln mit Stabilisi
 {{</markdown>}}
 <br>  
 <br>
-  
 {{</article>}}
 
 
@@ -1451,7 +1418,6 @@ Typischerweise wird dieser Kode bei **traumatischen Pathologien**, insbesondere 
 {{</markdown>}}
 <br>  
 <br>
-  
 {{</article>}}
 
 
