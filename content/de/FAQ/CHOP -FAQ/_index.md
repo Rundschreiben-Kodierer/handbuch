@@ -50,7 +50,7 @@ keywords: []
 
 <b>Problem/Erläuterung:</b></br>
 Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Methode mit einem präzisen Kode aus Kapitel 7 <font  color="green">"Operationen am kardiovaskulären System"</font> abgebildet. Gibt es einen präzisen Kode, wird 39.99.21 <i>Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen</i>nicht kodiert. 
-<br>  
+<br>
 <br>
 {{</article>}}
 
@@ -312,7 +312,7 @@ Tag Y:
     {{</grid/column>}}
 {{</grid>}}
 
-<br>  
+<br>
 <br>
 {{</article>}}
 
@@ -373,7 +373,7 @@ Kodierung:
 <i>36.08.22  Implantation perkutan-transluminal von Stents mit Medikamentenfreisetzung, in mehreren Koronararterien</i><br>
 <i>36.08.22  Implantation perkutan-transluminal von Stents mit Medikamentenfreisetzung, in mehreren Koronararterien</i><br>
 <i>36.08.11  Implantation perkutan-transluminal von Stents ohne Medikamentenfreisetzung, in einer Koronararterie</i>
-<br>  
+<br>
 <br>
 {{</article>}}
 
@@ -425,7 +425,7 @@ Die Kodes unter 00.4G.- sind für Embolie-Protektionssysteme nicht zu verwenden.
 Der Zusatzkode 39.E1 <i>Verwendung eines Embolie-Protektionssystems</i> ermöglicht die Erfassung von periinterventionellen Embolie-Protektionssystemen. 
 <br><br>
 Die Kodes 38.7X.11 <i>Einsetzen eines Embolie-Protektionssystems in die Vena cava, offen chirurgisch</i>, 38.7X.21 <i>Einsetzen eines Embolie-Protektionssystems in die Vena cava, perkutan-transluminal</i>, <i>39.75.13 Perkutan-transluminale Gefässintervention, sonstige Gefässe, Embolie-Protektionssystem (periphere oder viszerale Gefässe)</i> stellen permanente Systeme dar.
-<br>  
+<br>
 <br>
 {{</article>}}
 
@@ -474,7 +474,7 @@ Folgende Kodes der Subkategorie 51.99.- Sonstige Operationen an den Gallenwegen 
     </ul>
 </body>
 Der Kode 51.99.90 <i>Sonstige endoskopische Operationen an den Gallenwegen</i>, wie im Titel angegeben, ist nur für endoskopische Interventionen zu erfassen.
-<br>  
+<br>
 <br>
 {{</article>}}
 
@@ -594,7 +594,7 @@ Folgende Tabelle präzisiert die Kodierung von Eingriffskode und Zusatzkode bei 
 
 <b>Erläuterung:</b><br>
 Die Angabe der Lateralität ist nur bei paarigen Organen ein Muss (entsprechende Kennzeichnung in der CHOP mit «[L]» in der PDF- Datei oder «Lateral» in der CSV-Datei). Bei nicht paarigen Organen oder Körperteilen «kann» die Lateralität erfasst werden, «muss» aber nicht.
-<br>  
+<br>
 <br>
 {{</article>}}
 
@@ -638,7 +638,7 @@ Es gilt unabhängig von der Anzahl der Therapeuten, die Therapiezeit am/an den P
    
 Ausnahme: Es bestehen CHOP-Kodes, bei denen im Beachte angegeben ist, dass die gleiche Therapieart / Therapieleistung, die durch zwei oder mehr Therapeutinnen / Therapeuten / Pflegefachpersonen erbracht wird, die Zeit pro Therapeutin / Therapeut / Pflegefachperson zu zählen ist.
 {{</markdown>}}
-<br>  
+<br>
 <br>
 {{</article>}}
 
@@ -690,7 +690,7 @@ EXKL. «Kode weglassen - Komplexbehandlung bei Besiedlung oder Infektion mit mul
 {{</grid>}}
 <br>
 Dies bedeutet, dass die zeitgleiche Kodierung von 93.59.5- und 99.84.1-, 99.84.2-, 99.84.3- nicht gestattet ist. Werden 99.84.1-, 99.84.2-, 99.84.3- zeitlich versetzt erbracht zur 93.59.5- können die Kodes im gleichen Fall erfasst werden. Die Erfassung von 99.84.1-, 99.84.2-, 99.84.3- darf nie für das gleiche Zeitintervall wie 93.59.5- erfolgen.
-<br>  
+<br>
 <br>
 {{</article>}}
 
@@ -733,7 +733,7 @@ Dies bedeutet, dass die zeitgleiche Kodierung von 93.59.5- und 99.84.1-, 99.84.2
 **Problem/Erläuterung:**  
 Zur Berechnung der Behandlungstage für die CHOP-Kodes der Elementegruppe 93.59.5- _Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage_ darf bei Erfüllung der Mindestmerkmale der Eintritts- sowie Austrittstag nur als **ein Behandlungstag** angerechnet werden.
 {{</markdown>}}
-<br>  
+<br>
 <br>
 {{</article>}}
 
@@ -774,7 +774,7 @@ Zur Berechnung der Behandlungstage für die CHOP-Kodes der Elementegruppe 93.59.
 Die Kodes «[…], bis 6 Behandlungstage» werden in Fällen erfasst, bei denen während des stationären Aufenthalts an maximal 6 Behandlungstagen die jeweils genannte Komplexbehandlung durchgeführt wurde. Diese Kodes beinhalten keine Mindestanzahl Behandlungstage.  
 D. h. bei diesen Kodes entfallen die Mindestmerkmale, die sich auf eine Woche oder bestimmte Anzahl Behandlungstage beziehen. Mindestmerkmale, wie Indikationen, Assessments, Behandlungsinfrastruktur (z. B. Zertifizierung) und Qualifikationen sind einzuhalten
 {{</markdown>}}
-<br>  
+<br>
 <br>
 {{</article>}}
 
@@ -822,7 +822,7 @@ Wichtig:<br>
 Die **alleinige** Erfassung des Glasgow Coma Scale (GCS) ist für den klinisch neurologischen Befund zur Hirnschlag-Überwachung im Anwendungsbereich der 99.A7, 99.BA.1- und 99.BA.2- nicht ausreichend.
 
 {{</markdown>}}
-<br>  
+<br>
 <br>
 {{</article>}}
 
@@ -880,7 +880,7 @@ mind. 3 der folgenden Massnahmen:
 </body>
 Wird dreimal ein EEG durchgeführt ohne zwei weitere der aufgelisteten Massnahmen sind die Mindestmerkmale nicht erfüllt und ein Kode der Subkategorie 99.A6.- kann nicht erfasst werden.
 Werden hingegen ein craniales MRI, eine neurophysiologische Diagnostik sowie ein mobiles Langzeit-EEG über mindestens 24 Stunden durchgeführt mit Erfüllen der anderen Mindestmerkmale, kann ein Kode der Subkategorie 99.A6.- erfasst werden.
-<br>  
+<br>
 <br>
 {{</article>}}
 
@@ -924,7 +924,7 @@ Beispiel 1: Ein «Transfer auf die Toilette» könnte im Rahmen des Pflegeinterv
   
 Beispiel 2: Eine «Hygienemassnahme» könnte im Rahmen des Pflegeinterventionsprofils 2.1 der Leistungsgruppe 2 «Körperpflege» oder im Rahmen des Pflegeinterventionsprofils 3.1 der Leistungsgruppe 3 «Ausscheidung» geleistet werden. Wenn die Aktivität unter der Leistungsgruppe 2 erfasst wird, darf sie nicht zusätzlich bei der Leistungsgruppe 3 erfasst werden, oder umgekehrt. Die Aktivität darf nur einem der zwei Pflegeinterventionsprofile zugeordnet werden.
 {{</markdown>}}
-<br>  
+<br>
 <br>
 {{</article>}}
 
@@ -973,7 +973,7 @@ Erläuterung:
 Bei einer Fallzusammenführung mit palliativmedizinischer Komplexbehandlung im ersten Fall ist nach der Rückkehr der Patientin / des Patienten das PBA zu aktualisieren (d.h. nicht, dass es vollständig erneut durchgeführt werden muss. Es kann auch nur dokumentiert werden, dass die Werte des vorherigen PBAs weiter gelten).
 
 {{</markdown>}}  
-<br>  
+<br>
 <br>
 {{</article>}}
 
@@ -1052,7 +1052,7 @@ Bei der «wöchentlichen interprofessionellen Teambesprechung» ist unter «inte
 <br>
 <br>  
 Bei der «interprofessionellen Visite» ist unter «interprofessionell» zu verstehen, dass im Minimum Arzt und Pflege teilnehmen (s. <i>Mindestmerkmal</i> Punkt 3, <i>Therapie</i> 93.8B.-).
-<br>  
+<br>
 <br>
 {{</article>}}
 
@@ -1099,7 +1099,7 @@ Die alleinige Durchführung eines Assessmentinstrumentes (z. B. ESAS) zur Erfass
 
 
 {{</markdown>}}
-<br>  
+<br>
 <br>
 {{</article>}}
 
@@ -1188,7 +1188,7 @@ Die Segmente, bei denen anlässlich eines Revisionseingriffs an der Wirbelsäule
 **Ad Zählen der Segmente bei Überbrückung:**  
 Bei z. B. vorbestehender Spondylodese L2 – L4 und aktuell Neufusion der Segmente L1/L2 und L4/L5 wird dies mit dem zutreffenden CHOP-Kode für 2 Segmente abgebildet, falls wie oben erwähnt, an den Wirbelkörpern L2 – L4 ausser der Stabanlage keine weiteren Massnahmen durchgeführt wurden.
 {{</markdown>}}
-<br>  
+<br>
 <br>
 {{</article>}}
 
@@ -1230,7 +1230,7 @@ Der Kode 7A.A2 <i>Implantation von mitwachsenden oder expandierenden Systemen, W
 <br>
 Beim Eingriff handelt es sich um eine <b>dynamische Stabilisierung der Wirbelsäule</b>, die mit <b><L>7A.72.1- <i>Dynamische Stabilisierung der Wirbelsäule, Zugang dorsal und dorsolateral</i></b></L> erfasst wird.<br>
 Zur Zählung der behandelten Segmente werden nur die Segmente, an denen das System befestigt wird, berücksichtigt. 
-<br>  
+<br>
 <br>
 {{</article>}}
 
@@ -1280,7 +1280,7 @@ Im Beispiel der folgenden Abbildung erfolgte eine Spondylodese über sechs Wirbe
 {{</markdown>}}
 <br><br>
 {{<insertImage image="FAQCHOP0024Tabelle.png" class="edge max-w-90">}}
-<br>  
+<br> 
 <br>
 {{</article>}}
 
@@ -1329,7 +1329,7 @@ Der Kode <b>7A.71.-</b> <i>Fusion von Wirbeln mit Stabilisierung der Wirbelsäul
 </body>
 <br>
 Es liegt keine <b>potenzielle Bewegungserhaltung</b> im betroffenen Segment vor.
-<br>  
+<br>
 <br>
 {{</article>}}
 
@@ -1374,7 +1374,7 @@ Bei einer durchgeführten Laminotomie, Laminektomie oder Laminoplastik ist dies 
 Es darf **kein** Kode der Subkategorie 7A.71.- _Fusion von Wirbeln mit Stabilisierung der Wirbelsäule_ erfasst werden.
   
 {{</markdown>}}
-<br>  
+<br>
 <br>
 {{</article>}}
 
@@ -1416,7 +1416,7 @@ Die Subkategorie **7A.73.-** wird verwendet zur Kodierung einer operativen Massn
 
 Typischerweise wird dieser Kode bei **traumatischen Pathologien**, insbesondere **thorakolumbalen Frakturen**, angewendet. Er kommt jedoch auch bei **anderen Indikationen** zum Einsatz.
 {{</markdown>}}
-<br>  
+<br>
 <br>
 {{</article>}}
 
