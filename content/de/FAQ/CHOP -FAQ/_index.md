@@ -196,7 +196,7 @@ Folgende Tabelle illustriert die verschiedenen Situationen einer abdominalen Hau
 </table>
 
 <b>Problem/Erläuterung:</b><br>
-Folgende Kodes haben eine Unterteilung nach Anzahl der implantierten Stents/Prothesen. [
+Folgende Kodes haben eine Unterteilung nach Anzahl der implantierten Stents/Prothesen.
 {{<indent level="4">}}
 42.81.- <i>Einsetzen eines permanenten Tubus in den Ösophagus</i><br>
 51.87.- <i>Endoskopische Einlage oder Wechsel von Stent in den Gallengang</i><br>
@@ -324,7 +324,7 @@ Tag Y:
 {{</article>}}
 
 
-{{<article number="0005"  title="CHOP - Erfassen der Anzahl der implantierten vaskulären Stents oder Stent-Graftsasdf" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0005"  title="CHOP - Erfassen der Anzahl der implantierten vaskulären Stents oder Stent-Grafts" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -441,7 +441,7 @@ Die Kodes 38.7X.11 <i>Einsetzen eines Embolie-Protektionssystems in die Vena cav
 
 
 
-{{<article number="0007"  title="CHOP - Sonstige Operationen an den Gallenwegen " collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0007"  title="CHOP - Sonstige Operationen an den Gallenwegen" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -482,7 +482,7 @@ Folgende Kodes der Subkategorie 51.99.- Sonstige Operationen an den Gallenwegen 
         <li>51.99.91 <i>Sonstige Rekonstruktion der Gallenwegen</i></li>
     </ul>
 </body>
-Der Kode 51.99.90 Sonstige endoskopische Operationen an den Gallenwegen, wie im Titel angegeben, ist nur für endoskopische Interventionen zu erfassen.
+Der Kode 51.99.90 <i>Sonstige endoskopische Operationen an den Gallenwegen</i>, wie im Titel angegeben, ist nur für endoskopische Interventionen zu erfassen.
 <br>  
 <br>
   
@@ -519,7 +519,7 @@ Der Kode 51.99.90 Sonstige endoskopische Operationen an den Gallenwegen, wie im 
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
-<br>
+
 <b>Problem/Erläuterung:</b><br>
 Wird eine bestehende Knieendoprothese, unabhängig vom Typ, durch eine andere Knieendoprothese ersetzt, ist für die Implantation der Kode mit der Bezeichnung «bei einem Prothesenwechsel» zu wählen. 
 <br><br>
@@ -566,7 +566,7 @@ Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückfl
 <b>Problem/Erläuterung:</b><br>
 Folgende Tabelle präzisiert die Kodierung von Eingriffskode und Zusatzkode bei einzeitigen Mehrfacheingriffen, am Beispiel der Hand.
 <br><br>
-{{<insertImage image="FAQCHOP0008Tabelle.png" class="edge max-w-90">}}
+{{<insertImage image="FAQCHOP0009Tabelle.png" class="edge max-w-90">}}
 <br>  
 <br>
 
@@ -698,7 +698,7 @@ Unter den Elementegruppen 99.84.1- <l>Kontaktisolierung, nach Anzahl Behandlungs
     {{</grid/column>}}
     {{<grid/column>}}
         {{<markdown>}}
-EXKL. «Kode weglassen - Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage (93.59.5-)».     
+EXKL. «Kode weglassen - Komplexbehandlung bei Besiedlung oder Infektion mit multiresistenten Erregern, nach Anzahl Behandlungstage (93.59.5-)».
         {{</markdown>}}
     {{</grid/column>}}
 {{</grid>}}
@@ -789,7 +789,6 @@ Zur Berechnung der Behandlungstage für die CHOP-Kodes der Elementegruppe 93.59.
 **Problem/Erläuterung:**  
 Die Kodes «[…], bis 6 Behandlungstage» werden in Fällen erfasst, bei denen während des stationären Aufenthalts an maximal 6 Behandlungstagen die jeweils genannte Komplexbehandlung durchgeführt wurde. Diese Kodes beinhalten keine Mindestanzahl Behandlungstage.  
 D. h. bei diesen Kodes entfallen die Mindestmerkmale, die sich auf eine Woche oder bestimmte Anzahl Behandlungstage beziehen. Mindestmerkmale, wie Indikationen, Assessments, Behandlungsinfrastruktur (z. B. Zertifizierung) und Qualifikationen sind einzuhalten
-
 {{</markdown>}}
 <br>  
 <br>
@@ -1320,7 +1319,7 @@ Im Beispiel der folgenden Abbildung erfolgte eine Spondylodese über sechs Wirbe
 
 
 
-{{<article number="0025"  title="CHOP - knöcherne Fusion mit Instrumentierung – Wirbelsäule " collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0025"  title="CHOP - knöcherne Fusion mit Instrumentierung – Wirbelsäule" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -1375,9 +1374,7 @@ Es liegt keine <b>potenzielle Bewegungserhaltung</b> im betroffenen Segment vor.
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Knöcherne Fusion Wirbelsäule ohne Instrumentierung / Knochentransplantation, Knochentransposition, Knochenersatz an der Wirbelsäule
-
-</td>
+    <td style="border: 1px solid black;">Knöcherne Fusion Wirbelsäule ohne Instrumentierung / Knochentransplantation, Knochentransposition, Knochenersatz an der Wirbelsäule</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Erstellt</th>

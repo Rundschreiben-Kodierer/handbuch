@@ -515,7 +515,7 @@ Il codice 51.99.90 <i>Altri interventi endoscopici sulle vie biliari</i>, come i
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
-<br>
+
 <b>Problema/Spiegazione:</b><br>
 In caso di sostituzione di endoprotesi di ginocchio, indipendentemente dal tipo, con altra endoprotesi di ginocchio, per l’impianto va utilizzato il codice con l’indicazione «per sostituzione di protesi». P. es. se viene espiantata un’endoprotesi parziale e impiantata una protesi totale sullo stesso ginocchio, per l’impianto deve essere indicato il codice 81.54.31 <i>Impianto di protesi totale standard del ginocchio per sostituzione di protesi</i> e <b>non</b> il codice 81.54.21 <i>Primo impianto di protesi totale standard del ginocchio</i>.
 <br><br>
@@ -682,10 +682,12 @@ Eccezione: esistono codici CHOP per i quali è indicato in nota che, se due o pi
 
 <b>Problema/Spiegazione:</b><br>
 Nei gruppi di elementi 99.84.1- Isolamento da contatto, secondo il numero di giorni di trattamento, 99.84.2- Isolamento da goccioline, secondo il numero di giorni di trattamento, […] e 99.84.3- Isolamento da aerosol, secondo il numero di giorni di trattamento, […] è indicata la seguente esclusione di tipo «Omettere il codice»: 
+
 <br>
 <br>
 {{<grid class="ps-0">}}
     {{<grid/column>}}
+
     {{</grid/column>}}
     {{<grid/column>}}
         {{<markdown>}}
@@ -694,6 +696,11 @@ ESCL. «Omettere il codice - Trattamento complesso per colonizzazione o infezion
     {{</grid/column>}}
 {{</grid>}}
 <br>
+Cela signifie qu’il n’est pas admis de coder simultanément 93.59.5- et 99.84.1-, 99.84.2-, 99.84.3-. Lorsque 99.84.1-, 99.84.2-, 99.84.3- ne sont pas appliquées en même temps que 93.59.5-, ces codes peuvent être saisis pour le même cas. La saisie de 99.84.1-, 99.84.2-, 99.84.3- ne doit jamais être effectuée pour le même intervalle de temps que 93.59.5-.
+<br>  
+<br>
+
+
 Ciò significa che non è consentito codificare contemporaneamente 93.59.5- e 99.84.1-, 99.84.2-, 99.84.3-. Se 99.84.1-, 99.84.2-, 99.84.3- avvengono in momenti diversi rispetto a 93.59.5-, i codici possono essere registrati sotto lo stesso caso. I codici 99.84.1-, 99.84.2-, 99.84.3- non devono mai essere registrati per lo stesso intervallo di tempo per cui è registrato il codice 93.59.5-.
 <br>  
 <br>
@@ -982,7 +989,7 @@ La valutazione medico palliativa di base standardizzata (PBA) deve essere ripetu
 **Problema/Spiegazione:**  
 La seguente domanda e spiegazione si riferisce al gruppo di elementi 93.8A.2- _Trattamento medico palliativo complesso (fuori da un reparto specialistico autonomo di cure palliative), secondo il numero di giorni di trattamento_ e alla sottocategoria 93.8B.- _Trattamento in reparto specialistico autonomo di cure palliative_
   
-Spiegazione:
+Spiegazione:  
 Per un raggruppamento di casi con trattamento medico palliativo complesso nel primo caso, dopo il ritorno del/della paziente va aggiornata la valutazione medico palliativa di base standardizzata (non significa che debba essere rifatta completamente. Ci si può limitare a documentare che i valori della valutazione medico palliativa di base standardizzata precedente restano validi).
 
 {{</markdown>}}  
@@ -1042,7 +1049,7 @@ I compiti di coordinamento specifici e documentati in stretta relazione con il p
 <br>
 Non rientrano nelle 6 ore:<br>
 •	Le riunioni del team interprofessionale ed i tempi di percorrenza<br>
-•	Le «visite interprofessionali» (requisiti minimi punto 3, terapia, lettera a) della sottocategoria 93.8B.-).<br>
+•	Le «visite interprofessionali» (requisiti minimi punto 3, terapia, lettera a) della sottocategoria 93.8B.-).
 <br>  
 <br>  
 <b>Domanda n. 2:</b><br>  
@@ -1293,7 +1300,7 @@ Per il conteggio dei segmenti trattati vengono considerati solo i segmenti a cui
 {{<markdown>}}
 **Problema/Spiegazione:**  
 Per le sottocategorie da 7A.71.- a 7A.74.- è stata introdotta la strutturazione a livello di quinto carattere per l’approccio «dorsale e dorsolaterale», risp. «ventrale», e a livello di sesto carattere in base al numero di segmenti trattati (fino a 14 e più). Secondo le convenzioni CHOP, la congiunzione «e» va intesa come «e/o». La nota di cui alla categoria 7A.7- _Stabilizzazione della colonna vertebrale e correzione della postura_ recita:  
-«Se l’approccio a determinati segmenti è dorsale nonché ventrale, per l’intero campo operatorio vanno indicati con un codice il numero complessivo di segmenti operati con approccio dorsale, nonché con un altro codice il numero complessivo di segmenti operati con approccio ventrale. Va inoltre indicato il codice supplementare del numero complessivo di segmenti operati.»
+«Se l’approccio a determinati segmenti è dorsale nonché ventrale, per l’intero campo operatorio vanno indicati con un codice il numero complessivo di segmenti operati con approccio dorsale, nonché con un altro codice il numero complessivo di segmenti operati con approccio ventrale. Va inoltre indicato il codice supplementare del numero complessivo di segmenti operati.»  
 Gli approcci dorsolaterali contano come approcci dorsali. In altri termini, il segmento non viene conteggiato due volte se operato per via dorsale nonché per via dorsolaterale.  
 Nell’esempio di cui alla seguente figura, è stata eseguita una spondilodesi che ha interessato sei vertebre ossia cinque segmenti. Complessivamente, tre segmenti sono stati operati con approccio dorsale e/o dorsolaterale e quattro con approccio ventrale. In questo caso, va indicato il codice «dorsale e dorsolaterale» per tre segmenti nonché il codice «ventrale» per quattro segmenti. Deve inoltre essere registrato il codice della sottocategoria 7A.B4.- _Somma dei segmenti di colonna vertebrale operati_ corrispondente a cinque segmenti.
 
@@ -1348,7 +1355,7 @@ Il codice <b>7A.71.-</b> Fusione di vertebre con stabilizzazione della colonna v
         <li><b>Decorticazione delle superfici articolari<b></li>
         <li><b>Osteotomia<b></li>
         <li><b>Accrescimento o trapianto osseo<b></li>
-        <li><b>Impianto di materiali stabilizzanti<b> (ad es. cage, sistemi di viti e barre, placche)</li>
+        <li><b>Impianto di materiali stabilizzanti</b> (ad es. cage, sistemi di viti e barre, placche)</li>
     </ul>
 </body>
 <br>
