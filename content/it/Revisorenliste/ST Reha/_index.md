@@ -381,6 +381,20 @@ keywords: []
     <td class="tg-ktyi">06.12.2022</td>
   </tr>
   <tr>
+    <td class="tg-0lax">Popp</td>
+    <td class="tg-ktyi">Sandra</td>
+    <td class="tg-ktyi">DRGPlus Kranichweg 30<br>3074 Muri bei Bern</td>
+    <td class="tg-z182"><a href="mailto:sandra.popp@drgplus.ch">sandra.popp@drgplus.ch</a></td>
+    <td class="tg-ktyi">078 767 14 88</td>
+    <td class="tg-ktyi">Deutsch</td>
+    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Oui</td>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-0lax">Deutschschweiz<br></td>
+    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">05.12.2025</td>
+  </tr>  
+  <tr>
     <td class="tg-0lax" id="s">Sadiku</td>
     <td class="tg-ktyi">Leonora</td>
     <td class="tg-0lax">Alpenblickstr. 20 <br>CH-8853 Lachen SZ</td>
