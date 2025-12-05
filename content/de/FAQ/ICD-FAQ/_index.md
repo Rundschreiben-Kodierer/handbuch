@@ -429,9 +429,9 @@ Bei entsprechender Dokumentation der Beschwerden/ Dyspnoe, können die Kodes I50
 Wie werden Träger von MRE / Verdachtsfälle mit und ohne Erregernachweis kodiert?
   
 **Erläuterung:**  
-Gemäss der Kodierregel D04 dienen Kodes mit Ausrufezeichen der Spezifizierung eines vorher stehenden, nicht mit einem Ausrufezeichen markierten Kodes oder beschreiben die Umstände einer Krankheit, Verletzung, Vergiftung oder Komplikation.
+Gemäss der Kodierregel D04 dienen Kodes mit Ausrufezeichen der Spezifizierung eines vorher stehenden, nicht mit einem Ausrufezeichen markierten Kodes oder beschreiben die Umstände einer Krankheit, Verletzung, Vergiftung oder Komplikation.  
 In der Kombination mit den entsprechenden Kodes der Kategorie Z22.- <i>Keimträger von Infektionskrankheiten Inkl.: Verdachtsfälle</i>, spezifizieren sie den Keim näher, der im vorher stehenden Kode nicht angegeben wird. Diese Präzisierungen sind, sofern zutreffend, obligatorisch anzugeben.  
-Zudem ist bei der Angabe dieser Kodes die Kodierregel G54 zu berücksichtigen. Diese Kodes werden nur kodiert, wenn sie mit einem medizinischen Aufwand > 0 verbunden sind. 
+Zudem ist bei der Angabe dieser Kodes die Kodierregel G54 zu berücksichtigen. Diese Kodes werden nur kodiert, wenn sie mit einem medizinischen Aufwand > 0 verbunden sind.  
 D.h. es muss eine diagnostische und/oder pflegerische Massnahme getroffen worden oder ein erhöhter Betreuungs-, Pflege- und/oder Überwachungsaufwand damit verbunden sein, welche dokumentiert sind. 
     
 **Kodierempfehlung:**  
@@ -490,7 +490,7 @@ Die Kodierung mit M80.x8 <i>Osteoporose mit pathologischer Fraktur: Sonstige Lok
 Die zusätzliche Kodierung mit M49.5* <i>Wirbelkörperkompression bei anderenorts klassifizierten Krankheiten</i> ermöglicht eine spezifischere Darstellung der betroffenen Wirbelsäulenabschnitte, 
   
 **Kodierempfehlung:**  
-Eine osteoporotische Sinterungsfraktur der Wirbelsäule wird mit M80.x8 <i>Osteoporose mit pathologischer Fraktur: Sonstige Lokalisationen [Hals, Kopf, Rippen, Rumpf, Schädel, Wirbelsäule]</i> kodiert. 
+Eine osteoporotische Sinterungsfraktur der Wirbelsäule wird mit M80.x8 <i>Osteoporose mit pathologischer Fraktur: Sonstige Lokalisationen [Hals, Kopf, Rippen, Rumpf, Schädel, Wirbelsäule]</i> kodiert.  
 Zusätzlich soll ein Kode der ICD Kodegruppe M49.5-* Wirbelkörperkompression bei anderenorts klassifizierten Krankheiten für eine eindeutige Angabe der Lokalisation erfasst werden. 
 {{</markdown>}}
 <br>  
@@ -593,7 +593,9 @@ Das tachykarde Vorhofflimmern (VHFL) ist die häufigste Form der tachykarden Her
   
 **Kodierempfehlung:**  
 In der ICD-10-GM wird bei Vorhofflimmern (an der 4. Stelle) differenziert zwischen paroxysmal, persistierend und permanent und bei Vorhofflattern zwischen typisch und atypisch.  
+  
 Der Kode I48.0 <i>Vorhofflimmern, paroxysmal</i> beinhaltet normofrequente, tachykarde und/oder bradykarde Phasen. 
+  
 Die Tachyarrhythmie / Tachykardie ist bei Vorhofflimmern nicht zusätzlich zu kodieren.
 {{</markdown>}}
 <br>  
@@ -636,7 +638,7 @@ Die Tachyarrhythmie / Tachykardie ist bei Vorhofflimmern nicht zusätzlich zu ko
 
 {{<markdown>}}
 **Problem/Erläuterung:**  
-Die ICD-10-GM-Kodes der 4-stelligen Subkategorie N13.6- «Pyonephrose» werden nur bei einer dokumentierten Infektion der Niere verschlüsselt. 
+Die ICD-10-GM-Kodes der 4-stelligen Subkategorie N13.6- «Pyonephrose» werden nur bei einer dokumentierten Infektion der Niere verschlüsselt.  
 Dies betrifft auch den endständigen Kode N13.68 <i>Sonstige und nicht näher bezeichnete Pyonephrose</i>. Eine Hydronephrose durch Ureterstein mit Harnwegsinfektion nicht näher bezeichneter Lokalisation wird mit N13.21 <i>Hydronephrose bei Obstruktion durch Ureterstein</i> und N39.0 <i>Harnwegsinfektion, Lokalisation nicht näher bezeichnet</i> verschlüsselt.
 {{</markdown>}}
 <br>  

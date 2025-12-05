@@ -366,8 +366,10 @@ In caso di Zoster [herpes zoster] con manifestazione nell'area di innervazione d
 Come si codifica un'insufficienza cardiaca con frazione di eiezione preservata (HFpEF)?
   
 **Spiegazione:**  
-L’insufficienza cardiaca con frazione di eiezione preservata (HFpEF) è una forma di insufficienza cardiaca in cui la frazione di eiezione è normale, cioè superiore al 50%. Nella HFpEF, il ventricolo sinistro risulta rigido e presenta un rilassamento compromesso dopo la fase di espulsione del sangue.
-Sintomi: dispnea, affaticamento, ridotta capacità di esercizio, edemi alle gambe e all’addome (ascite).
+L’insufficienza cardiaca con frazione di eiezione preservata (HFpEF) è una forma di insufficienza cardiaca in cui la frazione di eiezione è normale, cioè superiore al 50%. Nella HFpEF, il ventricolo sinistro risulta rigido e presenta un rilassamento compromesso dopo la fase di espulsione del sangue.  
+  
+Sintomi: dispnea, affaticamento, ridotta capacità di esercizio, edemi alle gambe e all’addome (ascite).  
+  
 La gravità dell’insufficienza cardiaca con frazione di eiezione preservata (HFpEF) viene determinata dai sintomi clinici e dalle limitazioni funzionali del paziente. Nella codifica ciò viene considerato tramite l’utilizzo di specifiche diagnosi secondarie e categorie di gravità.
   
 **Raccomandazione di codifica:**  
@@ -417,9 +419,9 @@ Se i disturbi o la dispnea sono adeguatamente documentati, i codici I50.12 – I
 Come vengono codificati i portatori di agenti patogeni multiresistenti / casi sospetti con e senza rilevamento dell'agente patogeno?
   
 **Spiegazione:**  
-Secondo la regola di codifica D04, i codici con punto esclamativo servono a specificare un codice precedente non contrassegnato da punto esclamativo o descrivono le circostanze di una malattia, lesione, avvelenamento o complicanza. 
+Secondo la regola di codifica D04, i codici con punto esclamativo servono a specificare un codice precedente non contrassegnato da punto esclamativo o descrivono le circostanze di una malattia, lesione, avvelenamento o complicanza.  
 In combinazione con i codici corrispondenti della categoria Z22.- <i>Portatore di malattie infettive Incl.: sospetto di stato di portatore</i>, specificano più precisamente il germe che non è indicato nel codice precedente. Queste precisazioni devono essere indicate obbligatoriamente, se applicabili.  
-Inoltre, nell'indicare questi codici occorre tenere conto della regola di codifica G54. Questi codici vengono codificati solo se sono associati a un impegno medico > 0.
+Inoltre, nell'indicare questi codici occorre tenere conto della regola di codifica G54. Questi codici vengono codificati solo se sono associati a un impegno medico > 0.  
 Ciò significa che deve essere stata adottata una misura diagnostica e/o assistenziale o che deve essere associato un aumento delle spese di assistenza, cura e/o monitoraggio, che devono essere documentate. 
   
 **Raccomandazione di codifica:**  
@@ -477,7 +479,7 @@ La codifica con M80.x8 Osteoporosi con frattura patologica: altre localizzazioni
 La codifica aggiuntiva con M49.5* <i>Collasso vertebrale in malattie classificate altrove consente</i> una rappresentazione più specifica delle sezioni della colonna vertebrale interessate. 
   
 **Raccomandazione di codifica:**  
-Una frattura da sinterizzazione osteoporotica della colonna vertebrale viene codificata con M80.x8 <i>Osteoporosi con frattura patologica: altre localizzazioni [collo, testa, costole, torace, cranio, colonna vertebrale]</i>. 
+Una frattura da sinterizzazione osteoporotica della colonna vertebrale viene codificata con M80.x8 <i>Osteoporosi con frattura patologica: altre localizzazioni [collo, testa, costole, torace, cranio, colonna vertebrale]</i>.  
 Inoltre, per indicare chiaramente la localizzazione, deve essere inserito un codice del gruppo ICD M49.5-* <i>Collasso vertebrale in malattie classificate altrove</i>.
 {{</markdown>}}
 <br>  
@@ -531,9 +533,9 @@ J15.8 presuppone l'identificazione dell'agente patogeno e serve a codificare un 
   
 **Raccomandazione di codifica:**  
 L'indice alfabetico rimanda al codice J15.9 <i>Polmonite batterica non specificata</i> in caso di polmonite batterica senza ulteriori dettagli.
-J15.8 Altra polmonite batterica si applica solo se è disponibile un esame batteriologico il cui risultato indica un agente patogeno diverso da quelli specificati in J15-. 
+J15.8 Altra polmonite batterica si applica solo se è disponibile un esame batteriologico il cui risultato indica un agente patogeno diverso da quelli specificati in J15-.  
 In assenza di prove batteriologiche, deve essere registrato J15.9 <i>Polmonite batterica non specificata</i>.
-
+  
 Il fatto che si tratti di un'infezione di origine batterica non giustifica automaticamente la codifica di J15.8 <i>Altra polmonite batterica.
 </i>.
 {{</markdown>}}
@@ -629,7 +631,8 @@ La tachiaritmia/tachicardia non deve essere codificata in aggiunta alla fibrilla
 
 {{<markdown>}}
 **Problema/Spiegazione:**  
-I codici della sottocategoria a 4 caratteri ICD-10-GM N13.6- <i>Pionefrosi vanno </i>indicati solo in presenza di un’infezione documentata del rene. Ciò riguarda anche il codice terminale N13.68 <i>Altra e non specificata pionefrosi</i>. Un’idronefrosi da calcolosi ureterale con infezione delle vie urinarie di sede non specificata va codificata con N13.21 <i>Idronefrosi con ostruzione da calcolo ureterale</i> e N39.0 <i>Infezione delle vie urinarie, sede non specificata.</i>.
+I codici della sottocategoria a 4 caratteri ICD-10-GM N13.6- <i>Pionefrosi vanno </i>indicati solo in presenza di un’infezione documentata del rene.  
+Ciò riguarda anche il codice terminale N13.68 <i>Altra e non specificata pionefrosi</i>. Un’idronefrosi da calcolosi ureterale con infezione delle vie urinarie di sede non specificata va codificata con N13.21 <i>Idronefrosi con ostruzione da calcolo ureterale</i> e N39.0 <i>Infezione delle vie urinarie, sede non specificata.</i>.
 {{</markdown>}}
 <br>  
 <br>

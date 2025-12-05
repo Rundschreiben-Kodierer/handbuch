@@ -417,9 +417,8 @@ Comment coder les porteurs de BMR / cas suspects avec ou sans mise en évidence 
 **Explication:**  
 Selon la règle de codage D04, les codes marqués d’un point d’exclamation servent à préciser un code qui les précède et qui n’est pas marqué d’un point d’exclamation, ou à décrire les circonstances d’une maladie, d’une blessure, d’un empoisonnement ou d’une complication.  
 En combinaison avec les codes correspondants de la catégorie Z22.- <i>Sujet porteur de germes responsables d’une maladie infectieuse Incl.: sujet suspecté porteur</i>, ils précisent l’agent pathogène qui n’est pas indiqué dans le code précédent. Ces précisions sont obligatoires lorsqu’elles sont applicables.  
-De plus, la règle de codage G54 doit être prise en compte lors de l’utilisation de ces codes. Ils ne sont codés que s’ils sont associés à un effort médical > 0.
+De plus, la règle de codage G54 doit être prise en compte lors de l’utilisation de ces codes. Ils ne sont codés que s’ils sont associés à un effort médical > 0.  
 C’est-à-dire qu’une mesure diagnostique et/ou de soins doit avoir été effectuée ou qu’un besoin accru de prise en charge, de soins et/ou de surveillance doit avoir été nécessaire, et que cela doit être documenté.
-
   
 **Recommandation de codage:**  
 En cas de suspicion d’une colonisation par une BMR, avec un effort documenté > 0 (par ex. mesures d’isolement), il convient de coder conformément aux indications du chapitre XXI de la CIM-10-GM, Z22.- <i>Sujet porteur de germes responsables d’une maladie infectieuse Incl.: sujet suspecté porteur</i>, en combinaison avec U80.-! – U85!.  
@@ -474,8 +473,8 @@ Le codage avec M80.x8 Ostéoporose avec fracture pathologique: autres localisati
 Le codage supplémentaire avec M49.5* <i>Tassement vertébral au cours de maladies classées ailleurs</i> permet une représentation plus spécifique des segments vertébraux concernés.  
     
 **Recommandation de codage:**  
-Une fracture de tassement vertébral d’origine ostéoporotique est codée avec
-M80.x8 <i>Ostéoporose avec fracture pathologique: autres localisations [cou, tête, côtes, tronc, crâne, colonne vertébrale]</i>. En complément, un code du groupe M49.5-* <i>Tassement vertébral au cours de maladies classées ailleurs</i> doit être ajouté afin d’indiquer clairement la localisation.
+Une fracture de tassement vertébral d’origine ostéoporotique est codée avec M80.x8 <i>Ostéoporose avec fracture pathologique: autres localisations [cou, tête, côtes, tronc, crâne, colonne vertébrale]</i>.  
+En complément, un code du groupe M49.5-* <i>Tassement vertébral au cours de maladies classées ailleurs</i> doit être ajouté afin d’indiquer clairement la localisation.
 {{</markdown>}}
 <br>  
 <br>
@@ -573,8 +572,10 @@ Une tachyarythmie / tachycardie en cas de fibrillation auriculaire / flutter aur
 La fibrillation auriculaire tachycardique (FA) est la forme la plus courante d'arythmie cardiaque tachycardique. Elle est causée par une excitation auriculaire perturbée par des mécanismes de réentrée.
   
 **Recommandation de codage:**  
-Dans la CIM-10-GM, la fibrillation auriculaire (à la 4e place) est différenciée entre paroxystique, persistante et permanente, et le flutter auriculaire entre typique et atypique.
-Le code I48.0 <i>Fibrillation auriculaire, paroxystique</i> comprend les phases normofréquentes, tachycardiques et/ou bradycardiques. 
+Dans la CIM-10-GM, la fibrillation auriculaire (à la 4e place) est différenciée entre paroxystique, persistante et permanente, et le flutter auriculaire entre typique et atypique.  
+  
+Le code I48.0 <i>Fibrillation auriculaire, paroxystique</i> comprend les phases normofréquentes, tachycardiques et/ou bradycardiques.  
+  
 La tachyarythmie / tachycardie ne doit pas être codée en plus de la fibrillation auriculaire.
 {{</markdown>}}
 <br>  
@@ -614,7 +615,7 @@ La tachyarythmie / tachycardie ne doit pas être codée en plus de la fibrillati
 
 {{<markdown>}}
 **Problème/Explication:**  
-Les codes CIM-10-GM de la sous-catégorie à 4 positions N13.6- Pyonéphrose sont uniquement utilisés en cas d’infection documentée du rein.
+Les codes CIM-10-GM de la sous-catégorie à 4 positions N13.6- Pyonéphrose sont uniquement utilisés en cas d’infection documentée du rein.  
 Cela concerne également le code final N13.68 <i>Pyonéphrose, autre et non précisée</i>. Une hydronéphrose avec obstruction calculeuse urétérale avec infection des voies urinaires dont le siège n’est pas précisé est codée avec N13.21 <i>Hydronéphrose avec obstruction calculeuse urétérale</i> et N39.0 <i>Infection des voies urinaires, siège non précisé</i>.
 {{</markdown>}}
 <br>  
