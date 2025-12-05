@@ -435,7 +435,7 @@ Jusqu’au moment où trois tests de dépistage négatifs consécutifs par local
 
 
 
-{{<article number="0009  title="CIM  - Fracture(s) de la colonne vertébrale en cas d’ostéoporose" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0009"  title="CIM  - Fracture(s) de la colonne vertébrale en cas d’ostéoporose" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
