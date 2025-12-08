@@ -21,7 +21,7 @@ I seguenti aggiornamenti **«Manuale di codifica»** sono validi a partire dal 0
 Riguarda tutte le versioni linguistiche
   
 […]
-L’UST ribadisce tuttavia che non può sostituirsi ai medici nella formulazione delle diagnosi. Spetta a questi definire gli interventi eseguiti e informare in merito le persone addette alla codificafont <color="green">.</font><font color="red">>~~, dove le informazioni relative alle diagnosi e alle procedure eseguite devono essere fornite in modo completo e per iscritto nei rispettivi rapporti.~~</font>
+L’UST ribadisce tuttavia che non può sostituirsi ai medici nella formulazione delle diagnosi. Spetta a questi definire gli interventi eseguiti e informare in merito le persone addette alla codifica<font color="green">.</font><font color="red">>~~, dove le informazioni relative alle diagnosi e alle procedure eseguite devono essere fornite in modo completo e per iscritto nei rispettivi rapporti.~~</font>
 […]
 
 
