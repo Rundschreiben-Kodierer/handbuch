@@ -286,7 +286,7 @@ Cette classification permet de distinguer l'ulcère hypertonique des autres type
 
 
 
-{{<article number="0006"  title="CIM – Herpes zoster (Zona)" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0006"  title="CIM - Herpes zoster (Zona)" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -381,7 +381,7 @@ Si les symptômes/la dyspnée sont documentés de manière appropriée, les code
 
 
 
-{{<article number="0008"  title="CIM – Porteur de BMR (bactéries multirésistantes)" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0008"  title="CIM - Porteur de BMR (bactéries multirésistantes)" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>

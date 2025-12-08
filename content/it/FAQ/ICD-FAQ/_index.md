@@ -69,7 +69,7 @@ La mancanza di ventilazione di parti del polmone (segmenti polmonari, lobi polmo
 
 
 
-{{<article number="0002"  title="ICD – Endoleak" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0002"  title="ICD - Endoleak" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -284,7 +284,7 @@ Questa registrazione consente di distinguere l'ulcera ipertensiva da altri tipi 
 
 
 
-{{<article number="0006"  title="ICD – Zoster [herpes zoster]" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0006"  title="ICD - Zoster [herpes zoster]" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>

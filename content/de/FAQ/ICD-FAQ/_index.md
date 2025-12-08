@@ -290,7 +290,7 @@ Durch diese Erfassung kann das Ulcus hypertonicum von anderen Ulcus cruris-Arten
 
 
 
-{{<article number="0006"  title="ICD – Herpes zoster" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0006"  title="ICD - Herpes zoster" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>

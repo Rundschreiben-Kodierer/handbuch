@@ -607,7 +607,7 @@ L’indication de la latéralité n’est impérative que pour les organes exist
 
 
 
-{{<article number="0011"  title="CHOP – Durée de la thérapie prise en compte Thérapie de groupe / Thérapie individuellee" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0011"  title="CHOP - Durée de la thérapie prise en compte Thérapie de groupe / Thérapie individuellee" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -1289,7 +1289,7 @@ Dans l’exemple de l’illustration suivante, une spondylodèse a été réalis
 
 
 
-{{<article number="0025"  title="CHOP – Fusion osseuse avec instrumentation – Colonne vertébrale" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0025"  title="CHOP - Fusion osseuse avec instrumentation – Colonne vertébrale" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -1340,7 +1340,7 @@ Il n'y a <b>pas</b> de <b>potentiel de conservation du mouvement</b> dans le seg
 
 
 
-{{<article number="0026"  title="CHOP – Fusion osseuse sans instrumentation - Colonne vertébrale" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0026"  title="CHOP - Fusion osseuse sans instrumentation - Colonne vertébrale" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -1384,7 +1384,7 @@ En cas de laminotomie, de laminectomie ou de laminoplastie, cela doit être enre
 
 
 
-{{<article number="0027"  title="CHOP – Stabilisation de la colonne vertébrale sans fusion" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0027"  title="CHOP - Stabilisation de la colonne vertébrale sans fusion" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>

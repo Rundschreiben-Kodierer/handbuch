@@ -607,7 +607,7 @@ L’indicazione della lateralità è obbligatoria solo per gli organi pari (nell
 
 
 
-{{<article number="0011"  title="CHOP – Durata della terapia da prendere in considerazione Terapia di gruppo / Terapia individuale" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0011"  title="CHOP - Durata della terapia da prendere in considerazione Terapia di gruppo / Terapia individuale" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -1301,7 +1301,7 @@ Nell’esempio di cui alla seguente figura, è stata eseguita una spondilodesi c
 
 
 
-{{<article number="0025"  title="CHOP – fusione ossea con strumentazione – colonna vertebrale" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0025"  title="CHOP - fusione ossea con strumentazione – colonna vertebrale" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -1353,7 +1353,7 @@ Il codice <b>7A.71.-</b> Fusione di vertebre con stabilizzazione della colonna v
 
 
 
-{{<article number="0026"  title="CHOP – Fusione ossea senza strumentazione - Colonna vertebrale" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0026"  title="CHOP - Fusione ossea senza strumentazione - Colonna vertebrale" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -1398,7 +1398,7 @@ Non è consentito registrare alcun codice della sottocategoria 7A.71.- Fusione d
 
 
 
-{{<article number="0027"  title="CHOP – Stabilizzazione della colonna vertebrale senza fusione" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0027"  title="CHOP - Stabilizzazione della colonna vertebrale senza fusione" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
