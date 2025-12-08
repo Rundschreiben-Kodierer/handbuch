@@ -1120,7 +1120,7 @@ L’applicazione di un solo strumento di valutazione (ad es. ESAS) per rilevare 
 
 
 
-{{<article number="0021"  title="CHOP - Registrazione dei codici supplementari del gruppo di elementi 93.8B.2- «Prestazione supplementare in reparto specialistico autonomo di cure palliative, secondo il numero di giorni di trattamento»" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0021"  title="CHOP - Registrazione «Prestazione supplementare in reparto specialistico autonomo di cure palliative, secondo il numero di giorni di trattamento»" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
