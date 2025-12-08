@@ -1,5 +1,5 @@
 ---
-title: ":Liste des réviseuses et réviseurs du codage médical"
+title: "Liste des réviseuses et réviseurs du codage médical"
 slug: Revisorenliste
 description: ""
 weight: 100
