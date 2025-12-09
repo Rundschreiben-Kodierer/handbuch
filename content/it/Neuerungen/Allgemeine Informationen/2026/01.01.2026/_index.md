@@ -26,7 +26,7 @@ Dal 1° gennaio 2026 vanno utilizzati i seguenti strumenti di codifica:
     </ul>
 </body>
 
-Gli strumenti di codifica medica sono disponibili su www.statistica.admin.ch  Basi statistiche:  Nomenclature  Classificazioni e codifica mediche  Strumenti di codifica medica  Strumenti in vigore per la codifica medica, per anno.
+Gli strumenti di codifica medica sono disponibili su www.statistica.admin.ch => Basi statistiche: => Nomenclature => Classificazioni e codifica mediche => Strumenti di codifica medica => Strumenti in vigore per la codifica medica, per anno.
   
 I file dell’ICD-10-GM in lingua tedesca sono generati dal Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM) e sono disponi-bili sul sito che li mette a disposizione sul proprio sito Internet <a href="https://www.bfarm.de"
    target="_blank"

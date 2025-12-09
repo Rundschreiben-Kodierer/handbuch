@@ -26,7 +26,7 @@ Instruments de codage en vigueur<br><br>
     </ul>
 </body>
 
-Les instruments pour le codage médical sont disponibles sur www.statistique.ch  Bases statistiques  Nomenclatures Classifications et codage médicaux  Instruments pour le codage médical  Instruments en vigueur pour le codage médical, par année.
+Les instruments pour le codage médical sont disponibles sur www.statistique.ch => Bases statistiques => Nomenclatures Classifications et codage médicaux => Instruments pour le codage médical => Instruments en vigueur pour le codage médical, par année.
   
 Les fichiers de l’ICD-10-GM en langue allemande sont établis par le Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM) et mis à disposition sur le site Internet <a href="https://www.bfarm.de"
    target="_blank"
