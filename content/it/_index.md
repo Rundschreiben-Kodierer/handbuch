@@ -1,5 +1,5 @@
 ---
-title: Aggiornamenti alle pubblicazioni delle classificazioni mediche dell'UST
+title: Ufficio federale di statistica - Settore Classificazioni e codifica mediche
 slug: introduction
 description: ""
 keywords: []
