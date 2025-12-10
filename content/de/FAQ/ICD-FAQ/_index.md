@@ -35,7 +35,7 @@ keywords: []
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
-    <td style="border: 1px solid black;">J98.11/J98.12</td>
+    <td style="border: 1px solid black;">J98.11 / J98.12</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">CHOP</th>
@@ -49,7 +49,7 @@ keywords: []
 
 {{<markdown>}}
 **Fragestellung:**  
-Wie wird in der Kodierung unterschieden zwischen J98.11 Partielle Atelektase und J98.12 Totalatelektase?
+Wie wird in der Kodierung unterschieden zwischen J98.11 _Partielle Atelektase_ und J98.12 _Totalatelektase_?
   
 **Problem/Erläuterung:**  
 Der Unterschied zwischen Teilatelektase und Totalatelektase liegt im Ausmass des betroffenen Lungengewebes:
