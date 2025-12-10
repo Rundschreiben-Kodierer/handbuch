@@ -8,9 +8,7 @@ type: docs
 ---
 
 
-Willkomen bei Rundschreiben-Kodierer-Handbuch 2022 Nr 2
-  
-**Anzuwenden bei Fällen mit Austrittsdatum ab 01.07.2022**
+**À appliquer aux cas dont la date de sortie est postérieure au 01.07.2022**
   
 <a href="https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/nomenklaturen/medkk/instrumente-medizinische-kodierung.assetdetail.22906965.html"
    target="_blank"
