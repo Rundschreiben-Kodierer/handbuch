@@ -679,7 +679,7 @@ Exception: pour certains codes CHOP, il est indiqué en note que si le même typ
 </table>
 
 <b>Problème/explication:</b><br>
-Sous les groupes d’éléments 99.84.1- <i>Isolement de contact, selon le nombre de jours de traitement<i/>, 99.84.2- <i>Isolement contre l’infection par gouttelettes, selon le nombre de jours de traitement, […]</i> et 99.84.3- <i>Isolement contre l’infection par aérosol, selon le nombre de jours de traitement, […]</i>, figure l’«Exclusion – Omettre le code» suivante: 
+Sous les groupes d’éléments 99.84.1- <i>Isolement de contact, selon le nombre de jours de traitement</i>, 99.84.2- <i>Isolement contre l’infection par gouttelettes, selon le nombre de jours de traitement, […]</i> et 99.84.3- <i>Isolement contre l’infection par aérosol, selon le nombre de jours de traitement, […]</i>, figure l’«Exclusion – Omettre le code» suivante: 
 
 <br>
 <br>
