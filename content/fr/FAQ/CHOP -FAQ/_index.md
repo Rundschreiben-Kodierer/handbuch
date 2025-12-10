@@ -49,7 +49,7 @@ keywords: []
 </table>
 
 <b>Problème/explication:</b></br>
-Une opération ouverte d'une sténose congénitale de l'isthme aortique est représentée, selon la méthode utilisée, par un code précis du chapitre 7 <font  color="green">«Opérations du système cardio-vasculaire»</font>. S'il existe un code précis, le code 39.99.21 *Opérations d’anomalie congénitale de l’isthme aortique (sténose) ou d’interruption de la crosse aortique* n'est pas codé. 
+Une opération ouverte d'une sténose congénitale de l'isthme aortique est représentée, selon la méthode utilisée, par un code précis du chapitre 7 <font  color="green">«Opérations du système cardio-vasculaire»</font>. S'il existe un code précis, le code 39.99.21 _Opérations d’anomalie congénitale de l’isthme aortique (sténose) ou d’interruption de la crosse aortique_ n'est pas codé. 
 <br>  
 <br>
 <br>
@@ -133,7 +133,7 @@ Une thrombectomie transluminale percutanée sur des vaisseaux pulmonaires au moy
 
 <b>Problème/explication:</b>
 <br>
-Pour les codes de la sous-catégorie 39.71.- *Implantation endovasculaire de stents grafts [stents couverts] dans l’aorte abdominale* et de la sous-catégorie 39.73.4- *Implantation endovasculaire de stents grafts [stents couverts] dans l’aorte thoraco-abdominale*, il faut indiquer avec le code supplémentaire 39.78.5- *Extrémité des stents grafts [stents couverts]* les plus bas comment se termine l’endoprothèse.
+Pour les codes de la sous-catégorie 39.71.- _Implantation endovasculaire de stents grafts [stents couverts] dans l’aorte abdominale_ et de la sous-catégorie 39.73.4- _Implantation endovasculaire de stents grafts [stents couverts] dans l’aorte thoraco-abdominale_, il faut indiquer avec le code supplémentaire 39.78.5- _Extrémité des stents grafts [stents couverts]_ les plus bas comment se termine l’endoprothèse.
 <br>
 <br>
 Le groupe d'éléments 39.78.5- comprend trois codes supplémentaires :
@@ -150,7 +150,7 @@ Le tableau suivant présente graphiquement la signification du code supplémenta
 {{<insertImage image="FAQCHOP0003Tabelle1FR.png" class="edge max-w-90">}}
 <br>
 <br>
-Les endoprothèses aortomono-iliaques ou aorto-biliaires (corps principal (bleu)) peuvent être prolongées par des endoprothèses dans l'artère iliaque commune gauche et/ou droite (d'autres endoprothèses sont alors modelées, vert). Les codes correspondants de la sous-catégorie 39.7B.- *Implantation endovasculaire de stents grafts [stents couverts] dans les artères iliaques commune et externe* doivent être codés en plus dans ce cas.<br>
+Les endoprothèses aortomono-iliaques ou aorto-biliaires (corps principal (bleu)) peuvent être prolongées par des endoprothèses dans l'artère iliaque commune gauche et/ou droite (d'autres endoprothèses sont alors modelées, vert). Les codes correspondants de la sous-catégorie 39.7B.- _Implantation endovasculaire de stents grafts [stents couverts] dans les artères iliaques commune et externe_ doivent être codés en plus dans ce cas.<br>
 <br>
 Le tableau suivant illustre les différentes situations d'une prothèse abdominale principale sans ouvertures (en bleu dans le schéma) :
 <br>

@@ -128,7 +128,7 @@ Un endoleak di **tipo V** è anche denominato endotensione. In questo caso si os
   
 **Tipo IV**: Codice: T82.5 *Complicanza meccanica di altri dispositivi ed impianti cardiaci e vascolar*
   
-**Tipo V**: Codice: I71.- *Aneurisma e dissezione dell’aorta (poiché non si tratta di una complicanza dell'innesto) *         
+**Tipo V**: Codice: I71.- *Aneurisma e dissezione dell’aorta (poiché non si tratta di una complicanza dell'innesto)*         
 {{</markdown>}}
 <br>  
 <br>
