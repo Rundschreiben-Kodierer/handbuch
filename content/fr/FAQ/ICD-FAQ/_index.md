@@ -49,7 +49,7 @@ keywords: []
 
 {{<markdown>}}
 **Question:**  
-Comment distingue-t-on dans le codage entre J98.11 Atélectasie partielle et J98.12 Atélectasie totale?
+Comment distingue-t-on dans le codage entre J98.11 _Atélectasie partielle_ et J98.12 _Atélectasie totale_?
 
   
 **Problème/explication:**
