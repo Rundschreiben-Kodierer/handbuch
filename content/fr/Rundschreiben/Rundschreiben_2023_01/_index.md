@@ -1,5 +1,5 @@
 ---
-title: "Rundschreiben 2023 / 1"
+title: "Circulaire 2023 / 1"
 slug: introduction
 description: ""
 keywords: []

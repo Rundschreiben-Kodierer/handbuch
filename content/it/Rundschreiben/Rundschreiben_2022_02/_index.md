@@ -1,5 +1,5 @@
 ---
-title: "Rundschreiben 2022 / 2"
+title: "Circolare 2022 / 2"
 slug: introduction
 description: ""
 keywords: []

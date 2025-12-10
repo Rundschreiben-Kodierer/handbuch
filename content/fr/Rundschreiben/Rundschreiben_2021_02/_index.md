@@ -1,5 +1,5 @@
 ---
-title: "Rundschreiben 2021 / 2"
+title: "Circulaire 2021 / 2"
 slug: introduction
 description: ""
 keywords: []

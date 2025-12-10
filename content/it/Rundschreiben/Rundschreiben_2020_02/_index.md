@@ -1,5 +1,5 @@
 ---
-title: "Rundschreiben 2020 / 2"
+title: "Circolare 2020 / 2"
 slug: introduction
 description: ""
 keywords: []

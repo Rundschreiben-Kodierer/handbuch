@@ -1,5 +1,5 @@
 ---
-title: "Rundschreiben ab 2019"
+title: "Circolari a partire dal 2019"
 slug: introduction
 description: ""
 keywords: []

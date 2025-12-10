@@ -1,5 +1,5 @@
 ---
-title: "Rundschreiben 2021 / 1"
+title: "Circolare 2021 / 1"
 slug: introduction
 description: ""
 keywords: []
