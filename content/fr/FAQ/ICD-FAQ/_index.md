@@ -35,7 +35,7 @@ keywords: []
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
-    <td style="border: 1px solid black;">J98.11/J98.12</td>
+    <td style="border: 1px solid black;">J98.11 / J98.12</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">CHOP</th>
