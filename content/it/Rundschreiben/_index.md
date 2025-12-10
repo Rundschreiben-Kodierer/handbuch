@@ -1,5 +1,5 @@
 ---
-title: "Rundschreiben - Archiv"
+title: "Circolari - Archivio"
 slug: Rundschreiben
 description: ""
 weight: 202601

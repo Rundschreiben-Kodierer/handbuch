@@ -1,5 +1,5 @@
 ---
-title: "Rundschreiben 2025 / 1"
+title: "Circolare 2025 / 1"
 slug: introduction
 description: ""
 keywords: []
