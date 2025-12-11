@@ -107,7 +107,7 @@ Un endoleak è una perdita tra la protesi vascolare e il sacco aneurismatico dop
   
 Un endoleak di **tipo I** è causato da una fissazione a tenuta insufficiente nel punto di attacco dell'innesto.
   
-Nell'endoleak di **tipo II**, il sacco aneurismatico si riempie di sangue attraverso un ramo laterale. Si distingue tra:   
+Nell'endoleak di **tipo II**, il sacco aneurismatico si riempie di sangue attraverso un ramo laterale. Si distingue tra:  
 **Tipo IIa**: singolo vaso sanguigno afferente  
 **Tipo IIb**: più vasi sanguigni afferenti
   
