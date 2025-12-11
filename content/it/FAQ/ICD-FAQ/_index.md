@@ -49,7 +49,7 @@ keywords: []
 
 {{<markdown>}}
 **Domanda:**  
-Come si distingue nella codifica tra J98.11 Atelettasia parziale e J98.12 Atelettasia totale?
+Come si distingue nella codifica tra J98.11 <i>Atelettasia parziale</i> e J98.12 <i>Atelettasia totale</i>?
   
 **Problema/Spiegazione:**  
 La differenza tra atelettasia parziale e atelettasia totale risiede nell'estensione del tessuto polmonare interessato:
@@ -108,8 +108,8 @@ Un endoleak è una perdita tra la protesi vascolare e il sacco aneurismatico dop
 Un endoleak di **tipo I** è causato da una fissazione a tenuta insufficiente nel punto di attacco dell'innesto.
   
 Nell'endoleak di **tipo II**, il sacco aneurismatico si riempie di sangue attraverso un ramo laterale. Si distingue tra: 
-Tipo IIa: singolo vaso sanguigno afferente 
-Tipo IIb: più vasi sanguigni afferenti
+**Tipo IIa**: singolo vaso sanguigno afferente 
+**Tipo IIb**: più vasi sanguigni afferenti
   
 Un endoleak di **tipo III** è causato da un guasto meccanico dello stent graft: 
 **Tipo IIIa**: collegamento tra componenti modulari allentato 
@@ -124,7 +124,7 @@ Un endoleak di **tipo V** è anche denominato endotensione. In questo caso si os
   
 **Tipo IIa/ IIb**: Codice: I71.- *Aneurisma e dissezione dell’aorta (poiché non si tratta di una complicanza dell'innesto)*
   
-**Tipo IIIa/ IIIb**: Codice: T82.5 *Complicanza meccanica di altri dispositivi ed impianti cardiaci e vascolar*
+**Tipo IIIa/ IIIb**: Codice: T82.5 <i>Complicanza meccanica di altri dispositivi ed impianti cardiaci e vascolar</i>
   
 **Tipo IV**: Codice: T82.5 *Complicanza meccanica di altri dispositivi ed impianti cardiaci e vascolar*
   
@@ -173,11 +173,11 @@ Come viene rappresentata una cisti idatidea, echinococcosi cistica?
 Nell'ICD-10-GM 2024 alfabetico, per l'echinococcosi cistica del fegato, alla voce B67.0† *Infezione del fegato da echinococco granuloso [echinococcosi cistica]*, si rimanda a 
 K77.0* *Disturbi epatici in malattie infettive e parassitarie classificate altrove*.
   
-Per Echinococcus, cisti, da idatidi, fegato, l'indice alfabetico rimanda a B67.0 *Infezione del fegato da echinococco granuloso [echinococcosi cistica]*
+Per Echinococcus, cisti, da idatidi, fegato, l'indice alfabetico rimanda a B67.0 *Infezione del fegato da echinococco granuloso [echinococcosi cistica]*.
 Nell'ICD si distingue tra cisti idatidea nel fegato con o senza infezione del tessuto epatico circostante.
     
 **Raccomandazione di codifica:**  
-se la cisti idatidea è incapsulata in modo netto, può essere asportata scollandola e non è presente infiammazione del tessuto epatico circostante, deve essere codificata B67.0 *Infezione del fegato da echinococco granuloso [echinococcosi cistica]*. Non viene registrato alcun codice asterisco.
+Se la cisti idatidea è incapsulata in modo netto, può essere asportata scollandola e non è presente infiammazione del tessuto epatico circostante, deve essere codificata B67.0 *Infezione del fegato da echinococco granuloso [echinococcosi cistica]*. Non viene registrato alcun codice asterisco.
   
 Se nel tessuto circostante sono presenti anche componenti dell'echinococco che provocano una reazione infiammatoria, deve essere codificato anche K77.0* *Disturbi epatici in malattie infettive e parassitarie classificate altrove*.
 {{</markdown>}}
@@ -222,11 +222,11 @@ Come viene registrata una stenosi carotidea bilaterale? Come vengono registrate 
 In linea di principio vale quanto segue: occorre sempre scegliere il codice ICD più specifico che descriva con maggiore precisione la diagnosi documentata.
 <body>
     <ul>
-        <li><b>L'occlusione bilaterale di una singola arteria precerebrale</b> (ad es. arteria carotide) viene codificata con il codice specifico <b>I65.-</b> <i>indicando la lateralità.</i>
+        <li><b>L'occlusione bilaterale di una singola arteria precerebrale</b> (ad es. arteria carotide) viene codificata con il codice specifico <b>I65.-</b> indicando la lateralità.<br>
 <b>Esempio</b> : occlusione/stenosi bilaterale dell'arteria carotide → <b>I65.2:</b> <i>Occlusione e stenosi dell’arteria carotidea.</i> 
 </li>
-        <li><b>L'occlusione/stenosi di più arterie precerebrali diverse</b> viene codificata con il codice <b>I65.3</b>: 
-<b>Esempio:</b><i> stenosi unilaterale o bilaterale dell'arteria vertebrale nonche stenosi unilaterale o bilaterale dell'arteria carotide interna</i>.→ <b>I65.3</b><i> Occlusione e stenosi di arterie extracraniche multiple e bilaterali L = R, L o B.</i>
+        <li><b>L'occlusione/stenosi di più arterie precerebrali diverse</b> viene codificata con il codice <b>I65.3</b>:<br>
+<b>Esempio:</b>stenosi unilaterale o bilaterale dell'arteria vertebrale nonche stenosi unilaterale o bilaterale dell'arteria carotide interna.→ <b>I65.3</b><i> Occlusione e stenosi di arterie extracraniche multiple e bilaterali L = R, L o B.</i>
 </li>
     </ul>
 </body>
@@ -273,7 +273,7 @@ Come viene rappresentato l'ulcera (della gamba) ipertensiva (Martorell)?
 L'ulcera (della gamba) ipertensiva è una forma speciale di ulcera crurale che si manifesta prevalentemente nella parte laterodorsale della gamba o sopra il tendine di Achille. La maggior parte dei pazienti presenta un ipertonia marcata e di lunga durata, combinata in circa il 60% dei casi con un diabete mellito di tipo 2. Esistono tre spiegazioni per l'eziologia dell'ulcera ipertensiva: l'arteriosclerosi ischemizzante, la calcificazione della tunica media di arteriole patologiche ed i processi infiammatori locali. L'arteriosclerosi nel sottocute è la causa principale della patogenesi della necrosi cutanea. Anche se dal punto di vista patogenetico la malattia è riconducibile all'arteriosclerosi, l’effettiva causa eziogenica è l'ipertensione.
   
 **Raccomandazione di codifica:**  
-Per l'ulcera ipertensiva (Martorell) raccomandiamo la seguente combinazione di codici: L97 Ulcera dell’ arto inferiore non classificata altrove insieme alla combinazione croce-stella dal codice applicabile I10.-† a I15.-† e L99.8* *Altri disturbi specificati della cute e del tessuto sottocutaneo in malattie classificate altrove*.
+Per l'ulcera ipertensiva (Martorell) raccomandiamo la seguente combinazione di codici: L97 *Ulcera dell’ arto inferiore non classificata altrove* insieme alla combinazione croce-stella dal codice applicabile I10.-† a I15.-† e L99.8* *Altri disturbi specificati della cute e del tessuto sottocutaneo in malattie classificate altrove*.
 Questa registrazione consente di distinguere l'ulcera ipertensiva da altri tipi di ulcera crurale 
 {{</markdown>}}
 <br>  
@@ -321,8 +321,8 @@ Come si codifica un Zoster [herpes zoster] con manifestazioni cutanee nel corris
 È importante stabilire se le efflorescenze siano già scomparse da tempo e il dolore persista nel dermatomo interessato, nel qual caso si tratta di una cosiddetta nevralgia post-herpetica, oppure se si tratti di un Zoster [herpes zoster] acuto con manifestazioni cutanee. 
   
 **Raccomandazione di codifica:**  
-Se si tratta di una manifestazione acuta di Zoster [herpes zoster] e non di una nevralgia post-erpetica, il codice B02.2† <i>Zoster con interessamento di altre aree del sistema nervoso centrale</i> non è corretto. Il dolore è un sintomo regolare dello zoster acuto e deve essere codificato con B02.9 <i>Zoster senza complicanza</i>.  
-In caso di Zoster [herpes zoster] con manifestazione nell'area di innervazione del 1° ramo del trigemino, si tratta per definizione di zoster oftalmico. Secondo l'ICD-10-GM 2024, questo viene codificato con B02.3 <i>Oftalmopatia da zoster</i>.
+Se si tratta di una manifestazione acuta di Zoster [herpes zoster] e non di una nevralgia post-erpetica, il codice B02.2† <i>Zoster con interessamento di altre aree del sistema nervoso centrale</i> non è corretto. Il dolore è un sintomo regolare dello Zoster acuto e deve essere codificato con B02.9 <i>Zoster senza complicanza</i>.  
+In caso di Zoster [herpes zoster] con manifestazione nell'area di innervazione del 1° ramo del trigemino, si tratta per definizione di Zoster oftalmico. Secondo l'ICD-10-GM 2024, questo viene codificato con B02.3 <i>Oftalmopatia da Zoster</i>.
 {{</markdown>}}
 <br>  
 <br>
@@ -373,7 +373,7 @@ Sintomi: dispnea, affaticamento, ridotta capacità di esercizio, edemi alle gamb
 La gravità dell’insufficienza cardiaca con frazione di eiezione preservata (HFpEF) viene determinata dai sintomi clinici e dalle limitazioni funzionali del paziente. Nella codifica ciò viene considerato tramite l’utilizzo di specifiche diagnosi secondarie e categorie di gravità.
   
 **Raccomandazione di codifica:**  
-Se i disturbi o la dispnea sono adeguatamente documentati, i codici I50.12 – I50.14 per <i>Insufficienza ventricolare sinistra con disturbi</i> e i codici aggiuntivi I50.02! – I50.05! per <i>Insufficienza cardiaca destra con disturbi possono</i> essere utilizzati anche in presenza di frazione di eiezione preservata..
+Se i disturbi o la dispnea sono adeguatamente documentati, i codici I50.12 – I50.14 <i>Insufficienza ventricolare sinistra con disturbi</i> e i codici aggiuntivi I50.02! – I50.05! <i>Insufficienza cardiaca destra con disturbi</i> possono essere utilizzati anche in presenza di frazione di eiezione preservata.
 {{</markdown>}}
 <br>  
 <br>
@@ -420,16 +420,15 @@ Come vengono codificati i portatori di agenti patogeni multiresistenti / casi so
   
 **Spiegazione:**  
 Secondo la regola di codifica D04, i codici con punto esclamativo servono a specificare un codice precedente non contrassegnato da punto esclamativo o descrivono le circostanze di una malattia, lesione, avvelenamento o complicanza.  
-In combinazione con i codici corrispondenti della categoria Z22.- <i>Portatore di malattie infettive Incl.: sospetto di stato di portatore</i>, specificano più precisamente il germe che non è indicato nel codice precedente. Queste precisazioni devono essere indicate obbligatoriamente, se applicabili.  
-Inoltre, nell'indicare questi codici occorre tenere conto della regola di codifica G54. Questi codici vengono codificati solo se sono associati a un impegno medico > 0.  
-Ciò significa che deve essere stata adottata una misura diagnostica e/o assistenziale o che deve essere associato un aumento delle spese di assistenza, cura e/o monitoraggio, che devono essere documentate. 
+In combinazione con i codici corrispondenti della categoria Z22.- <i>Portatore di malattie infettive Incl.: sospetto di stato di portatore</i> specificano più precisamente il germe che non è indicato nel codice precedente. Queste precisazioni devono essere indicate obbligatoriamente, se applicabili.  
+Inoltre, nell'indicare questi codici occorre tenere conto della regola di codifica G54. Questi codici vengono codificati solo se sono associati a un impegno medico > 0. Ciò significa che deve essere stata adottata una misura diagnostica e/o assistenziale o che deve essere associato un aumento delle spese di assistenza, cura e/o monitoraggio, che devono essere documentate. 
   
 **Raccomandazione di codifica:**  
-In caso di sospetta colonizzazione di agenti patogeni multiresistenti, se l'onere documentato è > 0 (ad es. misure di isolamento), codificare secondo le indicazioni del capitolo XXI dell'ICD-10-GM, Z22.- <i>Portatore di malattie infettive Incl.: sospetto di stato di portatore</i>, in combinazione con U80.-! – U85!. 
+In caso di sospetta colonizzazione di agenti patogeni multiresistenti, se l'onere documentato è > 0 (ad es. misure di isolamento), codificare secondo le indicazioni del capitolo XXI dell'ICD-10-GM, Z22.- <i>Portatore di malattie infettive Incl.: sospetto di stato di portatore</i> in combinazione con U80.-! – U85!. 
 
 Nel caso di portatori asintomatici con rilevamento dell'agente patogeno senza terapia corrispondente (ad es. antibiotici), i codici della categoria «Batteri, virus ed altri agenti infettivi come causa di malattie classificate altrove (B95-B98)» non vengono registrati in aggiunta. 
 
-Fino al momento in cui non siano disponibili tre test di tampone negativi consecutivi per ciascuna localizzazione, il paziente continua ad essere considerato positivo all' agenti patogeni multiresistenti.  
+Fino al momento in cui non siano disponibili tre test di tampone negativi consecutivi per ciascuna localizzazione, il paziente continua ad essere considerato positivo all'agenti patogeni multiresistenti.  
 {{</markdown>}}
 <br>  
 <br>
@@ -471,10 +470,10 @@ Fino al momento in cui non siano disponibili tre test di tampone negativi consec
 
 {{<markdown>}}
 **Domanda:**  
-In caso di frattura osteoporotica da sinterizzazione della colonna vertebrale, è necessario aggiungere un codice per la descrizione più dettagliata della localizzazione, M49.5-* Collasso vertebrale in malattie classificate altrove?
+In caso di frattura osteoporotica da sinterizzazione della colonna vertebrale, è necessario aggiungere un codice per la descrizione più dettagliata della localizzazione, M49.5-* <i>Collasso vertebrale in malattie classificate altrove</i>?
   
 **Spiegazione:**  
-La codifica con M80.x8 Osteoporosi con frattura patologica: altre localizzazioni consente solo un'indicazione molto approssimativa della localizzazione della frattura, in particolare nel caso di fratture vertebrali. La categoria “Altre" comprende diverse regioni anatomiche come collo, testa, costole, tronco, cranio e colonna vertebrale, senza una differenziazione precisa all'interno di queste strutture.  
+La codifica con M80.x8 <i>Osteoporosi con frattura patologica: altre localizzazioni</i> consente solo un'indicazione molto approssimativa della localizzazione della frattura, in particolare nel caso di fratture vertebrali. La categoria “Altre" comprende diverse regioni anatomiche come collo, testa, costole, tronco, cranio e colonna vertebrale, senza una differenziazione precisa all'interno di queste strutture.  
   
 La codifica aggiuntiva con M49.5* <i>Collasso vertebrale in malattie classificate altrove consente</i> una rappresentazione più specifica delle sezioni della colonna vertebrale interessate. 
   
@@ -533,7 +532,7 @@ J15.8 presuppone l'identificazione dell'agente patogeno e serve a codificare un 
   
 **Raccomandazione di codifica:**  
 L'indice alfabetico rimanda al codice J15.9 <i>Polmonite batterica non specificata</i> in caso di polmonite batterica senza ulteriori dettagli.
-J15.8 Altra polmonite batterica si applica solo se è disponibile un esame batteriologico il cui risultato indica un agente patogeno diverso da quelli specificati in J15-.  
+J15.8 <i>Altra polmonite batterica</i> si applica solo se è disponibile un esame batteriologico il cui risultato indica un agente patogeno diverso da quelli specificati in J15-.  
 In assenza di prove batteriologiche, deve essere registrato J15.9 <i>Polmonite batterica non specificata</i>.
   
 Il fatto che si tratti di un'infezione di origine batterica non giustifica automaticamente la codifica di J15.8 <i>Altra polmonite batterica.
@@ -589,7 +588,7 @@ Nell'ICD-10-GM, la fibrillazione atriale (al 4° posto) viene differenziata tra 
   
 Il codice I48.0 <i>Fibrillazione atriale, parossistica comprende fasi normofrequenti, tachicardiche e/o bradicardiche</i>. 
   
-La tachiaritmia/tachicardia non deve essere codificata in aggiunta alla fibrillazione atriale.
+La tachiaritmia / tachicardia non deve essere codificata in aggiunta alla fibrillazione atriale.
 {{</markdown>}}
 <br>  
 <br>
@@ -631,7 +630,7 @@ La tachiaritmia/tachicardia non deve essere codificata in aggiunta alla fibrilla
 
 {{<markdown>}}
 **Problema/Spiegazione:**  
-I codici della sottocategoria a 4 caratteri ICD-10-GM N13.6- <i>Pionefrosi vanno </i>indicati solo in presenza di un’infezione documentata del rene.  
+I codici della sottocategoria a 4 caratteri ICD-10-GM N13.6- Pionefrosi vanno indicati solo in presenza di un’infezione documentata del rene.  
 Ciò riguarda anche il codice terminale N13.68 <i>Altra e non specificata pionefrosi</i>. Un’idronefrosi da calcolosi ureterale con infezione delle vie urinarie di sede non specificata va codificata con N13.21 <i>Idronefrosi con ostruzione da calcolo ureterale</i> e N39.0 <i>Infezione delle vie urinarie, sede non specificata.</i>.
 {{</markdown>}}
 <br>  
