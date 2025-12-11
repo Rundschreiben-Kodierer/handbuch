@@ -76,7 +76,7 @@ Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Metho
   </tr>
   <tr>
     <th style="border: 1px solid black;">CHOP</th>
-    <td style="border: 1px solid black;">39.75.17/ 00.4B.13 / 00.4F.2-</td>
+    <td style="border: 1px solid black;">39.75.17 / 00.4B.13 / 00.4F.2-</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Kodierregel</th>
@@ -150,7 +150,7 @@ In der folgenden Tabelle wurde die Bedeutung des jeweiligen Zusatzkodes für den
 {{<insertImage image="FAQCHOP0003Tabelle1.png" class="edge max-w-90">}}
 <br>
 <br>
-Die aortomonoiliakal oder aortobiiliakal endenden Stent-Grafts (Hauptkörper (blau)) können mit Stent-Grafts in der linken und/oder rechten A. iliaca communis verlängert werden (weitere Stent-Grafts werden dann anmodelliert, grün). Die entsprechenden Kodes der Subkategorie 39.7B.- <l>Endovaskuläre Implantation von Stent-Grafts [gecoverten Stents] in die Aa. iliacae communis und externa</l> sind in diesem Fall zusätzlich zu kodieren.<br>
+Die aortomonoiliakal oder aortobiiliakal endenden Stent-Grafts (Hauptkörper (blau)) können mit Stent-Grafts in der linken und/oder rechten A. iliaca communis verlängert werden (weitere Stent-Grafts werden dann anmodelliert, grün). Die entsprechenden Kodes der Subkategorie 39.7B.- <i>Endovaskuläre Implantation von Stent-Grafts [gecoverten Stents] in die Aa. iliacae communis und externa</i> sind in diesem Fall zusätzlich zu kodieren.<br>
 <br>
 Folgende Tabelle illustriert die verschiedenen Situationen einer abdominalen Hauptprothese ohne Öffnungen (blau im Schema):
 <br>
@@ -462,7 +462,7 @@ Die Kodes 38.7X.11 <i>Einsetzen eines Embolie-Protektionssystems in die Vena cav
 </table>
 
 <b>Problem/Erläuterung:</b><br>
-Folgende Kodes der Subkategorie 51.99.- Sonstige Operationen an den Gallenwegen sind nur für offen chirurgische oder laparoskopische Eingriffe abzubilden:
+Folgende Kodes der Subkategorie 51.99.- <i>Sonstige Operationen an den Gallenwegen</i> sind nur für offen chirurgische oder laparoskopische Eingriffe abzubilden:
 <body>
     <ul>
         <li>51.99.00 <i>n.n.bez.</i> und 51.99.99 <i>sonstige</i></li>
@@ -515,7 +515,7 @@ Der Kode 51.99.90 <i>Sonstige endoskopische Operationen an den Gallenwegen</i>, 
 Wird eine bestehende Knieendoprothese, unabhängig vom Typ, durch eine andere Knieendoprothese ersetzt, ist für die Implantation der Kode mit der Bezeichnung «bei einem Prothesenwechsel» zu wählen. 
 <br><br>
 Z. B. Explantation einer Hemiendoprothese und Implantation einer Totalendoprothese am gleichen Knie: für die Implantation muss der Kode 81.54.31 <i>Implantation einer Standard-Totalendoprothese des Kniegelenks bei einem Prothesenwechsel</i> erfasst werden und <b>nicht</b> der Kode 81.54.21 <i>Erstimplantation einer Standard-Totalendoprothese des Kniegelenks</i>.
-<br><br>
+<br>
 Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückflächenersatz eingesetzt, muss der Kode 81.54.42 <i>Implantation eines Patella-Rückflächenersatz bei einem Wechsel</i> erfasst werden und <b>nicht</b> der Kode 81.54.27 <i>Erstimplantation eines Patella-Rückflächenersatzes</i>.
 <br>
 <br>
@@ -530,7 +530,7 @@ Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückfl
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Eingriffe Hand, Fuss, Mittelhand- Fingerstrahlen, Mittelfuss-Zehenstrahlen</td>
+    <td style="border: 1px solid black;">Eingriffe Hand, Fuss, Mittelhand-Fingerstrahlen, Mittelfuss-Zehenstrahlen</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Erstellt</th>
@@ -571,7 +571,7 @@ Folgende Tabelle präzisiert die Kodierung von Eingriffskode und Zusatzkode bei 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Lateralitätsmarkierung / paarige Organe / nicht- paarige Organe</td>
+    <td style="border: 1px solid black;">Lateralitätsmarkierung / paarige Organe / nicht-paarige Organe</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Erstellt</th>
@@ -777,7 +777,7 @@ Zur Berechnung der Behandlungstage für die CHOP-Kodes der Elementegruppe 93.59.
 {{<markdown>}}
 **Problem/Erläuterung:**  
 Die Kodes «[…], bis 6 Behandlungstage» werden in Fällen erfasst, bei denen während des stationären Aufenthalts an maximal 6 Behandlungstagen die jeweils genannte Komplexbehandlung durchgeführt wurde. Diese Kodes beinhalten keine Mindestanzahl Behandlungstage.  
-D. h. bei diesen Kodes entfallen die Mindestmerkmale, die sich auf eine Woche oder bestimmte Anzahl Behandlungstage beziehen. Mindestmerkmale, wie Indikationen, Assessments, Behandlungsinfrastruktur (z. B. Zertifizierung) und Qualifikationen sind einzuhalten
+D. h. bei diesen Kodes entfallen die Mindestmerkmale, die sich auf eine Woche oder bestimmte Anzahl Behandlungstage beziehen. Mindestmerkmale, wie Indikationen, Assessments, Behandlungsinfrastruktur (z. B. Zertifizierung) und Qualifikationen sind einzuhalten.
 {{</markdown>}}
 <br>
 <br>
@@ -924,9 +924,9 @@ Werden hingegen ein craniales MRI, eine neurophysiologische Diagnostik sowie ein
 
 {{<markdown>}}
 **Problem/Erläuterung:**  
-Pflegeinterventionen könnten theoretisch mehreren Leistungsgruppen zugeordnet werden. In der Pflege-Komplexbehandlung darf eine geleistete Pflegeintervention jedoch nur einer Leistungsgruppe zugeordnet werden. Dies bedeutet nicht, dass sie zwingend der Leistungsgruppe zugeordnet wird in der bereits Aufwandspunkte für diesen Tag erfasst wurden.
+Pflegeinterventionen könnten theoretisch mehreren Leistungsgruppen zugeordnet werden. In der Pflege-Komplexbehandlung darf eine geleistete Pflegeintervention jedoch nur einer Leistungsgruppe zugeordnet werden. Dies bedeutet nicht, dass sie zwingend der Leistungsgruppe zugeordnet wird, in der bereits Aufwandspunkte für diesen Tag erfasst wurden.
   
-Beispiel 1: Ein «Transfer auf die Toilette» könnte im Rahmen des Pflegeinterventionsprofils 1.1 der Leistungsgruppe 1 «Bewegung» oder im Rahmen des Pflegeinterventionsprofils 3.1 der Leistungsgruppe 3 «Ausscheidung» geleistet werden. Wenn die Aktivität unter der Leistungsgruppe 1 erfasst wird, darf sie nicht zusätzlich bei der Leistungsgruppe 3 erfasst werden, oder umgekehrt. Die Aktivität darf nur einem der zwei Pflegeinterventionsprofile zugeordnet werden.
+Beispiel 1: Ein «Transfer auf die Toilette» könnte im Rahmen des Pflegeinterventionsprofils 1.1 der Leistungsgruppe 1 «Bewegung» oder im Rahmen des Pflegeinterventionsprofils 3.1 der Leistungsgruppe 3 «Ausscheidung» geleistet werden. Wenn die Aktivität unter der Leistungsgruppe 1 erfasst wird, darf sie nicht zusätzlich bei der Leistungsgruppe 3 erfasst werden oder umgekehrt. Die Aktivität darf nur einem der zwei Pflegeinterventionsprofile zugeordnet werden.
   
 Beispiel 2: Eine «Hygienemassnahme» könnte im Rahmen des Pflegeinterventionsprofils 2.1 der Leistungsgruppe 2 «Körperpflege» oder im Rahmen des Pflegeinterventionsprofils 3.1 der Leistungsgruppe 3 «Ausscheidung» geleistet werden. Wenn die Aktivität unter der Leistungsgruppe 2 erfasst wird, darf sie nicht zusätzlich bei der Leistungsgruppe 3 erfasst werden, oder umgekehrt. Die Aktivität darf nur einem der zwei Pflegeinterventionsprofile zugeordnet werden.
 {{</markdown>}}
@@ -1038,7 +1038,7 @@ Folgendes zählt nicht zu den 6 Stunden:  <br>
 <br>  
 <br>  
 <b>Fragestellung Nr. 2:</b><br>  
-Was ist unter «wöchentlich» bei der «wöchentlicher interprofessioneller Teambesprechung» unter 93.8A.2- im _Mindestmerkmal_ Punkt 4, _Therapieplanung und -kontrolle_ und unter 93.8B.- im _Mindestmerkmal_ Punkt 5, _Therapieplanung und -kontrolle_?
+Was ist unter «wöchentlich» bei der «wöchentlicher interprofessioneller Teambesprechung» unter 93.8A.2- im <i>Mindestmerkmal</i> Punkt 4, <i>Therapieplanung und -kontrolle</i> und unter 93.8B.- im <i>Mindestmerkmal</i> Punkt 5, <i>Therapieplanung und -kontrolle</i>?
 <br>  
 <br>  
 <b>Erläuterung Nr. 2:</b><br>
@@ -1098,7 +1098,7 @@ Bei der «interprofessionellen Visite» ist unter «interprofessionell» zu vers
 {{<markdown>}}
 **Problem/Erläuterung:**  
 **Ist SENS ebenfalls ein standardisiertes palliativmedizinisches Basisassessment (PBA)?**  
-Mit dem SENS-Assessment werden folgende Bereiche der Palliativversorgung abgedeckt: Symptommanagement, Entscheidungsfindung/ End of Life Vorbereitung, Netzwerk-Organisation, Support der Angehörigen. SENS integriert alle Themenbereiche der gängigen Ziele, Definitionen und Modelle.  
+Mit dem SENS-Assessment werden folgende Bereiche der Palliativversorgung abgedeckt: Symptommanagement, Entscheidungsfindung / End of Life Vorbereitung, Netzwerk-Organisation, Support der Angehörigen. SENS integriert alle Themenbereiche der gängigen Ziele, Definitionen und Modelle.  
 Somit ist auch ein dokumentiertes SENS-Assessment als standardisiertes palliativmedizinisches Basisassessment für die Kodes 93.8A.2- und 93.8B.- anzuerkennen.
   
 **Kann ein einzelnes Assessmentinstrument als palliativmedizinisches Basisassessment zählen?**  
@@ -1144,9 +1144,9 @@ Die alleinige Durchführung eines Assessmentinstrumentes (z. B. ESAS) zur Erfass
 
 {{<markdown>}}
 **Problem/Erläuterung:**  
-Die Elementegruppe 93.8B.1- stellt den _«Aufenthalt auf einer eigenständigen spezialisierten Palliative Care Station, nach Anzahl Behandlungstage»_ dar. Falls die Mindestmerkmale unter 93.8B.- sowie unter 93.8B.1- erfüllt sind, ist der entsprechende Kode unter 93.8B.1- für die gesamte Behandlungsdauer auf der spezialisierten Palliative Care Station zu erfassen. Falls in einer oder mehreren Behandlungswochen **parallel zum Aufenthalt** auf einer eigenständigen spezialisierten Palliative Care Station spezialisierte Palliative Care Zusatzleistungen erbracht werden, kann der entsprechende Kode der Elementegruppe 93.8B.2- _Zusatzleistung auf einer eigenständigen spezialisierten Palliative Care Station, nach Anzahl Behandlungstage_ erfasst werden.
+Die Elementegruppe 93.8B.1- stellt den «Aufenthalt auf einer eigenständigen spezialisierten Palliative Care Station, nach Anzahl Behandlungstage» dar. Falls die Mindestmerkmale unter 93.8B.- sowie unter 93.8B.1- erfüllt sind, ist der entsprechende Kode unter 93.8B.1- für die gesamte Behandlungsdauer auf der spezialisierten Palliative Care Station zu erfassen. Falls in einer oder mehreren Behandlungswochen **parallel zum Aufenthalt** auf einer eigenständigen spezialisierten Palliative Care Station spezialisierte Palliative Care Zusatzleistungen erbracht werden, kann der entsprechende Kode der Elementegruppe 93.8B.2- _Zusatzleistung auf einer eigenständigen spezialisierten Palliative Care Station, nach Anzahl Behandlungstage_ erfasst werden.
   
-Folgende zwei Beispiele veranschaulichen die gemeinte Erfassungsweise der Zusatzkodes der Elementegruppe 93.8B.2- _«Zusatzleistung auf einer eigenständigen spezialisierten Palliative Care Station, nach Anzahl Behandlungstage»_.
+Folgende zwei Beispiele veranschaulichen die gemeinte Erfassungsweise der Zusatzkodes der Elementegruppe 93.8B.2- _Zusatzleistung auf einer eigenständigen spezialisierten Palliative Care Station, nach Anzahl Behandlungstage_.
 
 {{</markdown>}}
 <br><br>
@@ -1281,7 +1281,7 @@ Für die Subkategorien 7A.71.- bis 7A.74.- erfolgte die Aufgliederung in 5. Stel
 Das «und» ist gemäss CHOP-Konventionen als «und/oder» zu verstehen. 
   
 Das «Beachte» unter 7A.7- _Stabilisierung der Wirbelsäule und Stellungskorrektur_ lautet: 
-_«Erfolgt der Zugang für gewisse Segmente von dorsal sowie von ventral, so ist für das gesamte Eingriffsgebiet die gesamte Anzahl der Segmente, die von dorsal operiert wurden mit einem Kode anzugeben, sowie die gesamte Anzahl der Segmente, die von ventral operiert wurden mit einem anderen Kode. Zusätzlich wird der Zusatzkode der gesamten Anzahl operierter Segmente angegeben.»_  
+«Erfolgt der Zugang für gewisse Segmente von dorsal sowie von ventral, so ist für das gesamte Eingriffsgebiet die gesamte Anzahl der Segmente, die von dorsal operiert wurden mit einem Kode anzugeben, sowie die gesamte Anzahl der Segmente, die von ventral operiert wurden mit einem anderen Kode. Zusätzlich wird der Zusatzkode der gesamten Anzahl operierter Segmente angegeben.»  
 Die dorsolateralen Zugänge zählen zu den dorsalen Zugängen. Sprich das Segment wird nicht doppelt gezählt, wenn es von dorsal sowie dorsolateral operiert wird.
   
 Im Beispiel der folgenden Abbildung erfolgte eine Spondylodese über sechs Wirbel, d.h. über fünf Segmente. Drei Segmente werden von dorsal und/oder dorsolateral operiert, 4 Segmente von ventral. Es werden somit ein Kode für drei Segmente «dorsal und dorsolateral» sowie ein Kode für vier Segmente «ventral» erfasst. Zusätzlich wird der entsprechende Kode der Subkategorie 7A.B4.- _Summe der operierten Segmente der Wirbelsäule_ für fünf Segmente kodiert.
@@ -1413,7 +1413,7 @@ Es darf **kein** Kode der Subkategorie 7A.71.- _Fusion von Wirbeln mit Stabilisi
   </tr>
   <tr>
     <th style="border: 1px solid black;">CHOP</th>
-    <td style="border: 1px solid black;">37A.73.-</td>
+    <td style="border: 1px solid black;">7A.73.-</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Kodierregel</th>

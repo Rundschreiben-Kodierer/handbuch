@@ -306,7 +306,7 @@ Codifica:
 Giorno X:
     {{</grid/column>}}
     {{<grid/column>}}
-46.99.51 <i>il codice 46.99.51 Inserzione o sostituzione di una protesi non autoespandente nell’intestino, chirurgica a cielo aperto </i>va indicato <b>due volte</b>.
+46.99.51 <i>Inserzione o sostituzione di una protesi non autoespandente nell’intestino, chirurgica a cielo aperto </i>va indicato <b>due volte</b>.
     {{</grid/column>}}
 {{</grid>}}
 {{<grid class="ps-0">}}
@@ -314,8 +314,8 @@ Giorno X:
 Giorno Y:
     {{</grid/column>}}
     {{<grid/column>}}
-46.99.71 <i>il codice 46.99.71 Rimozione di protesi dell’intestino, chirurgica a cielo aperto </i>va indicato<b> due volte</b>.<br>
-46.99.61 <i>il codice 46.99.61 Inserzione o sostituzione di una protesi autoespandente nell’intestino, chirurgica a cielo aperto</i> va indicato<b> una volta</b>.
+46.99.71 <i>Rimozione di protesi dell’intestino, chirurgica a cielo aperto </i>va indicato<b> due volte</b>.<br>
+46.99.61 <i>Inserzione o sostituzione di una protesi autoespandente nell’intestino, chirurgica a cielo aperto</i> va indicato<b> una volta</b>.
     {{</grid/column>}}
 {{</grid>}}
 <br>
@@ -358,9 +358,9 @@ La tabella seguente fornisce una panoramica approssimativa della rappresentazion
   
 {{</markdown>}}
 <br><br>
-{{<insertImage image="FAQCHOP0005Tabelle.png" class="edge max-w-90">}}
+{{<insertImage image="FAQCHOP0005TabelleIT.png" class="edge max-w-90">}}
 <br><br>
-Per riportare il numero di stents/stent grafts impiantati, è necessario inserire il codice corrispondente per ogni stent/stent graft impiantato.
+Per riportare il numero di stents/stent grafts impiantati, è necessario inserire il codice corrispondente per ogni stent / stent graft impiantato.
 I codici aggiuntivi che consentivano di registrare il totale degli stents/stent grafts impiantati durante la degenza sono stati eliminati dalla CHOP.
 Nota bene: la resezione di vasi sanguigni con sostituzione (cfr. 38.4-) non viene volutamente menzionata in questa precisazione/FAQ.
 <br><br><br>  
@@ -426,7 +426,7 @@ Sono inoltre disponibili i codici supplementari delle sottocategorie 00.4A.- <i>
 I codici supplementari dei gruppi degli elementi da 00.4G.2- a 00.4G.6- <i>Filtri vascolari inseriti […], secondo</i> il numero servono unicamente per indicare i dispositivi impiegati nel quadro di operazioni/interventi di chiusura di vasi (p. es. embolizzazioni selettive). I codici della sottocategoria 00.4G.- non vanno impiegati per i sistemi di protezione da embolia. 
 <br><br>
 <u>Sistemi di protezione da embolia</u><br>
-Il codice supplementare 39.E1 <i>Impiego di sistema di protezione da embolia consente</i> di registrare l’utilizzo di sistemi di protezione da embolia perioperatori.<br>
+Il codice supplementare 39.E1 <i>Impiego di sistema di protezione da embolia</i> consente di registrare l’utilizzo di sistemi di protezione da embolia perioperatori.<br>
 I codici 38.7X.11 <i>Inserzione di sistema di protezione da embolia nella vena cava, chirurgica a cielo aperto</i>, 38.7X.21 <i>Inserzione di sistema di protezione da embolia nella vena cava, percutanea transluminale</i>, 39.75.13 <i>Intervento vascolare percutaneo transluminale, altri vasi, sistema di protezione da embolia (vasi periferici o viscerali)</i> rappresentano invece sistemi permanenti.
 <br>
 <br>
@@ -516,8 +516,9 @@ Il codice 51.99.90 <i>Altri interventi endoscopici sulle vie biliari</i>, come i
 </table>
 
 <b>Problema/Spiegazione:</b><br>
-In caso di sostituzione di endoprotesi di ginocchio, indipendentemente dal tipo, con altra endoprotesi di ginocchio, per l’impianto va utilizzato il codice con l’indicazione «per sostituzione di protesi». P. es. se viene espiantata un’endoprotesi parziale e impiantata una protesi totale sullo stesso ginocchio, per l’impianto deve essere indicato il codice 81.54.31 <i>Impianto di protesi totale standard del ginocchio per sostituzione di protesi</i> e <b>non</b> il codice 81.54.21 <i>Primo impianto di protesi totale standard del ginocchio</i>.
-<br><br>
+In caso di sostituzione di endoprotesi di ginocchio, indipendentemente dal tipo, con altra endoprotesi di ginocchio, per l’impianto va utilizzato il codice con l’indicazione «per sostituzione di protesi».<br><br>
+P. es. se viene espiantata un’endoprotesi parziale e impiantata una protesi totale sullo stesso ginocchio, per l’impianto deve essere indicato il codice 81.54.31 <i>Impianto di protesi totale standard del ginocchio per sostituzione di protesi</i> e <b>non</b> il codice 81.54.21 <i>Primo impianto di protesi totale standard del ginocchio</i>.
+<br>
 Analogamente, se in occasione di una sostituzione di endoprotesi di ginocchio viene impiantato per la prima volta un bottone rotuleo, deve essere indicato il codice 81.54.42 <i>Impianto di bottone rotuleo per sostituzione</i> e <b>non</b> il codice 81.54.27 <i>Primo impianto di bottone rotuleo</i>.
 <br>
 <br>
@@ -573,7 +574,7 @@ La seguente tabella precisa l’utilizzo del codice e del codice supplementare p
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Parola chiave:</th>
-    <td style="border: 1px solid black;">Marcatura della lateralità / organi appaiati/ organi non appaiati</td>
+    <td style="border: 1px solid black;">Marcatura della lateralità / organi appaiati / organi non appaiati</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Creato:</th>
@@ -679,7 +680,7 @@ Eccezione: esistono codici CHOP per i quali è indicato in nota che, se due o pi
 </table>
 
 <b>Problema/Spiegazione:</b><br>
-Nei gruppi di elementi 99.84.1- Isolamento da contatto, secondo il numero di giorni di trattamento, 99.84.2- <i>Isolamento da goccioline, secondo il numero di giorni di trattamento</i>, […] e 99.84.3- <i>Isolamento da aerosol, secondo il numero di giorni di trattamento, […]</i> è indicata la seguente esclusione di tipo «Omettere il codice»: 
+Nei gruppi di elementi 99.84.1- Isolamento da contatto, secondo il numero di giorni di trattamento, 99.84.2- <i>Isolamento da goccioline, secondo il numero di giorni di trattamento</i>, […] e 99.84.3- <i>Isolamento da aerosol, secondo il numero di giorni di trattamento, […]</i> è indicata la seguente esclusione di tipo ESCL. «Omettere il codice»: 
 
 <br>
 <br>
@@ -694,11 +695,6 @@ ESCL. «Omettere il codice - Trattamento complesso per colonizzazione o infezion
     {{</grid/column>}}
 {{</grid>}}
 <br>
-Cela signifie qu’il n’est pas admis de coder simultanément 93.59.5- et 99.84.1-, 99.84.2-, 99.84.3-. Lorsque 99.84.1-, 99.84.2-, 99.84.3- ne sont pas appliquées en même temps que 93.59.5-, ces codes peuvent être saisis pour le même cas. La saisie de 99.84.1-, 99.84.2-, 99.84.3- ne doit jamais être effectuée pour le même intervalle de temps que 93.59.5-.
-<br>  
-<br>
-
-
 Ciò significa che non è consentito codificare contemporaneamente 93.59.5- e 99.84.1-, 99.84.2-, 99.84.3-. Se 99.84.1-, 99.84.2-, 99.84.3- avvengono in momenti diversi rispetto a 93.59.5-, i codici possono essere registrati sotto lo stesso caso. I codici 99.84.1-, 99.84.2-, 99.84.3- non devono mai essere registrati per lo stesso intervallo di tempo per cui è registrato il codice 93.59.5-.
 <br>
 <br>
@@ -826,10 +822,10 @@ Secondo il documento di riferimento ufficiale per la certificazione delle stroke
   
 Il processo stabilito dal rispettivo Stroke Center o  dalla Stroke Unit per la diagnosi precoce della progressione dell'ictus, delle recidive e di altre complicanze neurologiche viene valutato nell'ambito della certificazione e la sua validità viene confermata dal conseguimento della certificazione.
   
-La sottocategoria 99.A7 _Diagnostica complessa dell’ictus cerebrale acuto in Stroke Unit o Stroke Center, fino a un massimo di 24 ore e i gruppi di elementi_ 99.BA.1- _Trattamento neurologico complesso dell’ictus cerebrale acuto in Stroke Center [SC], secondo la durata del trattamento in ore_ e 99.BA.2- _Trattamento neurologico complesso dell’ictus cerebrale acuto in Stroke Unit [SU], secondo la durata del trattamento in ore_, rimandano ai documenti di riferimento citati. Di conseguenza, il monitoraggio clinico per questi codici deve essere effettuato e documentato secondo le specifiche. 
+La sottocategoria 99.A7 _Diagnostica complessa dell’ictus cerebrale acuto in Stroke Unit o Stroke Center, fino a un massimo di 24 ore_ e i gruppi di elementi 99.BA.1- _Trattamento neurologico complesso dell’ictus cerebrale acuto in Stroke Center [SC], secondo la durata del trattamento in ore_ e 99.BA.2- _Trattamento neurologico complesso dell’ictus cerebrale acuto in Stroke Unit [SU], secondo la durata del trattamento in ore_, rimandano ai documenti di riferimento citati. Di conseguenza, il monitoraggio clinico per questi codici deve essere effettuato e documentato secondo le specifiche. 
 
 Importante:<br>
-la **sola** registrazione della Glasgow Coma Scale (GCS) non è sufficiente per la diagnosi clinico-neurologica ai fini del monitoraggio dell'ictus cerebrale nell'ambito di applicazione dei codici 99.A7, 99.BA.1 e 99.BA.2.
+La **sola** registrazione della Glasgow Coma Scale (GCS) non è sufficiente per la diagnosi clinico-neurologica ai fini del monitoraggio dell'ictus cerebrale nell'ambito di applicazione dei codici 99.A7, 99.BA.1 e 99.BA.2.
 
 {{</markdown>}}
 <br>
@@ -868,7 +864,7 @@ la **sola** registrazione della Glasgow Coma Scale (GCS) non è sufficiente per 
 
 {{<markdown>}}
 **Problema/Spiegazione:**  
-Gli elenchi che figurano nei campi «Nota» ai trattamenti complessi o alle diagnostiche complesse, e che seguono frasi del tipo «impiego di almeno x settori terapeutici» o «almeno x delle seguenti misure», significano che devono intervenire almeno x diversi settori terapeutici o misure tra quelli elencati. L’impiego/l’attuazione della stessa misura / dello stesso settore terapeutico x volte non soddisfa i requisiti minimi.
+Gli elenchi che figurano nei campi «Nota» ai trattamenti complessi o alle diagnostiche complesse, e che seguono frasi del tipo «impiego di almeno x settori terapeutici» o «almeno x delle seguenti misure», significano che devono intervenire almeno x diversi settori terapeutici o misure tra quelli elencati. L’impiego / l’attuazione della stessa misura / dello stesso settore terapeutico x volte non soddisfa i requisiti minimi.
 Esempio: nella «Nota» al codice 99.A6 <i>Diagnostica neurologica complessa</i> figura il seguente elenco:
 {{</markdown>}}
 <br>
@@ -976,11 +972,11 @@ Esempio 2: una «misura di igiene» potrebbe essere fornita nel quadro del profi
 {{<markdown>}}
 
 **Fragestellung:**  
-La valutazione medico palliativa di base standardizzata (PBA) deve essere ripetuta al ritorno di un paziente nell'ambito di una riunificazione dei casi?
+La valutazione medico palliativa di base standardizzata (PBA) deve essere ripetuta al ritorno di un paziente nell'ambito di un raggruppamento di casi?
   
 
 **Problema/Spiegazione:**  
-La seguente domanda e spiegazione si riferisce al gruppo di elementi 93.8A.2- _Trattamento medico palliativo complesso (fuori da un reparto specialistico autonomo di cure palliative), secondo il numero di giorni di trattamento_ e alla sottocategoria 93.8B.- _Trattamento in reparto specialistico autonomo di cure palliative_
+La seguente domanda e spiegazione si riferisce al gruppo di elementi 93.8A.2- <i>Trattamento medico palliativo complesso (fuori da un reparto specialistico autonomo di cure palliative), secondo il numero di giorni di trattamento</i> e alla sottocategoria 93.8B.- <i>Trattamento in reparto specialistico autonomo di cure palliative</i>
   
 Spiegazione:  
 Per un raggruppamento di casi con trattamento medico palliativo complesso nel primo caso, dopo il ritorno del/della paziente va aggiornata la valutazione medico palliativa di base standardizzata (non significa che debba essere rifatta completamente). Ci si può limitare a documentare che i valori della valutazione medico palliativa di base standardizzata precedente restano validi.
@@ -1045,7 +1041,7 @@ Non rientrano nelle 6 ore:<br>
 <br>  
 <br>  
 <b>Domanda n. 2:</b><br>  
-Cosa si intende per «settimanale» nella «riunione settimanale del team interprofessionale» di cui al punto 93.8A.2- _nella caratteristica minima punto 4, Pianificazione e controllo della terapia_, e al punto 93.8B.- _nella caratteristica minima punto 5, Pianificazione e controllo della terapia_?
+Cosa si intende per «settimanale» nella «riunione settimanale del team interprofessionale» di cui al punto 93.8A.2- <i>nella caratteristica minima punto 4, Pianificazione e controllo della terapia</i>, e al punto 93.8B.- <i>nella caratteristica minima punto 5, Pianificazione e controllo della terapia</i>?
 <br>  
 <br>  
 <b>Spiegazione n. 2:</b><br>
@@ -1056,7 +1052,7 @@ Esempio:<br>
 Il paziente è degente in ospedale per 10 giorni (da lunedì della prima settimana a mercoledì della seconda). Mercoledì della seconda settimana il paziente lascia l’ospedale o decede. Le riunioni del team si tengono sempre il giovedì. Il requisito minimo riferito alla struttura è soddisfatto anche per la seconda settimana.
 <br>  
 <br>  
-<b>Domanda n. 3 dell' :</b><br>  
+<b>Domanda n. 3:</b><br>  
 Cosa si intende per «interprofessionale» al punto 93.8A.2- <i>nella caratteristica minima n. 4, Pianificazione e controllo della terapia</i>, e al punto 93.8B.- <i>nella caratteristica minima n. 3, Terapia, e nella caratteristica minima n. 5, Pianificazione e controllo della terapia</i>?
 <br>
 <br>
@@ -1153,7 +1149,7 @@ L’applicazione di un solo strumento di valutazione (ad es. ESAS) per rilevare 
 **Problema/Spiegazione:**  
 Il gruppo di elementi 93.8B.1- rappresenta la «Degenza in reparto specialistico autonomo di cure palliative, secondo il numero di giorni di trattamento». Se i requisiti minimi di cui alla sottocategoria 93.8B.- nonché al gruppo di elementi 93.8B.1- sono soddisfatti, va indicato il corrispondente codice del gruppo di elementi 93.8B.1- per l’intera durata del trattamento in reparto specialistico di cure palliative. Se in una o più settimane di trattamento parallelamente alla degenza in reparto specialistico autonomo di cure palliative sono fornite prestazioni supplementari di cure palliative specializzate, può essere registrato il codice corrispondente del gruppo di elementi 93.8B.2- _Prestazione supplementare in reparto specialistico autonomo di cure palliative, secondo il numero di giorni di trattamento_.
   
-I due esempi che seguono illustrano le modalità di registrazione dei codici supplementari del gruppo di elementi 93.8B.2- «_Prestazione supplementare in reparto specialistico autonomo di cure palliative, secondo il numero di giorni di trattamento_».
+I due esempi che seguono illustrano le modalità di registrazione dei codici supplementari del gruppo di elementi 93.8B.2- _Prestazione supplementare in reparto specialistico autonomo di cure palliative, secondo il numero di giorni di trattamento_.
 
 {{</markdown>}}
 <br><br>
@@ -1198,7 +1194,7 @@ I due esempi che seguono illustrano le modalità di registrazione dei codici sup
 {{<markdown>}}
 **Problema/Spiegazione:**  
 In occasione di un intervento di revisione alla colonna vertebrale, i segmenti nei quali vengono solamente rimosse le aste (per sostituirle p.es. con aste più lunghe in presenza di patologia del segmento adiacente) senza intraprendere misure operatorie ai corpi vertebrali, come p. es. la posa di nuove viti peduncolari o di una cage, la decorticazione di faccetta articolare, l’impianto osseo locale o l’inserzione di materiale di sostituzione di ossa, non confluiscono nel conteggio dei segmenti operati.
-<br>
+<br><br>
 <b>Conteggio dei segmenti in caso di ponte di connessione:</b>
 In caso p. es. di precedente spondilodesi L2-L4 e nuova fusione attuale dei segmenti L1/L2 e L4/L5, quest’ultima va rappresentata con il pertinente codice CHOP per 2 segmenti se, come sopra precisato, oltre alla posa di aste non vengono intraprese altre misure operatorie ai corpi vertebrali L2-L4.
 
@@ -1243,7 +1239,7 @@ In caso p. es. di precedente spondilodesi L2-L4 e nuova fusione attuale dei segm
 <br>
 Il codice 7A.A2 <i>Impianto di sistemi allungabili o espansibili, colonna vertebrale</i> è un codice supplementare e non può quindi essere utilizzato da solo.  
 <br>
-L'intervento consiste in una <b>stabilizzazione dinamica della colonna vertebrale</b>, che viene registrata con il codice <b>7A.72.1-</b> <i>Stabilizzazione dinamica della colonna vertebrale, approccio dorsale e dorsolaterale</i>.
+L'intervento consiste in una <b>stabilizzazione dinamica della colonna vertebrale</b>, che viene registrata con il codice <b>7A.72.1- <i>Stabilizzazione dinamica della colonna vertebrale, approccio dorsale e dorsolaterale</i></b>.
 Per il conteggio dei segmenti trattati vengono considerati solo i segmenti a cui è fissato il sistema. 
 <br>
 <br>
@@ -1287,6 +1283,7 @@ Per il conteggio dei segmenti trattati vengono considerati solo i segmenti a cui
 Per le sottocategorie da 7A.71.- a 7A.74.- è stata introdotta la strutturazione a livello di quinto carattere per l’approccio «dorsale e dorsolaterale», risp. «ventrale», e a livello di sesto carattere in base al numero di segmenti trattati (fino a 14 e più). Secondo le convenzioni CHOP, la congiunzione «e» va intesa come «e/o». La nota di cui alla categoria 7A.7- _Stabilizzazione della colonna vertebrale e correzione della postura_ recita:  
 «Se l’approccio a determinati segmenti è dorsale nonché ventrale, per l’intero campo operatorio vanno indicati con un codice il numero complessivo di segmenti operati con approccio dorsale, nonché con un altro codice il numero complessivo di segmenti operati con approccio ventrale. Va inoltre indicato il codice supplementare del numero complessivo di segmenti operati.»  
 Gli approcci dorsolaterali contano come approcci dorsali. In altri termini, il segmento non viene conteggiato due volte se operato per via dorsale nonché per via dorsolaterale.  
+  
 Nell’esempio di cui alla seguente figura, è stata eseguita una spondilodesi che ha interessato sei vertebre ossia cinque segmenti. Complessivamente, tre segmenti sono stati operati con approccio dorsale e/o dorsolaterale e quattro con approccio ventrale. In questo caso, va indicato il codice «dorsale e dorsolaterale» per tre segmenti nonché il codice «ventrale» per quattro segmenti. Deve inoltre essere registrato il codice della sottocategoria 7A.B4.- _Somma dei segmenti di colonna vertebrale operati_ corrispondente a cinque segmenti.
 
   
@@ -1333,7 +1330,7 @@ sostituzione ossea alla colonna vertebrale, misure stabilizzanti
 </table>
 
 <b>Problema/Spiegazione:</b> <br>
-Il codice <b>7A.71.-</b> Fusione di vertebre con stabilizzazione della colonna vertebrale deve essere utilizzato quando viene eseguita una <b>fusione/irrigidimento</b> vertebrale con stabilizzazione che soddisfa inoltre una delle seguenti caratteristiche:<br>
+Il codice <b>7A.71.-</b> Fusione di vertebre con stabilizzazione della colonna vertebrale deve essere utilizzato quando viene eseguita una <b>fusione / irrigidimento</b> vertebrale con stabilizzazione che soddisfa inoltre una delle seguenti caratteristiche:<br>
 
 <body>
     <ul>
@@ -1384,11 +1381,11 @@ Il codice <b>7A.71.-</b> Fusione di vertebre con stabilizzazione della colonna v
 
 {{<markdown>}}
 **Problema/Spiegazione:**  
-Una fusione ossea (artrodesi / spondilodesi) della colonna vertebrale, in cui viene inserito esclusivamente materiale osseo autogeno (spongiosa e/o frammenti cortico-spongiosi) e non viene utilizzato alcun impianto (ad es. viti, placche, barre) viene registrata con il codice CHOP 7A.51.14 Innesto osseo della colonna vertebrale, autogeno, spongiosa e innesto corticospongioso. 
+Una fusione ossea (artrodesi / spondilodesi) della colonna vertebrale, in cui viene inserito esclusivamente materiale osseo autogeno (spongiosa e/o frammenti cortico-spongiosi) e **non viene utilizzato alcun impianto** (ad es. viti, placche, barre) viene registrata con il codice CHOP **7A.51.14** Innesto osseo della colonna vertebrale, autogeno, spongiosa e innesto corticospongioso. 
   
-In caso di laminotomia, laminectomia o laminoplastica eseguita, ciò deve essere registrato anche con il codice corrispondente della sottocategoria 03.03.- Laminotomia, laminectomia e laminoplastica. L'altezza dell'intervento alla colonna vertebrale viene codificata con il codice corrispondente della sottocategoria 7A.B1.- Localizzazione dell’intervento alla colonna vertebrale, mentre l'accesso alla colonna vertebrale viene rappresentato con il codice 03.04.-. 
+In caso di laminotomia, laminectomia o laminoplastica eseguita, ciò deve essere registrato anche con il codice corrispondente della sottocategoria 03.03.- **Laminotomia, laminectomia e laminoplastica**. L'altezza dell'intervento alla colonna vertebrale viene codificata con il codice corrispondente della sottocategoria 7A.B1.- **Localizzazione dell’intervento alla colonna vertebrale**, mentre l'accesso alla colonna vertebrale viene rappresentato con il codice 03.04.-. 
   
-Non è consentito registrare alcun codice della sottocategoria 7A.71.- Fusione di vertebre con stabilizzazione della colonna vertebrale.
+Non è consentito registrare **alcun** codice della sottocategoria 7A.71.- **Fusione di vertebre con stabilizzazione della colonna vertebrale**.
   
 {{</markdown>}}
 <br>
@@ -1419,7 +1416,7 @@ Non è consentito registrare alcun codice della sottocategoria 7A.71.- Fusione d
   </tr>
   <tr>
     <th style="border: 1px solid black;">CHOP</th>
-    <td style="border: 1px solid black;">37A.73.-</td>
+    <td style="border: 1px solid black;">7A.73.-</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Regola di codifica:</th>

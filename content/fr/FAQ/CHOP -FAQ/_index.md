@@ -573,7 +573,7 @@ Le tableau suivant précise, par l’exemple de la main, le codage avec le code 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Mot-clé:</th>
-    <td style="border: 1px solid black;"><br>Indication de la latéralité</br> / organes existant par paires / organes non présents par paire</td>
+    <td style="border: 1px solid black;"><br>Indication de la latéralité</br> / organes existant par paires / organes non présents par paires</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé le:</th>
@@ -1405,7 +1405,7 @@ En cas de laminotomie, de laminectomie ou de laminoplastie, cela doit être enre
   </tr>
   <tr>
     <th style="border: 1px solid black;">CHOP</th>
-    <td style="border: 1px solid black;">37A.73.-</td>
+    <td style="border: 1px solid black;">7A.73.-</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Règle de codage:</th>
