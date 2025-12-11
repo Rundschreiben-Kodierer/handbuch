@@ -22,8 +22,8 @@ La liste est divisée en trois structures tarifaires SwissDRG, TARPSY et ST Reha
 <body>
     <ul>
         <li><strong>Nom et prénom</strong> de l'auditeur ou de l'auditrice</li>
-        <li><strong>Institution ou organisation</strong>dans laquelle l'activité est exercée</li>
-        <li><strong>Coordonnées</strong> (par exemple, adresse électronique ou numéro de téléphone, si autorisé)</li>
+        <li><strong>Institution ou organisation</strong> dans laquelle l'activité est exercée</li>
+        <li><strong>Coordonnées</strong> (p. ex., adresse électronique ou numéro de téléphone, si autorisé)</li>
         <li><strong>Compétence régionale ou technique</strong>, le cas échéant</li>
         <li><strong>Statut de reconnaissance</strong> (p. ex. certification ou accréditation valide)</li>
     </ul>

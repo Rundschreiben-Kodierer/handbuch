@@ -1,5 +1,5 @@
 ---
-title: "Rundschreiben - Archiv"
+title: "Circulaires - Archives"
 slug: Rundschreiben
 description: ""
 weight: 202601

@@ -123,7 +123,7 @@ Eine perkutan-transluminale Thrombektomie an Lungengefässen mittels Thrombusent
   </tr>
   <tr>
     <th style="border: 1px solid black;">CHOP</th>
-    <td style="border: 1px solid black;">CHOP:	39.71.- / 39.78.5.- / 39.73.4-</td>
+    <td style="border: 1px solid black;">39.71.- / 39.78.5.- / 39.73.4-</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Kodierregel</th>
@@ -183,7 +183,7 @@ Folgende Tabelle illustriert die verschiedenen Situationen einer abdominalen Hau
   </tr>
   <tr>
     <th style="border: 1px solid black;">CHOP</th>
-    <td style="border: 1px solid black;">CHOP: 	42.81.-/ 51.87.- / 51.9A / 09.83 / 31.93 / 31.96 / 33.91.2- / 44.99.5- /<br> 46.99.6 / 48.99.- / 52.93.- / 52.95.4- / 52.95.5- / 58.99.- / 60.99.31
+    <td style="border: 1px solid black;">42.81.-/ 51.87.- / 51.9A / 09.83 / 31.93 / 31.96 / 33.91.2- / 44.99.5- /<br> 46.99.6 / 48.99.- / 52.93.- / 52.95.4- / 52.95.5- / 58.99.- / 60.99.31
 </td>
   </tr>
   <tr>

@@ -251,7 +251,7 @@ Grundsätzlich gilt: Es ist stets der spezifischste ICD-Kode zu wählen, der die
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aktualisiert</th>
-    <td style="border: 1px solid black;"></td>
+    <td style="border: 1px solid black;">01.01.2026 / Basis RS 2022/1: 0793</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>

@@ -1,5 +1,5 @@
 ---
-title: "ICD-FAQ"
+title: "CIM-FAQ"
 slug: ICDFAQ
 description: ""
 weight: 30
@@ -251,7 +251,7 @@ En principe, il convient de toujours choisir le code CIM le plus spécifique qui
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
-    <td style="border: 1px solid black;"></td>
+    <td style="border: 1px solid black;">01/01/2022 / Base Circulaire 2022/1: 0793</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -417,8 +417,7 @@ Comment coder les porteurs de BMR / cas suspects avec ou sans mise en évidence 
 **Explication:**  
 Selon la règle de codage D04, les codes marqués d’un point d’exclamation servent à préciser un code qui les précède et qui n’est pas marqué d’un point d’exclamation, ou à décrire les circonstances d’une maladie, d’une blessure, d’un empoisonnement ou d’une complication.  
 En combinaison avec les codes correspondants de la catégorie Z22.- <i>Sujet porteur de germes responsables d’une maladie infectieuse Incl.: sujet suspecté porteur</i>, ils précisent l’agent pathogène qui n’est pas indiqué dans le code précédent. Ces précisions sont obligatoires lorsqu’elles sont applicables.  
-De plus, la règle de codage G54 doit être prise en compte lors de l’utilisation de ces codes. Ils ne sont codés que s’ils sont associés à un effort médical > 0.  
-C’est-à-dire qu’une mesure diagnostique et/ou de soins doit avoir été effectuée ou qu’un besoin accru de prise en charge, de soins et/ou de surveillance doit avoir été nécessaire, et que cela doit être documenté.
+De plus, la règle de codage G54 doit être prise en compte lors de l’utilisation de ces codes. Ils ne sont codés que s’ils sont associés à un effort médical > 0. C’est-à-dire qu’une mesure diagnostique et/ou de soins doit avoir été effectuée ou qu’un besoin accru de prise en charge, de soins et/ou de surveillance doit avoir été nécessaire, et que cela doit être documenté.
   
 **Recommandation de codage:**  
 En cas de suspicion d’une colonisation par une BMR, avec un effort documenté > 0 (par ex. mesures d’isolement), il convient de coder conformément aux indications du chapitre XXI de la CIM-10-GM, Z22.- <i>Sujet porteur de germes responsables d’une maladie infectieuse Incl.: sujet suspecté porteur</i>, en combinaison avec U80.-! – U85!.  
@@ -593,7 +592,7 @@ La tachyarythmie / tachycardie ne doit pas être codée en plus de la fibrillati
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé le:</th>
-    <td style="border: 1px solid black;">01/01/2026 / Base Circulaire 2025/2: 07856</td>
+    <td style="border: 1px solid black;">01/01/2026 / Base Circulaire 2025/2: 0785</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
