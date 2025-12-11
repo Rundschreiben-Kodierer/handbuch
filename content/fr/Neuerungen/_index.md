@@ -43,7 +43,7 @@ Les **cycles de publication** semestriels connus **des circulaires n° 1 et n° 
 Les registres avec la mention Ø None ne contiennent pas d’actualisation.
   
   
-**Chapitre «Actualisation de la CHOP»**
+**Chapitre «Actualisations de la CHOP»**
   
 Les informations relatives aux actualisations de la CHOP sont désormais disponibles sous forme de **classeur Excel (xlsx)**, accessible directement à partir des registres correspondants du chapitre CHOP. Ce tableau permet de suivre clairement les modifications et présente les mises à jour de la classification en allemand, français et italien.
   

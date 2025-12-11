@@ -108,12 +108,12 @@ Ein Endoleak ist ein Leck zwischen der Gefäßprothese und dem Aneurysmasack nac
   
 Ein Endoleak **Typ I** entsteht durch eine unzureichende Abdichtung an der Ansatzstelle des Grafts.
   
-Beim Endoleak **Typ II** wird der Aneurysmasack durch einen Seitenast mit Blut gefüllt. Man unterscheidet zwischen: 
-**Typ IIa:** einzelnes zuführendes Blutgefäß 
+Beim Endoleak **Typ II** wird der Aneurysmasack durch einen Seitenast mit Blut gefüllt. Man unterscheidet zwischen:  
+**Typ IIa:** einzelnes zuführendes Blutgefäß  
 **Typ IIb:** mehrere zuführende Blutgefäße
   
-Ein Endoleak **Typ III** entsteht durch mechanisches Versagen des Stentgrafts: 
-**Typ IIIa:** Verbindung zwischen modularen Komponenten gelöst 
+Ein Endoleak **Typ III** entsteht durch mechanisches Versagen des Stentgrafts:  
+**Typ IIIa:** Verbindung zwischen modularen Komponenten gelöst  
 **Typ IIIb:** Bruch oder Löcher im Stentgraft
   
 Endoleaks vom **Typ IV** treten auf, wenn aufgrund der Porosität des Transplantats Blut austritt
@@ -433,7 +433,7 @@ In der Kombination mit den entsprechenden Kodes der Kategorie Z22.- <i>Keimträg
 Zudem ist bei der Angabe dieser Kodes die Kodierregel G54 zu berücksichtigen. Diese Kodes werden nur kodiert, wenn sie mit einem medizinischen Aufwand > 0 verbunden sind. D.h. es muss eine diagnostische und/oder pflegerische Massnahme getroffen worden oder ein erhöhter Betreuungs-, Pflege- und/oder Überwachungsaufwand damit verbunden sein, welche dokumentiert sind. 
     
 **Kodierempfehlung:**  
-Bei Verdacht auf eine bestehende Besiedelung durch MRE ist bei dokumentiertem Aufwand > 0, (z.B. Isolationsmassnahmen) entsprechend den Hinweisen zu Kapitel XXI der ICD-10-GM, Z22.- <i>Keimträger von Infektionskrankheiten inkl. Verdachtsfälle</i> in Verbindung mit U80.-! – U85! zu kodieren.  
+Bei Verdacht auf eine bestehende Besiedelung durch MRE ist bei dokumentiertem Aufwand > 0, (z.B. Isolationsmassnahmen) entsprechend den Hinweisen zu Kapitel XXI der ICD-10-GM 2024, Z22.- <i>Keimträger von Infektionskrankheiten inkl. Verdachtsfälle</i> in Verbindung mit U80.-! – U85! zu kodieren.  
   
 Bei asymptomatischen Keimträgern mit Erregernachweis ohne entsprechende Therapie, (z.B. Antibiotika) werden Kodes der Kategorie «Bakterien, Viren und sonstige Infektionserreger als Ursache von Krankheiten, die in anderen Kapiteln klassifiziert sind (B95-B98)» nicht zusätzlich erfasst.  
   
@@ -532,7 +532,7 @@ Zusätzlich soll ein Kode der ICD Kodegruppe M49.5-* <i>Wirbelkörperkompression
 Wie wird eine bakterielle Pneumonie im Rahmen einer Superinfektion bei viraler Pneumonie (z.B. Covid- Pneumonie) ohne Erregernachweis abgebildet?
   
 **Erläuterung:**  
-Die Resteklasse «Nicht näher bezeichnet» ist dann zu verwenden, wenn eine Krankheit nur mit ihrem Oberbegriff wie z.B. Katarakt, beschrieben ist und/oder eine weitere Differenzierung nach den Klassifikationskriterien der ICD-10-GM an entsprechender Stelle nicht möglich ist.»  
+Die Resteklasse «Nicht näher bezeichnet» ist dann zu verwenden, wenn eine Krankheit nur mit ihrem Oberbegriff wie z.B. Katarakt, beschrieben ist und/oder eine weitere Differenzierung nach den Klassifikationskriterien der ICD-10-GM 2024 an entsprechender Stelle nicht möglich ist.»  
 In der ICD- GM 2024 systematischer Index steht: <i>„Sonstige …“ </i> oder <i>„Sonstige näher bezeichnete …“</i> sollen nur dann verwendet werden, wenn eine spezifische Diagnose dokumentiert ist, aber keiner der spezifischen Kodes der übergeordneten</i> Kategorie passt.  
   
 Die Klassifikation der Kodegruppe J15.- in der systematischen ICD-10 GM erfolgt anhand des jeweiligen Erregers.   
@@ -589,7 +589,7 @@ Kann eine Tachyarrhythmie / Tachykardie bei vorbestehendem Vorhofflimmern / Vorh
 Das tachykarde Vorhofflimmern (VHFL) ist die häufigste Form der tachykarden Herzrhythmusstörungen. Ursächlich ist eine gestörte Vorhoferregung durch Reentry-Mechanismen.
   
 **Kodierempfehlung:**  
-In der ICD-10-GM wird bei Vorhofflimmern (an der 4. Stelle) differenziert zwischen paroxysmal, persistierend und permanent und bei Vorhofflattern zwischen typisch und atypisch.  
+In der ICD-10-GM 2024 wird bei Vorhofflimmern (an der 4. Stelle) differenziert zwischen paroxysmal, persistierend und permanent und bei Vorhofflattern zwischen typisch und atypisch.  
   
 Der Kode I48.0 <i>Vorhofflimmern, paroxysmal</i> beinhaltet normofrequente, tachykarde und/oder bradykarde Phasen. 
   
@@ -635,7 +635,7 @@ Die Tachyarrhythmie / Tachykardie ist bei Vorhofflimmern nicht zusätzlich zu ko
 
 {{<markdown>}}
 **Problem/Erläuterung:**  
-Die ICD-10-GM-Kodes der 4-stelligen Subkategorie N13.6- «Pyonephrose» werden nur bei einer dokumentierten Infektion der Niere verschlüsselt.  
+Die ICD-10-GM-2024-Kodes der 4-stelligen Subkategorie N13.6- «Pyonephrose» werden nur bei einer dokumentierten Infektion der Niere verschlüsselt.  
 Dies betrifft auch den endständigen Kode N13.68 <i>Sonstige und nicht näher bezeichnete Pyonephrose</i>. Eine Hydronephrose durch Ureterstein mit Harnwegsinfektion nicht näher bezeichneter Lokalisation wird mit N13.21 <i>Hydronephrose bei Obstruktion durch Ureterstein</i> und N39.0 <i>Harnwegsinfektion, Lokalisation nicht näher bezeichnet</i> verschlüsselt.
 {{</markdown>}}
 <br>  

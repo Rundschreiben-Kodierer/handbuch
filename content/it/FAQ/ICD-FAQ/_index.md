@@ -107,8 +107,8 @@ Un endoleak è una perdita tra la protesi vascolare e il sacco aneurismatico dop
   
 Un endoleak di **tipo I** è causato da una fissazione a tenuta insufficiente nel punto di attacco dell'innesto.
   
-Nell'endoleak di **tipo II**, il sacco aneurismatico si riempie di sangue attraverso un ramo laterale. Si distingue tra: 
-**Tipo IIa**: singolo vaso sanguigno afferente 
+Nell'endoleak di **tipo II**, il sacco aneurismatico si riempie di sangue attraverso un ramo laterale. Si distingue tra:  
+**Tipo IIa**: singolo vaso sanguigno afferente  
 **Tipo IIb**: più vasi sanguigni afferenti
   
 Un endoleak di **tipo III** è causato da un guasto meccanico dello stent graft: 
@@ -424,7 +424,7 @@ In combinazione con i codici corrispondenti della categoria Z22.- <i>Portatore d
 Inoltre, nell'indicare questi codici occorre tenere conto della regola di codifica G54. Questi codici vengono codificati solo se sono associati a un impegno medico > 0. Ciò significa che deve essere stata adottata una misura diagnostica e/o assistenziale o che deve essere associato un aumento delle spese di assistenza, cura e/o monitoraggio, che devono essere documentate. 
   
 **Raccomandazione di codifica:**  
-In caso di sospetta colonizzazione di agenti patogeni multiresistenti, se l'onere documentato è > 0 (ad es. misure di isolamento), codificare secondo le indicazioni del capitolo XXI dell'ICD-10-GM, Z22.- <i>Portatore di malattie infettive Incl.: sospetto di stato di portatore</i> in combinazione con U80.-! – U85!. 
+In caso di sospetta colonizzazione di agenti patogeni multiresistenti, se l'onere documentato è > 0 (ad es. misure di isolamento), codificare secondo le indicazioni del capitolo XXI dell'ICD-10-GM 2024, Z22.- <i>Portatore di malattie infettive Incl.: sospetto di stato di portatore</i> in combinazione con U80.-! – U85!. 
 
 Nel caso di portatori asintomatici con rilevamento dell'agente patogeno senza terapia corrispondente (ad es. antibiotici), i codici della categoria «Batteri, virus ed altri agenti infettivi come causa di malattie classificate altrove (B95-B98)» non vengono registrati in aggiunta. 
 
@@ -524,7 +524,7 @@ Inoltre, per indicare chiaramente la localizzazione, deve essere inserito un cod
 Come viene rappresentata una polmonite batterica nel contesto di una superinfezione in caso di polmonite virale (ad es. polmonite da Covid) senza rilevamento dell'agente patogeno?
   
 **Spiegazione:**  
-La categoria residua “non specificata” viene utilizzata quando una malattia è descritta solo tramite un termine generico, come ad esempio cataratta, e/o quando non è possibile una ulteriore differenziazione secondo i criteri di classificazione dell’ICD-10-GM nel punto corrispondente.  
+La categoria residua “non specificata” viene utilizzata quando una malattia è descritta solo tramite un termine generico, come ad esempio cataratta, e/o quando non è possibile una ulteriore differenziazione secondo i criteri di classificazione dell’ICD-10-GM 2024 nel punto corrispondente.  
 Nell'indice sistematico ICD-10-GM 2024 si legge: <i>«Altri ...»</i> o <i>«Altri specificati ...»</i> devono essere <i>utilizzati solo se è documentata una diagnosi specifica, ma nessuno dei codici specifici della categoria superiore è appropriato</i>.  
   
 La classificazione del gruppo di codici J15.- nell'ICD-10 GM sistematico viene effettuata in base al rispettivo agente patogeno.  
@@ -584,7 +584,7 @@ Una tachiaritmia / tachicardia può essere codificata aggiuntivamente in presenz
 La fibrillazione atriale tachicardica (FA tachicardica) è la forma più comune di aritmia cardiaca tachicardica. La causa è un'eccitazione atriale disturbata da meccanismi di rientro.
   
 **Raccomandazione di codifica:**  
-Nell'ICD-10-GM, la fibrillazione atriale (al 4° posto) viene differenziata tra parossistica, persistente e permanente, mentre il flutter atriale viene differenziato tra tipico e atipico.
+Nell'ICD-10-GM 2024, la fibrillazione atriale (al 4° posto) viene differenziata tra parossistica, persistente e permanente, mentre il flutter atriale viene differenziato tra tipico e atipico.
   
 Il codice I48.0 <i>Fibrillazione atriale, parossistica comprende fasi normofrequenti, tachicardiche e/o bradicardiche</i>. 
   
@@ -630,7 +630,7 @@ La tachiaritmia / tachicardia non deve essere codificata in aggiunta alla fibril
 
 {{<markdown>}}
 **Problema/Spiegazione:**  
-I codici della sottocategoria a 4 caratteri ICD-10-GM N13.6- Pionefrosi vanno indicati solo in presenza di un’infezione documentata del rene.  
+I codici della sottocategoria a 4 caratteri ICD-10-GM 2024 N13.6- Pionefrosi vanno indicati solo in presenza di un’infezione documentata del rene.  
 Ciò riguarda anche il codice terminale N13.68 <i>Altra e non specificata pionefrosi</i>. Un’idronefrosi da calcolosi ureterale con infezione delle vie urinarie di sede non specificata va codificata con N13.21 <i>Idronefrosi con ostruzione da calcolo ureterale</i> e N39.0 <i>Infezione delle vie urinarie, sede non specificata.</i>.
 {{</markdown>}}
 <br>  

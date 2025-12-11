@@ -109,7 +109,7 @@ Une endofuite est une fuite entre la prothèse vasculaire et la poche anévrisma
 Une endofuite de **type I** est due à une étanchéité insuffisante au niveau du point d'attache du greffon.
   
 Dans le cas d'une endofuite de **type II**, le sac anévrismal est rempli de sang par une branche latérale. On distingue:  
-**Type IIa**: un seul vaisseau sanguin affluent  
+**Type IIa**: un seul vaisseau sanguin afflue  
 **Type IIb**: plusieurs vaisseaux sanguins afférents
 
   
@@ -420,7 +420,7 @@ En combinaison avec les codes correspondants de la catégorie Z22.- <i>Sujet por
 De plus, la règle de codage G54 doit être prise en compte lors de l’utilisation de ces codes. Ils ne sont codés que s’ils sont associés à un effort médical > 0. C’est-à-dire qu’une mesure diagnostique et/ou de soins doit avoir été effectuée ou qu’un besoin accru de prise en charge, de soins et/ou de surveillance doit avoir été nécessaire, et que cela doit être documenté.
   
 **Recommandation de codage:**  
-En cas de suspicion d’une colonisation par une BMR, avec un effort documenté > 0 (par ex. mesures d’isolement), il convient de coder conformément aux indications du chapitre XXI de la CIM-10-GM, Z22.- <i>Sujet porteur de germes responsables d’une maladie infectieuse Incl.: sujet suspecté porteur</i>, en combinaison avec U80.-! – U85!.  
+En cas de suspicion d’une colonisation par une BMR, avec un effort documenté > 0 (par ex. mesures d’isolement), il convient de coder conformément aux indications du chapitre XXI de la CIM-10-GM 2024, Z22.- <i>Sujet porteur de germes responsables d’une maladie infectieuse Incl.: sujet suspecté porteur</i>, en combinaison avec U80.-! – U85!.  
   
 Chez les porteurs asymptomatiques avec mise en évidence de l’agent pathogène sans traitement correspondant (par ex. antibiotiques), les codes de la catégorie «Agents d’infections bactériennes, virales et autres classées dans d’autres chapitres (B95–B98)» ne sont pas codés en plus.  
   
@@ -515,7 +515,7 @@ En complément, un code du groupe M49.5-* <i>Tassement vertébral au cours de ma
 Comment coder une pneumonie bactérienne dans le cadre d’une surinfection lors d’une pneumonie virale (par ex. pneumonie COVID) sans mise en évidence d’un agent pathogène?
   
 **Explication:**  
-La classe résiduelle «sans précision» doit être utilisée lorsqu'une maladie est uniquement décrite par son terme générique, par exemple cataracte, et/ou qu'une différenciation supplémentaire selon les critères de classification de la CIM-10-GM n'est pas possible à l'endroit correspondant. 
+La classe résiduelle «sans précision» doit être utilisée lorsqu'une maladie est uniquement décrite par son terme générique, par exemple cataracte, et/ou qu'une différenciation supplémentaire selon les critères de classification de la CIM-10-GM 2024 n'est pas possible à l'endroit correspondant. 
 L'index systématique de la CIM-GM 2024 stipule : <i>«Autres...»</i> ou <i>«Autres précisés...» ne doivent être utilisés que lorsqu'un diagnostic spécifique est documenté</i>, mais qu'aucun des codes spécifiques de la catégorie supérieure ne convient.  
   
 La classification du groupe de codes J15.- dans la CIM-10-GM 2024 systématique est basée sur l'agent pathogène concerné. 
@@ -571,7 +571,7 @@ Une tachyarythmie / tachycardie en cas de fibrillation auriculaire / flutter aur
 La fibrillation auriculaire tachycardique (FA) est la forme la plus courante d'arythmie cardiaque tachycardique. Elle est causée par une excitation auriculaire perturbée par des mécanismes de réentrée.
   
 **Recommandation de codage:**  
-Dans la CIM-10-GM, la fibrillation auriculaire (à la 4e place) est différenciée entre paroxystique, persistante et permanente, et le flutter auriculaire entre typique et atypique.  
+Dans la CIM-10-GM 2024, la fibrillation auriculaire (à la 4e place) est différenciée entre paroxystique, persistante et permanente, et le flutter auriculaire entre typique et atypique.  
   
 Le code I48.0 <i>Fibrillation auriculaire, paroxystique</i> comprend les phases normofréquentes, tachycardiques et/ou bradycardiques.  
   
@@ -614,7 +614,7 @@ La tachyarythmie / tachycardie ne doit pas être codée en plus de la fibrillati
 
 {{<markdown>}}
 **Problème/Explication:**  
-Les codes CIM-10-GM de la sous-catégorie à 4 positions N13.6- <i>Pyonéphrose</i> sont uniquement utilisés en cas d’infection documentée du rein.  
+Les codes CIM-10-GM 2024 de la sous-catégorie à 4 positions N13.6- <i>Pyonéphrose</i> sont uniquement utilisés en cas d’infection documentée du rein.  
 Cela concerne également le code final N13.68 <i>Pyonéphrose, autre et non précisée</i>. Une hydronéphrose avec obstruction calculeuse urétérale avec infection des voies urinaires dont le siège n’est pas précisé est codée avec N13.21 <i>Hydronéphrose avec obstruction calculeuse urétérale</i> et N39.0 <i>Infection des voies urinaires, siège non précisé</i>.
 {{</markdown>}}
 <br>  
