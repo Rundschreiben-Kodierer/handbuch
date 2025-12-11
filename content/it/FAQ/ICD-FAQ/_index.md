@@ -249,7 +249,7 @@ In linea di principio vale quanto segue: occorre sempre scegliere il codice ICD 
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aggiornato</th>
-    <td style="border: 1px solid black;"></td>
+    <td style="border: 1px solid black;">01.01.2022 / Base Circolare 2022/1:  0793</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
