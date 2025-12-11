@@ -983,7 +983,7 @@ La valutazione medico palliativa di base standardizzata (PBA) deve essere ripetu
 La seguente domanda e spiegazione si riferisce al gruppo di elementi 93.8A.2- _Trattamento medico palliativo complesso (fuori da un reparto specialistico autonomo di cure palliative), secondo il numero di giorni di trattamento_ e alla sottocategoria 93.8B.- _Trattamento in reparto specialistico autonomo di cure palliative_
   
 Spiegazione:  
-Per un raggruppamento di casi con trattamento medico palliativo complesso nel primo caso, dopo il ritorno del/della paziente va aggiornata la valutazione medico palliativa di base standardizzata (non significa che debba essere rifatta completamente. Ci si può limitare a documentare che i valori della valutazione medico palliativa di base standardizzata precedente restano validi).
+Per un raggruppamento di casi con trattamento medico palliativo complesso nel primo caso, dopo il ritorno del/della paziente va aggiornata la valutazione medico palliativa di base standardizzata (non significa che debba essere rifatta completamente). Ci si può limitare a documentare che i valori della valutazione medico palliativa di base standardizzata precedente restano validi.
 
 {{</markdown>}}  
 <br>

@@ -976,7 +976,7 @@ Ist das standardisierte palliativmedizinische Basisassessment [PBA] bei der Rüc
 Folgende Fragestellung und Erläuterung bezieht sich auf die Elementegruppe 93.8A.2- _Palliativmedizinische Komplexbehandlung (ausserhalb einer eigenständigen spezialisierten Palliative Care Station), nach Anzahl Behandlungstage_ und die Subkategorie 93.8B.- _Behandlung auf einer eigenständigen spezialisierten Palliative Care Station_.
   
 Erläuterung:  
-Bei einer Fallzusammenführung mit palliativmedizinischer Komplexbehandlung im ersten Fall ist nach der Rückkehr der Patientin / des Patienten das PBA zu aktualisieren (d.h. nicht, dass es vollständig erneut durchgeführt werden muss. Es kann auch nur dokumentiert werden, dass die Werte des vorherigen PBAs weiter gelten).
+Bei einer Fallzusammenführung mit palliativmedizinischer Komplexbehandlung im ersten Fall ist nach der Rückkehr der Patientin / des Patienten das PBA zu aktualisieren (d.h. nicht, dass es vollständig erneut durchgeführt werden muss). Es kann auch nur dokumentiert werden, dass die Werte des vorherigen PBAs weiter gelten.
 
 {{</markdown>}}  
 <br>

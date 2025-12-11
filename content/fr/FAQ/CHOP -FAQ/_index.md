@@ -49,7 +49,7 @@ keywords: []
 </table>
 
 <b>Problème/explication:</b></br>
-Une opération ouverte d'une sténose congénitale de l'isthme aortique est représentée, selon la méthode utilisée, par un code précis du chapitre 7 <font  color="green">«Opérations du système cardio-vasculaire»</font>. S'il existe un code précis, le code 39.99.21 _Opérations d’anomalie congénitale de l’isthme aortique (sténose) ou d’interruption de la crosse aortique_ n'est pas codé. 
+Une opération ouverte d'une sténose congénitale de l'isthme aortique est représentée, selon la méthode utilisée, par un code précis du chapitre 7 <font  color="green">«Opérations du système cardio-vasculaire»</font>. S'il existe un code précis, le code 39.99.21 <i>Opérations d’anomalie congénitale de l’isthme aortique (sténose) ou d’interruption de la crosse aortique</i> n'est pas codé. 
 <br>  
 <br>
 <br>
@@ -133,7 +133,7 @@ Une thrombectomie transluminale percutanée sur des vaisseaux pulmonaires au moy
 
 <b>Problème/explication:</b>
 <br>
-Pour les codes de la sous-catégorie 39.71.- _Implantation endovasculaire de stents grafts [stents couverts] dans l’aorte abdominale_ et de la sous-catégorie 39.73.4- _Implantation endovasculaire de stents grafts [stents couverts] dans l’aorte thoraco-abdominale_, il faut indiquer avec le code supplémentaire 39.78.5- _Extrémité des stents grafts [stents couverts]_ les plus bas comment se termine l’endoprothèse.
+Pour les codes de la sous-catégorie 39.71.- <i>Implantation endovasculaire de stents grafts [stents couverts] dans l’aorte abdominale</i> et de la sous-catégorie 39.73.4- <i>Implantation endovasculaire de stents grafts [stents couverts] dans l’aorte thoraco-abdominale</i>, il faut indiquer avec le code supplémentaire 39.78.5- <i>Extrémité des stents grafts [stents couverts]</i> les plus basses.
 <br>
 <br>
 Le groupe d'éléments 39.78.5- comprend trois codes supplémentaires :
@@ -150,7 +150,7 @@ Le tableau suivant présente graphiquement la signification du code supplémenta
 {{<insertImage image="FAQCHOP0003Tabelle1FR.png" class="edge max-w-90">}}
 <br>
 <br>
-Les endoprothèses aortomono-iliaques ou aorto-biliaires (corps principal (bleu)) peuvent être prolongées par des endoprothèses dans l'artère iliaque commune gauche et/ou droite (d'autres endoprothèses sont alors modelées, vert). Les codes correspondants de la sous-catégorie 39.7B.- _Implantation endovasculaire de stents grafts [stents couverts] dans les artères iliaques commune et externe_ doivent être codés en plus dans ce cas.<br>
+Les endoprothèses aorto-mono-iliaques ou aorto-bi-iliaques (corps principal (bleu)) peuvent être prolongées par des endoprothèses dans l'artère iliaque commune gauche et/ou droite (d'autres endoprothèses sont alors modelées, vert). Les codes correspondants de la sous-catégorie 39.7B.- _Implantation endovasculaire de stents grafts [stents couverts] dans les artères iliaques commune et externe_ doivent être codés en plus dans ce cas.<br>
 <br>
 Le tableau suivant illustre les différentes situations d'une prothèse abdominale principale sans ouvertures (en bleu dans le schéma) :
 <br>
@@ -201,7 +201,7 @@ Les codes suivants présentent une subdivision par nombre de stents/prothèses i
 {{</indent>}}
 Le code doit être choisi par intervention avec le nombre correspondant de stents/prothèses inséré(e)s et saisi une fois par intervention.
 <br>  <br>  
-Exemple: Le jour X, deux prothèses auto-expansibles sont insérées dans l’œsophage. Le jour Y, une prothèse auto-expansible est remplacée.
+Exemple: le jour X, deux prothèses auto-expansibles sont insérées dans l’œsophage. Le jour Y, une prothèse auto-expansible est remplacée.
 <br><br>  
 <b>Codage</b><br>
 {{<grid class="ps-0">}}
@@ -296,7 +296,7 @@ Chacun des codes suivants indique uniquement «d’une prothèse» ou «de proth
 Pour chaque intervention, le code doit être saisi autant de fois qu’il y a de stents/prothèses implanté(e)s.
 <br>
 <br>
-Exemple: Le jour X, deux prothèses non auto-expansibles sont insérées dans l’intestin. Le jour Y, ces deux prothèses sont enlevées et remplacées par une prothèse auto-expansible.<br>
+Exemple: le jour X, deux prothèses non auto-expansibles sont insérées dans l’intestin. Le jour Y, ces deux prothèses sont enlevées et remplacées par une prothèse auto-expansible.<br>
 Codage:
 {{<grid class="ps-0">}}
     {{<grid/column>}}
@@ -373,9 +373,9 @@ Deux stents avec libération de substances médicamenteuses sont implantés par 
 <br><br>
 Codage :
 <br>
-<i>36.08.22  Implantation par voie transluminale percutanée de stents avec libération de substances médicamenteuses, dans plusieurs artères coronaires</i><br>
-<i>36.08.22  Implantation par voie transluminale percutanée de stents avec libération de substances médicamenteuses, dans plusieurs artères coronaires</i><br>
-<i>36.08.11  Implantation par voie transluminale percutanée de stents sans libération de substance médicamenteuse, dans une artère coronaire</i>
+36.08.22  <i>Implantation par voie transluminale percutanée de stents avec libération de substances médicamenteuses, dans plusieurs artères coronaires</i><br>
+36.08.22  <i>Implantation par voie transluminale percutanée de stents avec libération de substances médicamenteuses, dans plusieurs artères coronaires</i><br>
+36.08.11  <i>Implantation par voie transluminale percutanée de stents sans libération de substance médicamenteuse, dans une artère coronaire</i>
 <br>
 <br>
 <br>
@@ -389,7 +389,7 @@ Codage :
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Mot-clé:</th>
-    <td style="border: 1px solid black;">Dispositifs vaso-occlusifs /. systèmes de protection contre l’embolie  Opérations / interventions vaso-occlusives</td>
+    <td style="border: 1px solid black;">Dispositifs vaso-occlusifs / systèmes de protection contre l’embolie.  Opérations / interventions vaso-occlusives</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé le:</th>
@@ -607,7 +607,7 @@ L’indication de la latéralité n’est impérative que pour les organes exist
 
 
 
-{{<article number="0011"  title="CHOP - Durée de la thérapie prise en compte Thérapie de groupe / Thérapie individuellee" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0011"  title="CHOP - Durée de la thérapie prise en compte Thérapie de groupe / Thérapie individuelle" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -975,7 +975,7 @@ L'évaluation palliative standardisée de base [PBA] doit-elle être répétée 
 La question et l'explication suivantes se réfèrent au groupe d'éléments 93.8A.2- _Traitement complexe de médecine palliative (hors d’un service spécialisé autonome de soins palliatifs), selon le nombre de jours de traitement_, et à la sous-catégorie 93.8B.- _Traitement en service spécialisé autonome de soins palliatifs_.
   
 Explication:  
-Lors d’un regroupement de cas avec un traitement complexe de médecine palliative dans le premier cas, il convient de mettre à jour le PBA après le retour du patient ou de la patiente. (Cela ne signifie pas qu’un nouvel examen de base complet doit être entrepris. Il suffit de documenter que les valeurs du PBA précédent restent valables.)
+Lors d’un regroupement de cas avec un traitement complexe de médecine palliative dans le premier cas, il convient de mettre à jour le PBA après le retour du patient ou de la patiente. Cela ne signifie pas qu’un nouvel examen de base complet doit être entrepris. Il suffit de documenter que les valeurs du PBA précédent restent valables.
 
 {{</markdown>}}  
 <br>
@@ -1184,8 +1184,8 @@ Les deux exemples ci-dessous illustrent la manière de saisir les codes supplém
 {{<markdown>}}
 **Problème/explication:**  
 Les segments sur lesquels seules les tiges sont enlevées lors d’une intervention de révision sur la colonne vertébrale (pour être remplacées par des tiges plus longues en cas de pathologie du segment adjacent) et pour lesquels aucune autre mesure chirurgicale n’est entreprise sur les vertèbres, telle que la mise en place de nouvelles vis pédiculaires ou d’une cage, la décortication de facettes articulaires, l’insertion d’os local ou de matériau de remplacement d’os, n’entrent pas dans le calcul des segments opérés.
-<br>
-<b>Comptage des segments en situation de pontage:</b>
+<br><br>
+<b>Comptage des segments en situation de pontage:</b><br>
 Exemple: une spondylodèse des vertèbres L2-L4 préexistante, complétée à présent par une nouvelle fusion des segments L1/L2 et L4/L5 sera représentée par le code CHOP correspondant pour 2 segments si, comme indiqué ci-dessus, aucune autre mesure n’est entreprise sur les vertèbres L2-L4 en dehors de la pose de la tige.
 {{</markdown>}}
 <br>
@@ -1272,8 +1272,8 @@ Seuls les segments auxquels le système est fixé sont pris en compte dans le d�
 **Problème/explication:**  
 Pour les sous-catégories 7A.71.- à 7A.74.-, la subdivision a été faite en 5e position pour la voie dorsale et dorsolatérale et en 6e position pour la voie ventrale, selon le nombre de segments traités (subdivisés en 14 et plus). Selon les conventions CHOP, le «et» doit être compris comme «et/ou». 
   
-La note sous 7A.7- <i>«Stabilisation de la colonne vertébrale et correction de position» est la suivante: 
-«Si l’abord pour certains segments a lieu par voie dorsale ainsi que ventrale, il faut indiquer, pour la zone complète d’intervention, le nombre total de segments qui ont été opérés par voie dorsale avec un code ainsi que le nombre total de segments qui ont été opérés par voie ventrale avec un autre code. De plus, le code supplémentaire du nombre total de segments opérés est à saisir»</i>.
+La note sous 7A.7- <i>«Stabilisation de la colonne vertébrale et correction de position»</i> est la suivante: 
+«Si l’abord pour certains segments a lieu par voie dorsale ainsi que ventrale, il faut indiquer, pour la zone complète d’intervention, le nombre total de segments qui ont été opérés par voie dorsale avec un code ainsi que le nombre total de segments qui ont été opérés par voie ventrale avec un autre code. De plus, le code supplémentaire du nombre total de segments opérés est à saisir».
 Les voies d’abord dorsolatérales font partie des voies d’abord dorsales. En d’autres termes, le segment n’est pas compté deux fois s’il est opéré par voie dorsale et dorsolatérale. 
   
 Dans l’exemple de l’illustration suivante, une spondylodèse a été réalisée sur six vertèbres, ce qui correspond à cinq segments. Trois segments sont opérés par voie dorsale et/ou dorsolatérale, quatre segments par voie ventrale. On saisit donc un code pour trois segments «dorsal et dorsolatéral» et un code pour quatre segments «ventral». Le code correspondant de la sous-catégorie 7A.B4.- <i>«Somme des segments opérés de la colonne vertébrale»</i> est par ailleurs codé pour cinq segments.

@@ -108,29 +108,29 @@ Une endofuite est une fuite entre la prothèse vasculaire et la poche anévrisma
   
 Une endofuite de **type I** est due à une étanchéité insuffisante au niveau du point d'attache du greffon.
   
-Dans le cas d'une endofuite de **type II**, le sac anévrismal est rempli de sang par une branche latérale. On distingue: 
-**Type IIa**: un seul vaisseau sanguin affluent 
+Dans le cas d'une endofuite de **type II**, le sac anévrismal est rempli de sang par une branche latérale. On distingue:  
+**Type IIa**: un seul vaisseau sanguin affluent  
 **Type IIb**: plusieurs vaisseaux sanguins afférents
 
   
-Une endofuite de **type III** est due à une défaillance mécanique de l'endoprothèse: 
-**Type IIIa**: connexion entre les composants modulaires détachée 
-**Type IIIb**: rupture ou trous dans l'endoprothèse
+Une endofuite de **type III** est due à une défaillance mécanique de l'endoprothèse:  
+**Type IIIa**: connexion entre les composants modulaires détachée  
+**Type IIIb**: rupture ou trous dans l'endoprothèse 
   
 Les endofuites de **type IV** surviennent lorsque du sang s'échappe en raison de la porosité du greffon.  
 
 Une endofuite de **type V** est également appelée endotension. Dans ce cas, on observe une expansion continue de la poche anévrismale > 5 mm sans endofuite détectable.      
   
 **Recommandation de codage::**  
-**Type 1:** T82.5 Complication mécanique d’autres prothèses et implants cardiaques et vasculaires
+**Type 1:** Code: T82.5 _Complication mécanique d’autres prothèses et implants cardiaques et vasculaires_
   
-**Type IIa/ IIb:** Code: I71.- Anévrisme aortique et dissection (car aucune complication du greffon) 
+**Type IIa/ IIb:** Code: I71.- _Anévrisme aortique et dissection (car aucune complication du greffon)_ 
   
-**Type IIIa/ IIIb:** Code: T82.5 Complication mécanique d’autres prothèses et implants cardiaques et vasculaires
+**Type IIIa/ IIIb:** Code: T82.5 _Complication mécanique d’autres prothèses et implants cardiaques et vasculaires_
   
-**Type IV:** Code: T82.5 Complication mécanique d’autres prothèses et implants cardiaques et vasculaires
+**Type IV:** Code: T82.5 _Complication mécanique d’autres prothèses et implants cardiaques et vasculaires_
   
-**Type V:** Kode: I71.- Anévrisme aortique et dissection (car aucune complication du greffon)          
+**Type V:** Code: I71.- _Anévrisme aortique et dissection (car aucune complication du greffon)_          
 {{</markdown>}}
 <br>  
 <br>
@@ -277,7 +277,7 @@ L'artériosclérose dans le tissu sous-cutané est au premier plan de la pathoge
   
 **Recommandation de codage:**  
 Pour l'ulcère hypertonique (Martorell), nous recommandons la combinaison de codes suivante:
-L97 Ulcère du membre inférieur, non classé ailleurs, associé à la combinaison Dague-étoile du code applicable I10.-† à I15.-† et L99.8* *Autres affections précisées de la peau et du tissu cellulaire sous-cutané au cours de maladies classées ailleurs*. 
+L97 <i>Ulcère du membre inférieur, non classé ailleurs</i>, associé à la combinaison Dague-étoile du code applicable I10.-† à I15.-† et L99.8* *Autres affections précisées de la peau et du tissu cellulaire sous-cutané au cours de maladies classées ailleurs*. 
 Cette classification permet de distinguer l'ulcère hypertonique des autres types d'ulcères de jambe.
 {{</markdown>}}
 <br>  
@@ -320,7 +320,7 @@ Cette classification permet de distinguer l'ulcère hypertonique des autres type
 Comment coder un herpes zoster (zona) avec manifestations cutanées dans le dermatome correspondant ?
   
 **Explication:**  
-Il est important de savoir si les éflorescences ont déjà disparu depuis longtemps et si les douleurs persistent dans le dermatome concerné, auquel cas il s'agit d'une névralgie post-zostérienne, ou s'il s'agit d'un herpès zoster (zona) aigu avec manifestations cutanées. 
+Il est important de savoir si les efflorescences ont déjà disparu depuis longtemps et si les douleurs persistent dans le dermatome concerné, auquel cas il s'agit d'une névralgie post-zostérienne, ou s'il s'agit d'un herpès zoster (zona) aigu avec manifestations cutanées. 
   
 **Recommandation de codage:**  
 S'il s'agit d'une manifestation aiguë d'un herpès zoster (zona) et non d'une névralgie post-herpétique, le code B02.2† <i>Zona accompagné d’autres manifestations neurologiques</i> n'est pas correct. Les douleurs sont un symptôme régulier du zoster aigu et il faut coder B02.9 <i>Zona sans complication</i>.  
@@ -518,7 +518,7 @@ Comment coder une pneumonie bactérienne dans le cadre d’une surinfection lors
 La classe résiduelle «sans précision» doit être utilisée lorsqu'une maladie est uniquement décrite par son terme générique, par exemple cataracte, et/ou qu'une différenciation supplémentaire selon les critères de classification de la CIM-10-GM n'est pas possible à l'endroit correspondant. 
 L'index systématique de la CIM-GM 2024 stipule : <i>«Autres...»</i> ou <i>«Autres précisés...» ne doivent être utilisés que lorsqu'un diagnostic spécifique est documenté</i>, mais qu'aucun des codes spécifiques de la catégorie supérieure ne convient.  
   
-La classification du groupe de codes J15.- dans la CIM-10-GM systématique est basée sur l'agent pathogène concerné. 
+La classification du groupe de codes J15.- dans la CIM-10-GM 2024 systématique est basée sur l'agent pathogène concerné. 
 J15.8 nécessite la détection d'un agent pathogène et sert à coder un agent pathogène qui ne peut être représenté spécifiquement par les codes J15.0 à J15.7.  
   
 **Recommandation de codage:**  
@@ -614,7 +614,7 @@ La tachyarythmie / tachycardie ne doit pas être codée en plus de la fibrillati
 
 {{<markdown>}}
 **Problème/Explication:**  
-Les codes CIM-10-GM de la sous-catégorie à 4 positions N13.6- Pyonéphrose sont uniquement utilisés en cas d’infection documentée du rein.  
+Les codes CIM-10-GM de la sous-catégorie à 4 positions N13.6- <i>Pyonéphrose</i> sont uniquement utilisés en cas d’infection documentée du rein.  
 Cela concerne également le code final N13.68 <i>Pyonéphrose, autre et non précisée</i>. Une hydronéphrose avec obstruction calculeuse urétérale avec infection des voies urinaires dont le siège n’est pas précisé est codée avec N13.21 <i>Hydronéphrose avec obstruction calculeuse urétérale</i> et N39.0 <i>Infection des voies urinaires, siège non précisé</i>.
 {{</markdown>}}
 <br>  
