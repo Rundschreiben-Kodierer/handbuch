@@ -61,7 +61,7 @@ Un intervento a cielo aperto per una coartazione aortica congenita viene codific
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Parola chiave:</th>
-    <td style="border: 1px solid black;">Thrombektomie an Lungengefässen / Thrombusentfernungssystem</td>
+    <td style="border: 1px solid black;">Trombectomia sui vasi polmonari / sistema di rimozione del trombo</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Creato:</th>
@@ -77,7 +77,7 @@ Un intervento a cielo aperto per una coartazione aortica congenita viene codific
   </tr>
   <tr>
     <th style="border: 1px solid black;">CHOP</th>
-    <td style="border: 1px solid black;">39.75.17/ 00.4B.13 / 00.4F.2-</td>
+    <td style="border: 1px solid black;">39.75.17 / 00.4B.13 / 00.4F.2-</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Regola di codifica:</th>
@@ -1334,10 +1334,10 @@ Il codice <b>7A.71.-</b> Fusione di vertebre con stabilizzazione della colonna v
 
 <body>
     <ul>
-        <li><b>Impianto di materiali stabilizzanti (ad es. cage, sistemi di viti e barre, placche) così come una delle seguenti misure</b></li>
-        <li><b>Osteotomia o</b></li>
-        <li><b>Accrescimento o trapianto osseo o</b></li>
-        <li><b>Impianto di materiali stabilizzanti</b> (ad es. cage, sistemi di viti e barre, placche)</li>
+        <li>Impianto di materiali stabilizzanti (ad es. cage, sistemi di viti e barre, placche) così come una delle seguenti misure</li>
+        <li>Decorticazione delle superfici articolari o</li>
+        <li>Osteotomia o/b></li>
+        <li>Accrescimento o trapianto osseo</li>
     </ul>
 </body>
 <br>

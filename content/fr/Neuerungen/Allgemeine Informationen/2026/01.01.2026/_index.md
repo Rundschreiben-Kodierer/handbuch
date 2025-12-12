@@ -101,7 +101,7 @@ Les informations suivantes du patient et des proches doivent être retirées pou
 <body>
     <ul>
         <li>Nom, prénom</li>
-        <li>Jour et mois de naissance (à l’exception des nouveau-nés jusqu’à l’âge d’un an (< 1 an)</li>
+        <li>Jour et mois de naissance (à l’exception des nouveau-nés jusqu’à l’âge d’un an (< 1 an))</li>
         <li>Adresse du domicile</li>
         <li>Coordonnées (numéro de téléphone, adresse e-mail, etc.)</li>
     </ul>

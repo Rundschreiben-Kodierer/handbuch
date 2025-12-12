@@ -96,7 +96,7 @@ Eine perkutan-transluminale Thrombektomie an Lungengefässen mittels Thrombusent
         <li>Zutreffende Zusatzkodes der Elementegruppe 00.4F.2- <i>Einsatz von kathetergeführten Thrombus- und Fremdkörperentfernungs-Systemen, nach Anzahl Systeme</i></li>
     </ul>
 </body>
-(Je nach Fall sind weitere CHOP-Kodes zu berücksichtigen.)
+(Je nach Fall sind weitere CHOP-Kodes zu berücksichtigen)
 <br>
 <br>
 <br>

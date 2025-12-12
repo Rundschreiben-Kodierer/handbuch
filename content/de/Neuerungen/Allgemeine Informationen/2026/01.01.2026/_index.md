@@ -73,7 +73,7 @@ Die darin aufgeführten Neuerungen, Korrekturen sowie sonstigen Anpassungen tret
   
 **Analogiekodierungen und Hinweise zur Leistungserfassung und Abrechnung der SwissDRG AG**  
 Die Hinweise zur Leistungserfassung und Abrechnung der SwissDRG AG sind ebenfalls zu berücksichtigen.
-Pfad: Analogiekodierung :: SwissDRG => Akutsomatik / Psychiatrie / Rehabilitation => Abschnitt SwissDRG => Hinweis zur Leistungserfassung und Abrechnung
+Pfad: https://www.swissdrg.org => Akutsomatik / Psychiatrie / Rehabilitation => Abschnitt SwissDRG => Hinweis zur Leistungserfassung und Abrechnung
 https://www.swissdrg.org/de/akutsomatik/swissdrg/hinweis-zur-leistungserfassung
   
 Die Hinweise auf Analogiekodierungen der SwissDRG AG sind ebenfalls zu berücksichtigen.
