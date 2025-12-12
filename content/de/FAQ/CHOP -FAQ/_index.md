@@ -55,6 +55,8 @@ Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Metho
 {{</article>}}
 
 
+
+
 {{<article number="0002"  title="CHOP - Perkutan-transluminale Thrombektomie an Lungengefässen mittels Thrombusentfernungssystem" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
