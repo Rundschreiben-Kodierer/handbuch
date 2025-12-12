@@ -522,7 +522,7 @@ La classification du groupe de codes J15.- dans la CIM-10-GM 2024 systématique 
 J15.8 nécessite la détection d'un agent pathogène et sert à coder un agent pathogène qui ne peut être représenté spécifiquement par les codes J15.0 à J15.7.  
   
 **Recommandation de codage:**  
-L'index alphabétique renvoie au code J15.9 Pneumonie bactérienne, sans précision pour les pneumonies bactériennes sans précision.
+L'index alphabétique renvoie au code J15.9 <i>Pneumonie bactérienne</i>, sans précision pour les pneumonies bactériennes sans précision.
 J15.8 <i>Autres pneumonies bactériennes</i> n'est utilisé que si une bactériologie est disponible et que son résultat indique un germe autre que ceux spécifiquement mentionnés sous J15-.  
 En l'absence de preuve bactériologique, il convient d'utiliser le code J15.9 <i>Pneumonie bactérienne, sans précision</i>.  
   

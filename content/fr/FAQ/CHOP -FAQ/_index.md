@@ -737,7 +737,7 @@ Cela signifie qu’il n’est pas admis de coder simultanément 93.59.5- et 99.8
 
 {{<markdown>}}
 **Problème/explication:**  
-Pour le calcul des jours de traitement sous les codes du groupe d'éléments CHOP 93.59.5- <i>Traitement complexe de colonisation ou d’infection à agents infectieux multirésistants, selon le nombre de jours de traitement, le jour d’entrée et le jour de sortie</i> ne doivent être comptés que comme <b>un seul jour de traitement</b> si les caractéristiques minimales sont remplies.
+Pour le calcul des jours de traitement sous les codes du groupe d'éléments CHOP 93.59.5- <i>Traitement complexe de colonisation ou d’infection à agents infectieux multirésistants, selon le nombre de jours de traitement</i>, le jour d’entrée et le jour de sortie ne doivent être comptés que comme <b>un seul jour de traitement</b> si les caractéristiques minimales sont remplies.
 {{</markdown>}}
 <br>
 <br>
@@ -1371,7 +1371,7 @@ Il n'y a <b>pas</b> de <b>potentiel de conservation du mouvement</b> dans le seg
 
 {{<markdown>}}
 **Problème/explication:**  
-Une fusion osseuse (arthrodèse/spondylodèse) de la colonne vertébrale, dans laquelle seul du matériel osseux autogène (os spongieux et/ou copeaux cortico-spongieux) est utilisé et **aucun instrument** (par ex. vis, plaques, tiges) est enregistrée sous le code CHOP **7A.51.14** Greffe osseuse, colonne vertébrale, autogène, os spongieux et lamelles d’os cortico-spongieux. 
+Une fusion osseuse (arthrodèse/spondylodèse) de la colonne vertébrale, dans laquelle seul du matériel osseux autogène (os spongieux et/ou copeaux cortico-spongieux) est utilisé et **aucun instrument** (par ex. vis, plaques, tiges) est enregistrée sous le code CHOP **7A.51.14** <i>Greffe osseuse, colonne vertébrale, autogène, os spongieux et lamelles d’os cortico-spongieux</i>. 
   
 En cas de laminotomie, de laminectomie ou de laminoplastie, cela doit être enregistré en plus avec le code correspondant de la sous-catégorie 03.03.- _Laminotomie, laminectomie et laminoplastie_. La hauteur de l'intervention sur la colonne vertébrale est codée avec le code correspondant de la sous-catégorie 7A.B1.- _Niveau de l’intervention sur la colonne vertébrale_, tandis que l'accès à la colonne vertébrale est représenté par le code 03.04.-. 
   
