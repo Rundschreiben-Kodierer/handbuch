@@ -680,7 +680,7 @@ Eccezione: esistono codici CHOP per i quali è indicato in nota che, se due o pi
 </table>
 
 <b>Problema/Spiegazione:</b><br>
-Nei gruppi di elementi 99.84.1- Isolamento da contatto, secondo il numero di giorni di trattamento, 99.84.2- <i>Isolamento da goccioline, secondo il numero di giorni di trattamento</i>, […] e 99.84.3- <i>Isolamento da aerosol, secondo il numero di giorni di trattamento, […]</i> è indicata la seguente esclusione di tipo ESCL. «Omettere il codice»: 
+Nei gruppi di elementi 99.84.1- Isolamento da contatto, secondo il numero di giorni di trattamento, 99.84.2- <i>Isolamento da goccioline, secondo il numero di giorni di trattamento</i>, […] e 99.84.3- <i>Isolamento da aerosol, secondo il numero di giorni di trattamento, […]</i> è indicata la seguente esclusione di tipo «esclusione Omettere il codice»: 
 
 <br>
 <br>
@@ -690,7 +690,7 @@ Nei gruppi di elementi 99.84.1- Isolamento da contatto, secondo il numero di gio
     {{</grid/column>}}
     {{<grid/column>}}
         {{<markdown>}}
-ESCL. «Omettere il codice - Trattamento complesso per colonizzazione o infezione da agenti multiresistenti, secondo il numero di giorni di trattamento (93.59.5-)».
+«esclusione Omettere il codice - Trattamento complesso per colonizzazione o infezione da agenti multiresistenti, secondo il numero di giorni di trattamento (93.59.5-)».
         {{</markdown>}}
     {{</grid/column>}}
 {{</grid>}}
@@ -1334,9 +1334,9 @@ Il codice <b>7A.71.-</b> Fusione di vertebre con stabilizzazione della colonna v
 
 <body>
     <ul>
-        <li><b>Decorticazione delle superfici articolari</b></li>
-        <li><b>Osteotomia</b></li>
-        <li><b>Accrescimento o trapianto osseo</b></li>
+        <li><b>Impianto di materiali stabilizzanti (ad es. cage, sistemi di viti e barre, placche) così come una delle seguenti misure</b></li>
+        <li><b>Osteotomia o</b></li>
+        <li><b>Accrescimento o trapianto osseo o</b></li>
         <li><b>Impianto di materiali stabilizzanti</b> (ad es. cage, sistemi di viti e barre, placche)</li>
     </ul>
 </body>
