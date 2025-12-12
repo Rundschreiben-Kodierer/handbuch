@@ -12,7 +12,7 @@ keywords: []
 {{<markdown>}}
 **Information zur Umstellung der Publikation des Rundschreibens für Kodiererinnen und Kodierer**
   
-Der Bereich Medizinische Klassifikationen des Bundesamt für Statistik (BFS) hebt per **01. Januar 2026** die Publikation des Rundschreibens in seiner bisherigen Form auf. Ab diesem Zeitpunkt werden sämtliche **Aktualisierungen** zur publizierten Version des Medizinischen Kodierungshandbuchs (KHB), der Schweizerischen Operationsklassifikation (CHOP) sowie der ICD-10-GM ausschliesslich auf der Internetseite (Link GITHub hinzufügen) zur Verfügung gestellt.
+Der Bereich Medizinische Klassifikationen des Bundesamt für Statistik (BFS) hebt per **01. Januar 2026** die Publikation des Rundschreibens in seiner bisherigen Form auf. Ab diesem Zeitpunkt werden sämtliche **Aktualisierungen** zur publizierten Version des Medizinischen Kodierungshandbuchs (KHB), der Schweizerischen Operationsklassifikation (CHOP) sowie der ICD-10-GM ausschliesslich auf der Internetseite https://rundschreiben-kodierer.github.io/handbuch/de/ zur Verfügung gestellt.
   
 Mit der Umstellung der Inhalte auf die Internetseite entfällt das Rundschreiben in seiner bisher bekannten Form. Die Möglichkeit, die Inhalte der Internetseite als PDF-Datei herunterzuladen, wird auch zukünftig bestehen. 
   
