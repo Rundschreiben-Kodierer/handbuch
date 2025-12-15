@@ -68,7 +68,7 @@ Tutte le circolari dal 2009 al 2025 compreso sono ancora disponibili in formato 
    target="_blank"
    rel="noopener noreferrer">Strumenti di codifica medica | Ufficio federale di statistica - UST</a>
   
-Grazie a questo sviluppo digitale, gli **aggiornamenti** delle pubblicazioni sono non solo moderni e di facile utilizzo, ma offrono anche funzioni aggiuntive che facilitano il lavoro quotidiano dei codificatori e aumentano la chiarezza dei contenuti.
+Con questo sviluppo digitale, gli **aggiornamenti** delle pubblicazioni sono non solo moderni e di facile utilizzo, ma offrono anche funzioni aggiuntive che facilitano il lavoro quotidiano dei codificatori e codificatrici aumentano la chiarezza dei contenuti.
 
 
 {{</markdown>}}
