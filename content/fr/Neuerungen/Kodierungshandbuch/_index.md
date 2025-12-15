@@ -14,9 +14,8 @@ Il sert de référence centrale pour les codeurs et codeuses en expliquant et en
 Ce chapitre fournit une aide à l'interprétation, présente des exemples d'application des directives de codage et précise certains problèmes spécifiques liés au codage. 
 Le contenu de ce chapitre est actualisé dans le cadre des cycles de publication semestriels.
 ________________________________________
-**Système de registres:**
-  
-Les actualisations du manuel de codage sont réparties dans les registres suivants :
+**Système de registres:**  
+Les actualisations du manuel de codage sont réparties dans les registres suivants:
 
 <body>
     <ul>
@@ -28,8 +27,7 @@ Les actualisations du manuel de codage sont réparties dans les registres suivan
 </body>
   
 
-**Règles relatives à la validité et au fonctionnement:**
-  
+**Règles relatives à la validité et au fonctionnement:**  
 Pour chaque version du manuel de codage, un registre indiquant la date d’entrée en vigueur est créé. Il documente toutes les actualisations effectuées au cours de l'année pour la version correspondante du MDC.  
 Une version YYYY du manuel de codage est valable pendant un an (en l’année YYYY).
 Par version les registres suivants peuvent donc exister:
@@ -44,9 +42,9 @@ Par version les registres suivants peuvent donc exister:
 
 La date indique le début de la validité. Une adaptation/correction à un moment X peut faire l’objet d’une nouvelle adaptation à un moment Z ultérieur. Veuillez tenir compte des deux registres au cours du second semestre.  
   
-Les adaptations et corrections indiquées pour une version (p. ex. MDC 2026) sont reprises dans la version suivante du manuel de codage (p. ex. MDC 2027) ou supprimées en raison d'une évolution des directives de codage dans le cadre de la règle de codage correspondante.
+Les adaptations et corrections indiquées pour le manuel de codage sont reprises dans la version suivante ou supprimées en raison d'une évolution des directives de codage dans le cadre de la règle de codage correspondante.
   
-Comme pour les autres chapitres des actualisations des publications, la légende suivante est également utilisée dans le chapitre « Manuel de codage » pour les adaptations, les ajouts et les suppressions :
+Comme pour les autres chapitres des actualisations des publications, la légende suivante est également utilisée dans le chapitre «Manuel de codage» pour les adaptations, les ajouts et les suppressions:
   
   
 {{<markdown>}}

@@ -26,14 +26,12 @@ Ab 1. Januar 2026 gelten folgende Kodierungsinstrumente:
     </ul>
 </body>
 
-Die Instrumente zur medizinischen Kodierung finden Sie unter www.statistik.ch => Grundlagen  => Nomenklaturen => Medizinische Kodierung und Klassifikationen => Instrumente zur medizinischen Kodierung => Gültige Instrumente zur medizinischen Kodierung je Jahr.
-  
 Die Dateien der ICD-10-GM in deutscher Sprache werden vom Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM) erstellt und stehen auf der Internetseite <a href="https://www.bfarm.de"
    target="_blank"
    rel="noopener noreferrer">www.bfarm.de</a> zur Verfügung:  
 Kodiersysteme => Services => Downloads => ICD-10-GM
   
-Die SpiGes Statistik – die Erhebung der stationären Spitalaufenthalte -  ist eine jährliche, obligatorische Vollerhebung. Diese Datenerhebung folgt dem «Once-Only-Prinzip», der Mehrfachnutzung von Daten, und beinhaltet ab 2025 auch die Fallkostendaten sowie Teile der Krankenhausstatistik (KS). Ein einheitlicher Standarddatensatz soll als Grundlage für alle weiteren Datenbearbeitungen genutzt werden und die qualitativen Mindestanforderungen für eine Mehrfachverwendung der erhobenen Daten definieren. Die damit verbundene Datenerfassung erfolgt seit dem 1. Januar 2024 (s. Projekt SpiGes (Erhebung Spitalstationäre Gesundheitsversorgung)).
+Die SpiGes Statistik – die Erhebung der stationären Spitalaufenthalte -  ist eine jährliche, obligatorische Vollerhebung. Diese Datenerhebung folgt dem «Once-Only-Prinzip», der Mehrfachnutzung von Daten, und beinhaltet ab 2025 auch die Fallkostendaten sowie Teile der Krankenhausstatistik (KS). Ein einheitlicher Standarddatensatz soll als Grundlage für alle weiteren Datenbearbeitungen genutzt werden und die qualitativen Mindestanforderungen für eine Mehrfachverwendung der erhobenen Daten definieren. Die damit verbundene Datenerfassung erfolgt seit dem 1. Januar 2024 (s. Projekt SpiGes).
   
 Die obengenannten Kodierungsinstrumente gelten für die Kodierung aller stationärer Aufenthalte in Spitäler und Kliniken der Schweiz, einschliesslich Rehabilitations-, Psychiatrie- und Spezialkliniken sowie Geburtshäuser. 
   
@@ -50,7 +48,7 @@ Die gesetzlichen Grundlagen sind:
 Für die Klassifikationen, das Kodierungshandbuch und die Aktualisierungen zu den Publikationen der Medizinischen Klassifikationen des BFS sind bei Unterschieden zwischen den Sprachversionen die Originalversionen (deutschsprachige Versionen) massgebend.
   
 **Aktualisierungen zu den Publikationen der Medizinischen Klassifikationen des BFS und FAQ/Klarstellungen**   
-Die «Aktualisierungen zu den Publikationen der Medizinischen Klassifikationen des BFS» enthalten Grundlagen und Zusatzinformationen (inkl. Korrekturen) zu den folgenden Publikationen der Medizinischen Klassifikationen des BFS <a href="Instrumente zur medizinischen Kodierung | Bundesamt für Statistik - BFS"
+Die «Aktualisierungen zu den Publikationen der Medizinischen Klassifikationen des BFS» enthalten Grundlagen und Zusatzinformationen (inkl. Korrekturen) zu den folgenden Publikationen der Medizinischen Klassifikationen des BFS <a href="https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/nomenklaturen/medkk/instrumente-medizinische-kodierung.html"
    target="_blank"
    rel="noopener noreferrer">
     Instrumente zur medizinischen Kodierung | Bundesamt für Statistik - BFS:
@@ -74,11 +72,9 @@ Die darin aufgeführten Neuerungen, Korrekturen sowie sonstigen Anpassungen tret
 **Analogiekodierungen sowie Hinweise zur Leistungserfassung und Abrechnung der SwissDRG AG**  
 Die Hinweise zur Leistungserfassung und Abrechnung der SwissDRG AG sind ebenfalls zu berücksichtigen.  
 Pfad: https://www.swissdrg.org => Akutsomatik / Psychiatrie / Rehabilitation => Abschnitt SwissDRG => Hinweis zur Leistungserfassung und Abrechnung 
-https://www.swissdrg.org/de/akutsomatik/swissdrg/hinweis-zur-leistungserfassung
   
 Die Hinweise auf Analogiekodierungen der SwissDRG AG sind ebenfalls zu berücksichtigen.  
 Pfad: www.swissdrg.org => Akutsomatik => Abschnitt SwissDRG System 15.0/2026 => Analogiekodierung
-https://www.swissdrg.org/de/akutsomatik/swissdrg-system-1502026/analogiekodierung
    
 Weitere Publikationen der SwissDRG AG sind unterjährig laufend zu beachten.
   
@@ -88,7 +84,7 @@ Für Anfragen zu Kodierungsrichtlinien und Klassifikationen gibt das BFS-Präzis
 **Anfragen zur Einzelfallbeurteilung**  
 **Vorgehen**  
 Zu spezifischen Einzelfällen gibt das BFS Empfehlungen ohne Präjudiz für weitere ähnliche Fälle.  
-Die gegebene Empfehlung ist rechtlich nicht bindend. Eine Haftung des BFS im Zusammenhang mit einer erteilten Empfehlung ist daher ausgeschlossen.
+Die gegebenen Empfehlungen sind rechtlich nicht bindend. Eine Haftung des BFS im Zusammenhang mit den erteilten Empfehlungen sind daher ausgeschlossen.
   
 Es werden nur Kodierungsanfragen behandelt, welche in der Beilage **alle notwendigen klinischen Unterlagen zur Fallbeurteilung in anonymisierter Form** (Austrittsbericht, Operationsbericht, Argumentation und Kodierung beider Parteien etc.) enthalten. Sie sind mit Kopie an die andere Partei an codeInfo@bfs.admin.ch zu senden.
   

@@ -18,8 +18,8 @@ Elles sont classées par ordre croissant selon le numéro du code.
 Si un thème d’adaptation/de correction concerne plusieurs codes, il est classé sous le premier code principalement concerné.
   
 La CIM-10-GM 2024 est en vigueur en Suisse depuis le 1er janvier 2025. Les circulaires 2025 n° 1 et n° 2 ne comportaient aucune correction ni adaptation pour les versions française et italienne. La CIM-10-GM 2024 restera en vigueur en 2026. Si des adaptations ou des corrections devaient être apportées, il y aurait probablement deux registres pour cette version.
-  
-Il est prévu qu’une version YYYY de la CIM-10-GM soit valable en Suisse pendant trois ans (de l'année YYYY+1 à l’année YYYY+3). La CIM-10-GM 2026 entrera par exemple en vigueur en Suisse le 1er janvier 2027 et sera valable jusqu'au 31 décembre 2029.
+
+Le BfArM prévoit de passer à un cycle triennal pour la publication annuelle de la CIM-10-GM. Par conséquent une version YYYY de la CIM-10-GM sera valable en Suisse pendant trois ans (de l'année YYYY+1 à l’année YYYY+3). La CIM-10-GM 2026 entrera par exemple en vigueur en Suisse le 1er janvier 2027 et sera valable jusqu'au 31 décembre 2029.
   
 Ainsi, pour chaque version, les registres suivants peuvent exister:
 <body>

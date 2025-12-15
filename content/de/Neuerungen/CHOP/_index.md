@@ -12,8 +12,7 @@ keywords: []
 Das Kapitel «Aktualisierungen zur CHOP» enthält die unterjährigen Aktualisierungen zur angegebenen Jahresversion der schweizerischen Operationsklassifikation (CHOP). Unter Aktualisierungen versteht man Anpassungen und Korrekturen der im Juli auf Deutsch und im Oktober auf Französisch und Italienisch publizierten CHOP-Version.
     
 Zu jeder Version der Klassifikation wird ein Register angelegt. 
-Unter diesem Register sind die Excel-Ordner, die die unterjährigen Aktualisierungen zur entsprechenden CHOP-Version im Tabellenformat sowie erklärende «Lies mich» enthalten, per Link verknüpft. Der Dateiname enthält jeweils die CHOP-Version, «UP» für Update und die Nummer des Aktualisierungspakets. 
-  
+Unter diesem Register sind die Excel-Ordner, die die unterjährigen Aktualisierungen zur entsprechenden CHOP-Version im Tabellenformat sowie erklärende «Lies mich» enthalten, per Link verknüpft. Der Dateiname enthält jeweils die CHOP-Version, «UP» für Update und die Nummer des Aktualisierungspakets.  
 Voraussichtlich ist eine Version YYYY der CHOP ein Jahr gültig (im Jahr YYYY).  
 Je Version können somit folgende Links vorkommen:
 <body>

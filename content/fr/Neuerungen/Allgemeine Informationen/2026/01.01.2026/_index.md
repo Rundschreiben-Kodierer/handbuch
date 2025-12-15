@@ -25,15 +25,13 @@ Instruments de codage en vigueur<br><br>
         <li>ICD-10-GM 2024 Systematisches Verzeichnis, deutsche Version: Zusatzinformationen für den schweizerischen Kontext</li>
     </ul>
 </body>
-
-Les instruments pour le codage médical sont disponibles sur www.statistique.ch => Bases statistiques => Nomenclatures => Classifications et codage médicaux => Instruments pour le codage médical => Instruments en vigueur pour le codage médical, par année.
   
 Les fichiers de l’ICD-10-GM en langue allemande sont établis par le Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM) et mis à disposition sur le site Internet <a href="https://www.bfarm.de"
    target="_blank"
    rel="noopener noreferrer">www.bfarm.de</a> zur Verfügung:  
 Kodiersysteme => Services => Downloads => ICD-10-GM
   
-La statistique SpiGes – qui recense les hospitalisations stationnaires – est une enquête exhaustive annuelle obligatoire. Cette collecte de données suit le principe «once-only», qui consiste à utiliser les données une seule fois, et comprendra également à partir de 2025 les données sur les coûts par cas ainsi que certaines parties de la statistique hospitalière (KS). L’objectif est d’utiliser, pour tous les traitements de données ultérieurs, un ensemble cohérent de données standard et de définir les exigences minimales de qualité en matière d’utilisation multiple des données. Les données seront relevées à partir du 1er janvier 2024 (voir projet SpiGes (Relevé Séjours stationnaires en hôpitaux)). 
+La statistique SpiGes – qui recense les hospitalisations stationnaires – est une enquête exhaustive annuelle obligatoire. Cette collecte de données suit le principe «once-only», qui consiste à utiliser les données une seule fois, et comprendra également à partir de 2025 les données sur les coûts par cas ainsi que certaines parties de la statistique hospitalière (KS). L’objectif est d’utiliser, pour tous les traitements de données ultérieurs, un ensemble cohérent de données standard et de définir les exigences minimales de qualité en matière d’utilisation multiple des données. Les données seront relevées à partir du 1er janvier 2024 (voir projet SpiGes). 
   
 Les instruments de codage désignés ci-dessus valent pour le codage de toutes les hospitalisations dans les hôpitaux et cliniques de Suisse, y compris les cliniques de réadaptation, psychiatriques et cliniques spécialisées ainsi que les maisons de naissance.
   
@@ -50,7 +48,7 @@ Les bases légales sont:
 Pour les classifications, le manuel de codage et les Actualisations des publications des classifications médicales de l'OFS, en cas de divergence entre les versions linguistiques, les versions originales (versions en langue allemande) font foi.
   
 **Actualisations des publications des classifications médicales de l'OFS et FAQ/ Clarifications**   
-Les «Actualisations des publications des classifications médicales de l'OFS» contiennent des informations de base et complémentaires (incl. corrections) sur les publications des classifications médicales de l'OFS<a href="Instruments pour le codage médical | Office fédéral de la statistique - OFS"
+Les «Actualisations des publications des classifications médicales de l'OFS» contiennent des informations de base et complémentaires (incl. corrections) sur les publications des classifications médicales de l'OFS<a href="https://www.bfs.admin.ch/bfs/fr/home/statistiques/sante/nomenclatures/medkk/instruments-codage-medical.html"
    target="_blank"
    rel="noopener noreferrer">
     Instruments pour le codage médical | Office fédéral de la statistique - OFS:
@@ -74,11 +72,9 @@ Les nouveautés, corrections et autres adaptations mentionnées entrent en vigue
 **Codages analogues et notices pour la saisie des prestations et de la tarification de SwissDRG SA**  
 Les notices pour la saisie des prestations et de la tarification de SwissDRG SA doivent également être prises en compte.
 Lien: www.swissdrg.org => Somatique aiguë/Psychiatrie/Réadaptation => Rubrique SwissDRG / TARPSY / ST Reha => Notice pour la saisie des prestations et de la tarification
-https://www.swissdrg.org/fr/somatique-aigue/swissdrg/notice-pour-la-saisie-des-prestations
   
 Les notices sur les codages analogues de SwissDRG SA doivent également être prises en compte.
 Lien: www.swissdrg.org => Somatique aiguë => Rubrique Système SwissDRG 15.0/2026 => Codage analogue
-https://www.swissdrg.org/fr/somatique-aigue/systeme-swissdrg-1502026/codage-analogue
 
    
 Les autres publications de SwissDRG SA doivent être prises en considération tout au long de l’année.
