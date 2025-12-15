@@ -1,5 +1,5 @@
 ---
-title: "Aggiornamenti alle pubblicazioni"
+title: "Aggiornamenti sulle pubblicazioni"
 slug: Neuerungen
 description: ""
 weight: 1
@@ -10,9 +10,8 @@ keywords: []
 <p style="text-align: right;">{{<printButton>}}
 
 {{<markdown>}}
-**Informazioni relative alla modifica della forma di pubblicazione della circolare per codificatori e codificatrici**
-  
-Il settore Classificazioni mediche dell'Ufficio federale di statistica (UST) sospenderà la pubblicazione della circolare nella sua forma attuale a partire dal **1° gennaio 2026**. A partire da tale data, tutti **gli aggiornamenti** alla versione pubblicata del Manuale di codifica medica, della Classificazione svizzera delle operazioni (CHOP) e dell'ICD-10-GM saranno disponibili esclusivamente sul sito Internet: <a href="https://rundschreiben-kodierer.github.io/handbuch/it/"
+**Informazioni relative alla modifica della forma di pubblicazione della circolare per codificatori e codificatrici**<br>  
+Il settore Classificazioni mediche dell'Ufficio federale di statistica (UST) sospenderà la pubblicazione della circolare nella sua forma attuale a partire dal **1° gennaio 2026**. A partire da tale data, tutti **gli aggiornamenti** alla versione pubblicata del <i>Manuale di codifica medica</i>, della <i>Classificazione svizzera delle operazioni (CHOP)</i> e dell'<i>ICD-10-GM</i> saranno disponibili esclusivamente sul sito Internet: <a href="https://rundschreiben-kodierer.github.io/handbuch/it/"
    target="_blank"
    rel="noopener noreferrer">Aggiornamenti alle pubblicazioni delle classificazioni mediche:</a>.
   
@@ -42,20 +41,18 @@ I noti **cicli di pubblicazione** semestrali **delle precedenti circolari n. 1 e
   
 Sotto ogni capitolo sono indicati **l’anno di pubblicazione e la data di inizio della validità** dei contenuti in esso riportati, in modo che sia sempre possibile ricostruire chiaramente la cronologia delle modifiche e delle integrazioni.
   
-Register mit dem Zusatz Ø None enthalten keine Aktualisierungen.
+I registri con indicazione "Ø None" contengono aggiornamenti.
   
   
-**Capitolo «Aggiornamenti della CHOP»**
-  
+**Capitolo «Aggiornamenti della CHOP»**<br>  
 Le informazioni relative agli aggiornamenti della CHOP sono ora disponibili in una **cartella Excel (xlsx)**, accessibile direttamente dai rispettivi registri del capitolo CHOP. Questa tabella consente di seguire chiaramente le modifiche e riporta gli aggiornamenti nelle lingue **tedesco, francese e italiano**.
   
   
-**Nuovo capitolo «FAQ/Chiarimenti»**
-  
+**Nuovo capitolo «FAQ/Chiarimenti»**<br>  
 Il precedente capitolo 5 «Appendice» è stato sostituito dal nuovo capitolo **«FAQ/Chiarimenti»**. In futuro vi saranno riportate le risposte a domande sia generali che specifiche. I contenuti della precedente appendice (capitolo 5) sono stati trasferiti in questo nuovo capitolo, se ancora attuali.
   
     
-**Funzioni di ricerca ed esportazione**
+**Funzioni di ricerca ed esportazione**<br>
 La versione online offre funzioni aggiuntive:
 <ul>  
   <li>
