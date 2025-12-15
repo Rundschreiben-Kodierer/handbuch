@@ -279,11 +279,12 @@ Nella tabella sono presenti le seguenti colonne:
 
 
 
-In precedenza, nel capitolo 3, Informazioni supplementari sulla CHOP, nel file PDF della circolare era riportata una modifica o una correzione relativa a una versione CHOP come segue.
+In precedenza, nel capitolo 3, Informazioni supplementari sulla CHOP, nel file PDF della circolare era riportata una modifica o una correzione relativa a una versione CHOP come segue.  
 {{<markdown>}}Legenda: <font color="green">Novità in verde / </font>, <font color="red">~~Cancellazioni in rosso~~</font>
-  {{</markdown>}}
+  {{</markdown>}}  
 **Sottoregistro n. 3.1 Titolo**
   
+    
 *Breve testo introduttivo al sottoregistro.*
 <p class="MsoNormal" style="margin-bottom: 0cm;"><strong><span lang="DE-CH" style="mso-fareast-language: DE-CH;">NN.NN.NN<span style="mso-tab-count: 1;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Titolo del codice<br></span></strong><span lang="DE-CH" style="mso-fareast-language: DE-CH;"><span style="mso-tab-count: 2;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;</span><span style="color: #00b050;">Nuova descrizione complementare<span style="mso-tab-count: 1;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="mso-tab-count: 1;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></p>
 <p class="MsoNormal" style="text-indent: 36.0pt; margin: 0cm 0cm 0cm 36.0pt;"><span lang="DE-CH" style="mso-fareast-language: DE-CH;">&nbsp; &nbsp; &nbsp; &nbsp;Escl. Testo dell’esclusione <s><span style="color: red;">Testo da cancellare nell’esclusione </span></s><span style="color: red;"> </span>(MM.MM.-)</span></p>

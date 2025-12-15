@@ -298,8 +298,8 @@ Folgende Spalten befinden sich in der Tabelle:
 </table>
 <div style="mso-element: comment-list;">&nbsp;</div>
 
-Zuvor wurde im Kapitel 3, Zusatzinformationen zur CHOP, in der PDF-Datei des Rundschreibens eine Anpassung oder Korrektur zu einer CHOP-Version wie folgt dargestellt.
-{{<markdown>}}Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Löschungen in rot~~</font>
+Zuvor wurde im Kapitel 3, Zusatzinformationen zur CHOP, in der PDF-Datei des Rundschreibens eine Anpassung oder Korrektur zu einer CHOP-Version wie folgt dargestellt.<br>
+{{<markdown>}}Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Löschungen in rot~~</font><br><br>
   {{</markdown>}}
 **Unterregister Nr. 3.1 Titel**
   
@@ -321,13 +321,13 @@ Hier wird nur der Auszug für die deutschsprachige Version wiedergegeben.
 <td style="width: 80.1094px; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; background: #f4b084; padding: 0cm 5.4pt; height: 53.8pt;" valign="top" width="88">
 <p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><strong><span lang="DE-CH" style="color: black; mso-color-alt: windowtext; mso-fareast-language: DE-CH;">nbchar</span></strong></p>
 </td>
-<td style="width: 119.312px; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; background: #f6ed75; padding: 0cm 5.4pt; height: 53.8pt;" valign="top" width="93">
+<td style="width: 119.312px; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; background: #f6ed75; padding: 0cm 5.4pt; height: 53.8pt;" valign="top" width="100">
 <p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><strong><span lang="DE-CH" style="color: black; mso-color-alt: windowtext; mso-fareast-language: DE-CH;">Modification DE</span></strong></p>
 </td>
 <td style="width: 116.891px; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; background: #f4b084; padding: 0cm 5.4pt; height: 53.8pt;" valign="top" width="95">
 <p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><strong><span lang="DE-CH" style="color: black; mso-color-alt: windowtext; mso-fareast-language: DE-CH;">Zcode</span></strong></p>
 </td>
-<td style="width: 109.312px; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; background: #f4b084; padding: 0cm 5.4pt; height: 53.8pt;" valign="top" width="90">
+<td style="width: 109.312px; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; background: #f4b084; padding: 0cm 5.4pt; height: 53.8pt;" valign="top" width="92">
 <p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><strong><span lang="DE-CH" style="color: black; mso-color-alt: windowtext; mso-fareast-language: DE-CH;">Item / Subregister number</span></strong></p>
 </td>
 <td style="width: 137.438px; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; background: #f6ed75; padding: 0cm 5.4pt; height: 53.8pt;" valign="top" width="156">
