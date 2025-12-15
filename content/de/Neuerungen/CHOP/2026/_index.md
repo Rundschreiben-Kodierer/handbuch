@@ -9,7 +9,7 @@ keywords: []
 
 <p style="text-align: right;">{{<printButton>}}
   
-Die Tabelle mit den unterjährigen Aktualisierungen zur «CHOP 2026» steht unter folgendem Link zur Verfügung:
+Die Tabelle mit den unterjährigen Aktualisierungen zur **«CHOP 2026»** steht unter folgendem Link zur Verfügung:
   
 <body>
     <ul>

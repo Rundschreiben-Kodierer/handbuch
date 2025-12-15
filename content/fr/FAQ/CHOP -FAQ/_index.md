@@ -1331,7 +1331,6 @@ Le code <b>7A.71.-</b> <i>Fusion de vertèbres avec stabilisation de la colonne 
         <li>Application de matériau osseux (de substitution)</li>
     </ul>
 </body>
-<br>
 Il n'y a <b>pas</b> de <b>potentiel de conservation du mouvement</b> dans le segment concerné.
 <br>
 <br>

@@ -49,11 +49,11 @@ Die gesetzlichen Grundlagen sind:
 Für die Klassifikationen, das Kodierungshandbuch und die Aktualisierungen zu den Publikationen der Medizinischen Klassifikationen des BFS sind bei Unterschieden zwischen den Sprachversionen die Originalversionen (deutschsprachige Versionen) massgebend.
   
 **Aktualisierungen zu den Publikationen der Medizinischen Klassifikationen des BFS und FAQ/Klarstellungen**   
-Die «Aktualisierungen zu den Publikationen der Medizinischen Klassifikationen des BFS» enthalten Grundlagen und Zusatzinformationen (inkl. Korrekturen) zu den folgenden Publikationen der Medizinischen Klassifikationen des BFS <a href="Instrumente zur medizinischen Kodierung | Bundesamt für Statistik - BFS:"
+Die «Aktualisierungen zu den Publikationen der Medizinischen Klassifikationen des BFS» enthalten Grundlagen und Zusatzinformationen (inkl. Korrekturen) zu den folgenden Publikationen der Medizinischen Klassifikationen des BFS <a href="Instrumente zur medizinischen Kodierung | Bundesamt für Statistik - BFS"
    target="_blank"
    rel="noopener noreferrer">
     Instrumente zur medizinischen Kodierung | Bundesamt für Statistik - BFS
-</a>
+</a>:
 <body>
     <ul>
         <li>Medizinisches Kodierungshandbuch</li>

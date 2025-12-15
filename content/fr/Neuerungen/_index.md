@@ -12,7 +12,9 @@ keywords: []
 {{<markdown>}}
 **Information concernant la modification du format de publication de la circulaire destinée aux codeurs**
   
-DLe domaine Classifications médicales de l'Office fédéral de la statistique (OFS) supprimera la publication de la circulaire sous sa forme actuelle à compter **du 1er janvier 2026**. À partir de cette date, toutes **les actualisations** de la version publiée du Manuel de codage médical (KHB), de la Classification suisse des opérations chirurgicales (CHOP) et de la CIM-10-GM seront disponibles exclusivement sur le site Internet: https://rundschreiben-kodierer.github.io/handbuch/fr/.
+Le domaine Classifications médicales de l'Office fédéral de la statistique (OFS) supprimera la publication de la circulaire sous sa forme actuelle à compter **du 1er janvier 2026**. À partir de cette date, toutes **les actualisations** de la version publiée du Manuel de codage médical (KHB), de la Classification suisse des opérations chirurgicales (CHOP) et de la CIM-10-GM seront disponibles exclusivement sur le site Internet:  <a href="https://rundschreiben-kodierer.github.io/handbuch/fr/"
+   target="_blank"
+   rel="noopener noreferrer">Actualisations des publications des classifications médicales</a>.
   
 Avec le transfert des contenus vers le site Internet, la circulaire sous sa forme actuelle disparaîtra. Il sera toujours possible de télécharger les contenus du site Internet sous forme de fichiers PDF.
   
