@@ -167,7 +167,7 @@ Le tableau suivant illustre les différentes situations d'une prothèse abdomina
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Mot-clé:</th>
-    <td style="border: 1px solid black;">Stents / Prothesen / nicht vaskulär</td>
+    <td style="border: 1px solid black;">Stents / Prothèses / Non vasculaires</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé le:</th>
@@ -329,7 +329,7 @@ Jour Y:
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé le:</th>
-    <td style="border: 1px solid black;">01.01.2026 – Neu</td>
+    <td style="border: 1px solid black;">01.01.2026 – Nouveau</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
@@ -495,7 +495,7 @@ Le code 51.99.90 <i>Autre opération endoscopique des voies biliaires</i>, comme
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé le:</th>
-    <td style="border: 1px solid black;">Créé le:	01.01.2026 – Basis RS 2025/2: 0808</td>
+    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0808</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
@@ -573,7 +573,7 @@ Le tableau suivant précise, par l’exemple de la main, le codage avec le code 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Mot-clé:</th>
-    <td style="border: 1px solid black;"><br>Indication de la latéralité</br> / organes existant par paires / organes non présents par paires</td>
+    <td style="border: 1px solid black;">Indication de la latéralité</br> / organes existant par paires / organes non présents par paires</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé le:</th>
@@ -612,7 +612,7 @@ L’indication de la latéralité n’est impérative que pour les organes exist
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Mot-clé:</th>
-    <td style="border: 1px solid black;"><br>Comptage des minutes de thérapie / thérapie de groupe / thérapie individuelle / durée de la thérapie</td>
+    <td style="border: 1px solid black;">Comptage des minutes de thérapie / thérapie de groupe / thérapie individuelle / durée de la thérapie</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé le:</th>
@@ -967,7 +967,7 @@ Exemple 2: une «mesure d’hygiène» pourrait appartenir au groupe de prestati
 
 {{<markdown>}}
 
-**Fragestellung:**  
+**Question:**  
 L'évaluation palliative standardisée de base [PBA] doit-elle être répétée lors du retour d'un patient / d'une patiente dans le cadre d'une fusion de cas ?
   
 
@@ -1136,7 +1136,7 @@ La réalisation d’un seul «examen ou test» pour l’évaluation de la dimens
 
 {{<markdown>}}
 **Problème/explication:**  
-Le groupe d’éléments 93.8B.1- représente le <i>«Séjour en service spécialisé autonome de soins palliatifs, selon le nombre de jours de traitement»</i>. Si les caractéristiques minimales sous 93.8B.- ainsi que sous 93.8B.1- sont remplies, le code correspondant sous 93.8B.1- doit être saisi pour toute la durée de traitement en service spécialisé autonome de soins palliatifs. Si des prestations supplémentaires de soins palliatifs spécialisés sont fournies lors d’une ou plusieurs semaines de <b>traitement parallèlement à un séjour</b> en service spécialisé autonome de soins palliatifs, on peut saisir le code correspondant du groupe d’éléments 93.8B.2- <i>Prestation supplémentaire en service spécialisé autonome de soins palliatifs, selon le nombre de jours de traitement</i>.
+Le groupe d’éléments 93.8B.1- représente le <i>«Séjour en service spécialisé autonome de soins palliatifs, selon le nombre de jours de traitement»</i>. Si les caractéristiques minimales sous 93.8B.- ainsi que sous 93.8B.1- sont remplies, le code correspondant sous 93.8B.1- doit être saisi pour toute la durée de traitement en service spécialisé autonome de soins palliatifs. Si des prestations supplémentaires de soins palliatifs spécialisés sont fournies lors d’une ou plusieurs semaines de traitement <b>parallèlement à un séjour</b> en service spécialisé autonome de soins palliatifs, on peut saisir le code correspondant du groupe d’éléments 93.8B.2- <i>Prestation supplémentaire en service spécialisé autonome de soins palliatifs, selon le nombre de jours de traitement</i>.
   
 Les deux exemples ci-dessous illustrent la manière de saisir les codes supplémentaires du groupe d’éléments 93.8B.2- <i>Prestation supplémentaire en service spécialisé autonome de soins palliatifs</i>, selon le nombre de jours de traitement.
 

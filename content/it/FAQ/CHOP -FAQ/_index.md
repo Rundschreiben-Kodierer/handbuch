@@ -421,12 +421,12 @@ Codifica:
 {{</markdown>}}
 <br>
 <u>Interventi di occlusione vascolare</u><br>
-Nella CHOP esistono codici per operazioni/interventi di chiusura di vasi, le cosiddette embolizzazioni con coils, plugs, filtri ecc., p. es. 39.79.2- <i>Embolizzazione od occlusione mediante spirali di altri vasi</i>, 39.79.5- <i>Embolizzazione selettiva con filtri di altri vasi, NAS</i> o 39.79.A- <i>Embolizzazione selettiva di altri vasi con plugs</i> ecc.<br>
-Sono inoltre disponibili i codici supplementari delle sottocategorie 00.4A.- <i>Numero di coils endovascolari utilizzate</i> e 00.4G.- <i>Inserzione di dispositivi di chiusura di vasi</i>.<br>
+Nella CHOP esistono codici per operazioni/interventi di chiusura di vasi, le cosiddette embolizzazioni con coils, plugs, filtri ecc., p. es. 39.79.2- <i>Embolizzazione od occlusione mediante spirali di altri vasi</i>, 39.79.5- <i>Embolizzazione selettiva con filtri di altri vasi, NAS</i> o 39.79.A- <i>Embolizzazione selettiva di altri vasi con plugs</i> ecc.<br><br>
+Sono inoltre disponibili i codici supplementari delle sottocategorie 00.4A.- <i>Numero di coils endovascolari utilizzate</i> e 00.4G.- <i>Inserzione di dispositivi di chiusura di vasi</i>.<br><br>
 I codici supplementari dei gruppi degli elementi da 00.4G.2- a 00.4G.6- <i>Filtri vascolari inseriti […], secondo</i> il numero servono unicamente per indicare i dispositivi impiegati nel quadro di operazioni/interventi di chiusura di vasi (p. es. embolizzazioni selettive). I codici della sottocategoria 00.4G.- non vanno impiegati per i sistemi di protezione da embolia. 
 <br><br>
 <u>Sistemi di protezione da embolia</u><br>
-Il codice supplementare 39.E1 <i>Impiego di sistema di protezione da embolia</i> consente di registrare l’utilizzo di sistemi di protezione da embolia perioperatori.<br>
+Il codice supplementare 39.E1 <i>Impiego di sistema di protezione da embolia</i> consente di registrare l’utilizzo di sistemi di protezione da embolia perioperatori.<br><br>
 I codici 38.7X.11 <i>Inserzione di sistema di protezione da embolia nella vena cava, chirurgica a cielo aperto</i>, 38.7X.21 <i>Inserzione di sistema di protezione da embolia nella vena cava, percutanea transluminale</i>, 39.75.13 <i>Intervento vascolare percutaneo transluminale, altri vasi, sistema di protezione da embolia (vasi periferici o viscerali)</i> rappresentano invece sistemi permanenti.
 <br>
 <br>
@@ -680,7 +680,7 @@ Eccezione: esistono codici CHOP per i quali è indicato in nota che, se due o pi
 </table>
 
 <b>Problema/Spiegazione:</b><br>
-Nei gruppi di elementi 99.84.1- Isolamento da contatto, secondo il numero di giorni di trattamento, 99.84.2- <i>Isolamento da goccioline, secondo il numero di giorni di trattamento</i>, […] e 99.84.3- <i>Isolamento da aerosol, secondo il numero di giorni di trattamento, […]</i> è indicata la seguente esclusione di tipo «Omettere il codice»: 
+Nei gruppi di elementi 99.84.1- <i>Isolamento da contatto, secondo il numero di giorni di trattamento</i>, 99.84.2- <i>Isolamento da goccioline, secondo il numero di giorni di trattamento</i>, […] e 99.84.3- <i>Isolamento da aerosol, secondo il numero di giorni di trattamento, […]</i> è indicata la seguente esclusione di tipo ESCL. «Omettere il codice»: 
 
 <br>
 <br>
@@ -971,7 +971,7 @@ Esempio 2: una «misura di igiene» potrebbe essere fornita nel quadro del profi
 
 {{<markdown>}}
 
-**Fragestellung:**  
+**Domanda:**  
 La valutazione medico palliativa di base standardizzata (PBA) deve essere ripetuta al ritorno di un paziente nell'ambito di un raggruppamento di casi?
   
 
@@ -1147,7 +1147,7 @@ L’applicazione di un solo strumento di valutazione (ad es. ESAS) per rilevare 
 
 {{<markdown>}}
 **Problema/Spiegazione:**  
-Il gruppo di elementi 93.8B.1- rappresenta la «Degenza in reparto specialistico autonomo di cure palliative, secondo il numero di giorni di trattamento». Se i requisiti minimi di cui alla sottocategoria 93.8B.- nonché al gruppo di elementi 93.8B.1- sono soddisfatti, va indicato il corrispondente codice del gruppo di elementi 93.8B.1- per l’intera durata del trattamento in reparto specialistico di cure palliative. Se in una o più settimane di trattamento parallelamente alla degenza in reparto specialistico autonomo di cure palliative sono fornite prestazioni supplementari di cure palliative specializzate, può essere registrato il codice corrispondente del gruppo di elementi 93.8B.2- _Prestazione supplementare in reparto specialistico autonomo di cure palliative, secondo il numero di giorni di trattamento_.
+Il gruppo di elementi 93.8B.1- rappresenta la «Degenza in reparto specialistico autonomo di cure palliative, secondo il numero di giorni di trattamento». Se i requisiti minimi di cui alla sottocategoria 93.8B.- nonché al gruppo di elementi 93.8B.1- sono soddisfatti, va indicato il corrispondente codice del gruppo di elementi 93.8B.1- per l’intera durata del trattamento in reparto specialistico di cure palliative. Se in una o più settimane di trattamento <b>parallelamente alla degenza</b> in reparto specialistico autonomo di cure palliative sono fornite prestazioni supplementari di cure palliative specializzate, può essere registrato il codice corrispondente del gruppo di elementi 93.8B.2- _Prestazione supplementare in reparto specialistico autonomo di cure palliative, secondo il numero di giorni di trattamento_.
   
 I due esempi che seguono illustrano le modalità di registrazione dei codici supplementari del gruppo di elementi 93.8B.2- _Prestazione supplementare in reparto specialistico autonomo di cure palliative, secondo il numero di giorni di trattamento_.
 
@@ -1195,7 +1195,7 @@ I due esempi che seguono illustrano le modalità di registrazione dei codici sup
 **Problema/Spiegazione:**  
 In occasione di un intervento di revisione alla colonna vertebrale, i segmenti nei quali vengono solamente rimosse le aste (per sostituirle p.es. con aste più lunghe in presenza di patologia del segmento adiacente) senza intraprendere misure operatorie ai corpi vertebrali, come p. es. la posa di nuove viti peduncolari o di una cage, la decorticazione di faccetta articolare, l’impianto osseo locale o l’inserzione di materiale di sostituzione di ossa, non confluiscono nel conteggio dei segmenti operati.
 <br><br>
-<b>Conteggio dei segmenti in caso di ponte di connessione:</b>
+<b>Conteggio dei segmenti in caso di ponte di connessione:</b><br>
 In caso p. es. di precedente spondilodesi L2-L4 e nuova fusione attuale dei segmenti L1/L2 e L4/L5, quest’ultima va rappresentata con il pertinente codice CHOP per 2 segmenti se, come sopra precisato, oltre alla posa di aste non vengono intraprese altre misure operatorie ai corpi vertebrali L2-L4.
 
 {{</markdown>}}
@@ -1258,7 +1258,7 @@ Per il conteggio dei segmenti trattati vengono considerati solo i segmenti a cui
   </tr>
   <tr>
     <th style="border: 1px solid black;">Creato:</th>
-    <td style="border: 1px solid black;">01.01.2026 – Base Circolare 2025/2: 0766/td>
+    <td style="border: 1px solid black;">01.01.2026 – Base Circolare 2025/2: 0766</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aggiornato</th>
@@ -1383,9 +1383,9 @@ Il codice <b>7A.71.-</b> Fusione di vertebre con stabilizzazione della colonna v
 **Problema/Spiegazione:**  
 Una fusione ossea (artrodesi / spondilodesi) della colonna vertebrale, in cui viene inserito esclusivamente materiale osseo autogeno (spongiosa e/o frammenti cortico-spongiosi) e **non viene utilizzato alcun impianto** (ad es. viti, placche, barre) viene registrata con il codice CHOP **7A.51.14** Innesto osseo della colonna vertebrale, autogeno, spongiosa e innesto corticospongioso. 
   
-In caso di laminotomia, laminectomia o laminoplastica eseguita, ciò deve essere registrato anche con il codice corrispondente della sottocategoria 03.03.- **Laminotomia, laminectomia e laminoplastica**. L'altezza dell'intervento alla colonna vertebrale viene codificata con il codice corrispondente della sottocategoria 7A.B1.- **Localizzazione dell’intervento alla colonna vertebrale**, mentre l'accesso alla colonna vertebrale viene rappresentato con il codice 03.04.-. 
+In caso di laminotomia, laminectomia o laminoplastica eseguita, ciò deve essere registrato anche con il codice corrispondente della sottocategoria 03.03.- <i>Laminotomia, laminectomia e laminoplastica</i>. L'altezza dell'intervento alla colonna vertebrale viene codificata con il codice corrispondente della sottocategoria 7A.B1.- <i>Localizzazione dell’intervento alla colonna vertebrale</i>, mentre l'accesso alla colonna vertebrale viene rappresentato con il codice 03.04.-. 
   
-Non è consentito registrare **alcun** codice della sottocategoria 7A.71.- **Fusione di vertebre con stabilizzazione della colonna vertebrale**.
+Non è consentito registrare **alcun** codice della sottocategoria 7A.71.- <i>Fusione di vertebre con stabilizzazione della colonna vertebrale</i>.
   
 {{</markdown>}}
 <br>

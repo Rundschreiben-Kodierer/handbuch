@@ -60,7 +60,7 @@ Totalatelektase: Bei dieser Form ist der gesamte rechte und/oder linke Lungenfl�
 Eine Totalatelektase beider Lungenflügel ist über die Lokalitätsbezeichnung "beidseits" anzugeben.
   
 **Kodierempfehlung:**  
-Der alphabet. Index verweist bei Atelektase einzelner Lappen z.B. Mittellappen oder Unterlappen auf den Kode für die Teilatelektase. Bei der Suche nach Lungenflügel, Atelektase wird auf den Kode für die Totalatelektase verwiesen.
+Der alphabet. Index der ICD-10-GM 2024 verweist bei Atelektase einzelner Lappen z.B. Mittellappen oder Unterlappen auf den Kode für die Teilatelektase. Bei der Suche nach Lungenflügel, Atelektase wird auf den Kode für die Totalatelektase verwiesen.
   
 Die fehlende Belüftung von Teilabschnitten der Lunge (Lungensegmenten, Lungenlappen) wird daher mit J98.11 <i>Partielle Atelektase</i>, die fehlende Belüftung eines gesamten Lungenflügels mit J98.12 <i>Totalatelektase</i>, kodiert.
 {{</markdown>}}
@@ -174,11 +174,11 @@ Wie wird eine Hydatidenzyste, zystische Echinokokkose abgebildet?
 Im alphabetischen ICD-10-GM 2024 wird bei Echinokkose, Leber, zystisch, auf B67.0† <i>Echinococcus-granulosus-Infektion [zystische Echinokokkose] der Leber</i>, mit 
 K77.0* *Leberkrankheiten bei anderenorts klassifizierten infektiösen und parasitären Krankheiten* verwiesen.
   
-Bei Echinococcus, Zyste, durch Hydatiden, Leber, verweist der alphabet. Index auf B67.0 *Echinococcus-granulosus-Infektion [zystische Echinokokkose] der Leber*
-In der ICD wird unterschieden zwischen Hydatidenzyste in der Leber mit oder ohne Infektion des umliegenden Lebergewebes
+Bei Echinococcus, Zyste, durch Hydatiden, Leber, verweist der alphabet. Index auf B67.0 *Echinococcus-granulosus-Infektion [zystische Echinokokkose] der Leber*.
+In der ICD wird unterschieden zwischen Hydatidenzyste in der Leber mit oder ohne Infektion des umliegenden Lebergewebes.
     
 **Kodierempfehlung:**  
-Ist die Hydatidenzyste blande gekapselt, kann ausgeschält werden und liegt keine Entzündung des umliegenden Lebergewebes vor, soll _B67.0 *Echinococcus-granulosus-Infektion [zystische Echinokokkose] der Leber* kodiert werden. Es wird kein Sterncode erfasst.
+Ist die Hydatidenzyste blande gekapselt, kann ausgeschält werden und liegt keine Entzündung des umliegenden Lebergewebes vor, soll B67.0 *Echinococcus-granulosus-Infektion [zystische Echinokokkose] der Leber* kodiert werden. Es wird kein Sterncode erfasst.
   
 Finden sich auch im umliegenden Gewebe Echinokokkusbestandteile und dadurch hervorgerufen eine Entzündungsreaktion, soll K77.0* <i>Leberkrankheiten bei anderenorts klassifizierten infektiösen und parasitären Krankheiten</i> zusätzlich kodiert werden.
 {{</markdown>}}
@@ -225,11 +225,11 @@ Grundsätzlich gilt: Es ist stets der spezifischste ICD-Kode zu wählen, der die
 <body>
     <ul>
         <li><b>Beidseitiger Verschluss einer einzelnen präzerebralen Arterie</b> (z. B. Arteria carotis) wird mit dem spezifischen Kode <b>I65.-</b> unter Angabe der Lateralität verschlüsselt.<br>
-<b>Beispiel</b>: Beidseitiger Verschluss/Stenose der Arteria carotis → <b>I65.2</b>: <i>Verschluss und Stenose der A. carotis L bds</i>. 
+<b>Beispiel</b>: Beidseitiger Verschluss/Stenose der Arteria carotis → <b>I65.2</b><i>Verschluss und Stenose der A. carotis L bds</i>. 
 
 </li>
-        <li><b>Der Verschluss/ die Stenose mehrerer unterschiedlicher präzerebraler Arterien</b> wird mit dem Kode <b>I65.3</b> verschlüsselt:<br>
-<b>Beispiel:</b> Einseitige oder beidseitige Stenose der Arteria vertebralis sowie zusätzlich eine einseitige oder beidseitige Stenose der Arteria carotis interna.→ <b>I65.3</b> <i>Verschluss und Stenose mehrerer und beidseitiger präzerebraler Arterie L = R, L oder B.</i></li>
+        <li><b>Der Verschluss / die Stenose mehrerer unterschiedlicher präzerebraler Arterien</b> wird mit dem Kode <b>I65.3</b> verschlüsselt:<br>
+<b>Beispiel:</b> Einseitige oder beidseitige Stenose der Arteria vertebralis sowie zusätzlich eine einseitige oder beidseitige Stenose der Arteria carotis interna → <b>I65.3</b> <i>Verschluss und Stenose mehrerer und beidseitiger präzerebraler Arterie L = R, L oder B.</i></li>
     </ul>
 </body>
 <br>
@@ -269,7 +269,7 @@ Grundsätzlich gilt: Es ist stets der spezifischste ICD-Kode zu wählen, der die
 
 {{<markdown>}}
 **Fragestellung:**  
-Wie wird Ulcus (cruris) hypertonicum (Martorell abgebildet)?
+Wie wird das Ulcus (cruris) hypertonicum (Martorell abgebildet)?
   
 **Problem/Erläuterung:**  
 Beim Ulcus (cruris) hypertonicum handelt es sich um eine spezielle Form des Ulcus cruris, die vorwiegend am laterodorsalen Unterschenkel oder über der Achillessehne auftritt. Die meisten Betroffenen weisen einen markanten, langzeitig bestehenden Hypertonus auf, in ca. 60% der Fälle kombiniert mit einem Diabetes mellitus Typ 2. Zur Ätiologie des Ulcus hypertonicum gibt es drei Erklärungsansätze: Die ischämisierende Arteriosklerose, die Mediakalzinose der pathologischen Arteriolen und die lokalen Entzündungsvorgänge. Die Arteriosklerose in der Subkutis steht für die Pathogenese der Hautnekrose dabei im Vordergrund. Auch wenn die Erkrankung pathogenetisch auf eine Arteriosklerose zurückzuführen ist, ist die eigentliche Grundursache die Hypertonie.
@@ -327,7 +327,7 @@ Es ist von Bedeutung, ob die Effloreszenzen bereits seit längerem abgeklungen s
    
 **Kodierempfehlung:**  
 Wenn es sich um eine akute Manifestation eines Herpes zoster und nicht um eine postherpetische Neuralgie handelt ist der Kode B02.2† <i>Zoster mit Beteiligung anderer Abschnitte des Nervensystems</i> nicht korrekt. Die Schmerzen sind beim akuten Zoster ein regelhaftes Symptom und es muss B02.9 <i>Zoster ohne Komplikation</i> kodiert werden.  
-Bei einem Herpes zoster mit Manifestation im Innervationsgebiet des 1. Trigeminusastes handelt es sich per definitionem um einen Zoster ophthalmicus. Dieser wird gemäss ICD-10-GM 2024 mit B02.3 <i>Zoster ophthalmicus</i>, verschlüsselt. 
+Bei einem Herpes zoster mit Manifestation im Innervationsgebiet des 1. Trigeminusastes handelt es sich per definitionem um einen Zoster ophthalmicus. Dieser wird gemäss ICD-10-GM 2024 mit B02.3 <i>Zoster ophthalmicus</i> verschlüsselt. 
 {{</markdown>}}
 <br>  
 <br>
@@ -488,7 +488,7 @@ Die zusätzliche Kodierung mit M49.5* <i>Wirbelkörperkompression bei anderenort
   
 **Kodierempfehlung:**  
 Eine osteoporotische Sinterungsfraktur der Wirbelsäule wird mit M80.x8 <i>Osteoporose mit pathologischer Fraktur: Sonstige Lokalisationen [Hals, Kopf, Rippen, Rumpf, Schädel, Wirbelsäule]</i> kodiert.  
-Zusätzlich soll ein Kode der ICD Kodegruppe M49.5-* <i>Wirbelkörperkompression bei anderenorts klassifizierten Krankheiten</i> für eine eindeutige Angabe der Lokalisation erfasst werden. 
+Zusätzlich soll ein Kode der ICD-10-GM 2024 Kodegruppe M49.5-* <i>Wirbelkörperkompression bei anderenorts klassifizierten Krankheiten</i> für eine eindeutige Angabe der Lokalisation erfasst werden. 
 {{</markdown>}}
 <br>  
 <br>
@@ -529,13 +529,13 @@ Zusätzlich soll ein Kode der ICD Kodegruppe M49.5-* <i>Wirbelkörperkompression
 
 {{<markdown>}}
 **Frage:**  
-Wie wird eine bakterielle Pneumonie im Rahmen einer Superinfektion bei viraler Pneumonie (z.B. Covid- Pneumonie) ohne Erregernachweis abgebildet?
+Wie wird eine bakterielle Pneumonie im Rahmen einer Superinfektion bei viraler Pneumonie (z.B. Bakterielle COVID-Pneumonie) ohne Erregernachweis abgebildet?
   
 **Erläuterung:**  
 Die Resteklasse «Nicht näher bezeichnet» ist dann zu verwenden, wenn eine Krankheit nur mit ihrem Oberbegriff wie z.B. Katarakt, beschrieben ist und/oder eine weitere Differenzierung nach den Klassifikationskriterien der ICD-10-GM 2024 an entsprechender Stelle nicht möglich ist.»  
-In der ICD- GM 2024 systematischer Index steht: <i>„Sonstige …“ </i> oder <i>„Sonstige näher bezeichnete …“</i> sollen nur dann verwendet werden, wenn eine spezifische Diagnose dokumentiert ist, aber keiner der spezifischen Kodes der übergeordneten</i> Kategorie passt.  
+In der ICD-10-GM 2024 systematischer Index steht: <i>„Sonstige …“ </i> oder <i>„Sonstige näher bezeichnete …“</i> sollen nur dann verwendet werden, wenn eine spezifische Diagnose dokumentiert ist, aber keiner der spezifischen Kodes der übergeordneten</i> Kategorie passt.  
   
-Die Klassifikation der Kodegruppe J15.- in der systematischen ICD-10 GM erfolgt anhand des jeweiligen Erregers.   
+Die Klassifikation der Kodegruppe J15.- in der systematischen ICD-10-GM 2024 erfolgt anhand des jeweiligen Erregers.   
 J15.8 setzt einen Erregernachweis voraus und dient der Verschlüsselung eines Erregers, der nicht mit den Kodes J15.0 – J15.7 spezifisch abgebildet werden kann.
     
 **Kodierempfehlung:**  
@@ -635,7 +635,7 @@ Die Tachyarrhythmie / Tachykardie ist bei Vorhofflimmern nicht zusätzlich zu ko
 
 {{<markdown>}}
 **Problem/Erläuterung:**  
-Die ICD-10-GM-2024-Kodes der 4-stelligen Subkategorie N13.6- «Pyonephrose» werden nur bei einer dokumentierten Infektion der Niere verschlüsselt.  
+Die ICD-10-GM 2024 Kodes der 4-stelligen Subkategorie N13.6- «Pyonephrose» werden nur bei einer dokumentierten Infektion der Niere verschlüsselt.  
 Dies betrifft auch den endständigen Kode N13.68 <i>Sonstige und nicht näher bezeichnete Pyonephrose</i>. Eine Hydronephrose durch Ureterstein mit Harnwegsinfektion nicht näher bezeichneter Lokalisation wird mit N13.21 <i>Hydronephrose bei Obstruktion durch Ureterstein</i> und N39.0 <i>Harnwegsinfektion, Lokalisation nicht näher bezeichnet</i> verschlüsselt.
 {{</markdown>}}
 <br>  

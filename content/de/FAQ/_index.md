@@ -25,11 +25,11 @@ ________________________________________
 Jede FAQ/Klarstellung enthält:
 <body>
     <ul>
-        <li>mindestens ein <br>Schlagwort</br>, auf das sie sich bezieht,</li>
-        <li>das <br>Erstellungsdatum</br></li>
-        <li>den <br>Themenbereich</br> (ICD-10-GM oder CHOP) mit den jeweils relevanten Kodes,</li>
-        <li>sofern zutreffend, einen **Verweis auf die jeweilige Kodierregel</br>,</li>
-        <li>ein Feld <br>«Aktualisiert»</br>, in dem das Datum der letzten inhaltlichen Anpassung ausgewiesen wird.</li>
+        <li>mindestens ein <b>Schlagwort</b>, auf das sie sich bezieht,</li>
+        <li>das <b>Erstellungsdatum</b></li>
+        <li>den <b>Themenbereich</b> (ICD-10-GM oder CHOP) mit den jeweils relevanten Kodes,</li>
+        <li>sofern zutreffend, einen <b>Verweis auf die jeweilige Kodierregel</b>,</li>
+        <li>ein Feld <b>«Aktualisiert»</b>, in dem das Datum der letzten inhaltlichen Anpassung ausgewiesen wird.</li>
     </ul>
 </body>
 Mit der Einführung der Onlineschaltung des Kapitels «FAQ/Klarstellungen» wurde bei **allen FAQ/Klarstellungen das Erstellungsdatum auf den 01.01.2026 angepasst**.  
@@ -58,7 +58,7 @@ ________________________________________
 Die FAQ/Klarstellungen sind chronologisch aufsteigend nummeriert. Sowohl für die ICD-FAQ, wie auch die CHOP-FAQ wird jeweils die folgende Nummerierung verwendet :
 <body>
     <ul>
-        <li><br>0001 – 9999</br></li>
+        <li><b>0001 – 9999</b></li>
     </ul>
 </body>
 Die bisherige Nummerierung des Kapitels 5 «Anhang» wird nicht fortgeführt. Bereits bestehende Präzisierungen im Anhang des Rundschreibens erhalten eine neue Nummer (s. Erläuterung zur Struktur der FAQ/Klarstellungen oben).

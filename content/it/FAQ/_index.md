@@ -27,11 +27,11 @@ Ogni FAQ/Chiarimento contiene:
 
 <body>
     <ul>
-        <li>almeno una <br>parola chiave</br> cui si riferisce,</li>
-        <li><br>la data di creazione</br>,</li>
-        <li><br>l'area tematica</br> (ICD-10-GM o CHOP) con i codici pertinenti,</li>
-        <li>se applicabile, un <br>riferimento alla rispettiva regola di codifica</br>,</li>
-        <li>un campo <br>«Aggiornato»</br> in cui è indicata la data dell'ultima modifica del contenuto.</li>
+        <li>almeno una <b>parola chiave</b> cui si riferisce,</li>
+        <li><b>la data di creazione</b>,</li>
+        <li><b>l'area tematica</b> (ICD-10-GM o CHOP) con i codici pertinenti,</li>
+        <li>se applicabile, un <b>riferimento alla rispettiva regola di codifica</b>,</li>
+        <li>un campo <b>«Aggiornato»</b> in cui è indicata la data dell'ultima modifica del contenuto.</li>
     </ul>
 </body>
 Con l'introduzione della versione online del capitolo «FAQ/Chiarimenti», **la data di creazione di tutte le FAQ/Chiarimenti** è stata **modificata al 01.01.2026**.  

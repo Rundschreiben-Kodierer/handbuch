@@ -28,11 +28,11 @@ Chaque FAQ/Clarification contient:
 
 <body>
     <ul>
-        <li>au moins un <br>mot-clé</br> auquel elle se réfère,</li>
-        <li>la <br>date de création</br>,</li>
-        <li>le <br>domaine thématique</br> (CIM-10-GM ou CHOP) avec les codes correspondants,</li>
-        <li>le cas échéant, une <br>référence à la règle de codage correspondante</br>,</li>
-        <li>un champ <br>«Actualisation»</br> indiquant la date de la dernière modification du contenu.</li>
+        <li>au moins un <b>mot-clé</b> auquel elle se réfère,</li>
+        <li>la <b>date de création</b>,</li>
+        <li>le <b>domaine thématique</b> (CIM-10-GM ou CHOP) avec les codes correspondants,</li>
+        <li>le cas échéant, une <b>référence à la règle de codage correspondante</b>,</li>
+        <li>un champ <b>«Actualisation»</b> indiquant la date de la dernière modification du contenu.</li>
     </ul>
 </body>
 s

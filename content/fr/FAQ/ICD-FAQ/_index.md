@@ -23,7 +23,7 @@ keywords: []
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Mot-clé:</th>
-    <td style="border: 1px solid black;">Teilatelektase/Totalatelektase</td>
+    <td style="border: 1px solid black;">Atélectasie pulmonaire</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé le:</th>
@@ -60,7 +60,7 @@ Atélectasie partielle: seule une partie du poumon est touchée. Cela peut conce
 Atélectasie totale: dans cette forme, l'ensemble du poumon droit et/ou gauche est touché. 
   
 **Recommandation de codage :**  
-L'index alphabétique renvoie au code de l'atélectasie partielle en cas d'atélectasie d'un lobe individuel, par exemple le lobe moyen ou le lobe inférieur. La recherche «poumon, atélectasie» renvoie au code de l'atélectasie totale.
+L'index alphabétique de la CIM-10-GM 2024 renvoie au code de l'atélectasie partielle en cas d'atélectasie d'un lobe individuel, par exemple le lobe moyen ou le lobe inférieur. La recherche «poumon, atélectasie» renvoie au code de l'atélectasie totale.
   
 L'absence de ventilation de certaines parties du poumon (segments pulmonaires, lobes pulmonaires) est donc codée par J98.11 *Atélectasie partielle*, et l'absence de ventilation d'un poumon entier par J98.12 *Atélectasie totale*.
 {{</markdown>}}
@@ -188,7 +188,7 @@ Si des composants d'Echinococcus sont également présents dans les tissus envir
 
 {{</article>}}
 
-{{<article number="0004"  title="CIM - Sténoses des artères précérébrales // Sténose carotidienne bilatérale/sténoses des artères précérébrales unilatérales ou bilatérales" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0004"  title="CIM - Sténoses des artères précérébrales / Sténose carotidienne bilatérale/sténoses des artères précérébrales unilatérales ou bilatérales" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -224,11 +224,11 @@ Comment enregistrer une sténose carotidienne bilatérale ? Comment enregistrer 
 En principe, il convient de toujours choisir le code CIM le plus spécifique qui décrit le plus précisément le diagnostic documenté.  
 <body>
     <ul>
-        <li><b>L'occlusion bilatérale d'une seule artère précérébrale</b> (par exemple, l'artère carotide) est codée avec le code spécifique <b>I65.-</b> en indiquant la latéralité. 
-</b>Exemple</b> : <i>occlusion/sténose bilatérale de l'artère carotide → I65.2 Occlusion et sténose de l’artère carotide gauche et droite.</i> 
+        <li><b>L'occlusion bilatérale d'une seule artère précérébrale</b> (par exemple, l'artère carotide) est codée avec le code spécifique <b>I65.-</b> en indiquant la latéralité. <br>
+<b>Exemple</b> : occlusion / sténose bilatérale de l'artère carotide → I65.2 <i>Occlusion et sténose de l’artère carotide gauche et droite.</i> 
 </li>
-        <li><b>L'occlusion/sténose de plusieurs artères précérébrales différentes </b>est codée avec le code <b>I65.3</b>: 
-<b>Exemple</b>: <i>sténose unilatérale ou bilatérale de l'artère vertébrale ainsi qu'une sténose unilatérale ou bilatérale supplémentaire de l'artère carotide interne.→ I65.3 Occlusion et sténose des artères précérébrales, multiples et bilatérales L = R, L ou B.</i> 
+        <li><b>L'occlusion / sténose de plusieurs artères précérébrales différentes </b>est codée avec le code <b>I65.3</b>: <br>
+<b>Exemple</b>: sténose unilatérale ou bilatérale de l'artère vertébrale ainsi qu'une sténose unilatérale ou bilatérale supplémentaire de l'artère carotide interne → I65.3 <i>Occlusion et sténose des artères précérébrales, multiples et bilatérales L = R, L ou B.</i> 
 </li>
     </ul>
 </body>
@@ -473,7 +473,7 @@ Le codage supplémentaire avec M49.5* <i>Tassement vertébral au cours de maladi
     
 **Recommandation de codage:**  
 Une fracture de tassement vertébral d’origine ostéoporotique est codée avec M80.x8 <i>Ostéoporose avec fracture pathologique: autres localisations [cou, tête, côtes, tronc, crâne, colonne vertébrale]</i>.  
-En complément, un code du groupe M49.5-* <i>Tassement vertébral au cours de maladies classées ailleurs</i> doit être ajouté afin d’indiquer clairement la localisation.
+En complément, un code du groupe CIM-10-GM 2024 M49.5-* <i>Tassement vertébral au cours de maladies classées ailleurs</i> doit être ajouté afin d’indiquer clairement la localisation.
 {{</markdown>}}
 <br>  
 <br>
@@ -486,7 +486,7 @@ En complément, un code du groupe M49.5-* <i>Tassement vertébral au cours de ma
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Mot-clé:</th>
-    <td style="border: 1px solid black;">surinfection bactérienne / pneumonie virale</td>
+    <td style="border: 1px solid black;">Surinfection bactérienne / pneumonie virale</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé le:</th>
@@ -516,7 +516,7 @@ Comment coder une pneumonie bactérienne dans le cadre d’une surinfection lors
   
 **Explication:**  
 La classe résiduelle «sans précision» doit être utilisée lorsqu'une maladie est uniquement décrite par son terme générique, par exemple cataracte, et/ou qu'une différenciation supplémentaire selon les critères de classification de la CIM-10-GM 2024 n'est pas possible à l'endroit correspondant. 
-L'index systématique de la CIM-GM 2024 stipule : <i>«Autres...»</i> ou <i>«Autres précisés...» ne doivent être utilisés que lorsqu'un diagnostic spécifique est documenté</i>, mais qu'aucun des codes spécifiques de la catégorie supérieure ne convient.  
+L'index systématique de la CIM-10-GM 2024 stipule : <i>«Autres...»</i> ou <i>«Autres précisés...» ne doivent être utilisés que lorsqu'un diagnostic spécifique est documenté</i>, mais qu'aucun des codes spécifiques de la catégorie supérieure ne convient.  
   
 La classification du groupe de codes J15.- dans la CIM-10-GM 2024 systématique est basée sur l'agent pathogène concerné. 
 J15.8 nécessite la détection d'un agent pathogène et sert à coder un agent pathogène qui ne peut être représenté spécifiquement par les codes J15.0 à J15.7.  

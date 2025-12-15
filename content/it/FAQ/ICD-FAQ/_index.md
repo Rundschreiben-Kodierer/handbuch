@@ -59,7 +59,7 @@ Atelettasia parziale: in questo caso è interessata solo una parte del polmone. 
 Atelettasia totale: in questa forma è interessato l'intero polmone destro e/o sinistro. 
   
 **Raccomandazione di codifica:**  
-L'indice alfabetico rimanda al codice per l'atelettasia parziale in caso di atelettasia di singoli lobi, ad esempio il lobo medio o il lobo inferiore. La ricerca di polmone, atelettasia rimanda al codice per l'atelettasia totale.
+L'indice alfabetico dell'ICD-10-GM 2024 rimanda al codice per l'atelettasia parziale in caso di atelettasia di singoli lobi, ad esempio il lobo medio o il lobo inferiore. La ricerca di polmone, atelettasia rimanda al codice per l'atelettasia totale.
   
 La mancanza di ventilazione di parti del polmone (segmenti polmonari, lobi polmonari) viene quindi codificata con J98.11 *Atelettasia parziale*, mentre la mancanza di ventilazione di un intero lobo polmone viene codificata con J98.12 *Atelettasia totale*.
 {{</markdown>}}
@@ -169,7 +169,7 @@ Un endoleak di **tipo V** è anche denominato endotensione. In questo caso si os
 **Domanda:**  
 Come viene rappresentata una cisti idatidea, echinococcosi cistica?
   
-**Problem/Erläuterung:**  
+**Problema/Spiegazione:**  
 Nell'ICD-10-GM 2024 alfabetico, per l'echinococcosi cistica del fegato, alla voce B67.0† *Infezione del fegato da echinococco granuloso [echinococcosi cistica]*, si rimanda a 
 K77.0* *Disturbi epatici in malattie infettive e parassitarie classificate altrove*.
   
@@ -223,10 +223,10 @@ In linea di principio vale quanto segue: occorre sempre scegliere il codice ICD 
 <body>
     <ul>
         <li><b>L'occlusione bilaterale di una singola arteria precerebrale</b> (ad es. arteria carotide) viene codificata con il codice specifico <b>I65.-</b> indicando la lateralità.<br>
-<b>Esempio</b> : occlusione/stenosi bilaterale dell'arteria carotide → <b>I65.2:</b> <i>Occlusione e stenosi dell’arteria carotidea.</i> 
+<b>Esempio</b> : occlusione / stenosi bilaterale dell'arteria carotide → <b>I65.2</b> <i>Occlusione e stenosi dell’arteria carotidea.</i> 
 </li>
-        <li><b>L'occlusione/stenosi di più arterie precerebrali diverse</b> viene codificata con il codice <b>I65.3</b>:<br>
-<b>Esempio:</b>stenosi unilaterale o bilaterale dell'arteria vertebrale nonche stenosi unilaterale o bilaterale dell'arteria carotide interna.→ <b>I65.3</b><i> Occlusione e stenosi di arterie extracraniche multiple e bilaterali L = R, L o B.</i>
+        <li><b>L'occlusione / stenosi di più arterie precerebrali diverse</b> viene codificata con il codice <b>I65.3</b>:<br>
+<b>Esempio:</b>stenosi unilaterale o bilaterale dell'arteria vertebrale nonche stenosi unilaterale o bilaterale dell'arteria carotide interna → <b>I65.3</b><i> Occlusione e stenosi di arterie extracraniche multiple e bilaterali L = R, L o B.</i>
 </li>
     </ul>
 </body>
@@ -479,7 +479,7 @@ La codifica aggiuntiva con M49.5* <i>Collasso vertebrale in malattie classificat
   
 **Raccomandazione di codifica:**  
 Una frattura da sinterizzazione osteoporotica della colonna vertebrale viene codificata con M80.x8 <i>Osteoporosi con frattura patologica: altre localizzazioni [collo, testa, costole, torace, cranio, colonna vertebrale]</i>.  
-Inoltre, per indicare chiaramente la localizzazione, deve essere inserito un codice del gruppo ICD M49.5-* <i>Collasso vertebrale in malattie classificate altrove</i>.
+Inoltre, per indicare chiaramente la localizzazione, deve essere inserito un codice del gruppo ICD-10-GM 2024 M49.5-* <i>Collasso vertebrale in malattie classificate altrove</i>.
 {{</markdown>}}
 <br>  
 <br>
@@ -527,7 +527,7 @@ Come viene rappresentata una polmonite batterica nel contesto di una superinfezi
 La categoria residua “non specificata” viene utilizzata quando una malattia è descritta solo tramite un termine generico, come ad esempio cataratta, e/o quando non è possibile una ulteriore differenziazione secondo i criteri di classificazione dell’ICD-10-GM 2024 nel punto corrispondente.  
 Nell'indice sistematico ICD-10-GM 2024 si legge: <i>«Altri ...»</i> o <i>«Altri specificati ...»</i> devono essere <i>utilizzati solo se è documentata una diagnosi specifica, ma nessuno dei codici specifici della categoria superiore è appropriato</i>.  
   
-La classificazione del gruppo di codici J15.- nell'ICD-10 GM sistematico viene effettuata in base al rispettivo agente patogeno.  
+La classificazione del gruppo di codici J15.- nell'ICD-10-GM 2024 sistematico viene effettuata in base al rispettivo agente patogeno.  
 J15.8 presuppone l'identificazione dell'agente patogeno e serve a codificare un agente patogeno che non può essere rappresentato in modo specifico con i codici J15.0 - J15.7.
   
 **Raccomandazione di codifica:**  
@@ -535,7 +535,7 @@ L'indice alfabetico rimanda al codice J15.9 <i>Polmonite batterica non specifica
 J15.8 <i>Altra polmonite batterica</i> si applica solo se è disponibile un esame batteriologico il cui risultato indica un agente patogeno diverso da quelli specificati in J15-.  
 In assenza di prove batteriologiche, deve essere registrato J15.9 <i>Polmonite batterica non specificata</i>.
   
-Il fatto che si tratti di un'infezione di origine batterica non giustifica automaticamente la codifica di J15.8 <i>Altra polmonite batterica.
+Il fatto che si tratti di un'infezione di origine batterica non giustifica automaticamente la codifica di J15.8 <i>Altra polmonite batterica
 </i>.
 {{</markdown>}}
 <br>  
@@ -631,7 +631,7 @@ La tachiaritmia / tachicardia non deve essere codificata in aggiunta alla fibril
 {{<markdown>}}
 **Problema/Spiegazione:**  
 I codici della sottocategoria a 4 caratteri ICD-10-GM 2024 N13.6- Pionefrosi vanno indicati solo in presenza di un’infezione documentata del rene.  
-Ciò riguarda anche il codice terminale N13.68 <i>Altra e non specificata pionefrosi</i>. Un’idronefrosi da calcolosi ureterale con infezione delle vie urinarie di sede non specificata va codificata con N13.21 <i>Idronefrosi con ostruzione da calcolo ureterale</i> e N39.0 <i>Infezione delle vie urinarie, sede non specificata.</i>.
+Ciò riguarda anche il codice terminale N13.68 <i>Altra e non specificata pionefrosi</i>. Un’idronefrosi da calcolosi ureterale con infezione delle vie urinarie di sede non specificata va codificata con N13.21 <i>Idronefrosi con ostruzione da calcolo ureterale</i> e N39.0 <i>Infezione delle vie urinarie, sede non specificata</i>.
 {{</markdown>}}
 <br>  
 <br>
