@@ -11,7 +11,7 @@ keywords: []
 
 {{<markdown>}}
 **Information zur Umstellung der Publikation des Rundschreibens für Kodiererinnen und Kodierer**<br>
-Der Bereich Medizinische Klassifikationen des Bundesamt für Statistik (BFS) hebt per **01. Januar 2026** die Publikation des Rundschreibens in seiner bisherigen Form auf. Ab diesem Zeitpunkt werden sämtliche **Aktualisierungen** zur publizierten Version des Medizinischen Kodierungshandbuchs (KHB), der Schweizerischen Operationsklassifikation (CHOP) sowie der ICD-10-GM ausschliesslich auf der Internetseite <a href="https://rundschreiben-kodierer.github.io/handbuch/de/"
+Der Bereich Medizinische Klassifikationen des Bundesamtes für Statistik (BFS) hebt per **01. Januar 2026** die Publikation des Rundschreibens in seiner bisherigen Form auf. Ab diesem Zeitpunkt werden sämtliche **Aktualisierungen** zur publizierten Version des <i>Medizinischen Kodierungshandbuchs (KHB)</i>, der <i>Schweizerischen Operationsklassifikation (CHOP)</i> sowie der <i>ICD-10-GM</i> ausschliesslich auf der Internetseite <a href="https://rundschreiben-kodierer.github.io/handbuch/de/"
    target="_blank"
    rel="noopener noreferrer">Aktualisierungen der Publikationen der Medizinischen Klassifikationen</a> zur Verfügung gestellt.
   
@@ -65,7 +65,10 @@ Die Onlineversion bietet zusätzliche Funktionen:
 
 **Archiv**<br>
 Sämtliche Rundschreiben der Jahre 2009 bis einschliesslich 2025 stehen weiterhin unverändert im PDF-Format auf der Webseite des Bundesamtes für Statistik, Fachbereich Medizinische Klassifikationen, zur Verfügung.  
-  
+<a href="https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/nomenklaturen/medkk/instrumente-medizinische-kodierung.html"
+   target="_blank"
+   rel="noopener noreferrer">Instrumente zur medizinischen Kodierung | Bundesamt für Statistik - BFS</a>
+
 Durch diese digitale Weiterentwicklung werden die **Aktualisierungen** zu den Publikationen nicht nur zeitgemäss und benutzerfreundlich gestaltet, sondern bieten auch zusätzliche Funktionen, die den Arbeitsalltag der Kodiererinnen und Kodierer erleichtern und die Übersichtlichkeit der Inhalte erhöhen.
 
 
