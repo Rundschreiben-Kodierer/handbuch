@@ -52,11 +52,11 @@ Basi legali:
 Per quanto riguarda le classificazioni, e il Manuale e Aggiornamenti delle pubblicazioni delle classificazioni mediche dell'UST, in caso di discordanza tra versioni linguistiche fanno fede le versioni originali in lingua tedesca.
   
 **Aggiornamenti delle pubblicazioni delle classificazioni mediche dell'UST e FAQ/Chiarimenti**   
-Gli «Aggiornamenti delle pubblicazioni delle classificazioni mediche dell'UST» contengono informazioni di base e aggiuntive (comprese le correzioni) relative alle pubblicazioni delle classificazioni mediche dell'UST <a href="Strumenti per la codifica medica | Ufficio federale di statistica - UST"
+Gli «Aggiornamenti delle pubblicazioni delle classificazioni mediche dell'UST» contengono informazioni di base e aggiuntive (comprese le correzioni) relative alle pubblicazioni delle classificazioni mediche dell'UST <a href="Strumenti per la codifica medica | Ufficio federale di statistica - UST:"
    target="_blank"
    rel="noopener noreferrer">
     Strumenti per la codifica medica | Ufficio federale di statistica - UST
-</a>:
+</a>
 <body>
     <ul>
         <li>Manuale di codifica medica</li>
