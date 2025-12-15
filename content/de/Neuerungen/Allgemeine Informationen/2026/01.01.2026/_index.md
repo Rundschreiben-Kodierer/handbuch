@@ -13,7 +13,7 @@ Die nachfolgenden **«Allgemeinen Informationen»** sind ab dem 01.01.2026 gült
   
 {{<markdown>}}
 
-Gültige Kodierungsinstrumente<br><br>
+**Gültige Kodierungsinstrumente**<br>
 Ab 1. Januar 2026 gelten folgende Kodierungsinstrumente:
 
 <body>
@@ -33,15 +33,16 @@ Die Dateien der ICD-10-GM in deutscher Sprache werden vom Bundesinstitut für Ar
    rel="noopener noreferrer">www.bfarm.de</a> zur Verfügung:  
 Kodiersysteme => Services => Downloads => ICD-10-GM
   
-Die SpiGes Statistik – die Erhebung der stationären Spitalaufenthalte -  ist eine jährliche, obligatorische Vollerhebung. Diese Datenerhebung folgt dem «Once-Only-Prinzip», der Mehrfachnutzung von Daten, und beinhaltet ab 2025 auch die Fallkostendaten sowie Teile der Krankenhausstatistik (KS). Ein einheitlicher Standarddatensatz soll als Grundlage für alle weiteren Datenbearbeitungen genutzt werden und die qualitativen Mindestanforderungen für eine Mehrfachverwendung der erhobenen Daten definieren. Die damit verbundene Datenerfassung erfolgt ab dem 1. Januar 2024 (s. Projekt SpiGes (Erhebung Spitalstationäre Gesundheitsversorgung)).
-
+Die SpiGes Statistik – die Erhebung der stationären Spitalaufenthalte -  ist eine jährliche, obligatorische Vollerhebung. Diese Datenerhebung folgt dem «Once-Only-Prinzip», der Mehrfachnutzung von Daten, und beinhaltet ab 2025 auch die Fallkostendaten sowie Teile der Krankenhausstatistik (KS). Ein einheitlicher Standarddatensatz soll als Grundlage für alle weiteren Datenbearbeitungen genutzt werden und die qualitativen Mindestanforderungen für eine Mehrfachverwendung der erhobenen Daten definieren. Die damit verbundene Datenerfassung erfolgt seit dem 1. Januar 2024 (s. Projekt SpiGes (Erhebung Spitalstationäre Gesundheitsversorgung)).
+  
+Die obengenannten Kodierungsinstrumente gelten für die Kodierung aller stationärer Aufenthalte in Spitäler und Kliniken der Schweiz, einschliesslich Rehabilitations-, Psychiatrie- und Spezialkliniken sowie Geburtshäuser. 
+  
 Die gesetzlichen Grundlagen sind:
 <body>
     <ul>
-        <li>Bundesstatistikgesetz vom 9. Oktober 1992 (BStatG) und</li>
+        <li>Bundesstatistikgesetz vom 9. Oktober 1992 (BStatG)</li>
         <li>Bundesgesetz über die Krankenversicherung vom 18. März 1994 (KVG)</li>
-        <li>Bundesstatistikverordnung vom 30. April 2025  
- </li>
+        <li>Bundesstatistikverordnung vom 30. April 2025 (BStatV)</li>
     </ul>
 </body>
 
@@ -62,8 +63,7 @@ Die «Aktualisierungen zu den Publikationen der Medizinischen Klassifikationen d
     </ul>
 </body>
 
-Das Kapitel «FAQ/Klarstellungen» ersetzt das bisherige Kapitel 5 des früheren Rundschreibens.  
-Die Inhalte des bisherigen Kapitels 5 «Anhang» wurden in das neue Kapitel «FAQ/Klarstellungen» migriert.
+Das Kapitel «FAQ/Klarstellungen» ersetzt das bisherige Kapitel 5 des früheren Rundschreibens. Die Inhalte des bisherigen Kapitels 5 «Anhang» wurden in das neue Kapitel «FAQ/Klarstellungen» migriert.  
 Die «FAQ/Klarstellungen» leiten sich aus (wiederholten) Anfragen an das Kodierungssekretariat zu einem spezifischen oder allgemeinen Sachverhalt ab und wurden innerhalb der Fachgremien diskutiert.  
   
 Bei den «Aktualisierungen zu den Publikationen», wie auch den «FAQ/Klarstellungen» handelt es sich um offizielle Informationen des BFS, die für die Kodierung zu berücksichtigen sind.  
@@ -71,12 +71,12 @@ Die Inhalte der «Aktualisierungen zu den Publikationen der medizinischen Klassi
   
 Die darin aufgeführten Neuerungen, Korrekturen sowie sonstigen Anpassungen treten jeweils mit dem angegebenen Gültigkeitszeitpunkt in Kraft. Eine rückwirkende Gültigkeit ist ausgeschlossen.
   
-**Analogiekodierungen und Hinweise zur Leistungserfassung und Abrechnung der SwissDRG AG**  
-Die Hinweise zur Leistungserfassung und Abrechnung der SwissDRG AG sind ebenfalls zu berücksichtigen.
-Pfad: https://www.swissdrg.org => Akutsomatik / Psychiatrie / Rehabilitation => Abschnitt SwissDRG => Hinweis zur Leistungserfassung und Abrechnung
+**Analogiekodierungen sowie Hinweise zur Leistungserfassung und Abrechnung der SwissDRG AG**  
+Die Hinweise zur Leistungserfassung und Abrechnung der SwissDRG AG sind ebenfalls zu berücksichtigen.  
+Pfad: https://www.swissdrg.org => Akutsomatik / Psychiatrie / Rehabilitation => Abschnitt SwissDRG => Hinweis zur Leistungserfassung und Abrechnung 
 https://www.swissdrg.org/de/akutsomatik/swissdrg/hinweis-zur-leistungserfassung
   
-Die Hinweise auf Analogiekodierungen der SwissDRG AG sind ebenfalls zu berücksichtigen.
+Die Hinweise auf Analogiekodierungen der SwissDRG AG sind ebenfalls zu berücksichtigen.  
 Pfad: www.swissdrg.org => Akutsomatik => Abschnitt SwissDRG System 15.0/2026 => Analogiekodierung
 https://www.swissdrg.org/de/akutsomatik/swissdrg-system-1502026/analogiekodierung
    
@@ -87,7 +87,7 @@ Für Anfragen zu Kodierungsrichtlinien und Klassifikationen gibt das BFS-Präzis
   
 **Anfragen zur Einzelfallbeurteilung**  
 **Vorgehen**  
-Zu spezifischen Einzelfällen gibt das BFS Empfehlungen ohne Präjudiz für weitere ähnliche Fälle.
+Zu spezifischen Einzelfällen gibt das BFS Empfehlungen ohne Präjudiz für weitere ähnliche Fälle.  
 Die gegebene Empfehlung ist rechtlich nicht bindend. Eine Haftung des BFS im Zusammenhang mit einer erteilten Empfehlung ist daher ausgeschlossen.
   
 Es werden nur Kodierungsanfragen behandelt, welche in der Beilage **alle notwendigen klinischen Unterlagen zur Fallbeurteilung in anonymisierter Form** (Austrittsbericht, Operationsbericht, Argumentation und Kodierung beider Parteien etc.) enthalten. Sie sind mit Kopie an die andere Partei an codeInfo@bfs.admin.ch zu senden.
@@ -95,18 +95,18 @@ Es werden nur Kodierungsanfragen behandelt, welche in der Beilage **alle notwend
 Bei Anfragen ohne Dokumentation oder mit ungenügender Dokumentation geben wir keine Empfehlung ab.
   
 **Anonymisierung**  
-Für die Anonymisierung der zugesendeten Dokumente sind die folgenden Angaben von Patientinnen / Patienten und Angehörigen zu entfernen:
+Für die Anonymisierung der zugesendeten Dokumente sind die folgenden Angaben von Patientinnen / Patienten und/oder Angehörigen zu entfernen:
 
 <body>
     <ul>
         <li>Name, Vorname</li>
-        <li>Geburtstag und Monat (ausgenommen für Neugeborene bis zum Alter von einem Jahr (< 1Jahr))</li>
+        <li>Geburtstag und Monat (ausgenommen für Neugeborene bis zum Alter von einem Jahr (< 1 Jahr))</li>
         <li>Wohnadresse</li>
         <li>Korrespondenzdaten (Telefonnummer, E-Mail-Adresse etc.)</li>
     </ul>
 </body>
 
-BFS-Mitarbeiter unterstehen nur dem Statistikgeheimnis (gemäss Art. 14 des Bundesstatistikgesetzes), sowie der Geheimhaltungspflicht gemäss Datenschutzgesetz.
+BFS-Mitarbeiter unterstehen dem Statistikgeheimnis (gemäss Art. 14 des Bundesstatistikgesetzes) sowie der Geheimhaltungspflicht gemäss Datenschutzgesetz.
   
 Achtung: Es reicht nicht, in Adobe Acrobat Pro den zu löschenden Text mit einem schwarzen oder weissen Rechteck abzudecken. Dieses lässt sich entfernen, sodass der Text darunter wieder sichtbar wird.  
 Für eine ordnungsgemässe Anonymisierung einer PDF-Datei mit Adobe Acrobat Pro ist das Werkzeug „Streichen“ zu verwenden.  
@@ -116,6 +116,6 @@ https://helpx.adobe.com/ch_de/acrobat/kb/prevent-file-size-increase-after-saniti
   
 Falls Sie nicht mit Adobe Acrobat Pro arbeiten, müssen Sie das zuvor anonymisierte Dokument scannen.
   
-Anfragen, die nicht korrekt anonymisiert sind, werden von unserer Hotline nicht bearbeitet. Sie werden anschliessend per Mail über die Löschung informiert und gebeten, uns sämtliche Dokumente vollständig anonymisiert erneut zuzustellen.
+Anfragen, die nicht korrekt anonymisiert sind, werden nicht bearbeitet. Der Anfragesteller wird über die Löschung informiert und gebeten, dem BFS sämtliche Dokumente vollständig anonymisiert erneut zuzustellen.
 
 {{</markdown>}}
