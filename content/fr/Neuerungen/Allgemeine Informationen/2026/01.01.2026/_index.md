@@ -50,10 +50,10 @@ Les bases légales sont:
 Pour les classifications, le manuel de codage et les Actualisations des publications des classifications médicales de l'OFS, en cas de divergence entre les versions linguistiques, les versions originales (versions en langue allemande) font foi.
   
 **Actualisations des publications des classifications médicales de l'OFS et FAQ/ Clarifications**   
-Les «Actualisations des publications des classifications médicales de l'OFS» contiennent des informations de base et complémentaires (incl. corrections) sur les publications des classifications médicales de l'OFS<a href="Instruments pour le codage médical | Office fédéral de la statistique - OFS:"
+Les «Actualisations des publications des classifications médicales de l'OFS» contiennent des informations de base et complémentaires (incl. corrections) sur les publications des classifications médicales de l'OFS<a href="Instruments pour le codage médical | Office fédéral de la statistique - OFS"
    target="_blank"
    rel="noopener noreferrer">
-    Instruments pour le codage médical | Office fédéral de la statistique - OFS
+    Instruments pour le codage médical | Office fédéral de la statistique - OFS:
 </a>
 <body>
     <ul>
