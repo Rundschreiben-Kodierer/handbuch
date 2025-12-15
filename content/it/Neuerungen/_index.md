@@ -64,6 +64,9 @@ La versione online offre funzioni aggiuntive:
 
 **Archivio**<br>
 Tutte le circolari dal 2009 al 2025 compreso sono ancora disponibili in formato PDF sul sito web dell'Ufficio federale di statistica, sezione Classificazioni mediche.  
+<a href="https://www.bfs.admin.ch/bfs/it/home/statistiken/gesundheit/nomenklaturen/medkk/instrumente-medizinische-kodierung.html"
+   target="_blank"
+   rel="noopener noreferrer">Strumenti di codifica medica | Ufficio federale di statistica - UST</a>
   
 Grazie a questo sviluppo digitale, gli **aggiornamenti** delle pubblicazioni sono non solo moderni e di facile utilizzo, ma offrono anche funzioni aggiuntive che facilitano il lavoro quotidiano dei codificatori e aumentano la chiarezza dei contenuti.
 

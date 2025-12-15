@@ -41,14 +41,14 @@ Die bekannten halbjährlichen **Publikationszyklen der bisherigen Rundschreiben 
   
 Unter jedem Kapitel werden jeweils **das Publikationsjahr sowie der Beginn der Gültigkeit** der darin aufgeführten Inhalte angegeben, sodass die zeitliche Zuordnung der Änderungen und Ergänzungen jederzeit klar nachvollzogen werden kann.
   
-Register mit dem Zusatz Ø None enthalten keine Aktualisierungen.
+Register mit dem Zusatz "Ø None" enthalten keine Aktualisierungen.
   
   
-**Kapitel «Aktualisierungen zur CHOP»**<br>  
+**Kapitel «Aktualisierungen zur CHOP»**<br>
 Die Informationen zu Aktualisierungen zur CHOP werden neu in Form eines **Excel-Ordners (xlsx)** bereitgestellt, der direkt über die jeweiligen Register des Kapitels CHOP abrufbar ist. Diese Tabelle ermöglicht eine übersichtliche Nachverfolgung der Änderungen und bildet die Aktualisierungen in den Sprachen **Deutsch, Französisch und Italienisch** ab.
   
   
-**Neues Kapitel «FAQ/Klarstellungen»**<br>  
+**Neues Kapitel «FAQ/Klarstellungen»**<br>
 Das bisherige Kapitel 5 «Anhang» wird durch das neue Kapitel **«FAQ/Klarstellungen»** ersetzt. Dort werden künftig sowohl allgemeine als auch spezifische Fragen beantwortet. Die Inhalte des bisherigen Anhangs (Kapitel 5) sind, falls noch aktuell, in dieses neue Kapitel migriert worden.
   
     

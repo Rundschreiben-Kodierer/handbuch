@@ -65,7 +65,10 @@ La version en ligne offre des fonctions supplémentaires :
 
 **Archives**<br>
 Toutes les circulaires publiées entre 2009 et 2025 inclus sont toujours disponibles au format PDF sur le site web de l'Office fédéral de la statistique, section Classifications médicales.
-  
+<a href="https://www.bfs.admin.ch/bfs/fr/home/statistiken/gesundheit/nomenklaturen/medkk/instrumente-medizinische-kodierung.html"
+   target="_blank"
+   rel="noopener noreferrer">Instruments pour le codage médical | Office fédéral de la statistique - OFS</a>
+
 Grâce à cette évolution numérique, les **mises à jour** des publications sont non seulement modernes et conviviales, mais offrent également des fonctions supplémentaires qui facilitent le travail quotidien des codeurs et améliorent la clarté du contenu.
 
 
