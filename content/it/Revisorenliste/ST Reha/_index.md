@@ -13,20 +13,9 @@ keywords: []
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: left;">
-      <th>Liste der schweizerischen Revisorinnen und Revisoren in der medizinischen Kodierung - ST Reha</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="text-align: left;">
-      <th>Liste des réviseuses et réviseurs suisses en codage médical - ST Reha</th>
-    </tr>
-    <tr style="text-align: left;">
       <th>Elenco dei revisori svizzeri in codifica medica - ST Reha</th>
     </tr>
-    <tr>
-    </tr>
-    <tr>
-</tbody>
+  </thead>
 </table>
 
 <style>
@@ -53,18 +42,18 @@ keywords: []
   </colgroup>
   <thead>
     <tr>
-      <td class="tg-1wig">Name</td>
-      <td class="tg-dgl5">Vorname</td>
-      <td class="tg-dgl5">Adresse</td>
-      <td class="tg-dgl5">Email</td>
-      <td class="tg-dgl5">Telefon</td>
-      <td class="tg-dgl5">Revisionssprache(n)</td>
-      <td class="tg-dgl5">Eidgenössische Fachausweis für Medizinische Kodiererinnen / Medizinische Kodierer //<br>Gleichwertigkeitsbescheinigung</td>
-      <td class="tg-dgl5">Rehabilitationsspezifische Weiterbildung im Bereich Kodierung (Anwendung der Kodie-rungsregeln für die Messinstrumente in der Rehabilitation: ADL, CIRS, 6-MinutenGehtest (CHOP-Kodes AA.-) // ANQ-Anforderung an die Messinstrumente in der Rehabilitation) </td>
-      <td class="tg-dgl5">Mindestens 1-jährige (100% Anstellungsgrad) Berufserfahrung in der Rehabilitation</td>
-      <td class="tg-dgl5">Gewünschter Arbeitskanton (freiwillig)</td>
-      <td class="tg-dgl5">Regelmässige Teilnahme an Weiterbildungen</td>
-      <td class="tg-dgl5">Datum der Aufnahme in die Liste</td>
+      <td class="tg-1wig">Cognome</td>
+      <td class="tg-dgl5">Nome</td>
+      <td class="tg-dgl5">Indirizzo</td>
+      <td class="tg-dgl5">Informazioni di contatto</td>
+      <td class="tg-dgl5">Tel.</td>
+      <td class="tg-dgl5">Lingua/e di revisione</td>
+      <td class="tg-dgl5">Attestato professionale federale di specialista in codifica medica // <br>certificato di equivalenza</td>
+      <td class="tg-dgl5">Perfezionamento professionale specifico per la riabilitazione nel campo della codifica (applicazione delle regole di codifica per gli strumenti di misurazione nella riabilitazione: ADL, CIRS, test del cammino in 6 minuti (codici CHOP AA.-) / requisiti ANQ per gli strumenti di misurazione nella riabilitazione)</td>
+      <td class="tg-dgl5">Esperienza professionale di almeno 1 anno (grado di occupazione del 100%) nel campo della riabilitazione</td>
+      <td class="tg-dgl5">Cantone/i dove il revisore è disposto a lavorare (facoltativo)</td>
+      <td class="tg-dgl5">Conferma che il revisore si impegna a seguire regolarmente corsi di formazione continua</td>
+      <td class="tg-dgl5">Data di ammissione nell'elenco</td>
     </tr
   </thead>
   <tbody>

@@ -13,7 +13,7 @@ keywords: []
   
 {{<markdown>}}
   
-Dem Bundesamt für Statistik (BFS) obliegt es, gestützt auf Ziffer 3 des Reglements für die Durchführung der Kodierrevision unter SwissDRG (seit dem 1. Januar 2012), des Reglements für die Durchführung der Kodierrevision unter TARPSY (seit dem 1. Januar 2018) sowie der Kodierrevision unter ST Reha (fakultativ für Daten ab dem 1. Januar 2021, obligatorisch ab dem 1. Januar 2022), eine fortlaufend aktualisierte Liste der Revisorinnen und Revisoren zu unterhalten.
+Dem Bundesamt für Statistik (BFS) obliegt es, gestützt auf Ziffer 3 des Reglements für die Durchführung der Kodierrevision unter SwissDRG AG (seit dem 1. Januar 2012), des Reglements für die Durchführung der Kodierrevision unter TARPSY (seit dem 1. Januar 2018) sowie der Kodierrevision unter ST Reha (obligatorisch ab dem 1. Januar 2022), eine fortlaufend aktualisierte Liste der Revisorinnen und Revisoren zu unterhalten.
   
 Die Liste der schweizerischen Revisorinnen und Revisoren in der medizinischen Kodierung enthält eine aktuelle Übersicht der vom Bundesamt für Statistik (BFS) anerkannten Fachpersonen, welche die dazu erforderlichen Voraussetzungen erfüllen und im Bereich der medizinischen Kodierung als Revisorinnen und Revisoren tätig sind. 
   
@@ -29,13 +29,13 @@ Die Liste ist in die drei Tarifstrukturen SwissDRG, TARPSY und ST Reha unterteil
     </ul>
 </body>
 
-Die Veröffentlichung dieser Informationen dient der Transparenz und Nachvollziehbarkeit der Prüf- und Revisionsprozesse im Bereich der medizinischen Kodierung. Sie ermöglicht es Spitälern, Leistungserbringern und weiteren Akteuren im Gesundheitswesen, sich bei Bedarf an die zuständigen Revisorinnen und Revisoren zu wenden.
+Die Veröffentlichung dieser Informationen dient der Transparenz und Nachvollziehbarkeit der Prüf- und Revisionsprozesse im Bereich der medizinischen Kodierung. Sie ermöglicht es Spitälern, Leistungserbringern und weiteren Akteuren im Gesundheitswesen sich bei Bedarf an die zuständigen Revisorinnen und Revisoren zu wenden.
   
 **Ab dem 01.01.2026 werden die Inhalte der Liste fortlaufend aktualisiert. Die bisher geltenden halbjährlichen Publikationszyklen – jeweils Ende Juni und Ende Dezember – entfallen mit diesem Datum.**
   
 **Anmeldung**: Alle Personen, die beabsichtigen, Revisionen von Kodierfällen unter SwissDRG, unter TARPSY oder unter ST Reha durchzuführen, sind verpflichtet, beim BFS einen Antrag zur Aufnahme in die Liste der Revisorinnen und Revisoren zu stellen.
 <br>
-Weiterführende Informationen zur Revision von Kodierfällen sowie die nachstehend aufgeführten Dokumente sind unter folgendem Link abrufbar: 
+Weiterführende Informationen zur Revision von Kodierfällen sowie die nachstehend aufgeführten Dokumente sind unter folgenden Links abrufbar: 
 <body>
     <ul>
         <li><a href="https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/nomenklaturen/medkk/revisionen-kodierfaelle.html#schweizerische-revisorinnen-und-revisoren-in-der-medizinischen-kodierung-liste-formular-informationen"

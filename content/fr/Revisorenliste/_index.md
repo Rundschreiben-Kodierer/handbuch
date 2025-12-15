@@ -13,7 +13,7 @@ keywords: []
   
 {{<markdown>}}
   
-L'Office fédéral de la statistique (OFS) est chargé, sur la base du chiffre 3 du règlement relatif à la révision du codage dans le cadre de SwissDRG (depuis le 1er janvier 2012), du règlement relatif à la révision du codage sous TARPSY (depuis le 1er janvier 2018) et de la révision du codage sous ST Reha (facultative pour les données à partir du 1er janvier 2021, obligatoire à partir du 1er janvier 2022), de tenir à jour une liste des réviseurs.
+L'Office fédéral de la statistique (OFS) est chargé, sur la base du chiffre 3 du règlement relatif à la révision du codage dans le cadre de SwissDRG SA (depuis le 1er janvier 2012), du règlement relatif à la révision du codage sous TARPSY (depuis le 1er janvier 2018) et de la révision du codage sous ST Reha (obligatoire à partir du 1er janvier 2022), de tenir à jour une liste des réviseurs.
   
 La liste des réviseurs suisses en codage médical contient un aperçu actuel des spécialistes reconnus par l'Office fédéral de la statistique (OFS) qui remplissent les conditions requises et exercent en tant que réviseurs dans le domaine du codage médical sur le site. 
   

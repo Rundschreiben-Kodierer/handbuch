@@ -13,20 +13,9 @@ keywords: []
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: left;">
-      <th>Liste der schweizerischen Revisorinnen und Revisoren in der medizinischen Kodierung - TARPSY</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="text-align: left;">
-      <th>Liste des réviseuses et réviseurs suisses en codage médical - TARPSY</th>
-    </tr>
-    <tr style="text-align: left;">
       <th>Elenco dei revisori svizzeri in codifica medica - TARPSY</th>
     </tr>
-    <tr>
-    </tr>
-    <tr>
-</tbody>
+  </thead>
 </table>
 
 <style>
@@ -53,18 +42,18 @@ keywords: []
   </colgroup>
   <thead>
     <tr>
-      <td class="tg-1wig">Name</td>
-      <td class="tg-dgl5">Vorname</td>
-      <td class="tg-dgl5">Adresse</td>
-      <td class="tg-dgl5">Email</td>
-      <td class="tg-dgl5">Telefon</td>
-      <td class="tg-dgl5">Revisionssprache(n)</td>
-      <td class="tg-dgl5">Eidgenössische Fachausweis für Medizinische Kodiererinnen / Medizinische Kodierer //<br>Gleichwertigkeitsbescheinigung</td>
-      <td class="tg-dgl5">Psychiatriespezifische Weiterbildung im Bereich Kodierung</td>
-      <td class="tg-dgl5">Mindestens 1-jährige Berufserfahrung in der Psychiatrie</td>
-      <td class="tg-dgl5">Gewünschter Arbeitskanton (freiwillig)</td>
-      <td class="tg-dgl5">Regelmässige Teilnahme an Weiterbildungen</td>
-      <td class="tg-dgl5">Datum der Aufnahme in die Liste</td>
+      <td class="tg-1wig">Cognome</td>
+      <td class="tg-dgl5">Nome</td>
+      <td class="tg-dgl5">Indirizzo</td>
+      <td class="tg-dgl5">Informazioni di contatto</td>
+      <td class="tg-dgl5">Tel.</td>
+      <td class="tg-dgl5">Lingua/e di revisione</td>
+      <td class="tg-dgl5">Attestato professionale federale di specialista in codifica medica // <br>certificato di equivalenza</td>
+      <td class="tg-dgl5">Formazione complementare specifica alla codifica in psichiatria</td>
+      <td class="tg-dgl5">Esperienza professionale di almeno 1 anno in psichiatria</td>
+      <td class="tg-dgl5">Cantone/i dove il revisore è disposto a lavorare (facoltativo)</td>
+      <td class="tg-dgl5">Conferma che il revisore si impegna a seguire regolarmente corsi di formazione continua</td>
+      <td class="tg-dgl5">Data di ammissione nell'elenco</td>
     </tr
   </thead>
   <tbody>

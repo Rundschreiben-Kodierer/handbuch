@@ -11,7 +11,6 @@ keywords: []
 
 
 **Introduction du chapitre «FAQ/Clarifications»**
-
 Le nouveau chapitre «FAQ/Clarifications» sera mis en ligne lors de la publication des mises à jour des publications le **1er janvier 2026**.
 Ceci remplace l'ancien chapitre 5 «Annexe» de la circulaire.
 Le contenu de l'ancien «Annexe» a été transféré dans le nouveau chapitre «FAQ/Clarifications».
@@ -25,19 +24,18 @@ Les FAQ/ Clarifications sont issues de demandes (répétées) adressées au secr
 ________________________________________
 
 **Structure, contenu et validité des FAQ/Clarifications**
-  
 Chaque FAQ/Clarification contient:
-  
-•	au moins un **mot-clé** auquel elle se réfère,
-  
-•	la **date de création**,
-  
-•	le **domaine thématique** (CIM-10-GM ou CHOP) avec les codes correspondants,
-  
-•	le cas échéant, une **référence à la règle de codage correspondante**,
-  
-•	un champ **«Actualisation»** indiquant la date de la dernière modification du contenu,
-  
+
+<body>
+    <ul>
+        <li>au moins un <br>mot-clé</br> auquel elle se réfère,</li>
+        <li>la <br>date de création</br>,</li>
+        <li>le <br>domaine thématique</br> (CIM-10-GM ou CHOP) avec les codes correspondants,</li>
+        <li>le cas échéant, une <br>référence à la règle de codage correspondante</br>,</li>
+        <li>un champ <br>«Actualisation»</br> indiquant la date de la dernière modification du contenu.</li>
+    </ul>
+</body>
+s
 Avec la mise en ligne du chapitre «FAQ/Clarifications», **la date de création de toutes les FAQ/Clarifications** a été **ajustée au 01.01.2026**.
 Pour les FAQ/Clarifications qui ont été reprises et migrées de **l'annexe de la dernière circulaire 2025/2, la nouvelle date de création est accompagnée d'une référence au numéro correspondant de la précision de l'ancien chapitre 5.**
   
@@ -48,29 +46,30 @@ La présentation est telle que la **version actuelle** figure en haut de la list
 Les anciennes versions non valables sont répertoriées ci-dessous avec leur période de validité («de – à») et affichées en **rouge barré**.
 
 Toutes les FAQ/clarifications publiées sur le site web de l'OFS restent **valables** jusqu'à ce qu'elles soient :
-  
-•	soient intégrées dans les réglementations respectives Manuel de codage ou CHOP, ou
-  
-•	ne soient remplacées par une nouvelle FAQ/Clarification, ou
-  
-•	soient supprimées par l'OFS.
-  
-Le parcours de chaque FAQ/clarification est ainsi transparent et traçable à tout moment.
+<body>
+    <ul>
+        <li>soient intégrées dans les réglementations respectives Manuel de codage ou CHOP, ou</li>
+        <li>ne soient remplacées par une nouvelle FAQ/Clarification, ou</li>
+        <li>soient supprimées par l'OFS.</li>
+    </ul>
+</body>
+Le parcours de chaque FAQ/Clarification est ainsi transparent et traçable à tout moment.
   
 ________________________________________
 
 **Système de numérotation**
+Les FAQ/Clarifications sont numérotées par ordre chronologique croissant. La numérotation suivante est utilisée aussi bien pour la FAQ-ICD que pour la FAQ-CHOP: 
   
-Les FAQ/Clarifications sont numérotées par ordre chronologique croissant sur
-  
-•	**0001 – 9999**
-  
+<body>
+    <ul>
+        <li><br>0001 – 9999</br></li>
+    </ul>
+</body>
 La numérotation actuelle du chapitre 5 «Annexe» n'est pas reprise. Les clarifications déjà existantes dans l'annexe de la circulaire reçoivent un nouveau numéro (voir explication sur la structure des FAQ/Clarifications ci-dessus).
   
 ________________________________________
   
 **Marquage des modifications**
-  
 Comme dans les autres chapitres des mises à jour concernant les publications, la légende suivante est également utilisée dans le chapitre « FAQ/Clarifications » pour les adaptations, les ajouts et les suppressions:
   
 

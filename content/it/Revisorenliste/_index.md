@@ -13,7 +13,7 @@ keywords: []
   
 {{<markdown>}}
   
-L'Ufficio federale di statistica (UST) è responsabile, in base al punto 3 del regolamento per l'esecuzione della revisione della codifica secondo SwissDRG (dal 1° gennaio 2012), del regolamento per l'esecuzione della revisione della codifica secondo TARPSY (dal 1° gennaio 2018) e della revisione della codifica secondo ST Reha (facoltativa per i dati a partire dal 1° gennaio 2021, obbligatoria a partire dal 1° gennaio 2022), di tenere un elenco costantemente aggiornato dei revisori.
+L'Ufficio federale di statistica (UST) è responsabile, in base al punto 3 del regolamento per l'esecuzione della revisione della codifica secondo SwissDRG SA (dal 1° gennaio 2012), del regolamento per l'esecuzione della revisione della codifica secondo TARPSY (dal 1° gennaio 2018) e della revisione della codifica secondo ST Reha (obbligatoria a partire dal 1° gennaio 2022), di tenere un elenco costantemente aggiornato dei revisori.
   
 L'elenco dei revisori svizzeri nella codifica medica contiene una panoramica aggiornata degli esperti riconosciuti dall'Ufficio federale di statistica (UST) che soddisfano i requisiti necessari e che operano come revisori nel settore della codifica medica. 
   
@@ -21,7 +21,7 @@ L'elenco è suddiviso in tre strutture tariffarie SwissDRG, TARPSY e ST Reha e c
   
 <body>
     <ul>
-        <li><strong>Cognome e nome</strong> del revisore</li>
+        <li><strong>Cognome e nome</strong> della revisora e del revisore</li>
         <li><strong>Istituzione o organizzazione </strong> presso la quale viene svolta l'attività</li>
         <li><strong>Dati di contatto </strong> (ad es. indirizzo e-mail o numero di telefono, se autorizzati)</li>
         <li><strong>Competenza regionale o specialistica</strong>, se del caso</li>
@@ -29,11 +29,11 @@ L'elenco è suddiviso in tre strutture tariffarie SwissDRG, TARPSY e ST Reha e c
     </ul>
 </body>
 
-La pubblicazione di queste informazioni serve a garantire la trasparenza e la tracciabilità dei processi di controllo e revisione nel campo della codifica medica. Consente agli ospedali, ai fornitori di prestazioni e ad altri attori del settore sanitario di rivolgersi, se necessario, ai revisori competenti.
+La pubblicazione di queste informazioni serve a garantire la trasparenza e la tracciabilità dei processi di controllo e revisione nel campo della codifica medica. Consente agli ospedali, ai fornitori di prestazioni e ad altri attori del settore sanitario di rivolgersi, se necessario, ai revisore e revisori competenti.
   
 **A partire dal 1° gennaio 2026, i contenuti dell'elenco saranno aggiornati continuamente. I cicli di pubblicazione semestrali finora in vigore – alla fine di giugno e di dicembre – saranno aboliti a partire da tale data.**
   
-**Iscrizione**: tutte le persone che intendono effettuare revisioni di casi di codifica secondo SwissDRG, TARPSY o ST Reha sono tenute a presentare all'UST una domanda di iscrizione nell'elenco dei revisori
+**Iscrizione**: tutte le persone che intendono effettuare revisioni di casi di codifica secondo SwissDRG, TARPSY o ST Reha sono tenute a presentare all'UST una domanda di iscrizione nell'elenco dei revisore e revisori.
 <br>
 Ulteriori informazioni sulla revisione dei casi di codifica e i documenti elencati di seguito sono disponibili ai seguenti link: 
 <body>

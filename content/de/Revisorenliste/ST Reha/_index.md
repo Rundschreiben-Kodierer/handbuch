@@ -16,17 +16,6 @@ keywords: []
       <th>Liste der schweizerischen Revisorinnen und Revisoren in der medizinischen Kodierung - ST Reha</th>
     </tr>
   </thead>
-  <tbody>
-    <tr style="text-align: left;">
-      <th>Liste des réviseuses et réviseurs suisses en codage médical - ST Reha</th>
-    </tr>
-    <tr style="text-align: left;">
-      <th>Elenco dei revisori svizzeri in codifica medica - ST Reha</th>
-    </tr>
-    <tr>
-    </tr>
-    <tr>
-</tbody>
 </table>
 
 <style>

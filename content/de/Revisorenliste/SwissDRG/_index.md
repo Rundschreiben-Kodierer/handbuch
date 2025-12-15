@@ -14,17 +14,6 @@ keywords: []
       <th>Liste der schweizerischen Revisorinnen und Revisoren in der medizinischen Kodierung - SwissDRG</th>
     </tr>
   </thead>
-  <tbody>
-    <tr style="text-align: left;">
-      <th>Liste des réviseuses et réviseurs suisses en codage médical - SwissDRG</th>
-    </tr>
-    <tr style="text-align: left;">
-      <th>Elenco dei revisori svizzeri in codifica medica - SwissDRG</th>
-    </tr>
-    <tr>
-    </tr>
-    <tr>
-</tbody>
 </table>
 
 <style>

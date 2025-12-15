@@ -13,20 +13,9 @@ keywords: []
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: left;">
-      <th>Liste der schweizerischen Revisorinnen und Revisoren in der medizinischen Kodierung - ST Reha</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="text-align: left;">
       <th>Liste des réviseuses et réviseurs suisses en codage médical - ST Reha</th>
     </tr>
-    <tr style="text-align: left;">
-      <th>Elenco dei revisori svizzeri in codifica medica - ST Reha</th>
-    </tr>
-    <tr>
-    </tr>
-    <tr>
-</tbody>
+  </thead>
 </table>
 
 <style>
@@ -53,18 +42,18 @@ keywords: []
   </colgroup>
   <thead>
     <tr>
-      <td class="tg-1wig">Name</td>
-      <td class="tg-dgl5">Vorname</td>
+      <td class="tg-1wig">Nom</td>
+      <td class="tg-dgl5">Prénom</td>
       <td class="tg-dgl5">Adresse</td>
-      <td class="tg-dgl5">Email</td>
-      <td class="tg-dgl5">Telefon</td>
-      <td class="tg-dgl5">Revisionssprache(n)</td>
-      <td class="tg-dgl5">Eidgenössische Fachausweis für Medizinische Kodiererinnen / Medizinische Kodierer //<br>Gleichwertigkeitsbescheinigung</td>
-      <td class="tg-dgl5">Rehabilitationsspezifische Weiterbildung im Bereich Kodierung (Anwendung der Kodie-rungsregeln für die Messinstrumente in der Rehabilitation: ADL, CIRS, 6-MinutenGehtest (CHOP-Kodes AA.-) // ANQ-Anforderung an die Messinstrumente in der Rehabilitation) </td>
-      <td class="tg-dgl5">Mindestens 1-jährige (100% Anstellungsgrad) Berufserfahrung in der Rehabilitation</td>
-      <td class="tg-dgl5">Gewünschter Arbeitskanton (freiwillig)</td>
-      <td class="tg-dgl5">Regelmässige Teilnahme an Weiterbildungen</td>
-      <td class="tg-dgl5">Datum der Aufnahme in die Liste</td>
+      <td class="tg-dgl5">Contacts</td>
+      <td class="tg-dgl5">Tél.</td>
+      <td class="tg-dgl5">Langue(s) de révision</td>
+      <td class="tg-dgl5">Brevet fédéral de spécialiste en codage médical // <br>Preuve d’équivalence</td>
+      <td class="tg-dgl5">Formation complémentaire spécifique au codage dans la réadaptation (application des règles de codage pour les instruments de codage utilisés en réadaptation: ADL, CIRS, test de marche de 6 minutes (codes CHOP AA.-) / exigences de l’ANQ relatives aux instruments de mesure utilisés en réadapta-tion)</td>
+      <td class="tg-dgl5">Expérience professionnelle de 1 an au moins dans la réadaptation (dans le cadre d’un poste à plein temps)</td>
+      <td class="tg-dgl5">Cantons où le réviseur/la réviseuse est prête à travailler (facultatif)</td>
+      <td class="tg-dgl5">Confirmation que le réviseur/la réviseuse s'engage à suivre une formation continue</td>
+      <td class="tg-dgl5">Date d'inscription sur la liste</td>
     </tr
   </thead>
   <tbody>

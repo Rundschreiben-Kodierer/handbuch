@@ -11,20 +11,9 @@ keywords: []
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: left;">
-      <th>Liste der schweizerischen Revisorinnen und Revisoren in der medizinischen Kodierung - SwissDRG</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="text-align: left;">
       <th>Liste des réviseuses et réviseurs suisses en codage médical - SwissDRG</th>
     </tr>
-    <tr style="text-align: left;">
-      <th>Elenco dei revisori svizzeri in codifica medica - SwissDRG</th>
-    </tr>
-    <tr>
-    </tr>
-    <tr>
-</tbody>
+  </thead>
 </table>
 
 <style>
@@ -49,16 +38,16 @@ keywords: []
   </colgroup>
   <thead>
     <tr>
-      <td class="tg-1wig">Name</td>
-      <td class="tg-dgl5">Vorname</td>
+      <td class="tg-1wig">Nom</td>
+      <td class="tg-dgl5">Prénom</td>
       <td class="tg-dgl5">Adresse</td>
-      <td class="tg-dgl5">Email</td>
-      <td class="tg-dgl5">Telefon</td>
-      <td class="tg-dgl5">Revisionssprache(n)</td>
-      <td class="tg-dgl5">Eidgenössische Fachausweis für Medizinische Kodiererinnen / Medizinische Kodierer //<br>Gleichwertigkeitsbescheinigung</td>
-      <td class="tg-dgl5">Gewünschter Arbeitskanton (freiwillig)</td>
-      <td class="tg-dgl5">Regelmässige Teilnahme an Weiterbildungen</td>
-      <td class="tg-dgl5">Datum der Aufnahme in die Liste</td>
+      <td class="tg-dgl5">Contacts</td>
+      <td class="tg-dgl5">Tél.</td>
+      <td class="tg-dgl5">Langue(s) de révision</td>
+      <td class="tg-dgl5">Brevet fédéral de spécialiste en codage médical //<br>Preuve d’équivalence</td>
+      <td class="tg-dgl5">Cantons où le réviseur/la réviseuse est prête à travailler (facultatif)</td>
+      <td class="tg-dgl5">Confirmation que le réviseur/la réviseuse s'engage à suivre une formation continue</td>
+      <td class="tg-dgl5">Date d'inscription sur la liste</td>
     </tr
   </thead>
   <tbody>
