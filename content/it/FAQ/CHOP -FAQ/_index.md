@@ -680,7 +680,7 @@ Eccezione: esistono codici CHOP per i quali è indicato in nota che, se due o pi
 </table>
 
 <b>Problema/Spiegazione:</b><br>
-Nei gruppi di elementi 99.84.1- Isolamento da contatto, secondo il numero di giorni di trattamento, 99.84.2- <i>Isolamento da goccioline, secondo il numero di giorni di trattamento</i>, […] e 99.84.3- <i>Isolamento da aerosol, secondo il numero di giorni di trattamento, […]</i> è indicata la seguente esclusione di tipo «esclusione Omettere il codice»: 
+Nei gruppi di elementi 99.84.1- Isolamento da contatto, secondo il numero di giorni di trattamento, 99.84.2- <i>Isolamento da goccioline, secondo il numero di giorni di trattamento</i>, […] e 99.84.3- <i>Isolamento da aerosol, secondo il numero di giorni di trattamento, […]</i> è indicata la seguente esclusione di tipo «Omettere il codice»: 
 
 <br>
 <br>

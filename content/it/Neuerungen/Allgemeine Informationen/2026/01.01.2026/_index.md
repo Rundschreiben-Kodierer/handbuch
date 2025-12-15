@@ -55,7 +55,7 @@ Per quanto riguarda le classificazioni, e il Manuale e Aggiornamenti delle pubbl
 Gli «Aggiornamenti delle pubblicazioni delle classificazioni mediche dell'UST» contengono informazioni di base e aggiuntive (comprese le correzioni) relative alle pubblicazioni delle classificazioni mediche dell'UST <a href="Strumenti per la codifica medica | Ufficio federale di statistica - UST"
    target="_blank"
    rel="noopener noreferrer">
-    Strumenti per la codifica medica | Ufficio federale di statistica - UST:</a>:
+    Strumenti per la codifica medica | Ufficio federale di statistica - UST</a>:
 <body>
     <ul>
         <li>Manuale di codifica medica</li>

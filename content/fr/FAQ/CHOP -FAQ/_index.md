@@ -1325,10 +1325,10 @@ Le code <b>7A.71.-</b> <i>Fusion de vertèbres avec stabilisation de la colonne 
 
 <body>
     <ul>
-        <li><b>décortication des surfaces articulaires</b></li>
-        <li><b>Ostéotomie</b></li>
-        <li><b>Greffe ou allogreffe osseuse</b></li>
-        <li><b>Implantation de matériaux stabilisateurs</b> (par exemple cage, systèmes de vis et tiges, plaques)</li>
+        <li>Implantation de matériaux stabilisateurs (par exemple, cages, systèmes de vis et de tiges, plaques) ainsi que l'une des mesures suivantes</li>
+        <li>Décorticage des surfaces articulaires ou</li>
+        <li>Ostéotomie oue</li>
+        <li>Application de matériau osseux (de substitution)</li>
     </ul>
 </body>
 <br>
