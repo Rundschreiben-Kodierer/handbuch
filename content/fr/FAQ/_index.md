@@ -38,7 +38,7 @@ Chaque FAQ/Clarification contient:
 Avec la mise en ligne du chapitre «FAQ/Clarifications», <b>la date de création de toutes les FAQ/Clarifications</b> a été <b>ajustée au 01.01.2026</b>.
 Pour les FAQ/Clarifications qui ont été reprises et migrées de <b>l'annexe de la dernière circulaire 2025/2, la nouvelle date de création est accompagnée d'une référence au numéro correspondant de la précision de l'ancien chapitre 5.</b>
   
-La actualisation/l'adaptation a lieu tous les six mois, en même temps que les actulisations des publications.
+L'actualisation/l'adaptation a lieu tous les six mois, en même temps que les actulisations des publications.
   
 La présentation est telle que la **version actuelle** figure en haut de la liste.
 Les anciennes versions non valables sont répertoriées ci-dessous avec leur période de validité («de – à») et affichées en <font color="red">rouge barré</font>.
