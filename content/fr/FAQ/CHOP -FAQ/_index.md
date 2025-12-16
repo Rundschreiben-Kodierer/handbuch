@@ -507,7 +507,7 @@ Le code 51.99.90 <i>Autre opération endoscopique des voies biliaires</i>, comme
   </tr>
   <tr>
     <th style="border: 1px solid black;">CHOP</th>
-    <td style="border: 1px solid black;">81.54.2-; 81.54.3-; 81.54.4-</td>
+    <td style="border: 1px solid black;">81.54.2- / 81.54.3- / 81.54.4-</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Règle de codage</th>
@@ -573,7 +573,7 @@ Le tableau suivant précise, par l’exemple de la main, le codage avec le code 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Mot-clé</th>
-    <td style="border: 1px solid black;">Indication de la latéralité</br> / organes existant par paires / organes non présents par paires</td>
+    <td style="border: 1px solid black;">Indication de la latéralité / organes existant par paires / organes non présents par paires</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé</th>
@@ -616,7 +616,7 @@ L’indication de la latéralité n’est impérative que pour les organes exist
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé</th>
-    <td style="border: 1px solid black;">01/01/2026 – Base Circulaire 2025/2: 0762</td>
+    <td style="border: 1px solid black;">01.01.2026 – Base Circulaire 2025/2: 0762</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>

@@ -23,15 +23,15 @@ keywords: []
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Teilatelektase/Totalatelektase</td>
+    <td style="border: 1px solid black;">Teilatelektase / Totalatelektase</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Erstellt</th>
-    <td style="border: 1px solid black;">01.01.2026</td>
+    <td style="border: 1px solid black;">01.01.2026 - Neu</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aktualisiert</th>
-    <td style="border: 1px solid black;">Neu</td>
+    <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -79,11 +79,11 @@ Die fehlende Belüftung von Teilabschnitten der Lunge (Lungensegmenten, Lungenla
   </tr>
   <tr>
     <th style="border: 1px solid black;">Erstellt</th>
-    <td style="border: 1px solid black;">01.01.2026</td>
+    <td style="border: 1px solid black;">01.01.2026 - Neu</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aktualisiert</th>
-    <td style="border: 1px solid black;">Neu</td>
+    <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -121,7 +121,7 @@ Endoleaks vom **Typ IV** treten auf, wenn aufgrund der Porosität des Transplant
 Ein Endoleak **Typ V** wird auch als Endotension bezeichnet. In diesem Fall zeigt sich eine im Verlauf fortgesetzte Expansion des Aneurysmasackes > 5 mm ohne nachweisbare Endoleckage.      
   
 **Kodierempfehlung:**  
-**Typ 1:** Kode: T82.5 *Mechanische Komplikation durch sonstige Geräte und Implantate im Herzen und in den Gefäßen*,
+**Typ I:** Kode: T82.5 *Mechanische Komplikation durch sonstige Geräte und Implantate im Herzen und in den Gefäßen*,
   
 **Typ IIa/ IIb:** Kode: I71.- *Aneurysma der Aorta (da keine Komplikation des Grafts)*  
   
@@ -146,11 +146,11 @@ Ein Endoleak **Typ V** wird auch als Endotension bezeichnet. In diesem Fall zeig
   </tr>
   <tr>
     <th style="border: 1px solid black;">Erstellt</th>
-    <td style="border: 1px solid black;">01.01.2026</td>
+    <td style="border: 1px solid black;">01.01.2026 - Neu</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aktualisiert</th>
-    <td style="border: 1px solid black;">Neu</td>
+    <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -188,7 +188,7 @@ Finden sich auch im umliegenden Gewebe Echinokokkusbestandteile und dadurch herv
 
 {{</article>}}
 
-{{<article number="0004"  title="ICD - Stenosen präzerebraler Arterien Carotisstenose bds/ Stenosen ein-oder beidseitiger präzerebraler Arterien" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0004"  title="ICD - Stenosen präzerebraler Arterien Carotisstenose bds / Stenosen ein-oder beidseitiger präzerebraler Arterien" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -197,11 +197,11 @@ Finden sich auch im umliegenden Gewebe Echinokokkusbestandteile und dadurch herv
   </tr>
   <tr>
     <th style="border: 1px solid black;">Erstellt</th>
-    <td style="border: 1px solid black;">01.01.2026</td>
+    <td style="border: 1px solid black;">01.01.2026 - Neu</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aktualisiert</th>
-    <td style="border: 1px solid black;">Neu</td>
+    <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -225,10 +225,10 @@ Grundsätzlich gilt: Es ist stets der spezifischste ICD-Kode zu wählen, der die
 <body>
     <ul>
         <li><b>Beidseitiger Verschluss einer einzelnen präzerebralen Arterie</b> (z. B. Arteria carotis) wird mit dem spezifischen Kode <b>I65.-</b> unter Angabe der Lateralität verschlüsselt.<br>
-<b>Beispiel</b>: Beidseitiger Verschluss/Stenose der Arteria carotis → <b>I65.2</b><i>Verschluss und Stenose der A. carotis L bds</i>. 
+<b>Beispiel</b>: Beidseitiger Verschluss/Stenose der Arteria carotis → <b>I65.2 </b><i>Verschluss und Stenose der A. carotis L bds</i>. 
 
 </li>
-        <li><b>Der Verschluss / die Stenose mehrerer unterschiedlicher präzerebraler Arterien</b> wird mit dem Kode <b>I65.3</b> verschlüsselt:<br>
+        <li><b>Der Verschluss / die Stenose mehrerer unterschiedlicher präzerebraler Arterien</b> wird mit dem Kode <b>I65.3</b> verschlüsselt.<br>
 <b>Beispiel:</b> Einseitige oder beidseitige Stenose der Arteria vertebralis sowie zusätzlich eine einseitige oder beidseitige Stenose der Arteria carotis interna → <b>I65.3</b> <i>Verschluss und Stenose mehrerer und beidseitiger präzerebraler Arterie L = R, L oder B.</i></li>
     </ul>
 </body>
@@ -247,11 +247,11 @@ Grundsätzlich gilt: Es ist stets der spezifischste ICD-Kode zu wählen, der die
   </tr>
   <tr>
     <th style="border: 1px solid black;">Erstellt</th>
-    <td style="border: 1px solid black;">01.01.2026</td>
+    <td style="border: 1px solid black;">01.01.2026 / Basis RS 2022/1: 0793</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aktualisiert</th>
-    <td style="border: 1px solid black;">01.01.2026 / Basis RS 2022/1: 0793</td>
+    <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -298,11 +298,11 @@ Durch diese Erfassung kann das Ulcus hypertonicum von anderen Ulcus cruris-Arten
   </tr>
   <tr>
     <th style="border: 1px solid black;">Erstellt</th>
-    <td style="border: 1px solid black;">01.01.2026</td>
+    <td style="border: 1px solid black;">01.01.2026 - Neu</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aktualisiert</th>
-    <td style="border: 1px solid black;">Neu</td>
+    <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -349,11 +349,11 @@ Bei einem Herpes zoster mit Manifestation im Innervationsgebiet des 1. Trigeminu
   </tr>
   <tr>
     <th style="border: 1px solid black;">Erstellt</th>
-    <td style="border: 1px solid black;">01.01.2026</td>
+    <td style="border: 1px solid black;">01.01.2026 - Neu</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aktualisiert</th>
-    <td style="border: 1px solid black;">Neu</td>
+    <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -403,11 +403,11 @@ Bei entsprechender Dokumentation der Beschwerden/ Dyspnoe, können die Kodes I50
   </tr>
   <tr>
     <th style="border: 1px solid black;">Erstellt</th>
-    <td style="border: 1px solid black;">01.01.2026</td>
+    <td style="border: 1px solid black;">01.01.2026 - Neu</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aktualisiert</th>
-    <td style="border: 1px solid black;">Neu</td>
+    <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -457,11 +457,11 @@ Bis zum Zeitpunkt, an dem drei hintereinander negative Abstrich-Tests pro Lokali
   </tr>
   <tr>
     <th style="border: 1px solid black;">Erstellt</th>
-    <td style="border: 1px solid black;">01.01.2026</td>
+    <td style="border: 1px solid black;">01.01.2026 - Neu</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aktualisiert</th>
-    <td style="border: 1px solid black;">Neu</td>
+    <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -503,15 +503,15 @@ Zusätzlich soll ein Kode der ICD-10-GM 2024 Kodegruppe M49.5-* <i>Wirbelkörper
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">bakterielle Superinfektion / virale Pneumonie</td>
+    <td style="border: 1px solid black;">Bakterielle Superinfektion / virale Pneumonie</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Erstellt</th>
-    <td style="border: 1px solid black;">01.01.2026</td>
+    <td style="border: 1px solid black;">01.01.2026 - Neu</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aktualisiert</th>
-    <td style="border: 1px solid black;">Neu</td>
+    <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -561,11 +561,11 @@ Die Tatsache, dass es sich um einen Infekt bakteriellen Ursprungs handelt, berec
   </tr>
   <tr>
     <th style="border: 1px solid black;">Erstellt</th>
-    <td style="border: 1px solid black;">01.01.2026</td>
+    <td style="border: 1px solid black;">01.01.2026 - Neu</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aktualisiert</th>
-    <td style="border: 1px solid black;">Neu</td>
+    <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -617,7 +617,7 @@ Die Tachyarrhythmie / Tachykardie ist bei Vorhofflimmern nicht zusätzlich zu ko
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aktualisiert</th>
-    <td style="border: 1px solid black;">Neu</td>
+    <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>

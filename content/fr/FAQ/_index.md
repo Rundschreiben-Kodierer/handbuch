@@ -57,7 +57,7 @@ Le parcours de chaque FAQ/Clarification est ainsi transparent et traçable à to
 ________________________________________
 
 **Système de numérotation**
-Les FAQ/Clarifications sont numérotées par ordre chronologique croissant. La numérotation suivante est utilisée aussi bien pour la FAQ-ICD que pour la FAQ-CHOP: 
+Les FAQ/Clarifications sont numérotées par ordre chronologique croissant. La numérotation suivante est utilisée aussi bien pour la FAQ-CIM que pour la FAQ-CHOP: 
   
 <body>
     <ul>

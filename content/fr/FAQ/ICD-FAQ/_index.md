@@ -27,11 +27,11 @@ keywords: []
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé</th>
-    <td style="border: 1px solid black;">01.01.2026</td>
+    <td style="border: 1px solid black;">01.01.2026 - Nouveau</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Mise à jour:</th>
-    <td style="border: 1px solid black;">Nouveau</td>
+    <th style="border: 1px solid black;">mise à jour</th>
+    <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -79,11 +79,11 @@ L'absence de ventilation de certaines parties du poumon (segments pulmonaires, l
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé</th>
-    <td style="border: 1px solid black;">01.01.2026</td>
+    <td style="border: 1px solid black;">01.01.2026 - Nouveau</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Mise à jour:</th>
-    <td style="border: 1px solid black;">Nouveau</td>
+    <th style="border: 1px solid black;">mise à jour</th>
+    <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -122,7 +122,7 @@ Les endofuites de **type IV** surviennent lorsque du sang s'échappe en raison d
 Une endofuite de **type V** est également appelée endotension. Dans ce cas, on observe une expansion continue de la poche anévrismale > 5 mm sans endofuite détectable.      
   
 **Recommandation de codage::**  
-**Type 1:** Code: T82.5 _Complication mécanique d’autres prothèses et implants cardiaques et vasculaires_
+**Type I:** Code: T82.5 _Complication mécanique d’autres prothèses et implants cardiaques et vasculaires_
   
 **Type IIa/ IIb:** Code: I71.- _Anévrisme aortique et dissection (car aucune complication du greffon)_ 
   
@@ -146,11 +146,11 @@ Une endofuite de **type V** est également appelée endotension. Dans ce cas, on
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé</th>
-    <td style="border: 1px solid black;">01.01.2026</td>
+    <td style="border: 1px solid black;">01.01.2026 - Nouveau</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Mise à jour:</th>
-    <td style="border: 1px solid black;">Nouveau</td>
+    <th style="border: 1px solid black;">mise à jour</th>
+    <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -197,11 +197,11 @@ Si des composants d'Echinococcus sont également présents dans les tissus envir
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé</th>
-    <td style="border: 1px solid black;">01.01.2026</td>
+    <td style="border: 1px solid black;">01.01.2026 - Nouveau</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Mise à jour:</th>
-    <td style="border: 1px solid black;">Nouveau</td>
+    <th style="border: 1px solid black;">mise à jour</th>
+    <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -218,7 +218,7 @@ Si des composants d'Echinococcus sont également présents dans les tissus envir
 </table>
 
 <b>Questions:</b><br>
-Comment enregistrer une sténose carotidienne bilatérale ? Comment enregistrer des sténoses unilatérales ou bilatérales des artères précérébrales?
+Comment enregistrer une sténose carotidienne bilatérale? Comment enregistrer des sténoses unilatérales ou bilatérales des artères précérébrales?
 <br><br>
 <b>Problème/explication:</b><br>
 En principe, il convient de toujours choisir le code CIM le plus spécifique qui décrit le plus précisément le diagnostic documenté.  
@@ -247,11 +247,11 @@ En principe, il convient de toujours choisir le code CIM le plus spécifique qui
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé</th>
-    <td style="border: 1px solid black;">01.01.2026</td>
+    <td style="border: 1px solid black;">01.01.2026 / Base Circulaire 2022/1: 0793</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Mise à jour:</th>
-    <td style="border: 1px solid black;">01/01/2022 / Base Circulaire 2022/1: 0793</td>
+    <th style="border: 1px solid black;">Mise à jour</th>
+    <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -295,11 +295,11 @@ Cette classification permet de distinguer l'ulcère hypertonique des autres type
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé</th>
-    <td style="border: 1px solid black;">01.01.2026</td>
+    <td style="border: 1px solid black;">01.01.2026 - Nouveau</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Mise à jour:</th>
-    <td style="border: 1px solid black;">Nouveau</td>
+    <th style="border: 1px solid black;">mise à jour</th>
+    <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -317,7 +317,7 @@ Cette classification permet de distinguer l'ulcère hypertonique des autres type
 
 {{<markdown>}}
 **Question:**  
-Comment coder un herpes zoster (zona) avec manifestations cutanées dans le dermatome correspondant ?
+Comment coder un herpes zoster (zona) avec manifestations cutanées dans le dermatome correspondant?
   
 **Explication:**  
 Il est important de savoir si les efflorescences ont déjà disparu depuis longtemps et si les douleurs persistent dans le dermatome concerné, auquel cas il s'agit d'une névralgie post-zostérienne, ou s'il s'agit d'un herpès zoster (zona) aigu avec manifestations cutanées. 
@@ -341,11 +341,11 @@ Un herpès zoster se manifestant dans la zone d'innervation de la première bran
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé</th>
-    <td style="border: 1px solid black;">01.01.2026</td>
+    <td style="border: 1px solid black;">01.01.2026 - Nouveau</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Mise à jour:</th>
-    <td style="border: 1px solid black;">Nouveau</td>
+    <th style="border: 1px solid black;">mise à jour</th>
+    <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -363,7 +363,7 @@ Un herpès zoster se manifestant dans la zone d'innervation de la première bran
 
 {{<markdown>}}
 **Question:**  
-Comment coder une insuffisance cardiaque avec fraction d'éjection préservée (HFpEF) ?
+Comment coder une insuffisance cardiaque avec fraction d'éjection préservée (HFpEF)?
   
 **Explication:**  
 L'insuffisance cardiaque à fraction d'éjection préservée (Heart Failure with preserved Ejection Fraction / HFpEF) est une forme d'insuffisance cardiaque dans laquelle la fraction d'éjection est normale, c'est-à-dire supérieure à 50 %. Dans l'HFpEF, le ventricule gauche est rigide et présente une relaxation altérée après avoir pompé le sang.  
@@ -390,11 +390,11 @@ Si les symptômes/la dyspnée sont documentés de manière appropriée, les code
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé</th>
-    <td style="border: 1px solid black;">01.01.2026</td>
+    <td style="border: 1px solid black;">01.01.2026 - Nouveau</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Mise à jour:</th>
-    <td style="border: 1px solid black;">Nouveau</td>
+    <th style="border: 1px solid black;">mise à jour</th>
+    <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -412,7 +412,7 @@ Si les symptômes/la dyspnée sont documentés de manière appropriée, les code
 
 {{<markdown>}}
 **Question:**  
-Comment coder les porteurs de BMR / cas suspects avec ou sans mise en évidence d’un agent pathogène ?
+Comment coder les porteurs de BMR / cas suspects avec ou sans mise en évidence d’un agent pathogène?
   
 **Explication:**  
 Selon la règle de codage D04, les codes marqués d’un point d’exclamation servent à préciser un code qui les précède et qui n’est pas marqué d’un point d’exclamation, ou à décrire les circonstances d’une maladie, d’une blessure, d’un empoisonnement ou d’une complication.  
@@ -442,11 +442,11 @@ Jusqu’au moment où trois tests de dépistage négatifs consécutifs par local
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé</th>
-    <td style="border: 1px solid black;">01.01.2026</td>
+    <td style="border: 1px solid black;">01.01.2026 - Nouveau</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Mise à jour:</th>
-    <td style="border: 1px solid black;">Nouveau</td>
+    <th style="border: 1px solid black;">mise à jour</th>
+    <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -490,11 +490,11 @@ En complément, un code du groupe CIM-10-GM 2024 M49.5-* <i>Tassement vertébral
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé</th>
-    <td style="border: 1px solid black;">01.01.2026</td>
+    <td style="border: 1px solid black;">01.01.2026 - Nouveau</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Mise à jour:</th>
-    <td style="border: 1px solid black;">Nouveau</td>
+    <th style="border: 1px solid black;">mise à jour</th>
+    <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -543,11 +543,11 @@ Le fait qu'il s'agisse d'une infection d'origine bactérienne ne justifie pas au
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé</th>
-    <td style="border: 1px solid black;">01.01.2026</td>
+    <td style="border: 1px solid black;">01.01.2026 - Nouveau</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Mise à jour:</th>
-    <td style="border: 1px solid black;">Nouveau</td>
+    <th style="border: 1px solid black;">mise à jour</th>
+    <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -595,8 +595,8 @@ La tachyarythmie / tachycardie ne doit pas être codée en plus de la fibrillati
     <td style="border: 1px solid black;">01/01/2026 / Base Circulaire 2025/2: 0785</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Mise à jour:</th>
-    <td style="border: 1px solid black;">Nouveau</td>
+    <th style="border: 1px solid black;">mise à jour</th>
+    <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>

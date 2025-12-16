@@ -507,7 +507,7 @@ Il codice 51.99.90 <i>Altri interventi endoscopici sulle vie biliari</i>, come i
   </tr>
   <tr>
     <th style="border: 1px solid black;">CHOP</th>
-    <td style="border: 1px solid black;">81.54.2-; 81.54.3-; 81.54.4-</td>
+    <td style="border: 1px solid black;">81.54.2- / 81.54.3- / 81.54.4-</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Regola di codifica</th>
@@ -574,7 +574,7 @@ La seguente tabella precisa l’utilizzo del codice e del codice supplementare p
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Parola chiave</th>
-    <td style="border: 1px solid black;">Marcatura della lateralità / organi appaiati / organi non appaiati</td>
+    <td style="border: 1px solid black;">Marcatura della lateralità / organi pari / organi non pari</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Creato</th>
@@ -690,7 +690,7 @@ Nei gruppi di elementi 99.84.1- <i>Isolamento da contatto, secondo il numero di 
     {{</grid/column>}}
     {{<grid/column>}}
         {{<markdown>}}
-«esclusione Omettere il codice - Trattamento complesso per colonizzazione o infezione da agenti multiresistenti, secondo il numero di giorni di trattamento (93.59.5-)».
+ESCL. «Omettere il codice - Trattamento complesso per colonizzazione o infezione da agenti multiresistenti, secondo il numero di giorni di trattamento (93.59.5-)».
         {{</markdown>}}
     {{</grid/column>}}
 {{</grid>}}

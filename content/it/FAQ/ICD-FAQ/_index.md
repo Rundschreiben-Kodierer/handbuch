@@ -23,19 +23,19 @@ keywords: []
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Parola chiave</th>
-    <td style="border: 1px solid black;">Atelettasia parziale/atelettasia totale</td>
+    <td style="border: 1px solid black;">Atelettasia parzial / atelettasia totale</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Creato</th>
-    <td style="border: 1px solid black;">01.01.2026</td>
+    <td style="border: 1px solid black;">01.01.2026 - Nuovo</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aggiornato</th>
-    <td style="border: 1px solid black;">Nuovo</td>
+    <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
-    <td style="border: 1px solid black;">J98.11/J98.12</td>
+    <td style="border: 1px solid black;">J98.11 / J98.12</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">CHOP</th>
@@ -78,11 +78,11 @@ La mancanza di ventilazione di parti del polmone (segmenti polmonari, lobi polmo
   </tr>
   <tr>
     <th style="border: 1px solid black;">Creato</th>
-    <td style="border: 1px solid black;">01.01.2026</td>
+    <td style="border: 1px solid black;">01.01.2026 - Nuovo</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aggiornato</th>
-    <td style="border: 1px solid black;">Nuovo</td>
+    <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -120,7 +120,7 @@ Le endoleak di **tipo IV** si verificano quando il sangue fuoriesce a causa dell
 Un endoleak di **tipo V** è anche denominato endotensione. In questo caso si osserva una continua espansione della sacca dell'aneurisma > 5 mm senza endoleak dimostrabile.      
   
 **Raccomandazione di codifica:**  
-**Tipo 1**: codice: T82.5 *Complicanza meccanica di altri dispositivi ed impianti cardiaci e vascolar*
+**Tipo I**: codice: T82.5 *Complicanza meccanica di altri dispositivi ed impianti cardiaci e vascolar*
   
 **Tipo IIa/ IIb**: Codice: I71.- *Aneurisma e dissezione dell’aorta (poiché non si tratta di una complicanza dell'innesto)*
   
@@ -145,11 +145,11 @@ Un endoleak di **tipo V** è anche denominato endotensione. In questo caso si os
   </tr>
   <tr>
     <th style="border: 1px solid black;">Creato</th>
-    <td style="border: 1px solid black;">01.01.2026</td>
+    <td style="border: 1px solid black;">01.01.2026 - Nuovo</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aggiornato</th>
-    <td style="border: 1px solid black;">Nuovo</td>
+    <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -194,11 +194,11 @@ Se nel tessuto circostante sono presenti anche componenti dell'echinococco che p
   </tr>
   <tr>
     <th style="border: 1px solid black;">Creato</th>
-    <td style="border: 1px solid black;">01.01.2026</td>
+    <td style="border: 1px solid black;">01.01.2026 - Nuovo</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aggiornato</th>
-    <td style="border: 1px solid black;">Nuovo</td>
+    <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -218,15 +218,14 @@ Se nel tessuto circostante sono presenti anche componenti dell'echinococco che p
 Come viene registrata una stenosi carotidea bilaterale? Come vengono registrate le stenosi unilaterali o bilaterali delle arterie precerebrali?
 <br><br>
 <b>Problema/Spiegazione:</b><br>
-<b>Spiegazione:</b><br>
 In linea di principio vale quanto segue: occorre sempre scegliere il codice ICD più specifico che descriva con maggiore precisione la diagnosi documentata.
 <body>
     <ul>
         <li><b>L'occlusione bilaterale di una singola arteria precerebrale</b> (ad es. arteria carotide) viene codificata con il codice specifico <b>I65.-</b> indicando la lateralità.<br>
 <b>Esempio</b> : occlusione / stenosi bilaterale dell'arteria carotide → <b>I65.2</b> <i>Occlusione e stenosi dell’arteria carotidea.</i> 
 </li>
-        <li><b>L'occlusione / stenosi di più arterie precerebrali diverse</b> viene codificata con il codice <b>I65.3</b>:<br>
-<b>Esempio:</b>stenosi unilaterale o bilaterale dell'arteria vertebrale nonche stenosi unilaterale o bilaterale dell'arteria carotide interna → <b>I65.3</b><i> Occlusione e stenosi di arterie extracraniche multiple e bilaterali L = R, L o B.</i>
+        <li><b>L'occlusione / stenosi di più arterie precerebrali diverse</b> viene codificata con il codice <b>I65.3</b>.<br>
+<b>Esempio:</b> stenosi unilaterale o bilaterale dell'arteria vertebrale nonche stenosi unilaterale o bilaterale dell'arteria carotide interna → <b>I65.3</b><i> Occlusione e stenosi di arterie extracraniche multiple e bilaterali L = R, L o B.</i>
 </li>
     </ul>
 </body>
@@ -245,11 +244,11 @@ In linea di principio vale quanto segue: occorre sempre scegliere il codice ICD 
   </tr>
   <tr>
     <th style="border: 1px solid black;">Creato</th>
-    <td style="border: 1px solid black;">01.01.2026</td>
+    <td style="border: 1px solid black;">01.01.2026 / Base Circolare 2022/1: 0793</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aggiornato</th>
-    <td style="border: 1px solid black;">01.01.2022 / Base Circolare 2022/1:  0793</td>
+    <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -293,11 +292,11 @@ Questa registrazione consente di distinguere l'ulcera ipertensiva da altri tipi 
   </tr>
   <tr>
     <th style="border: 1px solid black;">Creato</th>
-    <td style="border: 1px solid black;">01.01.2026</td>
+    <td style="border: 1px solid black;">01.01.2026 - Nuovo</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aggiornato</th>
-    <td style="border: 1px solid black;">Nuovo</td>
+    <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -341,11 +340,11 @@ In caso di Zoster [herpes zoster] con manifestazione nell'area di innervazione d
   </tr>
   <tr>
     <th style="border: 1px solid black;">Creato</th>
-    <td style="border: 1px solid black;">01.01.2026</td>
+    <td style="border: 1px solid black;">01.01.2026 - Nuovo</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aggiornato</th>
-    <td style="border: 1px solid black;">Nuovo</td>
+    <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -394,11 +393,11 @@ Se i disturbi o la dispnea sono adeguatamente documentati, i codici I50.12 – I
   </tr>
   <tr>
     <th style="border: 1px solid black;">Creato</th>
-    <td style="border: 1px solid black;">01.01.2026</td>
+    <td style="border: 1px solid black;">01.01.2026 - Nuovo</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aggiornato</th>
-    <td style="border: 1px solid black;">Nuovo</td>
+    <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -448,11 +447,11 @@ Fino al momento in cui non siano disponibili tre test di tampone negativi consec
   </tr>
   <tr>
     <th style="border: 1px solid black;">Creato</th>
-    <td style="border: 1px solid black;">01.01.2026</td>
+    <td style="border: 1px solid black;">01.01.2026 - Nuovo</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aggiornato</th>
-    <td style="border: 1px solid black;">Nuovo</td>
+    <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -499,11 +498,11 @@ Inoltre, per indicare chiaramente la localizzazione, deve essere inserito un cod
   </tr>
   <tr>
     <th style="border: 1px solid black;">Creato</th>
-    <td style="border: 1px solid black;">01.01.2026</td>
+    <td style="border: 1px solid black;">01.01.2026 - Nuovo</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aggiornato</th>
-    <td style="border: 1px solid black;">Nuovo</td>
+    <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -555,11 +554,11 @@ Il fatto che si tratti di un'infezione di origine batterica non giustifica autom
   </tr>
   <tr>
     <th style="border: 1px solid black;">Creato</th>
-    <td style="border: 1px solid black;">01.01.2026</td>
+    <td style="border: 1px solid black;">01.01.2026 - Nuovo</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aggiornato</th>
-    <td style="border: 1px solid black;">Nuovo</td>
+    <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -611,7 +610,7 @@ La tachiaritmia / tachicardia non deve essere codificata in aggiunta alla fibril
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aggiornato</th>
-    <td style="border: 1px solid black;">Nuovo</td>
+    <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>

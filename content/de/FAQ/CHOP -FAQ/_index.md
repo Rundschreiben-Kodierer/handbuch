@@ -505,7 +505,7 @@ Der Kode 51.99.90 <i>Sonstige endoskopische Operationen an den Gallenwegen</i>, 
   </tr>
   <tr>
     <th style="border: 1px solid black;">CHOP</th>
-    <td style="border: 1px solid black;">81.54.2-; 81.54.3-; 81.54.4-</td>
+    <td style="border: 1px solid black;">81.54.2- / 81.54.3- / 81.54.4-</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Kodierregel</th>
