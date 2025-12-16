@@ -495,10 +495,10 @@ Seul l'extrait correspondant à la version française est reproduit ici.
 <table class="MsoTableGrid" style="width: 1204px; border-collapse: collapse; border: none;" border="1" width="840" cellspacing="0" cellpadding="0">
 <tbody>
 <tr style="mso-yfti-irow: 0; mso-yfti-firstrow: yes; height: 53.8pt;">
-<td style="width: 101.859px; border: 1pt solid windowtext; background: #f4b084; padding: 0cm 5.4pt; height: 53.8pt;" valign="top" width="76">
+<td style="width: 101.859px; border: 1pt solid windowtext; background: #f4b084; padding: 0cm 5.4pt; height: 53.8pt;" valign="top" width="100">
 <p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><strong><span lang="EN-US" style="font-size: 8.0pt; color: black; mso-color-alt: windowtext; mso-ansi-language: EN-US; mso-fareast-language: DE-CH;">Date and subregister number</span></strong></p>
 </td>
-<td style="width: 89.7344px; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; background: #f4b084; padding: 0cm 5.4pt; height: 53.8pt;" valign="top" width="73">
+<td style="width: 89.7344px; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; background: #f4b084; padding: 0cm 5.4pt; height: 53.8pt;" valign="top" width="100">
 <p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><strong><span lang="EN-GB" style="font-size: 8.0pt; color: black; mso-color-alt: windowtext; mso-ansi-language: EN-GB; mso-fareast-language: DE-CH;">Line number for the subregister</span></strong></span></p>
 </td>
 <td style="width: 47.4219px; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; background: #f4b084; padding: 0cm 5.4pt; height: 53.8pt;" valign="top" width="50">
