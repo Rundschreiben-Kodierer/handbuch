@@ -293,6 +293,6 @@ Nella tabella ciò è indicato come segue. La tabella contiene il confronto dell
 
 <br>
 <br>
-{{<insertImage image="ActualisationCHOPIT.JPG" class="edge max-w-90">}}
+{{<insertImage image="ActualisationCHOPIT.jpg" class="edge max-w-90">}}
 <br>
 <br>

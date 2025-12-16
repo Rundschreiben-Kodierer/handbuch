@@ -299,7 +299,7 @@ Seul l'extrait correspondant à la version française est reproduit ici.
 
 <br>
 <br>
-{{<insertImage image="ActualisationCHOPFR.JPG" class="edge max-w-90">}}
+{{<insertImage image="ActualisationCHOPFR.jpg" class="edge max-w-90">}}
 <br>
 <br>
 
