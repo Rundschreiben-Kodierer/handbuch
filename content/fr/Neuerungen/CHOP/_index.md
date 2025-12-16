@@ -289,6 +289,7 @@ Auparavant, au chapitre 3, Informations complémentaires à la CHOP, dans le fic
 {{<markdown>}}
 Dans le tableau, cela est indiqué comme suit. Le tableau contient la comparaison des corrections dans les trois langues.  
 Seul l'extrait correspondant à la version française est reproduit ici.
+{{</markdown>}}
 
 
   <table class="MsoTableGrid" style="width: 1043px; border-collapse: collapse; border: none;" border="1" width="840" cellspacing="0" cellpadding="0">
