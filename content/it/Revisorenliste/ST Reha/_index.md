@@ -45,7 +45,7 @@ keywords: []
       <td class="tg-1wig">Cognome</td>
       <td class="tg-dgl5">Nome</td>
       <td class="tg-dgl5">Indirizzo</td>
-      <td class="tg-dgl5">Informazioni di contatto</td>
+      <td class="tg-dgl5">E-mail</td>
       <td class="tg-dgl5">Tel.</td>
       <td class="tg-dgl5">Lingua/e di revisione</td>
       <td class="tg-dgl5">Attestato professionale federale di specialista in codifica medica // <br>certificato di equivalenza</td>
@@ -95,7 +95,7 @@ keywords: []
     <td class="tg-z182"><a href="mailto:cinzia.allocco@nicecomputing.ch">cinzia.allocco@nicecomputing.ch</a></td>
     <td class="tg-ktyi">079 723 04 17</td>
     <td class="tg-ktyi">Français<br>Italien</td>
-    <td class="tg-ktyi">Confirmé //bestätigt</td>
+    <td class="tg-ktyi">Confirmé // bestätigt</td>
     <td class="tg-0lax">Oui</td>
     <td class="tg-0lax"> </td>
     <td class="tg-ktyi">Suisse romandeTessin</td>
@@ -110,7 +110,7 @@ keywords: []
     <td class="tg-z182"><a href="mailto:suematt@bluewin.ch">suematt@bluewin.ch</a></td>
     <td class="tg-ktyi">077 430 02 72</td>
     <td class="tg-ktyi">Deutsch</td>
-    <td class="tg-ktyi">Confirmé //bestätigt</td>
+    <td class="tg-ktyi">Confirmé // bestätigt</td>
     <td class="tg-0lax">Oui</td>
     <td class="tg-0lax"> </td>
     <td class="tg-ktyi">Deutschschweiz </td>
@@ -306,7 +306,7 @@ keywords: []
     <td class="tg-z182"><a href="mailto:leonardo.narda@hotmail.com">leonardo.narda@hotmail.com</a><br><a href="mailto:mail@ln-revision.ch">mail@ln-revision.ch </a></td>
     <td class="tg-0lax">076 384 82 47</td>
     <td class="tg-ktyi">Deutsch<br>Italienisch <br>Französisch</td>
-    <td class="tg-0lax">Confirmé //bestätigt</td>
+    <td class="tg-0lax">Confirmé // bestätigt</td>
     <td class="tg-0lax">Oui</td>
     <td class="tg-0lax"> </td>
     <td class="tg-0lax">Ganze Schweiz</td>

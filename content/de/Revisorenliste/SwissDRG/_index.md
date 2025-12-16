@@ -41,7 +41,7 @@ keywords: []
       <td class="tg-1wig">Name</td>
       <td class="tg-dgl5">Vorname</td>
       <td class="tg-dgl5">Adresse</td>
-      <td class="tg-dgl5">Email</td>
+      <td class="tg-dgl5">E-Mail</td>
       <td class="tg-dgl5">Telefon</td>
       <td class="tg-dgl5">Revisionssprache(n)</td>
       <td class="tg-dgl5">Eidgenössische Fachausweis für Medizinische Kodiererinnen / Medizinische Kodierer //<br>Gleichwertigkeitsbescheinigung</td>

@@ -10,7 +10,7 @@ keywords: []
 
 Le chapitre «Actualisations de la CIM-10-GM» contient toutes les actualisations des éditions en français et en italien de la version indiquée de la classification statistique internationale des maladies et des problèmes de santé connexes, 10e révision, German modification.
   
-Les nouveautés concernant l’édition allemande sont disponibles sur le site Internet du «Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM)» en Allemagne. L’OFS informe de l'entrée en vigueur des éventuelles actualisations des index systématiques et alphabétiques en Suisse (date de reprise des adaptations communiquées par le BfArM).
+Les nouveautés concernant l’édition allemande sont disponibles sur le site Internet du «Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM)» https://www.bfarm.de/DE/Kodiersysteme/Klassifikationen/ICD/_node.html en Allemagne. L’OFS informe de l'entrée en vigueur des éventuelles actualisations des index systématiques et alphabétiques en Suisse (date de reprise des adaptations communiquées par le BfArM).
   
 Pour chaque version de la classification, des registres sont créés avec la date d’entrée en vigueur.
 Les actualisations sont regroupées par thème et numérotées.

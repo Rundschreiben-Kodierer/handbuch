@@ -41,7 +41,7 @@ I noti **cicli di pubblicazione** semestrali **delle precedenti circolari n. 1 e
   
 Sotto ogni capitolo sono indicati **l’anno di pubblicazione e la data di inizio della validità** dei contenuti in esso riportati, in modo che sia sempre possibile ricostruire chiaramente la cronologia delle modifiche e delle integrazioni.
   
-I registri con indicazione "Ø None" contengono aggiornamenti.
+I registri con l'indicazione "Ø None" non contengono aggiornamenti.
   
   
 **Capitolo «Aggiornamenti della CHOP»**<br>

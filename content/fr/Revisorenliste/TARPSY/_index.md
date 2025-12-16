@@ -45,7 +45,7 @@ keywords: []
       <td class="tg-1wig">Nom</td>
       <td class="tg-dgl5">Prénom</td>
       <td class="tg-dgl5">Adresse</td>
-      <td class="tg-dgl5">Contacts</td>
+      <td class="tg-dgl5">Email</td>
       <td class="tg-dgl5">Tél.</td>
       <td class="tg-dgl5">Langue(s) de révision</td>
       <td class="tg-dgl5">Brevet fédéral de spécialiste en codage médical //<br>Preuve d’équivalence</td>

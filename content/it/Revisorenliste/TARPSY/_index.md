@@ -45,7 +45,7 @@ keywords: []
       <td class="tg-1wig">Cognome</td>
       <td class="tg-dgl5">Nome</td>
       <td class="tg-dgl5">Indirizzo</td>
-      <td class="tg-dgl5">Informazioni di contatto</td>
+      <td class="tg-dgl5">E-mail</td>
       <td class="tg-dgl5">Tel.</td>
       <td class="tg-dgl5">Lingua/e di revisione</td>
       <td class="tg-dgl5">Attestato professionale federale di specialista in codifica medica // <br>certificato di equivalenza</td>

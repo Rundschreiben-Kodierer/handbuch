@@ -281,7 +281,7 @@ Nella tabella sono presenti le seguenti colonne:
 
 In precedenza, nel capitolo 3, Informazioni supplementari sulla CHOP, nel file PDF della circolare era riportata una modifica o una correzione relativa a una versione CHOP come segue.  
 {{<markdown>}}Legenda: <font color="green">Novità in verde / </font>, <font color="red">~~Cancellazioni in rosso~~</font>
-  {{</markdown>}}  
+  {{</markdown>}}  <br>
 **Sottoregistro n. 3.1 Titolo**
   
     

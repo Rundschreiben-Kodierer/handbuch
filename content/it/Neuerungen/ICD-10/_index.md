@@ -8,11 +8,11 @@ keywords: []
 ---
 <p style="text-align: right;">{{<printButton>}}
 
-Il capitolo «Aggiornamenti dell’ICD-10-GM» contiene tutti gli aggiornamenti relativi alle edizioni in lingua francese e italiana della versione indicata della classificazione statistica internazionale delle malattie e dei problemi sanitari correlati, 10a revisione, German Modification.
+Il capitolo «Aggiornamenti dell’ICD-10-GM» contiene tutti gli aggiornamenti relativi alle edizioni in lingua francese e italiana della versione indicata della classificazione statistica internazionale delle malattie e dei problemi sanitari correlati, 10. revisione, German Modification.
   
-Le novità relative all’edizione in lingua tedesca sono disponibili sul sito web del «Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM)». L’UST informa in merito all’entrata in vigore di eventuali aggiornamenti degli indici sistematici e alfabetici in Svizzera (data di recepimento delle modifiche comunicate dal BfArM).
+Le novità relative all’edizione in lingua tedesca sono disponibili sul sito web del «Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM)» https://www.bfarm.de/DE/Kodiersysteme/Klassifikationen/ICD/_node.html. L’UST informa in merito all’entrata in vigore di eventuali aggiornamenti degli indici sistematici e alfabetici in Svizzera (data di recepimento delle modifiche comunicate dal BfArM).
   
-Per ogni versione della classificazione vengono creati registri con la data di entrata in vigore.
+Per ogni versione della classificazione vengono creati registri con la data di entrata in vigore.<br>
 Gli aggiornamenti sono raggruppati per argomento e numerati in ordine progressivo.
 Sono indicati in ordine crescente in base al numero di codice.
 Se un argomento di modifica/correzione riguarda più codici, la classificazione avviene in base al primo codice principalmente interessato.

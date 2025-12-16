@@ -41,7 +41,7 @@ keywords: []
       <td class="tg-1wig">Cognome</td>
       <td class="tg-dgl5">Nome</td>
       <td class="tg-dgl5">Indirizzo</td>
-      <td class="tg-dgl5">Informazioni di contatto</td>
+      <td class="tg-dgl5">E-mail</td>
       <td class="tg-dgl5">Tel.</td>
       <td class="tg-dgl5">Lingua/e di revisione</td>
       <td class="tg-dgl5">Attestato professionale federale di specialista in codifica medica // <br>certificato di equivalenza</td>
@@ -89,9 +89,9 @@ keywords: []
     <td class="tg-v47d"><a href="mailto:isabelle.abram@hug.ch">isabelle.abram@hug.ch</a></td>
     <td class="tg-ktyi">079 553 74 84</dh>
     <td class="tg-ktyi">Français</td>
-    <td class="tg-0lax">Confirmé //bestätigt</td>
+    <td class="tg-0lax">Confirmé // bestätigt</td>
     <td class="tg-ktyi">Suisse romande</td>
-    <td class="tg-ktyi">Confirmé //bestätigt</td>
+    <td class="tg-ktyi">Confirmé // bestätigt</td>
     <td class="tg-ktyi">21.10.2025</td>
   </tr>
   <tr>
@@ -101,9 +101,9 @@ keywords: []
     <td class="tg-v47d"><a href="mailto:aglaja.aeschimann@nicecomputing.ch">aglaja.aeschimann@nicecomputing.ch</a></td>
     <td class="tg-ktyi">078 718 93 94</dh>
     <td class="tg-ktyi">Deutsch</td>
-    <td class="tg-0lax">Confirmé //bestätigt</td>
+    <td class="tg-0lax">Confirmé // bestätigt</td>
     <td class="tg-ktyi"></td>
-    <td class="tg-ktyi">Confirmé //bestätigt</td>
+    <td class="tg-ktyi">Confirmé // bestätigt</td>
     <td class="tg-ktyi">11.11.2025</td>
   </tr>
   <tr>
@@ -113,9 +113,9 @@ keywords: []
     <td class="tg-v47d"><a href="mailto:aggeler@medizincontrolling.ch">aggeler@medizincontrolling.ch</a></td>
     <td class="tg-ktyi">079 793 36 40</dh>
     <td class="tg-ktyi">Deutsch</td>
-    <td class="tg-0lax">Confirmé //bestätigt</td>
+    <td class="tg-0lax">Confirmé // bestätigt</td>
     <td class="tg-ktyi">Deutschschweiz </td>
-    <td class="tg-ktyi">Confirmé //bestätigt</td>
+    <td class="tg-ktyi">Confirmé // bestätigt</td>
     <td class="tg-ktyi">09.10.2024</td>
   </tr>
   <tr>
@@ -497,7 +497,7 @@ keywords: []
     <td class="tg-v47d"><a href="mailto:glisic@medizincontrolling.ch">glisic@medizincontrolling.ch</a></td>
     <td class="tg-ktyi">076 608 84 89</td>
     <td class="tg-0lax">Deutsch</td>
-    <td class="tg-0lax">Confirmé //bestätigt</td>
+    <td class="tg-0lax">Confirmé // bestätigt</td>
     <td class="tg-ktyi">Deutschschweiz</td>
     <td class="tg-ktyi">Confirmé // bestätigt</td>
     <td class="tg-ktyi">22.10.2024</td>
@@ -653,7 +653,7 @@ keywords: []
     <td class="tg-v47d"><a href="mailto:jenny.jacobs@gmx.ch">jenny.jacobs@gmx.ch</a></td>
     <td class="tg-ktyi">078 883 72 73</td>
     <td class="tg-ktyi">Deutsch</td>
-    <td class="tg-0lax">Confirmé //bestätigt</td>
+    <td class="tg-0lax">Confirmé // bestätigt</td>
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Confirme //bestätigt </td>
     <td class="tg-ktyi">01.12.2015</td>
