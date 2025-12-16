@@ -492,7 +492,7 @@ Seul l'extrait correspondant à la version française est reproduit ici.
 <br><br><br><br>
 
 
-<table class="MsoTableGrid" style="width: 1204px; border-collapse: collapse; border: none;" border="1" width="840" cellspacing="0" cellpadding="0">
+<table class="MsoTableGrid" style="width: 1204px; border-collapse: collapse; border: none;" border="1" width="1200" cellspacing="0" cellpadding="0">
 <tbody>
 <tr style="mso-yfti-irow: 0; mso-yfti-firstrow: yes; height: 53.8pt;">
 <td style="width: 101.859px; border: 1pt solid windowtext; background: #f4b084; padding: 0cm 5.4pt; height: 53.8pt;" valign="top" width="100">
