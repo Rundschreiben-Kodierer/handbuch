@@ -31,7 +31,7 @@ keywords: []
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aktualisiert</th>
-    <td style="border: 1px solid black;"></td>
+    <td style="border: 1px solid black;">Neu</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -83,7 +83,7 @@ Die fehlende Belüftung von Teilabschnitten der Lunge (Lungensegmenten, Lungenla
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aktualisiert</th>
-    <td style="border: 1px solid black;"></td>
+    <td style="border: 1px solid black;">Neu</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -150,7 +150,7 @@ Ein Endoleak **Typ V** wird auch als Endotension bezeichnet. In diesem Fall zeig
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aktualisiert</th>
-    <td style="border: 1px solid black;"></td>
+    <td style="border: 1px solid black;">Neu</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -201,7 +201,7 @@ Finden sich auch im umliegenden Gewebe Echinokokkusbestandteile und dadurch herv
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aktualisiert</th>
-    <td style="border: 1px solid black;"></td>
+    <td style="border: 1px solid black;">Neu</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -302,7 +302,7 @@ Durch diese Erfassung kann das Ulcus hypertonicum von anderen Ulcus cruris-Arten
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aktualisiert</th>
-    <td style="border: 1px solid black;"></td>
+    <td style="border: 1px solid black;">Neu</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -353,7 +353,7 @@ Bei einem Herpes zoster mit Manifestation im Innervationsgebiet des 1. Trigeminu
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aktualisiert</th>
-    <td style="border: 1px solid black;"></td>
+    <td style="border: 1px solid black;">Neu</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -407,7 +407,7 @@ Bei entsprechender Dokumentation der Beschwerden/ Dyspnoe, können die Kodes I50
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aktualisiert</th>
-    <td style="border: 1px solid black;"></td>
+    <td style="border: 1px solid black;">Neu</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -461,7 +461,7 @@ Bis zum Zeitpunkt, an dem drei hintereinander negative Abstrich-Tests pro Lokali
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aktualisiert</th>
-    <td style="border: 1px solid black;"></td>
+    <td style="border: 1px solid black;">Neu</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -511,7 +511,7 @@ Zusätzlich soll ein Kode der ICD-10-GM 2024 Kodegruppe M49.5-* <i>Wirbelkörper
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aktualisiert</th>
-    <td style="border: 1px solid black;"></td>
+    <td style="border: 1px solid black;">Neu</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -565,7 +565,7 @@ Die Tatsache, dass es sich um einen Infekt bakteriellen Ursprungs handelt, berec
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aktualisiert</th>
-    <td style="border: 1px solid black;"></td>
+    <td style="border: 1px solid black;">Neu</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -617,7 +617,7 @@ Die Tachyarrhythmie / Tachykardie ist bei Vorhofflimmern nicht zusätzlich zu ko
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aktualisiert</th>
-    <td style="border: 1px solid black;"></td>
+    <td style="border: 1px solid black;">Neu</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>

@@ -31,7 +31,7 @@ keywords: []
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
-    <td style="border: 1px solid black;"></td>
+    <td style="border: 1px solid black;">Nouveau</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -83,7 +83,7 @@ L'absence de ventilation de certaines parties du poumon (segments pulmonaires, l
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
-    <td style="border: 1px solid black;"></td>
+    <td style="border: 1px solid black;">Nouveau</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -150,7 +150,7 @@ Une endofuite de **type V** est également appelée endotension. Dans ce cas, on
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
-    <td style="border: 1px solid black;"></td>
+    <td style="border: 1px solid black;">Nouveau</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -201,7 +201,7 @@ Si des composants d'Echinococcus sont également présents dans les tissus envir
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
-    <td style="border: 1px solid black;"></td>
+    <td style="border: 1px solid black;">Nouveau</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -299,7 +299,7 @@ Cette classification permet de distinguer l'ulcère hypertonique des autres type
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
-    <td style="border: 1px solid black;"></td>
+    <td style="border: 1px solid black;">Nouveau</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -345,7 +345,7 @@ Un herpès zoster se manifestant dans la zone d'innervation de la première bran
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
-    <td style="border: 1px solid black;"></td>
+    <td style="border: 1px solid black;">Nouveau</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -394,7 +394,7 @@ Si les symptômes/la dyspnée sont documentés de manière appropriée, les code
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
-    <td style="border: 1px solid black;"></td>
+    <td style="border: 1px solid black;">Nouveau</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -446,7 +446,7 @@ Jusqu’au moment où trois tests de dépistage négatifs consécutifs par local
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
-    <td style="border: 1px solid black;"></td>
+    <td style="border: 1px solid black;">Nouveau</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -494,7 +494,7 @@ En complément, un code du groupe CIM-10-GM 2024 M49.5-* <i>Tassement vertébral
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
-    <td style="border: 1px solid black;"></td>
+    <td style="border: 1px solid black;">Nouveau</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -547,7 +547,7 @@ Le fait qu'il s'agisse d'une infection d'origine bactérienne ne justifie pas au
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
-    <td style="border: 1px solid black;"></td>
+    <td style="border: 1px solid black;">Nouveau</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -596,7 +596,7 @@ La tachyarythmie / tachycardie ne doit pas être codée en plus de la fibrillati
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
-    <td style="border: 1px solid black;"></td>
+    <td style="border: 1px solid black;">Nouveau</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>

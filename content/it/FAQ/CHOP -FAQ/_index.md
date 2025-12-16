@@ -495,7 +495,7 @@ Il codice 51.99.90 <i>Altri interventi endoscopici sulle vie biliari</i>, come i
   </tr>
   <tr>
     <th style="border: 1px solid black;">Creato</th>
-    <td style="border: 1px solid black;">01.01.2026 – Base RS 2025/2: 0808</td>
+    <td style="border: 1px solid black;">01.01.2026 – Base Circolare 2025/2: 0808</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aggiornato</th>
@@ -800,7 +800,7 @@ I codici «[…], fino a 6 giorni di trattamento» vanno utilizzati nei casi in 
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aggiornato</th>
-    <td style="border: 1px solid black;"></td>
+    <td style="border: 1px solid black;">Nuovo</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>

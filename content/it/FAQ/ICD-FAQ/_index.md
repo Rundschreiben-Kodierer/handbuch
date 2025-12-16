@@ -31,7 +31,7 @@ keywords: []
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aggiornato</th>
-    <td style="border: 1px solid black;"></td>
+    <td style="border: 1px solid black;">Nuovo</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -82,7 +82,7 @@ La mancanza di ventilazione di parti del polmone (segmenti polmonari, lobi polmo
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aggiornato</th>
-    <td style="border: 1px solid black;"></td>
+    <td style="border: 1px solid black;">Nuovo</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -149,7 +149,7 @@ Un endoleak di **tipo V** è anche denominato endotensione. In questo caso si os
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aggiornato</th>
-    <td style="border: 1px solid black;"></td>
+    <td style="border: 1px solid black;">Nuovo</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -198,7 +198,7 @@ Se nel tessuto circostante sono presenti anche componenti dell'echinococco che p
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aggiornato</th>
-    <td style="border: 1px solid black;"></td>
+    <td style="border: 1px solid black;">Nuovo</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -297,7 +297,7 @@ Questa registrazione consente di distinguere l'ulcera ipertensiva da altri tipi 
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aggiornato</th>
-    <td style="border: 1px solid black;"></td>
+    <td style="border: 1px solid black;">Nuovo</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -345,7 +345,7 @@ In caso di Zoster [herpes zoster] con manifestazione nell'area di innervazione d
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aggiornato</th>
-    <td style="border: 1px solid black;"></td>
+    <td style="border: 1px solid black;">Nuovo</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -398,7 +398,7 @@ Se i disturbi o la dispnea sono adeguatamente documentati, i codici I50.12 – I
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aggiornato</th>
-    <td style="border: 1px solid black;"></td>
+    <td style="border: 1px solid black;">Nuovo</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -452,7 +452,7 @@ Fino al momento in cui non siano disponibili tre test di tampone negativi consec
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aggiornato</th>
-    <td style="border: 1px solid black;"></td>
+    <td style="border: 1px solid black;">Nuovo</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -503,7 +503,7 @@ Inoltre, per indicare chiaramente la localizzazione, deve essere inserito un cod
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aggiornato</th>
-    <td style="border: 1px solid black;"></td>
+    <td style="border: 1px solid black;">Nuovo</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -559,7 +559,7 @@ Il fatto che si tratti di un'infezione di origine batterica non giustifica autom
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aggiornato</th>
-    <td style="border: 1px solid black;"></td>
+    <td style="border: 1px solid black;">Nuovo</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -611,7 +611,7 @@ La tachiaritmia / tachicardia non deve essere codificata in aggiunta alla fibril
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aggiornato</th>
-    <td style="border: 1px solid black;"></td>
+    <td style="border: 1px solid black;">Nuovo</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
