@@ -32,8 +32,8 @@ Jede FAQ/Klarstellung enthält:
         <li>ein Feld <b>«Aktualisiert»</b>, in dem das Datum der letzten inhaltlichen Anpassung ausgewiesen wird.</li>
     </ul>
 </body>
-Mit der Einführung der Onlineschaltung des Kapitels «FAQ/Klarstellungen» wurde bei **allen FAQ/Klarstellungen das Erstellungsdatum auf den 01.01.2026 angepasst**.  
-Bei den FAQ/Klarstellungen, die aus **dem Anhang des letzten Rundschreibens 2025/2** übernommen und migriert wurden, findet sich **nebst dem neuen Erstellungsdatum zusätzlich ein Verweis auf die jeweilige Nummer der Präzisierung des ehemaligen Kapitels 5**.
+Mit der Einführung der Onlineschaltung des Kapitels «FAQ/Klarstellungen» wurde bei <b>allen FAQ/Klarstellungen das Erstellungsdatum auf den 01.01.2026 angepasst</b>.  
+Bei den FAQ/Klarstellungen, die aus <b>dem Anhang des letzten Rundschreibens 2025/2</b> übernommen und migriert wurden, findet sich <b>nebst dem neuen Erstellungsdatum zusätzlich ein Verweis auf die jeweilige Nummer der Präzisierung des ehemaligen Kapitels 5</b>.
   
 Die Aktualisierung/Anpassung erfolgt im Halbjahreszyklus jeweils Ende Juni und Ende Dezember – zusammen mit der Aktualisierung zu den Publikationen.
   

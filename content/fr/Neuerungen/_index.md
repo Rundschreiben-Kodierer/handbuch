@@ -17,7 +17,7 @@ Le domaine Classifications médicales de l'Office fédéral de la statistique (O
   
 Avec le transfert des contenus vers le site Internet, la circulaire sous sa forme actuelle disparaîtra. Il sera toujours possible de télécharger les contenus du site Internet sous forme de fichiers PDF.
   
-Les **cycles de publication** semestriels connus **des circulaires n° 1 et n° 2** restent inchangés pour l'instant. La **structure** des chapitres est toutefois modifiée. À l'avenir, les contenus seront structurés comme suit :
+Les **cycles de publication** semestriels connus **des circulaires n° 1 et n° 2** restent inchangés pour l'instant. La **structure** des chapitres est toutefois modifiée. À l'avenir, les contenus seront structurés comme suit:
 
 
 <ul>  
@@ -50,11 +50,11 @@ Les informations relatives aux actualisations de la CHOP sont désormais disponi
   
   
 **Nouveau chapitre «FAQ/Clarifications»**<br>
-L'ancien chapitre 5 « Annexe » est remplacé par le nouveau chapitre **«FAQ/Précisions»**. À l'avenir, ce chapitre répondra à des questions générales et spécifiques. Le contenu de l'ancienne annexe (chapitre 5) a été transféré dans ce nouveau chapitre, dans la mesure où il est toujours d'actualité.
+L'ancien chapitre 5 «Annexe» est remplacé par le nouveau chapitre **«FAQ/Clarifications»**. À l'avenir, ce chapitre répondra à des questions générales et spécifiques. Le contenu de l'ancienne annexe (chapitre 5) a été transféré dans ce nouveau chapitre, dans la mesure où il est toujours d'actualité.
   
     
 **Fonctions de recherche et d'exportation**<br>
-La version en ligne offre des fonctions supplémentaires :
+La version en ligne offre des fonctions supplémentaires:
 <ul>  
   <li>
   les utilisateurs peuvent <strong>télécharger et imprimer</strong> les contenus sous forme de <strong>fichiers PDF</strong> si nécessaire.
@@ -70,7 +70,7 @@ Toutes les circulaires publiées entre 2009 et 2025 inclus sont toujours disponi
    target="_blank"
    rel="noopener noreferrer">Instruments pour le codage médical | Office fédéral de la statistique - OFS</a>
 
-Grâce à cette évolution numérique, les **mises à jour** des publications sont non seulement modernes et conviviales, mais offrent également des fonctions supplémentaires qui facilitent le travail quotidien des codeurs et améliorent la clarté du contenu.
+Grâce à cette évolution numérique, les **actualisations** des publications sont non seulement modernes et conviviales, mais offrent également des fonctions supplémentaires qui facilitent le travail quotidien des codeurs et améliorent la clarté du contenu.
 
 
 {{</markdown>}}

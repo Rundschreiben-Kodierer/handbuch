@@ -34,13 +34,14 @@ Ogni FAQ/Chiarimento contiene:
         <li>un campo <b>«Aggiornato»</b> in cui è indicata la data dell'ultima modifica del contenuto.</li>
     </ul>
 </body>
-Con l'introduzione della versione online del capitolo «FAQ/Chiarimenti», **la data di creazione di tutte le FAQ/Chiarimenti** è stata **modificata al 01.01.2026**.  
-Per i FAQ/Chiarimenti che sono stati ripresi e migrati **dall'allegato dell'ultima circolare 2025/2, oltre alla nuova data di creazione** è presente **anche un riferimento al numero corrispondente della precisazione del capitolo 5 decaduto**.
+Con l'introduzione della versione online del capitolo «FAQ/Chiarimenti», <b>la data di creazione di tutte le FAQ/Chiarimenti</b> è stata <b>modificata al 01.01.2026</b>.  
+Per i FAQ/Chiarimenti che sono stati ripresi e migrati <b>dall'allegato dell'ultima circolare 2025/2, oltre alla nuova data di creazione</b> è presente <b>anche un riferimento al numero corrispondente della precisazione del capitolo 5 decaduto</b>.
   
 L'aggiornamento/adeguamento avviene con cadenza semestrale, contemporaneamente agli aggiornamenti delle pubblicazioni.
   
 La presentazione è data-gerarchica con la **versione attuale** posta in cima.  
-Le versioni precedenti e non più valide sono elencate a seguire con il periodo di validità («da – a») e sono riportate in **rosso barrato**.
+{{<markdown>}}Le versioni precedenti e non più valide sono elencate a seguire con il periodo di validità («da – a») e sono riportate in <font color="red">rosso barrato</font>.
+{{</markdown>}}
 
 Tutte le FAQ/Chiarimenti pubblicati sul sito web dell'UST rimangono **validi** fino a quando:
 <body>
