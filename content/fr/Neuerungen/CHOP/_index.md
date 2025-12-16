@@ -289,199 +289,200 @@ Auparavant, au chapitre 3, Informations complémentaires à la CHOP, dans le fic
 {{<markdown>}}
 Dans le tableau, cela est indiqué comme suit. Le tableau contient la comparaison des corrections dans les trois langues.  
 Seul l'extrait correspondant à la version française est reproduit ici.
-{{</markdown>}}
-<table class="MsoTableGrid" style="width: 956px; border-collapse: collapse; border: none;" border="1" width="840" cellspacing="0" cellpadding="0">
+
+
+  <table class="MsoTableGrid" style="width: 1043px; border-collapse: collapse; border: none;" border="1" width="840" cellspacing="0" cellpadding="0">
 <tbody>
 <tr style="mso-yfti-irow: 0; mso-yfti-firstrow: yes; height: 53.8pt;">
-<td style="width: 69.0833px; border: 1pt solid windowtext; background: #f4b084; padding: 0cm 5.4pt; height: 53.8pt;" valign="top" width="76">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><a name="_Hlk213061521"></a><strong><span lang="DE-CH" style="font-size: 8.0pt; color: black; mso-color-alt: windowtext; mso-fareast-language: DE-CH;">Date and subregister number</span></strong></p>
+<td style="width: 76.3177px; border: 1pt solid windowtext; background: #f4b084; padding: 0cm 5.4pt; height: 53.8pt;" valign="top" width="76">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><strong><span lang="EN-US" style="font-size: 8.0pt; color: black; mso-color-alt: windowtext; mso-ansi-language: EN-US; mso-fareast-language: DE-CH;">Date and subregister number</span></strong></p>
 </td>
-<td style="width: 64.7395px; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; background: #f4b084; padding: 0cm 5.4pt; height: 53.8pt;" valign="top" width="73">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><strong><span lang="EN-GB" style="font-size: 8.0pt; color: black; mso-color-alt: windowtext; mso-ansi-language: EN-GB; mso-fareast-language: DE-CH;">Line number for the subregister</span></strong></span></p>
+<td style="width: 71.9583px; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; background: #f4b084; padding: 0cm 5.4pt; height: 53.8pt;" valign="top" width="73">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><strong><span lang="EN-GB" style="font-size: 8.0pt; color: black; mso-color-alt: windowtext; mso-ansi-language: EN-GB; mso-fareast-language: DE-CH;">Line number for the subregister</span></strong></span></p>
 </td>
-<td style="width: 43.1614px; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; background: #f4b084; padding: 0cm 5.4pt; height: 53.8pt;" valign="top" width="50">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><strong><span lang="DE-CH" style="font-size: 8.0pt; color: black; mso-color-alt: windowtext; mso-fareast-language: DE-CH;">nbchar</span></strong></span></p>
+<td style="width: 50.3802px; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; background: #f4b084; padding: 0cm 5.4pt; height: 53.8pt;" valign="top" width="50">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><strong><span lang="EN-US" style="font-size: 8.0pt; color: black; mso-color-alt: windowtext; mso-ansi-language: EN-US; mso-fareast-language: DE-CH;">nbchar</span></strong></span></p>
 </td>
-<td style="width: 73.0521px; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; background: #f6ed75; padding: 0cm 5.4pt; height: 53.8pt;" valign="top" width="77">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><strong><span lang="DE-CH" style="font-size: 8.0pt; color: black; mso-color-alt: windowtext; mso-fareast-language: DE-CH;">Modification DE</span></strong></span></p>
+<td style="width: 80.2708px; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; background: #47d459; padding: 0cm 5.4pt; height: 53.8pt;" valign="top" width="77">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><strong><span lang="EN-US" style="font-size: 8.0pt; color: black; mso-color-alt: windowtext; mso-ansi-language: EN-US; mso-fareast-language: DE-CH;">Modification DE</span></strong></span></p>
 </td>
-<td style="width: 71.3645px; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; background: #f4b084; padding: 0cm 5.4pt; height: 53.8pt;" valign="top" width="73">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><strong><span lang="DE-CH" style="font-size: 8.0pt; color: black; mso-color-alt: windowtext; mso-fareast-language: DE-CH;">Zcode</span></strong></span></p>
+<td style="width: 78.5833px; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; background: #f4b084; padding: 0cm 5.4pt; height: 53.8pt;" valign="top" width="73">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><strong><span lang="EN-US" style="font-size: 8.0pt; color: black; mso-color-alt: windowtext; mso-ansi-language: EN-US; mso-fareast-language: DE-CH;">Zcode</span></strong></span></p>
 </td>
-<td style="width: 66.0364px; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; background: #f4b084; padding: 0cm 5.4pt; height: 53.8pt;" valign="top" width="74">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><strong><span lang="DE-CH" style="font-size: 8.0pt; color: black; mso-color-alt: windowtext; mso-fareast-language: DE-CH;">Item / Subregister number</span></strong></span></p>
+<td style="width: 73.2552px; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; background: #f4b084; padding: 0cm 5.4pt; height: 53.8pt;" valign="top" width="74">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><strong><span lang="EN-US" style="font-size: 8.0pt; color: black; mso-color-alt: windowtext; mso-ansi-language: EN-US; mso-fareast-language: DE-CH;">Item / Subregister number</span></strong></span></p>
 </td>
-<td style="width: 74.9114px; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; background: #f6ed75; padding: 0cm 5.4pt; height: 53.8pt;" valign="top" width="81">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><strong><span lang="DE-CH" style="font-size: 8.0pt; color: black; mso-color-alt: windowtext; mso-fareast-language: DE-CH;">Text DE / Subregister title</span></strong></span></p>
+<td style="width: 82.1302px; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; background: #47d459; padding: 0cm 5.4pt; height: 53.8pt;" valign="top" width="81">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><strong><span lang="EN-US" style="font-size: 8.0pt; color: black; mso-color-alt: windowtext; mso-ansi-language: EN-US; mso-fareast-language: DE-CH;">Text DE / Subregister title</span></strong></span></p>
 </td>
-<td style="width: 72.7083px; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; background: #f6ed75; padding: 0cm 5.4pt; height: 53.8pt;" valign="top" width="80">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><strong><span style="font-size: 8.0pt; color: black; mso-color-alt: windowtext; mso-ansi-language: FR-CH; mso-fareast-language: DE-CH;">New Text DE / Comment DE</span></strong></span></p>
+<td style="width: 79.9427px; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; background: #47d459; padding: 0cm 5.4pt; height: 53.8pt;" valign="top" width="80">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><strong><span style="font-size: 8.0pt; color: black; mso-color-alt: windowtext; mso-ansi-language: FR-CH; mso-fareast-language: DE-CH;">New Text DE / Comment DE</span></strong></span></p>
 </td>
-<td style="width: 11.5365px; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; padding: 0cm 5.4pt; height: 53.8pt;" valign="top" width="15">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><strong><span style="font-size: 8.0pt; mso-ansi-language: FR-CH; mso-fareast-language: DE-CH;">&nbsp;</span></strong></span></p>
+<td style="width: 13.8333px; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; padding: 0cm 5.4pt; height: 53.8pt;" valign="top" width="15">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><strong><span style="font-size: 8.0pt; mso-ansi-language: FR-CH; mso-fareast-language: DE-CH;">&nbsp;</span></strong></span></p>
 </td>
-<td style="width: 73.0521px; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; background: #9bc2e6; padding: 0cm 5.4pt; height: 53.8pt;" valign="top" width="77">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><strong><span lang="DE-CH" style="font-size: 8.0pt; color: black; mso-color-alt: windowtext; mso-fareast-language: DE-CH;">Modification FR / Subregister number</span></strong></span></p>
+<td style="width: 85.1927px; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; background: #9bc2e6; padding: 0cm 5.4pt; height: 53.8pt;" valign="top" width="77">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><strong><span lang="EN-US" style="font-size: 8.0pt; color: black; mso-color-alt: windowtext; mso-ansi-language: EN-US; mso-fareast-language: DE-CH;">Modification FR / Subregister number</span></strong></span></p>
 </td>
-<td style="width: 66.0208px; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; background: #9bc2e6; padding: 0cm 5.4pt; height: 53.8pt;" valign="top" width="74">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><strong><span lang="DE-CH" style="font-size: 8.0pt; color: black; mso-color-alt: windowtext; mso-fareast-language: DE-CH;">Text FR / Subregister title</span></strong></span></p>
+<td style="width: 73.2552px; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; background: #9bc2e6; padding: 0cm 5.4pt; height: 53.8pt;" valign="top" width="74">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><strong><span lang="EN-US" style="font-size: 8.0pt; color: black; mso-color-alt: windowtext; mso-ansi-language: EN-US; mso-fareast-language: DE-CH;">Text FR / Subregister title</span></strong></span></p>
 </td>
-<td style="width: 85.0521px; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; background: #9bc2e6; padding: 0cm 5.4pt; height: 53.8pt;" valign="top" width="90">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><strong><span lang="EN-US" style="font-size: 8.0pt; color: black; mso-color-alt: windowtext; mso-ansi-language: EN-US; mso-fareast-language: DE-CH;">New text FR / Comment FR</span></strong></span></p>
+<td style="width: 92.3802px; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; background: #9bc2e6; padding: 0cm 5.4pt; height: 53.8pt;" valign="top" width="90">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><strong><span lang="EN-US" style="font-size: 8.0pt; color: black; mso-color-alt: windowtext; mso-ansi-language: EN-US; mso-fareast-language: DE-CH;">New text FR / Comment FR</span></strong></span></p>
 </td>
 </tr>
 <tr style="mso-yfti-irow: 1; height: 27.65pt;">
-<td style="width: 69.0833px; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #bfbfbf; padding: 0cm 5.4pt; height: 27.65pt;" valign="top" width="76">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="DE-CH" style="font-size: 8.0pt; color: black; mso-color-alt: windowtext; mso-fareast-language: DE-CH;">01.01.YYYY-SR1</span></span></p>
+<td style="width: 76.3177px; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #bfbfbf; padding: 0cm 5.4pt; height: 27.65pt;" valign="top" width="76">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="EN-US" style="font-size: 8.0pt; color: black; mso-color-alt: windowtext; mso-ansi-language: EN-US; mso-fareast-language: DE-CH;">01.01.YYYY-SR1</span></span></p>
 </td>
-<td style="width: 64.7395px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: #bfbfbf; padding: 0cm 5.4pt; height: 27.65pt;" valign="top" width="73">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="DE-CH" style="font-size: 8.0pt; color: black; mso-color-alt: windowtext; mso-fareast-language: DE-CH;">0</span></span></p>
+<td style="width: 71.9583px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: #bfbfbf; padding: 0cm 5.4pt; height: 27.65pt;" valign="top" width="73">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="EN-US" style="font-size: 8.0pt; color: black; mso-color-alt: windowtext; mso-ansi-language: EN-US; mso-fareast-language: DE-CH;">0</span></span></p>
 </td>
-<td style="width: 43.1614px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: #bfbfbf; padding: 0cm 5.4pt; height: 27.65pt;" valign="top" width="50">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><strong><span lang="DE-CH" style="font-size: 8.0pt; mso-fareast-language: DE-CH;">&nbsp;</span></strong></span></p>
+<td style="width: 50.3802px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: #bfbfbf; padding: 0cm 5.4pt; height: 27.65pt;" valign="top" width="50">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><strong><span lang="EN-US" style="font-size: 8.0pt; mso-ansi-language: EN-US; mso-fareast-language: DE-CH;">&nbsp;</span></strong></span></p>
 </td>
-<td style="width: 73.0521px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: #bfbfbf; padding: 0cm 5.4pt; height: 27.65pt;" valign="top" width="77">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><strong><span lang="DE-CH" style="font-size: 8.0pt; mso-fareast-language: DE-CH;">&nbsp;</span></strong></span></p>
+<td style="width: 80.2708px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: #bfbfbf; padding: 0cm 5.4pt; height: 27.65pt;" valign="top" width="77">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><strong><span lang="EN-US" style="font-size: 8.0pt; mso-ansi-language: EN-US; mso-fareast-language: DE-CH;">&nbsp;</span></strong></span></p>
 </td>
-<td style="width: 71.3645px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: #bfbfbf; padding: 0cm 5.4pt; height: 27.65pt;" valign="top" width="73">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="DE-CH" style="font-size: 8.0pt; mso-fareast-language: DE-CH;">&nbsp;</span></span></p>
+<td style="width: 78.5833px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: #bfbfbf; padding: 0cm 5.4pt; height: 27.65pt;" valign="top" width="73">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="EN-US" style="font-size: 8.0pt; mso-ansi-language: EN-US; mso-fareast-language: DE-CH;">&nbsp;</span></span></p>
 </td>
-<td style="width: 66.0364px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: #bfbfbf; padding: 0cm 5.4pt; height: 27.65pt;" valign="top" width="74">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="DE-CH" style="font-size: 8.0pt; color: black; mso-color-alt: windowtext; mso-fareast-language: DE-CH;">SR1</span></span></p>
+<td style="width: 73.2552px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: #bfbfbf; padding: 0cm 5.4pt; height: 27.65pt;" valign="top" width="74">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="EN-US" style="font-size: 8.0pt; color: black; mso-color-alt: windowtext; mso-ansi-language: EN-US; mso-fareast-language: DE-CH;">SR1</span></span></p>
 </td>
-<td style="width: 74.9114px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: #bfbfbf; padding: 0cm 5.4pt; height: 27.65pt;" valign="top" width="81">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="DE-CH" style="font-size: 8.0pt; color: black; mso-color-alt: windowtext; mso-fareast-language: DE-CH;">Titel des Unterregisters</span></span></p>
+<td style="width: 82.1302px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: #bfbfbf; padding: 0cm 5.4pt; height: 27.65pt;" valign="top" width="81">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="EN-US" style="font-size: 8.0pt; color: black; mso-color-alt: windowtext; mso-ansi-language: EN-US; mso-fareast-language: DE-CH;">Titel des Unterregisters</span></span></p>
 </td>
-<td style="width: 72.7083px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: #bfbfbf; padding: 0cm 5.4pt; height: 27.65pt;" valign="top" width="80">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="DE-CH" style="font-size: 8.0pt; color: black; mso-color-alt: windowtext; mso-fareast-language: DE-CH;">Kurzer einf&uuml;hrender Text zum Unterregister.</span></span></p>
+<td style="width: 79.9427px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: #bfbfbf; padding: 0cm 5.4pt; height: 27.65pt;" valign="top" width="80">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="DE-CH" style="font-size: 8.0pt; color: black; mso-color-alt: windowtext; mso-fareast-language: DE-CH;">Kurzer einf&uuml;hrender Text zum Unterregister.</span></span></p>
 </td>
-<td style="width: 11.5365px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 27.65pt;" valign="top" width="15">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="DE-CH" style="font-size: 8.0pt; mso-fareast-language: DE-CH;">&nbsp;</span></span></p>
+<td style="width: 13.8333px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 27.65pt;" valign="top" width="15">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="DE-CH" style="font-size: 8.0pt; mso-fareast-language: DE-CH;">&nbsp;</span></span></p>
 </td>
-<td style="width: 73.0521px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: #bfbfbf; padding: 0cm 5.4pt; height: 27.65pt;" valign="top" width="77">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="DE-CH" style="font-size: 8.0pt; color: black; mso-color-alt: windowtext; mso-fareast-language: DE-CH;">SR1</span></span></p>
+<td style="width: 85.1927px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: #bfbfbf; padding: 0cm 5.4pt; height: 27.65pt;" valign="top" width="77">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="EN-US" style="font-size: 8.0pt; color: black; mso-color-alt: windowtext; mso-ansi-language: EN-US; mso-fareast-language: DE-CH;">SR1</span></span></p>
 </td>
-<td style="width: 66.0208px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: #bfbfbf; padding: 0cm 5.4pt; height: 27.65pt;" valign="top" width="74">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="DE-CH" style="font-size: 8.0pt; color: black; mso-color-alt: windowtext; mso-fareast-language: DE-CH;">Titre du sous-registre</span></span></p>
+<td style="width: 73.2552px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: #bfbfbf; padding: 0cm 5.4pt; height: 27.65pt;" valign="top" width="74">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="EN-US" style="font-size: 8.0pt; color: black; mso-color-alt: windowtext; mso-ansi-language: EN-US; mso-fareast-language: DE-CH;">Titre du sous-registre</span></span></p>
 </td>
-<td style="width: 85.0521px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: #bfbfbf; padding: 0cm 5.4pt; height: 27.65pt;" valign="top" width="90">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span style="font-size: 8.0pt; color: black; mso-color-alt: windowtext; mso-ansi-language: FR-CH; mso-fareast-language: DE-CH;">Court texte introductif au sous-registre.</span></span></p>
+<td style="width: 92.3802px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: #bfbfbf; padding: 0cm 5.4pt; height: 27.65pt;" valign="top" width="90">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span style="font-size: 8.0pt; color: black; mso-color-alt: windowtext; mso-ansi-language: FR-CH; mso-fareast-language: DE-CH;">Court texte introductif au sous-registre.</span></span></p>
 </td>
 </tr>
 <tr style="mso-yfti-irow: 2; height: 27.65pt;">
-<td style="width: 69.0833px; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; padding: 0cm 5.4pt; height: 27.65pt;" valign="top" width="76">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><strong><span lang="DE-CH" style="font-size: 8.0pt; mso-fareast-language: DE-CH;">01.01.YYYY-SR1</span></strong></span></p>
+<td style="width: 76.3177px; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; padding: 0cm 5.4pt; height: 27.65pt;" valign="top" width="76">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><strong><span lang="EN-US" style="font-size: 8.0pt; mso-ansi-language: EN-US; mso-fareast-language: DE-CH;">01.01.YYYY-SR1</span></strong></span></p>
 </td>
-<td style="width: 64.7395px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 27.65pt;" valign="top" width="73">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><strong><span lang="DE-CH" style="font-size: 8.0pt; mso-fareast-language: DE-CH;">1</span></strong></span></p>
+<td style="width: 71.9583px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 27.65pt;" valign="top" width="73">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><strong><span lang="EN-US" style="font-size: 8.0pt; mso-ansi-language: EN-US; mso-fareast-language: DE-CH;">1</span></strong></span></p>
 </td>
-<td style="width: 43.1614px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 27.65pt;" valign="top" width="50">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><strong><span lang="DE-CH" style="font-size: 8.0pt; mso-fareast-language: DE-CH;">6</span></strong></span></p>
+<td style="width: 50.3802px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 27.65pt;" valign="top" width="50">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><strong><span lang="EN-US" style="font-size: 8.0pt; mso-ansi-language: EN-US; mso-fareast-language: DE-CH;">6</span></strong></span></p>
 </td>
-<td style="width: 73.0521px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 27.65pt;" valign="top" width="77">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><strong><span lang="DE-CH" style="font-size: 8.0pt; mso-fareast-language: DE-CH;">Ignore</span></strong></span></p>
+<td style="width: 80.2708px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 27.65pt;" valign="top" width="77">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><strong><span lang="EN-US" style="font-size: 8.0pt; mso-ansi-language: EN-US; mso-fareast-language: DE-CH;">Ignore</span></strong></span></p>
 </td>
-<td style="width: 71.3645px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 27.65pt;" valign="top" width="73">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><strong><span lang="DE-CH" style="font-size: 8.0pt; mso-fareast-language: DE-CH;">ZNN.NN.NN</span></strong></span></p>
+<td style="width: 78.5833px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 27.65pt;" valign="top" width="73">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><strong><span lang="EN-US" style="font-size: 8.0pt; mso-ansi-language: EN-US; mso-fareast-language: DE-CH;">ZNN.NN.NN</span></strong></span></p>
 </td>
-<td style="width: 66.0364px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 27.65pt;" valign="top" width="74">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><strong><span lang="DE-CH" style="font-size: 8.0pt; mso-fareast-language: DE-CH;">T</span></strong></span></p>
+<td style="width: 73.2552px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 27.65pt;" valign="top" width="74">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><strong><span lang="EN-US" style="font-size: 8.0pt; mso-ansi-language: EN-US; mso-fareast-language: DE-CH;">T</span></strong></span></p>
 </td>
-<td style="width: 74.9114px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 27.65pt;" valign="top" width="81">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><strong><span lang="DE-CH" style="font-size: 8.0pt; mso-fareast-language: DE-CH;">Kode-Titel</span></strong></span></p>
+<td style="width: 82.1302px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 27.65pt;" valign="top" width="81">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><strong><span lang="EN-US" style="font-size: 8.0pt; mso-ansi-language: EN-US; mso-fareast-language: DE-CH;">Kode-Titel</span></strong></span></p>
 </td>
-<td style="width: 72.7083px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 27.65pt;" valign="top" width="80">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><strong><span lang="DE-CH" style="font-size: 8.0pt; mso-fareast-language: DE-CH;">&nbsp;</span></strong></span></p>
+<td style="width: 79.9427px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 27.65pt;" valign="top" width="80">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><strong><span lang="EN-US" style="font-size: 8.0pt; mso-ansi-language: EN-US; mso-fareast-language: DE-CH;">&nbsp;</span></strong></span></p>
 </td>
-<td style="width: 11.5365px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 27.65pt;" valign="top" width="15">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><strong><span lang="DE-CH" style="font-size: 8.0pt; mso-fareast-language: DE-CH;">&nbsp;</span></strong></span></p>
+<td style="width: 13.8333px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 27.65pt;" valign="top" width="15">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><strong><span lang="EN-US" style="font-size: 8.0pt; mso-ansi-language: EN-US; mso-fareast-language: DE-CH;">&nbsp;</span></strong></span></p>
 </td>
-<td style="width: 73.0521px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 27.65pt;" valign="top" width="77">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><strong><span lang="DE-CH" style="font-size: 8.0pt; mso-fareast-language: DE-CH;">Ignore</span></strong></span></p>
+<td style="width: 85.1927px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 27.65pt;" valign="top" width="77">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><strong><span lang="EN-US" style="font-size: 8.0pt; mso-ansi-language: EN-US; mso-fareast-language: DE-CH;">Ignore</span></strong></span></p>
 </td>
-<td style="width: 66.0208px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 27.65pt;" valign="top" width="74">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><strong><span style="font-size: 8.0pt; mso-ansi-language: FR-CH; mso-fareast-language: DE-CH;">Titre du code</span></strong></span></p>
+<td style="width: 73.2552px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 27.65pt;" valign="top" width="74">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><strong><span style="font-size: 8.0pt; mso-ansi-language: FR-CH; mso-fareast-language: DE-CH;">Titre du code</span></strong></span></p>
 </td>
-<td style="width: 85.0521px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 27.65pt;" valign="top" width="90">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><strong><span lang="DE-CH" style="font-size: 8.0pt; mso-fareast-language: DE-CH;">&nbsp;</span></strong></span></p>
+<td style="width: 92.3802px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 27.65pt;" valign="top" width="90">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><strong><span lang="EN-US" style="font-size: 8.0pt; mso-ansi-language: EN-US; mso-fareast-language: DE-CH;">&nbsp;</span></strong></span></p>
 </td>
 </tr>
 <tr style="mso-yfti-irow: 3; height: 40.75pt;">
-<td style="width: 69.0833px; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; padding: 0cm 5.4pt; height: 40.75pt;" valign="top" width="76">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="DE-CH" style="font-size: 8.0pt; color: #00b050; mso-fareast-language: DE-CH;">01.01.YYYY-SR1</span></span></p>
+<td style="width: 76.3177px; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; padding: 0cm 5.4pt; height: 40.75pt;" valign="top" width="76">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="EN-US" style="font-size: 8.0pt; color: #00b050; mso-ansi-language: EN-US; mso-fareast-language: DE-CH;">01.01.YYYY-SR1</span></span></p>
 </td>
-<td style="width: 64.7395px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 40.75pt;" valign="top" width="73">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="DE-CH" style="font-size: 8.0pt; color: #00b050; mso-fareast-language: DE-CH;">2</span></span></p>
+<td style="width: 71.9583px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 40.75pt;" valign="top" width="73">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="EN-US" style="font-size: 8.0pt; color: #00b050; mso-ansi-language: EN-US; mso-fareast-language: DE-CH;">2</span></span></p>
 </td>
-<td style="width: 43.1614px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 40.75pt;" valign="top" width="50">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="DE-CH" style="font-size: 8.0pt; color: #00b050; mso-fareast-language: DE-CH;">6</span></span></p>
+<td style="width: 50.3802px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 40.75pt;" valign="top" width="50">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="EN-US" style="font-size: 8.0pt; color: #00b050; mso-ansi-language: EN-US; mso-fareast-language: DE-CH;">6</span></span></p>
 </td>
-<td style="width: 73.0521px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 40.75pt;" valign="top" width="77">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="DE-CH" style="font-size: 8.0pt; color: #00b050; mso-fareast-language: DE-CH;">Creation</span></span></p>
+<td style="width: 80.2708px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 40.75pt;" valign="top" width="77">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="EN-US" style="font-size: 8.0pt; color: #00b050; mso-ansi-language: EN-US; mso-fareast-language: DE-CH;">Creation</span></span></p>
 </td>
-<td style="width: 71.3645px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 40.75pt;" valign="top" width="73">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="DE-CH" style="font-size: 8.0pt; color: #00b050; mso-fareast-language: DE-CH;">ZNN.NN.NN</span></span></p>
+<td style="width: 78.5833px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 40.75pt;" valign="top" width="73">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="EN-US" style="font-size: 8.0pt; color: #00b050; mso-ansi-language: EN-US; mso-fareast-language: DE-CH;">ZNN.NN.NN</span></span></p>
 </td>
-<td style="width: 66.0364px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 40.75pt;" valign="top" width="74">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="DE-CH" style="font-size: 8.0pt; color: #00b050; mso-fareast-language: DE-CH;">B</span></span></p>
+<td style="width: 73.2552px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 40.75pt;" valign="top" width="74">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="EN-US" style="font-size: 8.0pt; color: #00b050; mso-ansi-language: EN-US; mso-fareast-language: DE-CH;">B</span></span></p>
 </td>
-<td style="width: 74.9114px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 40.75pt;" valign="top" width="81">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="DE-CH" style="font-size: 8.0pt; color: #00b050; mso-fareast-language: DE-CH;">&nbsp;</span></span></p>
+<td style="width: 82.1302px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 40.75pt;" valign="top" width="81">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="EN-US" style="font-size: 8.0pt; color: #00b050; mso-ansi-language: EN-US; mso-fareast-language: DE-CH;">&nbsp;</span></span></p>
 </td>
-<td style="width: 72.7083px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 40.75pt;" valign="top" width="80">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="DE-CH" style="font-size: 8.0pt; color: #00b050; mso-fareast-language: DE-CH;">Neue erg&auml;nzende Beschreibung</span></span></p>
+<td style="width: 79.9427px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 40.75pt;" valign="top" width="80">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="EN-US" style="font-size: 8.0pt; color: #00b050; mso-ansi-language: EN-US; mso-fareast-language: DE-CH;">Neue erg&auml;nzende Beschreibung</span></span></p>
 </td>
-<td style="width: 11.5365px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 40.75pt;" valign="top" width="15">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="DE-CH" style="font-size: 8.0pt; color: #00b050; mso-fareast-language: DE-CH;">&nbsp;</span></span></p>
+<td style="width: 13.8333px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 40.75pt;" valign="top" width="15">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="EN-US" style="font-size: 8.0pt; color: #00b050; mso-ansi-language: EN-US; mso-fareast-language: DE-CH;">&nbsp;</span></span></p>
 </td>
-<td style="width: 73.0521px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 40.75pt;" valign="top" width="77">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="DE-CH" style="font-size: 8.0pt; color: #00b050; mso-fareast-language: DE-CH;">Mutation</span></span></p>
+<td style="width: 85.1927px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 40.75pt;" valign="top" width="77">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="EN-US" style="font-size: 8.0pt; color: #00b050; mso-ansi-language: EN-US; mso-fareast-language: DE-CH;">Mutation</span></span></p>
 </td>
-<td style="width: 66.0208px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 40.75pt;" valign="top" width="74">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="DE-CH" style="font-size: 8.0pt; color: #00b050; mso-fareast-language: DE-CH;">&nbsp;</span></span></p>
+<td style="width: 73.2552px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 40.75pt;" valign="top" width="74">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="EN-US" style="font-size: 8.0pt; color: #00b050; mso-ansi-language: EN-US; mso-fareast-language: DE-CH;">&nbsp;</span></span></p>
 </td>
-<td style="width: 85.0521px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 40.75pt;" valign="top" width="90">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="DE-CH" style="font-size: 8.0pt; color: #00b050; mso-fareast-language: DE-CH;">Nouvelle description compl&eacute;mentaire</span></span></p>
+<td style="width: 92.3802px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 40.75pt;" valign="top" width="90">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="EN-US" style="font-size: 8.0pt; color: #00b050; mso-ansi-language: EN-US; mso-fareast-language: DE-CH;">Nouvelle description compl&eacute;mentaire</span></span></p>
 </td>
 </tr>
 <tr style="mso-yfti-irow: 4; mso-yfti-lastrow: yes; height: 79.95pt;">
-<td style="width: 69.0833px; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; padding: 0cm 5.4pt; height: 79.95pt;" valign="top" width="76">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="DE-CH" style="font-size: 8.0pt; color: #7030a0; mso-fareast-language: DE-CH;">01.01.YYYY-SR1</span></span></p>
+<td style="width: 76.3177px; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; padding: 0cm 5.4pt; height: 79.95pt;" valign="top" width="76">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="EN-US" style="font-size: 8.0pt; color: #7030a0; mso-ansi-language: EN-US; mso-fareast-language: DE-CH;">01.01.YYYY-SR1</span></span></p>
 </td>
-<td style="width: 64.7395px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 79.95pt;" valign="top" width="73">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="DE-CH" style="font-size: 8.0pt; color: #7030a0; mso-fareast-language: DE-CH;">3</span></span></p>
+<td style="width: 71.9583px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 79.95pt;" valign="top" width="73">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="EN-US" style="font-size: 8.0pt; color: #7030a0; mso-ansi-language: EN-US; mso-fareast-language: DE-CH;">3</span></span></p>
 </td>
-<td style="width: 43.1614px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 79.95pt;" valign="top" width="50">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="DE-CH" style="font-size: 8.0pt; color: #7030a0; mso-fareast-language: DE-CH;">6</span></span></p>
+<td style="width: 50.3802px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 79.95pt;" valign="top" width="50">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="EN-US" style="font-size: 8.0pt; color: #7030a0; mso-ansi-language: EN-US; mso-fareast-language: DE-CH;">6</span></span></p>
 </td>
-<td style="width: 73.0521px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 79.95pt;" valign="top" width="77">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="DE-CH" style="font-size: 8.0pt; color: #7030a0; mso-fareast-language: DE-CH;">Mutation</span></span></p>
+<td style="width: 80.2708px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 79.95pt;" valign="top" width="77">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="EN-US" style="font-size: 8.0pt; color: #7030a0; mso-ansi-language: EN-US; mso-fareast-language: DE-CH;">Mutation</span></span></p>
 </td>
-<td style="width: 71.3645px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 79.95pt;" valign="top" width="73">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="DE-CH" style="font-size: 8.0pt; color: #7030a0; mso-fareast-language: DE-CH;">ZNN.NN.NN</span></span></p>
+<td style="width: 78.5833px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 79.95pt;" valign="top" width="73">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="EN-US" style="font-size: 8.0pt; color: #7030a0; mso-ansi-language: EN-US; mso-fareast-language: DE-CH;">ZNN.NN.NN</span></span></p>
 </td>
-<td style="width: 66.0364px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 79.95pt;" valign="top" width="74">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="DE-CH" style="font-size: 8.0pt; color: #7030a0; mso-fareast-language: DE-CH;">X</span></span></p>
+<td style="width: 73.2552px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 79.95pt;" valign="top" width="74">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="EN-US" style="font-size: 8.0pt; color: #7030a0; mso-ansi-language: EN-US; mso-fareast-language: DE-CH;">X</span></span></p>
 </td>
-<td style="width: 74.9114px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 79.95pt;" valign="top" width="81">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="DE-CH" style="font-size: 8.0pt; color: #7030a0; mso-fareast-language: DE-CH;">Text des Exklusivum </span></span><span style="mso-bookmark: _Hlk213061521;"><s><span lang="DE-CH" style="font-size: 8.0pt; color: red; mso-fareast-language: DE-CH;">zu l&ouml;schender Text im Exklusivum</span></s></span><span style="mso-bookmark: _Hlk213061521;"><span lang="DE-CH" style="font-size: 8.0pt; color: red; mso-fareast-language: DE-CH;"> </span></span><span style="mso-bookmark: _Hlk213061521;"><span lang="DE-CH" style="font-size: 8.0pt; color: #7030a0; mso-fareast-language: DE-CH;">(MM.MM.-)</span></span></p>
+<td style="width: 82.1302px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 79.95pt;" valign="top" width="81">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span lang="DE-CH" style="font-size: 8.0pt; color: #7030a0; mso-fareast-language: DE-CH;">Text des Exklusivum </span></span><span style="mso-bookmark: _Hlk213061521;"><s><span lang="DE-CH" style="font-size: 8.0pt; color: red; mso-fareast-language: DE-CH;">zu l&ouml;schender Text im Exklusivum</span></s></span><span style="mso-bookmark: _Hlk213061521;"><span lang="DE-CH" style="font-size: 8.0pt; color: red; mso-fareast-language: DE-CH;"> </span></span><span style="mso-bookmark: _Hlk213061521;"><span lang="DE-CH" style="font-size: 8.0pt; color: #7030a0; mso-fareast-language: DE-CH;">(MM.MM.-)</span></span></p>
 </td>
-<td style="width: 72.7083px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 79.95pt;" valign="top" width="80">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span style="font-size: 8.0pt; color: #7030a0; mso-ansi-language: FR-CH; mso-fareast-language: DE-CH;">Text des Exklusivum (MM.MM.-)</span></span></p>
+<td style="width: 79.9427px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 79.95pt;" valign="top" width="80">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span style="font-size: 8.0pt; color: #7030a0; mso-ansi-language: FR-CH; mso-fareast-language: DE-CH;">Text des Exklusivum (MM.MM.-)</span></span></p>
 </td>
-<td style="width: 11.5365px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 79.95pt;" valign="top" width="15">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span style="font-size: 8.0pt; color: #7030a0; mso-ansi-language: FR-CH; mso-fareast-language: DE-CH;">&nbsp;</span></span></p>
+<td style="width: 13.8333px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 79.95pt;" valign="top" width="15">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span style="font-size: 8.0pt; color: #7030a0; mso-ansi-language: FR-CH; mso-fareast-language: DE-CH;">&nbsp;</span></span></p>
 </td>
-<td style="width: 73.0521px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 79.95pt;" valign="top" width="77">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span style="font-size: 8.0pt; color: #7030a0; mso-ansi-language: FR-CH; mso-fareast-language: DE-CH;">Mutation</span></span></p>
+<td style="width: 85.1927px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 79.95pt;" valign="top" width="77">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span style="font-size: 8.0pt; color: #7030a0; mso-ansi-language: FR-CH; mso-fareast-language: DE-CH;">Mutation</span></span></p>
 </td>
-<td style="width: 66.0208px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 79.95pt;" valign="top" width="74">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span style="font-size: 8.0pt; color: #7030a0; mso-ansi-language: FR-CH; mso-fareast-language: DE-CH;">Texte de l&rsquo;exclusion </span></span><span style="mso-bookmark: _Hlk213061521;"><s><span style="font-size: 8.0pt; color: #ee0000; mso-ansi-language: FR-CH; mso-fareast-language: DE-CH;">Texte &agrave; supprimer dans de l&rsquo;exclusion </span></s></span><span style="mso-bookmark: _Hlk213061521;"><span style="font-size: 8.0pt; color: #7030a0; mso-ansi-language: FR-CH; mso-fareast-language: DE-CH;">(MM.MM.-)</span></span></p>
+<td style="width: 73.2552px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 79.95pt;" valign="top" width="74">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span style="font-size: 8.0pt; color: #7030a0; mso-ansi-language: FR-CH; mso-fareast-language: DE-CH;">Texte de l&rsquo;exclusion </span></span><span style="mso-bookmark: _Hlk213061521;"><s><span style="font-size: 8.0pt; color: #ee0000; mso-ansi-language: FR-CH; mso-fareast-language: DE-CH;">Texte &agrave; supprimer dans de l&rsquo;exclusion </span></s></span><span style="mso-bookmark: _Hlk213061521;"><span style="font-size: 8.0pt; color: #7030a0; mso-ansi-language: FR-CH; mso-fareast-language: DE-CH;">(MM.MM.-)</span></span></p>
 </td>
-<td style="width: 85.0521px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 79.95pt;" valign="top" width="90">
-<p class="MsoNormal" style="line-height: normal; margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span style="font-size: 8.0pt; color: #7030a0; mso-ansi-language: FR-CH; mso-fareast-language: DE-CH;">Texte de l&rsquo;exclusion (MM.MM.-)</span></span></p>
+<td style="width: 92.3802px; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 79.95pt;" valign="top" width="90">
+<p class="MsoNormal" style="margin: 1.0pt 0cm 0cm 0cm;"><span style="mso-bookmark: _Hlk213061521;"><span style="font-size: 8.0pt; color: #7030a0; mso-ansi-language: FR-CH; mso-fareast-language: DE-CH;">Texte de l&rsquo;exclusion (MM.MM.-)</span></span></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p class="MsoNormal" style="margin-bottom: 0cm;"><span style="mso-ansi-language: FR-CH; mso-fareast-language: DE-CH;">&nbsp;</span></p>
+<p>&nbsp;</p>
