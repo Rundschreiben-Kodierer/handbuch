@@ -289,8 +289,6 @@ In precedenza, nel capitolo 3, Informazioni supplementari sulla CHOP, nel file P
 <p class="MsoNormal" style="text-indent: 36.0pt; margin: 0cm 0cm 0cm 36.0pt;"><span lang="DE-CH" style="mso-fareast-language: DE-CH;">&nbsp; &nbsp; &nbsp; &nbsp;Escl. Testo dell’esclusione <s><span style="color: red;">Testo da cancellare nell’esclusione </span></s><span style="color: red;"> </span>(MM.MM.-)</span></p>
   
 Nella tabella ciò è indicato come segue. La tabella contiene il confronto delle correzioni nelle tre lingue. Qui viene riportato solo l’estratto relativo alla versione in lingua italiana. 
-
-
 <br>
 <br>
 {{<insertImage image="ActualisationCHOPIT.jpg" class="edge max-w-90">}}
