@@ -310,6 +310,6 @@ Hier wird nur der Auszug für die deutschsprachige Version wiedergegeben.
 
 <br>
 <br>
-{{<insertImage image="ActualisationCHOPDE.png" class="edge max-w-90">}}
+{{<insertImage image="ActualisationCHOPDE.JPG" class="edge max-w-90">}}
 <br>
 <br>
