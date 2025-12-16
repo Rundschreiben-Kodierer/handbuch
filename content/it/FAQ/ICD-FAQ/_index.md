@@ -535,8 +535,7 @@ L'indice alfabetico rimanda al codice J15.9 <i>Polmonite batterica non specifica
 J15.8 <i>Altra polmonite batterica</i> si applica solo se è disponibile un esame batteriologico il cui risultato indica un agente patogeno diverso da quelli specificati in J15-.  
 In assenza di prove batteriologiche, deve essere registrato J15.9 <i>Polmonite batterica non specificata</i>.
   
-Il fatto che si tratti di un'infezione di origine batterica non giustifica automaticamente la codifica di J15.8 <i>Altra polmonite batterica
-</i>.
+Il fatto che si tratti di un'infezione di origine batterica non giustifica automaticamente la codifica di J15.8 <i>Altra polmonite batterica</i>.
 {{</markdown>}}
 <br>  
 <br>
