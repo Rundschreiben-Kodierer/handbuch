@@ -14,27 +14,27 @@ Les **«Informations générales»** suivantes sont valables à partir du 1er ja
 {{<markdown>}}
 
 Instruments de codage en vigueur<br><br>
-À compter du 1er janvier 2026, les instruments de codage suivants s’appliquent:
+À compter du 1er janvier 2026, les instruments de codage suivants s’appliquent :
 
 <body>
     <ul>
-        <li>Manuel de codage médical: Le manuel officiel des règles de codage en Suisse. Version 2026 </li>
+        <li>Manuel de codage médical : Le manuel officiel des règles de codage en Suisse. Version 2026 </li>
         <li>Actualisations des publications des classifications médicales de l'OFS – 01.01.2026</li>
-        <li>lassification Suisse des interventions chirurgicales (CHOP): Index systématique – Version 2026 </li>
-        <li>CIM-10-GM 2024 Index systématique: Classification statistique internationale des maladies et des problèmes de santé connexes, 10e révision, German Modification</li>
+        <li>lassification Suisse des interventions chirurgicales (CHOP) : Index systématique – Version 2026 </li>
+        <li>CIM-10-GM 2024 Index systématique : Classification statistique internationale des maladies et des problèmes de santé connexes, 10e révision, German Modification</li>
     </ul>
 </body>
   
 Les fichiers de l’ICD-10-GM en langue allemande sont établis par le Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM) et mis à disposition sur le site Internet <a href="https://www.bfarm.de"
    target="_blank"
-   rel="noopener noreferrer">www.bfarm.de</a> zur Verfügung:  
+   rel="noopener noreferrer">www.bfarm.de</a> zur Verfügung :  
 Kodiersysteme => Services => Downloads => ICD-10-GM
   
 La statistique SpiGes – qui recense les hospitalisations stationnaires – est une enquête exhaustive annuelle obligatoire. Cette collecte de données suit le principe «once-only», qui consiste à utiliser les données une seule fois, et comprendra également à partir de 2025 les données sur les coûts par cas ainsi que certaines parties de la statistique hospitalière (KS). L’objectif est d’utiliser, pour tous les traitements de données ultérieurs, un ensemble cohérent de données standard et de définir les exigences minimales de qualité en matière d’utilisation multiple des données. Les données seront relevées à partir du 1er janvier 2024 (voir projet SpiGes). 
   
 Les instruments de codage désignés ci-dessus valent pour le codage de toutes les hospitalisations dans les hôpitaux et cliniques de Suisse, y compris les cliniques de réadaptation, psychiatriques et cliniques spécialisées ainsi que les maisons de naissance.
   
-Les bases légales sont:
+Les bases légales sont :
 <body>
     <ul>
         <li>la loi du 9 octobre 1992 sur la statistique fédérale (LSF) et</li>
@@ -50,7 +50,7 @@ Pour les classifications, le manuel de codage et les Actualisations des publicat
 Les «Actualisations des publications des classifications médicales de l'OFS» contiennent des informations de base et complémentaires (incl. corrections) sur les publications des classifications médicales de l'OFS<a href="https://www.bfs.admin.ch/bfs/fr/home/statistiques/sante/nomenclatures/medkk/instruments-codage-medical.html"
    target="_blank"
    rel="noopener noreferrer">
-    Instruments pour le codage médical | Office fédéral de la statistique - OFS:
+    Instruments pour le codage médical | Office fédéral de la statistique - OFS :
 </a>
 <body>
     <ul>
@@ -70,10 +70,10 @@ Les nouveautés, corrections et autres adaptations mentionnées entrent en vigue
   
 **Codages analogues et notices pour la saisie des prestations et de la tarification de SwissDRG SA**  
 Les notices pour la saisie des prestations et de la tarification de SwissDRG SA doivent également être prises en compte.
-Lien: www.swissdrg.org => Somatique aiguë/Psychiatrie/Réadaptation => Rubrique SwissDRG / TARPSY / ST Reha => Notice pour la saisie des prestations et de la tarification
+Lien : www.swissdrg.org => Somatique aiguë/Psychiatrie/Réadaptation => Rubrique SwissDRG / TARPSY / ST Reha => Notice pour la saisie des prestations et de la tarification
   
 Les notices sur les codages analogues de SwissDRG SA doivent également être prises en compte.
-Lien: www.swissdrg.org => Somatique aiguë => Rubrique Système SwissDRG 15.0/2026 => Codage analogue
+Lien : www.swissdrg.org => Somatique aiguë => Rubrique Système SwissDRG 15.0/2026 => Codage analogue
 
    
 Les autres publications de SwissDRG SA doivent être prises en considération tout au long de l’année.
@@ -91,7 +91,7 @@ Seules les questions de codage avec **toute la documentation clinique anonymisé
 Pour toutes les questions sans documentation ou avec une documentation insuffisante, nous ne faisons pas de recommandation.
   
 **Anonymisation**  
-Les informations suivantes du patient et des proches doivent être retirées pour rendre les documents anonymes:
+Les informations suivantes du patient et des proches doivent être retirées pour rendre les documents anonymes :
 
 <body>
     <ul>
@@ -104,9 +104,9 @@ Les informations suivantes du patient et des proches doivent être retirées pou
 
 Le personnel de l’OFS est soumis uniquement au secret statistique (conformément à l’art. 14 de la loi sur la statistique fédérale) et à la loi fédérale sur la protection des données.
   
-Attention: il ne suffit pas de rajouter un rectangle noir ou blanc sur le texte à biffer avec Adobe Acrobat Pro. Ce rajout peut ensuite toujours être supprimé et le texte qui est en dessous réapparaît alors.
+Attention : il ne suffit pas de rajouter un rectangle noir ou blanc sur le texte à biffer avec Adobe Acrobat Pro. Ce rajout peut ensuite toujours être supprimé et le texte qui est en dessous réapparaît alors.
 Pour anonymiser convenablement un PDF avec Adobe Acrobat Pro, il faut utiliser l’outil «Biffer». 
-Vous trouverez les manuels explicatifs sous ces liens: <br>
+Vous trouverez les manuels explicatifs sous ces liens : <br>
 https://creativecloud.adobe.com/fr-CH/learn/acrobat/web/redact-pdf <br>
 https://helpx.adobe.com/ch_fr/acrobat/kb/prevent-file-size-increase-after-sanitizing-pdf.html
   

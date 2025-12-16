@@ -30,7 +30,7 @@ keywords: []
     <td style="border: 1px solid black;">01.01.2026 - Nouveau</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">mise à jour</th>
+    <th style="border: 1px solid black;">Mise à jour</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -49,7 +49,7 @@ keywords: []
 
 {{<markdown>}}
 **Question:**  
-Comment distingue-t-on dans le codage entre J98.11 _Atélectasie partielle_ et J98.12 _Atélectasie totale_?
+Comment distingue-t-on dans le codage entre J98.11 _Atélectasie partielle_ et J98.12 _Atélectasie totale_ ?
 
   
 **Problème/explication:**
@@ -82,7 +82,7 @@ L'absence de ventilation de certaines parties du poumon (segments pulmonaires, l
     <td style="border: 1px solid black;">01.01.2026 - Nouveau</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">mise à jour</th>
+    <th style="border: 1px solid black;">Mise à jour</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -101,7 +101,7 @@ L'absence de ventilation de certaines parties du poumon (segments pulmonaires, l
 
 {{<markdown>}}
 **Questions:**  
-Comment représenter une endofuite après traitement endovasculaire (EVAR) d'un anévrisme aortique?
+Comment représenter une endofuite après traitement endovasculaire (EVAR) d'un anévrisme aortique ?
   
 **Problème/explication:**  
 Une endofuite est une fuite entre la prothèse vasculaire et la poche anévrismale après le traitement endovasculaire (EVAR) d'un anévrisme aortique.  
@@ -149,7 +149,7 @@ Une endofuite de **type V** est également appelée endotension. Dans ce cas, on
     <td style="border: 1px solid black;">01.01.2026 - Nouveau</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">mise à jour</th>
+    <th style="border: 1px solid black;">Mise à jour</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -168,7 +168,7 @@ Une endofuite de **type V** est également appelée endotension. Dans ce cas, on
 
 {{<markdown>}}
 **Questions:**  
-Comment représenter un kyste hydatique, une échinococcose kystique?
+Comment représenter un kyste hydatique, une échinococcose kystique ?
   
 **Problème/explication:**  
 Dans la classification alphabétique CIM-10-GM 2024, l'échinococcose kystique du foie est référencée sous B67.0† *Infection hépatique à Echinococcus granulosus [echinococcose kystique]*, avec 
@@ -200,7 +200,7 @@ Si des composants d'Echinococcus sont également présents dans les tissus envir
     <td style="border: 1px solid black;">01.01.2026 - Nouveau</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">mise à jour</th>
+    <th style="border: 1px solid black;">Mise à jour</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -218,7 +218,7 @@ Si des composants d'Echinococcus sont également présents dans les tissus envir
 </table>
 
 <b>Questions:</b><br>
-Comment enregistrer une sténose carotidienne bilatérale? Comment enregistrer des sténoses unilatérales ou bilatérales des artères précérébrales?
+Comment enregistrer une sténose carotidienne bilatérale ? Comment enregistrer des sténoses unilatérales ou bilatérales des artères précérébrales ?
 <br><br>
 <b>Problème/explication:</b><br>
 En principe, il convient de toujours choisir le code CIM le plus spécifique qui décrit le plus précisément le diagnostic documenté.  
@@ -227,7 +227,7 @@ En principe, il convient de toujours choisir le code CIM le plus spécifique qui
         <li><b>L'occlusion bilatérale d'une seule artère précérébrale</b> (par exemple, l'artère carotide) est codée avec le code spécifique <b>I65.-</b> en indiquant la latéralité. <br>
 <b>Exemple</b> : occlusion / sténose bilatérale de l'artère carotide → I65.2 <i>Occlusion et sténose de l’artère carotide gauche et droite.</i> 
 </li>
-        <li><b>L'occlusion / sténose de plusieurs artères précérébrales différentes </b>est codée avec le code <b>I65.3</b>: <br>
+        <li><b>L'occlusion / sténose de plusieurs artères précérébrales différentes </b>est codée avec le code <b>I65.3</b>.<br>
 <b>Exemple</b>: sténose unilatérale ou bilatérale de l'artère vertébrale ainsi qu'une sténose unilatérale ou bilatérale supplémentaire de l'artère carotide interne → I65.3 <i>Occlusion et sténose des artères précérébrales, multiples et bilatérales L = R, L ou B.</i> 
 </li>
     </ul>
@@ -269,7 +269,7 @@ En principe, il convient de toujours choisir le code CIM le plus spécifique qui
 
 {{<markdown>}}
 **Question:**  
-Comment l'ulcère (cruris) hypertonique (Martorell) est-il représenté?
+Comment l'ulcère (cruris) hypertonique (Martorell) est-il représenté ?
   
 **Problème/explication:**  
 L'ulcère (cruris) hypertonique est une forme particulière d'ulcère crural qui apparaît principalement sur la partie latéro-dorsale de la jambe ou au-dessus du tendon d'Achille. La plupart des personnes touchées présentent une hypertonie marquée et persistante, associée dans environ 60% des cas à un diabète sucré de type 2. Il existe trois explications possibles à l'étiologie de l'ulcère hypertonique: l'artériosclérose ischémique, la calcification médiale des artérioles pathologiques et les processus inflammatoires locaux. 
@@ -298,7 +298,7 @@ Cette classification permet de distinguer l'ulcère hypertonique des autres type
     <td style="border: 1px solid black;">01.01.2026 - Nouveau</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">mise à jour</th>
+    <th style="border: 1px solid black;">Mise à jour</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -317,7 +317,7 @@ Cette classification permet de distinguer l'ulcère hypertonique des autres type
 
 {{<markdown>}}
 **Question:**  
-Comment coder un herpes zoster (zona) avec manifestations cutanées dans le dermatome correspondant?
+Comment coder un herpes zoster (zona) avec manifestations cutanées dans le dermatome correspondant ?
   
 **Explication:**  
 Il est important de savoir si les efflorescences ont déjà disparu depuis longtemps et si les douleurs persistent dans le dermatome concerné, auquel cas il s'agit d'une névralgie post-zostérienne, ou s'il s'agit d'un herpès zoster (zona) aigu avec manifestations cutanées. 
@@ -344,7 +344,7 @@ Un herpès zoster se manifestant dans la zone d'innervation de la première bran
     <td style="border: 1px solid black;">01.01.2026 - Nouveau</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">mise à jour</th>
+    <th style="border: 1px solid black;">Mise à jour</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -363,7 +363,7 @@ Un herpès zoster se manifestant dans la zone d'innervation de la première bran
 
 {{<markdown>}}
 **Question:**  
-Comment coder une insuffisance cardiaque avec fraction d'éjection préservée (HFpEF)?
+Comment coder une insuffisance cardiaque avec fraction d'éjection préservée (HFpEF) ?
   
 **Explication:**  
 L'insuffisance cardiaque à fraction d'éjection préservée (Heart Failure with preserved Ejection Fraction / HFpEF) est une forme d'insuffisance cardiaque dans laquelle la fraction d'éjection est normale, c'est-à-dire supérieure à 50 %. Dans l'HFpEF, le ventricule gauche est rigide et présente une relaxation altérée après avoir pompé le sang.  
@@ -393,7 +393,7 @@ Si les symptômes/la dyspnée sont documentés de manière appropriée, les code
     <td style="border: 1px solid black;">01.01.2026 - Nouveau</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">mise à jour</th>
+    <th style="border: 1px solid black;">Mise à jour</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -412,7 +412,7 @@ Si les symptômes/la dyspnée sont documentés de manière appropriée, les code
 
 {{<markdown>}}
 **Question:**  
-Comment coder les porteurs de BMR / cas suspects avec ou sans mise en évidence d’un agent pathogène?
+Comment coder les porteurs de BMR / cas suspects avec ou sans mise en évidence d’un agent pathogène ?
   
 **Explication:**  
 Selon la règle de codage D04, les codes marqués d’un point d’exclamation servent à préciser un code qui les précède et qui n’est pas marqué d’un point d’exclamation, ou à décrire les circonstances d’une maladie, d’une blessure, d’un empoisonnement ou d’une complication.  
@@ -445,7 +445,7 @@ Jusqu’au moment où trois tests de dépistage négatifs consécutifs par local
     <td style="border: 1px solid black;">01.01.2026 - Nouveau</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">mise à jour</th>
+    <th style="border: 1px solid black;">Mise à jour</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -464,7 +464,7 @@ Jusqu’au moment où trois tests de dépistage négatifs consécutifs par local
 
 {{<markdown>}}
 **Question:**  
-En cas de fracture ostéoporotique de la colonne vertébrale, faut-il ajouter un code pour préciser la localisation, M49.5-* <i>Tassement vertébral au cours de maladies classées ailleurs</i>?
+En cas de fracture ostéoporotique de la colonne vertébrale, faut-il ajouter un code pour préciser la localisation, M49.5-* <i>Tassement vertébral au cours de maladies classées ailleurs</i> ?
   
 **Explication:**  
 Le codage avec M80.x8 Ostéoporose avec fracture pathologique: autres localisations ne permet qu'une indication très approximative de la localisation de la fracture, en particulier dans le cas de fractures vertébrales. La catégorie «Autres» comprend plusieurs régions anatomiques telles que le cou, la tête, les côtes, le torse, le crâne et la colonne vertébrale, sans différenciation précise au sein de ces structures.  
@@ -493,7 +493,7 @@ En complément, un code du groupe CIM-10-GM 2024 M49.5-* <i>Tassement vertébral
     <td style="border: 1px solid black;">01.01.2026 - Nouveau</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">mise à jour</th>
+    <th style="border: 1px solid black;">Mise à jour</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -512,7 +512,7 @@ En complément, un code du groupe CIM-10-GM 2024 M49.5-* <i>Tassement vertébral
 
 {{<markdown>}}
 **Question:**  
-Comment coder une pneumonie bactérienne dans le cadre d’une surinfection lors d’une pneumonie virale (par ex. pneumonie COVID) sans mise en évidence d’un agent pathogène?
+Comment coder une pneumonie bactérienne dans le cadre d’une surinfection lors d’une pneumonie virale (par ex. pneumonie COVID) sans mise en évidence d’un agent pathogène ?
   
 **Explication:**  
 La classe résiduelle «sans précision» doit être utilisée lorsqu'une maladie est uniquement décrite par son terme générique, par exemple cataracte, et/ou qu'une différenciation supplémentaire selon les critères de classification de la CIM-10-GM 2024 n'est pas possible à l'endroit correspondant. 
@@ -546,7 +546,7 @@ Le fait qu'il s'agisse d'une infection d'origine bactérienne ne justifie pas au
     <td style="border: 1px solid black;">01.01.2026 - Nouveau</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">mise à jour</th>
+    <th style="border: 1px solid black;">Mise à jour</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -565,7 +565,7 @@ Le fait qu'il s'agisse d'une infection d'origine bactérienne ne justifie pas au
 
 {{<markdown>}}
 **Question:**  
-Une tachyarythmie / tachycardie en cas de fibrillation auriculaire / flutter auriculaire préexistant et d'effort supplémentaire (p. ex. traitement régulateur de fréquence) peut-elle être codée ainsi?
+Une tachyarythmie / tachycardie en cas de fibrillation auriculaire / flutter auriculaire préexistant et d'effort supplémentaire (p. ex. traitement régulateur de fréquence) peut-elle être codée ainsi ?
   
 **Explication:**  
 La fibrillation auriculaire tachycardique (FA) est la forme la plus courante d'arythmie cardiaque tachycardique. Elle est causée par une excitation auriculaire perturbée par des mécanismes de réentrée.
@@ -595,7 +595,7 @@ La tachyarythmie / tachycardie ne doit pas être codée en plus de la fibrillati
     <td style="border: 1px solid black;">01/01/2026 / Base Circulaire 2025/2: 0785</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">mise à jour</th>
+    <th style="border: 1px solid black;">Mise à jour</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>

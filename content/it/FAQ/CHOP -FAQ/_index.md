@@ -1022,11 +1022,11 @@ Le seguenti domande e spiegazioni si riferiscono al gruppo di elementi 93.8A.2- 
 <br>
 <br>
 <b>Domanda n. 1:</b><br>  
-In riferimento _alla caratteristica minima punto 3, équipe di trattamento e terapia_ della 93.8A.2- e _alla caratteristica minima punto 3, terapia, nonché alla caratteristica minima punto 4, équipe di trattamento_ della 93.8B.-: quali sono i settori terapeutici e cosa viene conteggiato nelle 6 ore?
+In riferimento _alla caratteristica minima punto 3, équipe di trattamento e terapia_ della 93.8A.2- e alla caratteristica minima punto 3, terapia, nonché alla caratteristica minima punto 4, équipe di trattamento della 93.8B.-: quali sono i settori terapeutici e cosa viene conteggiato nelle 6 ore?
 <br>
 <br>
 <b>Spiegazione n. 1:</b><br>  
-L’elenco dei settori terapeutici (assistenza sociale, pedagogia sociale, psicologia, fisioterapia, ergoterapia, logopedia, consulenza/ terapia dietetica, assistenza spirituale, arteterapia) è esaustivo sia per 93.8A.2- sia per 93.8B.- 
+L’elenco dei settori terapeutici (assistenza sociale, pedagogia sociale, psicologia, fisioterapia, ergoterapia, logopedia, consulenza / terapia dietetica, assistenza spirituale, arteterapia) è esaustivo sia per 93.8A.2- sia per 93.8B.- 
 <br>
 <br>  
 Il presupposto fondamentale per la codifica è la documentazione dei colloqui e delle terapie. Il tipo di terapia, la sua durata e la data dello svolgimento devono essere verbalizzate in modo comprensibile da tutti i gruppi professionali coinvolti.<br>

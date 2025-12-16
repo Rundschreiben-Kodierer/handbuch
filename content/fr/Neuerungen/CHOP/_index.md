@@ -15,11 +15,11 @@ Pour chaque version de la classification, un registre est créé.
 Sous ce registre les liens vers les classeurs Excel qui contiennent les actualisations en cours d'année pour la version CHOP correspondante sous forme de tableau ainsi que les «lisez-moi» explicatifs. Le nom du fichier contient la version CHOP, «UP» pour actualisation (Update) et le numéro du paquet d’actualisations.
   
 Il est prévu qu’une version YYYY de la CHOP soit valable pendant un an (en l'année YYYY).
-Ainsi, pour chaque version, les liens suivants peuvent exister:
+Ainsi, pour chaque version, les liens suivants peuvent exister :
 <body>
     <ul>
-        <li>Valable dès le 01.01.YYYY: do-t-14.04.01-chopYYYY-up-01</li>
-        <li>Valable dès le 01.07.YYYY: do-t-14.04.01-chopYYYY-up-02</li>
+        <li>Valable dès le 01.01.YYYY : do-t-14.04.01-chopYYYY-up-01</li>
+        <li>Valable dès le 01.07.YYYY : do-t-14.04.01-chopYYYY-up-02</li>
     </ul>
 </body>
 <p style="text-align: left;">
@@ -33,10 +33,10 @@ La structure du tableau est expliquée dans le texte ci-dessous, ainsi que dans 
   
 Les titres des colonnes du tableau avec les actualisations ont été choisis en anglais, car le tableau est trilingue
   
-Chaque sous-registre commence par une ligne contenant les informations suivantes dans les colonnes indiquées:
+Chaque sous-registre commence par une ligne contenant les informations suivantes dans les colonnes indiquées :
 <ul>  
   <li>
-  «Line number for the subregister»: «0»,
+  «Line number for the subregister» : «0»,
   </li>
   <li>
   «Item / Subregister number», «Modification FR / Subregister number», «Modification IT / Subregister number» : numéro du sous-registre, p. ex. «SR1»,

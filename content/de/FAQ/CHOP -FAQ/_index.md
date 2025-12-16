@@ -1021,7 +1021,7 @@ Folgende Fragestellungen und Erläuterungen beziehen sich auf die Elementegruppe
 <br>
 <br>
 <b>Fragestellung Nr. 1:</b><br>  
-In Bezug auf Mindestmerkmal Punkt 3, _Behandlungsteam und Therapie_ der 93.8A.2- und _Mindestmerkmal Punkt 3_, Therapie sowie _Mindestmerkmal_ Punkt 4, Behandlungsteam der 93.8B.-: Welche Therapiebereiche gibt es und was wird zu den 6 Stunden gezählt?
+In Bezug auf Mindestmerkmal Punkt 3, Behandlungsteam und Therapie der 93.8A.2- und Mindestmerkmal Punkt 3, Therapie sowie Mindestmerkmal Punkt 4, Behandlungsteam der 93.8B.-: Welche Therapiebereiche gibt es und was wird zu den 6 Stunden gezählt?
 <br>
 <br>
 <b>Erläuterung Nr. 1:</b><br>  

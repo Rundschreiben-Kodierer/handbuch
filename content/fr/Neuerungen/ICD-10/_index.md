@@ -21,7 +21,7 @@ La CIM-10-GM 2024 est en vigueur en Suisse depuis le 1er janvier 2025. Les circu
 
 Le BfArM prévoit de passer à un cycle triennal pour la publication annuelle de la CIM-10-GM. Par conséquent une version YYYY de la CIM-10-GM sera valable en Suisse pendant trois ans (de l'année YYYY+1 à l’année YYYY+3). La CIM-10-GM 2026 entrera par exemple en vigueur en Suisse le 1er janvier 2027 et sera valable jusqu'au 31 décembre 2029.
   
-Ainsi, pour chaque version, les registres suivants peuvent exister:
+Ainsi, pour chaque version, les registres suivants peuvent exister :
 <body>
     <ul>
         <li>01.01.YYYY+1</li>
@@ -39,7 +39,7 @@ Les adaptations et corrections indiquées pour une version (par exemple CIM-10-G
   
 Dans des situations exceptionnelles (par exemple, en cas de pandémie), l’OMS ou le BfArM peuvent, en cours d’année, attribuer un contenu à des codes non affectés. Un autre registre serait alors ajouté avec la date d’entrée en vigueur.
   
-{{<markdown>}}Légende: <font color="green">Nouveautés en vert</font>, <font color="red">~~Suppressions en rouge~~</font>
+{{<markdown>}}Légende : <font color="green">Nouveautés en vert</font>, <font color="red">~~Suppressions en rouge~~</font>
   
 {{</markdown>}}
 

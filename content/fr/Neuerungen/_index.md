@@ -11,13 +11,13 @@ keywords: []
 
 {{<markdown>}}
 **Information concernant la modification du format de publication de la circulaire destinée aux codeurs**<br>
-Le domaine Classifications médicales de l'Office fédéral de la statistique (OFS) supprimera la publication de la circulaire sous sa forme actuelle à compter **du 1er janvier 2026**. À partir de cette date, toutes **les actualisations** de la version publiée du <i>Manuel de codage médical</i>, de la <i>Classification suisse des opérations chirurgicales (CHOP)</i> et de la <i>CIM-10-GM</i> seront disponibles exclusivement sur le site Internet:  <a href="https://rundschreiben-kodierer.github.io/handbuch/fr/"
+Le domaine Classifications médicales de l'Office fédéral de la statistique (OFS) supprimera la publication de la circulaire sous sa forme actuelle à compter **du 1er janvier 2026**. À partir de cette date, toutes **les actualisations** de la version publiée du <i>Manuel de codage médical</i>, de la <i>Classification suisse des opérations chirurgicales (CHOP)</i> et de la <i>CIM-10-GM</i> seront disponibles exclusivement sur le site Internet :  <a href="https://rundschreiben-kodierer.github.io/handbuch/fr/"
    target="_blank"
    rel="noopener noreferrer">Actualisations des publications des classifications médicales</a>.
   
 Avec le transfert des contenus vers le site Internet, la circulaire sous sa forme actuelle disparaîtra. Il sera toujours possible de télécharger les contenus du site Internet sous forme de fichiers PDF.
 <br>  
-Les **cycles de publication** semestriels connus **des circulaires n° 1 et n° 2** restent inchangés pour l'instant. La **structure** des chapitres est toutefois modifiée. À l'avenir, les contenus seront structurés comme suit:
+Les **cycles de publication** semestriels connus **des circulaires n° 1 et n° 2** restent inchangés pour l'instant. La **structure** des chapitres est toutefois modifiée. À l'avenir, les contenus seront structurés comme suit :
 
 
 <ul>  
@@ -54,7 +54,7 @@ L'ancien chapitre 5 «Annexe» est remplacé par le nouveau chapitre **«FAQ/Cla
   
     
 **Fonctions de recherche et d'exportation**<br>
-La version en ligne offre des fonctions supplémentaires:
+La version en ligne offre des fonctions supplémentaires :
 <ul>  
   <li>
   les utilisateurs peuvent <strong>télécharger et imprimer</strong> les contenus sous forme de <strong>fichiers PDF</strong> si nécessaire.
