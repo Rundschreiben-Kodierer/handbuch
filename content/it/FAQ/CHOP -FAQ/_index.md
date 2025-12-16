@@ -598,7 +598,7 @@ La seguente tabella precisa l’utilizzo del codice e del codice supplementare p
   </tr>
 </table>
 
-<b>Erläuterung:</b><br>
+<b>Spiegazione:</b><br>
 L’indicazione della lateralità è obbligatoria solo per gli organi pari (nella CHOP è contrassegnata con una «[L]» nel file PDF o con «Lateral» nel file CSV). Per gli organi o le parti del corpo non pari la lateralità «può», ma non «deve» essere rilevata. 
 <br>
 <br>
