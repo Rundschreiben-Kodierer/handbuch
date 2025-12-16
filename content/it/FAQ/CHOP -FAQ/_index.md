@@ -639,7 +639,7 @@ L’indicazione della lateralità è obbligatoria solo per gli organi pari (nell
 
 {{<markdown>}}
 **Problema/Spiegazione:**  
-In caso di intervento terapeutico di gruppo, va conteggiata l’intera durata della terapia in cui è presente il paziente; per esempio, se cinque pazienti partecipano a una terapia di gruppo di un’ora, per ciascuno di loro devono essere conteggiati 60 minuti di durata terapeutica.
+In caso di intervento terapeutico di gruppo, va conteggiata l’intera durata della terapia in cui è presente il paziente; per esempio, se cinque pazienti partecipano a una terapia di gruppo di un’ora, per ciascuno di loro devono essere conteggiati 60 minuti di durata terapeutica. Per una durata della terapia di 50 minuti, vengono conteggiati 50 minuti.  
 Se, nel quadro di un intervento terapeutico individuale o di gruppo, due o più terapeuti/infermieri somministrano lo stesso tipo di terapia/la stessa prestazione terapeutica, il tempo di somministrazione va conteggiato una sola volta. Ciò vale indipendentemente dal numero di terapeuti che intervengono presso il paziente.
    
 Eccezione: esistono codici CHOP per i quali è indicato in nota che, se due o più terapeuti/infermieri somministrano lo stesso tipo di terapia/la stessa prestazione terapeutica, va conteggiato il tempo di intervento di ciascun terapeuta/infermiere.

@@ -638,9 +638,9 @@ Die Angabe der Lateralität ist nur bei paarigen Organen ein Muss (entsprechende
 
 {{<markdown>}}
 **Problem/Erläuterung:**  
-Bei einer Gruppentherapie ist die gesamte Therapiedauer zu zählen, an der die Patientin / der Patient anwesend ist. Z. B. wenn fünf Patient/innen an einer Stunde Gruppentherapie mit einer Dauer von 60 Minuten teilgenommen haben, werden bei jeder Patientin/jedem Patienten 60 Minuten Therapiedauer angerechnet. Bei einer Therapiedauer von 50 Minuten werden 50 Minuten angerechnet usw.  
+Bei einer Gruppentherapie ist die gesamte Therapiedauer zu zählen, an der die Patientin / der Patient anwesend ist. Z. B. wenn fünf Patient/innen an einer Stunde Gruppentherapie mit einer Dauer von 60 Minuten teilgenommen haben, werden bei jeder Patientin/jedem Patienten 60 Minuten Therapiedauer angerechnet. Bei einer Therapiedauer von 50 Minuten werden 50 Minuten angerechnet.  
 Wird bei einer Gruppen- oder Einzeltherapie die gleiche Therapieart / Therapieleistung durch zwei oder mehr Therapeuten / Pflegefachpersonen erbracht, ist die erbrachte Therapiezeit einmal zu zählen.  
-Es gilt unabhängig von der Anzahl der Therapeuten, die Therapiezeit am/an den Patienten. Es gilt die Therapiezeit, welche jede/r Patient/in erhalten hat, unabhängig von der Anzahl der Therapeuten.
+Es gilt unabhängig von der Anzahl der Therapeuten, die Therapiezeit am/an den Patienten.
    
 Ausnahme: Es bestehen CHOP-Kodes, bei denen im Beachte angegeben ist, dass die gleiche Therapieart / Therapieleistung, die durch zwei oder mehr Therapeutinnen / Therapeuten / Pflegefachpersonen erbracht wird, die Zeit pro Therapeutin / Therapeut / Pflegefachperson zu zählen ist.
 {{</markdown>}}

@@ -638,7 +638,7 @@ L’indication de la latéralité n’est impérative que pour les organes exist
 
 {{<markdown>}}
 **Problème/explication:**  
-Pour une thérapie de groupe, la durée totale des séances de traitement où le patient est présent est prise en compte. Par exemple, si cinq patients ont participé à une heure de thérapie de groupe, une durée de traitement de 60 minutes est prise en compte pour chaque patient.
+Pour une thérapie de groupe, la durée totale des séances de traitement où le patient est présent est prise en compte. Par exemple, si cinq patients ont participé à une heure de thérapie de groupe, une durée de traitement de 60 minutes est prise en compte pour chaque patient. Pour une durée de thérapie de 50 minutes, 50 minutes.  
 Si, dans le cadre d’une thérapie de groupe ou individuelle, le même type de thérapie/prestation thérapeutique est fourni par deux thérapeutes/infirmiers ou plus, le temps de thérapie doit être compté une seule fois. Indépendamment du nombre de thérapeutes, c’est le temps de thérapie consacré au(x) patient(s) qui s’applique.
    
 Exception: pour certains codes CHOP, il est indiqué en note que si le même type de thérapie/prestation thérapeutique est fourni par deux thérapeutes/infirmiers ou plus, il faut compter le temps par thérapeute/infirmier.
