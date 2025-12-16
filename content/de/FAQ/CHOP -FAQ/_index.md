@@ -49,7 +49,7 @@ keywords: []
 </table>
 
 <b>Problem/Erläuterung:</b></br>
-Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Methode mit einem präzisen Kode aus Kapitel 7 <font  color="green">"Operationen am kardiovaskulären System"</font> abgebildet. Gibt es einen präzisen Kode, wird 39.99.21 <i>Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen</i> nicht kodiert. 
+Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Methode mit einem präzisen Kode aus Kapitel 7 Operationen am kardiovaskulären System abgebildet. Gibt es einen präzisen Kode, wird 39.99.21 <i>Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen</i> nicht kodiert. 
 <br>
 <br>
 {{</article>}}
@@ -295,7 +295,7 @@ Folgende Kodes haben keine Unterteilung nach Anzahl der implantierten Stents/Pro
 Je Eingriff ist der Kode so oft zu kodieren, wie Stents/Prothesen implantiert wurden.
 <br>
 <br>
-Beispiel: Am Tag X werden zwei nicht selbstexpandierende Prothesen am Darm eingelegt. Am Tag Y werden beide entfernt und durch eine selbstexpandierende Prothese ersetzt.<br>
+Beispiel: Am Tag X werden zwei nicht selbstexpandierende Prothesen am Darm eingelegt. Am Tag Y werden beide entfernt und durch eine selbstexpandierende Prothese ersetzt.<br><br>
 Kodierung:
 {{<grid class="ps-0">}}
     {{<grid/column>}}
@@ -1040,7 +1040,7 @@ Folgendes zählt nicht zu den 6 Stunden:  <br>
 <br>  
 <br>  
 <b>Fragestellung Nr. 2:</b><br>  
-Was ist unter «wöchentlich» bei der «wöchentlicher interprofessioneller Teambesprechung» unter 93.8A.2- im <i>Mindestmerkmal</i> Punkt 4, <i>Therapieplanung und -kontrolle</i> und unter 93.8B.- im <i>Mindestmerkmal</i> Punkt 5, <i>Therapieplanung und -kontrolle</i>?
+Was ist unter «wöchentlich» bei der «wöchentlicher interprofessioneller Teambesprechung» unter 93.8A.2- im Mindestmerkmal Punkt 4, Therapieplanung und -kontrolle</i> und unter 93.8B.- im Mindestmerkmal Punkt 5, Therapieplanung und -kontrolle?
 <br>  
 <br>  
 <b>Erläuterung Nr. 2:</b><br>
@@ -1052,14 +1052,14 @@ Der Patient ist 10 Tage hospitalisiert (von Montag der Woche 1 bis Mittwoch der 
 <br>  
 <br>  
 <b>Fragestellung Nr. 3:</b><br>  
-Was ist unter «interprofessionell» unter 93.8A.2- im <i>Mindestmerkmal</i> Punkt 4, <i>Therapieplanung und -kontrolle</i> und unter 93.8B.- in den <i>Mindestmerkmal</i> Punkt 3, <i>Therapie und Mindestmerkmal</i> Punkt 5, <i>Therapieplanung und -kontrolle</i> zu verstehen?
+Was ist unter «interprofessionell» unter 93.8A.2- im Mindestmerkmal Punkt 4, Therapieplanung und -kontrolle und unter 93.8B.- in den Mindestmerkmal Punkt 3, Therapie und Mindestmerkmal Punkt 5, Therapieplanung und -kontrolle zu verstehen?
 <br>
 <br>
 <b>Erläuterung Nr. 3:</b><br>  
-Bei der «wöchentlichen interprofessionellen Teambesprechung» ist unter «interprofessionell» zu verstehen, dass im Minimum Arzt, Pflege und eine weitere Berufsgruppe teilnehmen (s. <i>Mindestmerkmal</i> Punkt 5, <i>Therapieplanung und -kontrolle</i> bei 93.8A.2- und 93.8B.-).
+Bei der «wöchentlichen interprofessionellen Teambesprechung» ist unter «interprofessionell» zu verstehen, dass im Minimum Arzt, Pflege und eine weitere Berufsgruppe teilnehmen (s. Mindestmerkmal Punkt 5, Therapieplanung und -kontrolle bei 93.8A.2- und 93.8B.-).
 <br>
 <br>  
-Bei der «interprofessionellen Visite» ist unter «interprofessionell» zu verstehen, dass im Minimum Arzt und Pflege teilnehmen (s. <i>Mindestmerkmal</i> Punkt 3, <i>Therapie</i> 93.8B.-).
+Bei der «interprofessionellen Visite» ist unter «interprofessionell» zu verstehen, dass im Minimum Arzt und Pflege teilnehmen (s. Mindestmerkmal Punkt 3, Therapie 93.8B.-).
 <br>
 <br>
 <br>

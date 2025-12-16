@@ -22,11 +22,11 @@ keywords: []
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Parola chiave:</th>
+    <th style="border: 1px solid black;">Parola chiave</th>
     <td style="border: 1px solid black;">Atelettasia parziale/atelettasia totale</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Creato:</th>
+    <th style="border: 1px solid black;">Creato</th>
     <td style="border: 1px solid black;">01.01.2026</td>
   </tr>
   <tr>
@@ -42,7 +42,7 @@ keywords: []
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Regola di codifica:</th>
+    <th style="border: 1px solid black;">Regola di codifica</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -73,11 +73,11 @@ La mancanza di ventilazione di parti del polmone (segmenti polmonari, lobi polmo
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Parola chiave:</th>
+    <th style="border: 1px solid black;">Parola chiave</th>
     <td style="border: 1px solid black;">Classificazione delle perdite endoluminali</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Creato:</th>
+    <th style="border: 1px solid black;">Creato</th>
     <td style="border: 1px solid black;">01.01.2026</td>
   </tr>
   <tr>
@@ -93,7 +93,7 @@ La mancanza di ventilazione di parti del polmone (segmenti polmonari, lobi polmo
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Regola di codifica:</th>
+    <th style="border: 1px solid black;">Regola di codifica</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -140,11 +140,11 @@ Un endoleak di **tipo V** è anche denominato endotensione. In questo caso si os
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Parola chiave:</th>
+    <th style="border: 1px solid black;">Parola chiave</th>
     <td style="border: 1px solid black;">Cisti idatidea / echinococcosi cistica</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Creato:</th>
+    <th style="border: 1px solid black;">Creato</th>
     <td style="border: 1px solid black;">01.01.2026</td>
   </tr>
   <tr>
@@ -160,7 +160,7 @@ Un endoleak di **tipo V** è anche denominato endotensione. In questo caso si os
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Regola di codifica:</th>
+    <th style="border: 1px solid black;">Regola di codifica</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -189,11 +189,11 @@ Se nel tessuto circostante sono presenti anche componenti dell'echinococco che p
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Parola chiave:</th>
+    <th style="border: 1px solid black;">Parola chiave</th>
     <td style="border: 1px solid black;">Stenosi delle arterie precerebrali</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Creato:</th>
+    <th style="border: 1px solid black;">Creato</th>
     <td style="border: 1px solid black;">01.01.2026</td>
   </tr>
   <tr>
@@ -209,7 +209,7 @@ Se nel tessuto circostante sono presenti anche componenti dell'echinococco che p
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Regola di codifica:</th>
+    <th style="border: 1px solid black;">Regola di codifica</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -240,11 +240,11 @@ In linea di principio vale quanto segue: occorre sempre scegliere il codice ICD 
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Parola chiave:</th>
+    <th style="border: 1px solid black;">Parola chiave</th>
     <td style="border: 1px solid black;">Ulcera ipertensiva / Martorell</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Creato:</th>
+    <th style="border: 1px solid black;">Creato</th>
     <td style="border: 1px solid black;">01.01.2026</td>
   </tr>
   <tr>
@@ -260,7 +260,7 @@ In linea di principio vale quanto segue: occorre sempre scegliere il codice ICD 
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Regola di codifica:</th>
+    <th style="border: 1px solid black;">Regola di codifica</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -288,11 +288,11 @@ Questa registrazione consente di distinguere l'ulcera ipertensiva da altri tipi 
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Parola chiave:</th>
+    <th style="border: 1px solid black;">Parola chiave</th>
     <td style="border: 1px solid black;">Zoster [herpes zoster] con manifestazioni / dolore acuto da herpes zoster</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Creato:</th>
+    <th style="border: 1px solid black;">Creato</th>
     <td style="border: 1px solid black;">01.01.2026</td>
   </tr>
   <tr>
@@ -308,7 +308,7 @@ Questa registrazione consente di distinguere l'ulcera ipertensiva da altri tipi 
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Regola di codifica:</th>
+    <th style="border: 1px solid black;">Regola di codifica</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -336,11 +336,11 @@ In caso di Zoster [herpes zoster] con manifestazione nell'area di innervazione d
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Parola chiave:</th>
+    <th style="border: 1px solid black;">Parola chiave</th>
     <td style="border: 1px solid black;">Insufficienza cardiaca / Stadi NYHA / HFpEF</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Creato:</th>
+    <th style="border: 1px solid black;">Creato</th>
     <td style="border: 1px solid black;">01.01.2026</td>
   </tr>
   <tr>
@@ -356,7 +356,7 @@ In caso di Zoster [herpes zoster] con manifestazione nell'area di innervazione d
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Regola di codifica:</th>
+    <th style="border: 1px solid black;">Regola di codifica</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -389,11 +389,11 @@ Se i disturbi o la dispnea sono adeguatamente documentati, i codici I50.12 – I
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Parola chiave:</th>
+    <th style="border: 1px solid black;">Parola chiave</th>
     <td style="border: 1px solid black;">Portatore di agenti patogeni multiresistenti / Infezione / Sospetto</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Creato:</th>
+    <th style="border: 1px solid black;">Creato</th>
     <td style="border: 1px solid black;">01.01.2026</td>
   </tr>
   <tr>
@@ -409,7 +409,7 @@ Se i disturbi o la dispnea sono adeguatamente documentati, i codici I50.12 – I
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Regola di codifica:</th>
+    <th style="border: 1px solid black;">Regola di codifica</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -443,11 +443,11 @@ Fino al momento in cui non siano disponibili tre test di tampone negativi consec
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Parola chiave:</th>
+    <th style="border: 1px solid black;">Parola chiave</th>
     <td style="border: 1px solid black;">Fratture osteoporotiche della colonna vertebrale, localizzazione</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Creato:</th>
+    <th style="border: 1px solid black;">Creato</th>
     <td style="border: 1px solid black;">01.01.2026</td>
   </tr>
   <tr>
@@ -463,7 +463,7 @@ Fino al momento in cui non siano disponibili tre test di tampone negativi consec
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Regola di codifica:</th>
+    <th style="border: 1px solid black;">Regola di codifica</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -494,11 +494,11 @@ Inoltre, per indicare chiaramente la localizzazione, deve essere inserito un cod
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Parola chiave:</th>
+    <th style="border: 1px solid black;">Parola chiave</th>
     <td style="border: 1px solid black;">Superinfezione batterica / polmonite virale</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Creato:</th>
+    <th style="border: 1px solid black;">Creato</th>
     <td style="border: 1px solid black;">01.01.2026</td>
   </tr>
   <tr>
@@ -514,7 +514,7 @@ Inoltre, per indicare chiaramente la localizzazione, deve essere inserito un cod
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Regola di codifica:</th>
+    <th style="border: 1px solid black;">Regola di codifica</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -550,11 +550,11 @@ Il fatto che si tratti di un'infezione di origine batterica non giustifica autom
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Parola chiave:</th>
+    <th style="border: 1px solid black;">Parola chiave</th>
     <td style="border: 1px solid black;">Tachiaritmia / Tachicardia / Fibrillazione atriale / Flutter atriale</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Creato:</th>
+    <th style="border: 1px solid black;">Creato</th>
     <td style="border: 1px solid black;">01.01.2026</td>
   </tr>
   <tr>
@@ -570,7 +570,7 @@ Il fatto che si tratti di un'infezione di origine batterica non giustifica autom
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Regola di codifica:</th>
+    <th style="border: 1px solid black;">Regola di codifica</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -602,11 +602,11 @@ La tachiaritmia / tachicardia non deve essere codificata in aggiunta alla fibril
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Parola chiave:</th>
+    <th style="border: 1px solid black;">Parola chiave</th>
     <td style="border: 1px solid black;">Idronefrosi / Infezione renale / Pion nefrosi / Infezione delle vie urinarie</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Creato:</th>
+    <th style="border: 1px solid black;">Creato</th>
     <td style="border: 1px solid black;">01.01.2026 / Base Circolare 2025/2:  0785</td>
   </tr>
   <tr>
@@ -622,7 +622,7 @@ La tachiaritmia / tachicardia non deve essere codificata in aggiunta alla fibril
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Regola di codifica:</th>
+    <th style="border: 1px solid black;">Regola di codifica</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>

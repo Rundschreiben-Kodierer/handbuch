@@ -23,11 +23,11 @@ keywords: []
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Mot-clé:</th>
+    <th style="border: 1px solid black;">Mot-clé</th>
     <td style="border: 1px solid black;">Anomalie de l'isthme aortique / sténose de l'isthme aortique</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Créé le:</th>
+    <th style="border: 1px solid black;">Créé</th>
     <td style="border: 1px solid black;">01.01.2026 – Base Circulaire 2025/2: 0879</td>
   </tr>
   <tr>
@@ -43,13 +43,13 @@ keywords: []
     <td style="border: 1px solid black;">39.99.21</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Règle de codage:</th>
+    <th style="border: 1px solid black;">Règle de codage</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
 
 <b>Problème/explication:</b></br>
-Une opération ouverte d'une sténose congénitale de l'isthme aortique est représentée, selon la méthode utilisée, par un code précis du chapitre 7 <font  color="green">«Opérations du système cardio-vasculaire»</font>. S'il existe un code précis, le code 39.99.21 <i>Opérations d’anomalie congénitale de l’isthme aortique (sténose) ou d’interruption de la crosse aortique</i> n'est pas codé. 
+Une opération ouverte d'une sténose congénitale de l'isthme aortique est représentée, selon la méthode utilisée, par un code précis du chapitre 7 Opérations du système cardio-vasculaire. S'il existe un code précis, le code 39.99.21 <i>Opérations d’anomalie congénitale de l’isthme aortique (sténose) ou d’interruption de la crosse aortique</i> n'est pas codé. 
 <br>  
 <br>
 <br>
@@ -60,11 +60,11 @@ Une opération ouverte d'une sténose congénitale de l'isthme aortique est repr
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Mot-clé:</th>
+    <th style="border: 1px solid black;">Mot-clé</th>
     <td style="border: 1px solid black;">Thrombectomie sur les vaisseaux pulmonaires / système d'élimination des thrombus</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Créé le:</th>
+    <th style="border: 1px solid black;">Créé</th>
     <td style="border: 1px solid black;">01.01.2026 – Base Circulaire 2025/2: 0769</td>
   </tr>
   <tr>
@@ -80,7 +80,7 @@ Une opération ouverte d'une sténose congénitale de l'isthme aortique est repr
     <td style="border: 1px solid black;">39.75.17/ 00.4B.13 / 00.4F.2-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Règle de codage:</th>
+    <th style="border: 1px solid black;">Règle de codage</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -106,12 +106,12 @@ Une thrombectomie transluminale percutanée sur des vaisseaux pulmonaires au moy
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Mot-clé:</th>
+    <th style="border: 1px solid black;">Mot-clé</th>
     <td style="border: 1px solid black;">Endoprothèses [stents couverts], fin des endoprothèses les plus bas</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Créé le:</th>
-    <td style="border: 1px solid black;">01/01/2026 – Base Circulaire 2025/2: 0752</td>
+    <th style="border: 1px solid black;">Créé</th>
+    <td style="border: 1px solid black;">01.01.2026 – Base Circulaire 2025/2: 0752</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
@@ -126,7 +126,7 @@ Une thrombectomie transluminale percutanée sur des vaisseaux pulmonaires au moy
     <td style="border: 1px solid black;">39.71.- / 39.78.5.- / 39.73.4-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Règle de codage:</th>
+    <th style="border: 1px solid black;">Règle de codage</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -166,11 +166,11 @@ Le tableau suivant illustre les différentes situations d'une prothèse abdomina
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Mot-clé:</th>
+    <th style="border: 1px solid black;">Mot-clé</th>
     <td style="border: 1px solid black;">Stents / Prothèses / Non vasculaires</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Créé le:</th>
+    <th style="border: 1px solid black;">Créé</th>
     <td style="border: 1px solid black;">01.01.2026 – Base Circulaire 2025/2: 0789</td>
   </tr>
   <tr>
@@ -187,13 +187,13 @@ Le tableau suivant illustre les différentes situations d'une prothèse abdomina
 </td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Règle de codage:</th>
+    <th style="border: 1px solid black;">Règle de codage</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
 
 <b>Problème/explication:</b><br>
-Les codes suivants présentent une subdivision par nombre de stents/prothèses implanté(e)s. Il n’existe pas de codes totaux pour l’ensemble du séjour pour ces types de stents/prothèses.
+Les codes suivants présentent une subdivision par nombre de stents/prothèses implanté(e)s.
 {{<indent level="4">}}
 42.81.- <i>Insertion d’un tube permanent dans l’œsophage</i><br>
 51.87.- <i>Insertion ou remplacement de stent de voie biliaire, par endoscopie</i><br>
@@ -296,7 +296,7 @@ Chacun des codes suivants indique uniquement «d’une prothèse» ou «de proth
 Pour chaque intervention, le code doit être saisi autant de fois qu’il y a de stents/prothèses implanté(e)s.
 <br>
 <br>
-Exemple: le jour X, deux prothèses non auto-expansibles sont insérées dans l’intestin. Le jour Y, ces deux prothèses sont enlevées et remplacées par une prothèse auto-expansible.<br>
+Exemple: le jour X, deux prothèses non auto-expansibles sont insérées dans l’intestin. Le jour Y, ces deux prothèses sont enlevées et remplacées par une prothèse auto-expansible.<br><br>
 Codage:
 {{<grid class="ps-0">}}
     {{<grid/column>}}
@@ -324,11 +324,11 @@ Jour Y:
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Mot-clé:</th>
+    <th style="border: 1px solid black;">Mot-clé</th>
     <td style="border: 1px solid black;">Nombre de stents / stents grafts [stents couverts] vasculaires</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Créé le:</th>
+    <th style="border: 1px solid black;">Créé</th>
     <td style="border: 1px solid black;">01.01.2026 – Nouveau</td>
   </tr>
   <tr>
@@ -344,7 +344,7 @@ Jour Y:
     <td style="border: 1px solid black;">36.03.- / 36.08.- / 39.71.- / 39.73.- / 39.7B.- / 39.B- / 39.C-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Règle de codage:</th>
+    <th style="border: 1px solid black;">Règle de codage</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -388,11 +388,11 @@ Codage :
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Mot-clé:</th>
+    <th style="border: 1px solid black;">Mot-clé</th>
     <td style="border: 1px solid black;">Dispositifs vaso-occlusifs / systèmes de protection contre l’embolie.  Opérations / interventions vaso-occlusives</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Créé le:</th>
+    <th style="border: 1px solid black;">Créé</th>
     <td style="border: 1px solid black;">01.01.2026 – Base Circulaire 2025/2: 0768</td>
   </tr>
   <tr>
@@ -408,7 +408,7 @@ Codage :
     <td style="border: 1px solid black;">39.79.2- / 39.79.5- / 39.E1 / 38.7X. / 00.4A.- / 00.4G.-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Règle de codage:</th>
+    <th style="border: 1px solid black;">Règle de codage</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -440,11 +440,11 @@ Les codes 38.7X.11 <i>Insertion d’un système de protection anti-embolie dans 
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Mot-clé:</th>
+    <th style="border: 1px solid black;">Mot-clé</th>
     <td style="border: 1px solid black;">Voies biliaires / chirurgie ouverte / interventions laparoscopiques</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Créé le:</th>
+    <th style="border: 1px solid black;">Créé</th>
     <td style="border: 1px solid black;">01.01.2026 – Base Circulaire 2025/2: 0903</td>
   </tr>
   <tr>
@@ -460,7 +460,7 @@ Les codes 38.7X.11 <i>Insertion d’un système de protection anti-embolie dans 
     <td style="border: 1px solid black;">51.99.00 - 51.99.14 / 51.99.91 / 51.99.99</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Règle de codage:</th>
+    <th style="border: 1px solid black;">Règle de codage</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -490,11 +490,11 @@ Le code 51.99.90 <i>Autre opération endoscopique des voies biliaires</i>, comme
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Mot-clé:</th>
+    <th style="border: 1px solid black;">Mot-clé</th>
     <td style="border: 1px solid black;">Remplacement de prothèse totale du genou / Implantation de prothèse totale du genou /<br> Remplacement de composants / Remplacement de la surface postérieure de la rotule</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Créé le:</th>
+    <th style="border: 1px solid black;">Créé</th>
     <td style="border: 1px solid black;">01.01.2026 – Base Circulaire 2025/2: 0808</td>
   </tr>
   <tr>
@@ -510,7 +510,7 @@ Le code 51.99.90 <i>Autre opération endoscopique des voies biliaires</i>, comme
     <td style="border: 1px solid black;">81.54.2-; 81.54.3-; 81.54.4-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Règle de codage:</th>
+    <th style="border: 1px solid black;">Règle de codage</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -532,11 +532,11 @@ Si, lors du remplacement d'une endoprothèse du genou, un remplacement de la fac
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Mot-clé:</th>
+    <th style="border: 1px solid black;">Mot-clé</th>
     <td style="border: 1px solid black;">Interventions sur la main, le pied, le métacarpe, les rayons des doigts, le métatarse et les rayons des orteils</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Créé le:</th>
+    <th style="border: 1px solid black;">Créé</th>
     <td style="border: 1px solid black;">01.01.2026 – Base Circulaire 2025/2: 0818</td>
   </tr>
   <tr>
@@ -552,7 +552,7 @@ Si, lors du remplacement d'une endoprothèse du genou, un remplacement de la fac
     <td style="border: 1px solid black;">00.9C.-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Règle de codage:</th>
+    <th style="border: 1px solid black;">Règle de codage</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -572,11 +572,11 @@ Le tableau suivant précise, par l’exemple de la main, le codage avec le code 
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Mot-clé:</th>
+    <th style="border: 1px solid black;">Mot-clé</th>
     <td style="border: 1px solid black;">Indication de la latéralité</br> / organes existant par paires / organes non présents par paires</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Créé le:</th>
+    <th style="border: 1px solid black;">Créé</th>
     <td style="border: 1px solid black;">01.01.2026 – Base Circulaire 2025/2: 0759</td>
   </tr>
   <tr>
@@ -592,7 +592,7 @@ Le tableau suivant précise, par l’exemple de la main, le codage avec le code 
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Règle de codage:</th>
+    <th style="border: 1px solid black;">Règle de codage</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -611,11 +611,11 @@ L’indication de la latéralité n’est impérative que pour les organes exist
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Mot-clé:</th>
+    <th style="border: 1px solid black;">Mot-clé</th>
     <td style="border: 1px solid black;">Comptage des minutes de thérapie / thérapie de groupe / thérapie individuelle / durée de la thérapie</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Créé le:</th>
+    <th style="border: 1px solid black;">Créé</th>
     <td style="border: 1px solid black;">01/01/2026 – Base Circulaire 2025/2: 0762</td>
   </tr>
   <tr>
@@ -631,7 +631,7 @@ L’indication de la latéralité n’est impérative que pour les organes exist
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Règle de codage:</th>
+    <th style="border: 1px solid black;">Règle de codage</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -639,7 +639,7 @@ L’indication de la latéralité n’est impérative que pour les organes exist
 {{<markdown>}}
 **Problème/explication:**  
 Pour une thérapie de groupe, la durée totale des séances de traitement où le patient est présent est prise en compte. Par exemple, si cinq patients ont participé à une heure de thérapie de groupe, une durée de traitement de 60 minutes est prise en compte pour chaque patient. Pour une durée de thérapie de 50 minutes, 50 minutes.  
-Si, dans le cadre d’une thérapie de groupe ou individuelle, le même type de thérapie/prestation thérapeutique est fourni par deux thérapeutes/infirmiers ou plus, le temps de thérapie doit être compté une seule fois. Indépendamment du nombre de thérapeutes, c’est le temps de thérapie consacré au(x) patient(s) qui s’applique.
+Si, dans le cadre d’une thérapie de groupe ou individuelle, le même type de thérapie/prestation thérapeutique est fourni par deux thérapeutes/infirmiers ou plus, le temps de thérapie doit être compté une seule fois.
    
 Exception: pour certains codes CHOP, il est indiqué en note que si le même type de thérapie/prestation thérapeutique est fourni par deux thérapeutes/infirmiers ou plus, il faut compter le temps par thérapeute/infirmier.
 {{</markdown>}}
@@ -653,12 +653,12 @@ Exception: pour certains codes CHOP, il est indiqué en note que si le même typ
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Mot-clé:</th>
+    <th style="border: 1px solid black;">Mot-clé</th>
     <td style="border: 1px solid black;">Mesures d'isolement / isolement / traitement complexe en cas de colonisation ou d'infection par des agents infectieux multirésistants</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Créé le:</th>
-    <td style="border: 1px solid black;">01/01/2026 - Base Circulaire 2025/2: 0758/2</td>
+    <th style="border: 1px solid black;">Créé</th>
+    <td style="border: 1px solid black;">01.01.2026 - Base Circulaire 2025/2: 0758/2</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
@@ -673,7 +673,7 @@ Exception: pour certains codes CHOP, il est indiqué en note que si le même typ
     <td style="border: 1px solid black;">93.59.5- / 99.84.1- / 99.84.2- / 99.84.3-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Règle de codage:</th>
+    <th style="border: 1px solid black;">Règle de codage</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -710,12 +710,12 @@ Cela signifie qu’il n’est pas admis de coder simultanément 93.59.5- et 99.8
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Mot-clé:</th>
+    <th style="border: 1px solid black;">Mot-clé</th>
     <td style="border: 1px solid black;">Infection à agents infectieux multirésistants / Mesures d'isolement</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Créé le:</th>
-    <td style="border: 1px solid black;">01/01/2026 - Base Circulaire 2025/2: 0758/1 </td>
+    <th style="border: 1px solid black;">Créé</th>
+    <td style="border: 1px solid black;">01.01.2026 - Base Circulaire 2025/2: 0758/1 </td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
@@ -730,7 +730,7 @@ Cela signifie qu’il n’est pas admis de coder simultanément 93.59.5- et 99.8
     <td style="border: 1px solid black;">93.59.5-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Règle de codage:</th>
+    <th style="border: 1px solid black;">Règle de codage</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -750,12 +750,12 @@ Pour le calcul des jours de traitement sous les codes du groupe d'éléments CHO
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Mot-clé:</th>
+    <th style="border: 1px solid black;">Mot-clé</th>
     <td style="border: 1px solid black;">Traitements complexes / 6 jours de traitement / caractéristiques minimales</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Créé le:</th>
-    <td style="border: 1px solid black;">01/01/2026 - Base Circulaire 2025/2: 0782</td>
+    <th style="border: 1px solid black;">Créé</th>
+    <td style="border: 1px solid black;">01.01.2026 - Base Circulaire 2025/2: 0782</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
@@ -770,7 +770,7 @@ Pour le calcul des jours de traitement sous les codes du groupe d'éléments CHO
     <td style="border: 1px solid black;">39.99.21</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Règle de codage:</th>
+    <th style="border: 1px solid black;">Règle de codage</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -791,12 +791,12 @@ Cela signifie que, pour ces codes, les caractéristiques minimales qui se rappor
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Mot-clé:</th>
+    <th style="border: 1px solid black;">Mot-clé</th>
     <td style="border: 1px solid black;">Unité de soins spécialisée dans les AVC / centre de soins spécialisé dans les AVC / diagnostic complexe de l'accident vasculaire cérébral aigu dans une unité de soins spécialisée dans les AVC ou un centre de soins spécialisé dans les AVC / examen neurologique / interprétation de la caractéristique minimale point 3</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Créé le:</th>
-    <td style="border: 1px solid black;">01/01/2026 - Nouveau</td>
+    <th style="border: 1px solid black;">Créé</th>
+    <td style="border: 1px solid black;">01.01.2026 - Nouveau</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
@@ -811,7 +811,7 @@ Cela signifie que, pour ces codes, les caractéristiques minimales qui se rappor
     <td style="border: 1px solid black;">99.A7. / 99.BA.1- / 99.BA.2- / 99.BA.3</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Règle de codage:</th>
+    <th style="border: 1px solid black;">Règle de codage</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -837,12 +837,12 @@ la <b>seule</b> saisie de l'échelle de Glasgow (GCS) n'est pas suffisante pour 
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Mot-clé:</th>
+    <th style="border: 1px solid black;">Mot-clé</th>
     <td style="border: 1px solid black;">Mesures Diagnostics complexes / traitements complexes, domaines thérapeutiques / caractéristiques minimales</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Créé le:</th>
-    <td style="border: 1px solid black;">01/01/2026 - Base Circulaire 2025/2: 0761</td>
+    <th style="border: 1px solid black;">Créé</th>
+    <td style="border: 1px solid black;">01.01.2026 - Base Circulaire 2025/2: 0761</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
@@ -857,7 +857,7 @@ la <b>seule</b> saisie de l'échelle de Glasgow (GCS) n'est pas suffisante pour 
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Règle de codage:</th>
+    <th style="border: 1px solid black;">Règle de codage</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -896,12 +896,12 @@ Si un EEG est réalisé à trois reprises sans que deux autres des mesures énum
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Mot-clé:</th>
+    <th style="border: 1px solid black;">Mot-clé</th>
     <td style="border: 1px solid black;">Traitement infirmier complexe / Groupes de prestations / Interventions infirmières</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Créé le:</th>
-    <td style="border: 1px solid black;">01/01/2026 – Base Circulaire 2025/2: 0760</td>
+    <th style="border: 1px solid black;">Créé</th>
+    <td style="border: 1px solid black;">01.01.2026 – Base Circulaire 2025/2: 0760</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
@@ -916,7 +916,7 @@ Si un EEG est réalisé à trois reprises sans que deux autres des mesures énum
     <td style="border: 1px solid black;">99.C-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Règle de codage:</th>
+    <th style="border: 1px solid black;">Règle de codage</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -940,12 +940,12 @@ Exemple 2: une «mesure d’hygiène» pourrait appartenir au groupe de prestati
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Mot-clé:</th>
+    <th style="border: 1px solid black;">Mot-clé</th>
     <td style="border: 1px solid black;">Regroupement de cas / PBA</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Créé le:</th>
-    <td style="border: 1px solid black;">01/01/2026 – Base Circulaire 2025/2: 0754/5</td>
+    <th style="border: 1px solid black;">Créé</th>
+    <td style="border: 1px solid black;">01.01.2026 – Base Circulaire 2025/2: 0754/5</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
@@ -960,7 +960,7 @@ Exemple 2: une «mesure d’hygiène» pourrait appartenir au groupe de prestati
     <td style="border: 1px solid black;">93.8A.2- / 93.8B.-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Règle de codage:</th>
+    <th style="border: 1px solid black;">Règle de codage</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -989,11 +989,11 @@ Lors d’un regroupement de cas avec un traitement complexe de médecine palliat
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Mot-clé:</th>
+    <th style="border: 1px solid black;">Mot-clé</th>
     <td style="border: 1px solid black;">Réunion d'équipe interprofessionnelle / traitement palliatif complexe / soins palliatifs</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Créé le:</th>
+    <th style="border: 1px solid black;">Créé</th>
     <td style="border: 1px solid black;">01.01.2026 – Base Circulaire 2025/2: 0754/2, 0754/3, 0754/4</td>
   </tr>
   <tr>
@@ -1009,12 +1009,12 @@ Lors d’un regroupement de cas avec un traitement complexe de médecine palliat
     <td style="border: 1px solid black;">93.8A.2- / 93.8B.-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Règle de codage:</th>
+    <th style="border: 1px solid black;">Règle de codage</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
 
-Les questions et explications suivantes concernent le groupe d’éléments 93.8A.2- Traitement complexe de médecine palliative (hors d’un service spécialisé autonome de soins palliatifs), selon le nombre de jours de traitement et la sous-catégorie 93.8B.- Traitement en service spécialisé autonome de soins palliatifs.
+Les questions et explications suivantes concernent le groupe d’éléments 93.8A.2- <i>Traitement complexe de médecine palliative (hors d’un service spécialisé autonome de soins palliatifs), selon le nombre de jours de traitement</i> et la sous-catégorie 93.8B.- <i>Traitement en service spécialisé autonome de soins palliatifs</i>.
 <br>
 <br>
 <b>Question n° 1:</b><br>  
@@ -1039,12 +1039,12 @@ Que signifie <b>«Chaque semaine»</b> dans le cadre de la « réunion hebdomada
 <b>Explication n° 2 :</b><br>
 <b>«Chaque semaine»</b> se réfère à la structure, pas au patient. Cela signifie qu’au moins une discussion interprofessionnelle en équipe a lieu chaque semaine dans l’unité clinique.
 <br>  
-Exemple:  <br>  
+Exemple:<br>  
 Le patient est hospitalisé pendant 10 jours (du lundi de la semaine 1 au mercredi de la semaine 2). Le patient sort le mercredi de la 2e semaine ou décède. Les discussions d’équipe ont toujours lieu le jeudi. L’exigence minimale du point de vue structurel est remplie également pour la 2e semaine.
 <br>  
 <br>  
 <b>Question n° 3:</b><br>  
-Que signifie « interprofessionnel » au point 93.8A.2- <i>dans la caractéristique minimale n° 4, Planification et contrôle thérapeutiques</i>, et au point 93.8B.- <i>dans la caractéristique minimale n° 3, Thérapie, et dans la caractéristique minimale n° 5, Planification et contrôle thérapeutiques</i> ?
+Que signifie « interprofessionnel » au point 93.8A.2- dans la caractéristique minimale n° 4, Planification et contrôle thérapeutiques<, et au point 93.8B.- dans la caractéristique minimale n° 3, Thérapie, et dans la caractéristique minimale n° 5, Planification et contrôle thérapeutiques ?
 <br>
 <b>Explication n° 3 :</b><br>  
 Dans le cadre de «chaque semaine, discussion interprofessionnelle en équipe», le terme «interprofessionnel» signifie qu'au minimum un médecin, un membre du personnel soignant et un autre groupe professionnel participent à la réunion (cf. critère minimal point 5, planification et contrôle du traitement sous 93.8A.2- et 93.8B.-).
@@ -1063,12 +1063,12 @@ Dans le cadre de la «visite interprofessionnelle», le terme «interprofessionn
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Mot-clé:</th>
+    <th style="border: 1px solid black;">Mot-clé</th>
     <td style="border: 1px solid black;">SENS / évaluation palliative de base / ESAS</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Créé le:</th>
-    <td style="border: 1px solid black;">01/01/2026 – Base Circulaire 2025/2: 0754/1 </td>
+    <th style="border: 1px solid black;">Créé</th>
+    <td style="border: 1px solid black;">01.01.2026 – Base Circulaire 2025/2: 0754/1 </td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
@@ -1083,7 +1083,7 @@ Dans le cadre de la «visite interprofessionnelle», le terme «interprofessionn
     <td style="border: 1px solid black;">93.8A.12 / 93.8A.2- / 93.8B.-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Règle de codage:</th>
+    <th style="border: 1px solid black;">Règle de codage</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -1109,12 +1109,12 @@ La réalisation d’un seul «examen ou test» pour l’évaluation de la dimens
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Mot-clé:</th>
+    <th style="border: 1px solid black;">Mot-clé</th>
     <td style="border: 1px solid black;">Codes supplémentaires du groupe d'éléments 93.8B.2-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Créé le:</th>
-    <td style="border: 1px solid black;">01/01/2026 – Base Circulaire 2025/2: 0754/6</td>
+    <th style="border: 1px solid black;">Créé</th>
+    <td style="border: 1px solid black;">01.01.2026 – Base Circulaire 2025/2: 0754/6</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
@@ -1129,7 +1129,7 @@ La réalisation d’un seul «examen ou test» pour l’évaluation de la dimens
     <td style="border: 1px solid black;">93.8B.-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Règle de codage:</th>
+    <th style="border: 1px solid black;">Règle de codage</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -1156,12 +1156,12 @@ Les deux exemples ci-dessous illustrent la manière de saisir les codes supplém
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Mot-clé:</th>
+    <th style="border: 1px solid black;">Mot-clé</th>
     <td style="border: 1px solid black;">Changement de tige colonne vertébrale  nouvelle fusion segments lors d'un pontage / intervention de révision colonne vertébrale / comptage des segments</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Créé le:</th>
-    <td style="border: 1px solid black;">01/01/2026 – Base Circulaire 2025/2: 0788</td>
+    <th style="border: 1px solid black;">Créé</th>
+    <td style="border: 1px solid black;">01.01.2026 – Base Circulaire 2025/2: 0788</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
@@ -1176,7 +1176,7 @@ Les deux exemples ci-dessous illustrent la manière de saisir les codes supplém
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Règle de codage:</th>
+    <th style="border: 1px solid black;">Règle de codage</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -1199,12 +1199,12 @@ Exemple: une spondylodèse des vertèbres L2-L4 préexistante, complétée à pr
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Mot-clé:</th>
+    <th style="border: 1px solid black;">Mot-clé</th>
     <td style="border: 1px solid black;">Tige de croissance / stabilisation dynamique de la colonne vertébrale / comptage des segments</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Créé le:</th>
-    <td style="border: 1px solid black;">01/01/2026 – Base Circulaire 2025/2: 0819</td>
+    <th style="border: 1px solid black;">Créé</th>
+    <td style="border: 1px solid black;">01.01.2026 – Base Circulaire 2025/2: 0819</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
@@ -1219,7 +1219,7 @@ Exemple: une spondylodèse des vertèbres L2-L4 préexistante, complétée à pr
     <td style="border: 1px solid black;">7A.A2 / 7A.72.1-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Règle de codage:</th>
+    <th style="border: 1px solid black;">Règle de codage</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -1243,12 +1243,12 @@ Seuls les segments auxquels le système est fixé sont pris en compte dans le d�
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Mot-clé:</th>
+    <th style="border: 1px solid black;">Mot-clé</th>
     <td style="border: 1px solid black;">Stabilisation / correction de la position de la colonne vertébrale / accès dorsal et/ou dorsolatéral / ventral, comptage des segments</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Créé le:</th>
-    <td style="border: 1px solid black;">01/01/2026 – Base Circulaire 2025/2: 0766</td>
+    <th style="border: 1px solid black;">Créé</th>
+    <td style="border: 1px solid black;">01.01.2026 – Base Circulaire 2025/2: 0766</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
@@ -1263,7 +1263,7 @@ Seuls les segments auxquels le système est fixé sont pris en compte dans le d�
     <td style="border: 1px solid black;">7A.7- / 7A.B4.-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Règle de codage:</th>
+    <th style="border: 1px solid black;">Règle de codage</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -1293,13 +1293,13 @@ Dans l’exemple de l’illustration suivante, une spondylodèse a été réalis
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Mot-clé:</th>
+    <th style="border: 1px solid black;">Mot-clé</th>
     <td style="border: 1px solid black;">fusion vertébrale / instrumentation / greffe osseuse / transplantation osseuse / 
 substitut osseux au niveau de la colonne vertébrale / mesures de stabilisation
 </td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Créé le:</th>
+    <th style="border: 1px solid black;">Créé</th>
     <td style="border: 1px solid black;">01.01.2026 - Nouveau</td>
   </tr>
   <tr>
@@ -1315,7 +1315,7 @@ substitut osseux au niveau de la colonne vertébrale / mesures de stabilisation
     <td style="border: 1px solid black;">7A.71.-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Règle de codage:</th>
+    <th style="border: 1px solid black;">Règle de codage</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -1343,12 +1343,12 @@ Il n'y a <b>pas</b> de <b>potentiel de conservation du mouvement</b> dans le seg
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Mot-clé:</th>
+    <th style="border: 1px solid black;">Mot-clé</th>
     <td style="border: 1px solid black;">Fusion osseuse de la colonne vertébrale sans instrumentation / greffe osseuse, transposition osseuse / <br>remplacement osseux au niveau de la colonne vertébrale</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Créé le:</th>
-    <td style="border: 1px solid black;">01/01/2026 – Nouveau</td>
+    <th style="border: 1px solid black;">Créé</th>
+    <td style="border: 1px solid black;">01.01.2026 – Nouveau</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
@@ -1363,7 +1363,7 @@ Il n'y a <b>pas</b> de <b>potentiel de conservation du mouvement</b> dans le seg
     <td style="border: 1px solid black;">7A.51.14 / 7A.B1.- / 03.03.- / 03.04.- / 7A.71.-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Règle de codage:</th>
+    <th style="border: 1px solid black;">Règle de codage</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -1387,12 +1387,12 @@ En cas de laminotomie, de laminectomie ou de laminoplastie, cela doit être enre
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Mot-clé:</th>
+    <th style="border: 1px solid black;">Mot-clé</th>
     <td style="border: 1px solid black;">Stabilisation non dynamique de la colonne vertébrale, instrumentation / ostéosynthèse de la colonne vertébrale</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Créé le:</th>
-    <td style="border: 1px solid black;">01/01/2026 – Nouveau </td>
+    <th style="border: 1px solid black;">Créé</th>
+    <td style="border: 1px solid black;">01.01.2026 – Nouveau </td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
@@ -1407,7 +1407,7 @@ En cas de laminotomie, de laminectomie ou de laminoplastie, cela doit être enre
     <td style="border: 1px solid black;">7A.73.-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Règle de codage:</th>
+    <th style="border: 1px solid black;">Règle de codage</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>

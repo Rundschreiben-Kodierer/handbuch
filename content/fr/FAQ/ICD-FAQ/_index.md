@@ -22,11 +22,11 @@ keywords: []
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Mot-clé:</th>
+    <th style="border: 1px solid black;">Mot-clé</th>
     <td style="border: 1px solid black;">Atélectasie pulmonaire</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Créé le:</th>
+    <th style="border: 1px solid black;">Créé</th>
     <td style="border: 1px solid black;">01.01.2026</td>
   </tr>
   <tr>
@@ -42,7 +42,7 @@ keywords: []
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Règle de codage:</th>
+    <th style="border: 1px solid black;">Règle de codage</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -74,11 +74,11 @@ L'absence de ventilation de certaines parties du poumon (segments pulmonaires, l
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Mot-clé:</th>
+    <th style="border: 1px solid black;">Mot-clé</th>
     <td style="border: 1px solid black;">Classification des endofuites</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Créé le:</th>
+    <th style="border: 1px solid black;">Créé</th>
     <td style="border: 1px solid black;">01.01.2026</td>
   </tr>
   <tr>
@@ -94,7 +94,7 @@ L'absence de ventilation de certaines parties du poumon (segments pulmonaires, l
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Règle de codage:</th>
+    <th style="border: 1px solid black;">Règle de codage</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -141,11 +141,11 @@ Une endofuite de **type V** est également appelée endotension. Dans ce cas, on
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Mot-clé:</th>
+    <th style="border: 1px solid black;">Mot-clé</th>
     <td style="border: 1px solid black;">Kyste hydatique, échinococcose kystique</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Créé le:</th>
+    <th style="border: 1px solid black;">Créé</th>
     <td style="border: 1px solid black;">01.01.2026</td>
   </tr>
   <tr>
@@ -161,7 +161,7 @@ Une endofuite de **type V** est également appelée endotension. Dans ce cas, on
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Règle de codage:</th>
+    <th style="border: 1px solid black;">Règle de codage</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -192,11 +192,11 @@ Si des composants d'Echinococcus sont également présents dans les tissus envir
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Mot-clé:</th>
+    <th style="border: 1px solid black;">Mot-clé</th>
     <td style="border: 1px solid black;">Sténose(s) des artères précérébrales</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Créé le:</th>
+    <th style="border: 1px solid black;">Créé</th>
     <td style="border: 1px solid black;">01.01.2026</td>
   </tr>
   <tr>
@@ -212,7 +212,7 @@ Si des composants d'Echinococcus sont également présents dans les tissus envir
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Règle de codage:</th>
+    <th style="border: 1px solid black;">Règle de codage</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -242,11 +242,11 @@ En principe, il convient de toujours choisir le code CIM le plus spécifique qui
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Mot-clé:</th>
+    <th style="border: 1px solid black;">Mot-clé</th>
     <td style="border: 1px solid black;">Ulcère hypertonique / Martorell</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Créé le:</th>
+    <th style="border: 1px solid black;">Créé</th>
     <td style="border: 1px solid black;">01.01.2026</td>
   </tr>
   <tr>
@@ -262,7 +262,7 @@ En principe, il convient de toujours choisir le code CIM le plus spécifique qui
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Règle de codage:</th>
+    <th style="border: 1px solid black;">Règle de codage</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -290,11 +290,11 @@ Cette classification permet de distinguer l'ulcère hypertonique des autres type
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Mot-clé:</th>
+    <th style="border: 1px solid black;">Mot-clé</th>
     <td style="border: 1px solid black;">Herpes zoster avec manifestations / douleurs aiguës liées à l'herpès zoster / Zona</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Créé le:</th>
+    <th style="border: 1px solid black;">Créé</th>
     <td style="border: 1px solid black;">01.01.2026</td>
   </tr>
   <tr>
@@ -310,7 +310,7 @@ Cette classification permet de distinguer l'ulcère hypertonique des autres type
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Règle de codage:</th>
+    <th style="border: 1px solid black;">Règle de codage</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -336,11 +336,11 @@ Un herpès zoster se manifestant dans la zone d'innervation de la première bran
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Mot-clé:</th>
+    <th style="border: 1px solid black;">Mot-clé</th>
     <td style="border: 1px solid black;">Insuffisance cardiaque / Stades NYHA / HFpEF</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Créé le:</th>
+    <th style="border: 1px solid black;">Créé</th>
     <td style="border: 1px solid black;">01.01.2026</td>
   </tr>
   <tr>
@@ -356,7 +356,7 @@ Un herpès zoster se manifestant dans la zone d'innervation de la première bran
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Règle de codage:</th>
+    <th style="border: 1px solid black;">Règle de codage</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -385,11 +385,11 @@ Si les symptômes/la dyspnée sont documentés de manière appropriée, les code
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Mot-clé:</th>
+    <th style="border: 1px solid black;">Mot-clé</th>
     <td style="border: 1px solid black;">Porteur de BMR / Infection / Suspicion</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Créé le:</th>
+    <th style="border: 1px solid black;">Créé</th>
     <td style="border: 1px solid black;">01.01.2026</td>
   </tr>
   <tr>
@@ -405,7 +405,7 @@ Si les symptômes/la dyspnée sont documentés de manière appropriée, les code
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Règle de codage:</th>
+    <th style="border: 1px solid black;">Règle de codage</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -437,11 +437,11 @@ Jusqu’au moment où trois tests de dépistage négatifs consécutifs par local
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Mot-clé:</th>
+    <th style="border: 1px solid black;">Mot-clé</th>
     <td style="border: 1px solid black;">Fractures ostéoporotiques de la colonne vertébrale, localisation</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Créé le:</th>
+    <th style="border: 1px solid black;">Créé</th>
     <td style="border: 1px solid black;">01.01.2026</td>
   </tr>
   <tr>
@@ -457,7 +457,7 @@ Jusqu’au moment où trois tests de dépistage négatifs consécutifs par local
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Règle de codage:</th>
+    <th style="border: 1px solid black;">Règle de codage</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -485,11 +485,11 @@ En complément, un code du groupe CIM-10-GM 2024 M49.5-* <i>Tassement vertébral
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Mot-clé:</th>
+    <th style="border: 1px solid black;">Mot-clé</th>
     <td style="border: 1px solid black;">Surinfection bactérienne / pneumonie virale</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Créé le:</th>
+    <th style="border: 1px solid black;">Créé</th>
     <td style="border: 1px solid black;">01.01.2026</td>
   </tr>
   <tr>
@@ -505,7 +505,7 @@ En complément, un code du groupe CIM-10-GM 2024 M49.5-* <i>Tassement vertébral
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Règle de codage:</th>
+    <th style="border: 1px solid black;">Règle de codage</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -538,11 +538,11 @@ Le fait qu'il s'agisse d'une infection d'origine bactérienne ne justifie pas au
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Mot-clé:</th>
+    <th style="border: 1px solid black;">Mot-clé</th>
     <td style="border: 1px solid black;">Tachyarythmie / Tachycardie / Fibrillation auriculaire / Flutter auriculaire</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Créé le:</th>
+    <th style="border: 1px solid black;">Créé</th>
     <td style="border: 1px solid black;">01.01.2026</td>
   </tr>
   <tr>
@@ -558,7 +558,7 @@ Le fait qu'il s'agisse d'une infection d'origine bactérienne ne justifie pas au
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Règle de codage:</th>
+    <th style="border: 1px solid black;">Règle de codage</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -587,11 +587,11 @@ La tachyarythmie / tachycardie ne doit pas être codée en plus de la fibrillati
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Mot-clé:</th>
+    <th style="border: 1px solid black;">Mot-clé</th>
     <td style="border: 1px solid black;">Hydronéphrose / Infection rénale / Pyonéphrose / Infection urinaire</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Créé le:</th>
+    <th style="border: 1px solid black;">Créé</th>
     <td style="border: 1px solid black;">01/01/2026 / Base Circulaire 2025/2: 0785</td>
   </tr>
   <tr>
@@ -607,7 +607,7 @@ La tachyarythmie / tachycardie ne doit pas être codée en plus de la fibrillati
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Règle de codage:</th>
+    <th style="border: 1px solid black;">Règle de codage</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>

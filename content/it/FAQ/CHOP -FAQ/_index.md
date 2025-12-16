@@ -23,11 +23,11 @@ keywords: []
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Parola chiave:</th>
+    <th style="border: 1px solid black;">Parola chiave</th>
     <td style="border: 1px solid black;">Anomalia dell'istmo aortico / stenosi dell'istmo aortico</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Creato:</th>
+    <th style="border: 1px solid black;">Creato</th>
     <td style="border: 1px solid black;">01.01.2026 – Base Circolare 2025/2: 0879</td>
   </tr>
   <tr>
@@ -43,13 +43,13 @@ keywords: []
     <td style="border: 1px solid black;">39.99.21</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Regola di codifica:</th>
+    <th style="border: 1px solid black;">Regola di codifica</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
 
 <b>Problema/Spiegazione:</b></br>
-Un intervento a cielo aperto per una coartazione aortica congenita viene codificato, a seconda del metodo, con un codice preciso di cui al capitolo 7 <font  color="green">"Interventi chirurgici sul sistema cardiovascolare"</font>. Se esiste un codice preciso, il codice 39.99.21 <i>Interventi per anomalie congenite dell’istmo aortico (stenosi) o per arco aortico interrotto</i> non viene codificato.  
+Un intervento a cielo aperto per una coartazione aortica congenita viene codificato, a seconda del metodo, con un codice preciso di cui al capitolo 7 Interventi chirurgici sul sistema cardiovascolare. Se esiste un codice preciso, il codice 39.99.21 <i>Interventi per anomalie congenite dell’istmo aortico (stenosi) o per arco aortico interrotto</i> non viene codificato.  
 <br>
 <br>
 <br>
@@ -60,11 +60,11 @@ Un intervento a cielo aperto per una coartazione aortica congenita viene codific
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Parola chiave:</th>
+    <th style="border: 1px solid black;">Parola chiave</th>
     <td style="border: 1px solid black;">Trombectomia sui vasi polmonari / sistema di rimozione del trombo</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Creato:</th>
+    <th style="border: 1px solid black;">Creato</th>
     <td style="border: 1px solid black;">01.01.2026 – Base Circolare 2025/2: 0769</td>
   </tr>
   <tr>
@@ -80,7 +80,7 @@ Un intervento a cielo aperto per una coartazione aortica congenita viene codific
     <td style="border: 1px solid black;">39.75.17 / 00.4B.13 / 00.4F.2-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Regola di codifica:</th>
+    <th style="border: 1px solid black;">Regola di codifica</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -107,11 +107,11 @@ Per la registrazione della trombectomia percutanea transluminale di vasi polmona
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Parola chiave:</th>
+    <th style="border: 1px solid black;">Parola chiave</th>
     <td style="border: 1px solid black;">Stent grafts [stents ricoperti] / Estremità degli stent grafts inferiori</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Creato:</th>
+    <th style="border: 1px solid black;">Creato</th>
     <td style="border: 1px solid black;">01.01.2026 – Base Circolare 2025/2: 0752</td>
   </tr>
   <tr>
@@ -127,7 +127,7 @@ Per la registrazione della trombectomia percutanea transluminale di vasi polmona
     <td style="border: 1px solid black;">39.71.- / 39.78.5.- / 39.73.4-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Regola di codifica:</th>
+    <th style="border: 1px solid black;">Regola di codifica</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -167,11 +167,11 @@ La tabella seguente illustra le diverse situazioni di una protesi addominale pri
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Parola chiave:</th>
+    <th style="border: 1px solid black;">Parola chiave</th>
     <td style="border: 1px solid black;">Stent / Protesi / non vascolari</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Creato:</th>
+    <th style="border: 1px solid black;">Creato</th>
     <td style="border: 1px solid black;">01.01.2026 – Base Circolare 2025/2: 0789</td>
   </tr>
   <tr>
@@ -188,13 +188,13 @@ La tabella seguente illustra le diverse situazioni di una protesi addominale pri
 </td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Regola di codifica:</th>
+    <th style="border: 1px solid black;">Regola di codifica</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
 
 <b>Problema/Spiegazione:</b><br>
-I seguenti codici sono strutturati in base al numero di stents/protesi impiantati. Per questi tipi di stent/protesi non vi sono codici somma riguardanti l’intera degenza.
+I seguenti codici sono strutturati in base al numero di stents/protesi impiantati. 
 {{<indent level="4">}}
 42.81.- <i>Inserzione di una sonda permanente nell’esofago</i><br>
 51.87.- <i>Inserzione endoscopica di stent nel dotto biliare</i><br>
@@ -327,11 +327,11 @@ Giorno Y:
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Parola chiave:</th>
+    <th style="border: 1px solid black;">Parola chiave</th>
     <td style="border: 1px solid black;">Numero di stent / stent graft [stent rivestiti] vascolari</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Creato:</th>
+    <th style="border: 1px solid black;">Creato</th>
     <td style="border: 1px solid black;">01.01.2026 – Nuovo</td>
   </tr>
   <tr>
@@ -347,7 +347,7 @@ Giorno Y:
     <td style="border: 1px solid black;">36.03.- / 36.08.- / 39.71.- / 39.73.- / 39.7B.- / 39.B- / 39.C-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Regola di codifica:</th>
+    <th style="border: 1px solid black;">Regola di codifica</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -391,11 +391,11 @@ Codifica:
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Parola chiave:</th>
+    <th style="border: 1px solid black;">Parola chiave</th>
     <td style="border: 1px solid black;">Corpi occlusivi vascolari / Sistemi di protezione dall'embolia / Interventi chirurgici/interventi di occlusione vascolare</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Creato:</th>
+    <th style="border: 1px solid black;">Creato</th>
     <td style="border: 1px solid black;">01.01.2026 – Base Circolare 2025/2: 0768</td>
   </tr>
   <tr>
@@ -411,7 +411,7 @@ Codifica:
     <td style="border: 1px solid black;">39.79.2- / 39.79.5- / 39.E1 / 38.7X. / 00.4A.- / 00.4G.-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Regola di codifica:</th>
+    <th style="border: 1px solid black;">Regola di codifica</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -440,11 +440,11 @@ I codici 38.7X.11 <i>Inserzione di sistema di protezione da embolia nella vena c
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Parola chiave:</th>
+    <th style="border: 1px solid black;">Parola chiave</th>
     <td style="border: 1px solid black;">Vie biliari, interventi chirurgici a cielo aperto, interventi laparoscopici</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Creato:</th>
+    <th style="border: 1px solid black;">Creato</th>
     <td style="border: 1px solid black;">01.01.2026 – Base Circolare 2025/2: 0903</td>
   </tr>
   <tr>
@@ -460,7 +460,7 @@ I codici 38.7X.11 <i>Inserzione di sistema di protezione da embolia nella vena c
     <td style="border: 1px solid black;">51.99.00 - 51.99.14 / 51.99.91 / 51.99.99</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Regola di codifica:</th>
+    <th style="border: 1px solid black;">Regola di codifica</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -490,11 +490,11 @@ Il codice 51.99.90 <i>Altri interventi endoscopici sulle vie biliari</i>, come i
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Parola chiave:</th>
+    <th style="border: 1px solid black;">Parola chiave</th>
     <td style="border: 1px solid black;">Sostituzione di endoprotesi di ginocchio / Impianto endoprotesi del ginocchio / Sostituzione componenti / Impianto endoprotesi della rotula</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Creato:</th>
+    <th style="border: 1px solid black;">Creato</th>
     <td style="border: 1px solid black;">01.01.2026 – Base RS 2025/2: 0808</td>
   </tr>
   <tr>
@@ -510,7 +510,7 @@ Il codice 51.99.90 <i>Altri interventi endoscopici sulle vie biliari</i>, come i
     <td style="border: 1px solid black;">81.54.2-; 81.54.3-; 81.54.4-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Regola di codifica:</th>
+    <th style="border: 1px solid black;">Regola di codifica</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -532,11 +532,11 @@ Analogamente, se in occasione di una sostituzione di endoprotesi di ginocchio vi
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Parola chiave:</th>
+    <th style="border: 1px solid black;">Parola chiave</th>
     <td style="border: 1px solid black;">Interventi alla mano, al piede, alle ossa metacarpali e falangi, alle ossa metatarsali e alle ossa delle dita dei piedi</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Creato:</th>
+    <th style="border: 1px solid black;">Creato</th>
     <td style="border: 1px solid black;">01.01.2026 – Base Circolare 2025/2: 0818</td>
   </tr>
   <tr>
@@ -552,7 +552,7 @@ Analogamente, se in occasione di una sostituzione di endoprotesi di ginocchio vi
     <td style="border: 1px solid black;">00.9C.-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Regola di codifica:</th>
+    <th style="border: 1px solid black;">Regola di codifica</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -573,11 +573,11 @@ La seguente tabella precisa l’utilizzo del codice e del codice supplementare p
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Parola chiave:</th>
+    <th style="border: 1px solid black;">Parola chiave</th>
     <td style="border: 1px solid black;">Marcatura della lateralità / organi appaiati / organi non appaiati</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Creato:</th>
+    <th style="border: 1px solid black;">Creato</th>
     <td style="border: 1px solid black;">01.01.2026 – Base Circolare 2025/2: 0759</td>
   </tr>
   <tr>
@@ -593,7 +593,7 @@ La seguente tabella precisa l’utilizzo del codice e del codice supplementare p
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Regola di codifica:</th>
+    <th style="border: 1px solid black;">Regola di codifica</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -612,11 +612,11 @@ L’indicazione della lateralità è obbligatoria solo per gli organi pari (nell
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Parola chiave:</th>
+    <th style="border: 1px solid black;">Parola chiave</th>
     <td style="border: 1px solid black;">Conteggio minuti di terapia / terapia di gruppo / terapia individuale / durata della terapia</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Creato:</th>
+    <th style="border: 1px solid black;">Creato</th>
     <td style="border: 1px solid black;">01.01.2026 – Base Circolare 2025/2: 0762</td>
   </tr>
   <tr>
@@ -632,7 +632,7 @@ L’indicazione della lateralità è obbligatoria solo per gli organi pari (nell
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Regola di codifica:</th>
+    <th style="border: 1px solid black;">Regola di codifica</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -640,7 +640,7 @@ L’indicazione della lateralità è obbligatoria solo per gli organi pari (nell
 {{<markdown>}}
 **Problema/Spiegazione:**  
 In caso di intervento terapeutico di gruppo, va conteggiata l’intera durata della terapia in cui è presente il paziente; per esempio, se cinque pazienti partecipano a una terapia di gruppo di un’ora, per ciascuno di loro devono essere conteggiati 60 minuti di durata terapeutica. Per una durata della terapia di 50 minuti, vengono conteggiati 50 minuti.  
-Se, nel quadro di un intervento terapeutico individuale o di gruppo, due o più terapeuti/infermieri somministrano lo stesso tipo di terapia/la stessa prestazione terapeutica, il tempo di somministrazione va conteggiato una sola volta. Ciò vale indipendentemente dal numero di terapeuti che intervengono presso il paziente.
+Se, nel quadro di un intervento terapeutico individuale o di gruppo, due o più terapeuti/infermieri somministrano lo stesso tipo di terapia/la stessa prestazione terapeutica, il tempo di somministrazione va conteggiato una sola volta.
    
 Eccezione: esistono codici CHOP per i quali è indicato in nota che, se due o più terapeuti/infermieri somministrano lo stesso tipo di terapia/la stessa prestazione terapeutica, va conteggiato il tempo di intervento di ciascun terapeuta/infermiere.
 {{</markdown>}}
@@ -654,11 +654,11 @@ Eccezione: esistono codici CHOP per i quali è indicato in nota che, se due o pi
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Parola chiave:</th>
+    <th style="border: 1px solid black;">Parola chiave</th>
     <td style="border: 1px solid black;">Misure di isolamento / Isolamento / Trattamento complesso in caso di colonizzazione o infezione da agenti patogeni multiresistenti</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Creato:</th>
+    <th style="border: 1px solid black;">Creato</th>
     <td style="border: 1px solid black;">01.01.2026 – Base Circolare 2025/2: 0758/2</td>
   </tr>
   <tr>
@@ -674,7 +674,7 @@ Eccezione: esistono codici CHOP per i quali è indicato in nota che, se due o pi
     <td style="border: 1px solid black;">93.59.5- / 99.84.1- / 99.84.2- / 99.84.3-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Regola di codifica:</th>
+    <th style="border: 1px solid black;">Regola di codifica</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -711,11 +711,11 @@ Ciò significa che non è consentito codificare contemporaneamente 93.59.5- e 99
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Parola chiave:</th>
+    <th style="border: 1px solid black;">Parola chiave</th>
     <td style="border: 1px solid black;">Infezione da agenti patogeni multiresistenti / Misura di isolamento</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Creato:</th>
+    <th style="border: 1px solid black;">Creato</th>
     <td style="border: 1px solid black;">01.01.2026 – Base Circolare 2025/2: 0758/1</td>
   </tr>
   <tr>
@@ -731,7 +731,7 @@ Ciò significa che non è consentito codificare contemporaneamente 93.59.5- e 99
     <td style="border: 1px solid black;">93.59.5-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Regola di codifica:</th>
+    <th style="border: 1px solid black;">Regola di codifica</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -751,11 +751,11 @@ Ai fini del conteggio dei giorni di degenza per i codici CHOP del gruppo di elem
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Parola chiave:</th>
+    <th style="border: 1px solid black;">Parola chiave</th>
     <td style="border: 1px solid black;">Trattamenti complessi / 6 giorni di trattamento /  caratteristiche minime</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Creato:</th>
+    <th style="border: 1px solid black;">Creato</th>
     <td style="border: 1px solid black;">01.01.2026 – Base Circolare 2025/2: 0782</td>
   </tr>
   <tr>
@@ -771,7 +771,7 @@ Ai fini del conteggio dei giorni di degenza per i codici CHOP del gruppo di elem
     <td style="border: 1px solid black;">39.99.21</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Regola di codifica:</th>
+    <th style="border: 1px solid black;">Regola di codifica</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -791,11 +791,11 @@ I codici «[…], fino a 6 giorni di trattamento» vanno utilizzati nei casi in 
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Parola chiave:</th>
+    <th style="border: 1px solid black;">Parola chiave</th>
     <td style="border: 1px solid black;">Unità Stroke/Centro Stroke / diagnosi complessa dell'ictus acuto nell'Unità Stroke o nel Centro Stroke / valutazione neurologica / interpretazione della caratteristica minima punto 3</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Creato:</th>
+    <th style="border: 1px solid black;">Creato</th>
     <td style="border: 1px solid black;">01.01.2026 - Neu</td>
   </tr>
   <tr>
@@ -811,7 +811,7 @@ I codici «[…], fino a 6 giorni di trattamento» vanno utilizzati nei casi in 
     <td style="border: 1px solid black;">99.A7. / 99.BA.1- / 99.BA.2- / 99.BA.3</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Regola di codifica:</th>
+    <th style="border: 1px solid black;">Regola di codifica</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -837,11 +837,11 @@ La **sola** registrazione della Glasgow Coma Scale (GCS) non è sufficiente per 
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Parola chiave:</th>
+    <th style="border: 1px solid black;">Parola chiave</th>
     <td style="border: 1px solid black;">Misure diagnostiche complesse / trattamenti complessi, aree terapeutiche / caratteristiche minime</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Creato:</th>
+    <th style="border: 1px solid black;">Creato</th>
     <td style="border: 1px solid black;">01.01.2026 – Base Circolare 2025/2: 0761</td>
   </tr>
   <tr>
@@ -857,7 +857,7 @@ La **sola** registrazione della Glasgow Coma Scale (GCS) non è sufficiente per 
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Regola di codifica:</th>
+    <th style="border: 1px solid black;">Regola di codifica</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -899,11 +899,11 @@ Se invece vengono somministrati una RMN cranica, una diagnostica neuropsicologic
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Parola chiave:</th>
+    <th style="border: 1px solid black;">Parola chiave</th>
     <td style="border: 1px solid black;">Trattamento infermieristico complesso / Gruppi di prestazioni / Interventi infermieristici</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Creato:</th>
+    <th style="border: 1px solid black;">Creato</th>
     <td style="border: 1px solid black;">01.01.2026 – Base Circolare 2025/2: 0760</td>
   </tr>
   <tr>
@@ -919,7 +919,7 @@ Se invece vengono somministrati una RMN cranica, una diagnostica neuropsicologic
     <td style="border: 1px solid black;">99.C-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Regola di codifica:</th>
+    <th style="border: 1px solid black;">Regola di codifica</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -944,11 +944,11 @@ Esempio 2: una «misura di igiene» potrebbe essere fornita nel quadro del profi
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Parola chiave:</th>
+    <th style="border: 1px solid black;">Parola chiave</th>
     <td style="border: 1px solid black;">Raggruppamento dei casi / PBA</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Creato:</th>
+    <th style="border: 1px solid black;">Creato</th>
     <td style="border: 1px solid black;">01.01.2026 – Base Circolare 2025/2: 0754/5</td>
   </tr>
   <tr>
@@ -964,7 +964,7 @@ Esempio 2: una «misura di igiene» potrebbe essere fornita nel quadro del profi
     <td style="border: 1px solid black;">93.8A.2- / 93.8B.-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Regola di codifica:</th>
+    <th style="border: 1px solid black;">Regola di codifica</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -993,11 +993,11 @@ Per un raggruppamento di casi con trattamento medico palliativo complesso nel pr
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Parola chiave:</th>
+    <th style="border: 1px solid black;">Parola chiave</th>
     <td style="border: 1px solid black;">Riunione del team interprofessionale / trattamento complesso di medicina palliativa / cure palliative</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Creato:</th>
+    <th style="border: 1px solid black;">Creato</th>
     <td style="border: 1px solid black;">01.01.2026 – Base Circolare 2025/2: 0754/2, 0754/3, 0754/4</td>
   </tr>
   <tr>
@@ -1013,12 +1013,12 @@ Per un raggruppamento di casi con trattamento medico palliativo complesso nel pr
     <td style="border: 1px solid black;">93.8A.2- / 93.8B.-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Regola di codifica:</th>
+    <th style="border: 1px solid black;">Regola di codifica</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
 
-Le seguenti domande e spiegazioni si riferiscono al gruppo di elementi 93.8A.2- _Trattamento medico palliativo complesso (fuori da un reparto specialistico autonomo di cure palliative), secondo il numero di giorni di trattamento e alla sottocategoria_ 93.8B.- _Trattamento in reparto specialistico autonomo di cure palliative_.
+Le seguenti domande e spiegazioni si riferiscono al gruppo di elementi 93.8A.2- <i>Trattamento medico palliativo complesso (fuori da un reparto specialistico autonomo di cure palliative), secondo il numero di giorni di trattamento</i> e alla sottocategoria 93.8B.- <i>Trattamento in reparto specialistico autonomo di cure palliative</i>.
 <br>
 <br>
 <b>Domanda n. 1:</b><br>  
@@ -1041,7 +1041,7 @@ Non rientrano nelle 6 ore:<br>
 <br>  
 <br>  
 <b>Domanda n. 2:</b><br>  
-Cosa si intende per «settimanale» nella «riunione settimanale del team interprofessionale» di cui al punto 93.8A.2- <i>nella caratteristica minima punto 4, Pianificazione e controllo della terapia</i>, e al punto 93.8B.- <i>nella caratteristica minima punto 5, Pianificazione e controllo della terapia</i>?
+Cosa si intende per «settimanale» nella «riunione settimanale del team interprofessionale» di cui al punto 93.8A.2- nella caratteristica minima punto 4, Pianificazione e controllo della terapia, e al punto 93.8B.- nella caratteristica minima punto 5, Pianificazione e controllo della terapia?
 <br>  
 <br>  
 <b>Spiegazione n. 2:</b><br>
@@ -1053,7 +1053,7 @@ Il paziente è degente in ospedale per 10 giorni (da lunedì della prima settima
 <br>  
 <br>  
 <b>Domanda n. 3:</b><br>  
-Cosa si intende per «interprofessionale» al punto 93.8A.2- <i>nella caratteristica minima n. 4, Pianificazione e controllo della terapia</i>, e al punto 93.8B.- <i>nella caratteristica minima n. 3, Terapia, e nella caratteristica minima n. 5, Pianificazione e controllo della terapia</i>?
+Cosa si intende per «interprofessionale» al punto 93.8A.2- nella caratteristica minima punto 4, Pianificazione e controllo della terapia, e al punto 93.8B.- nella caratteristica minima punto 3, Terapia, e nella caratteristica minima punto 5, Pianificazione e controllo della terapia?
 <br>
 <br>
 <b>Spiegazione n. 3:</b><br>  
@@ -1061,7 +1061,7 @@ Nella «riunione settimanale del team interprofessionale», per «interprofessio
 (cfr. requisito minimo punto 5, pianificazione e controllo della terapia in 93.8A.2- e 93.8B.-).
 <br>
 <br>  
-Nella «visita interprofessionale», per «interprofessionale» si intende che partecipano almeno un medico e personale infermieristico (cfr. <i>caratteristica minima punto 3, terapia</i> 93.8B.-).
+Nella «visita interprofessionale», per «interprofessionale» si intende che partecipano almeno un medico e personale infermieristico (cfr. caratteristica minima punto 3, terapia 93.8B.-).
 <br>
 <br>
 <br>
@@ -1074,11 +1074,11 @@ Nella «visita interprofessionale», per «interprofessionale» si intende che p
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Parola chiave:</th>
+    <th style="border: 1px solid black;">Parola chiave</th>
     <td style="border: 1px solid black;">SENS / valutazione di base in medicina palliativa / ESAS</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Creato:</th>
+    <th style="border: 1px solid black;">Creato</th>
     <td style="border: 1px solid black;">01.01.2026 – Base Circolare 2025/2: 0754/1 </td>
   </tr>
   <tr>
@@ -1094,7 +1094,7 @@ Nella «visita interprofessionale», per «interprofessionale» si intende che p
     <td style="border: 1px solid black;">93.8A.12 / 93.8A.2- / 93.8B.-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Regola di codifica:</th>
+    <th style="border: 1px solid black;">Regola di codifica</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -1120,11 +1120,11 @@ L’applicazione di un solo strumento di valutazione (ad es. ESAS) per rilevare 
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Parola chiave:</th>
+    <th style="border: 1px solid black;">Parola chiave</th>
     <td style="border: 1px solid black;">Codici aggiuntivi del gruppo di elementi 93.8B.2-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Creato:</th>
+    <th style="border: 1px solid black;">Creato</th>
     <td style="border: 1px solid black;">01.01.2026 – Base Circolare 2025/2: 0754/6</td>
   </tr>
   <tr>
@@ -1140,7 +1140,7 @@ L’applicazione di un solo strumento di valutazione (ad es. ESAS) per rilevare 
     <td style="border: 1px solid black;">93.8B.-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Regola di codifica:</th>
+    <th style="border: 1px solid black;">Regola di codifica</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -1166,11 +1166,11 @@ I due esempi che seguono illustrano le modalità di registrazione dei codici sup
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Parola chiave:</th>
+    <th style="border: 1px solid black;">Parola chiave</th>
     <td style="border: 1px solid black;">Sostituzione della barra vertebrale / Nuova fusione dei segmenti in caso di ponte / Intervento di revisione della colonna vertebrale / Conteggio dei segmenti</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Creato:</th>
+    <th style="border: 1px solid black;">Creato</th>
     <td style="border: 1px solid black;">01.01.2026 – Base Circolare 2025/2: 0788</td>
   </tr>
   <tr>
@@ -1186,7 +1186,7 @@ I due esempi che seguono illustrano le modalità di registrazione dei codici sup
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Regola di codifica:</th>
+    <th style="border: 1px solid black;">Regola di codifica</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -1210,11 +1210,11 @@ In caso p. es. di precedente spondilodesi L2-L4 e nuova fusione attuale dei segm
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Parola chiave:</th>
+    <th style="border: 1px solid black;">Parola chiave</th>
     <td style="border: 1px solid black;">Aste di crescita / stabilizzazione dinamica della colonna vertebrale / conteggio dei segmenti</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Creato:</th>
+    <th style="border: 1px solid black;">Creato</th>
     <td style="border: 1px solid black;">01.01.2026 – Base Circolare 2025/2: 0819</td>
   </tr>
   <tr>
@@ -1230,7 +1230,7 @@ In caso p. es. di precedente spondilodesi L2-L4 e nuova fusione attuale dei segm
     <td style="border: 1px solid black;">7A.A2 / 7A.72.1-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Regola di codifica:</th>
+    <th style="border: 1px solid black;">Regola di codifica</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -1253,11 +1253,11 @@ Per il conteggio dei segmenti trattati vengono considerati solo i segmenti a cui
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Parola chiave:</th>
+    <th style="border: 1px solid black;">Parola chiave</th>
     <td style="border: 1px solid black;">Stabilizzazione / correzione della posizione della colonna vertebrale / accesso dorsale e/o dorsolaterale / ventrale, conteggio dei segmenti</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Creato:</th>
+    <th style="border: 1px solid black;">Creato</th>
     <td style="border: 1px solid black;">01.01.2026 – Base Circolare 2025/2: 0766</td>
   </tr>
   <tr>
@@ -1273,7 +1273,7 @@ Per il conteggio dei segmenti trattati vengono considerati solo i segmenti a cui
     <td style="border: 1px solid black;">7A.7- / 7A.B4.-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Regola di codifica:</th>
+    <th style="border: 1px solid black;">Regola di codifica</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -1302,13 +1302,13 @@ Nell’esempio di cui alla seguente figura, è stata eseguita una spondilodesi c
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Parola chiave:</th>
+    <th style="border: 1px solid black;">Parola chiave</th>
     <td style="border: 1px solid black;">Fusione colonna vertebrale / Impianti / Innesto osseo, Trapianto osseo, 
 sostituzione ossea alla colonna vertebrale, misure stabilizzanti
 </td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Creato:</th>
+    <th style="border: 1px solid black;">Creato</th>
     <td style="border: 1px solid black;">01.01.2026 - Nuovo</td>
   </tr>
   <tr>
@@ -1324,7 +1324,7 @@ sostituzione ossea alla colonna vertebrale, misure stabilizzanti
     <td style="border: 1px solid black;">7A.71.-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Regola di codifica:</th>
+    <th style="border: 1px solid black;">Regola di codifica</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -1336,7 +1336,7 @@ Il codice <b>7A.71.-</b> Fusione di vertebre con stabilizzazione della colonna v
     <ul>
         <li>Impianto di materiali stabilizzanti (ad es. cage, sistemi di viti e barre, placche) così come una delle seguenti misure</li>
         <li>Decorticazione delle superfici articolari o</li>
-        <li>Osteotomia o/b></li>
+        <li>Osteotomia o</li>
         <li>Accrescimento o trapianto osseo</li>
     </ul>
 </body>
@@ -1354,11 +1354,11 @@ Il codice <b>7A.71.-</b> Fusione di vertebre con stabilizzazione della colonna v
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Parola chiave:</th>
+    <th style="border: 1px solid black;">Parola chiave</th>
     <td style="border: 1px solid black;">Fusione ossea colonna vertebrale senza strumentazione / Trapianto osseo, trasposizione ossea,<br> sostituzione ossea alla colonna vertebrale</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Creato:</th>
+    <th style="border: 1px solid black;">Creato</th>
     <td style="border: 1px solid black;">01.01.2026 - Nuovo</td>
   </tr>
   <tr>
@@ -1374,7 +1374,7 @@ Il codice <b>7A.71.-</b> Fusione di vertebre con stabilizzazione della colonna v
     <td style="border: 1px solid black;">7A.51.14 / 7A.B1.- / 03.03.- / 03.04.- / 7A.71.-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Regola di codifica:</th>
+    <th style="border: 1px solid black;">Regola di codifica</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
@@ -1399,11 +1399,11 @@ Non è consentito registrare **alcun** codice della sottocategoria 7A.71.- <i>Fu
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Parola chiave:</th>
+    <th style="border: 1px solid black;">Parola chiave</th>
     <td style="border: 1px solid black;">Stabilizzazione non dinamica della colonna vertebrale, impianti / osteosintesi della colonna vertebrale</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Creato:</th>
+    <th style="border: 1px solid black;">Creato</th>
     <td style="border: 1px solid black;">01.01.2026 - Nuovo</td>
   </tr>
   <tr>
@@ -1419,7 +1419,7 @@ Non è consentito registrare **alcun** codice della sottocategoria 7A.71.- <i>Fu
     <td style="border: 1px solid black;">7A.73.-</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Regola di codifica:</th>
+    <th style="border: 1px solid black;">Regola di codifica</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
