@@ -9,7 +9,7 @@ keywords: []
 <p style="text-align: right;">{{<printButton>}}
 
     
-Das Kapitel «Kodierungshandbuch» (KHB) enthält sämtliche Aktualisierungen zum jeweils gültigen Medizinischen Kodierungshandbuch.
+Das Kapitel «Kodierungshandbuch» (KHB) enthält sämtliche Aktualisierungen zum jeweils gültigen Medizinischen Kodierungshandbuch.  
 Es dient als zentrale Referenz für Kodiererinnen und Kodierer, indem es die verbindlichen Richtlinien für die Kodierungspraxis erläutert, präzisiert und – wo erforderlich – um neue Vorgaben ergänzt.  
 Dieses Kapitel bietet Hilfestellungen zur Interpretation, zeigt Anwendungsbeispiele für die Kodierrichtlinien und präzisiert spezielle Probleme der Kodierung. 
 Die Inhalte dieses Kapitels werden im Rahmen der halbjährlichen Publikationszyklen aktualisiert.

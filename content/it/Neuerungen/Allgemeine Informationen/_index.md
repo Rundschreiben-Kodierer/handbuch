@@ -27,7 +27,7 @@ Il capitolo **«Nozioni generali»** contiene Nozioni fondamentali, importanti p
 </body>
 
 
-Questo capitolo costituisce quindi la base per l’utilizzo degli altri contenuti e aiuta i codificatori ad orientarsi tra le pubblicazioni. Per ogni versione delle «Nozioni generali», vengono creati registri con la data di entrata in vigore. Questi registri documentano gli aggiornamenti effettuati nel corso dell’anno e chiariscono le rispettive date di inizio validità. Nell’ambito delle versioni di pubblicazione del manuale di codifica medica YYYY e CHOP YYYY, nonché dell’ICD-10-GM, le «Nozioni generali» venivano aggiornate semestralmente.  
+Questo capitolo costituisce quindi la base per l’utilizzo degli altri contenuti e aiuta i codificatori ad orientarsi tra le pubblicazioni. Per ogni versione delle «Nozioni generali», vengono creati registri con la data di entrata in vigore. Questi registri documentano gli aggiornamenti effettuati nel corso dell’anno e chiariscono le rispettive date di inizio validità. Nell’ambito delle versioni di pubblicazione del manuale di codifica medica YYYY e CHOP YYYY, nonché dell’ICD-10-GM, le «Nozioni generali» venivano aggiornate semestralmente.  <br>
 Per ogni anno di pubblicazione potrebbero quindi essere presenti i seguenti registri:
 
 <body>

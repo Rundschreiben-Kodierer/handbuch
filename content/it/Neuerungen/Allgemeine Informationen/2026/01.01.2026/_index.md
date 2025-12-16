@@ -26,19 +26,18 @@ Dal 1° gennaio 2026 vanno utilizzati i seguenti strumenti di codifica:
     </ul>
 </body>
   
-I file dell’ICD-10-GM in lingua tedesca sono generati dal Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM) e sono disponibili sul sito web <a href="https://www.bfarm.de"
+I file dell’ICD-10-GM in lingua tedesca sono generati dal Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM) e sono disponibili sul sito web: <a href="https://www.bfarm.de"
    target="_blank"
-   rel="noopener noreferrer">www.bfarm.de</a> zur Verfügung:  
-Kodiersysteme => Services => Downloads => ICD-10-GM
+   rel="noopener noreferrer">www.bfarm.de</a> Kodiersysteme => Services => Downloads => ICD-10-GM
   
-La statistica SpiGes – la Rilevazione Assistenza sanitaria ospedaliera stazionaria – è un'indagine annuale obbligatoria che copre l'intera popolazione. Questa raccolta di dati segue il principio «once-only», ovvero l'utilizzo multiplo dei dati, e dal 2025 comprenderà anche i dati sui costi per caso e parti della statistica degli stabilimenti ospedalieri (KS). Quale base per le successive elaborazioni e per la definizione delle esigenze qualitative minime per un utilizzo multiplo dei dati rilevati sarà utilizzato un set di dati standard uniforme. La raccolta rilevazione dei dati prende il via il 1° gennaio 2024 (v. progetto SpiGes).
+La statistica SpiGes – la Rilevazione Assistenza sanitaria ospedaliera stazionaria – è un'indagine annuale obbligatoria che copre l'intera popolazione. Questa raccolta di dati segue il principio «once-only», ovvero l'utilizzo multiplo dei dati, e dal 2025 comprenderà anche i dati sui costi per caso e parti della statistica degli stabilimenti ospedalieri (KS). Quale base per le successive elaborazioni e per   la definizione delle esigenze qualitative minime per un utilizzo multiplo dei dati rilevati sarà utilizzato un set di dati standard uniforme. La raccolta rilevazione dei dati prende il via il 1° gennaio 2024 (v. progetto SpiGes).
   
-Gli strumenti sopra menzionati servono per la codifica delle degenze stazionarie in ospedali e cliniche in Svizzera incluse cliniche di riabilitazione, cliniche psichiatriche e altre cliniche specializzate nonché le case per partorienti
+Gli strumenti sopra menzionati servono per la codifica delle degenze stazionarie in ospedali e cliniche in Svizzera incluse cliniche di riabilitazione, cliniche psichiatriche e altre cliniche specializzate nonché le case per partorienti.
   
 Le basi giuridiche sono:
 <body>
     <ul>
-        <li>legge sulla statistica federale 9 ottobre 1992 (LStat) e</li>
+        <li>legge sulla statistica federale del 9 ottobre 1992 (LStat)</li>
         <li>legge sull'assicurazione malattie federale del 18 marzo 1994 (LAMal)</li>
         <li>Ordinanza sulla statistica federale del 30 aprile 2025 (OStatF)</li>
     </ul>
