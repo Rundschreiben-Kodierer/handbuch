@@ -28,7 +28,7 @@ Les actualisations du manuel de codage sont réparties dans les registres suivan
   
 
 **Règles relatives à la validité et au fonctionnement:**  
-Pour chaque version du manuel de codage, un registre indiquant la date d’entrée en vigueur est créé. Il documente toutes les actualisations effectuées au cours de l'année pour la version correspondante du MDC.  
+Pour chaque version du manuel de codage, un registre indiquant la date d’entrée en vigueur est créé. Il documente toutes les actualisations effectuées au cours de l'année pour la version correspondante du manuel de codage.  
 Une version YYYY du manuel de codage est valable pendant un an (en l’année YYYY).
 Par version les registres suivants peuvent donc exister:
 <body>
