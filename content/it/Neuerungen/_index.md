@@ -14,7 +14,7 @@ keywords: []
 Il settore Classificazioni mediche dell'Ufficio federale di statistica (UST) sospenderà la pubblicazione della circolare nella sua forma attuale a partire dal **1° gennaio 2026**. A partire da tale data, tutti **gli aggiornamenti** alla versione pubblicata del <i>Manuale di codifica medica</i>, della <i>Classificazione svizzera delle operazioni (CHOP)</i> e dell'<i>ICD-10-GM</i> saranno disponibili esclusivamente sul sito Internet: <a href="https://rundschreiben-kodierer.github.io/handbuch/it/"
    target="_blank"
    rel="noopener noreferrer">Aggiornamenti alle pubblicazioni delle classificazioni mediche:</a>.
-  
+<br>
 Con il trasferimento dei contenuti sul sito Internet, la circolare nella sua forma attuale verrà soppressa. Sarà comunque possibile scaricare i contenuti del sito Internet in formato PDF anche in futuro. 
   
 I noti **cicli di pubblicazione** semestrali **delle precedenti circolari n. 1 e n. 2** rimangono per il momento invariati. La **struttura** dei capitoli sarà tuttavia modificata. In futuro i contenuti saranno strutturati come segue:

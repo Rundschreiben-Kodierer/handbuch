@@ -16,7 +16,7 @@ Le domaine Classifications médicales de l'Office fédéral de la statistique (O
    rel="noopener noreferrer">Actualisations des publications des classifications médicales</a>.
   
 Avec le transfert des contenus vers le site Internet, la circulaire sous sa forme actuelle disparaîtra. Il sera toujours possible de télécharger les contenus du site Internet sous forme de fichiers PDF.
-  
+<br>  
 Les **cycles de publication** semestriels connus **des circulaires n° 1 et n° 2** restent inchangés pour l'instant. La **structure** des chapitres est toutefois modifiée. À l'avenir, les contenus seront structurés comme suit:
 
 
