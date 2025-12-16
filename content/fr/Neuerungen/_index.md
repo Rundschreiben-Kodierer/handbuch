@@ -10,7 +10,7 @@ keywords: []
 <p style="text-align: right;">{{<printButton>}}
 
 {{<markdown>}}
-**Information concernant la modification du format de publication de la circulaire destinée aux codeurs**<br>  
+**Information concernant la modification du format de publication de la circulaire destinée aux codeurs**<br>
 Le domaine Classifications médicales de l'Office fédéral de la statistique (OFS) supprimera la publication de la circulaire sous sa forme actuelle à compter **du 1er janvier 2026**. À partir de cette date, toutes **les actualisations** de la version publiée du <i>Manuel de codage médical</i>, de la <i>Classification suisse des opérations chirurgicales (CHOP)</i> et de la <i>CIM-10-GM</i> seront disponibles exclusivement sur le site Internet:  <a href="https://rundschreiben-kodierer.github.io/handbuch/fr/"
    target="_blank"
    rel="noopener noreferrer">Actualisations des publications des classifications médicales</a>.
@@ -39,16 +39,17 @@ Les **cycles de publication** semestriels connus **des circulaires n° 1 et n° 
 </ul>
   
   
-**L'année de publication et la date de début de validité** des contenus présentés sont indiquées sous chaque chapitre, afin que le classement chronologique des modifications et des ajouts puisse être clairement retracé à tout moment.
+**L'année de publication et la date de début de validité** <br>
+des contenus présentés sont indiquées sous chaque chapitre, afin que le classement chronologique des modifications et des ajouts puisse être clairement retracé à tout moment.
   
 Les registres avec la mention "Ø None" ne contiennent pas d’actualisation.
   
   
-**Chapitre «Actualisations de la CHOP»**<br>  
+**Chapitre «Actualisations de la CHOP»**<br>
 Les informations relatives aux actualisations de la CHOP sont désormais disponibles sous forme de **classeur Excel (xlsx)**, accessible directement à partir des registres correspondants du chapitre CHOP. Ce tableau permet de suivre clairement les modifications et présente les mises à jour de la classification en allemand, français et italien.
   
   
-**Nouveau chapitre «FAQ/Clarifications»**<br>  
+**Nouveau chapitre «FAQ/Clarifications»**<br>
 L'ancien chapitre 5 « Annexe » est remplacé par le nouveau chapitre **«FAQ/Précisions»**. À l'avenir, ce chapitre répondra à des questions générales et spécifiques. Le contenu de l'ancienne annexe (chapitre 5) a été transféré dans ce nouveau chapitre, dans la mesure où il est toujours d'actualité.
   
     

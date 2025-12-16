@@ -28,7 +28,7 @@ keywords: []
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé le:</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0879</td>
+    <td style="border: 1px solid black;">01.01.2026 – Base Circulaire 2025/2: 0879</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
@@ -65,7 +65,7 @@ Une opération ouverte d'une sténose congénitale de l'isthme aortique est repr
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé le:</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0769</td>
+    <td style="border: 1px solid black;">01.01.2026 – Base Circulaire 2025/2: 0769</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
@@ -171,7 +171,7 @@ Le tableau suivant illustre les différentes situations d'une prothèse abdomina
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé le:</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0789</td>
+    <td style="border: 1px solid black;">01.01.2026 – Base Circulaire 2025/2: 0789</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
@@ -393,7 +393,7 @@ Codage :
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé le:</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0768</td>
+    <td style="border: 1px solid black;">01.01.2026 – Base Circulaire 2025/2: 0768</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
@@ -445,7 +445,7 @@ Les codes 38.7X.11 <i>Insertion d’un système de protection anti-embolie dans 
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé le:</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0903</td>
+    <td style="border: 1px solid black;">01.01.2026 – Base Circulaire 2025/2: 0903</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
@@ -495,7 +495,7 @@ Le code 51.99.90 <i>Autre opération endoscopique des voies biliaires</i>, comme
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé le:</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0808</td>
+    <td style="border: 1px solid black;">01.01.2026 – Base Circulaire 2025/2: 0808</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
@@ -537,7 +537,7 @@ Si, lors du remplacement d'une endoprothèse du genou, un remplacement de la fac
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé le:</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0818</td>
+    <td style="border: 1px solid black;">01.01.2026 – Base Circulaire 2025/2: 0818</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
@@ -577,7 +577,7 @@ Le tableau suivant précise, par l’exemple de la main, le codage avec le code 
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé le:</th>
-    <td style="border: 1px solid black;">01.01.2026 – Basis RS 2025/2: 0759</td>
+    <td style="border: 1px solid black;">01.01.2026 – Base Circulaire 2025/2: 0759</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour:</th>
