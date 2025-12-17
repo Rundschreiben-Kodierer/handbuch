@@ -224,7 +224,7 @@ Wie wird eine Carotisstenose bds. erfasst? Wie werden ein- oder beidseitige Sten
 Grundsätzlich gilt: Es ist stets der spezifischste ICD-Kode zu wählen, der die dokumentierte Diagnose am genauesten beschreibt.  
 <body>
     <ul>
-        <li><b>Der Beidseitige Verschluss einer einzelnen präzerebralen Arterie</b> (z. B. Arteria carotis) wird mit dem spezifischen Kode <b>I65.-</b> unter Angabe der Lateralität verschlüsselt.<br>
+        <li><b>Der beidseitige Verschluss einer einzelnen präzerebralen Arterie</b> (z. B. Arteria carotis) wird mit dem spezifischen Kode <b>I65.-</b> unter Angabe der Lateralität verschlüsselt.<br>
 <b>Beispiel</b>: Beidseitiger Verschluss/Stenose der Arteria carotis → <b>I65.2 </b><i>Verschluss und Stenose der A. carotis L bds</i>. 
 
 </li>
@@ -528,7 +528,7 @@ Zusätzlich soll ein Kode der ICD-10-GM 2024 Kodegruppe M49.5-* <i>Wirbelkörper
 </table>
 
 {{<markdown>}}
-**Frage:**  
+**Fragestellung:**  
 Wie wird eine bakterielle Pneumonie im Rahmen einer Superinfektion bei viraler Pneumonie (z.B. Bakterielle COVID-Pneumonie) ohne Erregernachweis abgebildet?
   
 **Erläuterung:**  

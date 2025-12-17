@@ -1294,7 +1294,7 @@ Dans l’exemple de l’illustration suivante, une spondylodèse a été réalis
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Mot-clé</th>
-    <td style="border: 1px solid black;">fusion vertébrale / instrumentation / greffe osseuse / transplantation osseuse / 
+    <td style="border: 1px solid black;">Fusion vertébrale / instrumentation / greffe osseuse / transplantation osseuse / 
 substitut osseux au niveau de la colonne vertébrale / mesures de stabilisation
 </td>
   </tr>

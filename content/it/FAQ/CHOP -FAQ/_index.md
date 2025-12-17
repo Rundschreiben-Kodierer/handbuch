@@ -738,7 +738,7 @@ Ciò significa che non è consentito codificare contemporaneamente 93.59.5- e 99
 
 {{<markdown>}}
 **Problema/Spiegazione:**  
-Ai fini del conteggio dei giorni di degenza per i codici CHOP del gruppo di elementi 93.59.5- <i>Trattamento complesso per colonizzazione o infezione da agenti multiresistenti, secondo il numero di giorni di trattamento</i>, il giorno di ricovero nonché il giorno di dimissione possono essere conteggiati come <i>un solo giorno di trattamento</i>, sempre a condizione che siano soddisfatti i corrispondenti requisiti minimi.
+Ai fini del conteggio dei giorni di degenza per i codici CHOP del gruppo di elementi 93.59.5- <i>Trattamento complesso per colonizzazione o infezione da agenti multiresistenti, secondo il numero di giorni di trattamento</i>, il giorno di ricovero nonché il giorno di dimissione possono essere conteggiati come <b>un solo giorno di trattamento</b>, sempre a condizione che siano soddisfatti i corrispondenti requisiti minimi.
 {{</markdown>}}
 <br>
 <br>
@@ -885,7 +885,7 @@ almeno 3 delle seguenti misure:
     </li>
   </ul>
 </body>
-Se viene svolta un’elettroencefalografia per tre volte senza altre due delle misure elencate, i requisiti minimi non sono soddisfatti e non è possibile registrare un codice della sottocategoria 99.A6.
+Se viene svolta un’elettroencefalografia per tre volte senza altre due delle misure elencate, i requisiti minimi non sono soddisfatti e non è possibile registrare un codice della sottocategoria 99.A6.-.
 Se invece vengono somministrati una RMN cranica, una diagnostica neuropsicologica come pure una EEG prolungata mobile per almeno 24 ore o più e gli altri requisiti minimi sono soddisfatti, allora può essere registrato un codice della sottocategoria 99.A6.-.
 <br>
 <br>
@@ -1022,7 +1022,7 @@ Le seguenti domande e spiegazioni si riferiscono al gruppo di elementi 93.8A.2- 
 <br>
 <br>
 <b>Domanda n. 1:</b><br>  
-In riferimento <i>alla caratteristica minima punto 3, équipe di trattamento e terapia</i> della 93.8A.2- e alla caratteristica minima punto 3, terapia, nonché alla caratteristica minima punto 4, équipe di trattamento della 93.8B.-: quali sono i settori terapeutici e cosa viene conteggiato nelle 6 ore?
+In riferimento alla caratteristica minima punto 3, équipe di trattamento e terapia della 93.8A.2- e alla caratteristica minima punto 3, terapia, nonché alla caratteristica minima punto 4, équipe di trattamento della 93.8B.-: quali sono i settori terapeutici e cosa viene conteggiato nelle 6 ore?
 <br>
 <br>
 <b>Spiegazione n. 1:</b><br>  

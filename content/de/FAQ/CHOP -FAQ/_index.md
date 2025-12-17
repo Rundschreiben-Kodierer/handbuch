@@ -1040,7 +1040,7 @@ Folgendes zählt nicht zu den 6 Stunden:  <br>
 <br>  
 <br>  
 <b>Fragestellung Nr. 2:</b><br>  
-Was ist unter «wöchentlich» bei der «wöchentliche interprofessionellen Teambesprechung» unter 93.8A.2- im Mindestmerkmal Punkt 4, Therapieplanung und -kontrolle</i> und unter 93.8B.- im Mindestmerkmal Punkt 5, Therapieplanung und -kontrolle zu verstehen?
+Was ist unter «wöchentlich» bei der «wöchentlichen interprofessionellen Teambesprechung» unter 93.8A.2- im Mindestmerkmal Punkt 4, Therapieplanung und -kontrolle</i> und unter 93.8B.- im Mindestmerkmal Punkt 5, Therapieplanung und -kontrolle zu verstehen?
 <br>  
 <br>  
 <b>Erläuterung Nr. 2:</b><br>
