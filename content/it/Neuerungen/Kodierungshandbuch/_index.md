@@ -1,5 +1,5 @@
 ---
-title: "Aggiornamenti al manuale di codifica"
+title: "Aggiornamenti del manuale di codifica"
 slug: KHB2026
 description: ""
 weight: 202
