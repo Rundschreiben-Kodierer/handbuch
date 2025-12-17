@@ -296,6 +296,6 @@ In der Tabelle wird dies wie folgt angegeben. Die Tabelle enthält die Gegenübe
 Hier wird nur der Auszug für die deutschsprachige Version wiedergegeben. 
 <br>
 <br>
-{{<insertImage image="ActualisationCHOPDE.jpg" class="edge max-w-90">}}
+{{<insertImage image="ActualisationCHOPDE2.jpg" class="edge max-w-90">}}
 <br>
 <br>
