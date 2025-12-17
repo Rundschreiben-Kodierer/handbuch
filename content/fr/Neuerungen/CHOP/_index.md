@@ -274,7 +274,8 @@ Le tableau comporte les colonnes suivantes :
 
 
 {{<markdown>}}
-Auparavant, au chapitre 3, Informations complémentaires à la CHOP, dans le fichier PDF de la circulaire, une adaptation ou une correction apportée à une version CHOP était présentée comme suit.<br>
+Auparavant, au chapitre 3, Informations complémentaires à la CHOP, dans le fichier PDF de la circulaire, une adaptation ou une correction  
+apportée à une version CHOP était présentée comme suit.<br>
 Légende: <font color="green">Nouveautés en vert / </font><font color="red">~~Suppressions en rouge~~</font>  
   {{</markdown>}}
     
@@ -290,7 +291,7 @@ Seul l'extrait correspondant à la version française est reproduit ici.
 
 <br>
 <br>
-{{<insertImage image="ActualisationCHOPFR.jpg" class="edge max-w-80">}}
+{{<insertImage image="ActualisationCHOPFR.jpg" class="edge max-w-70">}}
 <br>
 <br>
 
