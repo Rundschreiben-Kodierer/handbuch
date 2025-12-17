@@ -73,7 +73,7 @@ Nella tabella sono presenti le seguenti colonne:
 </td>
 </tr>
 <tr style="mso-yfti-irow: 1;">
-<td style="width: 21.8516%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #f4b084; padding: 0cm 5.4pt;" valign="top" width="198">
+<td style="width: 21.8516%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #f4b084; padding: 0cm 5.4pt;" valign="top" width="240">
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><span lang="EN-GB" style="color: black; mso-color-alt: windowtext; mso-ansi-language: EN-GB; mso-fareast-language: DE-CH;">sequential number over the table</span></p>
 </td>
 <td style="width: 78.1484%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
