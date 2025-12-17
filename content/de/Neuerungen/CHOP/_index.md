@@ -64,55 +64,53 @@ Folgende Spalten befinden sich in der Tabelle:
 
 
 
-
-
 <table class="MsoTableGrid" style="border-collapse: collapse; border: none; width: 86.3582%;" border="1" cellspacing="0" cellpadding="0">
 <tbody>
 <tr style="mso-yfti-irow: 0; mso-yfti-firstrow: yes;">
-<td style="width: 21.7943%; border: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="198">
+<td style="width: 26.9383%; border: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="198">
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><strong><span lang="EN-US" style="mso-ansi-language: EN-US; mso-fareast-language: DE-CH;">Spalten</span></strong></p>
 </td>
-<td style="width: 78.2057%; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; padding: 0cm 5.4pt;" valign="top" width="410">
+<td style="width: 73.0628%; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; padding: 0cm 5.4pt;" valign="top" width="410">
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><strong><span lang="EN-US" style="mso-ansi-language: EN-US; mso-fareast-language: DE-CH;">Beschreibung</span></strong></p>
 </td>
 </tr>
 <tr style="mso-yfti-irow: 1;">
-<td style="width: 21.7943%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #f4b084; padding: 0cm 5.4pt;" valign="top" width="240">
+<td style="width: 26.9383%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #f4b084; padding: 0cm 5.4pt;" valign="top" width="198">
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><span lang="EN-GB" style="color: black; mso-color-alt: windowtext; mso-ansi-language: EN-GB; mso-fareast-language: DE-CH;">sequential number over the table</span></p>
 </td>
-<td style="width: 78.2057%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
+<td style="width: 73.0628%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><span lang="EN-US" style="mso-ansi-language: EN-US; mso-fareast-language: DE-CH;">Fortlaufende Nummerierung der Zeilen</span></p>
 </td>
 </tr>
 <tr style="mso-yfti-irow: 2;">
-<td style="width: 21.7943%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #f4b084; padding: 0cm 5.4pt;" valign="top" width="198">
+<td style="width: 26.9383%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #f4b084; padding: 0cm 5.4pt;" valign="top" width="198">
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><span lang="EN-GB" style="color: black; mso-color-alt: windowtext; mso-ansi-language: EN-GB; mso-fareast-language: DE-CH;">Date and subregister number</span></p>
 </td>
-<td style="width: 78.2057%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
+<td style="width: 73.0628%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><span lang="DE-CH" style="mso-fareast-language: DE-CH;">Datum vom Beginn der G&uuml;ltigkeit und Nummer des Subregisters, z. B. 01.01.YYYY-SR1</span></p>
 </td>
 </tr>
 <tr style="mso-yfti-irow: 3;">
-<td style="width: 21.7943%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #f4b084; padding: 0cm 5.4pt;" valign="top" width="198">
+<td style="width: 26.9383%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #f4b084; padding: 0cm 5.4pt;" valign="top" width="198">
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><span lang="EN-GB" style="color: black; mso-color-alt: windowtext; mso-ansi-language: EN-GB; mso-fareast-language: DE-CH;">Line number for the subregister</span></p>
 </td>
-<td style="width: 78.2057%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
+<td style="width: 73.0628%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><span lang="DE-CH" style="mso-fareast-language: DE-CH;">Fortlaufende Nummerierung der Zeilen f&uuml;r dieses Subregister</span></p>
 </td>
 </tr>
 <tr style="mso-yfti-irow: 4;">
-<td style="width: 21.7943%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #f4b084; padding: 0cm 5.4pt;" valign="top" width="198">
+<td style="width: 26.9383%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #f4b084; padding: 0cm 5.4pt;" valign="top" width="198">
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><span lang="EN-GB" style="color: black; mso-color-alt: windowtext; mso-ansi-language: EN-GB; mso-fareast-language: DE-CH;">nbchar</span></p>
 </td>
-<td style="width: 78.2057%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
+<td style="width: 73.0628%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><span lang="DE-CH" style="mso-fareast-language: DE-CH;">Zeigt die Anzahl der Zeichen der entsprechenden Kodes an, ohne das Pr&auml;fix &laquo;C&raquo; bzw. </span><span lang="EN-GB" style="mso-ansi-language: EN-GB; mso-fareast-language: DE-CH;">&laquo;Z&raquo; und Trennpunkte.</span></p>
 </td>
 </tr>
 <tr style="mso-yfti-irow: 5;">
-<td style="width: 21.7943%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #47d459; padding: 0cm 5.4pt;" valign="top" width="198">
+<td style="width: 26.9383%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #47d459; padding: 0cm 5.4pt;" valign="top" width="198">
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><span lang="EN-GB" style="color: black; mso-color-alt: windowtext; mso-ansi-language: EN-GB; mso-fareast-language: DE-CH;">Modification DE</span></p>
 </td>
-<td style="width: 78.2057%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
+<td style="width: 73.0628%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><span lang="EN-US" style="mso-bidi-font-family: Aptos; mso-bidi-theme-font: minor-latin; mso-ansi-language: EN-US;">Enth&auml;lt folgende Werte:</span></p>
 <p class="MsoBodyText" style="text-indent: -18.0pt; line-height: normal; mso-list: l4 level1 lfo1; margin: 1.0pt 0cm 1.0pt 36.0pt;"><!-- [if !supportLists]--><span lang="DE-CH" style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;">&middot;<span style="font: 7.0pt 'Times New Roman';"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="DE-CH" style="mso-bidi-font-family: Aptos; mso-bidi-theme-font: minor-latin;">Creation (gr&uuml;n): die Zeile wird neu gebildet. Ein neuer Kode kann im Rahmen der unterj&auml;hrigen CHOP-Aktualisierungen nicht gebildet werden. Nur erg&auml;nzende Beschreibungen, Inklusiva, &laquo;Kodiere ebenso&raquo;, Exklusiva und &laquo;Beachte&raquo; k&ouml;nnen gebildet werden.<br></span><span lang="DE-CH" style="mso-bidi-font-family: Aptos; mso-bidi-theme-font: minor-latin;">&nbsp;</span></p>
 <p class="MsoBodyText" style="text-indent: -18.0pt; line-height: normal; mso-list: l4 level1 lfo1; margin: 1.0pt 0cm 1.0pt 36.0pt;"><!-- [if !supportLists]--><span lang="DE-CH" style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;">&middot;<span style="font: 7.0pt 'Times New Roman';">&nbsp; &nbsp; &nbsp; &nbsp;</span></span></span><span lang="DE-CH" style="mso-bidi-font-family: Aptos; mso-bidi-theme-font: minor-latin;">Mutation (violett): &Auml;nderung des deutschen Textes und/oder der Lateralit&auml;tsmarkierung und/oder der Kennzeichnung f&uuml;r Zusatzkodes. Der neue Text wird in der Spalte &laquo;New text DE&raquo; angegeben, die &Auml;nderung der Lateralit&auml;tsmarkierung in der Spalte &laquo;New laterality&raquo;, die &Auml;nderung der Kennzeichnung f&uuml;r Zusatzkodes in der Spalte &laquo;New Codable&raquo;. Bei Text-&Auml;nderungen wird in der Spalte &laquo;Text DE&raquo; der entfernte Textabschnitt rot durchgestrichen und in der Spalte &laquo;New Text DE&raquo; der neue Text gr&uuml;n markiert. In seltenen F&auml;llen wird eine erg&auml;nzende Beschreibung nur in einer Sprache entfernt. Die Zelle des neuen Textes ist dann leer. s. &laquo;Suppression&raquo; f&uuml;r das L&ouml;schen einer gesamten Zeile.<br></span><span lang="DE-CH" style="mso-bidi-font-family: Aptos; mso-bidi-theme-font: minor-latin;">&nbsp;</span></p>
@@ -121,18 +119,18 @@ Folgende Spalten befinden sich in der Tabelle:
 </td>
 </tr>
 <tr style="mso-yfti-irow: 6;">
-<td style="width: 21.7943%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #f4b084; padding: 0cm 5.4pt;" valign="top" width="198">
+<td style="width: 26.9383%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #f4b084; padding: 0cm 5.4pt;" valign="top" width="198">
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><span lang="EN-GB" style="color: black; mso-color-alt: windowtext; mso-ansi-language: EN-GB; mso-fareast-language: DE-CH;">Zcode</span></p>
 </td>
-<td style="width: 78.2057%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
+<td style="width: 73.0628%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><span lang="DE-CH" style="mso-fareast-language: DE-CH;">CHOP-Kode mit vorangestelltem &laquo;C&raquo; f&uuml;r die Kapitel und &laquo;Z&raquo; f&uuml;r alle darunter liegenden Kodes</span></p>
 </td>
 </tr>
 <tr style="mso-yfti-irow: 7;">
-<td style="width: 21.7943%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #f4b084; padding: 0cm 5.4pt;" valign="top" width="198">
+<td style="width: 26.9383%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #f4b084; padding: 0cm 5.4pt;" valign="top" width="198">
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><span lang="EN-GB" style="color: black; mso-color-alt: windowtext; mso-ansi-language: EN-GB; mso-fareast-language: DE-CH;">Item / Subregister number</span></p>
 </td>
-<td style="width: 78.2057%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
+<td style="width: 73.0628%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><span lang="DE-CH" style="mso-fareast-language: DE-CH;">Enth&auml;lt entweder die Nummer des Unterregisters </span></p>
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><span lang="DE-CH" style="mso-fareast-language: DE-CH;">oder folgende Werte f&uuml;r die Items (d. h. Zeilen-Typ im Kontext des systematischen Verzeichnisses der CHOP):</span></p>
 <p class="MsoBodyText" style="text-indent: -18.0pt; line-height: normal; mso-list: l7 level1 lfo2; margin: 1.0pt 0cm 1.0pt 36.0pt;"><!-- [if !supportLists]--><span lang="EN-US" style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol; mso-ansi-language: EN-US; mso-fareast-language: DE-CH;"><span style="mso-list: Ignore;">&middot;<span style="font: 7.0pt 'Times New Roman';"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-US" style="mso-ansi-language: EN-US; mso-fareast-language: DE-CH;">T: Titel des Kodes</span></p>
@@ -145,30 +143,30 @@ Folgende Spalten befinden sich in der Tabelle:
 </td>
 </tr>
 <tr style="mso-yfti-irow: 8;">
-<td style="width: 21.7943%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #47d459; padding: 0cm 5.4pt;" valign="top" width="198">
+<td style="width: 26.9383%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #47d459; padding: 0cm 5.4pt;" valign="top" width="198">
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><span lang="EN-GB" style="color: black; mso-color-alt: windowtext; mso-ansi-language: EN-GB; mso-fareast-language: DE-CH;">Text DE / Subregister title</span></p>
 </td>
-<td style="width: 78.2057%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
+<td style="width: 73.0628%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><span lang="DE-CH" style="mso-fareast-language: DE-CH;">Enth&auml;lt entweder den Titel des Unterregisters</span></p>
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><span lang="DE-CH" style="mso-fareast-language: DE-CH;">oder</span></p>
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><span lang="DE-CH" style="mso-fareast-language: DE-CH;">den Text auf Deutsch der im Juli YYYY-1 publizierten CHOP YYYY.</span></p>
 </td>
 </tr>
 <tr style="mso-yfti-irow: 9;">
-<td style="width: 21.7943%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #47d459; padding: 0cm 5.4pt;" valign="top" width="198">
+<td style="width: 26.9383%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #47d459; padding: 0cm 5.4pt;" valign="top" width="198">
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><span style="color: black; mso-color-alt: windowtext; mso-ansi-language: FR-CH; mso-fareast-language: DE-CH;">New text DE / Comment DE</span></p>
 </td>
-<td style="width: 78.2057%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
+<td style="width: 73.0628%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><span lang="DE-CH" style="mso-fareast-language: DE-CH;">Enth&auml;lt entweder einen kurzen einf&uuml;hrenden Text zum Unterregister auf Deutsch</span></p>
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><span lang="DE-CH" style="mso-fareast-language: DE-CH;">oder</span></p>
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><span lang="DE-CH" style="mso-fareast-language: DE-CH;">den neuen Text auf Deutsch.</span></p>
 </td>
 </tr>
 <tr style="mso-yfti-irow: 10;">
-<td style="width: 21.7943%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #f4b084; padding: 0cm 5.4pt;" valign="top" width="198">
+<td style="width: 26.9383%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #f4b084; padding: 0cm 5.4pt;" valign="top" width="198">
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><span lang="EN-GB" style="color: black; mso-color-alt: windowtext; mso-ansi-language: EN-GB; mso-fareast-language: DE-CH;">Laterality</span></p>
 </td>
-<td style="width: 78.2057%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
+<td style="width: 73.0628%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
 <p class="MsoNormal" style="margin-top: 1.0pt;"><span lang="EN-US" style="mso-ansi-language: EN-US; mso-fareast-language: DE-CH;">Angabe f&uuml;r die Seitigkeit:</span></p>
 <p class="MsoListParagraph" style="mso-add-space: auto; text-indent: -18.0pt; line-height: normal; mso-list: l2 level1 lfo3; margin: 1.0pt 0cm 1.0pt 36.0pt;"><!-- [if !supportLists]--><span lang="DE-CH" style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;">&middot;<span style="font: 7.0pt 'Times New Roman';"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="DE-CH" style="mso-bidi-font-family: Aptos; mso-bidi-theme-font: minor-latin;">Y (Yes): Die Seitigkeit ist f&uuml;r diesen Eingriff anzugeben.</span></p>
 <p class="MsoBodyText" style="text-indent: -18.0pt; line-height: normal; mso-list: l2 level1 lfo3; margin: 1.0pt 0cm 1.0pt 36.0pt;"><!-- [if !supportLists]--><span lang="DE-CH" style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;">&middot;<span style="font: 7.0pt 'Times New Roman';">&nbsp; &nbsp; &nbsp; &nbsp;</span></span></span><span lang="DE-CH" style="mso-bidi-font-family: Aptos; mso-bidi-theme-font: minor-latin;">N (No): Die Angabe der Seitigkeit muss nicht, aber kann angegeben werden.</span></p>
@@ -176,10 +174,10 @@ Folgende Spalten befinden sich in der Tabelle:
 </td>
 </tr>
 <tr style="mso-yfti-irow: 11;">
-<td style="width: 21.7943%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #f4b084; padding: 0cm 5.4pt;" valign="top" width="198">
+<td style="width: 26.9383%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #f4b084; padding: 0cm 5.4pt;" valign="top" width="198">
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><span lang="EN-GB" style="color: black; mso-color-alt: windowtext; mso-ansi-language: EN-GB; mso-fareast-language: DE-CH;">New laterality</span></p>
 </td>
-<td style="width: 78.2057%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
+<td style="width: 73.0628%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><span lang="DE-CH" style="mso-fareast-language: DE-CH;">Neue Angabe f&uuml;r die Seitigkeit:</span></p>
 <p class="MsoListParagraphCxSpFirst" style="mso-add-space: auto; text-indent: -18.0pt; line-height: normal; mso-list: l3 level1 lfo4; margin: 1.0pt 0cm 1.0pt 36.0pt;"><!-- [if !supportLists]--><span lang="DE-CH" style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;">&middot;<span style="font: 7.0pt 'Times New Roman';">&nbsp; &nbsp; &nbsp; &nbsp;</span></span></span><!--[endif]--><span lang="DE-CH" style="mso-bidi-font-family: Aptos; mso-bidi-theme-font: minor-latin;">Y (Yes): falls eine Lateralit&auml;tsmarkierung aufzunehmen ist.</span></p>
 <p class="MsoListParagraphCxSpLast" style="mso-add-space: auto; text-indent: -18.0pt; line-height: normal; mso-list: l3 level1 lfo4; margin: 1.0pt 0cm 1.0pt 36.0pt;"><!-- [if !supportLists]--><span lang="DE-CH" style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;">&middot;<span style="font: 7.0pt 'Times New Roman';">&nbsp; &nbsp; &nbsp; &nbsp;</span></span></span><!--[endif]--><span lang="DE-CH" style="mso-bidi-font-family: Aptos; mso-bidi-theme-font: minor-latin;">N (No): falls keine Lateralit&auml;tsmarkierung aufzunehmen ist oder die Angabe der Lateralit&auml;t freiwillig ist.</span></p>
@@ -188,10 +186,10 @@ Folgende Spalten befinden sich in der Tabelle:
 </td>
 </tr>
 <tr style="mso-yfti-irow: 12;">
-<td style="width: 21.7943%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #f4b084; padding: 0cm 5.4pt;" valign="top" width="198">
+<td style="width: 26.9383%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #f4b084; padding: 0cm 5.4pt;" valign="top" width="198">
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><span lang="EN-GB" style="color: black; mso-color-alt: windowtext; mso-ansi-language: EN-GB; mso-fareast-language: DE-CH;">Codable</span></p>
 </td>
-<td style="width: 78.2057%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
+<td style="width: 73.0628%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
 <p class="MsoNormal" style="margin-top: 1.0pt;"><span lang="EN-US" style="mso-bidi-font-family: Aptos; mso-bidi-theme-font: minor-latin; mso-ansi-language: EN-US;">Angabe zur Kodierbarkeit:</span></p>
 <p class="MsoListParagraphCxSpFirst" style="mso-add-space: auto; text-indent: -18.0pt; line-height: normal; mso-list: l6 level1 lfo5; margin: 1.0pt 0cm 1.0pt 36.0pt;"><!-- [if !supportLists]--><span lang="DE-CH" style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;">&middot;<span style="font: 7.0pt 'Times New Roman';">&nbsp; &nbsp; &nbsp; &nbsp;</span></span></span><span lang="DE-CH" style="mso-bidi-font-family: Aptos; mso-bidi-theme-font: minor-latin;">N (not codable): Zeigt auf der Ebene des Item-Typs &laquo;T&raquo; (Titel) an, dass der Kode nicht kodierbar ist. </span><span lang="DE-CH" style="mso-fareast-language: DE-CH;">Bei den Item-Typen BISXN ist der Wert &laquo;N&raquo; standardm&auml;ssig eingetragen.</span></p>
 <p class="MsoListParagraphCxSpLast" style="mso-add-space: auto; text-indent: -18.0pt; line-height: normal; mso-list: l6 level1 lfo5; margin: 1.0pt 0cm 1.0pt 36.0pt;"><!-- [if !supportLists]--><span lang="DE-CH" style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;">&middot;<span style="font: 7.0pt 'Times New Roman';">&nbsp; &nbsp; &nbsp; &nbsp;</span></span></span><span lang="DE-CH" style="mso-bidi-font-family: Aptos; mso-bidi-theme-font: minor-latin;">C (complement): Zeigt auf der Ebene des Item-Typs &laquo;T&raquo; (Titel) an, dass es sich um ein Zusatzkode handelt und dieser als Zusatzkode kodierbar ist.</span></p>
@@ -199,10 +197,10 @@ Folgende Spalten befinden sich in der Tabelle:
 </td>
 </tr>
 <tr style="mso-yfti-irow: 13;">
-<td style="width: 21.7943%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #f4b084; padding: 0cm 5.4pt;" valign="top" width="198">
+<td style="width: 26.9383%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #f4b084; padding: 0cm 5.4pt;" valign="top" width="198">
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><span lang="EN-GB" style="color: black; mso-color-alt: windowtext; mso-ansi-language: EN-GB; mso-fareast-language: DE-CH;">New codable</span></p>
 </td>
-<td style="width: 78.2057%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
+<td style="width: 73.0628%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
 <p class="MsoNormal" style="margin-top: 1.0pt;"><span lang="EN-US" style="mso-bidi-font-family: Aptos; mso-bidi-theme-font: minor-latin; mso-ansi-language: EN-US;">Neue Angabe zur Kodierbarkeit:</span></p>
 <p class="MsoListParagraphCxSpFirst" style="mso-add-space: auto; text-indent: -18.0pt; line-height: normal; mso-list: l1 level1 lfo8; margin: 1.0pt 0cm 1.0pt 36.0pt;"><!-- [if !supportLists]--><span lang="DE-CH" style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;">&middot;<span style="font: 7.0pt 'Times New Roman';"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="DE-CH" style="mso-bidi-font-family: Aptos; mso-bidi-theme-font: minor-latin;">E (Equal): Der gleiche Wert, wie in der Spalte &laquo;Codable&raquo; gilt.</span></p>
 <p class="MsoListParagraphCxSpMiddle" style="mso-add-space: auto; text-indent: -18.0pt; line-height: normal; mso-list: l1 level1 lfo8; margin: 1.0pt 0cm 1.0pt 36.0pt;"><!-- [if !supportLists]--><span lang="DE-CH" style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;">&middot;<span style="font: 7.0pt 'Times New Roman';">&nbsp; &nbsp; &nbsp; &nbsp;</span></span></span><span lang="DE-CH" style="mso-bidi-font-family: Aptos; mso-bidi-theme-font: minor-latin;">C (complement): Korrektur von &laquo;Codable&raquo; &laquo;Y&raquo; auf &laquo;C&raquo;, falls die Kennzeichnung als Zusatzkode fehlte.</span></p>
@@ -211,10 +209,10 @@ Folgende Spalten befinden sich in der Tabelle:
 </td>
 </tr>
 <tr style="mso-yfti-irow: 14;">
-<td style="width: 21.7943%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #9bc2e6; padding: 0cm 5.4pt;" valign="top" width="198">
+<td style="width: 26.9383%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #9bc2e6; padding: 0cm 5.4pt;" valign="top" width="198">
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><span lang="EN-GB" style="color: black; mso-color-alt: windowtext; mso-ansi-language: EN-GB; mso-fareast-language: DE-CH;">Modification FR / Subregister number</span></p>
 </td>
-<td style="width: 78.2057%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
+<td style="width: 73.0628%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><span lang="DE-CH" style="mso-fareast-language: DE-CH;">Enth&auml;lt entweder die Nummer des Unterregisters</span></p>
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><span lang="DE-CH" style="mso-bidi-font-family: Aptos; mso-bidi-theme-font: minor-latin;">oder</span></p>
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><span lang="DE-CH" style="mso-bidi-font-family: Aptos; mso-bidi-theme-font: minor-latin;">die &Auml;nderung, die auf die franz&ouml;sischsprachigen Texte erfolgt:</span></p>
@@ -225,30 +223,30 @@ Folgende Spalten befinden sich in der Tabelle:
 </td>
 </tr>
 <tr style="mso-yfti-irow: 15;">
-<td style="width: 21.7943%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #9bc2e6; padding: 0cm 5.4pt;" valign="top" width="198">
+<td style="width: 26.9383%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #9bc2e6; padding: 0cm 5.4pt;" valign="top" width="198">
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><span lang="EN-GB" style="color: black; mso-color-alt: windowtext; mso-ansi-language: EN-GB; mso-fareast-language: DE-CH;">Text FR / Subregister title</span></p>
 </td>
-<td style="width: 78.2057%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
+<td style="width: 73.0628%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><span lang="DE-CH" style="mso-fareast-language: DE-CH;">Enth&auml;lt entweder den Titel des Unterregisters</span></p>
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><span lang="DE-CH" style="mso-fareast-language: DE-CH;">oder</span></p>
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><span lang="DE-CH" style="mso-fareast-language: DE-CH;">den Text auf Franz&ouml;sisch der im Oktober YYYY-1 publizierten CHOP YYYY.</span></p>
 </td>
 </tr>
 <tr style="mso-yfti-irow: 16;">
-<td style="width: 21.7943%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #9bc2e6; padding: 0cm 5.4pt;" valign="top" width="198">
+<td style="width: 26.9383%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #9bc2e6; padding: 0cm 5.4pt;" valign="top" width="198">
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><span lang="EN-GB" style="color: black; mso-color-alt: windowtext; mso-ansi-language: EN-GB; mso-fareast-language: DE-CH;">New text FR / Comment FR</span></p>
 </td>
-<td style="width: 78.2057%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
+<td style="width: 73.0628%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><span lang="DE-CH" style="mso-fareast-language: DE-CH;">Enth&auml;lt entweder einen kurzen einf&uuml;hrenden Text zum Unterregister auf Franz&ouml;sisch</span></p>
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><span lang="DE-CH" style="mso-fareast-language: DE-CH;">oder</span></p>
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><span lang="DE-CH" style="mso-fareast-language: DE-CH;">den neuen Text auf Franz&ouml;sisch.</span></p>
 </td>
 </tr>
 <tr style="mso-yfti-irow: 17;">
-<td style="width: 21.7943%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #a9d08e; padding: 0cm 5.4pt;" valign="top" width="198">
+<td style="width: 26.9383%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #a9d08e; padding: 0cm 5.4pt;" valign="top" width="198">
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><span lang="EN-GB" style="color: black; mso-color-alt: windowtext; mso-ansi-language: EN-GB; mso-fareast-language: DE-CH;">Modification IT / Subregister number</span></p>
 </td>
-<td style="width: 78.2057%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
+<td style="width: 73.0628%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><span lang="DE-CH" style="mso-fareast-language: DE-CH;">Enth&auml;lt entweder die Nummer des Unterregisters</span></p>
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><span lang="DE-CH" style="mso-bidi-font-family: Aptos; mso-bidi-theme-font: minor-latin;">oder</span></p>
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><span lang="DE-CH" style="mso-bidi-font-family: Aptos; mso-bidi-theme-font: minor-latin;">die &Auml;nderung, die auf die italienischsprachigen Texte erfolgt</span></p>
@@ -259,20 +257,20 @@ Folgende Spalten befinden sich in der Tabelle:
 </td>
 </tr>
 <tr style="mso-yfti-irow: 18;">
-<td style="width: 21.7943%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #a9d08e; padding: 0cm 5.4pt;" valign="top" width="198">
+<td style="width: 26.9383%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #a9d08e; padding: 0cm 5.4pt;" valign="top" width="198">
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><span lang="EN-GB" style="color: black; mso-color-alt: windowtext; mso-ansi-language: EN-GB; mso-fareast-language: DE-CH;">Text IT / Subregister title</span></p>
 </td>
-<td style="width: 78.2057%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
+<td style="width: 73.0628%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><span lang="DE-CH" style="mso-fareast-language: DE-CH;">Enth&auml;lt entweder den Titel des Unterregisters</span></p>
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><span lang="DE-CH" style="mso-fareast-language: DE-CH;">oder</span></p>
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><span lang="DE-CH" style="mso-fareast-language: DE-CH;">den Text auf Italienisch der im Oktober YYYY-1 publizierten CHOP YYYY</span></p>
 </td>
 </tr>
 <tr style="mso-yfti-irow: 19; mso-yfti-lastrow: yes;">
-<td style="width: 21.7943%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #a9d08e; padding: 0cm 5.4pt;" valign="top" width="198">
+<td style="width: 26.9383%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #a9d08e; padding: 0cm 5.4pt;" valign="top" width="198">
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><span lang="EN-GB" style="color: black; mso-color-alt: windowtext; mso-ansi-language: EN-GB; mso-fareast-language: DE-CH;">New text IT / Comment IT</span></p>
 </td>
-<td style="width: 78.2057%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
+<td style="width: 73.0628%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><span lang="DE-CH" style="mso-fareast-language: DE-CH;">Enth&auml;lt entweder einen kurzen einf&uuml;hrenden Text zum Unterregister auf Italienisch</span></p>
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><span lang="DE-CH" style="mso-fareast-language: DE-CH;">oder</span></p>
 <p class="MsoBodyText" style="margin-top: 1.0pt;"><span lang="DE-CH" style="mso-fareast-language: DE-CH;">den neuen Text auf Italienisch</span></p>
@@ -280,8 +278,6 @@ Folgende Spalten befinden sich in der Tabelle:
 </tr>
 </tbody>
 </table>
-
-
 
 
 
