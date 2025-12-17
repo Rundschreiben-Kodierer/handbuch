@@ -14,7 +14,7 @@ keywords: []
 Il settore Classificazioni mediche dell'Ufficio federale di statistica (UST) sospenderà la pubblicazione della circolare nella sua forma attuale a partire dal **1° gennaio 2026**. A partire da tale data, tutti **gli aggiornamenti** alla versione pubblicata del <i>Manuale di codifica medica</i>, della <i>Classificazione svizzera delle operazioni (CHOP)</i> e dell'<i>ICD-10-GM</i> saranno disponibili esclusivamente sul sito Internet: <a href="https://rundschreiben-kodierer.github.io/handbuch/it/"
    target="_blank"
    rel="noopener noreferrer">Aggiornamenti sulle pubblicazioni delle classificazioni mediche</a>.
-<br>
+<br><br>
 Con il trasferimento dei contenuti sul sito Internet, la circolare nella sua forma attuale verrà soppressa. Sarà comunque possibile scaricare i contenuti del sito Internet in formato PDF anche in futuro. 
   
 I noti **cicli di pubblicazione** semestrali **delle precedenti circolari n. 1 e n. 2** rimangono per il momento invariati. La **struttura** dei capitoli sarà tuttavia modificata. In futuro i contenuti saranno strutturati come segue:
@@ -63,12 +63,12 @@ La versione online offre funzioni aggiuntive:
 </ul>  
 
 **Archivio**<br>
-Tutte le circolari dal 2009 al 2025 compreso sono ancora disponibili in formato PDF sul sito web dell'Ufficio federale di statistica, sezione Classificazioni mediche.  
+Tutte le circolari dal 2009 al 2025 compreso sono ancora disponibili in formato PDF sul sito web dell'Ufficio federale di statistica, settore Classificazioni mediche.  
 <a href="https://www.bfs.admin.ch/bfs/it/home/statistiken/gesundheit/nomenklaturen/medkk/instrumente-medizinische-kodierung.html"
    target="_blank"
    rel="noopener noreferrer">Strumenti di codifica medica | Ufficio federale di statistica - UST</a>
   
-Con questo sviluppo digitale, gli **aggiornamenti** delle pubblicazioni sono non solo moderni e di facile utilizzo, ma offrono anche funzioni aggiuntive che facilitano il lavoro quotidiano dei codificatori e codificatrici aumentano la chiarezza dei contenuti.
+Con questo sviluppo digitale, gli **aggiornamenti** sulle pubblicazioni sono non solo moderni e di facile utilizzo, ma offrono anche funzioni aggiuntive che facilitano il lavoro quotidiano dei codificatori e codificatrici aumentano la chiarezza dei contenuti.
 
 
 {{</markdown>}}

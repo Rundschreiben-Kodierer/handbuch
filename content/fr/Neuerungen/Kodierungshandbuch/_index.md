@@ -9,9 +9,9 @@ keywords: []
 <p style="text-align: right;">{{<printButton>}}
 
     
-Le chapitre «Manuel de codage» contient toutes les actualisations du manuel de codage médical en vigueur.
-Il sert de référence centrale pour les codeurs et codeuses en expliquant et en précisant les directives contraignantes relatives à la pratique du codage et en les complétant, si nécessaire, par de nouvelles consignes.
-Ce chapitre fournit une aide à l'interprétation, présente des exemples d'application des directives de codage et précise certains problèmes spécifiques liés au codage. 
+Le chapitre «Manuel de codage» contient toutes les actualisations du manuel de codage médical en vigueur.<br>
+Il sert de référence centrale pour les codeurs et codeuses en expliquant et en précisant les directives contraignantes relatives à la pratique du codage et en les complétant, si nécessaire, par de nouvelles consignes.<br>
+Ce chapitre fournit une aide à l'interprétation, présente des exemples d'application des directives de codage et précise certains problèmes spécifiques liés au codage.<br> 
 Le contenu de ce chapitre est actualisé dans le cadre des cycles de publication semestriels.
 ________________________________________
 **Système de registres :**  
@@ -28,8 +28,8 @@ Les actualisations du manuel de codage sont réparties dans les registres suivan
   
 
 **Règles relatives à la validité et au fonctionnement :**  
-Pour chaque version du manuel de codage, un registre indiquant la date d’entrée en vigueur est créé. Il documente toutes les actualisations effectuées au cours de l'année pour la version correspondante du manuel de codage.  
-Une version YYYY du manuel de codage est valable pendant un an (en l’année YYYY).
+Pour chaque version du manuel de codage, un registre indiquant la date d’entrée en vigueur est créé. Ce registre documente toutes les actualisations effectuées au cours de l'année pour la version correspondante du manuel de codage.  
+Une version YYYY du manuel de codage est valable pendant un an (en l’année YYYY).<br>
 Par version les registres suivants peuvent donc exister :
 <body>
     <ul>
@@ -48,6 +48,6 @@ Comme pour les autres chapitres des actualisations des publications, la légende
   
   
 {{<markdown>}}
-Legende : <font color="green">Nouveautés en vert</font>, <font color="red">~~Suppressions en rouge~~</font>
+Légende : <font color="green">Nouveautés en vert</font>, <font color="red">~~Suppressions en rouge~~</font>
 {{</markdown>}}
 

@@ -39,14 +39,13 @@ Les **cycles de publication** semestriels connus **des circulaires n° 1 et n° 
 </ul>
   
   
-**L'année de publication et la date de début de validité** <br>
-des contenus présentés sont indiquées sous chaque chapitre, afin que le classement chronologique des modifications et des ajouts puisse être clairement retracé à tout moment.
+**L'année de publication et la date de début de validité** des contenus présentés sont indiquées sous chaque chapitre, afin que le classement chronologique des modifications et des ajouts puisse être clairement retracé à tout moment.
   
 Les registres avec la mention "Ø None" ne contiennent pas d’actualisation.
   
   
 **Chapitre «Actualisations de la CHOP»**<br>
-Les informations relatives aux actualisations de la CHOP sont désormais disponibles sous forme de **classeur Excel (xlsx)**, accessible directement à partir des registres correspondants du chapitre CHOP. Ce tableau permet de suivre clairement les modifications et présente les mises à jour de la classification en allemand, français et italien.
+Les informations relatives aux actualisations de la CHOP sont désormais disponibles sous forme de **classeur Excel (xlsx)**, accessible directement à partir des registres correspondants du chapitre CHOP. Ce tableau permet de suivre clairement les modifications et présente les mises à jour de la classification en **allemand, français et italien**.
   
   
 **Nouveau chapitre «FAQ/Clarifications»**<br>
@@ -65,12 +64,12 @@ La version en ligne offre des fonctions supplémentaires :
 </ul>  
 
 **Archives**<br>
-Toutes les circulaires publiées entre 2009 et 2025 inclus sont toujours disponibles au format PDF sur le site web de l'Office fédéral de la statistique, section Classifications médicales.
+Toutes les circulaires publiées entre 2009 et 2025 inclus sont toujours disponibles au format PDF sur le site web de l'Office fédéral de la statistique, domaine Classifications médicales.
 <a href="https://www.bfs.admin.ch/bfs/fr/home/statistiken/gesundheit/nomenklaturen/medkk/instrumente-medizinische-kodierung.html"
    target="_blank"
    rel="noopener noreferrer">Instruments pour le codage médical | Office fédéral de la statistique - OFS</a>
 
-Grâce à cette évolution numérique, les **actualisations** des publications sont non seulement modernes et conviviales, mais offrent également des fonctions supplémentaires qui facilitent le travail quotidien des codeurs et améliorent la clarté du contenu.
+Grâce à cette évolution numérique, les **actualisations** des publications sont non seulement modernes et conviviales, mais offrent également des fonctions supplémentaires qui facilitent le travail quotidien des codeuses et codeurs et améliorent la clarté du contenu.
 
 
 {{</markdown>}}

@@ -13,15 +13,15 @@ keywords: []
   
 {{<markdown>}}
   
-L'Office fédéral de la statistique (OFS) est chargé, sur la base du chiffre 3 du règlement relatif à la révision du codage dans le cadre de SwissDRG SA (depuis le 1er janvier 2012), du règlement relatif à la révision du codage sous TARPSY (depuis le 1er janvier 2018) et de la révision du codage sous ST Reha (obligatoire à partir du 1er janvier 2022), de tenir à jour une liste des réviseurs.
+L'Office fédéral de la statistique (OFS) est chargé, sur la base du chiffre 3 du règlement relatif à la révision du codage dans le cadre de SwissDRG SA (depuis le 1er janvier 2012), du règlement relatif à la révision du codage sous TARPSY (depuis le 1er janvier 2018) et de la révision du codage sous ST Reha (obligatoire à partir du 1er janvier 2022), de tenir à jour une liste des réviseuses et réviseurs.
   
-La liste des réviseurs suisses en codage médical contient un aperçu actuel des spécialistes reconnus par l'Office fédéral de la statistique (OFS) qui remplissent les conditions requises et exercent en tant que réviseurs dans le domaine du codage médical sur le site. 
+La liste des réviseuses et réviseurs suisses en codage médical contient un aperçu actuel des spécialistes reconnus par l'Office fédéral de la statistique (OFS) qui remplissent les conditions requises et exercent en tant que réviseuses et réviseurs dans le domaine du codage médical sur le site. 
   
 La liste est divisée en trois structures tarifaires SwissDRG, TARPSY et ST Reha et comprend notamment les informations suivantes :
   
 <body>
     <ul>
-        <li><strong>Nom et prénom</strong> de l'auditeur ou de l'auditrice</li>
+        <li><strong>Nom et prénom</strong> de la réviseuse et/ou du réviseur</li>
         <li><strong>Institution ou organisation</strong> dans laquelle l'activité est exercée</li>
         <li><strong>Coordonnées</strong> (p. ex., adresse électronique ou numéro de téléphone, si autorisé)</li>
         <li><strong>Compétence régionale ou technique</strong>, le cas échéant</li>
@@ -29,11 +29,11 @@ La liste est divisée en trois structures tarifaires SwissDRG, TARPSY et ST Reha
     </ul>
 </body>
 
-La publication de ces informations sert à garantir la transparence et la traçabilité des processus de contrôle et de révision dans le domaine du codage médical. Elle permet aux hôpitaux, aux prestataires de services et aux autres acteurs du secteur de la santé de s'adresser aux réviseurs compétents en cas de besoin.
+La publication de ces informations sert à garantir la transparence et la traçabilité des processus de contrôle et de révision dans le domaine du codage médical. Elle permet aux hôpitaux, aux prestataires de services et aux autres acteurs du secteur de la santé de s'adresser aux réviseuses et réviseurs compétents en cas de besoin.
   
-**À partir du 1er janvier 2026, le contenu de la liste sera mis à jour en continu. Les cycles de publication semestriels en vigueur jusqu'à présent – fin juin et décembre – seront supprimés à cette date.**
+**À partir du 1er janvier 2026, le contenu de la liste sera mis à jour en continu. Les cycles de publication semestriels en vigueur jusqu'à présent – fin juin et fin décembre – seront supprimés à cette date.**
   
-**Inscription** : toutes les personnes qui ont l'intention d'effectuer des révisions de cas de codage sous SwissDRG, TARPSY ou ST Reha sont tenues de déposer une demande d'inscription sur la liste des réviseurs auprès de l'OFS.
+**Inscription** : toutes les personnes qui ont l'intention d'effectuer des révisions de cas de codage sous SwissDRG, TARPSY ou ST Reha sont tenues de déposer une demande d'inscription sur la liste des réviseuses et réviseurs auprès de l'OFS.
 <br>
 De plus amples informations sur la révision des cas de codage ainsi que les documents mentionnés ci-dessous sont disponibles sous les liens suivants :  
 <body>

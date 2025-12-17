@@ -8,13 +8,13 @@ keywords: []
 ---
 <p style="text-align: right;">{{<printButton>}}
 
-Le chapitre «Actualisations de la CIM-10-GM» contient toutes les actualisations des éditions en français et en italien de la version indiquée de la classification statistique internationale des maladies et des problèmes de santé connexes, 10e révision, German modification.
+Le chapitre «Actualisations de la CIM-10-GM» contient toutes les actualisations des éditions en français et en italien de la version indiquée de la classification statistique internationale des maladies et des problèmes de santé connexes, 10ème révision, German modification.
   
 Les nouveautés concernant l’édition allemande sont disponibles sur le site Internet du «Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM)» https://www.bfarm.de/DE/Kodiersysteme/Klassifikationen/ICD/_node.html en Allemagne. L’OFS informe de l'entrée en vigueur des éventuelles actualisations des index systématiques et alphabétiques en Suisse (date de reprise des adaptations communiquées par le BfArM).
   
-Pour chaque version de la classification, des registres sont créés avec la date d’entrée en vigueur.
-Les actualisations sont regroupées par thème et numérotées.
-Elles sont classées par ordre croissant selon le numéro du code.
+Pour chaque version de la classification, des registres sont créés avec la date d’entrée en vigueur.<br>
+Les actualisations sont regroupées par thème et numérotées.<br>
+Elles sont classées par ordre croissant selon le numéro du code.<br>
 Si un thème d’adaptation/de correction concerne plusieurs codes, il est classé sous le premier code principalement concerné.
   
 La CIM-10-GM 2024 est en vigueur en Suisse depuis le 1er janvier 2025. Les circulaires 2025 n° 1 et n° 2 ne comportaient aucune correction ni adaptation pour les versions française et italienne. La CIM-10-GM 2024 restera en vigueur en 2026. Si des adaptations ou des corrections devaient être apportées, il y aurait probablement deux registres pour cette version.

@@ -44,7 +44,7 @@ La data indica l’inizio della validità. Una modifica/correzione effettuata in
   
 Gli adeguamenti e le correzioni indicati per una versione (ad es. Manuale di codifica medica) vengono ripresi nella versione successiva del manuale di codifica o vengono eliminati a causa di un ulteriore sviluppo delle direttive di codifica nell'ambito della rispettiva regola di codifica.
   
-Analogamente agli altri capitoli degli aggiornamenti alle pubblicazioni, anche nel capitolo «Manuale di codifica» viene utilizzata la seguente legenda per gli adeguamenti, le integrazioni e le cancellazioni:
+Analogamente agli altri capitoli degli aggiornamenti sulle pubblicazioni, anche nel capitolo «Manuale di codifica» viene utilizzata la seguente legenda per gli adeguamenti, le integrazioni e le cancellazioni:
   
   
 {{<markdown>}}

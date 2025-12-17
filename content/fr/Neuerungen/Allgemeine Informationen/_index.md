@@ -1,5 +1,5 @@
 ---
-title: "Généralités"
+title: "«Informations générales"
 slug: AllgemeineInformationen
 description: ""
 weight: 101
@@ -27,8 +27,7 @@ Le chapitre **«Informations générales»** contient des informations fondament
 </body>
 
 
-Ce chapitre constitue ainsi la base pour l’utilisation des autres contenus et aide les codeurs à s’orienter dans les publications.  
-Pour chaque version des «Informations générales», des registres sont créés avec la date d’entrée en vigueur. Ces registres documentent les actualisations effectuées en cours d'année et indiquent clairement la date de début de validité correspondante.
+Ce chapitre constitue ainsi la base pour l’utilisation des autres contenus et aide les codeurs à s’orienter dans les publications. Pour chaque version des «Informations générales», des registres sont créés avec la date d’entrée en vigueur. Ces registres documentent les actualisations effectuées en cours d'année et indiquent clairement la date de début de validité correspondante.
 Dans le contexte des versions de publication du manuel de codage médical YYYY et CHOP YYYY, ainsi que de la CIM-10-GM, la mise à jour des «Informations générales» avait lieu tous les six mois.  
 Pour chaque année de publication, les registres suivants peuvent donc exister :
 
