@@ -272,6 +272,7 @@ Le tableau comporte les colonnes suivantes :
 <p>&nbsp;</p>
 
 
+
 {{<markdown>}}
 Auparavant, au chapitre 3, Informations complémentaires à la CHOP, dans le fichier PDF de la circulaire, une adaptation ou une correction apportée à une version CHOP était présentée comme suit.<br>
 Légende: <font color="green">Nouveautés en vert / </font><font color="red">~~Suppressions en rouge~~</font>  
