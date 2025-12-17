@@ -31,7 +31,7 @@ keywords: []
     <td style="border: 1px solid black;">01.01.2026 – Base Circulaire 2025/2: 0879</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">mise à jour</th>
+    <th style="border: 1px solid black;">Mise à jour</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -68,7 +68,7 @@ Une opération ouverte d'une sténose congénitale de l'isthme aortique est repr
     <td style="border: 1px solid black;">01.01.2026 – Base Circulaire 2025/2: 0769</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">mise à jour</th>
+    <th style="border: 1px solid black;">Mise à jour</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -114,7 +114,7 @@ Une thrombectomie transluminale percutanée sur des vaisseaux pulmonaires au moy
     <td style="border: 1px solid black;">01.01.2026 – Base Circulaire 2025/2: 0752</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">mise à jour</th>
+    <th style="border: 1px solid black;">Mise à jour</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -174,7 +174,7 @@ Le tableau suivant illustre les différentes situations d'une prothèse abdomina
     <td style="border: 1px solid black;">01.01.2026 – Base Circulaire 2025/2: 0789</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">mise à jour</th>
+    <th style="border: 1px solid black;">Mise à jour</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -332,7 +332,7 @@ Jour Y:
     <td style="border: 1px solid black;">01.01.2026 – Nouveau</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">mise à jour</th>
+    <th style="border: 1px solid black;">Mise à jour</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -396,7 +396,7 @@ Codage :
     <td style="border: 1px solid black;">01.01.2026 – Base Circulaire 2025/2: 0768</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">mise à jour</th>
+    <th style="border: 1px solid black;">Mise à jour</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -448,7 +448,7 @@ Les codes 38.7X.11 <i>Insertion d’un système de protection anti-embolie dans 
     <td style="border: 1px solid black;">01.01.2026 – Base Circulaire 2025/2: 0903</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">mise à jour</th>
+    <th style="border: 1px solid black;">Mise à jour</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -498,7 +498,7 @@ Le code 51.99.90 <i>Autre opération endoscopique des voies biliaires</i>, comme
     <td style="border: 1px solid black;">01.01.2026 – Base Circulaire 2025/2: 0808</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">mise à jour</th>
+    <th style="border: 1px solid black;">Mise à jour</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -540,7 +540,7 @@ Si, lors du remplacement d'une endoprothèse du genou, un remplacement de la fac
     <td style="border: 1px solid black;">01.01.2026 – Base Circulaire 2025/2: 0818</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">mise à jour</th>
+    <th style="border: 1px solid black;">Mise à jour</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -580,7 +580,7 @@ Le tableau suivant précise, par l’exemple de la main, le codage avec le code 
     <td style="border: 1px solid black;">01.01.2026 – Base Circulaire 2025/2: 0759</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">mise à jour</th>
+    <th style="border: 1px solid black;">Mise à jour</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -619,7 +619,7 @@ L’indication de la latéralité n’est impérative que pour les organes exist
     <td style="border: 1px solid black;">01.01.2026 – Base Circulaire 2025/2: 0762</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">mise à jour</th>
+    <th style="border: 1px solid black;">Mise à jour</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -661,7 +661,7 @@ Exception: pour certains codes CHOP, il est indiqué en note que si le même typ
     <td style="border: 1px solid black;">01.01.2026 - Base Circulaire 2025/2: 0758/2</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">mise à jour</th>
+    <th style="border: 1px solid black;">Mise à jour</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -718,7 +718,7 @@ Cela signifie qu’il n’est pas admis de coder simultanément 93.59.5- et 99.8
     <td style="border: 1px solid black;">01.01.2026 - Base Circulaire 2025/2: 0758/1 </td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">mise à jour</th>
+    <th style="border: 1px solid black;">Mise à jour</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -758,7 +758,7 @@ Pour le calcul des jours de traitement sous les codes du groupe d'éléments CHO
     <td style="border: 1px solid black;">01.01.2026 - Base Circulaire 2025/2: 0782</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">mise à jour</th>
+    <th style="border: 1px solid black;">Mise à jour</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -799,7 +799,7 @@ Cela signifie que, pour ces codes, les caractéristiques minimales qui se rappor
     <td style="border: 1px solid black;">01.01.2026 - Nouveau</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">mise à jour</th>
+    <th style="border: 1px solid black;">Mise à jour</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -845,7 +845,7 @@ la <b>seule</b> saisie de l'échelle de Glasgow (GCS) n'est pas suffisante pour 
     <td style="border: 1px solid black;">01.01.2026 - Base Circulaire 2025/2: 0761</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">mise à jour</th>
+    <th style="border: 1px solid black;">Mise à jour</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -904,7 +904,7 @@ Si un EEG est réalisé à trois reprises sans que deux autres des mesures énum
     <td style="border: 1px solid black;">01.01.2026 – Base Circulaire 2025/2: 0760</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">mise à jour</th>
+    <th style="border: 1px solid black;">Mise à jour</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -948,7 +948,7 @@ Exemple 2: une «mesure d’hygiène» pourrait appartenir au groupe de prestati
     <td style="border: 1px solid black;">01.01.2026 – Base Circulaire 2025/2: 0754/5</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">mise à jour</th>
+    <th style="border: 1px solid black;">Mise à jour</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -997,7 +997,7 @@ Lors d’un regroupement de cas avec un traitement complexe de médecine palliat
     <td style="border: 1px solid black;">01.01.2026 – Base Circulaire 2025/2: 0754/2, 0754/3, 0754/4</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">mise à jour</th>
+    <th style="border: 1px solid black;">Mise à jour</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -1071,7 +1071,7 @@ Dans le cadre de la «visite interprofessionnelle», le terme «interprofessionn
     <td style="border: 1px solid black;">01.01.2026 – Base Circulaire 2025/2: 0754/1 </td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">mise à jour</th>
+    <th style="border: 1px solid black;">Mise à jour</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -1117,7 +1117,7 @@ La réalisation d’un seul «examen ou test» pour l’évaluation de la dimens
     <td style="border: 1px solid black;">01.01.2026 – Base Circulaire 2025/2: 0754/6</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">mise à jour</th>
+    <th style="border: 1px solid black;">Mise à jour</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -1164,7 +1164,7 @@ Les deux exemples ci-dessous illustrent la manière de saisir les codes supplém
     <td style="border: 1px solid black;">01.01.2026 – Base Circulaire 2025/2: 0788</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">mise à jour</th>
+    <th style="border: 1px solid black;">Mise à jour</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -1207,7 +1207,7 @@ Exemple: une spondylodèse des vertèbres L2-L4 préexistante, complétée à pr
     <td style="border: 1px solid black;">01.01.2026 – Base Circulaire 2025/2: 0819</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">mise à jour</th>
+    <th style="border: 1px solid black;">Mise à jour</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -1251,7 +1251,7 @@ Seuls les segments auxquels le système est fixé sont pris en compte dans le d�
     <td style="border: 1px solid black;">01.01.2026 – Base Circulaire 2025/2: 0766</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">mise à jour</th>
+    <th style="border: 1px solid black;">Mise à jour</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -1303,7 +1303,7 @@ substitut osseux au niveau de la colonne vertébrale / mesures de stabilisation
     <td style="border: 1px solid black;">01.01.2026 - Nouveau</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">mise à jour</th>
+    <th style="border: 1px solid black;">Mise à jour</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -1351,7 +1351,7 @@ Il n'y a <b>pas</b> de <b>potentiel de conservation du mouvement</b> dans le seg
     <td style="border: 1px solid black;">01.01.2026 – Nouveau</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">mise à jour</th>
+    <th style="border: 1px solid black;">Mise à jour</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -1395,7 +1395,7 @@ En cas de laminotomie, de laminectomie ou de laminoplastie, cela doit être enre
     <td style="border: 1px solid black;">01.01.2026 – Nouveau </td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">mise à jour</th>
+    <th style="border: 1px solid black;">Mise à jour</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>

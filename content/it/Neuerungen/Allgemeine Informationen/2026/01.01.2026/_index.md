@@ -22,7 +22,7 @@ Dal 1° gennaio 2026 vanno utilizzati i seguenti strumenti di codifica:
         <li>Aggiornamenti sulle pubblicazioni delle classificazioni mediche dell'UST – 01.01.2026</li>
         <li>Classificazione Svizzera degli Interventi Chirurgici (CHOP): Indice sistematico - Versione 2026</li>
         <li>ICD-10-GM 2024 Indice sistematico: Classificazione statistica internazionale delle malattie e dei problemi sanitari correlati: 10. revisione – German Modification</li>
-        <li>ICD-10-GM 2024 Systematisches Verzeichnis, deutsche Version: Zusatzinformationen für den schweizerischen Kontext</li>
+        <li>ICD-10-GM 2024 Indice alfabetico: Classificazione statistica internazionale delle malattie e dei problemi sanitari correlati: 10. revisione – German Modification</li>
     </ul>
 </body>
   

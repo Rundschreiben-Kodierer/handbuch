@@ -22,6 +22,7 @@ Instruments de codage en vigueur<br><br>
         <li>Actualisations des publications des classifications médicales de l'OFS – 01.01.2026</li>
         <li>lassification Suisse des interventions chirurgicales (CHOP) : Index systématique – Version 2026 </li>
         <li>CIM-10-GM 2024 Index systématique : Classification statistique internationale des maladies et des problèmes de santé connexes, 10e révision, German Modification</li>
+        <li>CIM-10-GM 2024 Index alphabétique : Classification statistique internationale des maladies et des problèmes de santé connexes, 10e révision, German Modification</li>        
     </ul>
 </body>
   

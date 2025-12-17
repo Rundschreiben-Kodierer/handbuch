@@ -22,6 +22,7 @@ Ab 1. Januar 2026 gelten folgende Kodierungsinstrumente:
         <li>Aktualisierungen zu den Publikationen der Medizinischen Klassifikationen des BFS – 01.01.2026</li>
         <li>Schweizerische Operationsklassifikation (CHOP): Systematisches Verzeichnis - Version 2026</li>
         <li>ICD-10-GM 2024 Systematisches Verzeichnis: Internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme - 10. Revision – German Modification</li>
+        <li>ICD-10-GM 2024 Alphabetisches Verzeichnis: Internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme - 10. Revision – German Modification</li>
         <li>ICD-10-GM 2024 Systematisches Verzeichnis, deutsche Version: Zusatzinformationen für den schweizerischen Kontext</li>
     </ul>
 </body>
