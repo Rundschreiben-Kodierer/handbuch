@@ -62,7 +62,7 @@ Eine Totalatelektase beider Lungenflügel ist über die Lokalitätsbezeichnung "
 **Kodierempfehlung:**  
 Der alphabet. Index der ICD-10-GM 2024 verweist bei Atelektase einzelner Lappen z.B. Mittellappen oder Unterlappen auf den Kode für die Teilatelektase. Bei der Suche nach Lungenflügel, Atelektase wird auf den Kode für die Totalatelektase verwiesen.
   
-Die fehlende Belüftung von Teilabschnitten der Lunge (Lungensegmenten, Lungenlappen) wird daher mit J98.11 <i>Partielle Atelektase</i>, die fehlende Belüftung eines gesamten Lungenflügels mit J98.12 <i>Totalatelektase</i>, kodiert.
+Die fehlende Belüftung von Teilabschnitten der Lunge (Lungensegmenten, Lungenlappen) wird daher mit J98.11 <i>Partielle Atelektase</i>, die fehlende Belüftung eines gesamten Lungenflügels mit J98.12 <i>Totalatelektase</i> kodiert.
 {{</markdown>}}
 <br>  
 <br>
@@ -109,8 +109,8 @@ Ein Endoleak ist ein Leck zwischen der Gefäßprothese und dem Aneurysmasack nac
 Ein Endoleak **Typ I** entsteht durch eine unzureichende Abdichtung an der Ansatzstelle des Grafts.
   
 Beim Endoleak **Typ II** wird der Aneurysmasack durch einen Seitenast mit Blut gefüllt. Man unterscheidet zwischen:  
-**Typ IIa:** einzelnes zuführendes Blutgefäß  
-**Typ IIb:** mehrere zuführende Blutgefäße
+**Typ IIa:** Einzelnes zuführendes Blutgefäß  
+**Typ IIb:** Mehrere zuführende Blutgefäße
   
 Ein Endoleak **Typ III** entsteht durch mechanisches Versagen des Stentgrafts:  
 **Typ IIIa:** Verbindung zwischen modularen Komponenten gelöst  
@@ -174,7 +174,7 @@ Wie wird eine Hydatidenzyste, zystische Echinokokkose abgebildet?
 Im alphabetischen ICD-10-GM 2024 wird bei Echinokkose, Leber, zystisch, auf B67.0† <i>Echinococcus-granulosus-Infektion [zystische Echinokokkose] der Leber</i>, mit 
 K77.0* *Leberkrankheiten bei anderenorts klassifizierten infektiösen und parasitären Krankheiten* verwiesen.
   
-Bei Echinococcus, Zyste, durch Hydatiden, Leber, verweist der alphabet. Index auf B67.0 *Echinococcus-granulosus-Infektion [zystische Echinokokkose] der Leber*.
+Bei Echinococcus, Zyste, durch Hydatiden, Leber, verweist der alphabetische Index auf B67.0 *Echinococcus-granulosus-Infektion [zystische Echinokokkose] der Leber*.
 In der ICD wird unterschieden zwischen Hydatidenzyste in der Leber mit oder ohne Infektion des umliegenden Lebergewebes.
     
 **Kodierempfehlung:**  
@@ -224,7 +224,7 @@ Wie wird eine Carotisstenose bds. erfasst? Wie werden ein- oder beidseitige Sten
 Grundsätzlich gilt: Es ist stets der spezifischste ICD-Kode zu wählen, der die dokumentierte Diagnose am genauesten beschreibt.  
 <body>
     <ul>
-        <li><b>Beidseitiger Verschluss einer einzelnen präzerebralen Arterie</b> (z. B. Arteria carotis) wird mit dem spezifischen Kode <b>I65.-</b> unter Angabe der Lateralität verschlüsselt.<br>
+        <li><b>Der Beidseitige Verschluss einer einzelnen präzerebralen Arterie</b> (z. B. Arteria carotis) wird mit dem spezifischen Kode <b>I65.-</b> unter Angabe der Lateralität verschlüsselt.<br>
 <b>Beispiel</b>: Beidseitiger Verschluss/Stenose der Arteria carotis → <b>I65.2 </b><i>Verschluss und Stenose der A. carotis L bds</i>. 
 
 </li>
@@ -319,7 +319,7 @@ Durch diese Erfassung kann das Ulcus hypertonicum von anderen Ulcus cruris-Arten
 </table>
 
 {{<markdown>}}
-**Frage:**  
+**Fragestellung:**  
 Wie wird ein Herpes zoster mit Hauterscheinungen im entsprechenden Dermatom kodiert?
     
 **Erläuterung:**  
@@ -370,7 +370,7 @@ Bei einem Herpes zoster mit Manifestation im Innervationsgebiet des 1. Trigeminu
 </table>
 
 {{<markdown>}}
-**Frage:**  
+**Fragestellung:**  
 Wie wird eine Herzinsuffizienz mit erhaltener Ejektionsfraktion (HFpEF) kodiert?
   
 **Erläuterung:**  
@@ -381,7 +381,7 @@ Symptome: Kurzatmigkeit, Müdigkeit, eingeschränkte Belastbarkeit, Schwellungen
 Die Schwere der Herzinsuffizienz mit erhaltener Ejektionsfraktion (HFpEF) wird durch die klinischen Symptome und die funktionellen Einschränkungen des Patienten bestimmt. In der Kodierung wird dies durch die Verwendung spezifischer Nebendiagnosen und Schweregradkategorien berücksichtigt.
   
 **Kodierempfehlung:**  
-Bei entsprechender Dokumentation der Beschwerden/ Dyspnoe, können die Kodes I50.12- I50.14, <i>Linksherzinsuffizienz mit Beschwerden (…)</I>  bzw. die zusätzlichen Schlüsselnummern I50.02!- I50.05! <I>Rechtsherzinsuffizienz mit Beschwerden (…)</I>  auch bei erhaltener EF erfasst werden. 
+Bei entsprechender Dokumentation der Beschwerden / Dyspnoe, können die Kodes I50.12- I50.14, <i>Linksherzinsuffizienz mit Beschwerden (…)</I>  bzw. die zusätzlichen Schlüsselnummern I50.02!- I50.05! <I>Rechtsherzinsuffizienz mit Beschwerden (…)</I>  auch bei erhaltener EF erfasst werden. 
 {{</markdown>}}
 <br>  
 <br>
@@ -424,7 +424,7 @@ Bei entsprechender Dokumentation der Beschwerden/ Dyspnoe, können die Kodes I50
 </table>
 
 {{<markdown>}}
-**Frage:**  
+**Fragestellung:**  
 Wie werden Träger von MRE / Verdachtsfälle mit und ohne Erregernachweis kodiert?
   
 **Erläuterung:**  
@@ -478,13 +478,13 @@ Bis zum Zeitpunkt, an dem drei hintereinander negative Abstrich-Tests pro Lokali
 </table>
 
 {{<markdown>}}
-**Frage:**  
+**Fragestellung:**  
 Soll bei einer osteoporotischen Sinterungsfraktur der Wirbelsäule zusätzlich ein Kode für die nähere Bezeichnung der Lokalisation, M49.5-* <i>Wirbelkörperkompression bei anderenorts klassifizierten Krankheiten</i> abgebildet werden?
   
 **Erläuterung:**  
 Die Kodierung mit M80.x8 <i>Osteoporose mit pathologischer Fraktur: Sonstige Lokalisationen</i> erlaubt nur eine sehr grobe Angabe der Frakturlokalisation, insbesondere bei Wirbelkörperfrakturen. Die Kategorie „Sonstige“ umfasst mehrere anatomische Regionen wie Hals, Kopf, Rippen, Rumpf, Schädel und Wirbelsäule, ohne eine präzise Differenzierung innerhalb dieser Strukturen.
 
-Die zusätzliche Kodierung mit M49.5* <i>Wirbelkörperkompression bei anderenorts klassifizierten Krankheiten</i> ermöglicht eine spezifischere Darstellung der betroffenen Wirbelsäulenabschnitte, 
+Die zusätzliche Kodierung mit M49.5* <i>Wirbelkörperkompression bei anderenorts klassifizierten Krankheiten</i> ermöglicht eine spezifischere Darstellung der betroffenen Wirbelsäulenabschnitte. 
   
 **Kodierempfehlung:**  
 Eine osteoporotische Sinterungsfraktur der Wirbelsäule wird mit M80.x8 <i>Osteoporose mit pathologischer Fraktur: Sonstige Lokalisationen [Hals, Kopf, Rippen, Rumpf, Schädel, Wirbelsäule]</i> kodiert.  
@@ -532,7 +532,7 @@ Zusätzlich soll ein Kode der ICD-10-GM 2024 Kodegruppe M49.5-* <i>Wirbelkörper
 Wie wird eine bakterielle Pneumonie im Rahmen einer Superinfektion bei viraler Pneumonie (z.B. Bakterielle COVID-Pneumonie) ohne Erregernachweis abgebildet?
   
 **Erläuterung:**  
-Die Resteklasse «Nicht näher bezeichnet» ist dann zu verwenden, wenn eine Krankheit nur mit ihrem Oberbegriff wie z.B. Katarakt, beschrieben ist und/oder eine weitere Differenzierung nach den Klassifikationskriterien der ICD-10-GM 2024 an entsprechender Stelle nicht möglich ist.»  
+Die Resteklasse «Nicht näher bezeichnet» ist dann zu verwenden, wenn eine Krankheit nur mit ihrem Oberbegriff wie z.B. Katarakt, beschrieben ist und/oder eine weitere Differenzierung nach den Klassifikationskriterien der ICD-10-GM 2024 an entsprechender Stelle nicht möglich ist.  
 In der ICD-10-GM 2024 systematischer Index steht: <i>„Sonstige …“ </i> oder <i>„Sonstige näher bezeichnete …“</i> sollen nur dann verwendet werden, wenn eine spezifische Diagnose dokumentiert ist, aber keiner der spezifischen Kodes der übergeordneten</i> Kategorie passt.  
   
 Die Klassifikation der Kodegruppe J15.- in der systematischen ICD-10-GM 2024 erfolgt anhand des jeweiligen Erregers.   
@@ -582,7 +582,7 @@ Die Tatsache, dass es sich um einen Infekt bakteriellen Ursprungs handelt, berec
 </table>
 
 {{<markdown>}}
-**Frageste:**  
+**Fragestellung:**  
 Kann eine Tachyarrhythmie / Tachykardie bei vorbestehendem Vorhofflimmern / Vorhofflattern und zusätzlichem Aufwand (z.B.  frequenzregulierende Therapie) dazu kodiert werden?
   
 **Erläuterung:**  

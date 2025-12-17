@@ -516,7 +516,7 @@ Der Kode 51.99.90 <i>Sonstige endoskopische Operationen an den Gallenwegen</i>, 
 <b>Problem/Erläuterung:</b><br>
 Wird eine bestehende Knieendoprothese, unabhängig vom Typ, durch eine andere Knieendoprothese ersetzt, ist für die Implantation der Kode mit der Bezeichnung «bei einem Prothesenwechsel» zu wählen. 
 <br><br>
-Z. B. Explantation einer Hemiendoprothese und Implantation einer Totalendoprothese am gleichen Knie: für die Implantation muss der Kode 81.54.31 <i>Implantation einer Standard-Totalendoprothese des Kniegelenks bei einem Prothesenwechsel</i> erfasst werden und <b>nicht</b> der Kode 81.54.21 <i>Erstimplantation einer Standard-Totalendoprothese des Kniegelenks</i>.
+Z. B. Explantation einer Hemiendoprothese und Implantation einer Totalendoprothese am gleichen Knie: Für die Implantation muss der Kode 81.54.31 <i>Implantation einer Standard-Totalendoprothese des Kniegelenks bei einem Prothesenwechsel</i> erfasst werden und <b>nicht</b> der Kode 81.54.21 <i>Erstimplantation einer Standard-Totalendoprothese des Kniegelenks</i>.
 <br>
 Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückflächenersatz eingesetzt, muss der Kode 81.54.42 <i>Implantation eines Patella-Rückflächenersatz bei einem Wechsel</i> erfasst werden und <b>nicht</b> der Kode 81.54.27 <i>Erstimplantation eines Patella-Rückflächenersatzes</i>.
 <br>
@@ -598,7 +598,7 @@ Folgende Tabelle präzisiert die Kodierung von Eingriffskode und Zusatzkode bei 
 </table>
 
 <b>Erläuterung:</b><br>
-Die Angabe der Lateralität ist nur bei paarigen Organen ein Muss (entsprechende Kennzeichnung in der CHOP mit «[L]» in der PDF- Datei oder «Lateral» in der CSV-Datei). Bei nicht-paarigen Organen oder Körperteilen «kann» die Lateralität erfasst werden, «muss» aber nicht.
+Die Angabe der Lateralität ist nur bei paarigen Organen ein Muss (entsprechende Kennzeichnung in der CHOP mit «[L]» in der PDF-Datei oder «Lateral» in der CSV-Datei). Bei nicht-paarigen Organen oder Körperteilen «kann» die Lateralität erfasst werden, «muss» aber nicht.
 <br>
 <br>
 <br>
@@ -695,7 +695,7 @@ EXKL. «Kode weglassen - Komplexbehandlung bei Besiedlung oder Infektion mit mul
     {{</grid/column>}}
 {{</grid>}}
 <br>
-Dies bedeutet, dass die zeitgleiche Kodierung von 93.59.5- und 99.84.1-, 99.84.2-, 99.84.3- nicht gestattet ist. Werden 99.84.1-, 99.84.2-, 99.84.3- zeitlich versetzt erbracht zur 93.59.5- können die Kodes im gleichen Fall erfasst werden. Die Erfassung von 99.84.1-, 99.84.2-, 99.84.3- darf nie für das gleiche Zeitintervall wie 93.59.5- erfolgen.
+Dies bedeutet, dass die zeitgleiche Kodierung von 93.59.5- und 99.84.1-, 99.84.2-, 99.84.3- nicht gestattet ist. Werden 99.84.1-, 99.84.2-, 99.84.3- zeitlich versetzt erbracht zur 93.59.5-, können die Kodes im gleichen Fall erfasst werden. Die Erfassung von 99.84.1-, 99.84.2-, 99.84.3- darf nie für das gleiche Zeitintervall wie 93.59.5- erfolgen.
 <br>
 <br>
 <br>
@@ -809,7 +809,7 @@ D. h. bei diesen Kodes entfallen die Mindestmerkmale, die sich auf eine Woche od
   </tr>
   <tr>
     <th style="border: 1px solid black;">CHOP</th>
-    <td style="border: 1px solid black;">99.A7. / 99.BA.1- / 99.BA.2- / 99.BA.3</td>
+    <td style="border: 1px solid black;">99.A7 / 99.BA.1- / 99.BA.2- / 99.BA.3-</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Kodierregel</th>
@@ -1040,11 +1040,11 @@ Folgendes zählt nicht zu den 6 Stunden:  <br>
 <br>  
 <br>  
 <b>Fragestellung Nr. 2:</b><br>  
-Was ist unter «wöchentlich» bei der «wöchentlicher interprofessioneller Teambesprechung» unter 93.8A.2- im Mindestmerkmal Punkt 4, Therapieplanung und -kontrolle</i> und unter 93.8B.- im Mindestmerkmal Punkt 5, Therapieplanung und -kontrolle?
+Was ist unter «wöchentlich» bei der «wöchentliche interprofessionellen Teambesprechung» unter 93.8A.2- im Mindestmerkmal Punkt 4, Therapieplanung und -kontrolle</i> und unter 93.8B.- im Mindestmerkmal Punkt 5, Therapieplanung und -kontrolle zu verstehen?
 <br>  
 <br>  
 <b>Erläuterung Nr. 2:</b><br>
-«wöchentlich» ist struktur- und nicht patientenbezogen. Das bedeutet, dass im klinischen Betrieb mindestens einmal pro Woche eine interprofessionelle Teambesprechung stattfindet.
+«Wöchentlich» ist struktur- und nicht patientenbezogen. Das bedeutet, dass im klinischen Betrieb mindestens einmal pro Woche eine interprofessionelle Teambesprechung stattfindet.
 <br>  
 <br>  
 Beispiel:  <br>  

@@ -46,7 +46,7 @@ Le basi giuridiche sono:
 **Versioni di riferimento**  
 Per quanto riguarda le classificazioni, e il manuale e aggiornamenti delle pubblicazioni delle classificazioni mediche dell'UST, in caso di discordanza tra versioni linguistiche fanno fede le versioni originali in lingua tedesca.
   
-**Aggiornamenti delle pubblicazioni delle classificazioni mediche dell'UST e FAQ/Chiarimenti**   
+**Aggiornamenti sulle pubblicazioni delle classificazioni mediche dell'UST e FAQ/Chiarimenti**   
 Gli «Aggiornamenti delle pubblicazioni delle classificazioni mediche dell'UST» contengono informazioni di base e aggiuntive (comprese le correzioni) relative alle pubblicazioni delle classificazioni mediche dell'UST <a href="https://www.bfs.admin.ch/bfs/it/home/statistiche/salute/nomenclature/medkk/strumenti-codifica-medica.html"
    target="_blank"
    rel="noopener noreferrer">

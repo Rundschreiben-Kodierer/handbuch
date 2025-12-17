@@ -95,7 +95,7 @@ Une thrombectomie transluminale percutanée sur des vaisseaux pulmonaires au moy
         <li>les codes supplémentaires pertinents du groupe d’éléments 00.4F.2- <i>Utilisation de systèmes d’extraction de corps étranger et de thrombus guidés par cathéter, selon le nombre de systèmes</i></li>
     </ul>
 </body>
-(Selon le cas, d’autres codes CHOP doivent être pris en compte.)
+(Selon le cas, d’autres codes CHOP doivent être pris en compte)
 <br>
 <br>
 {{</article>}}
@@ -150,7 +150,7 @@ Le tableau suivant présente graphiquement la signification du code supplémenta
 {{<insertImage image="FAQCHOP0003Tabelle1FR.png" class="edge max-w-90">}}
 <br>
 <br>
-Les endoprothèses aorto-mono-iliaques ou aorto-bi-iliaques (corps principal (bleu)) peuvent être prolongées par des endoprothèses dans l'artère iliaque commune gauche et/ou droite (d'autres endoprothèses sont alors modelées, vert). Les codes correspondants de la sous-catégorie 39.7B.- _Implantation endovasculaire de stents grafts [stents couverts] dans les artères iliaques commune et externe_ doivent être codés en plus dans ce cas.<br>
+Les endoprothèses aorto-mono-iliaques ou aorto-bi-iliaques (corps principal (bleu)) peuvent être prolongées par des endoprothèses dans l'artère iliaque commune gauche et/ou droite (d'autres endoprothèses sont alors modelées, vert). Les codes correspondants de la sous-catégorie 39.7B.- <i>Implantation endovasculaire de stents grafts [stents couverts] dans les artères iliaques commune et externe</i> doivent être codés en plus dans ce cas.<br>
 <br>
 Le tableau suivant illustre les différentes situations d'une prothèse abdominale principale sans ouvertures (en bleu dans le schéma) :
 <br>
@@ -222,7 +222,7 @@ Jour Y:
     {{</grid/column>}}
 {{</grid>}}
 <br>
-Chacun des codes suivants indique uniquement «d’une prothèse» ou «de prothèse», resp. «d’un stent» ou de «stent». Il n’existe pas de codes totaux pour l’ensemble du séjour pour ces types de stents/prothèses.
+Chacun des codes suivants indique uniquement «d’une prothèse» ou «de prothèse», resp. «d’un stent» ou de «stent».
 <br>
 
 {{<indent level="4">}}
@@ -518,7 +518,7 @@ Le code 51.99.90 <i>Autre opération endoscopique des voies biliaires</i>, comme
 <b>Problème/explication:</b><br>
 Si une prothèse totale du genou existante, quel que soit son type, est remplacée par une autre prothèse totale du genou, il convient de sélectionner le code « lors d'un remplacement de prothèse » pour l'implantation. 
 <br><br>
-Par exemple, explantation d'une hémi-endoprothèse et implantation d'une endoprothèse totale sur le même genou : pour l'implantation, il faut saisir le code 81.54.31 <i>Implantation d'une endoprothèse totale standard du genou lors d'un remplacement de prothèse</i> et <b>non</b> le code 81.54.21 Première implantation d'une endoprothèse totale standard du genou.
+Par exemple, explantation d'une hémi-endoprothèse et implantation d'une endoprothèse totale sur le même genou : pour l'implantation, il faut saisir le code 81.54.31 <i>Implantation d'une endoprothèse totale standard du genou lors d'un remplacement de prothèse</i> et <b>non</b> le code 81.54.21 <i>Première implantation d'une endoprothèse totale standard du genou</i>.
 Si, lors du remplacement d'une endoprothèse du genou, un remplacement de la face arrière de la rotule est utilisé pour la première fois, il faut saisir le code 81.54.42 <i>Implantation d'un remplacement de la face arrière de la rotule lors d'un remplacement</i> et <b>non</b> le code 81.54.27 <i>Première implantation d'un remplacement de la face arrière de la rotule</i>.
 <br>
 <br>
@@ -808,7 +808,7 @@ Cela signifie que, pour ces codes, les caractéristiques minimales qui se rappor
   </tr>
   <tr>
     <th style="border: 1px solid black;">CHOP</th>
-    <td style="border: 1px solid black;">99.A7. / 99.BA.1- / 99.BA.2- / 99.BA.3</td>
+    <td style="border: 1px solid black;">99.A7 / 99.BA.1- / 99.BA.2- / 99.BA.3-</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Règle de codage</th>
@@ -825,7 +825,7 @@ Le processus mis en place par le centre de prise en charge des AVC ou l'unité d
 La sous-catégorie 99.A7 <i>Diagnostic complexe de l’AVC aigu en stroke unit ou stroke center, jusqu’à 24 heures maximum</i>, et les groupes d'éléments 99.BA.1 - <i>Traitement neurologique complexe de l’AVC aigu en stroke center [SC], selon la durée de traitement en heures</i>, et 99.BA.2- <i>Traitement neurologique complexe de l’AVC aigu en stroke unit [SU], selon la durée de traitement en heures</i> renvoient aux documents de référence mentionnés. En conséquence, la surveillance clinique pour ces codes doit être effectuée et documentée conformément aux spécifications. 
 
 Important:<br>
-la <b>seule</b> saisie de l'échelle de Glasgow (GCS) n'est pas suffisante pour le diagnostic neurologique clinique dans le cadre de la surveillance des accidents vasculaires cérébraux dans le champ d'application des codes 99.A7, 99.BA.1 et 99.BA.2.
+la <b>seule</b> saisie de l'échelle de Glasgow (GCS) n'est pas suffisante pour le diagnostic neurologique clinique dans le cadre de la surveillance des accidents vasculaires cérébraux dans le champ d'application des codes 99.A7, 99.BA.1- et 99.BA.2-.
 
 {{</markdown>}}
 <br>
@@ -1034,10 +1034,10 @@ Les éléments suivants ne sont pas pris en compte dans les 6 heures :<br>
 <br>  
 <br>  
 <b>Question n° 2:</b><br>  
-Que signifie <b>«Chaque semaine»</b> dans le cadre de la « réunion hebdomadaire de l'équipe interprofessionnelle » sous 93.8A.2- dans la caractéristique minimale point 4, planification et contrôle du traitement, et sous 93.8B.- dans la caractéristique minimale point 5, planification et contrôle du traitement ?
+Que signifie «Chaque semaine» dans le cadre de la « réunion hebdomadaire de l'équipe interprofessionnelle » sous 93.8A.2- dans la caractéristique minimale point 4, planification et contrôle du traitement, et sous 93.8B.- dans la caractéristique minimale point 5, planification et contrôle du traitement ?
 <br>  
 <b>Explication n° 2 :</b><br>
-<b>«Chaque semaine»</b> se réfère à la structure, pas au patient. Cela signifie qu’au moins une discussion interprofessionnelle en équipe a lieu chaque semaine dans l’unité clinique.
+«Chaque semaine» se réfère à la structure, pas au patient. Cela signifie qu’au moins une discussion interprofessionnelle en équipe a lieu chaque semaine dans l’unité clinique.
 <br>  
 Exemple:<br>  
 Le patient est hospitalisé pendant 10 jours (du lundi de la semaine 1 au mercredi de la semaine 2). Le patient sort le mercredi de la 2e semaine ou décède. Les discussions d’équipe ont toujours lieu le jeudi. L’exigence minimale du point de vue structurel est remplie également pour la 2e semaine.
@@ -1228,7 +1228,7 @@ Exemple: une spondylodèse des vertèbres L2-L4 préexistante, complétée à pr
 <br>
 Le code 7A.A2 <i>Implantation de systèmes évolutifs ou expansifs, colonne vertébrale</i> est un code supplémentaire et ne peut donc pas être codé seul. L’intervention consiste en une stabilisation dynamique de la colonne vertébrale.
 <br>
-L'intervention consiste en une <b>stabilisation dynamique de la colonne vertébrale</b>, qui est enregistrée sous <b>7A.72.1 -</b> <i>Stabilisation dynamique de la colonne vertébrale, abord dorsal et dorsolatéral</i>.<br>
+L'intervention consiste en une <b>stabilisation dynamique de la colonne vertébrale</b>, qui est enregistrée sous <b>7A.72.1 - <i>Stabilisation dynamique de la colonne vertébrale, abord dorsal et dorsolatéral</b></i>.<br>
 Seuls les segments auxquels le système est fixé sont pris en compte dans le décompte des segments traités.
 <br>
 <br>
@@ -1272,11 +1272,11 @@ Seuls les segments auxquels le système est fixé sont pris en compte dans le d�
 **Problème/explication:**  
 Pour les sous-catégories 7A.71.- à 7A.74.-, la subdivision a été faite en 5e position pour la voie dorsale et dorsolatérale et en 6e position pour la voie ventrale, selon le nombre de segments traités (subdivisés en 14 et plus). Selon les conventions CHOP, le «et» doit être compris comme «et/ou». 
   
-La note sous 7A.7- <i>«Stabilisation de la colonne vertébrale et correction de position»</i> est la suivante: 
+La note sous 7A.7- <i>Stabilisation de la colonne vertébrale et correction de position</i> est la suivante: 
 «Si l’abord pour certains segments a lieu par voie dorsale ainsi que ventrale, il faut indiquer, pour la zone complète d’intervention, le nombre total de segments qui ont été opérés par voie dorsale avec un code ainsi que le nombre total de segments qui ont été opérés par voie ventrale avec un autre code. De plus, le code supplémentaire du nombre total de segments opérés est à saisir».
 Les voies d’abord dorsolatérales font partie des voies d’abord dorsales. En d’autres termes, le segment n’est pas compté deux fois s’il est opéré par voie dorsale et dorsolatérale. 
   
-Dans l’exemple de l’illustration suivante, une spondylodèse a été réalisée sur six vertèbres, ce qui correspond à cinq segments. Trois segments sont opérés par voie dorsale et/ou dorsolatérale, quatre segments par voie ventrale. On saisit donc un code pour trois segments «dorsal et dorsolatéral» et un code pour quatre segments «ventral». Le code correspondant de la sous-catégorie 7A.B4.- <i>«Somme des segments opérés de la colonne vertébrale»</i> est par ailleurs codé pour cinq segments.
+Dans l’exemple de l’illustration suivante, une spondylodèse a été réalisée sur six vertèbres, ce qui correspond à cinq segments. Trois segments sont opérés par voie dorsale et/ou dorsolatérale, quatre segments par voie ventrale. On saisit donc un code pour trois segments «dorsal et dorsolatéral» et un code pour quatre segments «ventral». Le code correspondant de la sous-catégorie 7A.B4.- <i>Somme des segments opérés de la colonne vertébrale</i> est par ailleurs codé pour cinq segments.
   
 {{</markdown>}}
 <br><br>
@@ -1321,7 +1321,7 @@ substitut osseux au niveau de la colonne vertébrale / mesures de stabilisation
 </table>
 
 <b>Problème/explication:</b> <br>
-Le code <b>7A.71.-</b> <i>Fusion de vertèbres avec stabilisation de la colonne vertébrale</i> doit être utilisé lorsqu'une <b>fusion vertébrale/raidissement</b> avec stabilisation est réalisée et qu'elle présente en outre l'une des caractéristiques suivantes :<br>
+Le code <b>7A.71.-</b> <i>Fusion de vertèbres avec stabilisation de la colonne vertébrale</i> doit être utilisé lorsqu'une <b>fusion vertébrale / raidissement</b> avec stabilisation est réalisée et qu'elle présente en outre l'une des caractéristiques suivantes :<br>
 
 <body>
     <ul>

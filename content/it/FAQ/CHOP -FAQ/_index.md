@@ -223,7 +223,7 @@ Giorno Y:
     {{</grid/column>}}
 {{</grid>}}
 <br>
-I seguenti codici indicano solo «di uno stent», «di stent» o di «una protesi». Per questi tipi di stents/protesi non vi sono codici somma riguardanti l’intera degenza.
+I seguenti codici indicano solo «di uno stent», «di stent» o di «una protesi».
 <br>
 
 {{<indent level="4">}}
@@ -738,7 +738,7 @@ Ciò significa che non è consentito codificare contemporaneamente 93.59.5- e 99
 
 {{<markdown>}}
 **Problema/Spiegazione:**  
-Ai fini del conteggio dei giorni di degenza per i codici CHOP del gruppo di elementi 93.59.5- <i>Trattamento complesso per colonizzazione o infezione da agenti multiresistenti, secondo il numero di giorni di trattamento</i>, il giorno di ricovero nonché il giorno di dimissione possono essere conteggiati come un solo giorno di trattamento, sempre a condizione che siano soddisfatti i corrispondenti requisiti minimi.
+Ai fini del conteggio dei giorni di degenza per i codici CHOP del gruppo di elementi 93.59.5- <i>Trattamento complesso per colonizzazione o infezione da agenti multiresistenti, secondo il numero di giorni di trattamento</i>, il giorno di ricovero nonché il giorno di dimissione possono essere conteggiati come <i>un solo giorno di trattamento</i>, sempre a condizione che siano soddisfatti i corrispondenti requisiti minimi.
 {{</markdown>}}
 <br>
 <br>
@@ -796,11 +796,11 @@ I codici «[…], fino a 6 giorni di trattamento» vanno utilizzati nei casi in 
   </tr>
   <tr>
     <th style="border: 1px solid black;">Creato</th>
-    <td style="border: 1px solid black;">01.01.2026 - Neu</td>
+    <td style="border: 1px solid black;">01.01.2026 - Nuovo</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aggiornato</th>
-    <td style="border: 1px solid black;">Nuovo</td>
+    <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
@@ -808,7 +808,7 @@ I codici «[…], fino a 6 giorni di trattamento» vanno utilizzati nei casi in 
   </tr>
   <tr>
     <th style="border: 1px solid black;">CHOP</th>
-    <td style="border: 1px solid black;">99.A7. / 99.BA.1- / 99.BA.2- / 99.BA.3</td>
+    <td style="border: 1px solid black;">99.A7 / 99.BA.1- / 99.BA.2- / 99.BA.3-</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Regola di codifica</th>
@@ -825,7 +825,7 @@ Il processo stabilito dal rispettivo Stroke Center o  dalla Stroke Unit per la d
 La sottocategoria 99.A7 _Diagnostica complessa dell’ictus cerebrale acuto in Stroke Unit o Stroke Center, fino a un massimo di 24 ore_ e i gruppi di elementi 99.BA.1- _Trattamento neurologico complesso dell’ictus cerebrale acuto in Stroke Center [SC], secondo la durata del trattamento in ore_ e 99.BA.2- _Trattamento neurologico complesso dell’ictus cerebrale acuto in Stroke Unit [SU], secondo la durata del trattamento in ore_, rimandano ai documenti di riferimento citati. Di conseguenza, il monitoraggio clinico per questi codici deve essere effettuato e documentato secondo le specifiche. 
 
 Importante:<br>
-La **sola** registrazione della Glasgow Coma Scale (GCS) non è sufficiente per la diagnosi clinico-neurologica ai fini del monitoraggio dell'ictus cerebrale nell'ambito di applicazione dei codici 99.A7, 99.BA.1 e 99.BA.2.
+La **sola** registrazione della Glasgow Coma Scale (GCS) non è sufficiente per la diagnosi clinico-neurologica ai fini del monitoraggio dell'ictus cerebrale nell'ambito di applicazione dei codici 99.A7, 99.BA.1- e 99.BA.2-.
 
 {{</markdown>}}
 <br>
@@ -865,7 +865,7 @@ La **sola** registrazione della Glasgow Coma Scale (GCS) non è sufficiente per 
 {{<markdown>}}
 **Problema/Spiegazione:**  
 Gli elenchi che figurano nei campi «Nota» ai trattamenti complessi o alle diagnostiche complesse, e che seguono frasi del tipo «impiego di almeno x settori terapeutici» o «almeno x delle seguenti misure», significano che devono intervenire almeno x diversi settori terapeutici o misure tra quelli elencati. L’impiego / l’attuazione della stessa misura / dello stesso settore terapeutico x volte non soddisfa i requisiti minimi.
-Esempio: nella «Nota» al codice 99.A6 <i>Diagnostica neurologica complessa</i> figura il seguente elenco:
+Esempio: nella «Nota» al codice 99.A6.- <i>Diagnostica neurologica complessa</i> figura il seguente elenco:
 {{</markdown>}}
 <br>
 <br>
@@ -886,7 +886,7 @@ almeno 3 delle seguenti misure:
   </ul>
 </body>
 Se viene svolta un’elettroencefalografia per tre volte senza altre due delle misure elencate, i requisiti minimi non sono soddisfatti e non è possibile registrare un codice della sottocategoria 99.A6.
-Se invece vengono somministrati una RMN cranica, una diagnostica neuropsicologica come pure una EEG prolungata mobile per almeno 24 ore o più e gli altri requisiti minimi sono soddisfatti, allora può essere registrato un codice della sottocategoria 99.A6.
+Se invece vengono somministrati una RMN cranica, una diagnostica neuropsicologica come pure una EEG prolungata mobile per almeno 24 ore o più e gli altri requisiti minimi sono soddisfatti, allora può essere registrato un codice della sottocategoria 99.A6.-.
 <br>
 <br>
 <br>
@@ -929,7 +929,7 @@ Se invece vengono somministrati una RMN cranica, una diagnostica neuropsicologic
 Gli interventi infermieristici potrebbero teoricamente essere attribuiti a più gruppi di prestazioni. In caso di trattamento infermieristico complesso, l’intervento infermieristico somministrato può essere però attribuito ad un solo gruppo di prestazioni. 
 Ciò non significa tuttavia che debba trattarsi necessariamente del gruppo di prestazioni per il quale, nel giorno in questione, sono già stati registrati punti risorse.
   
-Esempio 1: un «Passaggio alla toilette» potrebbe essere fornito nel quadro del profilo di intervento infermieristico 1.1 del gruppo di prestazioni 1 «Mobilizzazione» o nel quadro del profilo di intervento infermieristico 3.1 del gruppo di prestazioni 3 «Evacuazione». Se l’attività viene registrata nel gruppo di prestazioni 1, non può essere registrata anche nel gruppo di prestazioni 3, o viceversa. All’attività può essere attribuito solo uno dei due profili di intervento infermieristico.
+Esempio 1: un «passaggio alla toilette» potrebbe essere fornito nel quadro del profilo di intervento infermieristico 1.1 del gruppo di prestazioni 1 «Mobilizzazione» o nel quadro del profilo di intervento infermieristico 3.1 del gruppo di prestazioni 3 «Evacuazione». Se l’attività viene registrata nel gruppo di prestazioni 1, non può essere registrata anche nel gruppo di prestazioni 3, o viceversa. All’attività può essere attribuito solo uno dei due profili di intervento infermieristico.
   
 Esempio 2: una «misura di igiene» potrebbe essere fornita nel quadro del profilo di intervento infermieristico 2.1 del gruppo di prestazioni 2 «Igiene personale» o nel quadro del profilo di intervento infermieristico 3.1 del gruppo di prestazioni 3 «Evacuazione». Se l’attività viene registrata nel gruppo di prestazioni 2, non può essere registrata anche nel gruppo di prestazioni 3, o viceversa. All’attività può essere attribuito solo uno dei due profili di intervento infermieristico.
 {{</markdown>}}
@@ -1022,7 +1022,7 @@ Le seguenti domande e spiegazioni si riferiscono al gruppo di elementi 93.8A.2- 
 <br>
 <br>
 <b>Domanda n. 1:</b><br>  
-In riferimento _alla caratteristica minima punto 3, équipe di trattamento e terapia_ della 93.8A.2- e alla caratteristica minima punto 3, terapia, nonché alla caratteristica minima punto 4, équipe di trattamento della 93.8B.-: quali sono i settori terapeutici e cosa viene conteggiato nelle 6 ore?
+In riferimento <i>alla caratteristica minima punto 3, équipe di trattamento e terapia</i> della 93.8A.2- e alla caratteristica minima punto 3, terapia, nonché alla caratteristica minima punto 4, équipe di trattamento della 93.8B.-: quali sono i settori terapeutici e cosa viene conteggiato nelle 6 ore?
 <br>
 <br>
 <b>Spiegazione n. 1:</b><br>  
@@ -1045,7 +1045,7 @@ Cosa si intende per «settimanale» nella «riunione settimanale del team interp
 <br>  
 <br>  
 <b>Spiegazione n. 2:</b><br>
-«settimanale» si riferisce alla struttura e non al paziente, il che significa che all’interno dell’esercizio il team interprofessionale si riunisce almeno una volta alla settimana.
+«Settimanale» si riferisce alla struttura e non al paziente, il che significa che all’interno dell’esercizio il team interprofessionale si riunisce almeno una volta alla settimana.
 <br>  
 <br>  
 Esempio:<br>  
@@ -1381,7 +1381,7 @@ Il codice <b>7A.71.-</b> Fusione di vertebre con stabilizzazione della colonna v
 
 {{<markdown>}}
 **Problema/Spiegazione:**  
-Una fusione ossea (artrodesi / spondilodesi) della colonna vertebrale, in cui viene inserito esclusivamente materiale osseo autogeno (spongiosa e/o frammenti cortico-spongiosi) e **non viene utilizzato alcun impianto** (ad es. viti, placche, barre) viene registrata con il codice CHOP **7A.51.14** Innesto osseo della colonna vertebrale, autogeno, spongiosa e innesto corticospongioso. 
+Una fusione ossea (artrodesi / spondilodesi) della colonna vertebrale, in cui viene inserito esclusivamente materiale osseo autogeno (spongiosa e/o frammenti cortico-spongiosi) e **non viene utilizzato alcun impianto** (ad es. viti, placche, barre) viene registrata con il codice CHOP **7A.51.14** <i>Innesto osseo della colonna vertebrale, autogeno, spongiosa e innesto corticospongioso</i>. 
   
 In caso di laminotomia, laminectomia o laminoplastica eseguita, ciò deve essere registrato anche con il codice corrispondente della sottocategoria 03.03.- <i>Laminotomia, laminectomia e laminoplastica</i>. L'altezza dell'intervento alla colonna vertebrale viene codificata con il codice corrispondente della sottocategoria 7A.B1.- <i>Localizzazione dell’intervento alla colonna vertebrale</i>, mentre l'accesso alla colonna vertebrale viene rappresentato con il codice 03.04.-. 
   

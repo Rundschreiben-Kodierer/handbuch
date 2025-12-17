@@ -225,10 +225,10 @@ En principe, il convient de toujours choisir le code CIM le plus spécifique qui
 <body>
     <ul>
         <li><b>L'occlusion bilatérale d'une seule artère précérébrale</b> (par exemple, l'artère carotide) est codée avec le code spécifique <b>I65.-</b> en indiquant la latéralité. <br>
-<b>Exemple</b> : occlusion / sténose bilatérale de l'artère carotide → I65.2 <i>Occlusion et sténose de l’artère carotide gauche et droite.</i> 
+<b>Exemple</b> : occlusion / sténose bilatérale de l'artère carotide → <b>I65.2</b> <i>Occlusion et sténose de l’artère carotide gauche et droite.</i> 
 </li>
         <li><b>L'occlusion / sténose de plusieurs artères précérébrales différentes </b>est codée avec le code <b>I65.3</b>.<br>
-<b>Exemple</b>: sténose unilatérale ou bilatérale de l'artère vertébrale ainsi qu'une sténose unilatérale ou bilatérale supplémentaire de l'artère carotide interne → I65.3 <i>Occlusion et sténose des artères précérébrales, multiples et bilatérales L = R, L ou B.</i> 
+<b>Exemple</b>: sténose unilatérale ou bilatérale de l'artère vertébrale ainsi qu'une sténose unilatérale ou bilatérale supplémentaire de l'artère carotide interne → <b>I65.3</b> <i>Occlusion et sténose des artères précérébrales, multiples et bilatérales L = R, L ou B.</i> 
 </li>
     </ul>
 </body>
