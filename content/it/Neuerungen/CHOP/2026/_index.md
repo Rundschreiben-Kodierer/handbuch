@@ -13,7 +13,7 @@ La tabella con gli aggiornamenti in corso d’anno relativi alla **«CHOP 2026»
   
 <body>
     <ul>
-        <li>Valido a partire dal 01.01.2026: <a href="https://www.bfs.admin.ch/bfs/it/home/statistiques/sante/nomenclatures/medkk/instruments-codage-medical.assetdetail.36304842.html"
+        <li>Valido a partire dal 01.01.2026: <a href="https://www.bfs.admin.ch/bfs/it/home/statistiche/salute/nomenclature/medkk/strumenti-codifica-medica.assetdetail.36304842.html"
    target="_blank" rel="noopener noreferrer"> Link al file</a>
        </li>
     </ul>

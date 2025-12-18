@@ -102,7 +102,7 @@ Une thrombectomie transluminale percutanée sur des vaisseaux pulmonaires au moy
 
 
 
-{{<article number="0003"  title="CHOP - Fin des stents greffés les plus bas [stents couverts]" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0003"  title="CHOP - Extrémité des stents grafts [stents couverts] les plus bas" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
