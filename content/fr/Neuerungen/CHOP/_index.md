@@ -290,7 +290,7 @@ Seul l'extrait correspondant à la version française est reproduit ici.
 
 <br>
 <br>
-{{<insertImage image="ActualisationCHOPFR.jpg" class="edge max-w-70">}}
+{{<insertImage image="ActualisationCHOPFR2.jpg" class="edge max-w-70">}}
 <br>
 <br>
 
