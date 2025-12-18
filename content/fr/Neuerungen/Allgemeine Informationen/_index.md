@@ -1,5 +1,5 @@
 ---
-title: "«Informations générales"
+title: "Informations générales"
 slug: AllgemeineInformationen
 description: ""
 weight: 101
