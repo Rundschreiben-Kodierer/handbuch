@@ -46,7 +46,7 @@ keywords: []
       <td class="tg-dgl5">Prénom</td>
       <td class="tg-dgl5">Adresse</td>
       <td class="tg-dgl5">Email</td>
-      <td class="tg-dgl5">Tél.</td>
+      <td class="tg-dgl5">Téléphone</td>
       <td class="tg-dgl5">Langue(s) de révision</td>
       <td class="tg-dgl5">Brevet fédéral de spécialiste en codage médical // <br>Preuve d’équivalence</td>
       <td class="tg-dgl5">Formation complémentaire spécifique au codage dans la réadaptation (application des règles de codage pour les instruments de codage utilisés en réadaptation: ADL, CIRS, test de marche de 6 minutes (codes CHOP AA.-) / exigences de l’ANQ relatives aux instruments de mesure utilisés en réadapta-tion)</td>
@@ -95,11 +95,11 @@ keywords: []
     <td class="tg-z182"><a href="mailto:cinzia.allocco@nicecomputing.ch">cinzia.allocco@nicecomputing.ch</a></td>
     <td class="tg-ktyi">079 723 04 17</td>
     <td class="tg-ktyi">Français<br>Italien</td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Confirmé</td>
     <td class="tg-0lax">Oui</td>
     <td class="tg-0lax"> </td>
     <td class="tg-ktyi">Suisse romandeTessin</td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Confirmé</td>
     <td class="tg-ktyi">15.09.2016</td>
   </tr>
 <tbody>
@@ -109,12 +109,12 @@ keywords: []
     <td class="tg-ktyi">Gassenacker 4<br>8197 Ratz</td>
     <td class="tg-z182"><a href="mailto:suematt@bluewin.ch">suematt@bluewin.ch</a></td>
     <td class="tg-ktyi">077 430 02 72</td>
-    <td class="tg-ktyi">Deutsch</td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Allemand</td>
+    <td class="tg-ktyi">Confirmé</td>
     <td class="tg-0lax">Oui</td>
     <td class="tg-0lax"> </td>
-    <td class="tg-ktyi">Deutschschweiz </td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Suisse alémanique</td>
+    <td class="tg-ktyi">Confirmé</td>
     <td class="tg-ktyi">29.11.2023</td>
  </tr>
     <tr>
@@ -124,11 +124,11 @@ keywords: []
     <td class="tg-v47d"><a href="mailto:johanne.chevalier@chuv.ch">johanne.chevalier@chuv.ch</a></td>
     <td class="tg-ktyi">076 320 68 51</td>
     <td class="tg-ktyi">Français</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-0lax">Confirmé</td>
     <td class="tg-ktyi"></td>
     <td class="tg-ktyi">Oui</td>
     <td class="tg-ktyi">Suisse romande</td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Confirmé</td>
     <td class="tg-ktyi">21.10.2025</td>
  </tr>
 <tr>
@@ -137,12 +137,12 @@ keywords: []
     <td class="tg-ktyi">DRG Swiss<br>Bahnhofstr. 32<br>8803 Rüschlikon<br></td>
     <td class="tg-z182"><a href="mailto:difalco@drgswiss.ch">difalco@drgswiss.ch</a><br> <a href="mailto:difalco@hin.ch">difalco@hin.ch</a></td>
     <td class="tg-ktyi">076 709 57 01</td>
-    <td class="tg-ktyi">Deutsch<br>Français<br>Italienisch</td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Allemand<br>Français<br>Italien</td>
+    <td class="tg-ktyi">Confirmé</td>
     <td class="tg-ktyi">Oui</td>
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Ganze Schweiz</td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Confirmé</td>
     <td class="tg-ktyi">22.04.2022</td>
   </tr>
   <tr>
@@ -151,12 +151,12 @@ keywords: []
     <td class="tg-ktyi">Galliweg 65C<br>4852 Rothrist</td>
     <td class="tg-v47d"><a href="mailto:daniela.ehbrecht@gmx.de">daniela.ehbrecht@gmx.de</a></td>
     <td class="tg-ktyi">078 675 68 09</td>
-    <td class="tg-ktyi">Deutsch/Français</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Allemand/Français</td>
+    <td class="tg-0lax">Confirmé</td>
     <td class="tg-ktyi"></td>
     <td class="tg-ktyi">Oui</td>
     <td class="tg-ktyi">Ganze Schweiz</td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Confirmé</td>
     <td class="tg-ktyi">11.11.2025</td>
 </tr>
 <tr>
@@ -166,11 +166,11 @@ keywords: []
     <td class="tg-z182"><a href="mailto:olivier.flenghi@nicecomputing.ch">olivier.flenghi@nicecomputing.ch</a></td>
     <td class="tg-ktyi">079 516 3495<br>0033 6 32 03 05 93</td>
     <td class="tg-ktyi">Français</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-0lax">Confirmé</td>
     <td class="tg-ktyi">Oui</td>
     <td class="tg-ktyi">Oui</td>
     <td class="tg-ktyi">Suisse romande</td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Confirmé</td>
     <td class="tg-ktyi">26.07.2022</td>
   </tr>
   <tr>
@@ -179,12 +179,12 @@ keywords: []
     <td class="tg-0lax">Bernstrasse 24F<br>3400 Burgdorf </td>
     <td class="tg-dcap"><a href="mailto:e.florin@bluewin.ch">e.florin@bluewin.ch </a></td>
     <td class="tg-0lax">081 413 24 34 </td>
-    <td class="tg-ktyi">Deutsch<br>Français</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Allemand<br>Français</td>
+    <td class="tg-0lax">Confirmé</td>
     <td class="tg-ktyi">Oui</td>
     <td class="tg-ktyi">Oui</td>
-    <td class="tg-ktyi">Deutschschweiz</td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Suisse alémanique</td>
+    <td class="tg-ktyi">Confirmé</td>
     <td class="tg-ktyi">19.11.2024</td>
   </tr>
   <tr>
@@ -193,12 +193,12 @@ keywords: []
     <td class="tg-ktyi">Bahnhofstrasse 14<br>7304  Maienfeld</td>
     <td class="tg-z182"><a href="mailto:patrick_fuchs@yahoo.com">patrick_fuchs@yahoo.com</a></td>
     <td class="tg-ktyi">079 353 46 39</td>
-    <td class="tg-ktyi">Deutsch</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Allemand</td>
+    <td class="tg-0lax">Confirmé</td>
     <td class="tg-ktyi">Oui</td>
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Ganze Schweiz</td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Confirmé</td>
     <td class="tg-ktyi">04.08.2021</td>
   </tr>
   <tr>
@@ -207,12 +207,12 @@ keywords: []
     <td class="tg-ktyi">DRGplus<br>Kranichweg 30<br>3074 Muri bei Bern</td>
     <td class="tg-z182"><a href="mailto:regula.gehrig@drgplus.ch">regula.gehrig@drgplus.ch</a></td>
     <td class="tg-0lax">031 530 22 55</td>
-    <td class="tg-ktyi">Deutsch</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Allemand</td>
+    <td class="tg-0lax">Confirmé</td>
     <td class="tg-ktyi">Oui</td>
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Ganze Schweiz</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-0lax">Confirmé</td>
     <td class="tg-0lax">24.02.2022</td>
   </tr>
   <tr>
@@ -221,12 +221,12 @@ keywords: []
     <td class="tg-ktyi">Talstrasse 57<br>8852 Altendorf</td>
     <td class="tg-z182"><a href="mailto:miriamburkhardt@gmail.com">miriamburkhardt@gmail.com</a></td>
     <td class="tg-ktyi">079 439 75 60</td>
-    <td class="tg-ktyi">Deutsch<br>Français </td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Allemand<br>Français </td>
+    <td class="tg-0lax">Confirmé</td>
     <td class="tg-0lax">Oui</td>
     <td class="tg-0lax"> </td>
     <td class="tg-ktyi">Ganze Schweiz</td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Confirmé</td>
     <td class="tg-0lax">26.07.2022</td>
   </tr>
   <tr>
@@ -235,12 +235,12 @@ keywords: []
     <td class="tg-ktyi">Alpenstrasse 31<br>3084 Wabern</td>
     <td class="tg-z182"><a href="mailto:info@belewi.ch">info@belewi.ch</a></td>
     <td class="tg-ktyi">078 890 27 27</td>
-    <td class="tg-ktyi">Deutsch</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Allemand</td>
+    <td class="tg-0lax">Confirmé</td>
     <td class="tg-ktyi">Oui</td>
     <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Deutschschweiz </td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Suisse alémanique </td>
+    <td class="tg-ktyi">Confirmé</td>
     <td class="tg-ktyi">24.10.2023</td>
   </tr>
   <tr>
@@ -249,12 +249,12 @@ keywords: []
     <td class="tg-ktyi">Haselgasse 78<br>3902 Glis</td>
     <td class="tg-z182"><a href="mailto:daniela.hager@nicecomputing.ch">nicecomputing@gmail.com</a></td>
     <td class="tg-ktyi">078 622 31 71</td>
-    <td class="tg-ktyi">Deutsch</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Allemand</td>
+    <td class="tg-0lax">Confirmé</td>
     <td class="tg-ktyi">Oui</td>
     <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Deutschschweiz </td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Suisse alémanique </td>
+    <td class="tg-ktyi">Confirmé</td>
     <td class="tg-ktyi">26.01.2024</td>
   </tr>
   <tr>
@@ -263,12 +263,12 @@ keywords: []
     <td class="tg-ktyi">Chemin de Villardiez 18<br>1009 Pully privat</td>
     <td class="tg-z182"><a href="mailto:bettina.j.holzer@gmail.com">bettina.j.holzer@gmail.com</a><br><a href="mailto:bettina.holzer@chuv.ch">bettina.holzer@chuv.ch</a></td>
     <td class="tg-ktyi">079 277 42 30<br>079 556 74 24</td>
-    <td class="tg-ktyi">Französisch<br>Deutsch<br></td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Französisch<br>Allemand<br></td>
+    <td class="tg-ktyi">Confirmé</td>
     <td class="tg-ktyi">Oui</td>
     <td class="tg-ktyi">Oui</td>
-    <td class="tg-ktyi">Westschweiz<br>Deutschschweiz</td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Suisse Romande<br>Suisse alémanique</td>
+    <td class="tg-ktyi">Confirmé</td>
     <td class="tg-ktyi">24.02.2022</td>
   </tr>
   <tr>
@@ -277,12 +277,12 @@ keywords: []
     <td class="tg-ktyi">DRGplus<br>Kranichweg 30<br>3074 Muri bei Bern</td>
     <td class="tg-z182"><a href="mailto:sarah.liuzzi@drgplus.ch">sarah.liuzzi@drgplus.ch</a></td>
     <td class="tg-0lax">031 530 22 55</td>
-    <td class="tg-ktyi">Deutsch</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Allemand</td>
+    <td class="tg-0lax">Confirmé</td>
     <td class="tg-ktyi">Oui</td>
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Confirmé</td>
     <td class="tg-ktyi">22.11.2023</td>
   </tr>
   <tr>
@@ -291,12 +291,12 @@ keywords: []
     <td class="tg-0lax">Fröschbach 36<br>8117 Fällanden</td>
     <td class="tg-z182"><a href="mailto:mauz@ggaweb.ch">mauz@ggaweb.ch</a></td>
     <td class="tg-0lax">076 335 45 98</td>
-    <td class="tg-0lax">Deutsch</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-0lax">Allemand</td>
+    <td class="tg-0lax">Confirmé</td>
     <td class="tg-0lax">Oui</td>
     <td class="tg-0lax"> </td>
     <td class="tg-0lax"> </td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-0lax">Confirmé</td>
     <td class="tg-0lax">23.01.2023</td>
   </tr>
   <tr>
@@ -305,12 +305,12 @@ keywords: []
     <td class="tg-0lax">LN – Revision <br>Vorstadtstrasse 6<br>5722 Gränichen – AG</td>
     <td class="tg-z182"><a href="mailto:leonardo.narda@hotmail.com">leonardo.narda@hotmail.com</a><br><a href="mailto:mail@ln-revision.ch">mail@ln-revision.ch </a></td>
     <td class="tg-0lax">076 384 82 47</td>
-    <td class="tg-ktyi">Deutsch<br>Italienisch <br>Französisch</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Allemand<br>Italien <br>Französisch</td>
+    <td class="tg-0lax">Confirmé</td>
     <td class="tg-0lax">Oui</td>
     <td class="tg-0lax"> </td>
     <td class="tg-0lax">Ganze Schweiz</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-0lax">Confirmé</td>
     <td class="tg-0lax">01.05.2023</td>
   </tr>
   <tr>
@@ -319,12 +319,12 @@ keywords: []
     <td class="tg-0lax">Bodenrebenweg19<br>3225 Müntschemier</td>
     <td class="tg-dcap"><a href="mailto:catherine.niederer@nicecomputing.ch">catherine.niederer@nicecomputing.ch</a></td>
     <td class="tg-0lax">079 359 55 46</td>
-    <td class="tg-ktyi">Französisch<br>Deutsch</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Französisch<br>Allemand</td>
+    <td class="tg-0lax">Confirmé</td>
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Oui</td>
-    <td class="tg-0lax">Deutschschweizinkl. Biel/Bienne</td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-0lax">Suisse alémaniqueinkl. Biel/Bienne</td>
+    <td class="tg-ktyi">Confirmé</td>
     <td class="tg-ktyi">05.11.2021</td>
   </tr>
   <tr>
@@ -333,12 +333,12 @@ keywords: []
     <td class="tg-0lax">Zelgmatt 65<br>8132 Egg </td>
     <td class="tg-z182"><a href="mailto:Cristina.Pangrazzi@icloud.com">Cristina.Pangrazzi@icloud.com</a></td>
     <td class="tg-0lax">044 984 50 32079 295 47 65</td>
-    <td class="tg-0lax">Deutsch<br>Italienisch</td>
+    <td class="tg-0lax">Allemand<br>Italien</td>
     <td class="tg-0lax">Confirmé// bestätigt</td>
     <td class="tg-ktyi">Oui</td>
     <td class="tg-ktyi"> </td>
     <td class="tg-0lax">Ganze Schweiz</td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Confirmé</td>
     <td class="tg-ktyi">22.11.2023</td>
   </tr>
   <tr>
@@ -347,12 +347,12 @@ keywords: []
     <td class="tg-0lax">Anton-Graff-Str. 18<br>8400 Winterthur</td>
     <td class="tg-dcap"><a href="mailto:annegret.pasqualotto@bluewin.ch">annegret.pasqualotto@bluewin.ch</a></td>
     <td class="tg-0lax">077 525 47 15</td>
-    <td class="tg-ktyi">Deutsch</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Allemand</td>
+    <td class="tg-0lax">Confirmé</td>
     <td class="tg-ktyi">Oui</td>
     <td class="tg-ktyi">Oui</td>
-    <td class="tg-0lax">Schweiz,deutschsprachiger Raum</td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-0lax">Schweiz,Allemandsprachiger Raum</td>
+    <td class="tg-ktyi">Confirmé</td>
     <td class="tg-ktyi">04.11.2022</td>
   </tr>
   <tr>
@@ -361,12 +361,12 @@ keywords: []
     <td class="tg-ktyi">Birchstrasse 160<br>8050 Zürich</td>
     <td class="tg-z182"><a href="mailto:tobias.pfinninger@pwc.ch">tobias.pfinninger@pwc.ch</a></td>
     <td class="tg-ktyi">079 358 99 85</td>
-    <td class="tg-ktyi">Deutsch</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Allemand</td>
+    <td class="tg-0lax">Confirmé</td>
     <td class="tg-ktyi">Oui</td>
     <td class="tg-ktyi"> </td>
-    <td class="tg-0lax">Deutschschweiz<br></td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-0lax">Suisse alémanique<br></td>
+    <td class="tg-ktyi">Confirmé</td>
     <td class="tg-ktyi">06.12.2022</td>
   </tr>
   <tr>
@@ -375,12 +375,12 @@ keywords: []
     <td class="tg-ktyi">DRGPlus Kranichweg 30<br>3074 Muri bei Bern</td>
     <td class="tg-z182"><a href="mailto:sandra.popp@drgplus.ch">sandra.popp@drgplus.ch</a></td>
     <td class="tg-ktyi">078 767 14 88</td>
-    <td class="tg-ktyi">Deutsch</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Allemand</td>
+    <td class="tg-0lax">Confirmé</td>
     <td class="tg-ktyi">Oui</td>
     <td class="tg-ktyi"> </td>
-    <td class="tg-0lax">Deutschschweiz<br></td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-0lax">Suisse alémanique<br></td>
+    <td class="tg-ktyi">Confirmé</td>
     <td class="tg-ktyi">05.12.2025</td>
   </tr>  
     <tr>
@@ -389,12 +389,12 @@ keywords: []
     <td class="tg-0lax">Alpenblickstr. 20 <br>CH-8853 Lachen SZ</td>
     <td class="tg-z182"><a href="mailto:sadiku@medizincontrolling.ch">sadiku@medizincontrolling.ch</a></td>
     <td class="tg-ktyi">055 412 25 16</td>
-    <td class="tg-ktyi">Deutsch</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Allemand</td>
+    <td class="tg-0lax">Confirmé</td>
     <td class="tg-ktyi">Oui</td>
     <td class="tg-ktyi"> </td>
-    <td class="tg-0lax">Deutschschweiz</td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-0lax">Suisse alémanique</td>
+    <td class="tg-ktyi">Confirmé</td>
     <td class="tg-ktyi">09.06.2023</td>
   </tr>
   <tr>
@@ -403,12 +403,12 @@ keywords: []
     <td class="tg-0lax">Stallbergstrasse 16<br>4562 Biberist</td>
     <td class="tg-z182"><a href="mailto:santacatterina@kodierungen.ch">santacatterina@kodierungen.ch</a></td>
     <td class="tg-0lax">079 693 49 35</td>
-    <td class="tg-ktyi">Deutsch<br>Italienisch</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Allemand<br>Italien</td>
+    <td class="tg-0lax">Confirmé</td>
     <td class="tg-ktyi">Oui</td>
     <td class="tg-ktyi">Oui</td>
-    <td class="tg-0lax">Deutschschweiz<br>Tessin</td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-0lax">Suisse alémanique<br>Tessin</td>
+    <td class="tg-ktyi">Confirmé</td>
     <td class="tg-ktyi">21.11.2022</td>
   </tr>
   <tr>
@@ -417,12 +417,12 @@ keywords: []
     <td class="tg-ktyi">Stampfenbachstrasse 30<br>8090 Zürich</td>
     <td class="tg-dcap"><a href="mailto:francoise.schwarz@gd.zh.ch">francoise.schwarz@gd.zh.ch</a></td>
     <td class="tg-ktyi">043 259 24 29</td>
-    <td class="tg-ktyi">Deutsch</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Allemand</td>
+    <td class="tg-0lax">Confirmé</td>
     <td class="tg-ktyi">Oui</td>
     <td class="tg-xmix"> </td>
     <td class="tg-xmix"> </td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Confirmé</td>
     <td class="tg-0lax">18.03.2022</td>
   </tr>
   <tr>
@@ -431,12 +431,12 @@ keywords: []
     <td class="tg-ktyi">Segantinistrasse 51<br>8049 Zürich</td>
     <td class="tg-z182"><a href="mailto:katrin@vonvarchmin.de">katrin@vonvarchmin.de</a></td>
     <td class="tg-ktyi">076 799 26 84</td>
-    <td class="tg-ktyi">Deutsch</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Allemand</td>
+    <td class="tg-0lax">Confirmé</td>
     <td class="tg-ktyi">Oui</td>
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Confirmé</td>
     <td class="tg-ktyi">02.12.2021</td>
   </tr>
   <tr>
@@ -445,12 +445,12 @@ keywords: []
     <td class="tg-0lax">Stampfenbachstrasse 30<br>8090 Zürich </td>
     <td class="tg-dcap"><a href="mailto:u.westerhoff@bluewin.ch">u.westerhoff@bluewin.ch</a></td>
     <td class="tg-0lax">043 259 21 96</td>
-    <td class="tg-0lax">Deutsch </td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-0lax">Allemand </td>
+    <td class="tg-0lax">Confirmé</td>
     <td class="tg-0lax">Oui</td>
     <td class="tg-0lax"> </td>
     <td class="tg-0lax">Zürich</td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Confirmé</td>
     <td class="tg-0lax">11.04.2022</td>
   </tr>
   <tr>
@@ -459,12 +459,12 @@ keywords: []
     <td class="tg-0lax">Bahnhofstrasse 31<br>8864 Reichenburg</td>
     <td class="tg-dcap"><a href="mailto:axelzolkos@gmx.net">axelzolkos@gmx.net</a></td>
     <td class="tg-0lax">076 427 75 82</td>
-    <td class="tg-0lax">Deutsch</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-0lax">Allemand</td>
+    <td class="tg-0lax">Confirmé</td>
     <td class="tg-0lax">Oui</td>
     <td class="tg-0lax"> </td>
-    <td class="tg-0lax">Deutschschweiz </td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-0lax">Suisse alémanique </td>
+    <td class="tg-ktyi">Confirmé</td>
     <td class="tg-0lax">29.11.2023</td>
   </tr>
 
