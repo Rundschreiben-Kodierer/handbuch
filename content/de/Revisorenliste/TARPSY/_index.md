@@ -95,11 +95,11 @@ keywords: []
     <td class="tg-v47d"><a href="mailto:aglaja.aeschimann@nicecomputing.ch">aglaja.aeschimann@nicecomputing.ch</a></td>
     <td class="tg-ktyi">078 718 93 94</td>
     <td class="tg-ktyi">Deutsch</td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Bestätigt</td>
     <td class="tg-ktyi"></td>
-    <td class="tg-ktyi">Oui</td>
+    <td class="tg-ktyi">Ja</td>
     <td class="tg-ktyi"></td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Bestätigt</td>
     <td class="tg-ktyi">11.11.2025</td>
   </tr>
   <tr>
@@ -109,11 +109,11 @@ keywords: []
     <td class="tg-z182"><a href="mailto:suematt@bluewin.ch">suematt@bluewin.ch</a></td>
     <td class="tg-ktyi">077 430 02 72</td>
     <td class="tg-ktyi">Deutsch</td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
-    <td class="tg-ktyi">Oui</td>
+    <td class="tg-ktyi">Bestätigt</td>
+    <td class="tg-ktyi">Ja</td>
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Deutschschweiz </td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Bestätigt</td>
     <td class="tg-ktyi">22.12.2023</td>
   </tr>
   </tr>
@@ -124,11 +124,11 @@ keywords: []
     <td class="tg-v47d"><a href="mailto:johanne.chevalier@chuv.ch">johanne.chevalier@chuv.ch</a></td>
     <td class="tg-ktyi">076 320 68 51</td>
     <td class="tg-ktyi">Français</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-0lax">Bestätigt</td>
     <td class="tg-0lax"></td>
-    <td class="tg-0lax">Oui</td>
-    <td class="tg-ktyi">Suisse romande</td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-0lax">Ja</td>
+    <td class="tg-ktyi">Romandie</td>
+    <td class="tg-ktyi">Bestätigt</td>
     <td class="tg-ktyi">21.10.2025</td>
   </tr>
   <tr>
@@ -138,11 +138,11 @@ keywords: []
     <td class="tg-z182"><a href="mailto:difalco@drgswiss.ch">difalco@drgswiss.ch</a><br><a href="mailto:difalco@hin.ch">difalco@hin.ch</a></td>
     <td class="tg-ktyi">076 709 57 01</td>
     <td class="tg-ktyi">Deutsch<br>Français<br>Italienisch</td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
-    <td class="tg-ktyi">Oui</td>
-    <td class="tg-ktyi">Oui</td>
+    <td class="tg-ktyi">Bestätigt</td>
+    <td class="tg-ktyi">Ja</td>
+    <td class="tg-ktyi">Ja</td>
     <td class="tg-ktyi">Ganze Schweiz</td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Bestätigt</td>
     <td class="tg-ktyi">25.02.2019</td>
   <tr>
     <td class="tg-0lax" id="f">Flenghi</td>
@@ -151,11 +151,11 @@ keywords: []
     <td class="tg-z182"><a href="mailto:olivier.flenghi@nicecomputing.ch">olivier.flenghi@nicecomputing.ch</a></td>
     <td class="tg-ktyi">079 516 3495<br>0033 6 32 03 05 93</td>
     <td class="tg-ktyi">Français</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
-    <td class="tg-0lax">Oui</td>
-    <td class="tg-0lax">Oui</td>
-    <td class="tg-ktyi">Suisse romande</td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-0lax">Bestätigt</td>
+    <td class="tg-0lax">Ja</td>
+    <td class="tg-0lax">Ja</td>
+    <td class="tg-ktyi">Romandie</td>
+    <td class="tg-ktyi">Bestätigt</td>
     <td class="tg-ktyi">16.01.2024</td>
   </tr>
   <tr>
@@ -165,11 +165,11 @@ keywords: []
     <td class="tg-z182"><a href="mailto:patrick_fuchs@yahoo.com">patrick_fuchs@yahoo.com</a></td>
     <td class="tg-ktyi">079 353 46 39</td>
     <td class="tg-ktyi">Deutsch</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
-    <td class="tg-0lax">Oui</td>
+    <td class="tg-0lax">Bestätigt</td>
+    <td class="tg-0lax">Ja</td>
     <td class="tg-0lax"> </td>
     <td class="tg-ktyi">Ganze Schweiz</td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Bestätigt</td>
     <td class="tg-ktyi">07.01.2019</td>
   </tr>
   <tr>
@@ -179,11 +179,11 @@ keywords: []
     <td class="tg-z182"><a href="mailto:regula.gehrig@drgplus.ch">regula.gehrig@drgplus.ch</a></td>
     <td class="tg-0lax">031 530 22 55</td>
     <td class="tg-ktyi">Deutsch</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
-    <td class="tg-0lax">Oui</td>
+    <td class="tg-0lax">Bestätigt</td>
+    <td class="tg-0lax">Ja</td>
     <td class="tg-0lax"> </td>
     <td class="tg-ktyi">Ganze Schweiz</td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Bestätigt</td>
     <td class="tg-ktyi">07.01.2019</td>
   </tr>
   <tr>
@@ -193,11 +193,11 @@ keywords: []
     <td class="tg-z182"><a href="mailto:miriamburkhardt@gmail.com">miriamburkhardt@gmail.com</a></td>
     <td class="tg-ktyi">079 439 75 60</td>
     <td class="tg-ktyi">Deutsch                         Français</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
-    <td class="tg-0lax">Oui</td>
+    <td class="tg-0lax">Bestätigt</td>
+    <td class="tg-0lax">Ja</td>
     <td class="tg-0lax"> </td>
     <td class="tg-ktyi">Ganze Schweiz</td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Bestätigt</td>
     <td class="tg-ktyi">05.06.2019</td>
   </tr>
   <tr>
@@ -207,11 +207,11 @@ keywords: []
     <td class="tg-z182"><a href="mailto:therese.gillieron@nicecomputing.ch">therese.gillieron@nicecomputing.ch</a></td>
     <td class="tg-ktyi">079 725 06 41</td>
     <td class="tg-ktyi">Français</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
-    <td class="tg-0lax">Oui</td>
+    <td class="tg-0lax">Bestätigt</td>
+    <td class="tg-0lax">Ja</td>
     <td class="tg-0lax"> </td>
-    <td class="tg-ktyi">Suisse romande</td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Romandie</td>
+    <td class="tg-ktyi">Bestätigt</td>
     <td class="tg-ktyi">14.06.2024</td>
   </tr>
   <tr>
@@ -221,11 +221,11 @@ keywords: []
     <td class="tg-z182"><a href="mailto:jutta.goerres@spital.so.ch">jutta.goerres@spital.so.ch</a></td>
     <td class="tg-ktyi">032 627 32 86</td>
     <td class="tg-0lax">Deutsch</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-0lax">Bestätigt</td>
     <td class="tg-0lax"> </td>
-    <td class="tg-0lax">Oui</td>
+    <td class="tg-0lax">Ja</td>
     <td class="tg-0lax">Kanton Solothurn </td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-0lax">Bestätigt</td>
     <td class="tg-ktyi">09.10.2024</td>
   </tr>
   <tr>
@@ -235,11 +235,11 @@ keywords: []
     <td class="tg-z182"><a href="mailto:katia.griener@gmx.de">katia.griener@gmx.de</a></td>
     <td class="tg-ktyi">0049 762 15 57 33</td>
     <td class="tg-ktyi">Deutsch</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
-    <td class="tg-0lax">Oui</td>
-    <td class="tg-0lax">Oui</td>
+    <td class="tg-0lax">Bestätigt</td>
+    <td class="tg-0lax">Ja</td>
+    <td class="tg-0lax">Ja</td>
     <td class="tg-ktyi">Deutschschweiz </td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-0lax">Bestätigt</td>
     <td class="tg-ktyi">10.05.2019</td>
   </tr>
   <tr>
@@ -249,11 +249,11 @@ keywords: []
     <td class="tg-z182"><a href="mailto:info@belewi.ch">info@belewi.ch</a></td>
     <td class="tg-ktyi">078 890 27 27</td>
     <td class="tg-ktyi">Deutsch</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
-    <td class="tg-0lax">Oui</td>
+    <td class="tg-0lax">Bestätigt</td>
+    <td class="tg-0lax">Ja</td>
     <td class="tg-0lax"> </td>
     <td class="tg-ktyi">Deutschschweiz </td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Bestätigt</td>
     <td class="tg-ktyi">24.10.2023</td>
   </tr>
   <tr>
@@ -263,11 +263,11 @@ keywords: []
     <td class="tg-z182"><a href="mailto:daniela.hager@nicecomputing.ch">nicecomputing@gmail.com</a></td>
     <td class="tg-ktyi">078 622 31 71</td>
     <td class="tg-ktyi">Deutsch</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
-    <td class="tg-0lax">Oui</td>
+    <td class="tg-0lax">Bestätigt</td>
+    <td class="tg-0lax">Ja</td>
     <td class="tg-0lax"> </td>
     <td class="tg-dgl5"> </td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Bestätigt</td>
     <td class="tg-ktyi">07.01.2019</td>
   </tr>
   <tr>
@@ -277,11 +277,11 @@ keywords: []
     <td class="tg-z182"><a href="mailto:nicole.huber@nicecomputing.ch">nicole.huber@nicecomputing.ch</a></td>
     <td class="tg-ktyi">032 681 02 23</td>
     <td class="tg-ktyi">Deutsch</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
-    <td class="tg-0lax">Oui</td>
+    <td class="tg-0lax">Bestätigt</td>
+    <td class="tg-0lax">Ja</td>
     <td class="tg-0lax"> </td>
     <td class="tg-dgl5"> </td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Bestätigt</td>
     <td class="tg-ktyi">07.01.2019</td>
   </tr>
   <tr>
@@ -291,11 +291,11 @@ keywords: []
     <td class="tg-z182"><a href="mailto:irene.idalan@nicecomputing.ch">irene.idalan@nicecomputing.ch</a></td>
     <td class="tg-ktyi">021 791 60 86</td>
     <td class="tg-ktyi">Deutsch <br>Français</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
-    <td class="tg-0lax">Oui</td>
+    <td class="tg-0lax">Bestätigt</td>
+    <td class="tg-0lax">Ja</td>
     <td class="tg-0lax"> </td>
     <td class="tg-dgl5"> </td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Bestätigt</td>
     <td class="tg-ktyi">07.01.2019</td>
   </tr>
   <tr>
@@ -305,11 +305,11 @@ keywords: []
     <td class="tg-z182"><a href="mailto:info@drg-office.ch">info@drg-office.ch</a></td>
     <td class="tg-ktyi">079 863 73 09</td>
     <td class="tg-ktyi">Deutsch<br><br></td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
-    <td class="tg-0lax">Oui</td>
+    <td class="tg-0lax">Bestätigt</td>
+    <td class="tg-0lax">Ja</td>
     <td class="tg-0lax"> </td>
     <td class="tg-uxga"> </td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Bestätigt</td>
     <td class="tg-ktyi">21.08.2015</td>
   </tr>
   <tr>
@@ -319,11 +319,11 @@ keywords: []
     <td class="tg-z182"><a href="mailto:sarah.liuzzi@drgplus.ch">sarah.liuzzi@drgplus.ch</a></td>
     <td class="tg-ktyi">031 530 22 55</td>
     <td class="tg-ktyi">Deutsch</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
-    <td class="tg-0lax">Oui</td>
+    <td class="tg-0lax">Bestätigt</td>
+    <td class="tg-0lax">Ja</td>
     <td class="tg-0lax"> </td>
     <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Bestätigt</td>
     <td class="tg-ktyi">22.11.2023</td>
   </tr>
   <tr>
@@ -333,11 +333,11 @@ keywords: []
     <td class="tg-z182"><a href="mailto:mauz@ggaweb.ch">mauz@ggaweb.ch</a></td>
     <td class="tg-ktyi">076 335 45 98</td>
     <td class="tg-ktyi">Deutsch</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
-    <td class="tg-0lax">Oui</td>
+    <td class="tg-0lax">Bestätigt</td>
+    <td class="tg-0lax">Ja</td>
     <td class="tg-0lax"> </td>
     <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Bestätigt</td>
     <td class="tg-ktyi">23.01.2023</td>
   </tr>
   <tr>
@@ -347,11 +347,11 @@ keywords: []
     <td class="tg-z182"><a href="mailto:cornelia.mombelli@spital.so.ch">cornelia.mombelli@spital.so.ch</a></td>
     <td class="tg-ktyi">079 645 73 87</td>
     <td class="tg-ktyi">Deutsch</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
-    <td class="tg-0lax">Oui</td>
+    <td class="tg-0lax">Bestätigt</td>
+    <td class="tg-0lax">Ja</td>
     <td class="tg-0lax"> </td>
     <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Bestätigt</td>
     <td class="tg-ktyi">25.02.2019</td>
   </tr>
   <tr>
@@ -361,11 +361,11 @@ keywords: []
     <td class="tg-z182"><a href="mailto:leonardo.narda@hotmail.com">leonardo.narda@hotmail.com</a><br><a href="mailto:mail@ln-revision.ch">mail@ln-revision.ch </a></td>
     <td class="tg-ktyi">076 384 82 47</td>
     <td class="tg-ktyi">Deutsch<br>Italienisch <br>Französisch</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
-    <td class="tg-0lax">Oui</td>
+    <td class="tg-0lax">Bestätigt</td>
+    <td class="tg-0lax">Ja</td>
     <td class="tg-0lax"> <br></td>
     <td class="tg-ktyi">Ganze Schweiz</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-0lax">Bestätigt</td>
     <td class="tg-0lax">06.11.2020</td>
   </tr>
   <tr>
@@ -375,11 +375,11 @@ keywords: []
     <td class="tg-dcap"><a href="mailto:catherine.niederer@nicecomputing.ch">catherine.niederer@nicecomputing.ch</a></td>
     <td class="tg-ktyi">079 359 55 46</td>
     <td class="tg-ktyi">Französisch<br>Deutsch</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
-    <td class="tg-0lax">Oui</td>
+    <td class="tg-0lax">Bestätigt</td>
+    <td class="tg-0lax">Ja</td>
     <td class="tg-0lax"> </td>
-    <td class="tg-ktyi">Deutschschweizinkl. Biel/Bienne</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Deutschschweiz inkl. Biel/Bienne</td>
+    <td class="tg-0lax">Bestätigt</td>
     <td class="tg-0lax">05.11.2021</td>
   </tr>
   <tr>
@@ -389,11 +389,11 @@ keywords: []
     <td class="tg-z182"><a href="mailto:Cristina.Pangrazzi@icloud.com">Cristina.Pangrazzi@icloud.com</a></td>
     <td class="tg-0lax">044 984 50 32<br>079 295 47 65</td>
     <td class="tg-0lax">Deutsch<br>Italienisch</td>
-    <td class="tg-0lax">Confirmé// bestätigt</td>
-    <td class="tg-0lax">Oui</td>
+    <td class="tg-0lax">Bestätigt</td>
+    <td class="tg-0lax">Ja</td>
     <td class="tg-0lax"> </td>
     <td class="tg-0lax">Ganze Schweiz</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-0lax">Bestätigt</td>
     <td class="tg-ktyi">07.01.2019</td>
   </tr>
   <tr>
@@ -403,11 +403,11 @@ keywords: []
     <td class="tg-z182"><a href="mailto:marion.paustian@pdgr.ch">marion.paustian@pdgr.ch</a></td>
     <td class="tg-0lax">079 712 90 14</td>
     <td class="tg-0lax">Deutsch</td>
-    <td class="tg-0lax">Confirmé// bestätigt</td>
-    <td class="tg-0lax">Oui</td>
+    <td class="tg-0lax">Bestätigt</td>
+    <td class="tg-0lax">Ja</td>
     <td class="tg-0lax"> </td>
     <td class="tg-ktyi">Deutschschweiz</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-0lax">Bestätigt</td>
     <td class="tg-ktyi">16.11.2020</td>
   </tr>
   <tr>
@@ -417,11 +417,11 @@ keywords: []
     <td class="tg-z182"><a href="mailto:tobias.pfinninger@pwc.ch">tobias.pfinninger@pwc.ch</a></td>
     <td class="tg-ktyi">079 358 99 85</td>
     <td class="tg-ktyi">Deutsch</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
-    <td class="tg-0lax">Oui</td>
+    <td class="tg-0lax">Bestätigt</td>
+    <td class="tg-0lax">Ja</td>
     <td class="tg-0lax"> </td>
     <td class="tg-dgl5"> </td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Bestätigt</td>
     <td class="tg-ktyi">07.01.2019</td>
   </tr>
   <tr>
@@ -431,11 +431,11 @@ keywords: []
     <td class="tg-z182"><a href="mailto:rachinger@kodier.expert">rachinger@kodier.expert</a></td>
     <td class="tg-ktyi">079 964 38 61</td>
     <td class="tg-ktyi">Deutsch</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
-    <td class="tg-0lax">Oui</td>
+    <td class="tg-0lax">Bestätigt</td>
+    <td class="tg-0lax">Ja</td>
     <td class="tg-0lax"> </td>
     <td class="tg-ktyi">Deutschschweiz </td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Bestätigt</td>
     <td class="tg-ktyi">25.02.2019</td>
   </tr>
   <tr>
@@ -445,11 +445,11 @@ keywords: []
     <td class="tg-z182"><a href="mailto:Ines.rissmann@ch.pwc.com">Ines.rissmann@ch.pwc.com</a></td>
     <td class="tg-ktyi">076 572 80 70</td>
     <td class="tg-ktyi">Deutsch</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
-    <td class="tg-0lax">Oui</td>
+    <td class="tg-0lax">Bestätigt</td>
+    <td class="tg-0lax">Ja</td>
     <td class="tg-0lax"> </td>
     <td class="tg-0lax"> </td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Bestätigt</td>
     <td class="tg-ktyi">03.07.2019</td>
   </tr>
   <tr>
@@ -459,11 +459,11 @@ keywords: []
     <td class="tg-z182"><a href="mailto:sadiku@medizincontrolling.ch">sadiku@medizincontrolling.ch</a></td>
     <td class="tg-ktyi">055 412 25 16</td>
     <td class="tg-ktyi">Deutsch</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
-    <td class="tg-0lax">Oui</td>
-    <td class="tg-0lax">Oui</td>
+    <td class="tg-0lax">Bestätigt</td>
+    <td class="tg-0lax">Ja</td>
+    <td class="tg-0lax">Ja</td>
     <td class="tg-0lax">Deutschschweiz</td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Bestätigt</td>
     <td class="tg-ktyi">09.06.2023</td>
   </tr>
   <tr>
@@ -473,11 +473,11 @@ keywords: []
     <td class="tg-z182"><a href="mailto:santacatterina@kodierungen.ch">santacatterina@kodierungen.ch</a></td>
     <td class="tg-ktyi">079 693 49 35</td>
     <td class="tg-ktyi">Deutsch<br>Italienisch</td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
-    <td class="tg-ktyi">Oui</td>
+    <td class="tg-ktyi">Bestätigt</td>
+    <td class="tg-ktyi">Ja</td>
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Deutschschweiz<br>Tessin</td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Bestätigt</td>
     <td class="tg-ktyi">07.01.2019</td>
   </tr>
   <tr>
@@ -487,11 +487,11 @@ keywords: []
     <td class="tg-z182"><a href="mailto:francoise.schwarz@gd.zh.ch">francoise.schwarz@gd.zh.ch</a></td>
     <td class="tg-ktyi">043 259 24 29</td>
     <td class="tg-ktyi">Deutsch</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-0lax">Bestätigt</td>
     <td class="tg-0lax"> </td>
-    <td class="tg-0lax">Oui</td>
+    <td class="tg-0lax">Ja</td>
     <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Bestätigt</td>
     <td class="tg-ktyi">05.06.2019</td>
   </tr>
   <tr>
@@ -501,11 +501,11 @@ keywords: []
     <td class="tg-z182"><a href="mailto:stebler1@gmx.ch">stebler1@gmx.ch</a></td>
     <td class="tg-ktyi">076 377 48 40</td>
     <td class="tg-ktyi">Deutsch</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
-    <td class="tg-0lax">Oui</td>
+    <td class="tg-0lax">Bestätigt</td>
+    <td class="tg-0lax">Ja</td>
     <td class="tg-0lax"> </td>
     <td class="tg-ktyi">Deutschschweiz </td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-0lax">Bestätigt</td>
     <td class="tg-ktyi">19.02.2020</td>
   </tr>
   <tr>
@@ -515,11 +515,11 @@ keywords: []
     <td class="tg-z182"><a href="mailto:ruth.taglang@gmx.ch">ruth.taglang@gmx.ch</a></td>
     <td class="tg-ktyi">061 702 23 56</td>
     <td class="tg-ktyi">Deutsch</td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
-    <td class="tg-ktyi">Oui</td>
+    <td class="tg-ktyi">Bestätigt</td>
+    <td class="tg-ktyi">Ja</td>
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi"> </td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-0lax">Bestätigt</td>
     <td class="tg-0lax">27.09.2019</td>
   </tr>
   <tr>
@@ -529,11 +529,11 @@ keywords: []
     <td class="tg-z182"><a href="mailto:veldenzer@yahoo.de">veldenzer@yahoo.de</a></td>
     <td class="tg-0lax">079 440 88 34</td>
     <td class="tg-0lax">Deutsch</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
-    <td class="tg-0lax">Oui</td>
+    <td class="tg-0lax">Bestätigt</td>
+    <td class="tg-0lax">Ja</td>
     <td class="tg-0lax"> </td>
     <td class="tg-ktyi"> </td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-0lax">Bestätigt</td>
     <td class="tg-0lax">25.02.2019</td>
   </tr>
   <tr>
@@ -543,11 +543,11 @@ keywords: []
     <td class="tg-z182"><a href="mailto:katrin.vonvarchmin@gd.zh.ch">katrin.vonvarchmin@gd.zh.ch</a><br><a href="mailto:katrin@vonvarchmin.de">katrin@vonvarchmin.de</a></td>
     <td class="tg-0lax">076 799 26 84 </td>
     <td class="tg-0lax">Deutsch</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
-    <td class="tg-0lax">Oui</td>
-    <td class="tg-0lax">Oui</td>
+    <td class="tg-0lax">Bestätigt</td>
+    <td class="tg-0lax">Ja</td>
+    <td class="tg-0lax">Ja</td>
     <td class="tg-0lax"> <br></td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Bestätigt</td>
     <td class="tg-ktyi">08.05.2019</td>
   </tr>
   <tr>
@@ -557,11 +557,11 @@ keywords: []
     <td class="tg-z182"><a href="mailto:karamfila.weise@spitaluster.ch">karamfila.weise@spitaluster.ch</a></td>
     <td class="tg-0lax">076 805 35 55</td>
     <td class="tg-0lax">Deutsch</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
-    <td class="tg-0lax">Oui</td>
+    <td class="tg-0lax">Bestätigt</td>
+    <td class="tg-0lax">Ja</td>
     <td class="tg-0lax"> </td>
     <td class="tg-ktyi">Deutschschweiz </td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-0lax">Bestätigt</td>
     <td class="tg-0lax">14.05.2020</td>
   </tr>
   <tr>
@@ -571,11 +571,11 @@ keywords: []
     <td class="tg-dcap"><a href="mailto:u.westerhoff@bluewin.ch">u.westerhoff@bluewin.ch</a></td>
     <td class="tg-0lax">043 259 21 96</td>
     <td class="tg-0lax">Deutsch</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
-    <td class="tg-0lax">Oui</td>
+    <td class="tg-0lax">Bestätigt</td>
+    <td class="tg-0lax">Ja</td>
     <td class="tg-0lax"> </td>
     <td class="tg-0lax">Kanton Zürich</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
+    <td class="tg-0lax">Bestätigt</td>
     <td class="tg-0lax">10.05.2021</td>
   </tr>
   <tr>
@@ -585,11 +585,11 @@ keywords: []
     <td class="tg-z182"><a href="mailto:axelzolkos@gmx.net">axelzolkos@gmx.net</a></td>
     <td class="tg-ktyi">076 427 75 82</td>
     <td class="tg-ktyi">Deutsch</td>
-    <td class="tg-0lax">Confirmé // bestätigt</td>
-    <td class="tg-0lax">Oui</td>
+    <td class="tg-0lax">Bestätigt</td>
+    <td class="tg-0lax">Ja</td>
     <td class="tg-0lax"> </td>
     <td class="tg-ktyi">Deutschschweiz </td>
-    <td class="tg-ktyi">Confirmé // bestätigt</td>
+    <td class="tg-ktyi">Bestätigt</td>
     <td class="tg-0lax">29.11.2023</td>
   </tr>
 </tbody></table>
