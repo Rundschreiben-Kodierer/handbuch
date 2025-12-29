@@ -91,14 +91,14 @@ keywords: []
   <tr>
     <td class="tg-ktyi" id="a">Allocco</td>
     <td class="tg-ktyi">Cinzia</td>
-    <td class="tg-ktyi">Ch. deMaillefer 37<br>CH-1052 Le Mont-sur-Lausanne</td>
+    <td class="tg-ktyi">Ch. de Maillefer 37<br>CH-1052 Le Mont-sur-Lausanne</td>
     <td class="tg-z182"><a href="mailto:cinzia.allocco@nicecomputing.ch">cinzia.allocco@nicecomputing.ch</a></td>
     <td class="tg-ktyi">079 723 04 17</td>
     <td class="tg-ktyi">Französisch<br>Italienisch</td>
     <td class="tg-ktyi">bestätigt</td>
     <td class="tg-0lax">Ja</td>
     <td class="tg-0lax"> </td>
-    <td class="tg-ktyi">Suisse romandeTessin</td>
+    <td class="tg-ktyi">Suisse romande // Tessin</td>
     <td class="tg-ktyi">bestätigt</td>
     <td class="tg-ktyi">15.09.2016</td>
   </tr>

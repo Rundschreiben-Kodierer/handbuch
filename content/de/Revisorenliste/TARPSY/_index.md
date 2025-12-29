@@ -123,7 +123,7 @@ keywords: []
     <td class="tg-ktyi">Rue du Village 6<br>1081 Montpreveyres</td>
     <td class="tg-v47d"><a href="mailto:johanne.chevalier@chuv.ch">johanne.chevalier@chuv.ch</a></td>
     <td class="tg-ktyi">076 320 68 51</td>
-    <td class="tg-ktyi">Français</td>
+    <td class="tg-ktyi">Französisch</td>
     <td class="tg-0lax">Bestätigt</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax">Ja</td>
@@ -137,7 +137,7 @@ keywords: []
     <td class="tg-ktyi">DRG Swiss<br>Bahnhofstr. 32<br>8803 Rüschlikon<br></td>
     <td class="tg-z182"><a href="mailto:difalco@drgswiss.ch">difalco@drgswiss.ch</a><br><a href="mailto:difalco@hin.ch">difalco@hin.ch</a></td>
     <td class="tg-ktyi">076 709 57 01</td>
-    <td class="tg-ktyi">Deutsch<br>Français<br>Italienisch</td>
+    <td class="tg-ktyi">Deutsch<br>Französisch<br>Italienisch</td>
     <td class="tg-ktyi">Bestätigt</td>
     <td class="tg-ktyi">Ja</td>
     <td class="tg-ktyi">Ja</td>
@@ -150,7 +150,7 @@ keywords: []
     <td class="tg-ktyi">18, clos duchardon bleu <br>FR-74700 Sallanches</td>
     <td class="tg-z182"><a href="mailto:olivier.flenghi@nicecomputing.ch">olivier.flenghi@nicecomputing.ch</a></td>
     <td class="tg-ktyi">079 516 3495<br>0033 6 32 03 05 93</td>
-    <td class="tg-ktyi">Français</td>
+    <td class="tg-ktyi">Französisch</td>
     <td class="tg-0lax">Bestätigt</td>
     <td class="tg-0lax">Ja</td>
     <td class="tg-0lax">Ja</td>
@@ -192,7 +192,7 @@ keywords: []
     <td class="tg-ktyi">Talstrasse 57<br>8852 Altendorf</td>
     <td class="tg-z182"><a href="mailto:miriamburkhardt@gmail.com">miriamburkhardt@gmail.com</a></td>
     <td class="tg-ktyi">079 439 75 60</td>
-    <td class="tg-ktyi">Deutsch                         Français</td>
+    <td class="tg-ktyi">Deutsch                         Französisch</td>
     <td class="tg-0lax">Bestätigt</td>
     <td class="tg-0lax">Ja</td>
     <td class="tg-0lax"> </td>
@@ -206,7 +206,7 @@ keywords: []
     <td class="tg-ktyi">Ch.du Collège 3a<br>1040 Echallens</td>
     <td class="tg-z182"><a href="mailto:therese.gillieron@nicecomputing.ch">therese.gillieron@nicecomputing.ch</a></td>
     <td class="tg-ktyi">079 725 06 41</td>
-    <td class="tg-ktyi">Français</td>
+    <td class="tg-ktyi">Französisch</td>
     <td class="tg-0lax">Bestätigt</td>
     <td class="tg-0lax">Ja</td>
     <td class="tg-0lax"> </td>
@@ -290,7 +290,7 @@ keywords: []
     <td class="tg-ktyi">Rue de la Fontaine 4<br>1094 Paudex</td>
     <td class="tg-z182"><a href="mailto:irene.idalan@nicecomputing.ch">irene.idalan@nicecomputing.ch</a></td>
     <td class="tg-ktyi">021 791 60 86</td>
-    <td class="tg-ktyi">Deutsch <br>Français</td>
+    <td class="tg-ktyi">Deutsch <br>Französisch</td>
     <td class="tg-0lax">Bestätigt</td>
     <td class="tg-0lax">Ja</td>
     <td class="tg-0lax"> </td>
