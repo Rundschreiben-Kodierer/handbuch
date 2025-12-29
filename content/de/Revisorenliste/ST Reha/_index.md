@@ -113,7 +113,7 @@ keywords: []
     <td class="tg-ktyi">bestätigt</td>
     <td class="tg-0lax">Ja</td>
     <td class="tg-0lax"> </td>
-    <td class="tg-ktyi">Deutschschweiz </td>
+    <td class="tg-ktyi">Deutschschweiz</td>
     <td class="tg-ktyi">bestätigt</td>
     <td class="tg-ktyi">29.11.2023</td>
  </tr>
@@ -123,7 +123,7 @@ keywords: []
     <td class="tg-ktyi">Rue du Village 6<br>1081 Montpreveyres</td>
     <td class="tg-v47d"><a href="mailto:johanne.chevalier@chuv.ch">johanne.chevalier@chuv.ch</a></td>
     <td class="tg-ktyi">076 320 68 51</td>
-    <td class="tg-ktyi">Französisch </td>
+    <td class="tg-ktyi">Französisch</td>
     <td class="tg-0lax">bestätigt</td>
     <td class="tg-ktyi"></td>
     <td class="tg-ktyi">Ja</td>

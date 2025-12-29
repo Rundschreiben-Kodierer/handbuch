@@ -224,7 +224,7 @@ keywords: []
     <td class="tg-0lax">Bestätigt</td>
     <td class="tg-0lax"> </td>
     <td class="tg-0lax">Ja</td>
-    <td class="tg-0lax">Kanton Solothurn </td>
+    <td class="tg-0lax">Kanton Solothurn</td>
     <td class="tg-0lax">Bestätigt</td>
     <td class="tg-ktyi">09.10.2024</td>
   </tr>
@@ -238,7 +238,7 @@ keywords: []
     <td class="tg-0lax">Bestätigt</td>
     <td class="tg-0lax">Ja</td>
     <td class="tg-0lax">Ja</td>
-    <td class="tg-ktyi">Deutschschweiz </td>
+    <td class="tg-ktyi">Deutschschweiz</td>
     <td class="tg-0lax">Bestätigt</td>
     <td class="tg-ktyi">10.05.2019</td>
   </tr>
@@ -252,7 +252,7 @@ keywords: []
     <td class="tg-0lax">Bestätigt</td>
     <td class="tg-0lax">Ja</td>
     <td class="tg-0lax"> </td>
-    <td class="tg-ktyi">Deutschschweiz </td>
+    <td class="tg-ktyi">Deutschschweiz</td>
     <td class="tg-ktyi">Bestätigt</td>
     <td class="tg-ktyi">24.10.2023</td>
   </tr>

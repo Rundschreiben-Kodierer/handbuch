@@ -114,7 +114,7 @@ keywords: []
     <td class="tg-ktyi">079 793 36 40</dh>
     <td class="tg-ktyi">Deutsch</td>
     <td class="tg-0lax">bestätigt</td>
-    <td class="tg-ktyi">Deutschschweiz </td>
+    <td class="tg-ktyi">Deutschschweiz</td>
     <td class="tg-ktyi">bestätigt</td>
     <td class="tg-ktyi">09.10.2024</td>
   </tr>
@@ -150,7 +150,7 @@ keywords: []
     <td class="tg-ktyi">077 430 02 72</td>
     <td class="tg-ktyi">Deutsch</td>
     <td class="tg-ktyi">bestätigt</td>
-    <td class="tg-ktyi">Deutschschweiz </td>
+    <td class="tg-ktyi">Deutschschweiz</td>
     <td class="tg-ktyi">bestätigt</td>
     <td class="tg-ktyi">16.02.2023</td>
   </tr>
