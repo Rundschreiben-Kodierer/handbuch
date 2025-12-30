@@ -474,7 +474,7 @@ keywords: []
     <td class="tg-ktyi">077 473 01 81</td>
     <td class="tg-ktyi">Französisch</td>
     <td class="tg-0lax">bestätigt</td>
-    <td class="tg-ktyi">Valais, Vaud,Fribourg</td>
+    <td class="tg-ktyi">Wallis, Waadt, Freiburg</td>
     <td class="tg-ktyi">bestätigt</td>
     <td class="tg-ktyi">27.03.2023</td>
   </tr>
