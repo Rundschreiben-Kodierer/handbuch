@@ -175,9 +175,9 @@ keywords: []
   <tr>
     <td class="tg-0lax" id="g">Gehrig-Rentsch </td>
     <td class="tg-ktyi">Regula</td>
-    <td class="tg-ktyi">DRGplus<br>Kranichweg 30<br>3074 Muri bei Bern</td>
-    <td class="tg-z182"><a href="mailto:regula.gehrig@drgplus.ch">regula.gehrig@drgplus.ch</a></td>
-    <td class="tg-0lax">031 530 22 55</td>
+    <td class="tg-ktyi">KODExpert GmbH<br>Rohrstrasse 56<br>3507 Biglen</td>
+    <td class="tg-yk8o"><a href="mailto:regula.gehrig@kodexpert.ch">regula.gehrig@kodexpert.ch</a></td>
+    <td class="tg-0lax">079 581 91 88</td>
     <td class="tg-ktyi">Allemand</td>
     <td class="tg-0lax">Confirmé</td>
     <td class="tg-0lax">Oui</td>
@@ -192,7 +192,7 @@ keywords: []
     <td class="tg-ktyi">Talstrasse 57<br>8852 Altendorf</td>
     <td class="tg-z182"><a href="mailto:miriamburkhardt@gmail.com">miriamburkhardt@gmail.com</a></td>
     <td class="tg-ktyi">079 439 75 60</td>
-    <td class="tg-ktyi">Allemand                         Français</td>
+    <td class="tg-ktyi">Allemand<br>Français</td>
     <td class="tg-0lax">Confirmé</td>
     <td class="tg-0lax">Oui</td>
     <td class="tg-0lax"> </td>
@@ -315,9 +315,9 @@ keywords: []
   <tr>
     <td class="tg-0lax" id="l">Liuzzi</td>
     <td class="tg-ktyi">Sarah</td>
-    <td class="tg-ktyi">DRGplus<br>Kranichweg 30<br>3074 Muri bei Bern</td>
-    <td class="tg-z182"><a href="mailto:sarah.liuzzi@drgplus.ch">sarah.liuzzi@drgplus.ch</a></td>
-    <td class="tg-ktyi">031 530 22 55</td>
+    <td class="tg-ktyi">KODExpert GmbH<br>Rohrstrasse 56<br>3507 Biglen</td>
+    <td class="tg-yk8o"><a href="mailto:sarah.liuzzi@kodexpert.ch">sarah.liuzzi@kodexpert.ch</a></td>
+    <td class="tg-0lax">079 423 16 96</td>
     <td class="tg-ktyi">Allemand</td>
     <td class="tg-0lax">Confirmé</td>
     <td class="tg-0lax">Oui</td>
@@ -360,7 +360,7 @@ keywords: []
     <td class="tg-ktyi">LN – Revision <br>Vorstadtstrasse 6<br>5722 Gränichen – AG </td>
     <td class="tg-z182"><a href="mailto:leonardo.narda@hotmail.com">leonardo.narda@hotmail.com</a><br><a href="mailto:mail@ln-revision.ch">mail@ln-revision.ch </a></td>
     <td class="tg-ktyi">076 384 82 47</td>
-    <td class="tg-ktyi">Allemand<br>italien <br>Französisch</td>
+    <td class="tg-ktyi">Allemand<br>italien <br>Français</td>
     <td class="tg-0lax">Confirmé</td>
     <td class="tg-0lax">Oui</td>
     <td class="tg-0lax"> <br></td>
@@ -374,11 +374,11 @@ keywords: []
     <td class="tg-ktyi">Bodenrebenweg 19<br>3225 Müntschemier</td>
     <td class="tg-dcap"><a href="mailto:catherine.niederer@nicecomputing.ch">catherine.niederer@nicecomputing.ch</a></td>
     <td class="tg-ktyi">079 359 55 46</td>
-    <td class="tg-ktyi">Französisch<br>Allemand</td>
+    <td class="tg-ktyi">Français<br>Allemand</td>
     <td class="tg-0lax">Confirmé</td>
     <td class="tg-0lax">Oui</td>
     <td class="tg-0lax"> </td>
-    <td class="tg-ktyi">Suisse alémanique inkl. Biel/Bienne</td>
+    <td class="tg-ktyi">Suisse alémanique<br>incl. Biel/Bienne</td>
     <td class="tg-0lax">Confirmé</td>
     <td class="tg-0lax">05.11.2021</td>
   </tr>
@@ -389,7 +389,7 @@ keywords: []
     <td class="tg-z182"><a href="mailto:Cristina.Pangrazzi@icloud.com">Cristina.Pangrazzi@icloud.com</a></td>
     <td class="tg-0lax">044 984 50 32<br>079 295 47 65</td>
     <td class="tg-0lax">Allemand<br>italien</td>
-    <td class="tg-0lax">Confirmé// bestätigt</td>
+    <td class="tg-0lax">Confirmé</td>
     <td class="tg-0lax">Oui</td>
     <td class="tg-0lax"> </td>
     <td class="tg-0lax">Toute la Suisse</td>
@@ -403,7 +403,7 @@ keywords: []
     <td class="tg-z182"><a href="mailto:marion.paustian@pdgr.ch">marion.paustian@pdgr.ch</a></td>
     <td class="tg-0lax">079 712 90 14</td>
     <td class="tg-0lax">Allemand</td>
-    <td class="tg-0lax">Confirmé// bestätigt</td>
+    <td class="tg-0lax">Confirmé</td>
     <td class="tg-0lax">Oui</td>
     <td class="tg-0lax"> </td>
     <td class="tg-ktyi">Suisse alémanique </td>
@@ -423,6 +423,20 @@ keywords: []
     <td class="tg-dgl5"> </td>
     <td class="tg-ktyi">Confirmé</td>
     <td class="tg-ktyi">07.01.2019</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Popp</td>
+    <td class="tg-ktyi">Sandra</td>
+    <td class="tg-ktyi">DRGplus<br>Kranichweg 30<br>3074 Muri bei Bern</td>
+    <td class="tg-z182"><a href="mailto:sandra.popp@drgplus.ch">sandra.popp@drgplus.ch</a></td>
+    <td class="tg-ktyi">078 767 14 88</td>
+    <td class="tg-ktyi">Allemand</td>
+    <td class="tg-0lax">Confirmé</td>
+    <td class="tg-0lax">Oui</td>
+    <td class="tg-0lax"> </td>
+    <td class="tg-dgl5">Suisse alémanique</td>
+    <td class="tg-ktyi">Confirmé</td>
+    <td class="tg-ktyi">22.07.2025</td>
   </tr>
   <tr>
     <td class="tg-0lax" id="r">Rachinger</td>

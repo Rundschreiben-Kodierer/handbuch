@@ -174,7 +174,7 @@ keywords: []
     <td class="tg-ktyi">043 843 92 94<br>079 461 60 82</td>
     <td class="tg-ktyi">Allemand</td>
     <td class="tg-0lax">Confirmé</td>
-    <td class="tg-ktyi">Suisse alémanique<br>und Fribourg</td>
+    <td class="tg-ktyi">Suisse alémanique<br>Canton de Fribourg</td>
     <td class="tg-ktyi">Confirmé</td>
     <td class="tg-ktyi">15.12.2011</td>
   </tr>
@@ -231,7 +231,7 @@ keywords: []
     <td class="tg-ktyi">Anouk</td>
     <td class="tg-ktyi">ch. des Cystises 6<br>1255 Veyrier</td>
     <td class="tg-v47d"><a href="mailto:anouk@carbonetwork.ch">anouk@carbonetwork.ch</a></td>
-    <td class="tg-ktyi">022 784 04 12</td>
+    <td class="tg-ktyi">079 683 17 03</td>
     <td class="tg-ktyi">Français</td>
     <td class="tg-0lax">Confirmé</td>
     <td class="tg-ktyi"> </td>
@@ -246,7 +246,7 @@ keywords: []
     <td class="tg-ktyi">078 851 48 99</td>
     <td class="tg-ktyi">Français<br>Italien</td>
     <td class="tg-0lax">Confirmé</td>
-    <td class="tg-ktyi">Suisseromande Tessin</td>
+    <td class="tg-ktyi">Suisse romande<br>Tessin</td>
     <td class="tg-ktyi">Confirmé</td>
     <td class="tg-ktyi">26.11.2018</td>
   </tr>
@@ -292,7 +292,7 @@ keywords: []
     <td class="tg-ktyi">DRGSwiss<br>Bahnhofstr. 32<br>8803 Rüschlikon</td>
     <td class="tg-v47d"><a href="mailto:difalco@drgswiss.ch">difalco@drgswiss.ch</a><br><a href="mailto:difalco@hin.ch">difalco@hin.ch</a></td>
     <td class="tg-ktyi">076 709 57 01</td>
-    <td class="tg-ktyi">Allemand<br>Français<br>Italienisch</td>
+    <td class="tg-ktyi">Allemand<br>Français<br>Italien</td>
     <td class="tg-ktyi">Confirmé</td>
     <td class="tg-ktyi">Toute la Suisse</td>
     <td class="tg-ktyi">Confirmé</td>
@@ -352,7 +352,7 @@ keywords: []
     <td class="tg-ktyi">Galliweg 65C<br>4852 Rothrist</td>
     <td class="tg-v47d"><a href="mailto:daniela.ehbrecht@gmx.de">daniela.ehbrecht@gmx.de</a></td>
     <td class="tg-ktyi">078 675 68 09</td>
-    <td class="tg-ktyi">Allemand</td>
+    <td class="tg-ktyi">Allemand<br>Français</td>
     <td class="tg-0lax">Confirmé</td>
     <td class="tg-ktyi">Toute la Suisse</td>
     <td class="tg-ktyi">Confirmé</td>
@@ -433,9 +433,9 @@ keywords: []
   <tr>
     <td class="tg-0lax" id="g">Gehrig-Rentsch</td>
     <td class="tg-ktyi">Regula</td>
-    <td class="tg-ktyi">DRGplus<br>Kranichweg 30<br>3074 Muri bei Bern</td>
-    <td class="tg-yk8o"><a href="mailto:regula.gehrig@drgplus.ch">regula.gehrig@drgplus.ch</a></td>
-    <td class="tg-0lax">031 530 22 55</td>
+    <td class="tg-ktyi">KODExpert GmbH<br>Rohrstrasse 56<br>3507 Biglen</td>
+    <td class="tg-yk8o"><a href="mailto:regula.gehrig@kodexpert.ch">regula.gehrig@kodexpert.ch</a></td>
+    <td class="tg-0lax">079 581 91 88</td>
     <td class="tg-ktyi">Allemand</td>
     <td class="tg-0lax">Confirmé</td>
     <td class="tg-ktyi">Toute la Suisse</td>
@@ -474,7 +474,7 @@ keywords: []
     <td class="tg-ktyi">077 473 01 81</td>
     <td class="tg-ktyi">Français</td>
     <td class="tg-0lax">Confirmé</td>
-    <td class="tg-ktyi">Valais, Vaud,Fribourg</td>
+    <td class="tg-ktyi">Canton du Valais<br>Canton de Vaud<br>Canton de Fribourg</td>
     <td class="tg-ktyi">Confirmé</td>
     <td class="tg-ktyi">27.03.2023</td>
   </tr>
@@ -616,7 +616,7 @@ keywords: []
     <td class="tg-0lax">Chemin de Villardiez 18 <br>1009 Pully privat</td>
     <td class="tg-v47d"><a href="mailto:bettina.j.holzer@gmail.com">bettina.j.holzer@gmail.com</a><br><a href="mailto:bettina.holzer@chuv.ch">bettina.holzer@chuv.ch</a></td>
     <td class="tg-0lax">079 277 42 30<br>079 556 74 24</td>
-    <td class="tg-0lax">Französisch<br>Allemand<br></td>
+    <td class="tg-0lax">Français<br>Allemand<br></td>
     <td class="tg-ktyi">Confirmé</td>
     <td class="tg-ktyi">Suisse romande</td>
     <td class="tg-ktyi">Confirmé</td>
@@ -760,7 +760,7 @@ keywords: []
     <td class="tg-ktyi">Eigerweg 26<br>4912 Aarwangen</td>
     <td class="tg-v47d"><a href="mailto:daniela88@hotmail.ch">daniela88@hotmail.ch</a></td>
     <td class="tg-0lax">079 688 79 48</td>
-    <td class="tg-ktyi">Allemand<br>Italienisch</td>
+    <td class="tg-ktyi">Allemand<br>Italien</td>
     <td class="tg-0lax">Confirmé</td>
     <td class="tg-ktyi">Toute la Suisse</td>
     <td class="tg-ktyi">Confirmé</td>
@@ -853,9 +853,9 @@ keywords: []
   <tr>
     <td class="tg-0lax">Liuzzi</td>
     <td class="tg-ktyi">Sarah</td>
-    <td class="tg-ktyi">DRGplus<br>Kranichweg 30<br>3074 Muri bei Bern </td>
-    <td class="tg-v47d"><a href="mailto:sarah.liuzzi@drgplus.ch">sarah.liuzzi@drgplus.ch</a></td>
-    <td class="tg-0lax">031 530 22 55</td>
+    <td class="tg-ktyi">KODExpert GmbH<br>Rohrstrasse 56<br>3507 Biglen</td>
+    <td class="tg-yk8o"><a href="mailto:sarah.liuzzi@kodexpert.ch">sarah.liuzzi@kodexpert.ch</a></td>
+    <td class="tg-0lax">079 423 16 96</td>
     <td class="tg-ktyi">Allemand</td>
     <td class="tg-0lax">Confirmé</td>
     <td class="tg-ktyi"> </td>
@@ -906,7 +906,7 @@ keywords: []
     <td class="tg-0lax">078 841 11 08</td>
     <td class="tg-0lax">Allemand</td>
     <td class="tg-0lax">Confirmé</td>
-    <td class="tg-0lax">Zentral-Innerschweiz</td>
+    <td class="tg-0lax">Suisse Centrale</td>
     <td class="tg-ktyi">Confirmé</td>
     <td class="tg-0lax">09.10.2024</td>
   </tr>
@@ -976,7 +976,7 @@ keywords: []
     <td class="tg-ktyi">LN –Revision<br>Vorstadtstrasse 6 <br>5722 Gränichen – AG</td>
     <td class="tg-v47d"><a href="mailto:leonardo.narda@hotmail.com">leonardo.narda@hotmail.com</a><br><a href="mailto:mail@ln-revision.ch">mail@ln-revision.ch</a></td>
     <td class="tg-ktyi">076 384 82 47</td>
-    <td class="tg-ktyi">Allemand<br>Italienisch<br>Französisch</td>
+    <td class="tg-ktyi">Allemand<br>Italien<br>Français</td>
     <td class="tg-0lax">Confirmé</td>
     <td class="tg-ktyi">Toute la Suisse</td>
     <td class="tg-ktyi">Confirmé</td>
@@ -988,9 +988,9 @@ keywords: []
     <td class="tg-ktyi">Bodenrebenweg 19<br>3225 Müntschemier</td>
     <td class="tg-yk8o"><a href="mailto:catherine.niederer@nicecomputing.ch">catherine.niederer@nicecomputing.ch</a></td>
     <td class="tg-ktyi">079 359 55 46</td>
-    <td class="tg-ktyi">Französisch<br>Allemand</td>
+    <td class="tg-ktyi">Français<br>Allemand</td>
     <td class="tg-0lax">Confirmé</td>
-    <td class="tg-ktyi">Allemandschwei zinkl. Biel/Bienne</td>
+    <td class="tg-ktyi">Suisse alémanique<br>incl. Biel/Bienne</td>
     <td class="tg-0lax">Confirmé</td>
     <td class="tg-ktyi">05.11.2021</td>
   </tr>
@@ -1012,7 +1012,7 @@ keywords: []
     <td class="tg-ktyi">Zelgmatt 65<br>8132 Egg</td>
     <td class="tg-v47d"><a href="mailto:cristina.pangrazzi@icloud.com">cristina.pangrazzi@icloud.com</a></td>
     <td class="tg-ktyi">044 984 50 32<br>079 295 47 65</td>
-    <td class="tg-ktyi">Allemand<br>Italienisch</td>
+    <td class="tg-ktyi">Allemand<br>Italien</td>
     <td class="tg-ktyi">Confirmé</td>
     <td class="tg-ktyi">Toute la suisse</td>
     <td class="tg-ktyi">Confirmé</td>
@@ -1106,8 +1106,7 @@ keywords: []
     <td class="tg-0lax">Roggen Deppensaz</td>
     <td class="tg-ktyi">Nadja</td>
     <td class="tg-ktyi">Rte de St Cergue 103<br>1260 Nyon</td>
-    <td class="tg-v47d"><a href="mailto:Nadja.RoggenDepensaz@hug.ch">Nadja.RoggenDepensaz@hug.ch</a><br><a href="mailto:Nadja.RoggenDepensaz@hug.ch">Nadja.RoggenDepensaz@hug.ch</a></td>
-    <td class="tg-ktyi">078 815 46 46</td>
+    <td class="tg-v47d"><a href="mailto:Nadja.RoggenDepensaz@hug.ch">Nadja.RoggenDepensaz@hug.ch</a><br><a href="mailto:Nadja.RoggenDepensaz@hug.ch">Nadja.RoggenDepensaz@hug.ch</a><br><a href="mailto:nadja.depensaz@gmail.com">nadja.depensaz@gmail.com</a></td>    <td class="tg-ktyi">078 815 46 46</td>
     <td class="tg-ktyi">Français</td>
     <td class="tg-0lax">Confirmé</td>
     <td class="tg-ktyi">Suisse romande</td>
@@ -1156,7 +1155,7 @@ keywords: []
     <td class="tg-ktyi">bsoKodierungen gmbh<br>Stallbergstrasse 16<br>4562 Biberist</td>
     <td class="tg-v47d"><a href="mailto:santacatterina@kodierungen.ch">santacatterina@kodierungen.ch</a></td>
     <td class="tg-ktyi">079 693 49 35</td>
-    <td class="tg-ktyi">Allemand<br>Italienisch</td>
+    <td class="tg-ktyi">Allemand<br>Italien</td>
     <td class="tg-ktyi">Confirmé</td>
     <td class="tg-ktyi">Suisse alémanique<br>Tessin</td>
     <td class="tg-ktyi">Confirmé</td>

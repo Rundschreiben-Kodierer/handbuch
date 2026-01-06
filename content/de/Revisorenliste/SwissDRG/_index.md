@@ -231,7 +231,7 @@ keywords: []
     <td class="tg-ktyi">Anouk</td>
     <td class="tg-ktyi">ch. des Cystises 6<br>1255 Veyrier</td>
     <td class="tg-v47d"><a href="mailto:anouk@carbonetwork.ch">anouk@carbonetwork.ch</a></td>
-    <td class="tg-ktyi">022 784 04 12</td>
+    <td class="tg-ktyi">079 683 17 03</td>
     <td class="tg-ktyi">Französisch</td>
     <td class="tg-0lax">bestätigt</td>
     <td class="tg-ktyi"> </td>
@@ -433,9 +433,9 @@ keywords: []
   <tr>
     <td class="tg-0lax" id="g">Gehrig-Rentsch</td>
     <td class="tg-ktyi">Regula</td>
-    <td class="tg-ktyi">DRGplus<br>Kranichweg 30<br>3074 Muri bei Bern</td>
-    <td class="tg-yk8o"><a href="mailto:regula.gehrig@drgplus.ch">regula.gehrig@drgplus.ch</a></td>
-    <td class="tg-0lax">031 530 22 55</td>
+    <td class="tg-ktyi">KODExpert GmbH<br>Rohrstrasse 56<br>3507 Biglen</td>
+    <td class="tg-yk8o"><a href="mailto:regula.gehrig@kodexpert.ch">regula.gehrig@kodexpert.ch</a></td>
+    <td class="tg-0lax">079 581 91 88</td>
     <td class="tg-ktyi">Deutsch</td>
     <td class="tg-0lax">bestätigt</td>
     <td class="tg-ktyi">Ganze Schweiz</td>
@@ -853,9 +853,9 @@ keywords: []
   <tr>
     <td class="tg-0lax">Liuzzi</td>
     <td class="tg-ktyi">Sarah</td>
-    <td class="tg-ktyi">DRGplus<br>Kranichweg 30<br>3074 Muri bei Bern </td>
-    <td class="tg-v47d"><a href="mailto:sarah.liuzzi@drgplus.ch">sarah.liuzzi@drgplus.ch</a></td>
-    <td class="tg-0lax">031 530 22 55</td>
+    <td class="tg-ktyi">KODExpert GmbH<br>Rohrstrasse 56<br>3507 Biglen</td>
+    <td class="tg-yk8o"><a href="mailto:sarah.liuzzi@kodexpert.ch">sarah.liuzzi@kodexpert.ch</a></td>
+    <td class="tg-0lax">079 423 16 96</td>
     <td class="tg-ktyi">Deutsch</td>
     <td class="tg-0lax">bestätigt</td>
     <td class="tg-ktyi"> </td>
@@ -1106,7 +1106,7 @@ keywords: []
     <td class="tg-0lax">Roggen Deppensaz</td>
     <td class="tg-ktyi">Nadja</td>
     <td class="tg-ktyi">Rte de St Cergue 103<br>1260 Nyon</td>
-    <td class="tg-v47d"><a href="mailto:Nadja.RoggenDepensaz@hug.ch">Nadja.RoggenDepensaz@hug.ch</a><br><a href="mailto:Nadja.RoggenDepensaz@hug.ch">Nadja.RoggenDepensaz@hug.ch</a></td>
+    <td class="tg-v47d"><a href="mailto:Nadja.RoggenDepensaz@hug.ch">Nadja.RoggenDepensaz@hug.ch</a><br><a href="mailto:Nadja.RoggenDepensaz@hug.ch">Nadja.RoggenDepensaz@hug.ch</a><br><a href="mailto:nadja.depensaz@gmail.com">nadja.depensaz@gmail.com</a></td>
     <td class="tg-ktyi">078 815 46 46</td>
     <td class="tg-ktyi">Französisch</td>
     <td class="tg-0lax">bestätigt</td>

@@ -204,9 +204,9 @@ keywords: []
   <tr>
     <td class="tg-0lax" id="g">Gehrig-Rentsch</td>
     <td class="tg-ktyi">Regula</td>
-    <td class="tg-ktyi">DRGplus<br>Kranichweg 30<br>3074 Muri bei Bern</td>
-    <td class="tg-z182"><a href="mailto:regula.gehrig@drgplus.ch">regula.gehrig@drgplus.ch</a></td>
-    <td class="tg-0lax">031 530 22 55</td>
+    <td class="tg-ktyi">KODExpert GmbH<br>Rohrstrasse 56<br>3507 Biglen</td>
+    <td class="tg-yk8o"><a href="mailto:regula.gehrig@kodexpert.ch">regula.gehrig@kodexpert.ch</a></td>
+    <td class="tg-0lax">079 581 91 88</td>
     <td class="tg-ktyi">Deutsch</td>
     <td class="tg-0lax">bestätigt</td>
     <td class="tg-ktyi">Ja</td>
@@ -274,9 +274,9 @@ keywords: []
   <tr>
     <td class="tg-0lax" id="l">Liuzzi</td>
     <td class="tg-ktyi">Sarah</td>
-    <td class="tg-ktyi">DRGplus<br>Kranichweg 30<br>3074 Muri bei Bern</td>
-    <td class="tg-z182"><a href="mailto:sarah.liuzzi@drgplus.ch">sarah.liuzzi@drgplus.ch</a></td>
-    <td class="tg-0lax">031 530 22 55</td>
+    <td class="tg-ktyi">KODExpert GmbH<br>Rohrstrasse 56<br>3507 Biglen</td>
+    <td class="tg-yk8o"><a href="mailto:sarah.liuzzi@kodexpert.ch">sarah.liuzzi@kodexpert.ch</a></td>
+    <td class="tg-0lax">079 423 16 96</td>
     <td class="tg-ktyi">Deutsch</td>
     <td class="tg-0lax">bestätigt</td>
     <td class="tg-ktyi">Ja</td>
