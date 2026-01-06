@@ -21,7 +21,6 @@ type: docs
 
 
 
-
 <a href="https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/nomenklaturen/medkk/instrumente-medizinische-kodierung.assetdetail.5606325.html"
    target="_blank"
    rel="noopener noreferrer"> Rundschreiben für Kodiererinnen und Kodierer : 2018 Nr. 2</a> Anzuwenden bei Fällen mit Austrittsdatum ab 01.07.2018

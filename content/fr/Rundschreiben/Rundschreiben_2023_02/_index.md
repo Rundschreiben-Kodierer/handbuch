@@ -13,7 +13,7 @@ type: docs
 <a href="https://www.bfs.admin.ch/bfs/fr/home/statistiken/gesundheit/nomenklaturen/medkk/instrumente-medizinische-kodierung.assetdetail.26105822.html"
    target="_blank"
    rel="noopener noreferrer">
-    Link zum Rundschreiben
+    Lien vers la circulaire
 </a>
 
 

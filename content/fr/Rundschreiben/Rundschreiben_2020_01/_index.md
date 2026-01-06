@@ -10,10 +10,10 @@ type: docs
 
 **À appliquer aux cas dont la date de sortie est postérieure au 01.01.2020**
   
-<a href="https://www.bfs.admin.ch/bfs/fr/home/statistiken/gesundheit/nomenklaturen/medkk/instrumente-medizinische-kodierung.assetdetail.11448193.html"
+<a href="https://www.bfs.admin.ch/bfs/fr/home/statistiques/sante/nomenclatures/medkk/instruments-codage-medical.assetdetail.11448194.html"
    target="_blank"
    rel="noopener noreferrer">
-    Link zum Rundschreiben
+    Lien vers la circulaire
 </a>
 
 
