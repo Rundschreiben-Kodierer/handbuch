@@ -281,7 +281,7 @@ keywords: []
     <td class="tg-0lax">bestätigt</td>
     <td class="tg-ktyi">Ja</td>
     <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi">Deutschschweiz</td>
     <td class="tg-ktyi">bestätigt</td>
     <td class="tg-ktyi">22.11.2023</td>
   </tr>

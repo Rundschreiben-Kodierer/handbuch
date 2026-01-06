@@ -858,7 +858,7 @@ keywords: []
     <td class="tg-0lax">079 423 16 96</td>
     <td class="tg-ktyi">Tedesco</td>
     <td class="tg-0lax">Confermato</td>
-    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi">Svizzera tedesca</td>
     <td class="tg-ktyi">Confermato</td>
     <td class="tg-ktyi">22.11.2023</td>
   </tr>
@@ -1106,7 +1106,8 @@ keywords: []
     <td class="tg-0lax">Roggen Deppensaz</td>
     <td class="tg-ktyi">Nadja</td>
     <td class="tg-ktyi">Rte de St Cergue 103<br>1260 Nyon</td>
-    <td class="tg-v47d"><a href="mailto:Nadja.RoggenDepensaz@hug.ch">Nadja.RoggenDepensaz@hug.ch</a><br><a href="mailto:Nadja.RoggenDepensaz@hug.ch">Nadja.RoggenDepensaz@hug.ch</a><br><a href="mailto:nadja.depensaz@gmail.com">nadja.depensaz@gmail.com</a></td>    <td class="tg-ktyi">078 815 46 46</td>
+    <td class="tg-v47d"><a href="mailto:Nadja.RoggenDepensaz@hug.ch">Nadja.RoggenDepensaz@hug.ch</a><br><a href="mailto:nadja.depensaz@gmail.com">nadja.depensaz@gmail.com</a></td>    
+    <td class="tg-ktyi">078 815 46 46</td>
     <td class="tg-ktyi">Francese</td>
     <td class="tg-0lax">Confermato</td>
     <td class="tg-ktyi">Svizzera romanda</td>

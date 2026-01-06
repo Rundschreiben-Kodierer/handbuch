@@ -280,7 +280,7 @@ keywords: []
     <td class="tg-ktyi">Allemand</td>
     <td class="tg-0lax">Confirmé</td>
     <td class="tg-ktyi">Oui</td>
-    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi">Suisse alémanique</td>
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Confirmé</td>
     <td class="tg-ktyi">22.11.2023</td>

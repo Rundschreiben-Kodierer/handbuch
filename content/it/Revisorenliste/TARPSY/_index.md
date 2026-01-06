@@ -322,7 +322,7 @@ keywords: []
     <td class="tg-0lax">Confermato</td>
     <td class="tg-0lax">Sì</td>
     <td class="tg-0lax"> </td>
-    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi">Svizzera tedesca</td>
     <td class="tg-ktyi">Confermato</td>
     <td class="tg-ktyi">22.11.2023</td>
   </tr>
