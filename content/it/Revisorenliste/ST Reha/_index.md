@@ -379,7 +379,7 @@ keywords: []
     <td class="tg-0lax">Confermato</td>
     <td class="tg-ktyi">Sì</td>
     <td class="tg-ktyi"> </td>
-    <td class="tg-0lax"></b>Svizzera tedesca</td>
+    <td class="tg-0lax"><b></b>Svizzera tedesca</td>
     <td class="tg-ktyi">Confermato</td>
     <td class="tg-ktyi">05.12.2025</td>
   </tr>  
