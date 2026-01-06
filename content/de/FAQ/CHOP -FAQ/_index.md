@@ -527,7 +527,7 @@ Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückfl
 
 
 
-{{<article number="0009"  title="CHOP - «Einzeitige Eingriffe an Mittelhand- und Fingerstrahlen oder Mittelfuss- und Zehenstrahlen»" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0009"  title="CHOP - Einzeitige Eingriffe an Mittelhand- und Fingerstrahlen oder Mittelfuss- und Zehenstrahlen" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -1299,7 +1299,7 @@ Im Beispiel der folgenden Abbildung erfolgte eine Spondylodese über sechs Wirbe
 
 
 
-{{<article number="0025"  title="CHOP - knöcherne Fusion mit Instrumentierung – Wirbelsäule" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0025"  title="CHOP - Knöcherne Fusion mit Instrumentierung – Wirbelsäule" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -1349,7 +1349,7 @@ Es liegt keine <b>potenzielle Bewegungserhaltung</b> im betroffenen Segment vor.
 
 
 
-{{<article number="0026"  title="CHOP - knöcherne Fusion ohne Instrumentierung – Wirbelsäule" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0026"  title="CHOP - Knöcherne Fusion ohne Instrumentierung – Wirbelsäule" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
