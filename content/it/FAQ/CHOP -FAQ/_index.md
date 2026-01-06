@@ -528,7 +528,7 @@ Analogamente, se in occasione di una sostituzione di endoprotesi di ginocchio vi
 
 
 
-{{<article number="0009"  title="CHOP - «Interventi in un solo tempo operatorio su raggi metacarpali e digitali o su raggi metatarsali e digitali»" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0009"  title="CHOP - Interventi in un solo tempo operatorio su raggi metacarpali e digitali o su raggi metatarsali e digitali" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -1298,7 +1298,7 @@ Nell’esempio di cui alla seguente figura, è stata eseguita una spondilodesi c
 
 
 
-{{<article number="0025"  title="CHOP - fusione ossea con strumentazione – colonna vertebrale" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0025"  title="CHOP - Fusione ossea con strumentazione – colonna vertebrale" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
