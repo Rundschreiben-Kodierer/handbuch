@@ -11,105 +11,105 @@ type: docs
 
 
 
-<a href="https://www.bfs.admin.ch/bfs/it/home/statistiken/gesundheit/nomenklaturen/medkk/instrumente-medizinische-kodierung.assetdetail.9006368.html"
+<a href="https://www.bfs.admin.ch/bfs/it/home/statistiche/salute/nomenclature/medkk/strumenti-codifica-medica.assetdetail.9006370.html"
    target="_blank"
    rel="noopener noreferrer"> Circolare per le codificatrici ed i codificatori : 2019 Nr. 2</a> Da utilizzare per i casi con dimissioni dal 01.07.2019
 
-<a href="https://www.bfs.admin.ch/bfs/it/home/statistiken/gesundheit/nomenklaturen/medkk/instrumente-medizinische-kodierung.assetdetail.7046424.html"
+<a href="https://www.bfs.admin.ch/bfs/it/home/statistiche/salute/nomenclature/medkk/strumenti-codifica-medica.assetdetail.7046425.html"
    target="_blank"
    rel="noopener noreferrer"> Circolare per le codificatrici ed i codificatori : 2019 Nr. 1</a> Da utilizzare per i casi con dimissioni dal 01.01.2019
 
 
 
-<a href="https://www.bfs.admin.ch/bfs/it/home/statistiken/gesundheit/nomenklaturen/medkk/instrumente-medizinische-kodierung.assetdetail.5606325.html"
+<a href="https://www.bfs.admin.ch/bfs/it/home/statistiche/salute/nomenclature/medkk/strumenti-codifica-medica.assetdetail.5606326.html"
    target="_blank"
    rel="noopener noreferrer"> Circolare per le codificatrici ed i codificatori : 2018 Nr. 2</a> Da utilizzare per i casi con dimissioni dal 01.07.2018
 
-<a href="https://www.bfs.admin.ch/bfs/it/home/statistiken/gesundheit/nomenklaturen/medkk/instrumente-medizinische-kodierung.assetdetail.4202459.html"
+<a href="https://www.bfs.admin.ch/bfs/it/home/statistiche/salute/nomenclature/medkk/strumenti-codifica-medica.assetdetail.4202460.html"
    target="_blank"
    rel="noopener noreferrer"> Circolare per le codificatrici ed i codificatori : 2018 Nr. 1</a> Da utilizzare per i casi con dimissioni dal 01.01.2018
 
 
 
-<a href="https://www.bfs.admin.ch/bfs/it/home/statistiken/gesundheit/nomenklaturen/medkk/instrumente-medizinische-kodierung.assetdetail.2942147.html"
+<a href="https://www.bfs.admin.ch/bfs/it/home/statistiche/salute/nomenclature/medkk/strumenti-codifica-medica.assetdetail.2942148.html"
    target="_blank"
    rel="noopener noreferrer"> Circolare per le codificatrici ed i codificatori : 2017 Nr. 2</a> Da utilizzare per i casi con dimissioni dal 01.07.2017
 
-<a href="https://www.bfs.admin.ch/bfs/it/home/statistiken/gesundheit/nomenklaturen/medkk/instrumente-medizinische-kodierung.assetdetail.1665486.html"
+<a href="https://www.bfs.admin.ch/bfs/it/home/statistiche/salute/nomenclature/medkk/strumenti-codifica-medica.assetdetail.1665487.html"
    target="_blank"
    rel="noopener noreferrer"> Circolare per le codificatrici ed i codificatori : 2017 Nr. 1</a> Da utilizzare per i casi con dimissioni dal 01.01.2017
 
 
 
-<a href="https://www.bfs.admin.ch/bfs/it/home/statistiken/gesundheit/nomenklaturen/medkk/instrumente-medizinische-kodierung.assetdetail.316828.html"
+<a href="https://www.bfs.admin.ch/bfs/it/home/statistiche/salute/nomenclature/medkk/strumenti-codifica-medica.assetdetail.316850.html"
    target="_blank"
    rel="noopener noreferrer"> Circolare per le codificatrici ed i codificatori : 2016 Nr. 1</a> Da utilizzare per i casi con dimissioni dal 01.07.2016
 
-<a href="https://www.bfs.admin.ch/bfs/it/home/statistiken/gesundheit/nomenklaturen/medkk/instrumente-medizinische-kodierung.assetdetail.969868.html"
+<a href="https://www.bfs.admin.ch/bfs/it/home/statistiche/salute/nomenclature/medkk/strumenti-codifica-medica.assetdetail.969878.html"
    target="_blank"
-   rel="noopener noreferrer"> Medizinische Kodierung und Klassifikationen: FAQ - Gültig für 2016</a> Da utilizzare per i casi con dimissioni dal 01.01.2016
+   rel="noopener noreferrer"> Classifications et codage médicaux: FAQ valables pour 2016</a> Da utilizzare per i casi con dimissioni dal 01.01.2016
 
 
 
-<a href="https://www.bfs.admin.ch/bfs/it/home/statistiken/gesundheit/nomenklaturen/medkk/instrumente-medizinische-kodierung.assetdetail.274083.html"
+<a href="https://www.bfs.admin.ch/bfs/it/home/statistiche/salute/nomenclature/medkk/strumenti-codifica-medica.assetdetail.313683.html"
    target="_blank"
    rel="noopener noreferrer"> Circolare per le codificatrici ed i codificatori : 2015 Nr. 1</a> Da utilizzare per i casi con dimissioni dal 01.07.2015
 
-<a href="https://www.bfs.admin.ch/bfs/it/home/statistiken/gesundheit/nomenklaturen/medkk/instrumente-medizinische-kodierung.assetdetail.970108.html"
+<a href="https://www.bfs.admin.ch/bfs/it/home/statistiche/salute/nomenclature/medkk/strumenti-codifica-medica.assetdetail.970146.html"
    target="_blank"
-   rel="noopener noreferrer"> Medizinische Kodierung und Klassifikationen: FAQ - Gültig für 2015</a> Da utilizzare per i casi con dimissioni dal 01.01.2015
+   rel="noopener noreferrer"> Classifications et codage médicaux: FAQ valables pour 2015</a> Da utilizzare per i casi con dimissioni dal 01.01.2015
 
 
 
-<a href="https://www.bfs.admin.ch/bfs/it/home/statistiken/gesundheit/nomenklaturen/medkk/instrumente-medizinische-kodierung.assetdetail.303267.html"
+<a href="https://www.bfs.admin.ch/bfs/it/home/statistiche/salute/nomenclature/medkk/strumenti-codifica-medica.assetdetail.303286.html"
    target="_blank"
    rel="noopener noreferrer"> Circolare per le codificatrici ed i codificatori : 2014 Nr. 1</a> Da utilizzare per i casi con dimissioni dal 01.07.2014
 
-<a href="https://www.bfs.admin.ch/bfs/it/home/statistiken/gesundheit/nomenklaturen/medkk/instrumente-medizinische-kodierung.assetdetail.970127.html"
+<a href="https://www.bfs.admin.ch/bfs/it/home/statistiche/salute/nomenclature/medkk/strumenti-codifica-medica.assetdetail.970137.html"
    target="_blank"
-   rel="noopener noreferrer"> Medizinische Kodierung und Klassifikationen: FAQ - Gültig für 2014</a> Da utilizzare per i casi con dimissioni dal 01.01.2014
+   rel="noopener noreferrer"> Classifications et codage médicaux: FAQ valables pour 2014</a> Da utilizzare per i casi con dimissioni dal 01.01.2014
 
 
 
-<a href="https://www.bfs.admin.ch/bfs/it/home/statistiken/gesundheit/nomenklaturen/medkk/instrumente-medizinische-kodierung.assetdetail.260144.html"
+<a href="https://www.bfs.admin.ch/bfs/it/home/statistiche/salute/nomenclature/medkk/strumenti-codifica-medica.assetdetail.302720.html"
    target="_blank"
    rel="noopener noreferrer"> Circolare per le codificatrici ed i codificatori : 2013 Nr. 2</a> Da utilizzare per i casi con dimissioni dal 01.07.2013
 
-<a href="https://www.bfs.admin.ch/bfs/it/home/statistiken/gesundheit/nomenklaturen/medkk/instrumente-medizinische-kodierung.assetdetail.301045.html"
+<a href="https://www.bfs.admin.ch/bfs/it/home/statistiche/salute/nomenclature/medkk/strumenti-codifica-medica.assetdetail.301064.html"
    target="_blank"
    rel="noopener noreferrer"> Circolare per le codificatrici ed i codificatori : 2013 Nr. 1</a> Da utilizzare per i casi con dimissioni dal 01.01.2013
 
-<a href="https://www.bfs.admin.ch/bfs/it/home/statistiken/gesundheit/nomenklaturen/medkk/instrumente-medizinische-kodierung.assetdetail.970155.html"
+<a href="https://www.bfs.admin.ch/bfs/it/home/statistiche/salute/nomenclature/medkk/strumenti-codifica-medica.assetdetail.970088.html"
    target="_blank"
-   rel="noopener noreferrer"> Medizinische Kodierung und Klassifikationen: FAQ - Gültig für 2013</a> Da utilizzare per i casi con dimissioni dal 01.01.2013
+   rel="noopener noreferrer"> Classifications et codage médicaux: FAQ valables pour 2013</a> Da utilizzare per i casi con dimissioni dal 01.01.2013
 
 
 
-<a href="https://www.bfs.admin.ch/bfs/it/home/statistiken/gesundheit/nomenklaturen/medkk/instrumente-medizinische-kodierung.assetdetail.290366.html"
+<a href="https://www.bfs.admin.ch/bfs/it/home/statistiche/salute/nomenclature/medkk/strumenti-codifica-medica.assetdetail.290385.html"
    target="_blank"
    rel="noopener noreferrer"> Circolare per le codificatrici ed i codificatori : 2012 Nr. 1</a> Da utilizzare per i casi con dimissioni dal 01.07.2012
 
-<a href="https://www.bfs.admin.ch/bfs/it/home/statistiken/gesundheit/nomenklaturen/medkk/instrumente-medizinische-kodierung.assetdetail.970098.html"
+<a href="https://www.bfs.admin.ch/bfs/it/home/statistiche/salute/nomenclature/medkk/strumenti-codifica-medica.assetdetail.970118.html"
    target="_blank"
-   rel="noopener noreferrer"> Medizinische Kodierung und Klassifikationen: FAQ - Gültig für 2012</a> Da utilizzare per i casi con dimissioni dal 01.01.2012
+   rel="noopener noreferrer"> Classifications et codage médicaux: FAQ valables pour 2012</a> Da utilizzare per i casi con dimissioni dal 01.01.2012
 
 
 
-<a href="https://www.bfs.admin.ch/bfs/it/home/statistiken/gesundheit/nomenklaturen/medkk/instrumente-medizinische-kodierung.assetdetail.289790.html"
+<a href="https://www.bfs.admin.ch/bfs/it/home/statistiche/salute/nomenclature/medkk/strumenti-codifica-medica.assetdetail.289781.html"
    target="_blank"
    rel="noopener noreferrer"> Circolare per le codificatrici ed i codificatori : 2011 Nr 10</a> Da utilizzare per i casi con dimissioni dal 01.07.2011
 
-<a href="https://www.bfs.admin.ch/bfs/it/home/statistiken/gesundheit/nomenklaturen/medkk/instrumente-medizinische-kodierung.assetdetail.289763.html"
+<a href="https://www.bfs.admin.ch/bfs/it/home/statistiche/salute/nomenclature/medkk/strumenti-codifica-medica.assetdetail.289772.html"
    target="_blank"
    rel="noopener noreferrer"> Circolare per le codificatrici ed i codificatori : 2011 Nr 9</a> Da utilizzare per i casi con dimissioni dal 01.01.2011
 
 
 
-<a href="https://www.bfs.admin.ch/bfs/it/home/statistiken/gesundheit/nomenklaturen/medkk/instrumente-medizinische-kodierung.assetdetail.234224.html"
+<a href="https://www.bfs.admin.ch/bfs/it/home/statistiche/salute/nomenclature/medkk/strumenti-codifica-medica.assetdetail.283956.html"
    target="_blank"
    rel="noopener noreferrer"> Circolare per le codificatrici ed i codificatori : 2010 Nr 8</a> Da utilizzare per i casi con dimissioni dal 01.07.2010
 
-<a href="https://www.bfs.admin.ch/bfs/it/home/statistiken/gesundheit/nomenklaturen/medkk/instrumente-medizinische-kodierung.assetdetail.236478.html"
+<a href="https://www.bfs.admin.ch/bfs/it/home/statistiche/salute/nomenclature/medkk/strumenti-codifica-medica.assetdetail.236478.html"
    target="_blank"
    rel="noopener noreferrer"> Circolare per le codificatrici ed i codificatori : 2010 Nr 7</a> Da utilizzare per i casi con dimissioni dal 01.01.2010
 

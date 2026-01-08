@@ -10,7 +10,7 @@ type: docs
 
 **Da applicare nei casi con data di uscita a partire dal 01.07.2022**
   
-<a href="https://www.bfs.admin.ch/bfs/it/home/statistiken/gesundheit/nomenklaturen/medkk/instrumente-medizinische-kodierung.assetdetail.22906965.html"
+<a href="https://www.bfs.admin.ch/bfs/it/home/statistiche/salute/nomenclature/medkk/strumenti-codifica-medica.assetdetail.22906964.html"
    target="_blank"
    rel="noopener noreferrer">
     Link alla circolare
