@@ -94,11 +94,11 @@ keywords: []
     <td class="tg-ktyi">Ch. deMaillefer 37<br>CH-1052 Le Mont-sur-Lausanne</td>
     <td class="tg-z182"><a href="mailto:cinzia.allocco@nicecomputing.ch">cinzia.allocco@nicecomputing.ch</a></td>
     <td class="tg-ktyi">079 723 04 17</td>
-    <td class="tg-ktyi">Francese<br>Italien</td>
+    <td class="tg-ktyi">Francese<br>Italiano</td>
     <td class="tg-ktyi">Confermato</td>
     <td class="tg-0lax">Sì</td>
     <td class="tg-0lax"> </td>
-    <td class="tg-ktyi">Svizzera romanda  // Ticino</td>
+    <td class="tg-ktyi">Svizzera romanda<br>Ticino</td>
     <td class="tg-ktyi">Confermato</td>
     <td class="tg-ktyi">15.09.2016</td>
   </tr>
@@ -151,7 +151,7 @@ keywords: []
     <td class="tg-ktyi">Galliweg 65C<br>4852 Rothrist</td>
     <td class="tg-v47d"><a href="mailto:daniela.ehbrecht@gmx.de">daniela.ehbrecht@gmx.de</a></td>
     <td class="tg-ktyi">078 675 68 09</td>
-    <td class="tg-ktyi">Tedesco/Francese</td>
+    <td class="tg-ktyi">Tedesco<br>Francese</td>
     <td class="tg-0lax">Confermato</td>
     <td class="tg-ktyi"></td>
     <td class="tg-ktyi">Sì</td>
@@ -263,7 +263,7 @@ keywords: []
     <td class="tg-ktyi">Chemin de Villardiez 18<br>1009 Pully privat</td>
     <td class="tg-z182"><a href="mailto:bettina.j.holzer@gmail.com">bettina.j.holzer@gmail.com</a><br><a href="mailto:bettina.holzer@chuv.ch">bettina.holzer@chuv.ch</a></td>
     <td class="tg-ktyi">079 277 42 30<br>079 556 74 24</td>
-    <td class="tg-ktyi">Französisch<br>Tedesco<br></td>
+    <td class="tg-ktyi">Francese<br>Tedesco<br></td>
     <td class="tg-ktyi">Confermato</td>
     <td class="tg-ktyi">Sì</td>
     <td class="tg-ktyi">Sì</td>
@@ -305,7 +305,7 @@ keywords: []
     <td class="tg-0lax">LN – Revision <br>Vorstadtstrasse 6<br>5722 Gränichen – AG</td>
     <td class="tg-z182"><a href="mailto:leonardo.narda@hotmail.com">leonardo.narda@hotmail.com</a><br><a href="mailto:mail@ln-revision.ch">mail@ln-revision.ch </a></td>
     <td class="tg-0lax">076 384 82 47</td>
-    <td class="tg-ktyi">Tedesco<br>Italiano <br>Französisch</td>
+    <td class="tg-ktyi">Tedesco<br>Italiano <br>Francese</td>
     <td class="tg-0lax">Confermato</td>
     <td class="tg-0lax">Sì</td>
     <td class="tg-0lax"> </td>
@@ -319,11 +319,11 @@ keywords: []
     <td class="tg-0lax">Bodenrebenweg19<br>3225 Müntschemier</td>
     <td class="tg-dcap"><a href="mailto:catherine.niederer@nicecomputing.ch">catherine.niederer@nicecomputing.ch</a></td>
     <td class="tg-0lax">079 359 55 46</td>
-    <td class="tg-ktyi">Französisch<br>Tedesco</td>
+    <td class="tg-ktyi">Francese<br>Tedesco</td>
     <td class="tg-0lax">Confermato</td>
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Sì</td>
-    <td class="tg-0lax">Svizzera tedescainkl. Biel/Bienne</td>
+    <td class="tg-0lax">Svizzera tedesca + Biel/Bienne</td>
     <td class="tg-ktyi">Confermato</td>
     <td class="tg-ktyi">05.11.2021</td>
   </tr>
@@ -334,7 +334,7 @@ keywords: []
     <td class="tg-z182"><a href="mailto:Cristina.Pangrazzi@icloud.com">Cristina.Pangrazzi@icloud.com</a></td>
     <td class="tg-0lax">044 984 50 32079 295 47 65</td>
     <td class="tg-0lax">Tedesco<br>Italiano</td>
-    <td class="tg-0lax">Confirmé// bestätigt</td>
+    <td class="tg-0lax">Confermato</td>
     <td class="tg-ktyi">Sì</td>
     <td class="tg-ktyi"> </td>
     <td class="tg-0lax">Tutta la Svizzera</td>

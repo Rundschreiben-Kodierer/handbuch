@@ -136,7 +136,7 @@ keywords: []
     <td class="tg-ktyi">Ch.de Maillefer 37<br>CH-1052 Le Mont-sur-Lausanne</td>
     <td class="tg-v47d"><a href="mailto:cinzia.allocco@nicecomputing.ch">cinzia.allocco@nicecomputing.ch</a></td>
     <td class="tg-ktyi">079 723 04 17</td>
-    <td class="tg-ktyi">Francese<br>Italien</td>
+    <td class="tg-ktyi">Francese<br>Italiano</td>
     <td class="tg-ktyi">Confermato</td>
     <td class="tg-ktyi">Svizzera romanda // Ticino</td>
     <td class="tg-ktyi">Confermato</td>
@@ -174,7 +174,7 @@ keywords: []
     <td class="tg-ktyi">043 843 92 94<br>079 461 60 82</td>
     <td class="tg-ktyi">Tedesco</td>
     <td class="tg-0lax">Confermato</td>
-    <td class="tg-ktyi">Svizzera tedesca <br>und Fribourg</td>
+    <td class="tg-ktyi">Svizzera tedesca <br>Cantone Friburgo</td>
     <td class="tg-ktyi">Confermato</td>
     <td class="tg-ktyi">15.12.2011</td>
   </tr>
@@ -244,7 +244,7 @@ keywords: []
     <td class="tg-ktyi">Condemine 20<br>2740 Moutier</td>
     <td class="tg-v47d"><a href="mailto:Laurence.carozza@hjbe.ch">Laurence.carozza@hjbe.ch</a></td>
     <td class="tg-ktyi">078 851 48 99</td>
-    <td class="tg-ktyi">Francese<br>Italien</td>
+    <td class="tg-ktyi">Francese<br>Italiano</td>
     <td class="tg-0lax">Confermato</td>
     <td class="tg-ktyi">Svizzera romanda // Ticino</td>
     <td class="tg-ktyi">Confermato</td>
@@ -292,9 +292,9 @@ keywords: []
     <td class="tg-ktyi">DRGSwiss<br>Bahnhofstr. 32<br>8803 Rüschlikon</td>
     <td class="tg-v47d"><a href="mailto:difalco@drgswiss.ch">difalco@drgswiss.ch</a><br><a href="mailto:difalco@hin.ch">difalco@hin.ch</a></td>
     <td class="tg-ktyi">076 709 57 01</td>
-    <td class="tg-ktyi">Tedesco<br>Francese<br>Italienisch</td>
+    <td class="tg-ktyi">Tedesco<br>Francese<br>Italiano</td>
     <td class="tg-ktyi">Confermato</td>
-    <td class="tg-ktyi">Ganze Schweiz</td>
+    <td class="tg-ktyi">Tutta la Svizzera</td>
     <td class="tg-ktyi">Confermato</td>
     <td class="tg-ktyi">21.02.2014</td>
   </tr>
@@ -306,7 +306,7 @@ keywords: []
     <td class="tg-ktyi">043 539 16 27</td>
     <td class="tg-ktyi">Tedesco<br>Francese</td>
     <td class="tg-0lax">Confermato</td>
-    <td class="tg-ktyi">Ganze Schweiz</td>
+    <td class="tg-ktyi">Tutta la Svizzera</td>
     <td class="tg-ktyi">Confermato</td>
     <td class="tg-ktyi">12.10.2016</td>
   </tr>
@@ -354,7 +354,7 @@ keywords: []
     <td class="tg-ktyi">078 675 68 09</td>
     <td class="tg-ktyi">Tedesco</td>
     <td class="tg-0lax">Confermato</td>
-    <td class="tg-ktyi">Ganze Schweiz</td>
+    <td class="tg-ktyi">Tutta la Svizzera</td>
     <td class="tg-ktyi">Confermato</td>
     <td class="tg-ktyi">11.11.2025</td>
   </tr>
@@ -366,7 +366,7 @@ keywords: []
     <td class="tg-ktyi">079 750 80 54</td>
     <td class="tg-ktyi">Tedesco</td>
     <td class="tg-0lax">Confermato</td>
-    <td class="tg-ktyi">Kanton Schwyz</td>
+    <td class="tg-ktyi">Cantone Svitto</td>
     <td class="tg-ktyi">Confermato</td>
     <td class="tg-ktyi">17.12.2013</td>
   </tr>
@@ -412,7 +412,7 @@ keywords: []
     <td class="tg-ktyi">Grütstrasse 4<br>8957 Spreitenbach</td>
     <td class="tg-v47d"><a href="mailto:cfoiera@gmail.com">cfoiera@gmail.com</a></td>
     <td class="tg-ktyi">079 390 85 65</td>
-    <td class="tg-ktyi">Tedesco<br>Italienisch</td>
+    <td class="tg-ktyi">Tedesco<br>Italiano</td>
     <td class="tg-0lax">Confermato</td>
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Confermato</td>
@@ -426,7 +426,7 @@ keywords: []
     <td class="tg-ktyi">079 353 46 39</td>
     <td class="tg-ktyi">Tedesco</td>
     <td class="tg-0lax">Confermato</td>
-    <td class="tg-ktyi">Ganze Schweiz</td>
+    <td class="tg-ktyi">Tutta la Svizzera</td>
     <td class="tg-ktyi">Confermato</td>
     <td class="tg-ktyi">15.12.2011</td>
   </tr>
@@ -438,7 +438,7 @@ keywords: []
     <td class="tg-0lax">079 581 91 88</td>
     <td class="tg-ktyi">Tedesco</td>
     <td class="tg-0lax">Confermato</td>
-    <td class="tg-ktyi">Ganze Schweiz</td>
+    <td class="tg-ktyi">Tutta la Svizzera</td>
     <td class="tg-ktyi">Confermato</td>
     <td class="tg-ktyi">05.01.2015</td>
   </tr>
@@ -462,7 +462,7 @@ keywords: []
     <td class="tg-ktyi">079 439 75 60</td>
     <td class="tg-ktyi">Tedesco<br>Francese </td>
     <td class="tg-0lax">Confermato</td>
-    <td class="tg-ktyi">Ganze Schweiz</td>
+    <td class="tg-ktyi">Tutta la Svizzera</td>
     <td class="tg-ktyi">Confermato</td>
     <td class="tg-ktyi">11.05.2015</td>
   </tr>
@@ -474,7 +474,7 @@ keywords: []
     <td class="tg-ktyi">077 473 01 81</td>
     <td class="tg-ktyi">Francese</td>
     <td class="tg-0lax">Confermato</td>
-    <td class="tg-ktyi">Valais, Vaud,Fribourg</td>
+    <td class="tg-ktyi">Cantone Vallese<br>Cantone Vaud<br>Cantone Friburgo</td>
     <td class="tg-ktyi">Confermato</td>
     <td class="tg-ktyi">27.03.2023</td>
   </tr>
@@ -510,7 +510,7 @@ keywords: []
     <td class="tg-ktyi">032 627 32 86</td>
     <td class="tg-0lax">Tedesco</td>
     <td class="tg-0lax">Confermato</td>
-    <td class="tg-0lax">Kanton Solothurn </td>
+    <td class="tg-0lax">Cantone Soletta</td>
     <td class="tg-0lax">Confermato</td>
     <td class="tg-ktyi">09.10.2024</td>
   </tr>
@@ -534,7 +534,7 @@ keywords: []
     <td class="tg-0lax">0049 762 15 57 33</td>
     <td class="tg-0lax">Tedesco</td>
     <td class="tg-0lax">Confermato</td>
-    <td class="tg-0lax">Ganze Schweiz</td>
+    <td class="tg-0lax">Tutta la Svizzera</td>
     <td class="tg-0lax">Confermato</td>
     <td class="tg-0lax">10.05.2019</td>
   </tr>
@@ -618,7 +618,7 @@ keywords: []
     <td class="tg-0lax">079 277 42 30<br>079 556 74 24</td>
     <td class="tg-0lax">Französisch<br>Tedesco<br></td>
     <td class="tg-ktyi">Confermato</td>
-    <td class="tg-ktyi">Westschweiz</td>
+    <td class="tg-ktyi">Svizzera tedesca</td>
     <td class="tg-ktyi">Confermato</td>
     <td class="tg-ktyi">24.02.2022</td>
   </tr>
@@ -702,7 +702,7 @@ keywords: []
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Tedesco</td>
     <td class="tg-0lax">Confermato</td>
-    <td class="tg-ktyi">Ganze Schweiz</td>
+    <td class="tg-ktyi">Tutta la Svizzera</td>
     <td class="tg-ktyi">Confermato</td>
     <td class="tg-ktyi">05.12.2012</td>
   </tr>
@@ -760,9 +760,9 @@ keywords: []
     <td class="tg-ktyi">Eigerweg 26<br>4912 Aarwangen</td>
     <td class="tg-v47d"><a href="mailto:daniela88@hotmail.ch">daniela88@hotmail.ch</a></td>
     <td class="tg-0lax">079 688 79 48</td>
-    <td class="tg-ktyi">Tedesco<br>Italienisch</td>
+    <td class="tg-ktyi">Tedesco<br>Italiano</td>
     <td class="tg-0lax">Confermato</td>
-    <td class="tg-ktyi">Ganze Schweiz</td>
+    <td class="tg-ktyi">Tutta la Svizzera</td>
     <td class="tg-ktyi">Confermato</td>
     <td class="tg-ktyi">15.12.2015</td>
   </tr>
@@ -906,7 +906,7 @@ keywords: []
     <td class="tg-0lax">078 841 11 08</td>
     <td class="tg-0lax">Tedesco</td>
     <td class="tg-0lax">Confermato</td>
-    <td class="tg-0lax">Zentral-Innerschweiz</td>
+    <td class="tg-0lax">Svizera centrale</td>
     <td class="tg-ktyi">Confermato</td>
     <td class="tg-0lax">09.10.2024</td>
   </tr>
@@ -954,7 +954,7 @@ keywords: []
     <td class="tg-ktyi">076 702 07 00</td>
     <td class="tg-ktyi">Tedesco</td>
     <td class="tg-0lax">Confermato</td>
-    <td class="tg-ktyi">Ganze Schweiz</td>
+    <td class="tg-ktyi">Tutta la Svizzera</td>
     <td class="tg-ktyi">Confermato</td>
     <td class="tg-ktyi">09.07.2020</td>
   </tr>
@@ -976,9 +976,9 @@ keywords: []
     <td class="tg-ktyi">LN –Revision<br>Vorstadtstrasse 6 <br>5722 Gränichen – AG</td>
     <td class="tg-v47d"><a href="mailto:leonardo.narda@hotmail.com">leonardo.narda@hotmail.com</a><br><a href="mailto:mail@ln-revision.ch">mail@ln-revision.ch</a></td>
     <td class="tg-ktyi">076 384 82 47</td>
-    <td class="tg-ktyi">Tedesco<br>Italienisch<br>Französisch</td>
+    <td class="tg-ktyi">Tedesco<br>Italiano<br>Französisch</td>
     <td class="tg-0lax">Confermato</td>
-    <td class="tg-ktyi">Ganze Schweiz</td>
+    <td class="tg-ktyi">Tutta la Svizzera</td>
     <td class="tg-ktyi">Confermato</td>
     <td class="tg-ktyi">27.06.2012</td>
   </tr>
@@ -990,7 +990,7 @@ keywords: []
     <td class="tg-ktyi">079 359 55 46</td>
     <td class="tg-ktyi">Französisch<br>Tedesco</td>
     <td class="tg-0lax">Confermato</td>
-    <td class="tg-ktyi">Tedescoschwei zinkl. Biel/Bienne</td>
+    <td class="tg-ktyi">Tedescoschweiz + Biel/Bienne</td>
     <td class="tg-0lax">Confermato</td>
     <td class="tg-ktyi">05.11.2021</td>
   </tr>
@@ -1012,7 +1012,7 @@ keywords: []
     <td class="tg-ktyi">Zelgmatt 65<br>8132 Egg</td>
     <td class="tg-v47d"><a href="mailto:cristina.pangrazzi@icloud.com">cristina.pangrazzi@icloud.com</a></td>
     <td class="tg-ktyi">044 984 50 32<br>079 295 47 65</td>
-    <td class="tg-ktyi">Tedesco<br>Italienisch</td>
+    <td class="tg-ktyi">Tedesco<br>Italiano</td>
     <td class="tg-ktyi">Confermato</td>
     <td class="tg-ktyi">GanzeSchweiz</td>
     <td class="tg-ktyi">Confermato</td>
@@ -1156,7 +1156,7 @@ keywords: []
     <td class="tg-ktyi">bsoKodierungen gmbh<br>Stallbergstrasse 16<br>4562 Biberist</td>
     <td class="tg-v47d"><a href="mailto:santacatterina@kodierungen.ch">santacatterina@kodierungen.ch</a></td>
     <td class="tg-ktyi">079 693 49 35</td>
-    <td class="tg-ktyi">Tedesco<br>Italienisch</td>
+    <td class="tg-ktyi">Tedesco<br>Italiano</td>
     <td class="tg-ktyi">Confermato</td>
     <td class="tg-ktyi">Svizzera tedesca <br>Ticino</td>
     <td class="tg-ktyi">Confermato</td>
@@ -1170,7 +1170,7 @@ keywords: []
     <td class="tg-ktyi">079 676 67 09</td>
     <td class="tg-ktyi">Tedesco</td>
     <td class="tg-0lax">Confermato</td>
-    <td class="tg-ktyi">Ganze Schweiz</td>
+    <td class="tg-ktyi">Tutta la Svizzera</td>
     <td class="tg-ktyi">Confermato</td>
     <td class="tg-ktyi">25.02.2012</td>
   </tr>
@@ -1242,7 +1242,7 @@ keywords: []
     <td class="tg-0lax">079 419 28 15</td>
     <td class="tg-0lax">Tedesco </td>
     <td class="tg-0lax">Confermato</td>
-    <td class="tg-0lax">Ganze Schweiz</td>
+    <td class="tg-0lax">Tutta la Svizzera</td>
     <td class="tg-0lax">Confermato</td>
     <td class="tg-0lax">20.11.2019</td>
   </tr>
@@ -1302,7 +1302,7 @@ keywords: []
     <td class="tg-0lax">043 259 21 96</td>
     <td class="tg-0lax">Tedesco </td>
     <td class="tg-0lax">Confermato</td>
-    <td class="tg-0lax">Ganze Schweiz</td>
+    <td class="tg-0lax">Tutta la Svizzera</td>
     <td class="tg-0lax">Confermato</td>
     <td class="tg-0lax">20.11.2019</td>
   </tr>

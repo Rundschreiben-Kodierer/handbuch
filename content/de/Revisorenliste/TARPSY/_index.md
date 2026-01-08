@@ -424,7 +424,7 @@ keywords: []
     <td class="tg-ktyi">Bestätigt</td>
     <td class="tg-ktyi">07.01.2019</td>
   </tr>
-  <tr>
+    <tr>
     <td class="tg-0lax">Popp</td>
     <td class="tg-ktyi">Sandra</td>
     <td class="tg-ktyi">DRGplus<br>Kranichweg 30<br>3074 Muri bei Bern</td>
@@ -434,7 +434,7 @@ keywords: []
     <td class="tg-0lax">Bestätigt</td>
     <td class="tg-0lax">Ja</td>
     <td class="tg-0lax"> </td>
-    <td class="tg-dgl5">Deutschschweiz</td>
+    <td class="tg-0lax">Deutschschweiz</td>
     <td class="tg-ktyi">Bestätigt</td>
     <td class="tg-ktyi">22.07.2025</td>
   </tr>

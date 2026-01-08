@@ -123,7 +123,7 @@ keywords: []
     <td class="tg-ktyi">Rue du Village 6<br>1081 Montpreveyres</td>
     <td class="tg-v47d"><a href="mailto:johanne.chevalier@chuv.ch">johanne.chevalier@chuv.ch</a></td>
     <td class="tg-ktyi">076 320 68 51</td>
-    <td class="tg-ktyi">Français</td>
+    <td class="tg-ktyi">Francese</td>
     <td class="tg-0lax">Confermato</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax">Sì</td>
@@ -137,11 +137,11 @@ keywords: []
     <td class="tg-ktyi">DRG Swiss<br>Bahnhofstr. 32<br>8803 Rüschlikon<br></td>
     <td class="tg-z182"><a href="mailto:difalco@drgswiss.ch">difalco@drgswiss.ch</a><br><a href="mailto:difalco@hin.ch">difalco@hin.ch</a></td>
     <td class="tg-ktyi">076 709 57 01</td>
-    <td class="tg-ktyi">Tedesco<br>Français<br>Italienisch</td>
+    <td class="tg-ktyi">Tedesco<br>Francese<br>Italiano</td>
     <td class="tg-ktyi">Confermato</td>
     <td class="tg-ktyi">Sì</td>
     <td class="tg-ktyi">Sì</td>
-    <td class="tg-ktyi">Ganze Schweiz</td>
+    <td class="tg-ktyi">Tutta la Svizzera</td>
     <td class="tg-ktyi">Confermato</td>
     <td class="tg-ktyi">25.02.2019</td>
   <tr>
@@ -150,7 +150,7 @@ keywords: []
     <td class="tg-ktyi">18, clos duchardon bleu <br>FR-74700 Sallanches</td>
     <td class="tg-z182"><a href="mailto:olivier.flenghi@nicecomputing.ch">olivier.flenghi@nicecomputing.ch</a></td>
     <td class="tg-ktyi">079 516 3495<br>0033 6 32 03 05 93</td>
-    <td class="tg-ktyi">Français</td>
+    <td class="tg-ktyi">Francese</td>
     <td class="tg-0lax">Confermato</td>
     <td class="tg-0lax">Sì</td>
     <td class="tg-0lax">Sì</td>
@@ -168,7 +168,7 @@ keywords: []
     <td class="tg-0lax">Confermato</td>
     <td class="tg-0lax">Sì</td>
     <td class="tg-0lax"> </td>
-    <td class="tg-ktyi">Ganze Schweiz</td>
+    <td class="tg-ktyi">Tutta la Svizzera</td>
     <td class="tg-ktyi">Confermato</td>
     <td class="tg-ktyi">07.01.2019</td>
   </tr>
@@ -182,7 +182,7 @@ keywords: []
     <td class="tg-0lax">Confermato</td>
     <td class="tg-0lax">Sì</td>
     <td class="tg-0lax"> </td>
-    <td class="tg-ktyi">Ganze Schweiz</td>
+    <td class="tg-ktyi">Tutta la Svizzera</td>
     <td class="tg-ktyi">Confermato</td>
     <td class="tg-ktyi">07.01.2019</td>
   </tr>
@@ -192,11 +192,11 @@ keywords: []
     <td class="tg-ktyi">Talstrasse 57<br>8852 Altendorf</td>
     <td class="tg-z182"><a href="mailto:miriamburkhardt@gmail.com">miriamburkhardt@gmail.com</a></td>
     <td class="tg-ktyi">079 439 75 60</td>
-    <td class="tg-ktyi">Tedesco                         Français</td>
+    <td class="tg-ktyi">Tedesco                         Francese</td>
     <td class="tg-0lax">Confermato</td>
     <td class="tg-0lax">Sì</td>
     <td class="tg-0lax"> </td>
-    <td class="tg-ktyi">Ganze Schweiz</td>
+    <td class="tg-ktyi">Tutta la Svizzera</td>
     <td class="tg-ktyi">Confermato</td>
     <td class="tg-ktyi">05.06.2019</td>
   </tr>
@@ -206,7 +206,7 @@ keywords: []
     <td class="tg-ktyi">Ch.du Collège 3a<br>1040 Echallens</td>
     <td class="tg-z182"><a href="mailto:therese.gillieron@nicecomputing.ch">therese.gillieron@nicecomputing.ch</a></td>
     <td class="tg-ktyi">079 725 06 41</td>
-    <td class="tg-ktyi">Français</td>
+    <td class="tg-ktyi">Francese</td>
     <td class="tg-0lax">Confermato</td>
     <td class="tg-0lax">Sì</td>
     <td class="tg-0lax"> </td>
@@ -224,7 +224,7 @@ keywords: []
     <td class="tg-0lax">Confermato</td>
     <td class="tg-0lax"> </td>
     <td class="tg-0lax">Sì</td>
-    <td class="tg-0lax">Kanton Solothurn</td>
+    <td class="tg-0lax">Cantone Soletta</td>
     <td class="tg-0lax">Confermato</td>
     <td class="tg-ktyi">09.10.2024</td>
   </tr>
@@ -290,7 +290,7 @@ keywords: []
     <td class="tg-ktyi">Rue de la Fontaine 4<br>1094 Paudex</td>
     <td class="tg-z182"><a href="mailto:irene.idalan@nicecomputing.ch">irene.idalan@nicecomputing.ch</a></td>
     <td class="tg-ktyi">021 791 60 86</td>
-    <td class="tg-ktyi">Tedesco <br>Français</td>
+    <td class="tg-ktyi">Tedesco <br>Francese</td>
     <td class="tg-0lax">Confermato</td>
     <td class="tg-0lax">Sì</td>
     <td class="tg-0lax"> </td>
@@ -360,11 +360,11 @@ keywords: []
     <td class="tg-ktyi">LN – Revision <br>Vorstadtstrasse 6<br>5722 Gränichen – AG </td>
     <td class="tg-z182"><a href="mailto:leonardo.narda@hotmail.com">leonardo.narda@hotmail.com</a><br><a href="mailto:mail@ln-revision.ch">mail@ln-revision.ch </a></td>
     <td class="tg-ktyi">076 384 82 47</td>
-    <td class="tg-ktyi">Tedesco<br>Italienisch <br>Französisch</td>
+    <td class="tg-ktyi">Tedesco<br>Italiano <br>Französisch</td>
     <td class="tg-0lax">Confermato</td>
     <td class="tg-0lax">Sì</td>
     <td class="tg-0lax"> <br></td>
-    <td class="tg-ktyi">Ganze Schweiz</td>
+    <td class="tg-ktyi">Tutta la Svizzera</td>
     <td class="tg-0lax">Confermato</td>
     <td class="tg-0lax">06.11.2020</td>
   </tr>
@@ -378,7 +378,7 @@ keywords: []
     <td class="tg-0lax">Confermato</td>
     <td class="tg-0lax">Sì</td>
     <td class="tg-0lax"> </td>
-    <td class="tg-ktyi">Svizzera tedesca inkl. Biel/Bienne</td>
+    <td class="tg-ktyi">Svizzera tedesca + Biel/Bienne</td>
     <td class="tg-0lax">Confermato</td>
     <td class="tg-0lax">05.11.2021</td>
   </tr>
@@ -388,11 +388,11 @@ keywords: []
     <td class="tg-0lax">Zelgmatt 65<br>8132 Egg </td>
     <td class="tg-z182"><a href="mailto:Cristina.Pangrazzi@icloud.com">Cristina.Pangrazzi@icloud.com</a></td>
     <td class="tg-0lax">044 984 50 32<br>079 295 47 65</td>
-    <td class="tg-0lax">Tedesco<br>Italienisch</td>
-    <td class="tg-0lax">Confirmé// bestätigt</td>
+    <td class="tg-0lax">Tedesco<br>Italiano</td>
+    <td class="tg-0lax">Confermato</td>
     <td class="tg-0lax">Sì</td>
     <td class="tg-0lax"> </td>
-    <td class="tg-0lax">Ganze Schweiz</td>
+    <td class="tg-0lax">Tutta la Svizzera</td>
     <td class="tg-0lax">Confermato</td>
     <td class="tg-ktyi">07.01.2019</td>
   </tr>
@@ -403,7 +403,7 @@ keywords: []
     <td class="tg-z182"><a href="mailto:marion.paustian@pdgr.ch">marion.paustian@pdgr.ch</a></td>
     <td class="tg-0lax">079 712 90 14</td>
     <td class="tg-0lax">Tedesco</td>
-    <td class="tg-0lax">Confirmé// bestätigt</td>
+    <td class="tg-0lax">Confermato</td>
     <td class="tg-0lax">Sì</td>
     <td class="tg-0lax"> </td>
     <td class="tg-ktyi">Svizzera tedesca </td>
@@ -434,7 +434,7 @@ keywords: []
     <td class="tg-0lax">Confermato</td>
     <td class="tg-0lax">Sì</td>
     <td class="tg-0lax"> </td>
-    <td class="tg-dgl5">Svizzera tedesca</td>
+    <td class="tg-0lax">Svizzera tedesca</td>
     <td class="tg-ktyi">Confermato</td>
     <td class="tg-ktyi">22.07.2025</td>
   </tr>
@@ -486,7 +486,7 @@ keywords: []
     <td class="tg-ktyi">bsoKodierungen gmbh<br>Stallbergstrasse 16<br>4562 Biberist</td>
     <td class="tg-z182"><a href="mailto:santacatterina@kodierungen.ch">santacatterina@kodierungen.ch</a></td>
     <td class="tg-ktyi">079 693 49 35</td>
-    <td class="tg-ktyi">Tedesco<br>Italienisch</td>
+    <td class="tg-ktyi">Tedesco<br>Italiano</td>
     <td class="tg-ktyi">Confermato</td>
     <td class="tg-ktyi">Sì</td>
     <td class="tg-ktyi"> </td>
