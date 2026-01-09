@@ -192,7 +192,7 @@ keywords: []
     <td class="tg-ktyi">Talstrasse 57<br>8852 Altendorf</td>
     <td class="tg-z182"><a href="mailto:miriamburkhardt@gmail.com">miriamburkhardt@gmail.com</a></td>
     <td class="tg-ktyi">079 439 75 60</td>
-    <td class="tg-ktyi">Deutsch                         Französisch</td>
+    <td class="tg-ktyi">Deutsch<br>Französisch</td>
     <td class="tg-0lax">Bestätigt</td>
     <td class="tg-0lax">Ja</td>
     <td class="tg-0lax"> </td>

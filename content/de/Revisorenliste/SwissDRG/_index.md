@@ -138,7 +138,7 @@ keywords: []
     <td class="tg-ktyi">079 723 04 17</td>
     <td class="tg-ktyi">Französisch<br>Italienisch</td>
     <td class="tg-ktyi">bestätigt</td>
-    <td class="tg-ktyi">Romandie // Tessin</td>
+    <td class="tg-ktyi">Romandie<br>Tessin</td>
     <td class="tg-ktyi">bestätigt</td>
     <td class="tg-ktyi">18.04.2016</td>
   </tr>
@@ -174,7 +174,7 @@ keywords: []
     <td class="tg-ktyi">043 843 92 94<br>079 461 60 82</td>
     <td class="tg-ktyi">Deutsch</td>
     <td class="tg-0lax">bestätigt</td>
-    <td class="tg-ktyi">Deutschschweiz<br>und Fribourg</td>
+    <td class="tg-ktyi">Deutschschweiz<br>Kanton Freiburg</td>
     <td class="tg-ktyi">bestätigt</td>
     <td class="tg-ktyi">15.12.2011</td>
   </tr>
@@ -246,7 +246,7 @@ keywords: []
     <td class="tg-ktyi">078 851 48 99</td>
     <td class="tg-ktyi">Französisch<br>Italienisch</td>
     <td class="tg-0lax">bestätigt</td>
-    <td class="tg-ktyi">Romandie // Tessin</td>
+    <td class="tg-ktyi">Romandie<br>Tessin</td>
     <td class="tg-ktyi">bestätigt</td>
     <td class="tg-ktyi">26.11.2018</td>
   </tr>
@@ -474,7 +474,7 @@ keywords: []
     <td class="tg-ktyi">077 473 01 81</td>
     <td class="tg-ktyi">Französisch</td>
     <td class="tg-0lax">bestätigt</td>
-    <td class="tg-ktyi">Wallis, Waadt, Freiburg</td>
+    <td class="tg-ktyi">Kanton Wallis<br>Kanton Waadt<br>Kanton Freiburg</td>
     <td class="tg-ktyi">bestätigt</td>
     <td class="tg-ktyi">27.03.2023</td>
   </tr>
@@ -522,7 +522,7 @@ keywords: []
     <td class="tg-ktyi">078 633 74 88</td>
     <td class="tg-ktyi">Deutsch<br>Französisch</td>
     <td class="tg-0lax">bestätigt</td>
-    <td class="tg-ktyi">Deutschschweiz // Romandie</td>
+    <td class="tg-ktyi">Deutschschweiz<br>Romandie</td>
     <td class="tg-0lax">bestätigt</td>
     <td class="tg-0lax">22.10.2024</td>
   </tr>
@@ -882,7 +882,7 @@ keywords: []
     <td class="tg-ktyi">078 737 27 18</td>
     <td class="tg-ktyi">Französisch<br>Italienisch</td>
     <td class="tg-0lax">bestätigt</td>
-    <td class="tg-ktyi">Toutela Romandie<br>Tessin</td>
+    <td class="tg-ktyi">Romandie<br>Tessin</td>
     <td class="tg-ktyi">bestätigt</td>
     <td class="tg-ktyi">23.11.2015</td>
   </tr>
@@ -906,7 +906,7 @@ keywords: []
     <td class="tg-0lax">078 841 11 08</td>
     <td class="tg-0lax">Deutsch</td>
     <td class="tg-0lax">bestätigt</td>
-    <td class="tg-0lax">Zentral-Innerschweiz</td>
+    <td class="tg-0lax">Zentralschweiz<br>Innerschweiz</td>
     <td class="tg-ktyi">bestätigt</td>
     <td class="tg-0lax">09.10.2024</td>
   </tr>
@@ -990,7 +990,7 @@ keywords: []
     <td class="tg-ktyi">079 359 55 46</td>
     <td class="tg-ktyi">Französisch<br>Deutsch</td>
     <td class="tg-0lax">bestätigt</td>
-    <td class="tg-ktyi">Deutschschwei zinkl. Biel/Bienne</td>
+    <td class="tg-ktyi">Deutschschweiz<br>Biel/Bienne</td>
     <td class="tg-0lax">bestätigt</td>
     <td class="tg-ktyi">05.11.2021</td>
   </tr>
@@ -1014,7 +1014,7 @@ keywords: []
     <td class="tg-ktyi">044 984 50 32<br>079 295 47 65</td>
     <td class="tg-ktyi">Deutsch<br>Italienisch</td>
     <td class="tg-ktyi">bestätigt</td>
-    <td class="tg-ktyi">GanzeSchweiz</td>
+    <td class="tg-ktyi">Ganze Schweiz</td>
     <td class="tg-ktyi">bestätigt</td>
     <td class="tg-ktyi">15.12.2011</td>
   </tr>

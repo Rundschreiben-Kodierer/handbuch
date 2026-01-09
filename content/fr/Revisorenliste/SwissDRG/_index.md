@@ -138,7 +138,7 @@ keywords: []
     <td class="tg-ktyi">079 723 04 17</td>
     <td class="tg-ktyi">Français<br>Italien</td>
     <td class="tg-ktyi">Confirmé</td>
-    <td class="tg-ktyi">Suisse romande Tessin</td>
+    <td class="tg-ktyi">Suisse romande<br>Tessin</td>
     <td class="tg-ktyi">Confirmé</td>
     <td class="tg-ktyi">18.04.2016</td>
   </tr>
@@ -412,7 +412,7 @@ keywords: []
     <td class="tg-ktyi">Grütstrasse 4<br>8957 Spreitenbach</td>
     <td class="tg-v47d"><a href="mailto:cfoiera@gmail.com">cfoiera@gmail.com</a></td>
     <td class="tg-ktyi">079 390 85 65</td>
-    <td class="tg-ktyi">Allemand<br>Italienisch</td>
+    <td class="tg-ktyi">Allemand<br>Italien</td>
     <td class="tg-0lax">Confirmé</td>
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Confirmé</td>
@@ -618,7 +618,7 @@ keywords: []
     <td class="tg-0lax">079 277 42 30<br>079 556 74 24</td>
     <td class="tg-0lax">Français<br>Allemand<br></td>
     <td class="tg-ktyi">Confirmé</td>
-    <td class="tg-ktyi">Suisse romande</td>
+    <td class="tg-ktyi">Suisse alémanique<br>Suisse romande</td>
     <td class="tg-ktyi">Confirmé</td>
     <td class="tg-ktyi">24.02.2022</td>
   </tr>
@@ -655,7 +655,7 @@ keywords: []
     <td class="tg-ktyi">Allemand</td>
     <td class="tg-0lax">Confirmé</td>
     <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Confirme </td>
+    <td class="tg-ktyi">Confirmé</td>
     <td class="tg-ktyi">01.12.2015</td>
   </tr>
   <tr>
@@ -882,7 +882,7 @@ keywords: []
     <td class="tg-ktyi">078 737 27 18</td>
     <td class="tg-ktyi">Français<br>Italien</td>
     <td class="tg-0lax">Confirmé</td>
-    <td class="tg-ktyi">Toutela Romandie<br>Tessin</td>
+    <td class="tg-ktyi">Suisse romande<br>Tessin</td>
     <td class="tg-ktyi">Confirmé</td>
     <td class="tg-ktyi">23.11.2015</td>
   </tr>

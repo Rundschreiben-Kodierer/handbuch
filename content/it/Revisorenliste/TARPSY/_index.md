@@ -192,7 +192,7 @@ keywords: []
     <td class="tg-ktyi">Talstrasse 57<br>8852 Altendorf</td>
     <td class="tg-z182"><a href="mailto:miriamburkhardt@gmail.com">miriamburkhardt@gmail.com</a></td>
     <td class="tg-ktyi">079 439 75 60</td>
-    <td class="tg-ktyi">Tedesco                         Francese</td>
+    <td class="tg-ktyi">Tedesco<br>Francese</td>
     <td class="tg-0lax">Confermato</td>
     <td class="tg-0lax">Sì</td>
     <td class="tg-0lax"> </td>
@@ -360,7 +360,7 @@ keywords: []
     <td class="tg-ktyi">LN – Revision <br>Vorstadtstrasse 6<br>5722 Gränichen – AG </td>
     <td class="tg-z182"><a href="mailto:leonardo.narda@hotmail.com">leonardo.narda@hotmail.com</a><br><a href="mailto:mail@ln-revision.ch">mail@ln-revision.ch </a></td>
     <td class="tg-ktyi">076 384 82 47</td>
-    <td class="tg-ktyi">Tedesco<br>Italiano <br>Französisch</td>
+    <td class="tg-ktyi">Tedesco<br>Italiano <br>Francese</td>
     <td class="tg-0lax">Confermato</td>
     <td class="tg-0lax">Sì</td>
     <td class="tg-0lax"> <br></td>
@@ -374,11 +374,11 @@ keywords: []
     <td class="tg-ktyi">Bodenrebenweg 19<br>3225 Müntschemier</td>
     <td class="tg-dcap"><a href="mailto:catherine.niederer@nicecomputing.ch">catherine.niederer@nicecomputing.ch</a></td>
     <td class="tg-ktyi">079 359 55 46</td>
-    <td class="tg-ktyi">Französisch<br>Tedesco</td>
+    <td class="tg-ktyi">Francese<br>Tedesco</td>
     <td class="tg-0lax">Confermato</td>
     <td class="tg-0lax">Sì</td>
     <td class="tg-0lax"> </td>
-    <td class="tg-ktyi">Svizzera tedesca + Biel/Bienne</td>
+    <td class="tg-ktyi">Svizzera tedesca<br>Biel/Bienne</td>
     <td class="tg-0lax">Confermato</td>
     <td class="tg-0lax">05.11.2021</td>
   </tr>
@@ -490,7 +490,7 @@ keywords: []
     <td class="tg-ktyi">Confermato</td>
     <td class="tg-ktyi">Sì</td>
     <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Svizzera tedesca <br>Tessin</td>
+    <td class="tg-ktyi">Svizzera tedesca <br>Ticino</td>
     <td class="tg-ktyi">Confermato</td>
     <td class="tg-ktyi">07.01.2019</td>
   </tr>
@@ -588,7 +588,7 @@ keywords: []
     <td class="tg-0lax">Confermato</td>
     <td class="tg-0lax">Sì</td>
     <td class="tg-0lax"> </td>
-    <td class="tg-0lax">Kanton Zürich</td>
+    <td class="tg-0lax">Cantone Zurigo</td>
     <td class="tg-0lax">Confermato</td>
     <td class="tg-0lax">10.05.2021</td>
   </tr>

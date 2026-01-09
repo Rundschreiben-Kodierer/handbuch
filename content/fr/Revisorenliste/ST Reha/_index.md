@@ -151,7 +151,7 @@ keywords: []
     <td class="tg-ktyi">Galliweg 65C<br>4852 Rothrist</td>
     <td class="tg-v47d"><a href="mailto:daniela.ehbrecht@gmx.de">daniela.ehbrecht@gmx.de</a></td>
     <td class="tg-ktyi">078 675 68 09</td>
-    <td class="tg-ktyi">Allemand/Français</td>
+    <td class="tg-ktyi">Allemand<br>Français</td>
     <td class="tg-0lax">Confirmé</td>
     <td class="tg-ktyi"></td>
     <td class="tg-ktyi">Oui</td>
@@ -449,7 +449,7 @@ keywords: []
     <td class="tg-0lax">Confirmé</td>
     <td class="tg-0lax">Oui</td>
     <td class="tg-0lax"> </td>
-    <td class="tg-0lax">Canton de Zürich</td>
+    <td class="tg-0lax">Canton de Zurich</td>
     <td class="tg-ktyi">Confirmé</td>
     <td class="tg-0lax">11.04.2022</td>
   </tr>

@@ -137,7 +137,7 @@ keywords: []
     <td class="tg-ktyi">DRG Swiss<br>Bahnhofstr. 32<br>8803 Rüschlikon<br></td>
     <td class="tg-z182"><a href="mailto:difalco@drgswiss.ch">difalco@drgswiss.ch</a><br><a href="mailto:difalco@hin.ch">difalco@hin.ch</a></td>
     <td class="tg-ktyi">076 709 57 01</td>
-    <td class="tg-ktyi">Allemand<br>Français<br>italien</td>
+    <td class="tg-ktyi">Allemand<br>Français<br>Italien</td>
     <td class="tg-ktyi">Confirmé</td>
     <td class="tg-ktyi">Oui</td>
     <td class="tg-ktyi">Oui</td>
@@ -360,7 +360,7 @@ keywords: []
     <td class="tg-ktyi">LN – Revision <br>Vorstadtstrasse 6<br>5722 Gränichen – AG </td>
     <td class="tg-z182"><a href="mailto:leonardo.narda@hotmail.com">leonardo.narda@hotmail.com</a><br><a href="mailto:mail@ln-revision.ch">mail@ln-revision.ch </a></td>
     <td class="tg-ktyi">076 384 82 47</td>
-    <td class="tg-ktyi">Allemand<br>italien <br>Français</td>
+    <td class="tg-ktyi">Allemand<br>Italien <br>Français</td>
     <td class="tg-0lax">Confirmé</td>
     <td class="tg-0lax">Oui</td>
     <td class="tg-0lax"> <br></td>
@@ -388,7 +388,7 @@ keywords: []
     <td class="tg-0lax">Zelgmatt 65<br>8132 Egg </td>
     <td class="tg-z182"><a href="mailto:Cristina.Pangrazzi@icloud.com">Cristina.Pangrazzi@icloud.com</a></td>
     <td class="tg-0lax">044 984 50 32<br>079 295 47 65</td>
-    <td class="tg-0lax">Allemand<br>italien</td>
+    <td class="tg-0lax">Allemand<br>Italien</td>
     <td class="tg-0lax">Confirmé</td>
     <td class="tg-0lax">Oui</td>
     <td class="tg-0lax"> </td>
@@ -486,7 +486,7 @@ keywords: []
     <td class="tg-ktyi">bsoKodierungen gmbh<br>Stallbergstrasse 16<br>4562 Biberist</td>
     <td class="tg-z182"><a href="mailto:santacatterina@kodierungen.ch">santacatterina@kodierungen.ch</a></td>
     <td class="tg-ktyi">079 693 49 35</td>
-    <td class="tg-ktyi">Allemand<br>italien</td>
+    <td class="tg-ktyi">Allemand<br>Italien</td>
     <td class="tg-ktyi">Confirmé</td>
     <td class="tg-ktyi">Oui</td>
     <td class="tg-ktyi"> </td>
@@ -588,7 +588,7 @@ keywords: []
     <td class="tg-0lax">Confirmé</td>
     <td class="tg-0lax">Oui</td>
     <td class="tg-0lax"> </td>
-    <td class="tg-0lax">Canton de Zürich</td>
+    <td class="tg-0lax">Canton de Zurich</td>
     <td class="tg-0lax">Confirmé</td>
     <td class="tg-0lax">10.05.2021</td>
   </tr>

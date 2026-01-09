@@ -138,7 +138,7 @@ keywords: []
     <td class="tg-ktyi">079 723 04 17</td>
     <td class="tg-ktyi">Francese<br>Italiano</td>
     <td class="tg-ktyi">Confermato</td>
-    <td class="tg-ktyi">Svizzera romanda // Ticino</td>
+    <td class="tg-ktyi">Svizzera romanda<br>Ticino</td>
     <td class="tg-ktyi">Confermato</td>
     <td class="tg-ktyi">18.04.2016</td>
   </tr>
@@ -246,7 +246,7 @@ keywords: []
     <td class="tg-ktyi">078 851 48 99</td>
     <td class="tg-ktyi">Francese<br>Italiano</td>
     <td class="tg-0lax">Confermato</td>
-    <td class="tg-ktyi">Svizzera romanda // Ticino</td>
+    <td class="tg-ktyi">Svizzera romanda<br>Ticino</td>
     <td class="tg-ktyi">Confermato</td>
     <td class="tg-ktyi">26.11.2018</td>
   </tr>
@@ -522,7 +522,7 @@ keywords: []
     <td class="tg-ktyi">078 633 74 88</td>
     <td class="tg-ktyi">Tedesco<br>Francese</td>
     <td class="tg-0lax">Confermato</td>
-    <td class="tg-ktyi">Svizzera tedesca              Svizzera romanda      </td>
+    <td class="tg-ktyi">Svizzera tedesca<br>Svizzera romanda</td>
     <td class="tg-0lax">Confermato</td>
     <td class="tg-0lax">22.10.2024</td>
   </tr>
@@ -618,7 +618,7 @@ keywords: []
     <td class="tg-0lax">079 277 42 30<br>079 556 74 24</td>
     <td class="tg-0lax">Französisch<br>Tedesco<br></td>
     <td class="tg-ktyi">Confermato</td>
-    <td class="tg-ktyi">Svizzera tedesca</td>
+    <td class="tg-ktyi">Svizzera tedesca<br>Svizzera romanda</td>
     <td class="tg-ktyi">Confermato</td>
     <td class="tg-ktyi">24.02.2022</td>
   </tr>
@@ -846,7 +846,7 @@ keywords: []
     <td class="tg-ktyi">076 407 65 52</td>
     <td class="tg-ktyi">Tedesco</td>
     <td class="tg-0lax">Confermato</td>
-    <td class="tg-ktyi">Kanton Zürich</td>
+    <td class="tg-ktyi">Cantone Zurigo</td>
     <td class="tg-ktyi">Confermato</td>
     <td class="tg-ktyi">16.11.2022</td>
   </tr>
@@ -868,7 +868,7 @@ keywords: []
     <td class="tg-0lax">Renggstrasse 25<br>6052 Hergiswil</td>
     <td class="tg-yk8o"><a href="mailto:marino@drgconsulting.ch">marino@drgconsulting.ch</a></td>
     <td class="tg-0lax">079 225 60 18</td>
-    <td class="tg-0lax">Tedesco<br>Italien</td>
+    <td class="tg-0lax">Tedesco<br>Italiano</td>
     <td class="tg-0lax">Confermato</td>
     <td class="tg-0lax"> </td>
     <td class="tg-ktyi">Confermato</td>
@@ -880,9 +880,9 @@ keywords: []
     <td class="tg-ktyi">6, Impasse sur Chêne <br>FR-74100 Annemasse</td>
     <td class="tg-yk8o"><a href="mailto:masi_mimi@hotmail.com">masi_mimi@hotmail.com</a></td>
     <td class="tg-ktyi">078 737 27 18</td>
-    <td class="tg-ktyi">Francese<br>Italien</td>
+    <td class="tg-ktyi">Francese<br>Italiano</td>
     <td class="tg-0lax">Confermato</td>
-    <td class="tg-ktyi">Toutela Romandie<br>Ticino</td>
+    <td class="tg-ktyi">Svizzera romanda<br>Ticino</td>
     <td class="tg-ktyi">Confermato</td>
     <td class="tg-ktyi">23.11.2015</td>
   </tr>
@@ -990,7 +990,7 @@ keywords: []
     <td class="tg-ktyi">079 359 55 46</td>
     <td class="tg-ktyi">Französisch<br>Tedesco</td>
     <td class="tg-0lax">Confermato</td>
-    <td class="tg-ktyi">Tedescoschweiz + Biel/Bienne</td>
+    <td class="tg-ktyi">Svizzera tedesca<br>Biel/Bienne</td>
     <td class="tg-0lax">Confermato</td>
     <td class="tg-ktyi">05.11.2021</td>
   </tr>
@@ -1014,7 +1014,7 @@ keywords: []
     <td class="tg-ktyi">044 984 50 32<br>079 295 47 65</td>
     <td class="tg-ktyi">Tedesco<br>Italiano</td>
     <td class="tg-ktyi">Confermato</td>
-    <td class="tg-ktyi">GanzeSchweiz</td>
+    <td class="tg-ktyi">Tutta la Svizzera</td>
     <td class="tg-ktyi">Confermato</td>
     <td class="tg-ktyi">15.12.2011</td>
   </tr>

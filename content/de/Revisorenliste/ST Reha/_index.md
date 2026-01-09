@@ -98,7 +98,7 @@ keywords: []
     <td class="tg-ktyi">bestätigt</td>
     <td class="tg-0lax">Ja</td>
     <td class="tg-0lax"> </td>
-    <td class="tg-ktyi">Suisse romande // Tessin</td>
+    <td class="tg-ktyi">Suisse romande<br>Tessin</td>
     <td class="tg-ktyi">bestätigt</td>
     <td class="tg-ktyi">15.09.2016</td>
   </tr>
@@ -127,7 +127,7 @@ keywords: []
     <td class="tg-0lax">bestätigt</td>
     <td class="tg-ktyi"></td>
     <td class="tg-ktyi">Ja</td>
-    <td class="tg-ktyi">Suisse romande</td>
+    <td class="tg-ktyi">Romandie</td>
     <td class="tg-ktyi">bestätigt</td>
     <td class="tg-ktyi">21.10.2025</td>
  </tr>
@@ -151,7 +151,7 @@ keywords: []
     <td class="tg-ktyi">Galliweg 65C<br>4852 Rothrist</td>
     <td class="tg-v47d"><a href="mailto:daniela.ehbrecht@gmx.de">daniela.ehbrecht@gmx.de</a></td>
     <td class="tg-ktyi">078 675 68 09</td>
-    <td class="tg-ktyi">Deutsch/Französisch </td>
+    <td class="tg-ktyi">Deutsch<br>Französisch</td>
     <td class="tg-0lax">bestätigt</td>
     <td class="tg-ktyi"></td>
     <td class="tg-ktyi">Ja</td>
@@ -169,7 +169,7 @@ keywords: []
     <td class="tg-0lax">bestätigt</td>
     <td class="tg-ktyi">Ja</td>
     <td class="tg-ktyi">Ja</td>
-    <td class="tg-ktyi">Suisse romande</td>
+    <td class="tg-ktyi">Romandie</td>
     <td class="tg-ktyi">bestätigt</td>
     <td class="tg-ktyi">26.07.2022</td>
   </tr>
@@ -267,7 +267,7 @@ keywords: []
     <td class="tg-ktyi">bestätigt</td>
     <td class="tg-ktyi">Ja</td>
     <td class="tg-ktyi">Ja</td>
-    <td class="tg-ktyi">Westschweiz<br>Deutschschweiz</td>
+    <td class="tg-ktyi">Deutschschweiz<br>Romandie</td>
     <td class="tg-ktyi">bestätigt</td>
     <td class="tg-ktyi">24.02.2022</td>
   </tr>
@@ -332,7 +332,7 @@ keywords: []
     <td class="tg-ktyi">Cristina</td>
     <td class="tg-0lax">Zelgmatt 65<br>8132 Egg </td>
     <td class="tg-z182"><a href="mailto:Cristina.Pangrazzi@icloud.com">Cristina.Pangrazzi@icloud.com</a></td>
-    <td class="tg-0lax">044 984 50 32079 295 47 65</td>
+    <td class="tg-0lax">044 984 50 32<br>079 295 47 65</td>
     <td class="tg-0lax">Deutsch<br>Italienisch</td>
     <td class="tg-0lax">bestätigt</td>
     <td class="tg-ktyi">Ja</td>
@@ -351,7 +351,7 @@ keywords: []
     <td class="tg-0lax">bestätigt</td>
     <td class="tg-ktyi">Ja</td>
     <td class="tg-ktyi">Ja</td>
-    <td class="tg-0lax">Schweiz, deutschsprachiger Raum</td>
+    <td class="tg-0lax">Deutschschweiz</td>
     <td class="tg-ktyi">bestätigt</td>
     <td class="tg-ktyi">04.11.2022</td>
   </tr>
@@ -449,7 +449,7 @@ keywords: []
     <td class="tg-0lax">bestätigt</td>
     <td class="tg-0lax">Ja</td>
     <td class="tg-0lax"> </td>
-    <td class="tg-0lax">Zürich</td>
+    <td class="tg-0lax">Kanton Zürich</td>
     <td class="tg-ktyi">bestätigt</td>
     <td class="tg-0lax">11.04.2022</td>
   </tr>

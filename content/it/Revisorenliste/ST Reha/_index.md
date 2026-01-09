@@ -267,7 +267,7 @@ keywords: []
     <td class="tg-ktyi">Confermato</td>
     <td class="tg-ktyi">Sì</td>
     <td class="tg-ktyi">Sì</td>
-    <td class="tg-ktyi">Westschweiz<br>Svizzera tedesca</td>
+    <td class="tg-ktyi">Svizzera tedesca <br>Svizzera tedesca</td>
     <td class="tg-ktyi">Confermato</td>
     <td class="tg-ktyi">24.02.2022</td>
   </tr>
@@ -351,7 +351,7 @@ keywords: []
     <td class="tg-0lax">Confermato</td>
     <td class="tg-ktyi">Sì</td>
     <td class="tg-ktyi">Sì</td>
-    <td class="tg-0lax">Schweiz,Tedescosprachiger Raum</td>
+    <td class="tg-0lax">Svizzera tedesca</td>
     <td class="tg-ktyi">Confermato</td>
     <td class="tg-ktyi">04.11.2022</td>
   </tr>
@@ -449,7 +449,7 @@ keywords: []
     <td class="tg-0lax">Confermato</td>
     <td class="tg-0lax">Sì</td>
     <td class="tg-0lax"> </td>
-    <td class="tg-0lax">Zürich</td>
+    <td class="tg-0lax">Cantone Zurigo</td>
     <td class="tg-ktyi">Confermato</td>
     <td class="tg-0lax">11.04.2022</td>
   </tr>
