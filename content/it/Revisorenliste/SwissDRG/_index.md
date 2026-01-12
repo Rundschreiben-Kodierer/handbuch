@@ -655,7 +655,7 @@ keywords: []
     <td class="tg-ktyi">Tedesco</td>
     <td class="tg-0lax">Confermato</td>
     <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Confirme //bestätigt </td>
+    <td class="tg-ktyi">Confermato/td>
     <td class="tg-ktyi">01.12.2015</td>
   </tr>
   <tr>
