@@ -323,7 +323,7 @@ keywords: []
     <td class="tg-0lax">Confermato</td>
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Sì</td>
-    <td class="tg-0lax">Svizzera tedesca + Biel/Bienne</td>
+    <td class="tg-0lax">Svizzera tedesca<br>Biel/Bienne</td>
     <td class="tg-ktyi">Confermato</td>
     <td class="tg-ktyi">05.11.2021</td>
   </tr>
