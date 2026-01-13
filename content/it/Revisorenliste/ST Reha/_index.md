@@ -267,7 +267,7 @@ keywords: []
     <td class="tg-ktyi">Confermato</td>
     <td class="tg-ktyi">Sì</td>
     <td class="tg-ktyi">Sì</td>
-    <td class="tg-ktyi">Svizzera tedesca <br>Svizzera tedesca</td>
+    <td class="tg-ktyi">Svizzera tedesca <br>Svizzera romanda</td>
     <td class="tg-ktyi">Confermato</td>
     <td class="tg-ktyi">24.02.2022</td>
   </tr>

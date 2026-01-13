@@ -616,7 +616,7 @@ keywords: []
     <td class="tg-0lax">Chemin de Villardiez 18 <br>1009 Pully privat</td>
     <td class="tg-v47d"><a href="mailto:bettina.j.holzer@gmail.com">bettina.j.holzer@gmail.com</a><br><a href="mailto:bettina.holzer@chuv.ch">bettina.holzer@chuv.ch</a></td>
     <td class="tg-0lax">079 277 42 30<br>079 556 74 24</td>
-    <td class="tg-0lax">Französisch<br>Tedesco<br></td>
+    <td class="tg-0lax">Francese<br>Tedesco<br></td>
     <td class="tg-ktyi">Confermato</td>
     <td class="tg-ktyi">Svizzera tedesca<br>Svizzera romanda</td>
     <td class="tg-ktyi">Confermato</td>
@@ -976,7 +976,7 @@ keywords: []
     <td class="tg-ktyi">LN –Revision<br>Vorstadtstrasse 6 <br>5722 Gränichen – AG</td>
     <td class="tg-v47d"><a href="mailto:leonardo.narda@hotmail.com">leonardo.narda@hotmail.com</a><br><a href="mailto:mail@ln-revision.ch">mail@ln-revision.ch</a></td>
     <td class="tg-ktyi">076 384 82 47</td>
-    <td class="tg-ktyi">Tedesco<br>Italiano<br>Französisch</td>
+    <td class="tg-ktyi">Tedesco<br>Italiano<br>Francese</td>
     <td class="tg-0lax">Confermato</td>
     <td class="tg-ktyi">Tutta la Svizzera</td>
     <td class="tg-ktyi">Confermato</td>
@@ -988,7 +988,7 @@ keywords: []
     <td class="tg-ktyi">Bodenrebenweg 19<br>3225 Müntschemier</td>
     <td class="tg-yk8o"><a href="mailto:catherine.niederer@nicecomputing.ch">catherine.niederer@nicecomputing.ch</a></td>
     <td class="tg-ktyi">079 359 55 46</td>
-    <td class="tg-ktyi">Französisch<br>Tedesco</td>
+    <td class="tg-ktyi">Franh<br>Tedesco</td>
     <td class="tg-0lax">Confermato</td>
     <td class="tg-ktyi">Svizzera tedesca<br>Biel/Bienne</td>
     <td class="tg-0lax">Confermato</td>

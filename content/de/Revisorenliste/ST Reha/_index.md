@@ -98,7 +98,7 @@ keywords: []
     <td class="tg-ktyi">Bestätigt</td>
     <td class="tg-0lax">Ja</td>
     <td class="tg-0lax"> </td>
-    <td class="tg-ktyi">Suisse romande<br>Tessin</td>
+    <td class="tg-ktyi">Romandie<br>Tessin</td>
     <td class="tg-ktyi">Bestätigt</td>
     <td class="tg-ktyi">15.09.2016</td>
   </tr>
