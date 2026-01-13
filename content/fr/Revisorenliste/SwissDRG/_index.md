@@ -858,7 +858,7 @@ keywords: []
     <td class="tg-0lax">079 423 16 96</td>
     <td class="tg-ktyi">Allemand</td>
     <td class="tg-0lax">Confirmé</td>
-    <td class="tg-ktyi">Suisse alémanique</td>
+    <td class="tg-ktyi">Toute la Suisse</td>
     <td class="tg-ktyi">Confirmé</td>
     <td class="tg-ktyi">22.11.2023</td>
   </tr>

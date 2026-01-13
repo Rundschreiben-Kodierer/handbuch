@@ -858,7 +858,7 @@ keywords: []
     <td class="tg-0lax">079 423 16 96</td>
     <td class="tg-ktyi">Deutsch</td>
     <td class="tg-0lax">Bestätigt</td>
-    <td class="tg-ktyi">Deutschschweiz</td>
+    <td class="tg-ktyi">Ganze Schweiz</td>
     <td class="tg-ktyi">Bestätigt</td>
     <td class="tg-ktyi">22.11.2023</td>
   </tr>

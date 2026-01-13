@@ -281,7 +281,7 @@ keywords: []
     <td class="tg-0lax">Confermato</td>
     <td class="tg-ktyi">Sì</td>
     <td class="tg-ktyi"></td>
-    <td class="tg-ktyi">Svizzera tedesca</td>
+    <td class="tg-ktyi">Tutta la Svizzera</td>
     <td class="tg-ktyi">Confermato</td>
     <td class="tg-ktyi">22.11.2023</td>
   </tr>
