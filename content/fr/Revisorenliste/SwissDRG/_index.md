@@ -265,7 +265,7 @@ keywords: []
   <tr>
     <td class="tg-0lax">Chevalier</td>
     <td class="tg-ktyi">Johanne</td>
-    <td class="tg-ktyi">Rue du Village 6<br>1081 Montpreveyres</td>
+    <td class="tg-ktyi">Chemin de l’Ancienne Poste 6<br>1081 Montpreveyres</td>
     <td class="tg-v47d"><a href="mailto:johanne.chevalier@chuv.ch">johanne.chevalier@chuv.ch</a></td>
     <td class="tg-ktyi">076 320 68 51</td>
     <td class="tg-ktyi">Français</td>
