@@ -768,7 +768,7 @@ Ai fini del conteggio dei giorni di degenza per i codici CHOP del gruppo di elem
   </tr>
   <tr>
     <th style="border: 1px solid black;">CHOP</th>
-    <td style="border: 1px solid black;">39.99.21</td>
+    <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Regola di codifica</th>

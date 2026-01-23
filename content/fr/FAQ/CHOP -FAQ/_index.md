@@ -767,7 +767,7 @@ Pour le calcul des jours de traitement sous les codes du groupe d'éléments CHO
   </tr>
   <tr>
     <th style="border: 1px solid black;">CHOP</th>
-    <td style="border: 1px solid black;">39.99.21</td>
+    <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Règle de codage</th>
