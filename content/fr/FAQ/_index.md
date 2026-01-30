@@ -14,11 +14,13 @@ keywords: []
 Le nouveau chapitre «FAQ/Clarifications» sera mis en ligne lors de la publication des actualisations des publications le **1er janvier 2026**.
 Ceci remplace l'ancien chapitre 5 «Annexe» de la circulaire.<br>
 Le contenu de l'ancien «Annexe» a été transféré dans le nouveau chapitre «FAQ/Clarifications».
-
   
 Le chapitre «FAQ/Clarifications» de la circulaire offre une aide pratique pour les questions générales et spécifiques relatives au codage.<br>
 Le contenu du chapitre «FAQ/Clarifications» est mis à jour dans le cadre des cycles de publication semestriels, en même temps que les actualisations des publications.
-
+  
+Sauf mention contraire expresse, les explications fournies dans la FAQ s'appliquent à compter de leur date de publication. Pour les périodes de traitement antérieures à cette date, le codage a été effectué sur la base des règles et interprétations professionnelles disponibles à l'époque, ce qui pouvait laisser une certaine marge d'interprétation.
+  
+L'application des FAQ contribue à garantir une pratique de codage uniforme et transparente. Dans les cas individuels, l'évaluation reste toujours liée à la documentation médicale et aux efforts de traitement concrets.
   
 Les FAQ / Clarifications sont issues de demandes (répétées) adressées au secrétariat de codification concernant un sujet spécifique ou général, ainsi que d'évaluations de cas individuels et de discussions au sein des comités d'experts. 
 ________________________________________

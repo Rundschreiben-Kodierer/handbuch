@@ -17,7 +17,10 @@ I contenuti del precedente «Allegato» sono stati trasferiti nel nuovo capitolo
   
 Il capitolo «FAQ/Chiarimenti» offre un supporto pratico per domande generali e specifiche relative alla codifica.  
 I contenuti del capitolo «FAQ/Chiarimenti» vengono aggiornati nell'ambito dei cicli di pubblicazione semestrali contemporaneamente agli aggiornamenti delle pubblicazioni.
-
+  
+Salvo espressamente altrimenti specificato, le spiegazioni riportate nelle FAQ sono valide a partire dalla data della loro pubblicazione. Per i periodi di trattamento precedenti a tale data, la codifica è stata effettuata sulla base delle normative e delle interpretazioni professionali disponibili all'epoca, con un corrispondente margine di interpretazione.
+  
+L'applicazione delle FAQ contribuisce a garantire una pratica di codifica uniforme e trasparente. Nei singoli casi, la valutazione rimane sempre legata alla documentazione medica e al carico di lavoro effettivo del trattamento.
   
 Le FAQ/chiarimenti derivano da richieste (ripetute) indirizzate alla segreteria di codifica su questioni specifiche o generali, nonché da valutazioni di singoli casi e discussioni all'interno dei comitati di esperti.
 ________________________________________
