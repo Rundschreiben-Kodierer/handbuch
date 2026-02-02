@@ -120,7 +120,7 @@ baseName = 'handbuch'
 
 # The version number of the docs. It should correspond to the version of Rundschreiben Kodierer but could also be decorrelated. MUSTN'T BE EMPTY!
 # and MUST BE INCREASED at each release!
-version = "0.20.0"
+version = "0.21.0"
 
 # Datetime of the build intended to be set by the CI, LEAVE EMPTY HERE!
 buildDatetime = ""
