@@ -705,7 +705,7 @@ keywords: []
     <td class="tg-ktyi">Ganze Schweiz</td>
     <td class="tg-ktyi">Bestätigt</td>
     <td class="tg-ktyi">05.12.2012</td>
-  </tr>
+  </tr> 
     <tr>
     <td class="tg-0lax">Koch</td>
     <td class="tg-ktyi">Karsten</td>
