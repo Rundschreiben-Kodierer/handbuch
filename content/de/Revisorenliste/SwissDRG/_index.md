@@ -706,6 +706,18 @@ keywords: []
     <td class="tg-ktyi">Bestätigt</td>
     <td class="tg-ktyi">05.12.2012</td>
   </tr>
+    <tr>
+    <td class="tg-0lax">Koch</td>
+    <td class="tg-ktyi">Karsten</td>
+    <td class="tg-ktyi">Zwydenweg 14<br>6052 Hergiswil</td>
+    <td class="tg-v47d"><a href="mailto:koch@kodieroutsourcing.ch">koch@kodieroutsourcing.ch</a></td>
+    <td class="tg-ktyi">079 416 75 96</td>
+    <td class="tg-ktyi">Deutsch</td>
+    <td class="tg-0lax">Bestätigt</td>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi">Bestätigt</td>
+    <td class="tg-ktyi">15.12.2011</td>
+  </tr>
   <tr>
     <td class="tg-0lax">Koller</td>
     <td class="tg-ktyi">Johanna</td>
@@ -922,18 +934,7 @@ keywords: []
     <td class="tg-0lax">Bestätigt</td>
     <td class="tg-0lax">30.06.2013</td>
   </tr>
-  <tr>
-    <td class="tg-0lax">Möller</td>
-    <td class="tg-ktyi">Karsten</td>
-    <td class="tg-ktyi">Zwydenweg 14<br>6052 Hergiswil</td>
-    <td class="tg-v47d"><a href="mailto:moeller@kodieroutsourcing.ch">moeller@kodieroutsourcing.ch</a></td>
-    <td class="tg-ktyi">079 416 75 96</td>
-    <td class="tg-ktyi">Deutsch</td>
-    <td class="tg-0lax">Bestätigt</td>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Bestätigt</td>
-    <td class="tg-ktyi">15.12.2011</td>
-  </tr>
+
   <tr>
     <td class="tg-0lax">Mombelli</td>
     <td class="tg-ktyi">Cornelia</td>
