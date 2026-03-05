@@ -277,7 +277,7 @@ keywords: []
   <tr>
     <td class="tg-0lax" id="d">De Almeida</td>
     <td class="tg-ktyi">Leopoldina</td>
-    <td class="tg-ktyi">Chemin des Dents du midi 31 E<br>1860 - Aigle</td>
+    <td class="tg-ktyi">Ch. des Dents du midi 31 E<br>1860 - Aigle</td>
     <td class="tg-v47d"><a href="mailto:leopoldina.almeida1961@bluewin.ch">leopoldina.almeida1961@bluewin.ch</a></td>
     <td class="tg-ktyi">079 548 65 61</td>
     <td class="tg-ktyi">Französisch</td>
