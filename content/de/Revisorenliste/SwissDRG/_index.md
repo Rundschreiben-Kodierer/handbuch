@@ -275,7 +275,19 @@ keywords: []
     <td class="tg-ktyi">21.10.2025</td>
   </tr>
   <tr>
-    <td class="tg-0lax" id="d">De Tella Gomes <br>Cavalheiro </td>
+    <td class="tg-0lax" id="d">De Almeida</td>
+    <td class="tg-ktyi">Leopoldina</td>
+    <td class="tg-ktyi">Chemin des Dents du midi 31 E<br>1860 - Aigle</td>
+    <td class="tg-v47d"><a href="mailto:leopoldina.almeida1961@bluewin.ch">leopoldina.almeida1961@bluewin.ch</a></td>
+    <td class="tg-ktyi">079 548 65 61</td>
+    <td class="tg-ktyi">Französisch</td>
+    <td class="tg-0lax">Bestätigt</td>
+    <td class="tg-ktyi">Romandie</td>
+    <td class="tg-ktyi">Bestätigt</td>
+    <td class="tg-ktyi">25.02.2026</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">De Tella Gomes <br>Cavalheiro </td>
     <td class="tg-ktyi">Valeria</td>
     <td class="tg-ktyi">Pilatusstrasse 22<br>8330 Pfäffikon</td>
     <td class="tg-v47d"><a href="mailto:valeria.cavalheiro1@gmail.com">valeria.cavalheiro1@gmail.com</a></td>
@@ -445,9 +457,9 @@ keywords: []
   <tr>
     <td class="tg-0lax">Gerhard</td>
     <td class="tg-ktyi">Andreas</td>
-    <td class="tg-ktyi">Alpenblickstrasse 20<br>8853 Lachen</td>
-    <td class="tg-yk8o"><a href="mailto:gerhard@medizincontrolling.ch">gerhard@medizincontrolling.ch</a></td>
-    <td class="tg-olcw"> </td>
+    <td class="tg-ktyi">Witellikerstrasse 40<br>8032 Zürich</td>
+    <td class="tg-yk8o"><a href="mailto:andreas.gerhard@medicalculis.ch">andreas.gerhard@medicalculis.ch</a></td>
+    <td class="tg-olcw">044 387 22 78 </td>
     <td class="tg-ktyi">Deutsch</td>
     <td class="tg-0lax">Bestätigt</td>
     <td class="tg-ktyi"> </td>
@@ -626,21 +638,9 @@ keywords: []
     <td class="tg-0lax">Huber</td>
     <td class="tg-ktyi">Nicole</td>
     <td class="tg-ktyi">Schützenstrasse 7<br>4552 Derendingen</td>
-    <td class="tg-v47d"><a href="mailto:nicole.huber@nicecomputing.ch">nicole.huber@nicecomputing.ch</a></td>
+    <td class="tg-v47d"></td>
     <td class="tg-ktyi">032 681 02 23</td>
     <td class="tg-ktyi">Deutsch</td>
-    <td class="tg-0lax">Bestätigt</td>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Bestätigt</td>
-    <td class="tg-ktyi">15.12.2011</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax" id="i">Idalan</td>
-    <td class="tg-ktyi">Irène</td>
-    <td class="tg-ktyi">Rue de la Fontaine 4<br>1094 Paudex</td>
-    <td class="tg-v47d"><a href="mailto:irene.idalan@nicecomputing.ch">irene.idalan@nicecomputing.ch</a></td>
-    <td class="tg-ktyi">021 791 60 86</td>
-    <td class="tg-ktyi">Deutsch<br>Französisch</td>
     <td class="tg-0lax">Bestätigt</td>
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Bestätigt</td>
