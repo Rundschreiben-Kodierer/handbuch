@@ -459,7 +459,7 @@ keywords: []
     <td class="tg-ktyi">Andreas</td>
     <td class="tg-ktyi">Witellikerstrasse 40<br>8032 Zürich</td>
     <td class="tg-yk8o"><a href="mailto:andreas.gerhard@medicalculis.ch">andreas.gerhard@medicalculis.ch</a></td>
-    <td class="tg-olcw"> </td>
+    <td class="tg-olcw">044 387 22 78 </td>
     <td class="tg-ktyi">Allemand</td>
     <td class="tg-0lax">Confirmé</td>
     <td class="tg-ktyi"> </td>

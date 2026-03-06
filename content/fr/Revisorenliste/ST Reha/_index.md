@@ -139,8 +139,8 @@ keywords: []
     <td class="tg-ktyi">079 548 65 61</td>
     <td class="tg-ktyi">Français</td>
     <td class="tg-ktyi">Confirmé</td>
+    <td class="tg-ktyi"></td>
     <td class="tg-ktyi">Oui</td>
-    <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Suisse romande</td>
     <td class="tg-ktyi">Confirmé</td>
     <td class="tg-ktyi">25.02.2026</td>
