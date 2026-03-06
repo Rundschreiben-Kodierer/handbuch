@@ -274,23 +274,9 @@ keywords: []
     <td class="tg-0lax">Huber</td>
     <td class="tg-ktyi">Nicole</td>
     <td class="tg-ktyi">Schützenstrasse 7<br>4552 Derendingen</td>
-    <td class="tg-z182"><a href="mailto:nicole.huber@nicecomputing.ch">nicole.huber@nicecomputing.ch</a></td>
+    <td class="tg-z182"></td>
     <td class="tg-ktyi">032 681 02 23</td>
     <td class="tg-ktyi">Deutsch</td>
-    <td class="tg-0lax">Bestätigt</td>
-    <td class="tg-0lax">Ja</td>
-    <td class="tg-0lax"> </td>
-    <td class="tg-dgl5"> </td>
-    <td class="tg-ktyi">Bestätigt</td>
-    <td class="tg-ktyi">07.01.2019</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax" id="i">Idalan</td>
-    <td class="tg-ktyi">Irène</td>
-    <td class="tg-ktyi">Rue de la Fontaine 4<br>1094 Paudex</td>
-    <td class="tg-z182"><a href="mailto:irene.idalan@nicecomputing.ch">irene.idalan@nicecomputing.ch</a></td>
-    <td class="tg-ktyi">021 791 60 86</td>
-    <td class="tg-ktyi">Deutsch <br>Französisch</td>
     <td class="tg-0lax">Bestätigt</td>
     <td class="tg-0lax">Ja</td>
     <td class="tg-0lax"> </td>

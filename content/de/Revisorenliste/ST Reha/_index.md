@@ -132,7 +132,21 @@ keywords: []
     <td class="tg-ktyi">21.10.2025</td>
  </tr>
 <tr>
-    <td class="tg-ktyi" id="d">Di Falco</td>
+    <td class="tg-ktyi" id="d">Di Almeida</td>
+    <td class="tg-ktyi">Leopoldina</td>
+    <td class="tg-ktyi">Ch. des Dents du midi 31 E<br>1860 - Aigle</td>
+    <td class="tg-v47d"><a href="mailto:leopoldina.almeida1961@bluewin.ch">leopoldina.almeida1961@bluewin.ch</a></td>
+    <td class="tg-ktyi">079 548 65 61</td>
+    <td class="tg-ktyi">Französisch</td>
+    <td class="tg-0lax">Bestätigt</td>
+    <td class="tg-ktyi"></td>
+    <td class="tg-ktyi">Ja</td>
+    <td class="tg-ktyi">Romandie</td>
+    <td class="tg-ktyi">Bestätigt</td>
+    <td class="tg-ktyi">25.02.2026</td>
+</tr>  
+<tr>
+    <td class="tg-ktyi">Di Falco</td>
     <td class="tg-ktyi">Calogero</td>
     <td class="tg-ktyi">DRG Swiss<br>Bahnhofstr. 32<br>8803 Rüschlikon<br></td>
     <td class="tg-z182"><a href="mailto:difalco@drgswiss.ch">difalco@drgswiss.ch</a><br> <a href="mailto:difalco@hin.ch">difalco@hin.ch</a></td>
