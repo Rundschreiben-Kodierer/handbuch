@@ -103,7 +103,7 @@ keywords: []
     <td class="tg-ktyi">11.11.2025</td>
   </tr>
   <tr>
-    <td class="tg-ktyi" id="a">Andermatt</td>
+    <td class="tg-ktyi">Andermatt</td>
     <td class="tg-ktyi">Susanne</td>
     <td class="tg-ktyi">Gassenacker 4<br>8197 Ratz</td>
     <td class="tg-z182"><a href="mailto:suematt@bluewin.ch">suematt@bluewin.ch</a></td>
@@ -116,9 +116,22 @@ keywords: []
     <td class="tg-ktyi">Bestätigt</td>
     <td class="tg-ktyi">22.12.2023</td>
   </tr>
+    <tr>
+    <td class="tg-0lax" id="b">Buvelot-Nya</td>
+    <td class="tg-ktyi">Mireille</td>
+    <td class="tg-ktyi">Av. Pierre-Maurice Glayre 2<br>1004 Lausanne</td>
+    <td class="tg-v47d"><a href="mailto:Mireille.Buvelot-Nya@chuv.ch">Mireille.Buvelot-Nya@chuv.ch</a></td>
+    <td class="tg-ktyi">078 626 37 22</td>
+    <td class="tg-ktyi">Französisch</td>
+    <td class="tg-0lax">Bestätigt</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Ja</td>
+    <td class="tg-ktyi">Romandie</td>
+    <td class="tg-ktyi">Bestätigt</td>
+    <td class="tg-ktyi">06.03.2026</td>
   </tr>
     <tr>
-    <td class="tg-0lax">Chevalier</td>
+    <td class="tg-0lax" id="d">Chevalier</td>
     <td class="tg-ktyi">Johanne</td>
     <td class="tg-ktyi">Chemin de l’Ancienne Poste 6<br>1081 Montpreveyres</td>
     <td class="tg-v47d"><a href="mailto:johanne.chevalier@chuv.ch">johanne.chevalier@chuv.ch</a></td>

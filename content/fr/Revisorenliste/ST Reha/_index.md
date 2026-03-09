@@ -118,7 +118,21 @@ keywords: []
     <td class="tg-ktyi">29.11.2023</td>
  </tr>
     <tr>
-    <td class="tg-0lax">Chevalier</td>
+    <td class="tg-0lax" id="b">Buvelot-Nya</td>
+    <td class="tg-ktyi">Mireille</td>
+    <td class="tg-ktyi">Av. Pierre-Maurice Glayre 2<br>1004 Lausanne</td>
+    <td class="tg-v47d"><a href="mailto:Mireille.Buvelot-Nya@chuv.ch">Mireille.Buvelot-Nya@chuv.ch</a></td>
+    <td class="tg-ktyi">078 626 37 22</td>
+    <td class="tg-ktyi">Français</td>
+    <td class="tg-0lax">Confirmé</td>
+    <td class="tg-ktyi"></td>
+    <td class="tg-ktyi">Oui</td>
+    <td class="tg-ktyi">Suisse romande</td>
+    <td class="tg-ktyi">Confirmé</td>
+    <td class="tg-ktyi">06.03.2026</td>
+ </tr>
+    <tr>
+    <td class="tg-0lax" id="c">Chevalier</td>
     <td class="tg-ktyi">Johanne</td>
     <td class="tg-ktyi">Chemin de l’Ancienne Poste 6<br>1081 Montpreveyres</td>
     <td class="tg-v47d"><a href="mailto:johanne.chevalier@chuv.ch">johanne.chevalier@chuv.ch</a></td>
