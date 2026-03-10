@@ -179,18 +179,6 @@ keywords: []
     <td class="tg-ktyi">15.12.2011</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Buvelot-Nya</td>
-    <td class="tg-ktyi">Mireille</td>
-    <td class="tg-ktyi">Av. Pierre-Maurice Glayre 2<br>1004 Lausanne</td>
-    <td class="tg-v47d"><a href="mailto:Mireille.Buvelot-Nya@chuv.ch">Mireille.Buvelot-Nya@chuv.ch</a></td>
-    <td class="tg-ktyi">078 626 37 22</td>
-    <td class="tg-ktyi">Francese</td>
-    <td class="tg-0lax">Confermato</td>
-    <td class="tg-ktyi">Svizzera romanda</td>
-    <td class="tg-ktyi">Confermato</td>
-    <td class="tg-ktyi">06.03.2026</td>
-  </tr>
-  <tr>
     <td class="tg-ktyi">Branzke</td>
     <td class="tg-ktyi">Jörn</td>
     <td class="tg-ktyi">Bisenweg 20<br>D-14542 Werder/Havel</td>
@@ -213,6 +201,18 @@ keywords: []
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Confermato</td>
     <td class="tg-ktyi">29.05.2018</td>
+  </tr>
+    <tr>
+    <td class="tg-0lax">Buvelot-Nya</td>
+    <td class="tg-ktyi">Mireille</td>
+    <td class="tg-ktyi">Av. Pierre-Maurice Glayre 2<br>1004 Lausanne</td>
+    <td class="tg-v47d"><a href="mailto:Mireille.Buvelot-Nya@chuv.ch">Mireille.Buvelot-Nya@chuv.ch</a></td>
+    <td class="tg-ktyi">078 626 37 22</td>
+    <td class="tg-ktyi">Francese</td>
+    <td class="tg-0lax">Confermato</td>
+    <td class="tg-ktyi">Svizzera romanda</td>
+    <td class="tg-ktyi">Confermato</td>
+    <td class="tg-ktyi">06.03.2026</td>
   </tr>
   <tr>
     <td class="tg-0lax" id="c">Caduff Huwiler</td>
