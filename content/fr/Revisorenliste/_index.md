@@ -38,35 +38,15 @@ La publication de ces informations sert à garantir la transparence et la traça
 De plus amples informations sur la révision des cas de codage ainsi que les documents mentionnés ci-dessous sont disponibles sous les liens suivants :  
 <body>
     <ul>
-        <li><a href="https://www.bfs.admin.ch/bfs/fr/home/statistiken/gesundheit/nomenklaturen/medkk/revisionen-kodierfaelle.html#schweizerische-revisorinnen-und-revisoren-in-der-medizinischen-kodierung-liste-formular-informationen"
+        <li><a href="https://www.bfs.admin.ch/bfs/fr/home/statistiques/sante/nomenclatures/medkk/revisions-cas-codage.html"
         target="_blank"
         rel="noopener noreferrer">
-        Réviseuses et réviseurs suisses du codage médical – Liste, formulaire, informations</a>
+        Réviseuses et réviseurs suisses du codage médical – Liste, Formulaire de demande</a>
         </li>
-        <li><a href="https://www.bfs.admin.ch/bfs/fr/home/statistiken/gesundheit/nomenklaturen/medkk/revisionen-kodierfaelle.html#reglement-kodierrevision-unter-swissdrg"
+        <li><a href="https://www.bfs.admin.ch/bfs/fr/home/statistiques/sante/nomenclatures/medkk/revisions-cas-codage.html#rglements-rvision-du-codage-sous-swissdrg-tarpsy-et-st-reha-"
         target="_blank"
         rel="noopener noreferrer">
-        Règlement – Révision du codage sous SwissDRG</a>
-        </li>
-        <li><a href="https://www.bfs.admin.ch/bfs/fr/home/statistiken/gesundheit/nomenklaturen/medkk/revisionen-kodierfaelle.html#archiv-reglement-kodierrevision-unter-swissdrg"
-        target="_blank"
-        rel="noopener noreferrer">
-        Archives: Règlement – Révision du codage sous SwissDRG</a>
-        </li>
-        <li><a href="https://www.bfs.admin.ch/bfs/fr/home/statistiken/gesundheit/nomenklaturen/medkk/revisionen-kodierfaelle.html#reglement-kodierrevision-unter-tarpsy"
-        target="_blank"
-        rel="noopener noreferrer">
-       Règlement - Révision du codage sous TARPSY</a>
-        </li>
-        <li><a href="https://www.bfs.admin.ch/bfs/fr/home/statistiken/gesundheit/nomenklaturen/medkk/revisionen-kodierfaelle.html#archiv-reglement-kodierrevision-unter-tarpsy"
-        target="_blank"
-        rel="noopener noreferrer">
-        Archives: Règlement – Révision du codage sous TARPSY</a>
-        </li>
-        <li><a href="https://www.bfs.admin.ch/bfs/fr/home/statistiken/gesundheit/nomenklaturen/medkk/revisionen-kodierfaelle.html#reglement-kodierrevision-unter-st-reha"
-        target="_blank"
-        rel="noopener noreferrer">
-        Règlement - Révision du codage sous ST Reha</a>
+        Règlements – Révision du codage sous SwissDRG, TARPSY et ST Reha</a>
         </li>
     </ul>
 </body>
