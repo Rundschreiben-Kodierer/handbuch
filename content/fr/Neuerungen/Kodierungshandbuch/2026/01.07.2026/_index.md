@@ -25,8 +25,13 @@ Exemple 10<br>
 La tumeur primaire est un carcinome de la prostate métastatique à dissémination lymphatique (bassin, abdomen).Implantation d’une pompe anti-douleur après une administration initialement sous-cutanée d’analgésiques morphiniques.<br>
 Pendant le séjour, la veille de la sortie, une chimiothérapie palliative peu complexe est administrée dans le cycle.
 <br>
-DP	C79.5     Tumeur maligne secondaire des os et de la moelle osseuse<br>
-L	0<br>
+{{<codeEntry title="DP C79.5">}}
+Tumeur maligne secondaire des os et de la moelle osseuse
+{{</codeEntry>}}
+{{<codeEntry title="L	0">}}
+  
+{{</codeEntry>}}
+<br>
 DS	C61	      Tumeur maligne de la prostate<br>
 <font color="red">~~DS	C77.2     Ganglions lymphatiques intra-abdominaux~~</font><br>
 DS	C77.8 	  Tumeur maligne des ganglions lymphatiques, secondaire et non précisée, Ganglions lymphatiques<br> 
