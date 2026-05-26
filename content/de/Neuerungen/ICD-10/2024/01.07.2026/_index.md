@@ -9,4 +9,4 @@ keywords: []
 
 <p style="text-align: right;">{{<printButton>}}
   
-In Bearbeitung. Die Angaben werden bis zum 30.06.2026 aktualisiert
+Auf der ICD-10-GM 2024 gibt es keine neuen Aktualisierungen, die ab dem 01.07.2026 zu berücksichtigen sind.

@@ -9,4 +9,5 @@ keywords: []
 
 <p style="text-align: right;">{{<printButton>}}
   
-In elaborazione. I contenuti saranno aggiornati entro il 30.06.2026.
+Nell’ICD-10-GM 2024 non sono previsti nuovi aggiornamenti da tenere in considerazione a partire dal 01.07.2026.
+

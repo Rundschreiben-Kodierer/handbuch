@@ -9,4 +9,4 @@ keywords: []
 
 <p style="text-align: right;">{{<printButton>}}
   
-En cours de travaux. Les informations seront actualisées d'ici au 30 juin 2026.
+Aucune nouvelle actualisation de la CIM-10-GM 2024 n’est à prendre en compte à partir du 1er juillet 2026.

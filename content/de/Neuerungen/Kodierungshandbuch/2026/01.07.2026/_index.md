@@ -9,4 +9,15 @@ keywords: []
 
 <p style="text-align: right;">{{<printButton>}}
   
-In Bearbeitung. Die Angaben werden bis zum 30.06.2026 aktualisiert
+Die nachfolgenden Aktualisierungen **«Kodierungshandbuch»** sind ab dem 01.07.2026 gültig. 
+  
+{{<markdown>}}Legende: <font color="green">Neuerungen in grün</font>, <font color="red">~~Löschungen in rot~~</font>
+  
+
+<font color="green">Die Zusatzinformationen zum Kodierungshandbuch 2026, aus den Aktualisierungen zum Kodierungshandbuch 2026 Nr.1, sind weiterhin gültig.</font>
+		
+**1.1	SD1804o	Diagnostics traitements de la douleur**
+  
+Betrifft nur die französische Sprachversion
+
+{{</markdown>}}
