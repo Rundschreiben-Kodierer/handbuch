@@ -24,43 +24,6 @@ Exemple 10<br>
 <i>Un patient est hospitalisé pour des douleurs chroniques d’intensité croissante (présentes depuis env. 9 mois) dans un contexte de métastases osseuses diffuses dans toute la colonne vertébrale et les os pelviens. Durée totale du séjour: 15 jours.<br>
 La tumeur primaire est un carcinome de la prostate métastatique à dissémination lymphatique (bassin, abdomen).Implantation d’une pompe anti-douleur après une administration initialement sous-cutanée d’analgésiques morphiniques.<br>
 Pendant le séjour, la veille de la sortie, une chimiothérapie palliative peu complexe est administrée dans le cycle.
-<br>
-{{<grid class="ps-0">}}
-    {{<grid/column>}}
-DP
-    {{</grid/column>}}
-    {{<grid/column>}}
-C79.5 
-    {{</grid/column>}}
-    {{<grid/column>}}
-Tumeur maligne secondaire des os et de la moelle osseuse
-    {{</grid/column>}}
-{{</grid>}}
-{{<grid class="ps-0">}}
-    {{<grid/column>}}
-L
-    {{</grid/column>}}
-    {{<grid/column>}}
-0
-    {{</grid/column>}}
-
-{{</grid>}}
-
-<br>
-DS	C61	      Tumeur maligne de la prostate<br>
-<font color="red">~~DS	C77.2     Ganglions lymphatiques intra-abdominaux~~</font><br>
-DS	C77.8 	  Tumeur maligne des ganglions lymphatiques, secondaire et non précisée, Ganglions lymphatiques<br> 
-		      de sièges multiples<br>
-DS 	U69.52!   Codes secondaires pour indiquer plusieurs sièges d’une tumeur maligne des ganglions lymphatiques,<br>
-		      secondaire et non précisée, Ganglions lymphatiques intra-abdominaux<br>
-DS 	U69.55!   Codes secondaires pour indiquer plusieurs sièges d’une tumeur maligne des ganglions lymphatiques,<br>
-		      secondaire et non précisée, Ganglions lymphatiques intrapelviens<br>
-<br>
-T	03.9B.1-  Implantation ou remplacement d’une pompe de perfusion totalement implantable pour <br>
-		      perfusion intrathécale et épidurale<br>
-T	03.90.11  Insertion ou remplacement de cathéter pour perfusion intrathécale et épidurale, cathéter permanent <br>
-		      pour perfusion continue<br>
-T	99.25.51  Chimiothérapie non complexe<br>
-</i>
+<p><em>DP&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C79.5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tumeur maligne secondaire des os et de la moelle osseuse</em><br /><em>L&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0</em><br /><em>DS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C61&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tumeur maligne de la prostate</em><br /><em><span style="text-decoration: line-through; color: #ff0000;">DS</span><span style="text-decoration: line-through;"><span style="color: #ff0000; text-decoration: line-through;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C77.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ganglions lymphatiques intra-abdominaux</span><br /></span>DS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C77.8 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tumeur maligne des ganglions lymphatiques, secondaire et non pr&eacute;cis&eacute;e, Ganglions lymphatiques de si&egrave;ges multiples</em><br /><em>DS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; U69.52! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Codes secondaires pour indiquer plusieurs si&egrave;ges d&rsquo;une tumeur maligne des ganglions lymphatiques, secondaire et non pr&eacute;cis&eacute;e, Ganglions lymphatiques intra-abdominaux</em><br /><em>DS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; U69.55! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Codes secondaires pour indiquer plusieurs si&egrave;ges d&rsquo;une tumeur maligne des ganglions lymphatiques, secondaire et non pr&eacute;cis&eacute;e, Ganglions lymphatiques intrapelviens</em><br /><br /><em>T&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 03.9B.1-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Implantation ou remplacement d&rsquo;une pompe de perfusion totalement implantable pour perfusion intrath&eacute;cale et &eacute;pidurale</em><br /><em>T&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 03.90.11&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Insertion ou remplacement de cath&eacute;ter pour perfusion intrath&eacute;cale et &eacute;pidurale, cath&eacute;ter permanent pour perfusion continue</em><br /><em>T&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 99.25.51&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chimioth&eacute;rapie non complexe</em></p>
 {{</indent>}}
 {{</markdown>}}
