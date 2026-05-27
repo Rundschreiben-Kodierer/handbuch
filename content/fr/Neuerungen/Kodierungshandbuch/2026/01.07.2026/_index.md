@@ -83,3 +83,21 @@ Pendant le séjour, la veille de la sortie, une chimiothérapie palliative peu c
 </table>
 
 
+{{<grid class="ps-0">}}
+    {{<grid/column>}}
+Jour X:
+    {{</grid/column>}}
+    {{<grid/column>}}
+42.81.41 <i>Insertion et remplacement de deux prothèses auto-expansibles (tubes permanents) dans l’œsophage, par endoscopie</i>
+    {{</grid/column>}}
+{{</grid>}}
+
+{{<grid class="ps-0">}}
+    {{<grid/column>}}
+Jour Y:
+    {{</grid/column>}}
+    {{<grid/column>}}
+42.81.40 <i>Insertion et remplacement de prothèse auto-expansible (tube permanent) dans l’œsophage, par endoscopie</i>
+    {{</grid/column>}}
+{{</grid>}}
+
