@@ -101,3 +101,40 @@ Jour Y:
     {{</grid/column>}}
 {{</grid>}}
 
+<i>
+{{<grid class="ps-0">}}
+    {{<grid/column>}}
+DP
+    {{</grid/column>}}
+    {{<grid/column>}}
+C79.5
+    {{</grid/column>}}
+    {{<grid/column>}}
+Tumeur maligne secondaire des os et de la moelle osseuse
+    {{</grid/column>}}
+{{</grid>}}
+
+{{<grid class="ps-0">}}
+    {{<grid/column>}}
+L
+    {{</grid/column>}}
+    {{<grid/column>}}
+0
+    {{</grid/column>}}
+{{</grid>}}
+
+{{<grid class="ps-0">}}
+    {{<grid/column>}}
+<font color="red">~~DS~~</font>
+    {{</grid/column>}}
+    {{<grid/column>}}
+<font color="red">~~C77.2~~</font>
+    {{</grid/column>}}
+    {{<grid/column>}}
+    <font color="red">~~Ganglions lymphatiques intra-abdominaux~~</font>
+
+    {{</grid/column>}}
+{{</grid>}}
+
+</i>
+
