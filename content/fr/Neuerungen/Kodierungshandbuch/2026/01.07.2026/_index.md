@@ -5,6 +5,11 @@ description: ""
 weight: 3
 type: docs
 keywords: []
+
+.marge {
+margin-left: 5em;
+}
+
 ---
 
 <p style="text-align: right;">{{<printButton>}}
@@ -29,9 +34,6 @@ Pendant le séjour, la veille de la sortie, une chimiothérapie palliative peu c
 {{</markdown>}}
 
 
-.marge {
-margin-left: 5em;
-}
  
  
 <p>
