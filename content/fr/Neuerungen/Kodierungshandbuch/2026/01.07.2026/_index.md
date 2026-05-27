@@ -6,9 +6,6 @@ weight: 3
 type: docs
 keywords: []
 
-.marge {
-margin-left: 5em;
-}
 
 ---
 
@@ -35,21 +32,54 @@ Pendant le séjour, la veille de la sortie, une chimiothérapie palliative peu c
 
 
  
- 
-<p>
-   Un début de texte
-   <span class="marge">un texte plus loin (espace de 5 caractères)</span>
-   <span class="marge">un texte encore plus loin</span>
-</p>
+ <table>
+  <caption>
+    Alien football stars
+  </caption>
+  <thead>
+    <tr>
+      <th scope="col">Player</th>
+      <th scope="col">Gloobles</th>
+      <th scope="col">Za'taak</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">TR-7</th>
+      <td>7</td>
+      <td>4,569</td>
+    </tr>
+    <tr>
+      <th scope="row">Khiresh Odo</th>
+      <td>7</td>
+      <td>7,223</td>
+    </tr>
+    <tr>
+      <th scope="row">Mia Oolong</th>
+      <td>9</td>
+      <td>6,219</td>
+    </tr>
+  </tbody>
+</table>
 
-<p>
-   Un début de texte
-   <span class="marge">un texte plus loin (espace de 5 caractères)</span>
-   <span class="marge">un texte encore plus loin</span>
-</p>
 
-<p>
-   1
-   <span class="marge">2</span>
-   <span class="marge">3</span>
-</p>
+<table>
+  <tbody>
+    <tr>
+      <td>DP</td>
+      <td>C79.5</td>
+      <td>Tumeur maligne secondaire des os et de la moelle osseuse</td>
+    </tr>
+    <tr>
+      <td>L</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>DS</td>
+      <td>C77.2</td>
+      <td><font color="red">~~suppressions en rouge~~</font></td>
+    </tr>
+  </tbody>
+</table>
+
+
