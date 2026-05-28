@@ -1434,3 +1434,93 @@ Typischerweise wird dieser Kode bei **traumatischen Pathologien**, insbesondere 
 {{</article>}}
 
 
+
+
+
+
+{{<article number="0027"  title="CHOP - Stabilisierung Wirbelsäule ohne Fusion" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+
+<table border="1" style="border-collapse: collapse;">
+  <tr>
+    <th style="border: 1px solid black;">Schlagwort</th>
+    <td style="border: 1px solid black;">Nicht-dynamische Stabilisierung Wirbelsäule,<br> Instrumentierung / Osteosynthese an der Wirbelsäule</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Erstellt</th>
+    <td style="border: 1px solid black;">01.01.2026 - Neu</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Aktualisiert</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">ICD</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">CHOP</th>
+    <td style="border: 1px solid black;">7A.73.-</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Kodierregel</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+</table>
+
+{{<markdown>}}
+**Problem/Erläuterung:**  
+Die Subkategorie **7A.73.-** wird verwendet zur Kodierung einer operativen Massnahme, bei der die Wirbelsäule mittels Osteosynthesematerialien wie **Schrauben, Stäben oder Platten** mechanisch **stabilisiert bzw. geschient** wird. Die Stabilisierung ist potenziell **reversibel –** durch eine **partielle oder vollständige Materialentfernung (OSME) nach Frakturheilung**.
+
+Typischerweise wird dieser Kode bei **traumatischen Pathologien**, insbesondere **thorakolumbalen Frakturen**, angewendet. Er kommt jedoch auch bei **anderen Indikationen** zum Einsatz.
+{{</markdown>}}
+<br>
+<br>
+{{</article>}}
+
+
+
+
+
+
+{{<article number="0029"  title="CHOP - Osteosynthese Acetabulum, Gelenkersatz untere Extremitäten" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+
+<table border="1" style="border-collapse: collapse;">
+  <tr>
+    <th style="border: 1px solid black;">Schlagwort</th>
+    <td style="border: 1px solid black;">Osteosynthese Acetabulum, Gelenkersatz untere Extremitäten</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Erstellt</th>
+    <td style="border: 1px solid black;">01.07.2026</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Aktualisiert</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">ICD</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">CHOP</th>
+    <td style="border: 1px solid black;">81.5- / 78.19.21 / 79.39.20</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Kodierregel</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+</table>
+
+{{<markdown>}}
+**Problem/Erläuterung:**  
+Unter der 3-stelligen Kategorie 81.5- <i>Gelenkersatz der unteren Extremitäten</i> ist **die Arthroplastik der unteren Extremitäten** mit Osteosynthese, Prothese, Fixateur externe oder Extension, Knochen- oder
+Knorpeltransplantation, inkludiert und wird bei einem Gelenkersatz nicht zusätzlich kodiert. 
+
+Eingriffe am Acetabulum sind separat zu kodieren, sofern sie durchgeführt werden, da das Acetabulum anatomisch zum Becken (Rumpf) und nicht zu den unteren Extremitäten gehört. Entsprechende Massnahmen stellen daher eigenständige Eingriffe ausserhalb [SS1.1]der 3-stelligen Kategorie 81.5  dar – siehe oben genannte CHOP-Kodes.
+
+{{</markdown>}}
+<br>
+<br>
+{{</article>}}
+
+

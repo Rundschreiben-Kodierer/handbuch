@@ -1423,3 +1423,92 @@ Ce code est généralement utilisé pour les **pathologies traumatiques**, en pa
 {{</article>}}
 
 
+
+
+
+
+{{<article number="0027"  title="CHOP - Stabilisation de la colonne vertébrale sans fusion" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+
+<table border="1" style="border-collapse: collapse;">
+  <tr>
+    <th style="border: 1px solid black;">Mot-clé</th>
+    <td style="border: 1px solid black;">Stabilisation non dynamique de la colonne vertébrale, instrumentation / ostéosynthèse de la colonne vertébrale</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Créé</th>
+    <td style="border: 1px solid black;">01.01.2026 – Nouveau </td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Mise à jour</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">ICD</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">CHOP</th>
+    <td style="border: 1px solid black;">7A.73.-</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Règle de codage</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+</table>
+
+{{<markdown>}}
+**Problème/explication:**  
+La sous-catégorie **7A.73.-** est utilisée pour coder une intervention chirurgicale dans laquelle la colonne vertébrale est **stabilisée** mécaniquement **ou immobilisée** à l'aide de matériel d'ostéosynthèse tel que **des vis, des tiges ou des plaques**. La stabilisation peut être potentiellement **réversible**, par exemple avec la possibilité de libérer le segment après la guérison de la fracture en **retirant partiellement ou totalement le matériel** (OSME).
+
+Ce code est généralement utilisé pour les **pathologies traumatiques**, en particulier **les fractures thoraco-lombaires**. Il est toutefois également utilisé pour **d'autres indications**.
+{{</markdown>}}
+<br>
+<br>
+{{</article>}}
+
+
+
+
+
+
+{{<article number="0028"  title="CHOP - Ostéosynthèse de l’acétabulum, prothèse articulaire des extrémités inférieures" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+
+<table border="1" style="border-collapse: collapse;">
+  <tr>
+    <th style="border: 1px solid black;">Mot-clé</th>
+    <td style="border: 1px solid black;">Ostéosynthèse de l’acétabulum, prothèse articulaire des extrémités inférieures</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Créé</th>
+    <td style="border: 1px solid black;">01.07.2026</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Mise à jour</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">ICD</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">CHOP</th>
+    <td style="border: 1px solid black;">81.5- / 78.19.21 / 79.39.20</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Règle de codage</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+</table>
+
+{{<markdown>}}
+**Problème/explication:**  
+La catégorie à 3 positions 81.5 – <i>Prothèse articulaire des membres inférieurs</i> – inclut **l’arthroplastie des membres inférieurs** avec ostéosynthèse traction ou fixation externe, greffe d’os ou de cartilage ou prothèse, et n’est pas codée en plus en cas de prothèse articulaire.
+
+Les interventions sur l’acétabulum doivent être codées séparément, si elles sont réalisées, car l’acétabulum appartient anatomiquement au bassin (tronc) et non aux membres inférieurs.
+Les mesures correspondantes constituent par conséquent des interventions indépendantes, qui n’entrent pas dans la catégorie à trois positions 81.5 – voir les codes CHOP mentionnés ci-dessus.
+{{</markdown>}}
+<br>
+<br>
+{{</article>}}
+
+
