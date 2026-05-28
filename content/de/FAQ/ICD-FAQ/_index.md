@@ -604,16 +604,16 @@ Die Tachyarrhythmie / Tachykardie ist bei Vorhofflimmern nicht zusätzlich zu ko
 
 
 
-{{<article number="0012"  title="ICD - Hydronephrose und Infektion" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0013"  title="ICD – Paravasat, Para liegender Venflon / periphere Venenverweilkanüle (Fehllage / Verlagerung)" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Hydronephrose / Infektion Niere / Pyonephrose / Harnwegsinfektion</td>
+    <td style="border: 1px solid black;">Para liegender Venflon / periphere <br>Venenverweilkanüle[HB1.1] (Fehllage / Verlagerung) <br>Phlebitis / Thrombophlebitis </td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Erstellt</th>
-    <td style="border: 1px solid black;">01.01.2026 / Basis RS 2025/2:  0785</td>
+    <td style="border: 1px solid black;">01.07.2026</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aktualisiert</th>
@@ -621,7 +621,7 @@ Die Tachyarrhythmie / Tachykardie ist bei Vorhofflimmern nicht zusätzlich zu ko
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
-    <td style="border: 1px solid black;">N13.6.- / N13.21 / N39.0</td>
+    <td style="border: 1px solid black;">T82.5 / T80.8 / T80.1</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">CHOP</th>
@@ -634,13 +634,18 @@ Die Tachyarrhythmie / Tachykardie ist bei Vorhofflimmern nicht zusätzlich zu ko
 </table>
 
 {{<markdown>}}
-**Problem/Erläuterung:**  
-Die ICD-10-GM 2024 Kodes der 4-stelligen Subkategorie N13.6- «Pyonephrose» werden nur bei einer dokumentierten Infektion der Niere verschlüsselt.  
-Dies betrifft auch den endständigen Kode N13.68 <i>Sonstige und nicht näher bezeichnete Pyonephrose</i>. Eine Hydronephrose durch Ureterstein mit Harnwegsinfektion nicht näher bezeichneter Lokalisation wird mit N13.21 <i>Hydronephrose bei Obstruktion durch Ureterstein</i> und N39.0 <i>Harnwegsinfektion, Lokalisation nicht näher bezeichnet</i> verschlüsselt.
+**Fragestellung:**  
+Wie sind Komplikationen im Zusammenhang mit einer peripheren Venenverweilkanüle (Venflon)  zu kodieren?
+
+**Kodierempfehlung:**
+Komplikationen bei liegender **peripherer Venenverweilkanüle / Venflon** (paravasal liegende Verweilkanüle, Paravasat, Phlebitis) sind mit den ICD-10-GM Kodes der Kodegruppe T80.-  <i>Komplikationen nach Infusion, Transfusion oder Injektion zu therapeutischen Zwecken</i>, zu kodieren.
+
+Eine Kodierung mit T82.- <i>Komplikationen durch Prothesen, Implantate oder Transplantate im Herzen und in den Gefäßen</i> **ist nicht zulässig**.
+
+Eine **periphere Venenverweilkanüle**  (Venflon) ist nicht gleichzusetzen mit einem Infusionskatheter im Sinne von T82.5 und gehört nicht zur dort genannten Materialgruppe.  
+
 {{</markdown>}}
 <br>  
 <br>
 {{</article>}}
-
-
 
