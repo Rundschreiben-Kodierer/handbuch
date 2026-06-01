@@ -1512,3 +1512,46 @@ Les mesures correspondantes constituent par conséquent des interventions indép
 {{</article>}}
 
 
+
+
+{{<article number="0029"  title="CHOP - Osteosynthese Acetabulum, Gelenkersatz untere Extremitäten" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+
+<table border="1" style="border-collapse: collapse;">
+  <tr>
+    <th style="border: 1px solid black;">Schlagwort</th>
+    <td style="border: 1px solid black;">Osteosynthese Acetabulum, Gelenkersatz untere Extremitäten</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Erstellt</th>
+    <td style="border: 1px solid black;">01.07.2026</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Aktualisiert</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">ICD</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">CHOP</th>
+    <td style="border: 1px solid black;">81.5- / 78.19.21 / 79.39.20</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Kodierregel</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+</table>
+
+{{<markdown>}}
+**Problem/Erläuterung:**  
+Unter der 3-stelligen Kategorie 81.5- <i>Gelenkersatz der unteren Extremitäten</i> ist **die Arthroplastik der unteren Extremitäten** mit Osteosynthese, Prothese, Fixateur externe oder Extension, Knochen- oder
+Knorpeltransplantation, inkludiert und wird bei einem Gelenkersatz nicht zusätzlich kodiert. 
+
+Eingriffe am Acetabulum sind separat zu kodieren, sofern sie durchgeführt werden, da das Acetabulum anatomisch zum Becken (Rumpf) und nicht zu den unteren Extremitäten gehört. Entsprechende Massnahmen stellen daher eigenständige Eingriffe ausserhalb [SS1.1]der 3-stelligen Kategorie 81.5  dar – siehe oben genannte CHOP-Kodes.
+
+{{</markdown>}}
+<br>
+<br>
+{{</article>}}
+

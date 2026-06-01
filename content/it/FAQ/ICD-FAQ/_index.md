@@ -542,9 +542,6 @@ Il fatto che si tratti di un'infezione di origine batterica non giustifica autom
 
 
 
-
-
-
 {{<article number="0011"  title="ICD - Tachiaritmia, fibrillazione atriale" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
@@ -594,9 +591,6 @@ La tachiaritmia / tachicardia non deve essere codificata in aggiunta alla fibril
 
 
 
-
-
-
 {{<article number="0012"  title="ICD - Idronefrosi e infezione" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
@@ -635,6 +629,51 @@ Ciò riguarda anche il codice terminale N13.68 <i>Altra e non specificata pionef
 <br>
 {{</article>}}
 
+
+
+{{<article number="0013"  title="ICD – Stravaso, agocannula / catetere venoso periferico a permanenza in posizione paravascolare (posizionamento errato / spostamento)" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+
+<table border="1" style="border-collapse: collapse;">
+  <tr>
+    <th style="border: 1px solid black;">Parola chiave</th>
+    <td style="border: 1px solid black;">Agocannula / catetere venoso periferico a permanenza in posizione<br>paravascolare (posizionamento errato / spostamento) Flebite / <br>tromboflebite</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Creato</th>
+    <td style="border: 1px solid black;">01.07.2026</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Aggiornato</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">ICD</th>
+    <td style="border: 1px solid black;">T82.5 / T80.8 / T80.1</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">CHOP</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Regola di codifica</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+</table>
+
+{{<markdown>}}
+**Domanda:**  
+Come si codificano le complicanze associate a un **catetere venoso periferico a permanenza (agocannula)**?
+
+**Raccomandazione di codifica:**
+Le complicanze associate al posizionamento di **un’agocannula / un catetere venoso periferico** a permanenza (catetere posizionato in posizione paravascolare, stravaso, flebite) vanno codificate con i codici ICD-10-GM della categoria T80.- <i>Complicanze successive ad infusione, trasfusione od iniezione a fini terapeutici</i>.
+
+**Non è consentito** l’uso di codici della categoria T82.- <i>Complicanze di dispositivi protesici, impianti ed innesti cardiaci e vascolari</I>.
+
+Un **catetere venoso periferico** a permanenza (agocannula) non è equiparabile a un catetere per infusione di cui al codice T82.5 e non rientra nel gruppo di materiali ivi indicato.
+{{</markdown>}}
+<br>  
+<br>
+{{</article>}}
 
 
 
