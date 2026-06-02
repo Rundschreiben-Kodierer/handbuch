@@ -609,7 +609,7 @@ Die Tachyarrhythmie / Tachykardie ist bei Vorhofflimmern nicht zusätzlich zu ko
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Para liegender Venflon / periphere <br>Venenverweilkanüle[HB1.1] (Fehllage / Verlagerung) <br>Phlebitis / Thrombophlebitis </td>
+    <td style="border: 1px solid black;">Para liegender Venflon / periphere Venenverweilkanüle (Fehllage / Verlagerung) <br>Phlebitis / Thrombophlebitis </td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Erstellt</th>
@@ -637,7 +637,7 @@ Die Tachyarrhythmie / Tachykardie ist bei Vorhofflimmern nicht zusätzlich zu ko
 **Fragestellung:**  
 Wie sind Komplikationen im Zusammenhang mit einer **peripheren Venenverweilkanüle (Venflon)**  zu kodieren?
 
-**Kodierempfehlung:**
+**Kodierempfehlung:**  
 Komplikationen bei liegender **peripherer Venenverweilkanüle** / Venflon (paravasal liegende Verweilkanüle, Paravasat, Phlebitis) sind mit den ICD-10-GM Kodes der Kodegruppe T80.-  <i>Komplikationen nach Infusion, Transfusion oder Injektion zu therapeutischen Zwecken</i>, zu kodieren.
 
 Eine Kodierung mit T82.- <i>Komplikationen durch Prothesen, Implantate oder Transplantate im Herzen und in den Gefäßen</i> **ist nicht zulässig**.

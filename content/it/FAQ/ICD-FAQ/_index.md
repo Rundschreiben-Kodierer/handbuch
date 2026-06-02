@@ -636,7 +636,7 @@ Ciò riguarda anche il codice terminale N13.68 <i>Altra e non specificata pionef
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Parola chiave</th>
-    <td style="border: 1px solid black;">Agocannula / catetere venoso periferico a permanenza in posizione<br>paravascolare (posizionamento errato / spostamento) Flebite / <br>tromboflebite</td>
+    <td style="border: 1px solid black;">Agocannula / catetere venoso periferico a permanenza in posizione paravascolare<br>(posizionamento errato / spostamento) Flebite / <br>tromboflebite</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Creato</th>
@@ -664,7 +664,7 @@ Ciò riguarda anche il codice terminale N13.68 <i>Altra e non specificata pionef
 **Domanda:**  
 Come si codificano le complicanze associate a un **catetere venoso periferico a permanenza (agocannula)**?
 
-**Raccomandazione di codifica:**
+**Raccomandazione di codifica:**  
 Le complicanze associate al posizionamento di **un’agocannula / un catetere venoso periferico** a permanenza (catetere posizionato in posizione paravascolare, stravaso, flebite) vanno codificate con i codici ICD-10-GM della categoria T80.- <i>Complicanze successive ad infusione, trasfusione od iniezione a fini terapeutici</i>.
 
 **Non è consentito** l’uso di codici della categoria T82.- <i>Complicanze di dispositivi protesici, impianti ed innesti cardiaci e vascolari</I>.
