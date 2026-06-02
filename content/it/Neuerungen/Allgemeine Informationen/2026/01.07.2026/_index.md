@@ -9,7 +9,7 @@ keywords: []
 
 <p style="text-align: right;">{{<printButton>}}
   
-I seguenti **«Nozioni generali»** sono validi a partire dal 01.01.2026.  
+I seguenti **«Nozioni generali»** sono validi a partire dal 01.07.2026.  
   
 {{<markdown>}}
 
@@ -20,7 +20,7 @@ Dal 1° gennaio 2026 vanno utilizzati i seguenti strumenti di codifica:
     <ul>
         <li>Manuale di codifica medica: Le linee guida ufficiali delle regole di codifica in Svizzera. Versione 2026</li>
         <li>Aggiornamenti sulle pubblicazioni delle classificazioni mediche dell'UST – 01.01.2026</li>
-        <li>Aggiornamenti sulle pubblicazioni delle classificazioni mediche dell'UST – 01.01.2027</li>
+        <li>Aggiornamenti sulle pubblicazioni delle classificazioni mediche dell'UST – 01.07.2027</li>
         <li>Classificazione Svizzera degli Interventi Chirurgici (CHOP): Indice sistematico - Versione 2026</li>
         <li>ICD-10-GM 2024 Indice sistematico: Classificazione statistica internazionale delle malattie e dei problemi sanitari correlati: 10. revisione – German Modification</li>
         <li>ICD-10-GM 2024 Indice alfabetico: Classificazione statistica internazionale delle malattie e dei problemi sanitari correlati: 10. revisione – German Modification</li>

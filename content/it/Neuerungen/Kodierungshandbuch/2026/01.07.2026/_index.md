@@ -14,7 +14,7 @@ I seguenti aggiornamenti **«Manuale di codifica»** sono validi a partire dal 0
 {{<markdown>}}Legenda: <font color="green">novità in verde</font>, <font color="red">~~cancellazioni in rosso~~</font>
 <br>
 <font color="green">Le informazioni supplementari sul manuale di codifica 2026, nell'aggiornamento n. 1 del manuale di codifica 2026, restano valide.</font>
-<br>
+<br><br>
 **1.1	SD1804o	Diagnostics traitements de la douleur**
   
 Riguarda solo la versione francese

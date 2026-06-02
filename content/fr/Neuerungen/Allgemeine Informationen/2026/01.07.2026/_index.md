@@ -9,7 +9,7 @@ keywords: []
 
 <p style="text-align: right;">{{<printButton>}}
   
-Les **«Informations générales»** suivantes sont valables à partir du 1er janvier 2026. 
+Les **«Informations générales»** suivantes sont valables à partir du 1er juillet 2026. 
   
 {{<markdown>}}
 
