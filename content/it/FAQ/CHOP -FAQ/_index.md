@@ -1512,7 +1512,7 @@ Les mesures correspondantes constituent par conséquent des interventions indép
 
 {{<markdown>}}
 **Problema/Spiegazione:**  
-Nella categoria a 3 caratteri 81.5- Sostituzione di articolazione delle estremità inferiori, l'artroplastica degli arti inferiori, con osteosintesi, protesi, fissatore esterno o estensione, innesto osseo o cartilagineo,
+Nella categoria a 3 caratteri 81.5- <i>Sostituzione di articolazione delle estremità inferiori</i>, **l'artroplastica degli arti inferiori**, con osteosintesi, protesi, fissatore esterno o estensione, innesto osseo o cartilagineo,
 è inclusa e non va codificata in aggiunta in caso di sostituzione di articolazione. 
 
 Se effettuati, gli interventi sull'acetabolo devono essere codificati separatamente, dato che questa struttura appartiene anatomicamente alla pelvi (tronco) e non alle estremità inferiori. Tali procedure costituiscono quindi interventi autonomi che esulano dalla categoria a 3 caratteri 81.5- (v. codici CHOP sopra citati).

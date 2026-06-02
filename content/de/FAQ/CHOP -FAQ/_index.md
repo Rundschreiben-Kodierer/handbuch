@@ -1516,7 +1516,7 @@ Typischerweise wird dieser Kode bei **traumatischen Pathologien**, insbesondere 
 Unter der 3-stelligen Kategorie 81.5- <i>Gelenkersatz der unteren Extremitäten</i> ist **die Arthroplastik der unteren Extremitäten** mit Osteosynthese, Prothese, Fixateur externe oder Extension, Knochen- oder
 Knorpeltransplantation, inkludiert und wird bei einem Gelenkersatz nicht zusätzlich kodiert. 
 
-Eingriffe am Acetabulum sind separat zu kodieren, sofern sie durchgeführt werden, da das Acetabulum anatomisch zum Becken (Rumpf) und nicht zu den unteren Extremitäten gehört. Entsprechende Massnahmen stellen daher eigenständige Eingriffe ausserhalb [SS1.1]der 3-stelligen Kategorie 81.5  dar – siehe oben genannte CHOP-Kodes.
+Eingriffe am Acetabulum sind separat zu kodieren, sofern sie durchgeführt werden, da das Acetabulum anatomisch zum Becken (Rumpf) und nicht zu den unteren Extremitäten gehört. Entsprechende Massnahmen stellen daher eigenständige Eingriffe ausserhalb der 3-stelligen Kategorie 81.5  dar – siehe oben genannte CHOP-Kodes.
 
 {{</markdown>}}
 <br>
