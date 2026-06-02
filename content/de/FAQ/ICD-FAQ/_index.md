@@ -604,7 +604,7 @@ Die Tachyarrhythmie / Tachykardie ist bei Vorhofflimmern nicht zusätzlich zu ko
 
 
 
-{{<article number="0013"  title="ICD – Paravasat, Para liegender Venflon / periphere Venenverweilkanüle (Fehllage / Verlagerung)" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0013"  title="ICD - Paravasat, Para liegender Venflon / periphere Venenverweilkanüle (Fehllage / Verlagerung)" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>

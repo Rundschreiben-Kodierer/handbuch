@@ -623,7 +623,7 @@ Cela concerne également le code final N13.68 <i>Pyonéphrose, autre et non pré
 
 
 
-{{<article number="0013"  title="CIM – Extravasation, Venflon / cathéter veineux périphérique à demeure en position extravasculaire (mauvais positionnement / déplacement)" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0013"  title="CIM - Extravasation, Venflon / cathéter veineux périphérique à demeure en position extravasculaire (mauvais positionnement / déplacement)" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>

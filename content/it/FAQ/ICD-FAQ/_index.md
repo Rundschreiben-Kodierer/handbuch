@@ -631,7 +631,7 @@ Ciò riguarda anche il codice terminale N13.68 <i>Altra e non specificata pionef
 
 
 
-{{<article number="0013"  title="ICD – Stravaso, agocannula / catetere venoso periferico a permanenza in posizione paravascolare (posizionamento errato / spostamento)" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0013"  title="ICD - Stravaso, agocannula / catetere venoso periferico a permanenza in posizione paravascolare (posizionamento errato / spostamento)" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
