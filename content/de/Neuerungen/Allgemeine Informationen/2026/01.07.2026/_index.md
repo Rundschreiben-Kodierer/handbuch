@@ -9,7 +9,7 @@ keywords: []
 
 <p style="text-align: right;">{{<printButton>}}
   
-Die nachfolgenden **«Allgemeinen Informationen»** sind ab dem 01.07.2026 gültig. 
+Die nachfolgenden **«Allgemeinen Informationen»** sind ab dem <font color="green">01.07.2026</font> gültig. 
   
 {{<markdown>}}
 
@@ -20,7 +20,7 @@ Ab 1. Januar 2026 gelten folgende Kodierungsinstrumente:
     <ul>
         <li>Medizinisches Kodierungshandbuch: Der offizielle Leitfaden der Kodierrichtlinien in der Schweiz. Version 2026</li>
         <li>Aktualisierungen zu den Publikationen der Medizinischen Klassifikationen des BFS – 01.01.2026</li>
-        <li>Aktualisierungen zu den Publikationen der Medizinischen Klassifikationen des BFS – 01.07.2026</li>
+        <li><font color="green">Aktualisierungen zu den Publikationen der Medizinischen Klassifikationen des BFS – 01.07.2026</font></li>
         <li>Schweizerische Operationsklassifikation (CHOP): Systematisches Verzeichnis - Version 2026</li>
         <li>ICD-10-GM 2024 Systematisches Verzeichnis: Internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme - 10. Revision – German Modification</li>
         <li>ICD-10-GM 2024 Alphabetisches Verzeichnis: Internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme - 10. Revision – German Modification</li>

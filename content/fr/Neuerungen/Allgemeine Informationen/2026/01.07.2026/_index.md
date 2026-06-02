@@ -9,7 +9,7 @@ keywords: []
 
 <p style="text-align: right;">{{<printButton>}}
   
-Les **«Informations générales»** suivantes sont valables à partir du 1er juillet 2026. 
+Les **«Informations générales»** suivantes sont valables à partir du <font color="green">1er juillet 2026</font>. 
   
 {{<markdown>}}
 
@@ -20,7 +20,8 @@ Les **«Informations générales»** suivantes sont valables à partir du 1er ju
     <ul>
         <li>Manuel de codage médical : Le manuel officiel des règles de codage en Suisse. Version 2026 </li>
         <li>Actualisations des publications des classifications médicales de l'OFS – 01.01.2026</li>
-        <li>Actualisations des publications des classifications médicales de l’OFS – 01.07.2026</li>        <li>Classification suisse des interventions chirurgicales (CHOP) : Index systématique – Version 2026 </li>
+        <li><font color="green">Actualisations des publications des classifications médicales de l’OFS – 01.07.2026</font></li>        
+        <li>Classification suisse des interventions chirurgicales (CHOP) : Index systématique – Version 2026 </li>
         <li>CIM-10-GM 2024 Index systématique : Classification statistique internationale des maladies et des problèmes de santé connexes, 10ème révision, German Modification</li>
         <li>CIM-10-GM 2024 Index alphabétique : Classification statistique internationale des maladies et des problèmes de santé connexes, 10ème révision, German Modification</li>        
     </ul>

@@ -11,7 +11,7 @@ keywords: []
 
 <p style="text-align: right;">{{<printButton>}}
   
-Les actualisations suivantes du **«Manuel de codage»** sont valables à partir du 01.01.2026. 
+Les actualisations suivantes du **«Manuel de codage»** sont valables à partir du 01.07.2026. 
   
 {{<markdown>}}Légende: <font color="green">nouveautés en vert</font>, <font color="red">~~suppressions en rouge~~</font>
   
@@ -22,7 +22,6 @@ Les actualisations suivantes du **«Manuel de codage»** sont valables à partir
   
 Concerne uniquement la version française
     
-Exemple 10<br>
 Exemple 10<br>
 <i>Un patient est hospitalisé pour des douleurs chroniques d’intensité croissante (présentes depuis env. 9 mois) dans un contexte de métastases osseuses diffuses dans toute la colonne vertébrale et les os pelviens. Durée totale du séjour: 15 jours.<br>
 La tumeur primaire est un carcinome de la prostate métastatique à dissémination lymphatique (bassin, abdomen).Implantation d’une pompe anti-douleur après une administration initialement sous-cutanée d’analgésiques morphiniques.<br>
