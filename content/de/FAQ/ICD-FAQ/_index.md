@@ -609,7 +609,7 @@ Die Tachyarrhythmie / Tachykardie ist bei Vorhofflimmern nicht zusätzlich zu ko
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Para liegender Venflon / periphere Venenverweilkanüle (Fehllage / Verlagerung) <br>Phlebitis / Thrombophlebitis </td>
+    <td style="border: 1px solid black;">Para liegender Venflon / periphere Venenverweilkanüle (Fehllage / Verlagerung), Phlebitis / Thrombophlebitis </td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Erstellt</th>

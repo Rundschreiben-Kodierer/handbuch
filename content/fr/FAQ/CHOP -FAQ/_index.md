@@ -1545,10 +1545,10 @@ Les mesures correspondantes constituent par conséquent des interventions indép
 
 {{<markdown>}}
 **Problème/explication:**  
-La catégorie à 3 positions 81.5 – <i>Prothèse articulaire des membres inférieurs</i> – inclut **l’arthroplastie des membres inférieurs** avec ostéosynthèse traction ou fixation externe, greffe d’os ou de cartilage ou prothèse, et n’est pas codée en plus en cas de prothèse articulaire.
+La catégorie à 3 positions 81.5- <i>Prothèse articulaire des membres inférieurs</i> inclut **l’arthroplastie des membres inférieurs** avec ostéosynthèse traction ou fixation externe, greffe d’os ou de cartilage ou prothèse, et n’est pas codée en plus en cas de prothèse articulaire.
 
 Les interventions sur l’acétabulum doivent être codées séparément, si elles sont réalisées, car l’acétabulum appartient anatomiquement au bassin (tronc) et non aux membres inférieurs.
-Les mesures correspondantes constituent par conséquent des interventions indépendantes, qui n’entrent pas dans la catégorie à trois positions 81.5 – voir les codes CHOP mentionnés ci-dessus.
+Les mesures correspondantes constituent par conséquent des interventions indépendantes, qui n’entrent pas dans la catégorie à trois positions 81.5- voir les codes CHOP mentionnés ci-dessus.
 
 {{</markdown>}}
 <br>

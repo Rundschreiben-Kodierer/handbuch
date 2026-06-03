@@ -628,7 +628,7 @@ Cela concerne également le code final N13.68 <i>Pyonéphrose, autre et non pré
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Mot-clé</th>
-    <td style="border: 1px solid black;">Venflon / cathéter veineux périphérique à demeure (mauvais positionnement <br>/ déplacement) Phlébite / thrombophlébite</td>
+    <td style="border: 1px solid black;">Venflon / cathéter veineux périphérique à demeure (mauvais positionnement / déplacement),<br>Phlébite / thrombophlébite</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé</th>
@@ -657,7 +657,7 @@ Cela concerne également le code final N13.68 <i>Pyonéphrose, autre et non pré
 Comment coder les complications liées à un **cathéter veineux périphérique à demeure (Venflon)** ?
 
 **Recommandation de codage:**  
-Les complications liées à la mise en place d'un **cathéter veineux périphérique** à demeure / Venflon (canule à demeure paravasculaire, extravasation, phlébite) doivent être codées à l'aide des codes CIM-10-GM de la catégorie T80. – <i>Complications consécutives à une injection thérapeutique, une perfusion et une transfusion</i>.
+Les complications liées à la mise en place d'un **cathéter veineux périphérique** à demeure / Venflon (canule à demeure paravasculaire, extravasation, phlébite) doivent être codées à l'aide des codes CIM-10-GM de la catégorie T80.- <i>Complications consécutives à une injection thérapeutique, une perfusion et une transfusion</i>.
 
 Il n’est **pas autorisé** de coder T82.- <i>Complications de prothèses, implants et greffes cardiaques et vasculaires</i>.
 

@@ -636,7 +636,7 @@ Ciò riguarda anche il codice terminale N13.68 <i>Altra e non specificata pionef
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Parola chiave</th>
-    <td style="border: 1px solid black;">Agocannula / catetere venoso periferico a permanenza in posizione paravascolare<br>(posizionamento errato / spostamento) Flebite / <br>tromboflebite</td>
+    <td style="border: 1px solid black;">Agocannula / catetere venoso periferico a permanenza in posizione paravascolare<br>(posizionamento errato / spostamento) Flebite / tromboflebite</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Creato</th>
