@@ -18,7 +18,7 @@ keywords: []
 {{<collapsibleGroupCommand groupId="icdfaq">}}
 
 
-{{<article number="0001"  title="CIM - Atélectasie pulmonaire" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0001"  numberColor="black" title="CIM - Atélectasie pulmonaire" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -70,7 +70,7 @@ L'absence de ventilation de certaines parties du poumon (segments pulmonaires, l
 
 
 
-{{<article number="0002"  title="CIM - Endoleak" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0002"  numberColor="black" title="CIM - Endoleak" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -137,7 +137,7 @@ Une endofuite de **type V** est également appelée endotension. Dans ce cas, on
 {{</article>}}
 
 
-{{<article number="0003"  title="CIM - Kyste hydatique, échinococcose kystique" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0003"  numberColor="black" title="CIM - Kyste hydatique, échinococcose kystique" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -188,7 +188,7 @@ Si des composants d'Echinococcus sont également présents dans les tissus envir
 
 {{</article>}}
 
-{{<article number="0004"  title="CIM - Sténoses des artères précérébrales / Sténose carotidienne bilatérale/sténoses des artères précérébrales unilatérales ou bilatérales" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0004"  numberColor="black" title="CIM - Sténoses des artères précérébrales / Sténose carotidienne bilatérale/sténoses des artères précérébrales unilatérales ou bilatérales" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -238,7 +238,7 @@ En principe, il convient de toujours choisir le code CIM le plus spécifique qui
 {{</article>}}
 
 
-{{<article number="0005"  title="CIM - Ulcère hypertensif (Martorell)" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0005"  numberColor="black" title="CIM - Ulcère hypertensif (Martorell)" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -286,7 +286,7 @@ Cette classification permet de distinguer l'ulcère hypertonique des autres type
 
 
 
-{{<article number="0006"  title="CIM - Herpes zoster (Zona)" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0006"  numberColor="black" title="CIM - Herpes zoster (Zona)" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -332,7 +332,7 @@ Un herpès zoster se manifestant dans la zone d'innervation de la première bran
 
 
 
-{{<article number="0007"  title=" CIM - HFpEF - Insuffisance cardiaque avec FE (fraction d'éjection) préservée" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0007"  numberColor="black" title=" CIM - HFpEF - Insuffisance cardiaque avec FE (fraction d'éjection) préservée" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -381,7 +381,7 @@ Si les symptômes/la dyspnée sont documentés de manière appropriée, les code
 
 
 
-{{<article number="0008"  title="CIM - Porteur de BMR (bactéries multirésistantes)" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0008"  numberColor="black" title="CIM - Porteur de BMR (bactéries multirésistantes)" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -433,7 +433,7 @@ Jusqu’au moment où trois tests de dépistage négatifs consécutifs par local
 
 
 
-{{<article number="0009"  title="CIM  - Fracture(s) de la colonne vertébrale en cas d’ostéoporose" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0009"  numberColor="black" title="CIM  - Fracture(s) de la colonne vertébrale en cas d’ostéoporose" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -481,7 +481,7 @@ En complément, un code du groupe CIM-10-GM 2024 M49.5-* <i>Tassement vertébral
 
 
 
-{{<article number="0010"  title="CIM - Pneumonie due à des bactéries, non classée ailleurs" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0010"  numberColor="black" title="CIM - Pneumonie due à des bactéries, non classée ailleurs" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -534,7 +534,7 @@ Le fait qu'il s'agisse d'une infection d'origine bactérienne ne justifie pas au
 
 
 
-{{<article number="0011"  title="CIM - Tachyarythmie, fibrillation auriculaire" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0011"  numberColor="black" title="CIM - Tachyarythmie, fibrillation auriculaire" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -583,7 +583,7 @@ La tachyarythmie / tachycardie ne doit pas être codée en plus de la fibrillati
 
 
 
-{{<article number="0012"  title="CIM - Hydronéphrose et infection" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0012"  numberColor="black" title="CIM - Hydronéphrose et infection" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
