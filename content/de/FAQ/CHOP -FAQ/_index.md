@@ -19,7 +19,7 @@ keywords: []
 
 
 
-{{<article number="0001"  title="CHOP - 39.99.21 Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0001"  numberColor="black" title="CHOP - 39.99.21 Operationen bei kongenitaler Anomalie des Aortenisthmus (Stenose) oder bei unterbrochenem Aortenbogen" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -57,7 +57,7 @@ Eine offene Operation einer kongenitalen Aortenisthmusstenose wird je nach Metho
 
 
 
-{{<article number="0002"  title="CHOP - Perkutan-transluminale Thrombektomie an Lungengefässen mittels Thrombusentfernungssystem" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0002"  numberColor="black" title="CHOP - Perkutan-transluminale Thrombektomie an Lungengefässen mittels Thrombusentfernungssystem" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -104,7 +104,7 @@ Eine perkutan-transluminale Thrombektomie an Lungengefässen mittels Thrombusent
 
 
 
-{{<article number="0003"  title="CHOP - Ende der untersten Stent-Grafts [gecoverten Stents]" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0003"  numberColor="black" title="CHOP - Ende der untersten Stent-Grafts [gecoverten Stents]" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -164,7 +164,7 @@ Folgende Tabelle illustriert die verschiedenen Situationen einer abdominalen Hau
 {{</article>}}
 
 
-{{<article number="0004"  title="CHOP - Erfassung von nicht-vaskulären Stents/Prothesen" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0004" numberColor="black" title="CHOP - Erfassung von nicht-vaskulären Stents/Prothesen" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -318,7 +318,7 @@ Tag Y:
 {{</article>}}
 
 
-{{<article number="0005"  title="CHOP - Erfassen der Anzahl der implantierten vaskulären Stents oder Stent-Grafts" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0005"  numberColor="black" title="CHOP - Erfassen der Anzahl der implantierten vaskulären Stents oder Stent-Grafts" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -381,7 +381,7 @@ Kodierung:
 
 
 
-{{<article number="0006"  title="CHOP - Gefässverschlusskörper vs. Embolie-Protektionssysteme" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0006"  numberColor="black" title="CHOP - Gefässverschlusskörper vs. Embolie-Protektionssysteme" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -434,7 +434,7 @@ Die Kodes 38.7X.11 <i>Einsetzen eines Embolie-Protektionssystems in die Vena cav
 
 
 
-{{<article number="0007"  title="CHOP - Sonstige Operationen an den Gallenwegen" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0007"  numberColor="black" title="CHOP - Sonstige Operationen an den Gallenwegen" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -484,7 +484,7 @@ Der Kode 51.99.90 <i>Sonstige endoskopische Operationen an den Gallenwegen</i>, 
 
 
 
-{{<article number="0008"  title="CHOP - Wechsel einer Knieendoprothese und Implantation weiterer/anderer Komponenten" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0008"  numberColor="black" title="CHOP - Wechsel einer Knieendoprothese und Implantation weiterer/anderer Komponenten" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -527,7 +527,7 @@ Wird bei einem Wechsel einer Knieendoprothese zum ersten Mal ein Patella-Rückfl
 
 
 
-{{<article number="0009"  title="CHOP - Einzeitige Eingriffe an Mittelhand- und Fingerstrahlen oder Mittelfuss- und Zehenstrahlen" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0009"  numberColor="black" title="CHOP - Einzeitige Eingriffe an Mittelhand- und Fingerstrahlen oder Mittelfuss- und Zehenstrahlen" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -568,7 +568,7 @@ Folgende Tabelle präzisiert die Kodierung von Eingriffskode und Zusatzkode bei 
 
 
 
-{{<article number="0010"  title="CHOP - Lateralitätsmarkierung in der CHOP" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0010"  numberColor="black" title="CHOP - Lateralitätsmarkierung in der CHOP" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -607,7 +607,7 @@ Die Angabe der Lateralität ist nur bei paarigen Organen ein Muss (entsprechende
 
 
 
-{{<article number="0011"  title="CHOP - Berücksichtigte Therapiedauer Gruppentherapie / Einzeltherapie" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0011"  numberColor="black" title="CHOP - Berücksichtigte Therapiedauer Gruppentherapie / Einzeltherapie" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -650,7 +650,7 @@ Ausnahme: Es bestehen CHOP-Kodes, bei denen im Beachte angegeben ist, dass die g
 
 
 
-{{<article number="0012"  title="CHOP - Abgrenzung 93.59.5- und 99.84.1-, 99.84.2-, 99.84.3-" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0012"  numberColor="black" title="CHOP - Abgrenzung 93.59.5- und 99.84.1-, 99.84.2-, 99.84.3-" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -707,7 +707,7 @@ Dies bedeutet, dass die zeitgleiche Kodierung von 93.59.5- und 99.84.1-, 99.84.2
 
 
 
-{{<article number="0013"  title="CHOP - Berechnung der Aufenthaltstage für Kodes der Elementegruppe 93.59.5-" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0013"  numberColor="black" title="CHOP - Berechnung der Aufenthaltstage für Kodes der Elementegruppe 93.59.5-" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -747,7 +747,7 @@ Zur Berechnung der Behandlungstage für die CHOP-Kodes der Elementegruppe 93.59.
 
 
 
-{{<article number="0014"  title="CHOP - Komplexbehandlungen - Kode «[…], bis 6 Behandlungstage" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0014"  numberColor="black" title="CHOP - Komplexbehandlungen - Kode «[…], bis 6 Behandlungstage" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -788,7 +788,7 @@ D. h. bei diesen Kodes entfallen die Mindestmerkmale, die sich auf eine Woche od
 
 
 
-{{<article number="0015"  title="CHOP - Neurologische Befunderhebung des Stroke" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0015"  numberColor="black" title="CHOP - Neurologische Befunderhebung des Stroke" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -834,7 +834,7 @@ Die **alleinige** Erfassung des Glasgow Coma Scale (GCS) ist für den klinisch n
 {{</article>}}
 
 
-{{<article number="0016"  title="CHOP - Auflistung von Massnahmen in den Komplexbehandlungen oder Komplexdiagnostiken" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0016"  numberColor="black" title="CHOP - Auflistung von Massnahmen in den Komplexbehandlungen oder Komplexdiagnostiken" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -895,7 +895,7 @@ Werden hingegen ein craniales MRI, eine neurophysiologische Diagnostik sowie ein
 
 
 
-{{<article number="0017"  title="CHOP - 99.C- Pflege-Komplexbehandlung – Zuordnung einer Pflegeintervention nur zu einer Leistungsgruppe" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0017"  numberColor="black" title="CHOP - 99.C- Pflege-Komplexbehandlung – Zuordnung einer Pflegeintervention nur zu einer Leistungsgruppe" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -939,7 +939,7 @@ Beispiel 2: Eine «Hygienemassnahme» könnte im Rahmen des Pflegeinterventionsp
 
 
 
-{{<article number="0018"  title="CHOP - Palliativmedizin - Fallzusammenführung und PBA" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0018"  numberColor="black" title="CHOP - Palliativmedizin - Fallzusammenführung und PBA" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -988,7 +988,7 @@ Bei einer Fallzusammenführung mit palliativmedizinischer Komplexbehandlung im e
 
 
 
-{{<article number="0019"  title="CHOP - Palliativmedizin - Erläuterungen zu den Mindestmerkmalen" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0019" numberColor="black" title="CHOP - Palliativmedizin - Erläuterungen zu den Mindestmerkmalen" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -1068,7 +1068,7 @@ Bei der «interprofessionellen Visite» ist unter «interprofessionell» zu vers
 
 
 
-{{<article number="0020"  title="CHOP - Standardisiertes palliativmedizinisches Basisassessment - SENS" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0020"  numberColor="black" title="CHOP - Standardisiertes palliativmedizinisches Basisassessment - SENS" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -1115,7 +1115,7 @@ Die alleinige Durchführung eines Assessmentinstrumentes (z. B. ESAS) zur Erfass
 
 
 
-{{<article number="0021"  title="CHOP - Erfassung «Zusatzleistung auf einer eigenständigen spezialisierten Palliative Care Station, nach Anzahl Behandlungstage»" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0021"  numberColor="black" title="CHOP - Erfassung «Zusatzleistung auf einer eigenständigen spezialisierten Palliative Care Station, nach Anzahl Behandlungstage»" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -1162,7 +1162,7 @@ Folgende zwei Beispiele veranschaulichen die gemeinte Erfassungsweise der Zusatz
 
 
 
-{{<article number="0022"  title="CHOP - Spondylodese: Zählung der Segmente bei Stabwechsel und bei Verlängerung" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0022"  numberColor="black" title="CHOP - Spondylodese: Zählung der Segmente bei Stabwechsel und bei Verlängerung" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -1205,7 +1205,7 @@ Bei z. B. vorbestehender Spondylodese L2 – L4 und aktuell Neufusion der Segmen
 
 
 
-{{<article number="0023"  title="CHOP - 7A.A2 Growing rod – Zusatzkode – Segmente beim spezifischen Eingriff" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0023"  numberColor="black" title="CHOP - 7A.A2 Growing rod – Zusatzkode – Segmente beim spezifischen Eingriff" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -1248,7 +1248,7 @@ Zur Zählung der behandelten Segmente werden nur die Segmente, an denen das Syst
 
 
 
-{{<article number="0024"  title="CHOP - Stabilisierung der Wirbelsäule und Stellungskorrektur – Zählung der Segmente" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0024"  numberColor="black" title="CHOP - Stabilisierung der Wirbelsäule und Stellungskorrektur – Zählung der Segmente" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -1299,7 +1299,7 @@ Im Beispiel der folgenden Abbildung erfolgte eine Spondylodese über sechs Wirbe
 
 
 
-{{<article number="0025"  title="CHOP - Knöcherne Fusion mit Instrumentierung – Wirbelsäule" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0025"  numberColor="black" title="CHOP - Knöcherne Fusion mit Instrumentierung – Wirbelsäule" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -1349,7 +1349,7 @@ Es liegt keine <b>potenzielle Bewegungserhaltung</b> im betroffenen Segment vor.
 
 
 
-{{<article number="0026"  title="CHOP - Knöcherne Fusion ohne Instrumentierung – Wirbelsäule" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0026"  numberColor="black" title="CHOP - Knöcherne Fusion ohne Instrumentierung – Wirbelsäule" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -1394,7 +1394,7 @@ Es darf **kein** Kode der Subkategorie 7A.71.- _Fusion von Wirbeln mit Stabilisi
 
 
 
-{{<article number="0027"  title="CHOP - Stabilisierung Wirbelsäule ohne Fusion" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0027"  numberColor="black" title="CHOP - Stabilisierung Wirbelsäule ohne Fusion" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -1438,7 +1438,7 @@ Typischerweise wird dieser Kode bei **traumatischen Pathologien**, insbesondere 
 
 
 
-{{<article number="0027"  title="CHOP - Stabilisierung Wirbelsäule ohne Fusion" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0028"  title="CHOP - NEW" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>

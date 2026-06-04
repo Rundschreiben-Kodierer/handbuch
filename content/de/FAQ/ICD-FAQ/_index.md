@@ -18,7 +18,7 @@ keywords: []
 {{<collapsibleGroupCommand groupId="icdfaq">}}
 
 
-{{<article number="0001"  title="ICD - Atelektase der Lunge" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0001"  numberColor="black" title="ICD - Atelektase der Lunge" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -70,7 +70,7 @@ Die fehlende Belüftung von Teilabschnitten der Lunge (Lungensegmenten, Lungenla
 
 
 
-{{<article number="0002"  title="ICD - Endoleak" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0002"  numberColor="black" title="ICD - Endoleak" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -137,7 +137,7 @@ Ein Endoleak **Typ V** wird auch als Endotension bezeichnet. In diesem Fall zeig
 {{</article>}}
 
 
-{{<article number="0003"  title="ICD - Hydatidenzyste, zystische Echinokokkose" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0003"  numberColor="black" title="ICD - Hydatidenzyste, zystische Echinokokkose" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -188,7 +188,7 @@ Finden sich auch im umliegenden Gewebe Echinokokkusbestandteile und dadurch herv
 
 {{</article>}}
 
-{{<article number="0004"  title="ICD - Stenosen präzerebraler Arterien Carotisstenose bds / Stenosen ein-oder beidseitiger präzerebraler Arterien" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0004"  numberColor="black" title="ICD - Stenosen präzerebraler Arterien Carotisstenose bds / Stenosen ein-oder beidseitiger präzerebraler Arterien" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -238,7 +238,7 @@ Grundsätzlich gilt: Es ist stets der spezifischste ICD-Kode zu wählen, der die
 {{</article>}}
 
 
-{{<article number="0005"  title="ICD - Ulcus hypertonicum (Martorell)" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0005"  numberColor="black" title="ICD - Ulcus hypertonicum (Martorell)" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -289,7 +289,7 @@ Durch diese Erfassung kann das Ulcus hypertonicum von anderen Ulcus cruris-Arten
 
 
 
-{{<article number="0006"  title="ICD - Herpes zoster" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0006"  numberColor="black" title="ICD - Herpes zoster" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -340,7 +340,7 @@ Bei einem Herpes zoster mit Manifestation im Innervationsgebiet des 1. Trigeminu
 
 
 
-{{<article number="0007"  title="ICD - HFpEF - Herzinsuffizienz mit erhaltener EF (Ejektionsfraktion)" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0007"  numberColor="black" title="ICD - HFpEF - Herzinsuffizienz mit erhaltener EF (Ejektionsfraktion)" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -394,7 +394,7 @@ Bei entsprechender Dokumentation der Beschwerden / Dyspnoe, können die Kodes I5
 
 
 
-{{<article number="0008"  title="ICD - Träger von MRE (multiresistenter Erreger)" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0008"  numberColor="black" title="ICD - Träger von MRE (multiresistenter Erreger)" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -448,7 +448,7 @@ Bis zum Zeitpunkt, an dem drei hintereinander negative Abstrich-Tests pro Lokali
 
 
 
-{{<article number="0009"  title="ICD  - Fraktur/en Wirbelsäule bei Osteoporose" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0009"  numberColor="black" title="ICD  - Fraktur/en Wirbelsäule bei Osteoporose" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -498,7 +498,7 @@ Zusätzlich soll ein Kode der ICD-10-GM 2024 Kodegruppe M49.5-* <i>Wirbelkörper
 
 
 
-{{<article number="0010"  title="ICD - Pneumonie durch Bakterien, anderenorts nicht klassifiziert " collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0010"  numberColor="black" title="ICD - Pneumonie durch Bakterien, anderenorts nicht klassifiziert " collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -552,7 +552,7 @@ Die Tatsache, dass es sich um einen Infekt bakteriellen Ursprungs handelt, berec
 
 
 
-{{<article number="0011"  title="ICD - Tachyarrhythmie, Vorhofflimmern" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0011"  numberColor="black" title="ICD - Tachyarrhythmie, Vorhofflimmern" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -601,7 +601,43 @@ Die Tachyarrhythmie / Tachykardie ist bei Vorhofflimmern nicht zusätzlich zu ko
 
 
 
+{{<article number="0012"  numberColor="black"  title="ICD - Hydronephrose und Infektion" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
+<table border="1" style="border-collapse: collapse;">
+  <tr>
+    <th style="border: 1px solid black;">Schlagwort</th>
+    <td style="border: 1px solid black;">	Hydronephrose / Infektion Niere / Pyonephrose / Harnwegsinfektion</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Erstellt</th>
+    <td style="border: 1px solid black;">01.01.2026 / Basis RS 2025/2: 0785</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Aktualisiert</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">ICD</th>
+    <td style="border: 1px solid black;">N13.6.- / N13.21 / N39.0</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">CHOP</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Kodierregel</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+</table>
+
+{{<markdown>}}
+**Problem/Erläuterung:**  
+Die ICD-10-GM 2024 Kodes der 4-stelligen Subkategorie N13.6- «Pyonephrose» werden nur bei einer dokumentierten Infektion der Niere verschlüsselt.
+Dies betrifft auch den endständigen Kode N13.68 <i>Sonstige und nicht näher bezeichnete Pyonephrose</i>. Eine Hydronephrose durch Ureterstein mit Harnwegsinfektion nicht näher bezeichneter Lokalisation wird mit N13.21 <i>Hydronephrose bei Obstruktion durch Ureterstein</i> und N39.0 <i>Harnwegsinfektion, Lokalisation nicht näher bezeichnet</i> verschlüsselt.
+{{</markdown>}}
+<br>  
+<br>
+{{</article>}}
 
 
 {{<article number="0013"  title="ICD - Paravasat, Para liegender Venflon / periphere Venenverweilkanüle (Fehllage / Verlagerung)" collapsibleClass="d-inline-block" groupId="icdfaq">}}

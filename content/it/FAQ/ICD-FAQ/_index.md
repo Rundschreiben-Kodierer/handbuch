@@ -18,7 +18,7 @@ keywords: []
 {{<collapsibleGroupCommand groupId="icdfaq">}}
 
 
-{{<article number="0001"  title="ICD - Atelettasia polmonare" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0001"  numberColor="black" title="ICD - Atelettasia polmonare" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -69,7 +69,7 @@ La mancanza di ventilazione di parti del polmone (segmenti polmonari, lobi polmo
 
 
 
-{{<article number="0002"  title="ICD - Endoleak" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0002"  numberColor="black" title="ICD - Endoleak" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -136,7 +136,7 @@ Un endoleak di **tipo V** è anche denominato endotensione. In questo caso si os
 {{</article>}}
 
 
-{{<article number="0003"  title="ICD - Cisti idatidea, echinococcosi cistica" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0003"  numberColor="black" title="ICD - Cisti idatidea, echinococcosi cistica" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -185,7 +185,7 @@ Se nel tessuto circostante sono presenti anche componenti dell'echinococco che p
 <br>
 {{</article>}}
 
-{{<article number="0004"  title="ICD - Stenosi delle arterie precerebrali Stenosi carotidea bilaterale/stenosi delle arterie precerebrali unilaterali o bilaterali " collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0004"  numberColor="black" title="ICD - Stenosi delle arterie precerebrali Stenosi carotidea bilaterale/stenosi delle arterie precerebrali unilaterali o bilaterali " collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -235,7 +235,7 @@ In linea di principio vale quanto segue: occorre sempre scegliere il codice ICD 
 {{</article>}}
 
 
-{{<article number="0005"  title="ICD - Ulcera ipertensiva (Martorell)" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0005"  numberColor="black" title="ICD - Ulcera ipertensiva (Martorell)" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -283,7 +283,7 @@ Questa registrazione consente di distinguere l'ulcera ipertensiva da altri tipi 
 
 
 
-{{<article number="0006"  title="ICD - Zoster [herpes zoster]" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0006"  numberColor="black" title="ICD - Zoster [herpes zoster]" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -331,7 +331,7 @@ In caso di Zoster [herpes zoster] con manifestazione nell'area di innervazione d
 
 
 
-{{<article number="0007"  title="ICD - HFpEF - Insufficienza cardiaca con frazione di eiezione preservata (FE preservata)" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0007"  numberColor="black" title="ICD - HFpEF - Insufficienza cardiaca con frazione di eiezione preservata (FE preservata)" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -384,7 +384,7 @@ Se i disturbi o la dispnea sono adeguatamente documentati, i codici I50.12 – I
 
 
 
-{{<article number="0008"  title="ICD - Portatore di agenti patogeni multiresistenti" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0008"  numberColor="black" title="ICD - Portatore di agenti patogeni multiresistenti" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -438,7 +438,7 @@ Fino al momento in cui non siano disponibili tre test di tampone negativi consec
 
 
 
-{{<article number="0009"  title="ICD  - Frattura/e della colonna vertebrale in caso di osteoporosi" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0009"  numberColor="black" title="ICD  - Frattura/e della colonna vertebrale in caso di osteoporosi" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -489,7 +489,7 @@ Inoltre, per indicare chiaramente la localizzazione, deve essere inserito un cod
 
 
 
-{{<article number="0010"  title="ICD - Polmonite batterica, non classificata altrove " collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0010"  numberColor="black" title="ICD - Polmonite batterica, non classificata altrove " collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -542,7 +542,7 @@ Il fatto che si tratti di un'infezione di origine batterica non giustifica autom
 
 
 
-{{<article number="0011"  title="ICD - Tachiaritmia, fibrillazione atriale" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0011"  numberColor="black" title="ICD - Tachiaritmia, fibrillazione atriale" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -591,7 +591,7 @@ La tachiaritmia / tachicardia non deve essere codificata in aggiunta alla fibril
 
 
 
-{{<article number="0012"  title="ICD - Idronefrosi e infezione" collapsibleClass="d-inline-block" groupId="icdfaq">}}
+{{<article number="0012"  numberColor="black"  title="ICD - Idronefrosi e infezione" collapsibleClass="d-inline-block" groupId="icdfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -600,7 +600,7 @@ La tachiaritmia / tachicardia non deve essere codificata in aggiunta alla fibril
   </tr>
   <tr>
     <th style="border: 1px solid black;">Creato</th>
-    <td style="border: 1px solid black;">01.01.2026 / Base Circolare 2025/2:  0785</td>
+    <td style="border: 1px solid black;">01.01.2026 / Base Circolare 2025/2: 0785</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aggiornato</th>
