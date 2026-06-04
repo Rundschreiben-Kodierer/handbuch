@@ -1514,7 +1514,7 @@ Les mesures correspondantes constituent par conséquent des interventions indép
 
 
 
-{{<article number="0029"  title="CHOP - Ostéosynthèse de l’acétabulum, prothèse articulaire des extrémités inférieures" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0029"  numberColor="black" title="CHOP - Ostéosynthèse de l’acétabulum, prothèse articulaire des extrémités inférieures" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
