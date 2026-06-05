@@ -1420,48 +1420,8 @@ Ce code est généralement utilisé pour les **pathologies traumatiques**, en pa
 
 
 
-{{<article number="0028"  title="CHOP - NEW" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
-<table border="1" style="border-collapse: collapse;">
-  <tr>
-    <th style="border: 1px solid black;">Mot-clé</th>
-    <td style="border: 1px solid black;">Stabilisation non dynamique de la colonne vertébrale, instrumentation / ostéosynthèse de la colonne vertébrale</td>
-  </tr>
-  <tr>
-    <th style="border: 1px solid black;">Créé</th>
-    <td style="border: 1px solid black;">01.01.2026 – Nouveau </td>
-  </tr>
-  <tr>
-    <th style="border: 1px solid black;">Mise à jour</th>
-    <td style="border: 1px solid black;"></td>
-  </tr>
-  <tr>
-    <th style="border: 1px solid black;">ICD</th>
-    <td style="border: 1px solid black;"></td>
-  </tr>
-  <tr>
-    <th style="border: 1px solid black;">CHOP</th>
-    <td style="border: 1px solid black;">7A.73.-</td>
-  </tr>
-  <tr>
-    <th style="border: 1px solid black;">Règle de codage</th>
-    <td style="border: 1px solid black;"></td>
-  </tr>
-</table>
-
-{{<markdown>}}
-**Problème/explication:**  
-La sous-catégorie **7A.73.-** est utilisée pour coder une intervention chirurgicale dans laquelle la colonne vertébrale est **stabilisée** mécaniquement **ou immobilisée** à l'aide de matériel d'ostéosynthèse tel que **des vis, des tiges ou des plaques**. La stabilisation peut être potentiellement **réversible**, par exemple avec la possibilité de libérer le segment après la guérison de la fracture en **retirant partiellement ou totalement le matériel** (OSME).
-
-Ce code est généralement utilisé pour les **pathologies traumatiques**, en particulier **les fractures thoraco-lombaires**. Il est toutefois également utilisé pour **d'autres indications**.
-{{</markdown>}}
-<br>
-<br>
-{{</article>}}
-
-
-
-{{<article number="0029" title="CHOP - Ostéosynthèse de l’acétabulum, prothèse articulaire des extrémités inférieures" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0028" title="CHOP - Ostéosynthèse de l’acétabulum, prothèse articulaire des extrémités inférieures" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -1502,3 +1462,43 @@ Les mesures correspondantes constituent par conséquent des interventions indép
 <br>
 {{</article>}}
 
+
+
+{{<article number="0029"  title="CHOP - NEW" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+
+<table border="1" style="border-collapse: collapse;">
+  <tr>
+    <th style="border: 1px solid black;">Mot-clé</th>
+    <td style="border: 1px solid black;">Stabilisation non dynamique de la colonne vertébrale, instrumentation / ostéosynthèse de la colonne vertébrale</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Créé</th>
+    <td style="border: 1px solid black;">01.01.2026 – Nouveau </td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Mise à jour</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">ICD</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">CHOP</th>
+    <td style="border: 1px solid black;">7A.73.-</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Règle de codage</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+</table>
+
+{{<markdown>}}
+**Problème/explication:**  
+La sous-catégorie **7A.73.-** est utilisée pour coder une intervention chirurgicale dans laquelle la colonne vertébrale est **stabilisée** mécaniquement **ou immobilisée** à l'aide de matériel d'ostéosynthèse tel que **des vis, des tiges ou des plaques**. La stabilisation peut être potentiellement **réversible**, par exemple avec la possibilité de libérer le segment après la guérison de la fracture en **retirant partiellement ou totalement le matériel** (OSME).
+
+Ce code est généralement utilisé pour les **pathologies traumatiques**, en particulier **les fractures thoraco-lombaires**. Il est toutefois également utilisé pour **d'autres indications**.
+{{</markdown>}}
+<br>
+<br>
+{{</article>}}

@@ -1436,53 +1436,7 @@ Typischerweise wird dieser Kode bei **traumatischen Pathologien**, insbesondere 
 
 
 
-
-
-{{<article number="0028"  title="CHOP - NEW" collapsibleClass="d-inline-block" groupId="chopfaq">}}
-
-<table border="1" style="border-collapse: collapse;">
-  <tr>
-    <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Nicht-dynamische Stabilisierung Wirbelsäule,<br> Instrumentierung / Osteosynthese an der Wirbelsäule</td>
-  </tr>
-  <tr>
-    <th style="border: 1px solid black;">Erstellt</th>
-    <td style="border: 1px solid black;">01.01.2026 - Neu</td>
-  </tr>
-  <tr>
-    <th style="border: 1px solid black;">Aktualisiert</th>
-    <td style="border: 1px solid black;"></td>
-  </tr>
-  <tr>
-    <th style="border: 1px solid black;">ICD</th>
-    <td style="border: 1px solid black;"></td>
-  </tr>
-  <tr>
-    <th style="border: 1px solid black;">CHOP</th>
-    <td style="border: 1px solid black;">7A.73.-</td>
-  </tr>
-  <tr>
-    <th style="border: 1px solid black;">Kodierregel</th>
-    <td style="border: 1px solid black;"></td>
-  </tr>
-</table>
-
-{{<markdown>}}
-**Problem/Erläuterung:**  
-Die Subkategorie **7A.73.-** wird verwendet zur Kodierung einer operativen Massnahme, bei der die Wirbelsäule mittels Osteosynthesematerialien wie **Schrauben, Stäben oder Platten** mechanisch **stabilisiert bzw. geschient** wird. Die Stabilisierung ist potenziell **reversibel –** durch eine **partielle oder vollständige Materialentfernung (OSME) nach Frakturheilung**.
-
-Typischerweise wird dieser Kode bei **traumatischen Pathologien**, insbesondere **thorakolumbalen Frakturen**, angewendet. Er kommt jedoch auch bei **anderen Indikationen** zum Einsatz.
-{{</markdown>}}
-<br>
-<br>
-{{</article>}}
-
-
-
-
-
-
-{{<article number="0029"  title="CHOP - Osteosynthese Acetabulum, Gelenkersatz untere Extremitäten" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0028"  title="CHOP - Osteosynthese Acetabulum, Gelenkersatz untere Extremitäten" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -1522,5 +1476,49 @@ Eingriffe am Acetabulum sind separat zu kodieren, sofern sie durchgeführt werde
 <br>
 <br>
 {{</article>}}
+
+
+
+
+{{<article number="0029"  title="CHOP - NEW" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+
+<table border="1" style="border-collapse: collapse;">
+  <tr>
+    <th style="border: 1px solid black;">Schlagwort</th>
+    <td style="border: 1px solid black;">Nicht-dynamische Stabilisierung Wirbelsäule,<br> Instrumentierung / Osteosynthese an der Wirbelsäule</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Erstellt</th>
+    <td style="border: 1px solid black;">01.01.2026 - Neu</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Aktualisiert</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">ICD</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">CHOP</th>
+    <td style="border: 1px solid black;">7A.73.-</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Kodierregel</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+</table>
+
+{{<markdown>}}
+**Problem/Erläuterung:**  
+Die Subkategorie **7A.73.-** wird verwendet zur Kodierung einer operativen Massnahme, bei der die Wirbelsäule mittels Osteosynthesematerialien wie **Schrauben, Stäben oder Platten** mechanisch **stabilisiert bzw. geschient** wird. Die Stabilisierung ist potenziell **reversibel –** durch eine **partielle oder vollständige Materialentfernung (OSME) nach Frakturheilung**.
+
+Typischerweise wird dieser Kode bei **traumatischen Pathologien**, insbesondere **thorakolumbalen Frakturen**, angewendet. Er kommt jedoch auch bei **anderen Indikationen** zum Einsatz.
+{{</markdown>}}
+<br>
+<br>
+{{</article>}}
+
+
 
 

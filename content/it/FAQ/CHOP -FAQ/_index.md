@@ -1438,50 +1438,7 @@ Tipicamente, questo codice viene utilizzato per **patologie traumatiche**, in pa
 
 
 
-{{<article number="0028"  title="CHOP - Ostéosynthèse de l’acétabulum, prothèse articulaire des extrémités inférieures" collapsibleClass="d-inline-block" groupId="chopfaq">}}
-
-<table border="1" style="border-collapse: collapse;">
-  <tr>
-    <th style="border: 1px solid black;">Mot-clé</th>
-    <td style="border: 1px solid black;">Ostéosynthèse de l’acétabulum, prothèse articulaire des extrémités inférieures</td>
-  </tr>
-  <tr>
-    <th style="border: 1px solid black;">Créé</th>
-    <td style="border: 1px solid black;">01.07.2026</td>
-  </tr>
-  <tr>
-    <th style="border: 1px solid black;">Mise à jour</th>
-    <td style="border: 1px solid black;"></td>
-  </tr>
-  <tr>
-    <th style="border: 1px solid black;">ICD</th>
-    <td style="border: 1px solid black;"></td>
-  </tr>
-  <tr>
-    <th style="border: 1px solid black;">CHOP</th>
-    <td style="border: 1px solid black;">81.5- / 78.19.21 / 79.39.20</td>
-  </tr>
-  <tr>
-    <th style="border: 1px solid black;">Règle de codage</th>
-    <td style="border: 1px solid black;"></td>
-  </tr>
-</table>
-
-{{<markdown>}}
-**Problème/explication:**  
-La catégorie à 3 positions 81.5 – <i>Prothèse articulaire des membres inférieurs</i> – inclut **l’arthroplastie des membres inférieurs** avec ostéosynthèse traction ou fixation externe, greffe d’os ou de cartilage ou prothèse, et n’est pas codée en plus en cas de prothèse articulaire.
-
-Les interventions sur l’acétabulum doivent être codées séparément, si elles sont réalisées, car l’acétabulum appartient anatomiquement au bassin (tronc) et non aux membres inférieurs.
-Les mesures correspondantes constituent par conséquent des interventions indépendantes, qui n’entrent pas dans la catégorie à trois positions 81.5 – voir les codes CHOP mentionnés ci-dessus.
-{{</markdown>}}
-<br>
-<br>
-{{</article>}}
-
-
-
-
-{{<article number="0029"  title="CHOP - Osteosintesi dell'acetabolo, sostituzione di articolazione delle estremità inferiori" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0028"  title="CHOP - Osteosintesi dell'acetabolo, sostituzione di articolazione delle estremità inferiori" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
@@ -1523,4 +1480,47 @@ Se effettuati, gli interventi sull'acetabolo devono essere codificati separatame
 <br>
 {{</article>}}
 
+
+
+
+
+{{<article number="0029"  title="CHOP - NEW" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+
+<table border="1" style="border-collapse: collapse;">
+  <tr>
+    <th style="border: 1px solid black;">Mot-clé</th>
+    <td style="border: 1px solid black;">Ostéosynthèse de l’acétabulum, prothèse articulaire des extrémités inférieures</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Créé</th>
+    <td style="border: 1px solid black;">01.07.2026</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Mise à jour</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">ICD</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">CHOP</th>
+    <td style="border: 1px solid black;">81.5- / 78.19.21 / 79.39.20</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black;">Règle de codage</th>
+    <td style="border: 1px solid black;"></td>
+  </tr>
+</table>
+
+{{<markdown>}}
+**Problème/explication:**  
+La catégorie à 3 positions 81.5 – <i>Prothèse articulaire des membres inférieurs</i> – inclut **l’arthroplastie des membres inférieurs** avec ostéosynthèse traction ou fixation externe, greffe d’os ou de cartilage ou prothèse, et n’est pas codée en plus en cas de prothèse articulaire.
+
+Les interventions sur l’acétabulum doivent être codées séparément, si elles sont réalisées, car l’acétabulum appartient anatomiquement au bassin (tronc) et non aux membres inférieurs.
+Les mesures correspondantes constituent par conséquent des interventions indépendantes, qui n’entrent pas dans la catégorie à trois positions 81.5 – voir les codes CHOP mentionnés ci-dessus.
+{{</markdown>}}
+<br>
+<br>
+{{</article>}}
 
