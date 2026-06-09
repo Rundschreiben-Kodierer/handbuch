@@ -350,7 +350,7 @@ keywords: []
     <td class="tg-ktyi">Francese</td>
     <td class="tg-0lax">Confermato</td>
     <td class="tg-0lax"></td>
-    <td class="tg-0lax">Oui</td>
+    <td class="tg-0lax">Sì</td>
     <td class="tg-0lax">Svizzera romanda</td>
     <td class="tg-0lax">Confermato</td>
     <td class="tg-0lax">08.06.2026</td>
