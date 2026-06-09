@@ -342,6 +342,20 @@ keywords: []
     <td class="tg-0lax">01.05.2023</td>
   </tr>
   <tr>
+    <td class="tg-0lax" id="n">Nebihi</td>
+    <td class="tg-0lax">Abetare</td>
+    <td class="tg-ktyi">Chemin du Verger 22C<br>1868 Collombey</td>
+    <td class="tg-v47d"><a href="mailto:abetare_nebihi@hotmail.ch">abetare_nebihi@hotmail.ch</a></td>
+    <td class="tg-ktyi">079 224 98 57</td>
+    <td class="tg-ktyi">Französisch</td>
+    <td class="tg-0lax">Bestätigt</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Ja</td>
+    <td class="tg-0lax">Romandie</td>
+    <td class="tg-0lax">Bestätigt</td>
+    <td class="tg-0lax">08.06.2026</td>
+  </tr>
+  <tr>
     <td class="tg-0lax">Niederer-Addor</td>
     <td class="tg-ktyi">Catherine</td>
     <td class="tg-0lax">Bodenrebenweg19<br>3225 Müntschemier</td>

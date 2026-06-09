@@ -356,6 +356,36 @@ keywords: []
     <td class="tg-ktyi">05.11.2021</td>
   </tr>
   <tr>
+    <td class="tg-0lax" id="n">Nebihi</td>
+    <td class="tg-0lax">Abetare</td>
+    <td class="tg-ktyi">Chemin du Verger 22C<br>1868 Collombey</td>
+    <td class="tg-v47d"><a href="mailto:abetare_nebihi@hotmail.ch">abetare_nebihi@hotmail.ch</a></td>
+    <td class="tg-ktyi">079 224 98 57</td>
+    <td class="tg-ktyi">Français</td>
+    <td class="tg-0lax">Confirmé</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Oui</td>
+    <td class="tg-0lax">Romandie</td>
+    <td class="tg-0lax">Confirmé</td>
+    <td class="tg-0lax">08.06.2026</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Niederer-Addor</td>
+    <td class="tg-ktyi">Catherine</td>
+    <td class="tg-0lax">Bodenrebenweg19<br>3225 Müntschemier</td>
+    <td class="tg-dcap"><a href="mailto:catherine.niederer@nicecomputing.ch">catherine.niederer@nicecomputing.ch</a></td>
+    <td class="tg-0lax">079 359 55 46</td>
+    <td class="tg-ktyi">Français<br>Allemand</td>
+    <td class="tg-0lax">Confirmé</td>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi">Oui</td>
+    <td class="tg-0lax">Suisse alémanique<br>incl. Biel/Bienne</td>
+    <td class="tg-ktyi">Confirmé</td>
+    <td class="tg-ktyi">05.11.2021</td>
+  </tr>
+
+
+  <tr>
     <td class="tg-0lax" id="p">Pangrazzi</td>
     <td class="tg-ktyi">Cristina</td>
     <td class="tg-0lax">Zelgmatt 65<br>8132 Egg </td>

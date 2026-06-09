@@ -995,12 +995,24 @@ keywords: []
     <td class="tg-ktyi">27.06.2012</td>
   </tr>
   <tr>
+    <td class="tg-0lax"id="n">Nebihi</td>
+    <td class="tg-ktyi">Abetare</td>
+    <td class="tg-ktyi">Chemin du Verger 22C<br>1868 Collombey</td>
+    <td class="tg-v47d"><a href="mailto:abetare_nebihi@hotmail.ch">abetare_nebihi@hotmail.ch</a></td>
+    <td class="tg-ktyi">079 224 98 57</td>
+    <td class="tg-ktyi">Francese</td>
+    <td class="tg-0lax">Confermato</td>
+    <td class="tg-ktyi">Svizzera romanda</td>
+    <td class="tg-ktyi">Confermato</td>
+    <td class="tg-ktyi">08.06.2026</td>
+  </tr>
+  <tr>
     <td class="tg-0lax">Niederer-Addor</td>
     <td class="tg-ktyi">Catherine</td>
     <td class="tg-ktyi">Bodenrebenweg 19<br>3225 Müntschemier</td>
     <td class="tg-yk8o"><a href="mailto:catherine.niederer@nicecomputing.ch">catherine.niederer@nicecomputing.ch</a></td>
     <td class="tg-ktyi">079 359 55 46</td>
-    <td class="tg-ktyi">Franh<br>Tedesco</td>
+    <td class="tg-ktyi">Francese<br>Tedesco</td>
     <td class="tg-0lax">Confermato</td>
     <td class="tg-ktyi">Svizzera tedesca<br>Biel/Bienne</td>
     <td class="tg-0lax">Confermato</td>
