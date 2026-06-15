@@ -1520,13 +1520,13 @@ Die dargestellte Stent-Graft-Konfiguration wird wie folgt kodiert.
 Die Hauptprothese in der Aorta abdominalis ist eine Y-Prothese (ohne Öffnung) (in der Abbildung mit der Nummer 1 gekennzeichnet und in Dunkelrot dargestellt). 
 <br><br>
 Der Auszug vom «Beachte» unter 39.73.- und 39.71.-, der das Zählen der Öffnungen erläutert lautet:
-«Zu den Öffnungen zählen die Seitenarme und die Fenestrierungen.<br>
+«<i>Zu den Öffnungen zählen die Seitenarme und die Fenestrierungen.<br>
 Alle Foramina am proximalen und an den distalen Enden des Stent-Grafts [gecoverten Stents] sowie die Scallops zählen nicht zu den Öffnungen.<br>
-Die Y-Verzweigung an der Hauptprothese wird nicht als Seitenarm kodiert. […]».<br>
+Die Y-Verzweigung an der Hauptprothese wird nicht als Seitenarm kodiert. […]</i>».<br>
 Gemäss diesen Angaben wird somit der 39.71.21 erfasst.
 <br><br>
 Der Auszug vom «Beachte» unter 39.73.- und 39.71.-, der die Y-Prothese erläutert lautet:<br>
-«[…] Die Y-Verzweigung an der Hauptprothese wird nicht als Seitenarm kodiert. Nur weitere an den Schenkeln der Y-Prothese anmodellierte Stent-Grafts [gecoverte Stents] sind zusätzlich zu kodieren. Die Information, dass es sich um eine Y-Prothese handelt, wird mit dem Zusatzkode 39.78.53 «Ende der untersten Stent-Grafts [gecoverten Stents], aortobiiliakal» angegeben. […]».<br>
+«<i>[…] Die Y-Verzweigung an der Hauptprothese wird nicht als Seitenarm kodiert. Nur weitere an den Schenkeln der Y-Prothese anmodellierte Stent-Grafts [gecoverte Stents] sind zusätzlich zu kodieren. Die Information, dass es sich um eine Y-Prothese handelt, wird mit dem Zusatzkode 39.78.53 «Ende der untersten Stent-Grafts [gecoverten Stents], aortobiiliakal» angegeben. […]»</i>.<br>
 Gemäss diesen Angaben wird somit der 39.78.53 erfasst. Die Hauptprothese ermöglicht die bi-iliakale Versorgung über die distale Ableitung. 
 <br><br>
 <body>
@@ -1541,7 +1541,6 @@ Die rechte A. iliaca communis wird auf dem Schema durch einen Stent-Graft (mit d
         <li><b>39.7B.11</b><i>«Endovaskuläre Implantation in Aa. iliacae communis und externa eines Stent-Grafts [gecoverten Stents] ohne Öffnung» - Rechts</i></li>
     </ul>
 </body>
-<br>
 Die linke A. iliaca communis wird auf dem Schema durch einen Stent-Graft versorgt, der an die Hauptprothese anmodelliert wurde (mit der Nummer 3 gekennzeichnet und in Blau dargestellt). 
 <body>
     <ul>
