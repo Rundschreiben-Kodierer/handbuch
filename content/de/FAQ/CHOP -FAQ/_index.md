@@ -1480,16 +1480,16 @@ Eingriffe am Acetabulum sind separat zu kodieren, sofern sie durchgeführt werde
 
 
 
-{{<article number="0029"  title="CHOP - NEW" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0029"  title="CHOP - Kodierungsbeispiel - Implantation von Stent-Grafts in die Aorta abdominalis und in die Aa. iliacae" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Schlagwort</th>
-    <td style="border: 1px solid black;">Nicht-dynamische Stabilisierung Wirbelsäule,<br> Instrumentierung / Osteosynthese an der Wirbelsäule</td>
+    <td style="border: 1px solid black;">Stent-Graft / Aorta / Aa. iliacae</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Erstellt</th>
-    <td style="border: 1px solid black;">01.01.2026 - Neu</td>
+    <td style="border: 1px solid black;">01.07.2026</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Aktualisiert</th>
@@ -1501,7 +1501,7 @@ Eingriffe am Acetabulum sind separat zu kodieren, sofern sie durchgeführt werde
   </tr>
   <tr>
     <th style="border: 1px solid black;">CHOP</th>
-    <td style="border: 1px solid black;">7A.73.-</td>
+    <td style="border: 1px solid black;">39.71.- / 39.78.53 / 39.7B.- / 39.B3.C6 / 39.B4.C6</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Kodierregel</th>
@@ -1511,9 +1511,46 @@ Eingriffe am Acetabulum sind separat zu kodieren, sofern sie durchgeführt werde
 
 {{<markdown>}}
 **Problem/Erläuterung:**  
-Die Subkategorie **7A.73.-** wird verwendet zur Kodierung einer operativen Massnahme, bei der die Wirbelsäule mittels Osteosynthesematerialien wie **Schrauben, Stäben oder Platten** mechanisch **stabilisiert bzw. geschient** wird. Die Stabilisierung ist potenziell **reversibel –** durch eine **partielle oder vollständige Materialentfernung (OSME) nach Frakturheilung**.
+Im folgenden Schema wird das Ergebnis eines vaskulären Eingriffs mit der Implantation von Stent-Grafts in die Aorta abdominalis und die Aa. iliacae dargestellt.
 
-Typischerweise wird dieser Kode bei **traumatischen Pathologien**, insbesondere **thorakolumbalen Frakturen**, angewendet. Er kommt jedoch auch bei **anderen Indikationen** zum Einsatz.
+<br><br>
+{{<insertImage image="FAQCHOP0029IMG.png" class="edge max-w-90">}}
+<br><br>
+Die dargestellte Stent-Graft-Konfiguration wird wie folgt kodiert. 
+<br>
+Die Hauptprothese in der Aorta abdominalis ist eine Y-Prothese (ohne Öffnung) (in der Abbildung mit der Nummer 1 gekennzeichnet und in Dunkelrot dargestellt). 
+<br>
+Der Auszug vom «Beachte» unter 39.73.- und 39.71.-, der das Zählen der Öffnungen erläutert lautet:
+«Zu den Öffnungen zählen die Seitenarme und die Fenestrierungen. 
+Alle Foramina am proximalen und an den distalen Enden des Stent-Grafts [gecoverten Stents] sowie die Scallops zählen nicht zu den Öffnungen. 
+Die Y-Verzweigung an der Hauptprothese wird nicht als Seitenarm kodiert. […]». 
+Gemäss diesen Angaben wird somit der 39.71.21 erfasst. 
+<br>
+Der Auszug vom «Beachte» unter 39.73.- und 39.71.-, der die Y-Prothese erläutert lautet: 
+«[…] Die Y-Verzweigung an der Hauptprothese wird nicht als Seitenarm kodiert. Nur weitere an den Schenkeln der Y-Prothese anmodellierte Stent-Grafts [gecoverte Stents] sind zusätzlich zu kodieren. Die Information, dass es sich um eine Y-Prothese handelt, wird mit dem Zusatzkode 39.78.53 «Ende der untersten Stent-Grafts [gecoverten Stents], aortobiiliakal» angegeben. […]». 
+Gemäss diesen Angaben wird somit der 39.78.53 erfasst. Die Hauptprothese ermöglicht die bi-iliakale Versorgung über die distale Ableitung. 
+<br>
+<body>
+    <ul>
+        <li>39.71.21<i>«Endovaskuläre Implantation in die Aorta abdominalis eines Stent-Grafts [gecoverten Stents] ohne Öffnung»</i></li>
+        <li>39.78.53<i>«Ende der untersten Stent-Grafts [gecoverten Stents], aortobiiliakal»</i></li>
+    </ul>
+</body>
+<br>
+Die rechte A. iliaca communis wird auf dem Schema durch einen Stent-Graft (mit der Nummer 2 gekennzeichnet und in Grün dargestellt) versorgt, der an die Hauptprothese anmodelliert wurde. Der Stent-Graft ist ohne Öffnung. 
+•	39.7B.11 «Endovaskuläre Implantation in Aa. iliacae communis und externa eines Stent-Grafts [gecoverten Stents] ohne Öffnung» - Rechts 
+<br>
+Die linke A. iliaca communis wird auf dem Schema durch einen Stent-Graft versorgt, der an die Hauptprothese anmodelliert wurde (mit der Nummer 3 gekennzeichnet und in Blau dargestellt). 
+•	39.7B.11 «Endovaskuläre Implantation in Aa. iliacae communis und externa eines Stent-Grafts [gecoverten Stents] ohne Öffnung» - Links 
+<br>
+Zusätzlich wird ein Stent-Graft mit Öffnung anmodelliert für den Übergang in die linke A. iliaca externa (mit der Nummer 4 gekennzeichnet und in Gelb dargestellt).  
+•	39.7B.12 «Endovaskuläre Implantation in Aa. iliacae communis und externa eines Stent-Grafts [gecoverten Stents] mit Öffnung» - Links 
+<br>
+Von diesem Stent-Graft aus wird die A. iliaca interna über einen Seitenarm versorgt (mit der Nummer 5 gekennzeichnet und in Dunkelgrün dargestellt).  
+•	39.B3.C6 «Endovaskuläre Implantation eines Stent-Grafts [gecoverten Stents] ohne Medikamentenfreisetzung, A. iliaca interna» oder 39.B4.C6 «Endovaskuläre Implantation eines Stent-Grafts [gecoverten Stents] mit Medikamentenfreisetzung, A. iliaca interna» - Links 
+<br>
+An diesem Seitenarm wird ein weiterer Stent-Graft in der A. iliaca interna anmodelliert (mit der Nummer 6 gekennzeichnet und in Rosa dargestellt). 
+•	39.B3.C6 «Endovaskuläre Implantation eines Stent-Grafts [gecoverten Stents] ohne Medikamentenfreisetzung, A. iliaca interna» oder 39.B4.C6 «Endovaskuläre Implantation eines Stent-Grafts [gecoverten Stents] mit Medikamentenfreisetzung, A. iliaca interna» - Links 
 {{</markdown>}}
 <br>
 <br>
@@ -1521,4 +1558,10 @@ Typischerweise wird dieser Kode bei **traumatischen Pathologien**, insbesondere 
 
 
 
-
+<body>
+    <ul>
+        <li>39.75.17 <i>Perkutan-transluminale Thrombektomie, sonstige Gefässe</i></li>
+        <li>00.4B.13 <i>PTKI an Lungengefässen</i></li>
+        <li>Zutreffende Zusatzkodes der Elementegruppe 00.4F.2- <i>Einsatz von kathetergeführten Thrombus- und Fremdkörperentfernungs-Systemen, nach Anzahl Systeme</i></li>
+    </ul>
+</body>
