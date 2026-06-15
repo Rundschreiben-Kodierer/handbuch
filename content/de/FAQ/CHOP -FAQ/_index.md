@@ -1531,38 +1531,38 @@ Gemäss diesen Angaben wird somit der 39.78.53 erfasst. Die Hauptprothese ermög
 <br><br>
 <body>
     <ul>
-        <li><b>39.71.21</b><i>«Endovaskuläre Implantation in die Aorta abdominalis eines Stent-Grafts [gecoverten Stents] ohne Öffnung»</i></li>
-        <li><b>39.78.53</b><i>«Ende der untersten Stent-Grafts [gecoverten Stents], aortobiiliakal»</i></li>
+        <li><b><i>39.71.21</i></b><i>«Endovaskuläre Implantation in die Aorta abdominalis eines Stent-Grafts [gecoverten Stents] ohne Öffnung»</i></li>
+        <li><b><i>39.78.53</i></b><i>«Ende der untersten Stent-Grafts [gecoverten Stents], aortobiiliakal»</i></li>
     </ul>
 </body>
 Die rechte A. iliaca communis wird auf dem Schema durch einen Stent-Graft (mit der Nummer 2 gekennzeichnet und in Grün dargestellt) versorgt, der an die Hauptprothese anmodelliert wurde. Der Stent-Graft ist ohne Öffnung. 
 <body>
     <ul>
-        <li><b>39.7B.11</b><i>«Endovaskuläre Implantation in Aa. iliacae communis und externa eines Stent-Grafts [gecoverten Stents] ohne Öffnung» - Rechts</i></li>
+        <li><b><i>39.7B.11</i></b><i>«Endovaskuläre Implantation in Aa. iliacae communis und externa eines Stent-Grafts [gecoverten Stents] ohne Öffnung» - Rechts</i></li>
     </ul>
 </body>
 Die linke A. iliaca communis wird auf dem Schema durch einen Stent-Graft versorgt, der an die Hauptprothese anmodelliert wurde (mit der Nummer 3 gekennzeichnet und in Blau dargestellt). 
 <body>
     <ul>
-        <li><b>39.7B.11</b><i>«Endovaskuläre Implantation in Aa. iliacae communis und externa eines Stent-Grafts [gecoverten Stents] ohne Öffnung» - Links</i></li>
+        <li><b><i>39.7B.11</i></b><i>«Endovaskuläre Implantation in Aa. iliacae communis und externa eines Stent-Grafts [gecoverten Stents] ohne Öffnung» - Links</i></li>
     </ul>
 </body>
 Zusätzlich wird ein Stent-Graft mit Öffnung anmodelliert für den Übergang in die linke A. iliaca externa (mit der Nummer 4 gekennzeichnet und in Gelb dargestellt).
 <body>
     <ul>
-        <li><b>39.7B.12</b><i>«Endovaskuläre Implantation in Aa. iliacae communis und externa eines Stent-Grafts [gecoverten Stents] mit Öffnung» - Links</i></li>
+        <li><b><i>39.7B.12</i></b><i>«Endovaskuläre Implantation in Aa. iliacae communis und externa eines Stent-Grafts [gecoverten Stents] mit Öffnung» - Links</i></li>
     </ul>
 </body>
 Von diesem Stent-Graft aus wird die A. iliaca interna über einen Seitenarm versorgt (mit der Nummer 5 gekennzeichnet und in Dunkelgrün dargestellt).
 <body>
     <ul>
-        <li><b>39.B3.C6</b><i>«Endovaskuläre Implantation eines Stent-Grafts [gecoverten Stents] ohne Medikamentenfreisetzung, A. iliaca interna» oder 39.B4.C6 «Endovaskuläre Implantation eines Stent-Grafts [gecoverten Stents] mit Medikamentenfreisetzung, A. iliaca interna» - Links</i></li>
+        <li><b><i>39.B3.C6</i></b><i>«Endovaskuläre Implantation eines Stent-Grafts [gecoverten Stents] ohne Medikamentenfreisetzung, A. iliaca interna» oder <b>39.B4.C6</b> «Endovaskuläre Implantation eines Stent-Grafts [gecoverten Stents] mit Medikamentenfreisetzung, A. iliaca interna» - Links</i></li>
     </ul>
 </body>
 An diesem Seitenarm wird ein weiterer Stent-Graft in der A. iliaca interna anmodelliert (mit der Nummer 6 gekennzeichnet und in Rosa dargestellt). 
 <body>
     <ul>
-        <li><b>39.B3.C6</b><i>«Endovaskuläre Implantation eines Stent-Grafts [gecoverten Stents] ohne Medikamentenfreisetzung, A. iliaca interna» oder 39.B4.C6 «Endovaskuläre Implantation eines Stent-Grafts [gecoverten Stents] mit Medikamentenfreisetzung, A. iliaca interna» - Links</i></li>
+        <li><b><i>39.B3.C6</i></b><i>«Endovaskuläre Implantation eines Stent-Grafts [gecoverten Stents] ohne Medikamentenfreisetzung, A. iliaca interna» oder <b>39.B4.C6</b> «Endovaskuläre Implantation eines Stent-Grafts [gecoverten Stents] mit Medikamentenfreisetzung, A. iliaca interna» - Links</i></li>
     </ul>
 </body>
 {{</markdown>}}
