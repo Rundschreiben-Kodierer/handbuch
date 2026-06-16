@@ -1526,8 +1526,8 @@ Die Y-Verzweigung an der Hauptprothese wird nicht als Seitenarm kodiert. […]</
 Gemäss diesen Angaben wird somit der 39.71.21 erfasst.
 <br><br>
 Der Auszug vom «Beachte» unter 39.73.- und 39.71.-, der die Y-Prothese erläutert lautet:<br>
-«<i>[…] Die Y-Verzweigung an der Hauptprothese wird nicht als Seitenarm kodiert. Nur weitere an den Schenkeln der Y-Prothese anmodellierte Stent-Grafts [gecoverte Stents] sind zusätzlich zu kodieren. Die Information, dass es sich um eine Y-Prothese handelt, wird mit dem Zusatzkode 39.78.53 «Ende der untersten Stent-Grafts [gecoverten Stents], aortobiiliakal» angegeben. […]»</i>.<br>
-Gemäss diesen Angaben wird somit der 39.78.53 erfasst. Die Hauptprothese ermöglicht die bi-iliakale Versorgung über die distale Ableitung. 
+«<i>[…] Die Y-Verzweigung an der Hauptprothese wird nicht als Seitenarm kodiert. Nur weitere an den Schenkeln der Y-Prothese anmodellierte Stent-Grafts [gecoverte Stents] sind zusätzlich zu kodieren. Die Information, dass es sich um eine Y-Prothese handelt, wird mit dem Zusatzkode 39.78.53 «Ende der untersten Stent-Grafts [gecoverten Stents], aortobiiliakal» angegeben. […]</i>».<br>
+Conformément à ces indications, il faut donc saisir le code 39.78.53. La prothèse principale permet la revascularisation des deux artères iliaques via les branches distales. 
 <br><br>
 <body>
     <ul>
@@ -1569,4 +1569,8 @@ An diesem Seitenarm wird ein weiterer Stent-Graft in der A. iliaca interna anmod
 <br>
 <br>
 {{</article>}}
+
+
+
+
 

@@ -1464,16 +1464,16 @@ Les mesures correspondantes constituent par conséquent des interventions indép
 
 
 
-{{<article number="0029"  title="CHOP - NEW" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0029"  title="CHOP – Exemple de codage - Implantation de stents grafts dans l’aorte abdominale et dans les artères iliaques" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black;">Mot-clé</th>
-    <td style="border: 1px solid black;">Stabilisation non dynamique de la colonne vertébrale, instrumentation / ostéosynthèse de la colonne vertébrale</td>
+    <td style="border: 1px solid black;">Stent graft / aorte / artères iliaques</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Créé</th>
-    <td style="border: 1px solid black;">01.01.2026 – Nouveau </td>
+    <td style="border: 1px solid black;">01.07.2026</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Mise à jour</th>
@@ -1485,7 +1485,7 @@ Les mesures correspondantes constituent par conséquent des interventions indép
   </tr>
   <tr>
     <th style="border: 1px solid black;">CHOP</th>
-    <td style="border: 1px solid black;">7A.73.-</td>
+    <td style="border: 1px solid black;">39.71.- / 39.78.53 / 39.7B.- / 39.B3.C6 / 39.B4.C6</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">Règle de codage</th>
@@ -1495,10 +1495,62 @@ Les mesures correspondantes constituent par conséquent des interventions indép
 
 {{<markdown>}}
 **Problème/explication:**  
-La sous-catégorie **7A.73.-** est utilisée pour coder une intervention chirurgicale dans laquelle la colonne vertébrale est **stabilisée** mécaniquement **ou immobilisée** à l'aide de matériel d'ostéosynthèse tel que **des vis, des tiges ou des plaques**. La stabilisation peut être potentiellement **réversible**, par exemple avec la possibilité de libérer le segment après la guérison de la fracture en **retirant partiellement ou totalement le matériel** (OSME).
+Le schéma ci-dessous présente le résultat d’une intervention vasculaire avec implantation de stents grafts dans l’aorte abdominale et dans les artères iliaques.
 
-Ce code est généralement utilisé pour les **pathologies traumatiques**, en particulier **les fractures thoraco-lombaires**. Il est toutefois également utilisé pour **d'autres indications**.
+{{<insertImage image="FAQCHOP0029IMG.png" class="edge max-w-90">}}
+<br><br>
+La configuration de stents grafts représentée ci-dessus se code de la manière suivante.
+<br><br>
+La prothèse principale dans l’aorte abdominale est une prothèse en Y (sans ouverture) (indiquée par le chiffre 1 et représentée en rouge foncé dans le schéma).  
+<br><br>
+L’extrait de la «Note» figurant dans les sous-catégories 39.73.- et 39.71.- et précisant la manière de compter les ouvertures indique:
+«<i>Les bras latéraux et les fenestrations comptent comme ouvertures. 
+Les foramina à l’extrémité proximale et aux extrémités distales du stent graft [stent couvert] ainsi que les échancrures [scallops] ne comptent pas comme ouvertures.<br>
+La bifurcation en Y sur la prothèse principale n’est pas codée comme un bras latéral. […]</i>».<br>
+Conformément à ces indications, il faut donc saisir le code 39.71.21.
+<br><br>
+L’extrait de la «Note» figurant dans les sous-catégories 39.73.- et 39.71.- et précisant la manière de coder la prothèse en Y indique:<br>
+«<i>[…] La bifurcation en Y sur la prothèse principale n’est pas codée comme un bras latéral. Seuls les stents grafts [stents couverts] supplémentaires modelés sur les branches de la prothèse en Y doivent être codés en plus. Le fait qu’il s’agit d’une prothèse en Y est indiqué par le code supplémentaire 39.78.53 «Extrémité des stents grafts [stents couverts] les plus bas, aorto-bi-iliaque». […]</i>».<br>
+Conformément à ces indications, il faut donc saisir le code 39.78.53. La prothèse principale permet la revascularisation des deux artères iliaques via les branches distales.  
+<br><br>
+<body>
+    <ul>
+        <li><b><i>39.71.21</i></b><i> «Implantation endovasculaire d’un stent graft [stent couvert] dans l’aorte abdominale, sans ouverture»</i></li>
+        <li><b><i>39.78.53</i></b><i> «Extrémité des stents grafts [stents couverts] les plus bas, aorto-bi-iliaque»</i></li>
+    </ul>
+</body>
+Sur le schéma, l’artère iliaque commune droite est revascularisée par un stent graft (chiffre 2, en vert sur le schéma) qui est modelé sur la prothèse principale. Le stent graft n’a pas d’ouverture. 
+<body>
+    <ul>
+        <li><b><i>39.7B.11</i></b><i> «Implantation endovasculaire d’un stent graft [stent couvert] dans les artères iliaques commune et externe, sans ouverture» - droite</i></li>
+    </ul>
+</body>
+Sur le schéma, l’artère iliaque commune gauche est revascularisée par un stent graft qui est modelé sur la prothèse principale (chiffre 3, en bleu sur le schéma). 
+<body>
+    <ul>
+        <li><b><i>39.7B.11</i></b><i> «Implantation endovasculaire d’un stent graft [stent couvert] dans les artères iliaques commune et externe, sans ouverture» - gauche</i></li>
+    </ul>
+</body>
+Un stent graft avec ouverture est de plus modelé pour la jonction dans l’artère iliaque externe gauche (chiffre 4, en jaune sur le schéma). 
+<body>
+    <ul>
+        <li><b><i>39.7B.12</i></b><i> «Implantation endovasculaire d’un stent graft [stent couvert] dans les artères iliaques commune et externe, avec ouverture» - gauche</i></li>
+    </ul>
+</body>
+A partir de ce stent graft, l’artère iliaque interne est revascularisée via un bras latéral (chiffre 5, en vert foncé sur le schéma). 
+<body>
+    <ul>
+        <li><b><i>39.B3.C6</i></b><i> «Implantation endovasculaire d’un stent graft [stent couvert] sans libération de substance médicamenteuse, artère iliaque interne» oder <b>39.B4.C6</b> «Implantation endovasculaire d’un stent graft [stent couvert] avec libération de substance médicamenteuse, artère iliaque interne» - Gauche</i></li>
+    </ul>
+</body>
+A ce bras latéral est modelé un autre stent graft dans l’artère iliaque interne (chiffre 6, en rose sur le schéma). 
+<body>
+    <ul>
+        <li><b><i>39.B3.C6</i></b><i> «Implantation endovasculaire d’un stent graft [stent couvert] sans libération de substance médicamenteuse, artère iliaque interne» oder <b>39.B4.C6</b> «Implantation endovasculaire d’un stent graft [stent couvert] avec libération de substance médicamenteuse, artère iliaque interne» - gauche</i></li>
+    </ul>
+</body>
 {{</markdown>}}
 <br>
 <br>
 {{</article>}}
+

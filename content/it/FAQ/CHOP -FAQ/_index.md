@@ -1482,21 +1482,19 @@ Se effettuati, gli interventi sull'acetabolo devono essere codificati separatame
 
 
 
-
-
-{{<article number="0029"  title="CHOP - NEW" collapsibleClass="d-inline-block" groupId="chopfaq">}}
+{{<article number="0029"  title="CHOP - Esempio di codifica – Impianto di stent grafts nell’aorta addominale e nelle arterie iliache" collapsibleClass="d-inline-block" groupId="chopfaq">}}
 
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid black;">Mot-clé</th>
-    <td style="border: 1px solid black;">Ostéosynthèse de l’acétabulum, prothèse articulaire des extrémités inférieures</td>
+    <th style="border: 1px solid black;">Parola chiave</th>
+    <td style="border: 1px solid black;">Stent graft / aorta / arterie iliache</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Créé</th>
+    <th style="border: 1px solid black;">Creato</th>
     <td style="border: 1px solid black;">01.07.2026</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Mise à jour</th>
+    <th style="border: 1px solid black;">Aggiornato</th>
     <td style="border: 1px solid black;"></td>
   </tr>
   <tr>
@@ -1505,20 +1503,71 @@ Se effettuati, gli interventi sull'acetabolo devono essere codificati separatame
   </tr>
   <tr>
     <th style="border: 1px solid black;">CHOP</th>
-    <td style="border: 1px solid black;">81.5- / 78.19.21 / 79.39.20</td>
+    <td style="border: 1px solid black;">39.71.- / 39.78.53 / 39.7B.- / 39.B3.C6 / 39.B4.C6</td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Règle de codage</th>
+    <th style="border: 1px solid black;">Regola di codifica</th>
     <td style="border: 1px solid black;"></td>
   </tr>
 </table>
 
-{{<markdown>}}
-**Problème/explication:**  
-La catégorie à 3 positions 81.5 – <i>Prothèse articulaire des membres inférieurs</i> – inclut **l’arthroplastie des membres inférieurs** avec ostéosynthèse traction ou fixation externe, greffe d’os ou de cartilage ou prothèse, et n’est pas codée en plus en cas de prothèse articulaire.
 
-Les interventions sur l’acétabulum doivent être codées séparément, si elles sont réalisées, car l’acétabulum appartient anatomiquement au bassin (tronc) et non aux membres inférieurs.
-Les mesures correspondantes constituent par conséquent des interventions indépendantes, qui n’entrent pas dans la catégorie à trois positions 81.5 – voir les codes CHOP mentionnés ci-dessus.
+{{<markdown>}}
+**Problema/Spiegazione:**  
+La seguente figura illustra il risultato di un intervento vascolare con impianto di stent grafts nell’aorta addominale e nelle arterie iliache.
+
+{{<insertImage image="FAQCHOP0029IMG.png" class="edge max-w-90">}}
+<br><br>
+La configurazione di stent grafts rappresentata va codificata come indicato qui di seguito.
+<br><br>
+La protesi principale nell’aorta addominale è una protesi a Y (senza aperture) (nella figura è contrassegnata dal numero 1 e da un bordo di colore rosso scuro).  
+<br><br>
+La parte della nota di cui alle sottocategorie 39.73.- e 39.71.- che spiega il conteggio delle aperture recita:
+«<i>Tra le aperture rientrano le diramazioni e le fenestrazioni. 
+Tutti i fori all’estremità prossimale e alle estremità distali dello stent graft [stent ricoperto] nonché gli scallops non sono enumerati tra le aperture.<br> 
+La biforcazione a Y della protesi principale non va codificata come diramazione. […]</i>».<br>
+In conformità a queste indicazioni va quindi utilizzato il codice 39.71.21.
+<br><br>
+La parte della nota di cui alle sottocategorie 39.73.- e 39.71.- che spiega la protesi a Y recita:<br>
+«<i>[…] La biforcazione a Y della protesi principale non va codificata come diramazione. Solo ulteriori stent grafts [stents ricoperti] applicati alle branche della protesi a Y devono essere codificati in aggiunta. L’informazione che si tratta di una protesi a Y viene indicata con il codice supplementare 39.78.53 «Estremità degli stent grafts [stents ricoperti] inferiori, aorto-bi-iliaci». […]</i>».<br>
+In conformità a queste indicazioni va quindi utilizzato il codice 39.78.53. La protesi principale permette la rivascolarizzazione bi-iliaca attraverso le branche distali. 
+<br><br>
+<body>
+    <ul>
+        <li><b><i>39.71.21</i></b><i> «Impianto endovascolare di uno stent graft [stent ricoperto] nell’aorta addominale, senza apertura»</i></li>
+        <li><b><i>39.78.53</i></b><i> «Estremità degli stent grafts [stents ricoperti] inferiori, aorto-bi-iliaci»</i></li>
+    </ul>
+</body>
+Nella figura, l’arteria iliaca comune destra viene rivascolarizzata tramite uno stent graft modellato sulla protesi principale (contrassegnato dal numero 2 e da un bordo di colore verde). Si tratta di uno stent graft senza aperture. 
+<body>
+    <ul>
+        <li><b><i>39.7B.11</i></b><i> «Impianto endovascolare di uno stent graft [stent ricoperto] nelle arterie iliache comune ed esterna, senza apertura» - destra</i></li>
+    </ul>
+</body>
+Nella figura, l’arteria iliaca comune sinistra viene rivascolarizzata tramite uno stent graft modellato sulla protesi principale (contrassegnato dal numero 3 e da un bordo di colore azzurro). 
+<body>
+    <ul>
+        <li><b><i>39.7B.11</i></b><i> «Impianto endovascolare di uno stent graft [stent ricoperto] nelle arterie iliache comune ed esterna, senza apertura» - sinistra</i></li>
+    </ul>
+</body>
+Viene inoltre modellato uno stent graft con apertura per l’accesso all’arteria iliaca esterna sinistra (contrassegnato dal numero 4 e da un bordo di colore giallo).
+<body>
+    <ul>
+        <li><b><i>39.7B.12</i></b><i> «Impianto endovascolare di uno stent graft [stent ricoperto] nelle arterie iliache comune ed esterna, con apertura» - sinistra</i></li>
+    </ul>
+</body>
+A partire da questo stent graft l’arteria iliaca viene rivascolarizzata tramite una diramazione (contrassegnata dal numero 5 e da un bordo di colore verde scuro).
+<body>
+    <ul>
+        <li><b><i>39.B3.C6</i></b><i> «Impianto endovascolare di uno stent graft [stent ricoperto] senza liberazione di sostanza medicamentosa, arteria iliaca interna» o  <b>39.B4.C6</b> «Impianto endovascolare di uno stent graft [stent ricoperto] con liberazione di sostanza medicamentosa, arteria iliaca interna» - sinistra</i></li>
+    </ul>
+</body>
+ASu questa diramazione viene modellato un ulteriore stent graft nell’arteria iliaca interna (contrassegnato dal numero 6 e da un bordo di colore rosa). 
+<body>
+    <ul>
+        <li><b><i>39.B3.C6</i></b><i> C6 «Impianto endovascolare di uno stent graft [stent ricoperto] senza liberazione di sostanza medicamentosa, arteria iliaca interna» o <b>39.B4.C6</b> «Impianto endovascolare di uno stent graft [stent ricoperto] con liberazione di sostanza medicamentosa, arteria iliaca interna» - sinistra</i></li>
+    </ul>
+</body>
 {{</markdown>}}
 <br>
 <br>
