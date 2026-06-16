@@ -1540,17 +1540,16 @@ Un stent graft avec ouverture est de plus modelé pour la jonction dans l’art�
 A partir de ce stent graft, l’artère iliaque interne est revascularisée via un bras latéral (chiffre 5, en vert foncé sur le schéma). 
 <body>
     <ul>
-        <li><b><i>39.B3.C6</i></b><i> «Implantation endovasculaire d’un stent graft [stent couvert] sans libération de substance médicamenteuse, artère iliaque interne» oder <b>39.B4.C6</b> «Implantation endovasculaire d’un stent graft [stent couvert] avec libération de substance médicamenteuse, artère iliaque interne» - Gauche</i></li>
+        <li><b><i>39.B3.C6</i></b><i> «Implantation endovasculaire d’un stent graft [stent couvert] sans libération de substance médicamenteuse, artère iliaque interne» ou <b>39.B4.C6</b> «Implantation endovasculaire d’un stent graft [stent couvert] avec libération de substance médicamenteuse, artère iliaque interne» - Gauche</i></li>
     </ul>
 </body>
 A ce bras latéral est modelé un autre stent graft dans l’artère iliaque interne (chiffre 6, en rose sur le schéma). 
 <body>
     <ul>
-        <li><b><i>39.B3.C6</i></b><i> «Implantation endovasculaire d’un stent graft [stent couvert] sans libération de substance médicamenteuse, artère iliaque interne» oder <b>39.B4.C6</b> «Implantation endovasculaire d’un stent graft [stent couvert] avec libération de substance médicamenteuse, artère iliaque interne» - gauche</i></li>
+        <li><b><i>39.B3.C6</i></b><i> «Implantation endovasculaire d’un stent graft [stent couvert] sans libération de substance médicamenteuse, artère iliaque interne» ou <b>39.B4.C6</b> «Implantation endovasculaire d’un stent graft [stent couvert] avec libération de substance médicamenteuse, artère iliaque interne» - gauche</i></li>
     </ul>
 </body>
 {{</markdown>}}
 <br>
 <br>
 {{</article>}}
-
