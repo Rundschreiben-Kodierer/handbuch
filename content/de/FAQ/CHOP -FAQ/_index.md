@@ -1519,7 +1519,7 @@ Die dargestellte Stent-Graft-Konfiguration wird wie folgt kodiert.
 <br><br>
 Die Hauptprothese in der Aorta abdominalis ist eine Y-Prothese (ohne Öffnung) (in der Abbildung mit der Nummer 1 gekennzeichnet und in Dunkelrot dargestellt). 
 <br><br>
-Der Auszug vom «Beachte» unter 39.73.- und 39.71.-, der das Zählen der Öffnungen erläutert lautet:
+Der Auszug vom «Beachte» unter 39.73.- und 39.71.-, der das Zählen der Öffnungen erläutert lautet:<br>
 «<i>Zu den Öffnungen zählen die Seitenarme und die Fenestrierungen.<br>
 Alle Foramina am proximalen und an den distalen Enden des Stent-Grafts [gecoverten Stents] sowie die Scallops zählen nicht zu den Öffnungen.<br>
 Die Y-Verzweigung an der Hauptprothese wird nicht als Seitenarm kodiert. […]</i>».<br>

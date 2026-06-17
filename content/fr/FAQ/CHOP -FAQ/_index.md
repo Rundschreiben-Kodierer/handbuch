@@ -1503,7 +1503,7 @@ La configuration de stents grafts représentée ci-dessus se code de la manière
 <br><br>
 La prothèse principale dans l’aorte abdominale est une prothèse en Y (sans ouverture) (indiquée par le chiffre 1 et représentée en rouge foncé dans le schéma).  
 <br><br>
-L’extrait de la «Note» figurant dans les sous-catégories 39.73.- et 39.71.- et précisant la manière de compter les ouvertures indique:
+L’extrait de la «Note» figurant dans les sous-catégories 39.73.- et 39.71.- et précisant la manière de compter les ouvertures indique:<br>
 «<i>Les bras latéraux et les fenestrations comptent comme ouvertures. 
 Les foramina à l’extrémité proximale et aux extrémités distales du stent graft [stent couvert] ainsi que les échancrures [scallops] ne comptent pas comme ouvertures.<br>
 La bifurcation en Y sur la prothèse principale n’est pas codée comme un bras latéral. […]</i>».<br>

@@ -1522,7 +1522,7 @@ La configurazione di stent grafts rappresentata va codificata come indicato qui 
 <br><br>
 La protesi principale nell’aorta addominale è una protesi a Y (senza aperture) (nella figura è contrassegnata dal numero 1 e da un bordo di colore rosso scuro).  
 <br><br>
-La parte della nota di cui alle sottocategorie 39.73.- e 39.71.- che spiega il conteggio delle aperture recita:
+La parte della nota di cui alle sottocategorie 39.73.- e 39.71.- che spiega il conteggio delle aperture recita:<br>
 «<i>Tra le aperture rientrano le diramazioni e le fenestrazioni. 
 Tutti i fori all’estremità prossimale e alle estremità distali dello stent graft [stent ricoperto] nonché gli scallops non sono enumerati tra le aperture.<br> 
 La biforcazione a Y della protesi principale non va codificata come diramazione. […]</i>».<br>
