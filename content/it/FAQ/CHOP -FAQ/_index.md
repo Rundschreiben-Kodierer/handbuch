@@ -1562,10 +1562,10 @@ A partire da questo stent graft l’arteria iliaca viene rivascolarizzata tramit
         <li><b><i>39.B3.C6</i></b><i> «Impianto endovascolare di uno stent graft [stent ricoperto] senza liberazione di sostanza medicamentosa, arteria iliaca interna» o  <b>39.B4.C6</b> «Impianto endovascolare di uno stent graft [stent ricoperto] con liberazione di sostanza medicamentosa, arteria iliaca interna» - sinistra</i></li>
     </ul>
 </body>
-ASu questa diramazione viene modellato un ulteriore stent graft nell’arteria iliaca interna (contrassegnato dal numero 6 e da un bordo di colore rosa). 
+Su questa diramazione viene modellato un ulteriore stent graft nell’arteria iliaca interna (contrassegnato dal numero 6 e da un bordo di colore rosa). 
 <body>
     <ul>
-        <li><b><i>39.B3.C6</i></b><i> C6 «Impianto endovascolare di uno stent graft [stent ricoperto] senza liberazione di sostanza medicamentosa, arteria iliaca interna» o <b>39.B4.C6</b> «Impianto endovascolare di uno stent graft [stent ricoperto] con liberazione di sostanza medicamentosa, arteria iliaca interna» - sinistra</i></li>
+        <li><b><i>39.B3.C6</i></b><i> «Impianto endovascolare di uno stent graft [stent ricoperto] senza liberazione di sostanza medicamentosa, arteria iliaca interna» o <b>39.B4.C6</b> «Impianto endovascolare di uno stent graft [stent ricoperto] con liberazione di sostanza medicamentosa, arteria iliaca interna» - sinistra</i></li>
     </ul>
 </body>
 {{</markdown>}}
