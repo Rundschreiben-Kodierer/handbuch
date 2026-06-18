@@ -255,7 +255,7 @@ Grundsätzlich gilt: Es ist stets der spezifischste ICD-Kode zu wählen, der die
   </tr>
   <tr>
     <th style="border: 1px solid black;">ICD</th>
-    <td style="border: 1px solid black;">I10.- / I15.-† L97 / L98.8</td>
+    <td style="border: 1px solid black;">I10.- / I15.-† L97 / L99.8</td>
   </tr>
   <tr>
     <th style="border: 1px solid black;">CHOP</th>
