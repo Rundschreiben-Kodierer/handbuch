@@ -18,7 +18,7 @@ Die Tabelle mit den unterjährigen Aktualisierungen zur **«CHOP 2026»** steht 
    target="_blank" rel="noopener noreferrer"> Link zur Datei</a>
        </li>
         <li>Gültig ab dem 01.07.2026: 
-        <a href="https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/nomenklaturen/medkk/instrumente-medizinische-kodierung.assetdetail.36304842.html"
+        <a href="https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/nomenklaturen/medkk/instrumente-medizinische-kodierung.assetdetail.36665383.html"
    target="_blank" rel="noopener noreferrer"> Link zur Datei</a>
        </li>
     </ul>
