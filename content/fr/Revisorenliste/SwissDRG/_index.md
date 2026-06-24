@@ -815,7 +815,7 @@ keywords: []
     <td class="tg-ktyi">08.06.2017</td>
   </tr>
   <tr>
-    <td class="tg-0lax" id="l">LambertVogeleisen </td>
+    <td class="tg-0lax" id="l">Lambert Vogeleisen </td>
     <td class="tg-ktyi">Agnès</td>
     <td class="tg-ktyi">135, chemin de la procession<br>FR-74200 ARMOY</td>
     <td class="tg-v47d"><a href="mailto:agnes.vogeleisen@wanadoo.fr">agnes.vogeleisen@wanadoo.fr</a></td>
