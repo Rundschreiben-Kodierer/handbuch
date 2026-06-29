@@ -284,16 +284,6 @@ Folgende Spalten befinden sich in der Tabelle:
 </tbody>
 </table>
 <p>&nbsp;</p>
-<table class="MsoTableGrid" style="border-collapse: collapse; border: none; width: 86.3582%;" border="1" cellspacing="0" cellpadding="0">
-<tbody>
-<tr style="mso-yfti-irow: 0; mso-yfti-firstrow: yes;">
-<td style="width: 26.9391%; border: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="198">
-<p class="MsoBodyText" style="line-height: normal; margin: 1.0pt 0cm 1.0pt 0cm;"><strong><span lang="DE-CH" style="mso-fareast-language: DE-CH;">Spalten</span></strong></p>
-</td>
-<td style="width: 73.0609%; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; padding: 0cm 5.4pt;" valign="top" width="410">
-<p class="MsoBodyText" style="line-height: normal; margin: 1.0pt 0cm 1.0pt 0cm;"><strong><span lang="DE-CH" style="mso-fareast-language: DE-CH;">Beschreibung</span></strong></p>
-</td>
-</tr>
 
 
 
