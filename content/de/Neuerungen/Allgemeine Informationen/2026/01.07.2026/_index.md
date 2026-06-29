@@ -13,7 +13,7 @@ Die nachfolgenden **«Allgemeinen Informationen»** sind ab dem <font color="gre
   
 {{<markdown>}}
 
-**Gültige Kodierungsinstrumente**<br>
+**Gültige Kodierungsinstrumente**<br><br>
 Ab 1. Januar 2026 gelten folgende Kodierungsinstrumente:
 
 <body>

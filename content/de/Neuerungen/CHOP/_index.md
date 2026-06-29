@@ -59,10 +59,7 @@ Folgende Spalten befinden sich in der Tabelle:
 
 
 
-
-texte
-html
-        
+ 
 <table class="MsoTableGrid" style="border-collapse: collapse; border: none; width: 86.3582%;" border="1" cellspacing="0" cellpadding="0">
 <tbody>
 <tr style="mso-yfti-irow: 0; mso-yfti-firstrow: yes;">
@@ -297,38 +294,6 @@ html
 <p class="MsoBodyText" style="line-height: normal; margin: 1.0pt 0cm 1.0pt 0cm;"><strong><span lang="DE-CH" style="mso-fareast-language: DE-CH;">Beschreibung</span></strong></p>
 </td>
 </tr>
-<tr style="mso-yfti-irow: 1;">
-<td style="width: 26.9391%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #f4b084; padding: 0cm 5.4pt;" valign="top" width="198">
-<p class="MsoBodyText" style="line-height: normal; margin: 1.0pt 0cm 1.0pt 0cm;"><span lang="EN-GB" style="color: black; mso-color-alt: windowtext; mso-ansi-language: EN-GB; mso-fareast-language: DE-CH;">sequential number over the table</span></p>
-</td>
-<td style="width: 73.0609%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
-<p class="MsoBodyText" style="line-height: normal; margin: 1.0pt 0cm 1.0pt 0cm;"><span lang="DE-CH" style="mso-fareast-language: DE-CH;">Fortlaufende Nummerierung der Zeilen</span></p>
-</td>
-</tr>
-<tr style="mso-yfti-irow: 2;">
-<td style="width: 26.9391%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #f4b084; padding: 0cm 5.4pt;" valign="top" width="198">
-<p class="MsoBodyText" style="line-height: normal; margin: 1.0pt 0cm 1.0pt 0cm;"><span lang="EN-GB" style="color: black; mso-color-alt: windowtext; mso-ansi-language: EN-GB; mso-fareast-language: DE-CH;">Date and subregister number</span></p>
-</td>
-<td style="width: 73.0609%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
-<p class="MsoBodyText" style="line-height: normal; margin: 1.0pt 0cm 1.0pt 0cm;"><span lang="DE-CH" style="mso-fareast-language: DE-CH;">Datum vom Beginn der G&uuml;ltigkeit und Nummer des Subregisters, z. B. 01.01.YYYY-SR1</span></p>
-</td>
-</tr>
-<tr style="mso-yfti-irow: 3;">
-<td style="width: 26.9391%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #f4b084; padding: 0cm 5.4pt;" valign="top" width="198">
-<p class="MsoBodyText" style="line-height: normal; margin: 1.0pt 0cm 1.0pt 0cm;"><span lang="EN-GB" style="color: black; mso-color-alt: windowtext; mso-ansi-language: EN-GB; mso-fareast-language: DE-CH;">Line number for the subregister</span></p>
-</td>
-<td style="width: 73.0609%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
-<p class="MsoBodyText" style="line-height: normal; margin: 1.0pt 0cm 1.0pt 0cm;"><span lang="DE-CH" style="mso-fareast-language: DE-CH;">Fortlaufende Nummerierung der Zeilen f&uuml;r dieses Subregister</span></p>
-</td>
-</tr>
-<tr style="mso-yfti-irow: 4;">
-<td style="width: 26.9391%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: #f4b084; padding: 0cm 5.4pt;" valign="top" width="198">
-<p class="MsoBodyText" style="line-height: normal; margin: 1.0pt 0cm 1.0pt 0cm;"><span lang="EN-GB" style="color: black; mso-color-alt: windowtext; mso-ansi-language: EN-GB; mso-fareast-language: DE-CH;">nbchar</span></p>
-</td>
-<td style="width: 73.0609%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="410">
-<p class="MsoBodyText" style="line-height: normal; margin: 1.0pt 0cm 1.0pt 0cm;"><span lang="DE-CH" style="mso-fareast-language: DE-CH;">Zeigt die Anzahl der Zeichen der entsprechenden Kodes an, ohne das Pr&auml;fix &laquo;C&raquo; bzw. </span><span lang="EN-GB" style="mso-ansi-language: EN-GB; mso-fareast-language: DE-CH;">&laquo;Z&raquo; und Trennpunkte.</span></p>
-</td>
-
 
 
 
