@@ -116,7 +116,7 @@ offlineSearchMaxResults = 100
 # depending on the environment of execution (production => handbuch, or test => handbuch-test)
 # This value is intended to be set by the CI.
 # This default value fits the default value of baseURL.
-baseName = 'handbuch'
+baseName = ''
 
 # The version number of the docs. It should correspond to the version of Rundschreiben Kodierer but could also be decorrelated. MUSTN'T BE EMPTY!
 # and MUST BE INCREASED at each release!
