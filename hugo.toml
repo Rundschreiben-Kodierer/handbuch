@@ -1,4 +1,4 @@
-baseURL = 'https://rundschreiben-kodierer.github.io/handbuch/'
+baseURL = 'https://www.medical-classifications.ch/'
 languageCode = 'de-CH'
 title = 'Rundschreiben Kodierer'
 
@@ -116,11 +116,11 @@ offlineSearchMaxResults = 100
 # depending on the environment of execution (production => handbuch, or test => handbuch-test)
 # This value is intended to be set by the CI.
 # This default value fits the default value of baseURL.
-baseName = 'handbuch'
+baseName = ''
 
 # The version number of the docs. It should correspond to the version of Rundschreiben Kodierer but could also be decorrelated. MUSTN'T BE EMPTY!
 # and MUST BE INCREASED at each release!
-version = "0.26.0"
+version = "0.29.0"
 
 # Datetime of the build intended to be set by the CI, LEAVE EMPTY HERE!
 buildDatetime = ""
