@@ -284,6 +284,20 @@ keywords: []
     <td class="tg-ktyi">07.01.2019</td>
   </tr>
   <tr>
+    <td class="tg-0lax" id="h">Halter</td>
+    <td class="tg-ktyi">Matthias</td>
+    <td class="tg-ktyi">Kranichweg 30<br>3074 Muri bei Bern </td>
+    <td class="tg-z182"><a href="mailto:matthias.halter@drgplus.ch">matthias.halter@drgplus.ch</a></td>
+    <td class="tg-ktyi">079 395 10 98</td>
+    <td class="tg-ktyi">Tedesco<br>Francese</td>
+    <td class="tg-0lax">Confermato</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Sì</td>
+    <td class="tg-dgl5">Svizzera tedesca<br>Svizzera romanda</td>
+    <td class="tg-ktyi">Confermato</td>
+    <td class="tg-ktyi">28.08.2026</td>
+  </tr>
+  <tr>
     <td class="tg-0lax">Huber</td>
     <td class="tg-ktyi">Nicole</td>
     <td class="tg-ktyi">Schützenstrasse 7<br>4552 Derendingen</td>
@@ -359,7 +373,7 @@ keywords: []
     <td class="tg-ktyi">LN – Revision <br>Vorstadtstrasse 6<br>5722 Gränichen – AG </td>
     <td class="tg-z182"><a href="mailto:leonardo.narda@hotmail.com">leonardo.narda@hotmail.com</a><br><a href="mailto:mail@ln-revision.ch">mail@ln-revision.ch </a></td>
     <td class="tg-ktyi">076 384 82 47</td>
-    <td class="tg-ktyi">Tedesco<br>Italiano <br>Francese</td>
+    <td class="tg-ktyi">Tedesco<br>Italiano<br>Francese</td>
     <td class="tg-0lax">Confermato</td>
     <td class="tg-0lax">Sì</td>
     <td class="tg-0lax"> <br></td>

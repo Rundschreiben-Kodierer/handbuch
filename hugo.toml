@@ -74,7 +74,7 @@ languageCode = "it"
 contentDir = "content/it"
 weight = 3
 [languages.it.params]
-title = "Aggiornamenti alle pubblicazioni delle classificazioni mediche dell'UST"
+title = "Titre italien hugo Aggiornamenti alle pubblicazioni delle classificazioni mediche dell'UST"
 description = "Guida e informazioni su Rundschreiben Kodierer"
 
 # [languages.rm]

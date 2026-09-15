@@ -599,6 +599,18 @@ keywords: []
     <td class="tg-ktyi">25.02.2012</td>
   </tr>
   <tr>
+    <td class="tg-0lax" id="h">Halter</td>
+    <td class="tg-ktyi">Matthias</td>
+    <td class="tg-ktyi">Kranichweg 30<br>3074 Muri bei Bern </td>
+    <td class="tg-v47d"><a href="mailto:matthias.halter@drgplus.ch">matthias.halter@drgplus.ch</a></td>
+    <td class="tg-ktyi">079 395 10 98</td>
+    <td class="tg-ktyi">Allemand<br>Français</td>
+    <td class="tg-0lax">Confirmé</td>
+    <td class="tg-ktyi">Suisse alémanique<br>Suisse romande</td>
+    <td class="tg-ktyi">Confirmé</td>
+    <td class="tg-ktyi">28.08.2026</td>
+  </tr>
+  <tr>
     <td class="tg-0lax">Hauser </td>
     <td class="tg-ktyi">Eva-Maria</td>
     <td class="tg-ktyi">Frohburgstrasse 81<br>8006 Zürich</td>

@@ -284,6 +284,20 @@ keywords: []
     <td class="tg-ktyi">07.01.2019</td>
   </tr>
   <tr>
+    <td class="tg-0lax" id="h">Halter</td>
+    <td class="tg-ktyi">Matthias</td>
+    <td class="tg-ktyi">Kranichweg 30<br>3074 Muri bei Bern </td>
+    <td class="tg-z182"><a href="mailto:matthias.halter@drgplus.ch">matthias.halter@drgplus.ch</a></td>
+    <td class="tg-ktyi">079 395 10 98</td>
+    <td class="tg-ktyi">Deutsch<br>Französisch</td>
+    <td class="tg-0lax">Bestätigt</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Ja</td>
+    <td class="tg-dgl5">Deutschschweiz<br>Romandie </td>
+    <td class="tg-ktyi">Bestätigt</td>
+    <td class="tg-ktyi">28.08.2026</td>
+  </tr>
+  <tr>
     <td class="tg-0lax">Huber</td>
     <td class="tg-ktyi">Nicole</td>
     <td class="tg-ktyi">Schützenstrasse 7<br>4552 Derendingen</td>
