@@ -293,7 +293,7 @@ keywords: []
     <td class="tg-0lax">Confermato</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax">Sì</td>
-    <td class="tg-dgl5">Svizzera tedesca<br>Svizzera romanda</td>
+    <td class="tg-0lax">Svizzera tedesca<br>Svizzera romanda</td>
     <td class="tg-ktyi">Confermato</td>
     <td class="tg-ktyi">28.08.2026</td>
   </tr>

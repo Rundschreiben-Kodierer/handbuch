@@ -293,7 +293,7 @@ keywords: []
     <td class="tg-0lax">Confirmé</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax">Oui</td>
-    <td class="tg-dgl5">Suisse alémanique<br>Suisse romande</td>
+    <td class="tg-0lax">Suisse alémanique<br>Suisse romande</td>
     <td class="tg-ktyi">Confirmé</td>
     <td class="tg-ktyi">28.08.2026</td>
   </tr>

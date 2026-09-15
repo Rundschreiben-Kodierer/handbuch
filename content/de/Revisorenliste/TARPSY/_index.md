@@ -293,7 +293,7 @@ keywords: []
     <td class="tg-0lax">Bestätigt</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax">Ja</td>
-    <td class="tg-dgl5">Deutschschweiz<br>Romandie </td>
+    <td class="tg-0lax">Deutschschweiz<br>Romandie </td>
     <td class="tg-ktyi">Bestätigt</td>
     <td class="tg-ktyi">28.08.2026</td>
   </tr>
