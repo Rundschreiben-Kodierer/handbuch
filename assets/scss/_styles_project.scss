@@ -687,3 +687,88 @@ img.img_full {
   min-width: 0 !important;
   margin-right: 1rem !important;
 }
+
+// Kodierungshandbuch: Navigation in der Sidebar
+.khb.khb-sidebar {
+  display: block;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+  padding: .3rem 0 .5rem;
+}
+.khb-sidebar .khb-nav {
+  position: static;
+  max-height: none;
+  width: auto;
+  flex: none;
+  padding: 0;
+  font-family: inherit;
+  font-size: .8rem;
+}
+
+.khb-sidebar .khb-suche input::-webkit-search-cancel-button {
+  -webkit-appearance: none;
+  appearance: none;
+}
+
+// Docsy-Ankerabstand stört die Raster-Überschriften des Handbuchs
+.khb h2[id]::before,
+.khb h3[id]::before,
+.khb h4[id]::before,
+.khb h5[id]::before {
+  content: none;
+}
+
+// Kodierungshandbuch: Docsy-Vorgaben im Inhalt zurücksetzen
+.khb:not(.khb-sidebar) {
+  letter-spacing: normal;
+  word-break: normal;
+}
+.khb p,
+.khb li,
+.khb td {
+  font-weight: inherit;
+}
+.khb ul li,
+.khb ol li {
+  margin-bottom: 0;
+}
+.khb h2,
+.khb h3,
+.khb h4,
+.khb h5 {
+  letter-spacing: normal;
+  line-height: inherit;
+}
+
+// Kodierungshandbuch: Navigation in der Sidebar wie im eigenständigen Handbuch
+.td-sidebar .td-sidebar__inner nav.td-sidebar-nav .khb-sidebar .khb-nav {
+  ul {
+    padding-left: 0 !important;
+  }
+  a {
+    padding: .45em .8em !important;
+    border-left: 4px solid transparent !important;
+    border-bottom: none !important;
+    background-color: transparent !important;
+    font-weight: inherit !important;
+  }
+  .n2 a { padding-left: 1.4em !important; }
+  .n3 a { padding-left: 2.2em !important; }
+  .n4 a { padding-left: 3em !important; }
+
+  a:hover {
+    background-color: var(--nav-bg) !important;
+  }
+  // Pfad zum aktuellen Kapitel: grau mit rotem Balken
+  li.pfad > a {
+    background-color: var(--nav-bg) !important;
+    border-left-color: var(--nav-rot) !important;
+  }
+  // Aktuelles Kapitel: dunkler, rot markiert, fett
+  li.aktiv > a {
+    background-color: var(--nav-bg-tief) !important;
+    border-left-color: var(--nav-rot) !important;
+    font-weight: 600 !important;
+  }
+}

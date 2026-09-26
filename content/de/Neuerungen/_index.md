@@ -15,10 +15,9 @@ Der Bereich Medizinische Klassifikationen des Bundesamtes für Statistik (BFS) h
    target="_blank"
    rel="noopener noreferrer">Aktualisierungen der Publikationen der Medizinischen Klassifikationen</a> zur Verfügung gestellt.
   
-Mit der Umstellung der Inhalte auf die Internetseite entfällt das Rundschreiben in seiner bisher bekannten Form. Die Möglichkeit, die Inhalte der Internetseite als PDF-Datei herunterzuladen, wird auch zukünftig bestehen. 
+Mit der Umstellung der Inhalte auf die Internetseite entfällt das Rundschreiben in seiner bisher bekannten Form. Die Möglichkeit, die Inhalte der Internetseite als PDF-Datei herunterzuladen, wird auch zukünftig bestehen.
 <br>
 Die bekannten halbjährlichen **Publikationszyklen der bisherigen Rundschreiben Nr. 1 sowie Rundschreiben Nr. 2** bleiben vorerst unverändert bestehen. Die **inhaltliche Gliederung** der Kapitel wird jedoch angepasst. Zukünftig strukturieren sich die Inhalte wie folgt:
-
 
 <ul>  
   <li>
@@ -38,20 +37,16 @@ Die bekannten halbjährlichen **Publikationszyklen der bisherigen Rundschreiben 
   </li>
 </ul>
   
-  
 Unter jedem Kapitel werden jeweils **das Publikationsjahr sowie der Beginn der Gültigkeit** der darin aufgeführten Inhalte angegeben, sodass die zeitliche Zuordnung der Änderungen und Ergänzungen jederzeit klar nachvollzogen werden kann.
   
 Register mit dem Zusatz "Ø None" enthalten keine Aktualisierungen.
   
-  
 **Kapitel «Aktualisierungen zur CHOP»**<br>
 Die Informationen zu Aktualisierungen zur CHOP werden neu in Form eines **Excel-Ordners (xlsx)** bereitgestellt, der direkt über die jeweiligen Register des Kapitels CHOP abrufbar ist. Diese Tabelle ermöglicht eine übersichtliche Nachverfolgung der Änderungen und bildet die Aktualisierungen in den Sprachen **Deutsch, Französisch und Italienisch** ab.
-  
   
 **Neues Kapitel «FAQ/Klarstellungen»**<br>
 Das bisherige Kapitel 5 «Anhang» wird durch das neue Kapitel **«FAQ/Klarstellungen»** ersetzt. Dort werden künftig sowohl allgemeine als auch spezifische Fragen beantwortet. Die Inhalte des bisherigen Anhangs (Kapitel 5) sind, falls noch aktuell, in dieses neue Kapitel migriert worden.
   
-    
 **Such- und Exportfunktionen**<br>
 Die Onlineversion bietet zusätzliche Funktionen:
 <ul>  
@@ -70,6 +65,5 @@ Sämtliche Rundschreiben der Jahre 2009 bis einschliesslich 2025 stehen weiterhi
    rel="noopener noreferrer">Instrumente zur medizinischen Kodierung | Bundesamt für Statistik - BFS</a>
 
 Durch diese digitale Weiterentwicklung werden die **Aktualisierungen** zu den Publikationen nicht nur zeitgemäss und benutzerfreundlich gestaltet, sondern bieten auch zusätzliche Funktionen, die den Arbeitsalltag der Kodiererinnen und Kodierer erleichtern und die Übersichtlichkeit der Inhalte erhöhen.
-
 
 {{</markdown>}}
