@@ -753,9 +753,11 @@ img.img_full {
     background-color: transparent !important;
     font-weight: inherit !important;
   }
-  .n2 a { padding-left: 1.4em !important; }
-  .n3 a { padding-left: 2.2em !important; }
-  .n4 a { padding-left: 3em !important; }
+    // Oberste Rubrik ausblenden, die Hauptrubrik der Website ersetzt sie
+  .n1 > li > a { display: none !important; }
+  .n2 a { padding-left: .8em !important; }
+  .n3 a { padding-left: 1.4em !important; }
+  .n4 a { padding-left: 2.2em !important; }
 
   a:hover {
     background-color: var(--nav-bg) !important;

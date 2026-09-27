@@ -36,28 +36,14 @@
       if (kasten) kasten.style.marginLeft = (ziel - kasten.getBoundingClientRect().left) + 'px';
 
       var baum = nav.querySelector('ul.n1');
-      var ersterLink = nav.querySelector('.n1 > li > a');
+      var ersterLink = nav.querySelector('.n2 > li > a');
       if (baum && ersterLink) baum.style.marginLeft = (ziel - textStart(ersterLink)) + 'px';
 
       var treffer = nav.querySelector('.suchtreffer');
       if (treffer && kasten) treffer.style.marginLeft = kasten.style.marginLeft;
     })();
   </script>
-  <script>
-    (function () {
-      // Grossen Seitentitel nur auf der Startseite (Inhaltsverzeichnis) zeigen
-      var titel = Array.prototype.find.call(document.querySelectorAll('main h1'), function (h) {
-        return !h.closest('.khb');
-      });
-      if (!titel) return;
-      function titelAnpassen() {
-        var seite = document.querySelector('.khb .khb-seite.aktiv');
-        titel.hidden = !!seite && seite.id !== 'inhaltsverzeichnis';
-      }
-      titelAnpassen();
-      window.addEventListener('hashchange', function () { setTimeout(titelAnpassen, 0); });
-    })();
-  </script>
+   <style>main h1:not(.khb h1) { display: none; }</style>
 {{- else -}}
   {{- if hugo.IsServer }}<p style="color:red">Kodierungshandbuch: Datei {{ $datei }} nicht gefunden</p>{{ end -}}
 {{- end -}}
