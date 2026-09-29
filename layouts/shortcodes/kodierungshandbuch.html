@@ -1,0 +1,49 @@
+{{- /* Bettet das Kodierungshandbuch in die Seite ein; die Handbuch-Navigation wandert in die Sidebar */ -}}
+{{- $lang := .Page.Language.Lang -}}
+{{- $datei := printf "static/kdh27/%s/Kodierungshandbuch_2027aktuell.html" $lang -}}
+{{- if fileExists $datei -}}
+  {{- $html := readFile $datei -}}
+  {{- with findRE `(?s)<style>.*?</style>` $html 1 }}{{ index . 0 | safeHTML }}{{ end -}}
+  {{- with findRESubmatch `(?s)<body[^>]*>(.*)</body>` $html 1 -}}
+    {{- $body := index (index . 0) 1 -}}
+    {{- /* Die Navigation liegt später ausserhalb des Handbuchs: Suche darauf anpassen */ -}}
+    {{- $body = replace $body `wrap.querySelectorAll('.khb-nav li')` `document.querySelectorAll('.khb-nav li')` -}}
+    {{- $body = replace $body `wrap.querySelector('.khb-nav li[` `document.querySelector('.khb-nav li[` -}}
+    {{- /* Tabellen des Handbuchs von der Docsy-Tabellengestaltung ausnehmen */ -}}
+    {{- $body = replace $body `<table class="` `<table class="td-initial ` -}}
+    {{ $body | safeHTML }}
+  {{- end -}}
+  <script>
+    (function () {
+      var nav = document.querySelector('.khb .khb-nav');
+      var aktiv = document.querySelector('.td-sidebar-nav a.td-sidebar-link.active');
+      var li = aktiv && aktiv.closest('li');
+      if (!nav || !li) return;
+
+      // Navigation samt Suche unter den aktiven Sidebar-Eintrag verschieben
+      var huelle = document.createElement('div');
+      huelle.className = 'khb khb-sidebar';
+      huelle.appendChild(nav);
+      li.appendChild(huelle);
+
+      // Suchfeld und Navigation einzeln bündig unter den Text des aktiven Eintrags setzen
+      function textStart(el) {
+        return el.getBoundingClientRect().left + (parseFloat(getComputedStyle(el).paddingLeft) || 0);
+      }
+      var ziel = textStart(aktiv.querySelector('span') || aktiv);
+
+      var kasten = nav.querySelector('.khb-suche');
+      if (kasten) kasten.style.marginLeft = (ziel - kasten.getBoundingClientRect().left) + 'px';
+
+      var baum = nav.querySelector('ul.n1');
+      var ersterLink = nav.querySelector('.n2 > li > a');
+      if (baum && ersterLink) baum.style.marginLeft = (ziel - textStart(ersterLink)) + 'px';
+
+      var treffer = nav.querySelector('.suchtreffer');
+      if (treffer && kasten) treffer.style.marginLeft = kasten.style.marginLeft;
+    })();
+  </script>
+   <style>main h1:not(.khb h1) { display: none; }</style>
+{{- else -}}
+  {{- if hugo.IsServer }}<p style="color:red">Kodierungshandbuch: Datei {{ $datei }} nicht gefunden</p>{{ end -}}
+{{- end -}}
