@@ -119,3 +119,6 @@ Diese Kodierungsinstrumente sind für die Datenerhebung der in der Schweiz hospi
 </body>
 </html>
 
+
+
+
