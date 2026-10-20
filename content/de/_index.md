@@ -21,13 +21,16 @@ Diese Kodierungsinstrumente sind für die Datenerhebung der in der Schweiz hospi
 
 <footer style="background-color: #f2f2f2; padding: 20px;">
   <h3>Kontakt</h3>
-
+<br>
+<br>
   <p>
     <strong>Bundesamt für Statistik</strong><br>
     Sektion Gesundheit der Bevölkerung Medizinische Kodierung und Klassifikationen<br>
     Espace de l’Europe 10<br>
     Schweiz - CH-2010 Neuchâtel
   </p>
+<br>
+<br>
 
   <p>
     ✉ <a href="mailto:codeinfo@bfs.admin.ch">codeinfo@bfs.admin.ch</a>
