@@ -19,6 +19,9 @@ Diese Kodierungsinstrumente sind für die Datenerhebung der in der Schweiz hospi
 {{</markdown>}}
 
 
+
+
+
 <footer style="background-color: #f2f2f2; padding: 20px;">
   <h3>Kontakt</h3>
 <br>
