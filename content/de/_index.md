@@ -27,52 +27,55 @@ Diese Kodierungsinstrumente sind für die Datenerhebung der in der Schweiz hospi
 
 
 
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
+<h3>Kontakt und weitere Informationen</h3>
 
+<b>Weitere Informationen</b>
 
+<p>
+Weitere Informationen zu den medizinischen Klassifikationen finden
+Sie auf der Webseite des Bundesamtes für Statistik:
+</p>
 
+<table>
+<tr>
+<td>
 
-<div style="border:1px solid #cfcfcf;padding:20px;background:#f5f5f5;font-family:Arial,sans-serif;overflow:hidden;">
- 
-    <div style="width:48%;float:left;">
-        <h3 style="margin-top:0;">Kontakt und weitere Informationen</h3>
- 
-        <h4>Weitere Informationen</h4>
- 
-        <p>
-            Weitere Informationen zu den medizinischen Klassifikationen finden
-            Sie auf der Webseite des Bundesamtes für Statistik:
-        </p>
- 
-        <div style="border:1px solid #cfcfcf;background:#ffffff;padding:12px;">
-            <strong style="color:#006699;">
-                Medizinische Kodierung und Klassifikationen
-            </strong><br>
-            <span style="font-size:12px;color:#666;">
-                Bundesamt für Statistik BFS · www.bfs.admin.ch
-            </span>
-        </div>
-    </div>
- 
-    <div style="width:48%;float:right;">
-        <h4>Fragen und Rückmeldungen</h4>
- 
-        <p>
-            Fragen zur Anwendung und zum Inhalt sowie Rückmeldungen zu technischen
-            Problemen sind zu richten an:
-        </p>
- 
-        <div style="border:1px solid #cfcfcf;background:#ffffff;padding:12px;">
-            <a href="mailto:medklass-updates@bfs.admin.ch" style="color:#006699;text-decoration:none;">
-                medklass-updates@bfs.admin.ch
-            </a>
-        </div>
-    </div>
- 
-    <div style="clear:both;"></div>
- 
-</div>
+<b>Medizinische Kodierung und Klassifikationen</b><br>
+Bundesamt für Statistik BFS · www.bfs.admin.ch
 
+</td>
+</tr>
+</table>
+
+    </td>
+
+    <td valign="top" width="50%">
+
+<b>Fragen und Rückmeldungen</b>
+
+<p>
+Fragen zur Anwendung und zum Inhalt sowie Rückmeldungen zu technischen Problemen sind zu richten an:
+</p>
+
+<table>
+<tr>
+<td>
+
+<a href="mailto:medklass-updates@bfs.admin.ch">
+medklass-updates@bfs.admin.ch
+</a>
+
+</td>
+</tr>
+</table>
+
+    </td>
+  </tr>
+</table>
 
 
 
