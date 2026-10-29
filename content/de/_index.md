@@ -19,7 +19,51 @@ Diese Kodierungsinstrumente sind für die Datenerhebung der in der Schweiz hospi
 {{</markdown>}}
 
 
+<table border="1" cellspacing="0" cellpadding="10" style="border-collapse:collapse; width:100%;">
+    <tr>
+        <th colspan="2" style="background-color:#f2f2f2; text-align:left;">
+            Kontakt und weitere Informationen
+        </th>
+    </tr>
 
+    <tr>
+        <td width="50%" valign="top">
+
+            <h3>Weitere Informationen</h3>
+
+            <p>
+                Weitere Informationen zu den medizinischen Klassifikationen
+                finden Sie auf der Webseite des Bundesamtes für Statistik:
+            </p>
+
+            <p>
+                🔗 <a href="https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/nomenklaturen/medkk/instrumente-medizinische-kodierung.html">
+                Medizinische Kodierung und Klassifikationen
+                </a><br>
+                Bundesamt für Statistik BFS · www.bfs.admin.ch
+            </p>
+
+        </td>
+
+        <td width="50%" valign="top">
+
+            <h3>Fragen und Rückmeldungen</h3>
+
+            <p>
+                Fragen zur Anwendung und zum Inhalt sowie Rückmeldungen zu
+                technischen Problemen sind zu richten an:
+            </p>
+
+            <p>
+                ✉
+                <a href="mailto:medklass-updates@bfs.admin.ch">
+                    medklass-updates@bfs.admin.ch
+                </a>
+            </p>
+
+        </td>
+    </tr>
+</table>
 
 
 
