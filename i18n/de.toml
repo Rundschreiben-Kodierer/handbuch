@@ -33,3 +33,21 @@ other = "Bundesamt für Statistik"
 # Search
 [ui_search]
 other = "Suchen..."
+
+# Contact block of the home page
+[contact_block_title]
+other = "Kontakt und weitere Informationen"
+[contact_block_info_title]
+other = "Weitere Informationen"
+[contact_block_info_text]
+other = "Weitere Informationen zu den medizinischen Klassifikationen finden Sie auf der Website des Bundesamtes für Statistik:"
+[contact_block_info_link]
+other = "https://statistik.admin.ch/de/daten-statistiken-verstehen/nomenklaturen/medkk"
+[contact_block_info_link_text]
+other = "Medizinische Kodierung und Klassifikationen"
+[contact_block_info_link_subtitle]
+other = "Bundesamt für Statistik BFS · www.statistik.admin.ch"
+[contact_block_feedback_title]
+other = "Fragen und Rückmeldungen"
+[contact_block_feedback_text]
+other = "Fragen zur Anwendung und zum Inhalt sowie Rückmeldungen zu technischen Problemen sind zu richten an:"

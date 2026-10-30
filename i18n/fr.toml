@@ -34,3 +34,19 @@ other = "Office fédéral de la statistique"
 # Search
 [ui_search]
 other = "Chercher..."
+
+# Contact block of the home page
+[contact_block_title]
+other = "Contact et informations complémentaires"
+[contact_block_info_title]
+other = "Informations complémentaires"
+[contact_block_info_text]
+other = "Vous trouverez des informations complémentaires sur les classifications médicales sur le site web de l'Office fédéral de la statistique :"
+[contact_block_info_link_text]
+other = "Codage médical et classifications"
+[contact_block_info_link_subtitle]
+other = "Office fédéral de la statistique OFS · www.statistik.admin.ch"
+[contact_block_feedback_title]
+other = "Questions et commentaires"
+[contact_block_feedback_text]
+other = "Les questions sur l'application et le contenu ainsi que les commentaires sur les problèmes techniques doivent être adressés à :"

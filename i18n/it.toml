@@ -34,3 +34,19 @@ other = "Ufficio federale di statistica"
 # Search
 [ui_search]
 other = "Cerca..."
+
+# Contact block of the home page
+[contact_block_title]
+other = "Contatto e ulteriori informazioni"
+[contact_block_info_title]
+other = "Ulteriori informazioni"
+[contact_block_info_text]
+other = "Ulteriori informazioni sulle classificazioni mediche sono disponibili sul sito web dell'Ufficio federale di statistica:"
+[contact_block_info_link_text]
+other = "Codifica medica e classificazioni"
+[contact_block_info_link_subtitle]
+other = "Ufficio federale di statistica UST · www.statistik.admin.ch"
+[contact_block_feedback_title]
+other = "Domande e riscontri"
+[contact_block_feedback_text]
+other = "Le domande sull'applicazione e sul contenuto nonché i riscontri su problemi tecnici devono essere inviati a:"

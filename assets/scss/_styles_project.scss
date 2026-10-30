@@ -3,6 +3,9 @@
 @import "components/index";
 @import "shortcodes/index";
 
+// Docsy loads the solid and brands styles of Font Awesome only; the regular style is used by the contact block
+@import "../vendor/Font-Awesome/scss/regular";
+
 html {
   line-height: 1.5;
 }
