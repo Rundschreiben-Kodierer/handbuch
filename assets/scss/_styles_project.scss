@@ -9,9 +9,9 @@ html {
 
 body {
   margin: 0;
-  word-break: break-word;
+  overflow-wrap: normal;
   color: $ob-gray-800;
-  font-size: 1rem;
+  font-size: 0.92rem;
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.5px;
@@ -42,7 +42,7 @@ body {
   h4 {
     font-size: 1.75rem;
     font-weight: 400;
-    line-height: 1.285715;
+    line-height: 1.286;
     letter-spacing: 0.1px;
   }
 
@@ -56,7 +56,7 @@ body {
   h6 {
     font-size: 1.125rem;
     font-weight: 500;
-    line-height: 1.333333;
+    line-height: 1.333;
     letter-spacing: 0.2px;
   }
 }
@@ -316,8 +316,10 @@ body {
   overflow: hidden;
 
   .td-sidebar__inner {
-    top: 0 !important;
-    padding-top: 4rem !important;
+    position: sticky;
+    top: 5rem;
+    height: auto;
+    overflow: visible;
 
     .td-sidebar__search {
       padding: 0 !important;
@@ -458,7 +460,7 @@ a {
   max-width: 80%;
   font-size: 0.875rem;
   font-weight: 400;
-  line-height: 1.42857;
+  line-height: 1.429;
   letter-spacing: 0.25px;
 
   td th {
