@@ -8,7 +8,6 @@
   Example:
     {{<contactBlock>}}
 */}}
-{{ $email := site.Params.contactEmail }}
 <section class="contact-block">
   <h2 class="contact-block__title">
     <i class="fa-solid fa-circle-info" aria-hidden="true"></i>
@@ -33,10 +32,12 @@
     <div class="contact-block__column">
       <h3>{{ T "contact_block_feedback_title" }}</h3>
       <p>{{ T "contact_block_feedback_text" }}</p>
-      <a class="contact-block__card" href="mailto:{{ $email }}">
-        <i class="fa-regular fa-envelope" aria-hidden="true"></i>
-        <span class="contact-block__label">{{ $email }}</span>
-      </a>
+      {{ with site.Params.contactEmail -}}
+        <a class="contact-block__card" href="mailto:{{ . }}">
+          <i class="fa-regular fa-envelope" aria-hidden="true"></i>
+          <span class="contact-block__label">{{ . }}</span>
+        </a>
+      {{- end }}
     </div>
   </div>
 </section>
