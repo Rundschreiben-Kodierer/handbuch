@@ -1,0 +1,82 @@
+.contact-block {
+  margin: $ob-spacing-xl 0;
+  padding: $ob-spacing-default $ob-spacing-default $ob-spacing-lg;
+  border-top: 3px solid $ob-venetian-red;
+  background-color: $ob-gray-100;
+
+  // Same width as the paragraphs of the page (Docsy limits them to 80% on large screens)
+  @include media-breakpoint-up(lg) {
+    max-width: 80%;
+  }
+
+  .contact-block__title {
+    display: flex;
+    align-items: center;
+    gap: $ob-spacing-sm;
+    margin: 0 0 $ob-spacing-default;
+    font-size: 1.15rem;
+    font-weight: 500;
+  }
+
+  .contact-block__columns {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+    gap: $ob-spacing-default $ob-spacing-xl;
+  }
+
+  // Title, text and card of both columns share the same rows, so that the cards are aligned
+  .contact-block__column {
+    display: grid;
+    grid-row: span 3;
+    grid-template-rows: subgrid;
+    row-gap: 0;
+
+    h3 {
+      margin: 0 0 $ob-spacing-sm;
+      font-size: 0.92rem;
+      font-weight: 700;
+    }
+
+    p {
+      color: $ob-gray-700;
+      font-size: 0.85rem;
+    }
+  }
+
+  .contact-block__card {
+    display: flex;
+    align-items: center;
+    gap: $ob-spacing-default;
+    padding: $ob-spacing-sm $ob-spacing-default;
+    border: 1px solid $ob-gray-300;
+    background-color: $ob-white;
+    color: $ob-gray-700;
+    text-decoration: none;
+
+    &:hover .contact-block__label {
+      text-decoration: none;
+    }
+  }
+
+  .contact-block__text {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+  }
+
+  .contact-block__label {
+    color: $ob-primary-500;
+    font-weight: 700;
+    text-decoration: underline;
+  }
+
+  .contact-block__subtitle {
+    font-size: 0.8rem;
+  }
+
+  .contact-block__flag {
+    flex: none;
+    width: 1.5rem;
+    height: 1.5rem;
+  }
+}

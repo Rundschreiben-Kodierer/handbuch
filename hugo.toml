@@ -130,6 +130,9 @@ buildDatetime = ""
 # Hash of the last commit (typically HEAD) intended to be set by the CI, LEAVE EMPTY HERE!
 gitHash = ""
 
+# E-mail address for questions and feedback, displayed in the contact block of the home page and in the footer
+contactEmail = "codeinfo@bfs.admin.ch"
+
 [params.ui]
 # Enable to show the side bar menu in its compact state.
 sidebar_menu_compact = true

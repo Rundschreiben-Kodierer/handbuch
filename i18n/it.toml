@@ -1,9 +1,9 @@
 [copyright]
 other = "Ufficio federale di statistica"
 [legal_text]
-other = "Indicazioni giuridiche"
+other = "Basi legali"
 [legal_link]
-other = "https://creativecommons.org/licenses/by-nc-nd/4.0/deed.it"
+other = "https://www.admin.ch/it/basi-legali"
 [home_text]
 other = "Home"
 [project_text]
@@ -34,3 +34,31 @@ other = "Ufficio federale di statistica"
 # Search
 [ui_search]
 other = "Cerca..."
+
+# Contact block of the home page
+[contact_block_title]
+other = "Contatto e ulteriori informazioni"
+[contact_block_info_title]
+other = "Ulteriori informazioni"
+[contact_block_info_text]
+other = "Ulteriori informazioni sulle classificazioni mediche sono disponibili sul sito web dell'Ufficio federale di statistica:"
+[contact_block_info_link]
+other = "https://statistik.admin.ch/it/capire-statistiche-dati/nomenclature/medkk"
+[contact_block_info_link_text]
+other = "Codifica medica e classificazioni"
+[contact_block_info_link_subtitle]
+other = "Ufficio federale di statistica UST · www.statistik.admin.ch"
+[contact_block_feedback_title]
+other = "Domande e riscontri"
+[contact_block_feedback_text]
+other = "Le domande sull'applicazione e sul contenuto nonché i riscontri su problemi tecnici devono essere inviati a:"
+
+# Footer
+[footer_contact_title]
+other = "Contatto"
+[footer_address]
+other = "Ufficio federale di statistica\nSezione Salute della popolazione\nCodifica medica e classificazioni\nEspace de l'Europe 10\nSvizzera - CH-2010 Neuchâtel"
+[impressum_text]
+other = "Impressum"
+[impressum_link]
+other = "https://statistik.admin.ch/it/impressum"

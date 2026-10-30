@@ -3,6 +3,9 @@
 @import "components/index";
 @import "shortcodes/index";
 
+// Docsy loads the solid and brands styles of Font Awesome only; the regular style is used by the contact block
+@import "../vendor/Font-Awesome/scss/regular";
+
 html {
   line-height: 1.5;
 }
@@ -255,39 +258,90 @@ body {
     }
 
     footer {
-      position: relative;
-      display: flex;
-      flex-flow: column wrap;
-      flex-direction: row;
-      padding: $ob-spacing-xs $ob-spacing-default !important;
-      border-top: 1px solid $ob-gray-300;
-      background-color: $ob-gray-100;
-      color: $ob-gray-700;
-      font-size: 0.8rem;
+      padding: 0 !important;
       min-height: unset;
+      font-size: 0.8rem;
 
-      .footer-item {
-        padding: $ob-spacing-xs 0;
+      // Same margins and maximum width as the main content, so that the footer is aligned with it
+      .footer-row {
+        max-width: 1440px;
 
-        &.footer-item-info {
-          margin-right: $ob-spacing-default;
-          flex: 1;
+        // Margin of .td-main, plus the negative margin of the Bootstrap rows of the main content
+        margin: 0 calc(3px - var(--bs-gutter-x) * 0.5);
+
+        > div {
+          padding: 0 $ob-spacing-default;
+        }
+      }
+
+      .footer-contact {
+        padding: $ob-spacing-xl 0;
+        background-color: $footer-contact-bg;
+        color: $ob-gray-800;
+
+        h2 {
+          margin-bottom: $ob-spacing-default;
+          font-size: 1.4rem;
+          font-weight: 700;
         }
 
-        &.footer-item-links {
+        address {
+          margin-bottom: $ob-spacing-default;
+          line-height: 1.5;
+        }
+
+        .footer-email {
+          color: $ob-venetian-red;
+          text-decoration: none;
+
+          i {
+            margin-right: $ob-spacing-sm;
+          }
+
+          &:hover {
+            text-decoration: underline;
+          }
+        }
+      }
+
+      .footer-bar {
+        padding: $ob-spacing-default 0;
+        background-color: $footer-bar-bg;
+        color: $ob-white;
+
+        .footer-content {
           display: flex;
-          list-style: none;
+          flex-wrap: wrap;
+          justify-content: space-between;
+          gap: $ob-spacing-sm $ob-spacing-xl;
+        }
+
+        .footer-links {
+          display: flex;
+          gap: $ob-spacing-lg;
           margin: 0;
-          padding-left: 0;
+          padding: 0;
+          list-style: none;
 
-          > li {
-            display: list-item;
+          a {
+            color: $ob-white;
+            font-weight: 700;
+            text-decoration: none;
 
-            > a {
-              font-weight: 700;
-              text-decoration: none;
+            &:hover {
+              text-decoration: underline;
             }
           }
+        }
+
+        .footer-info {
+          display: flex;
+          flex-wrap: wrap;
+          gap: $ob-spacing-xs $ob-spacing-default;
+        }
+
+        .footer-version {
+          color: $ob-gray-300;
         }
       }
     }
@@ -295,13 +349,15 @@ body {
 }
 
 @media (min-width: 1200px) {
-  .td-sidebar {
+  .td-sidebar,
+  .footer-spacer {
       min-width: 325px;
   }
 }
 
 @media (max-width: 1199px) {
-  .td-sidebar {
+  .td-sidebar,
+  .footer-spacer {
       min-width: 200px;
   }
 }

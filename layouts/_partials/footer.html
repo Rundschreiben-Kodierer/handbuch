@@ -1,28 +1,45 @@
 <footer>
-  <div class="footer-item footer-item-info">
-    &copy; {{ now.Year }} {{ T "copyright" }} | 
-    v{{ .Site.Params.version }}
-    (
-    {{ if (and (isset .Site.Params "githash") (not (eq .Site.Params.gitHash ""))) }}
-    {{ .Site.Params.gitHash }}, 
-    {{ end }}
-
-    {{ if (and (isset .Site.Params "builddatetime") (not (eq .Site.Params.buildDatetime ""))) }}
-    {{ .Site.Params.buildDatetime }}
-    {{ else }}
-    {{ $t := time.Now }}
-    {{ $t  | time.Format ":date_medium" }} {{ $t  | time.Format ":time_medium" }}
-    {{ end }}
-    )
+  {{/* The empty first column has the width of the sidebar, so that the footer content is aligned with the main column */}}
+  <div class="footer-contact">
+    <div class="footer-row row flex-xl-nowrap">
+      <div class="footer-spacer col-md-3 col-xl-2 d-none d-md-block"></div>
+      <div class="footer-content col ps-md-5">
+        <h2>{{ T "footer_contact_title" }}</h2>
+        <address>
+          {{ range $index, $line := split (T "footer_address") "\n" -}}
+            {{ if eq $index 0 }}<strong>{{ $line }}</strong>{{ else }}{{ $line }}{{ end }}<br>
+          {{ end -}}
+        </address>
+        {{ with site.Params.contactEmail -}}
+          <a class="footer-email" href="mailto:{{ . }}">
+            <i class="fa-regular fa-envelope" aria-hidden="true"></i>
+            {{ . }}
+          </a>
+        {{- end }}
+      </div>
+    </div>
   </div>
-  <ul class="footer-item footer-item-links">
-    <li>
-      <a href="{{ T "legal_link" }}" target="_blank" style="margin-right: 1em;">{{ T "legal_text" }}</a>
-    </li>
-    <li>
-      <a href="{{ T "legal_link" }}" title="legal-link-logo">
-        <img decoding="async" loading="lazy" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-nd.png" width="118" height="41" align="right" alt="legal-link-logo" />
-      </a>
-    </li>
-  </ul>
+  <div class="footer-bar">
+    <div class="footer-row row flex-xl-nowrap">
+      <div class="footer-spacer col-md-3 col-xl-2 d-none d-md-block"></div>
+      <div class="footer-content col ps-md-5">
+        <ul class="footer-links">
+          <li><a href="{{ T "legal_link" }}" target="_blank" rel="noopener">{{ T "legal_text" }}</a></li>
+          <li><a href="{{ T "impressum_link" }}" target="_blank" rel="noopener">{{ T "impressum_text" }}</a></li>
+        </ul>
+        <div class="footer-info">
+          <span>&copy; {{ now.Year }} {{ T "copyright" }}</span>
+          <span class="footer-version">
+            v{{ .Site.Params.version }}
+            ({{ if (and (isset .Site.Params "githash") (not (eq .Site.Params.gitHash ""))) }}{{ .Site.Params.gitHash }}, {{ end -}}
+            {{ if (and (isset .Site.Params "builddatetime") (not (eq .Site.Params.buildDatetime ""))) -}}
+              {{ .Site.Params.buildDatetime }}
+            {{- else -}}
+              {{ $t := time.Now }}{{ $t | time.Format ":date_medium" }} {{ $t | time.Format ":time_medium" }}
+            {{- end }})
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
 </footer>

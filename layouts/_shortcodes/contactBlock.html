@@ -1,0 +1,43 @@
+{{/*
+  Shortcode for the contact block of the home page.
+
+  This shortcode generates a block with two columns: a link to the medical classifications page
+  of the FSO website, and the e-mail address for questions and feedback.
+  The texts and the link are read from the i18n files, so that the block is used as is in every language.
+
+  Example:
+    {{<contactBlock>}}
+*/}}
+<section class="contact-block">
+  <h2 class="contact-block__title">
+    <i class="fa-solid fa-circle-info" aria-hidden="true"></i>
+    {{ T "contact_block_title" }}
+  </h2>
+  <div class="contact-block__columns">
+    <div class="contact-block__column">
+      <h3>{{ T "contact_block_info_title" }}</h3>
+      <p>{{ T "contact_block_info_text" }}</p>
+      <a class="contact-block__card" href="{{ T "contact_block_info_link" }}" target="_blank" rel="noopener">
+        <svg class="contact-block__flag" viewBox="0 0 32 32" aria-hidden="true">
+          <path fill="#dc0018" d="M0 0h32v32H0z"/>
+          <path fill="#fff" d="M13 6h6v7h7v6h-7v7h-6v-7H6v-6h7z"/>
+        </svg>
+        <span class="contact-block__text">
+          <span class="contact-block__label">{{ T "contact_block_info_link_text" }}</span>
+          <span class="contact-block__subtitle">{{ T "contact_block_info_link_subtitle" }}</span>
+        </span>
+        <i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i>
+      </a>
+    </div>
+    <div class="contact-block__column">
+      <h3>{{ T "contact_block_feedback_title" }}</h3>
+      <p>{{ T "contact_block_feedback_text" }}</p>
+      {{ with site.Params.contactEmail -}}
+        <a class="contact-block__card" href="mailto:{{ . }}">
+          <i class="fa-regular fa-envelope" aria-hidden="true"></i>
+          <span class="contact-block__label">{{ . }}</span>
+        </a>
+      {{- end }}
+    </div>
+  </div>
+</section>
