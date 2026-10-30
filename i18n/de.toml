@@ -1,9 +1,9 @@
 [copyright]
 other = "Bundesamt für Statistik"
 [legal_text]
-other = "Rechtliche Hinweise"
+other = "Rechtliches"
 [legal_link]
-other = "https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de"
+other = "https://www.admin.ch/de/rechtliches"
 [home_text]
 other = "Home"
 [project_text]
@@ -51,3 +51,13 @@ other = "Bundesamt für Statistik BFS · www.statistik.admin.ch"
 other = "Fragen und Rückmeldungen"
 [contact_block_feedback_text]
 other = "Fragen zur Anwendung und zum Inhalt sowie Rückmeldungen zu technischen Problemen sind zu richten an:"
+
+# Footer
+[footer_contact_title]
+other = "Kontakt"
+[footer_address]
+other = "Bundesamt für Statistik\nSektion Gesundheit der Bevölkerung\nMedizinische Kodierung und Klassifikationen\nEspace de l'Europe 10\nSchweiz - CH-2010 Neuchâtel"
+[impressum_text]
+other = "Impressum"
+[impressum_link]
+other = "https://statistik.admin.ch/de/impressum"

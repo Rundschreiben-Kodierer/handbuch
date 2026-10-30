@@ -1,9 +1,9 @@
 [copyright]
 other = "Office fédéral de la statistique"
 [legal_text]
-other = "Droits d'usage"
+other = "Conditions d'utilisation"
 [legal_link]
-other = "https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr"
+other = "https://www.admin.ch/fr/conditions-utilisation"
 [home_text]
 other = "Home"
 [project_text]
@@ -50,3 +50,11 @@ other = "Office fédéral de la statistique OFS · www.statistik.admin.ch"
 other = "Questions et commentaires"
 [contact_block_feedback_text]
 other = "Les questions sur l'application et le contenu ainsi que les commentaires sur les problèmes techniques doivent être adressés à :"
+
+# Footer
+[footer_contact_title]
+other = "Contact"
+[footer_address]
+other = "Office fédéral de la statistique\nSection Santé de la population\nCodage médical et classifications\nEspace de l'Europe 10\nSuisse - CH-2010 Neuchâtel"
+[impressum_text]
+other = "Impressum"
