@@ -41,6 +41,21 @@
         break-after: avoid;
     }
 
+    /* Remove the empty space below the last text of the page: when it doesn't fit at the bottom of the last page,
+       it's printed alone on an extra blank page. The line breaks at the end of the articles only add space between them */
+    .layout-main {
+        padding-bottom: 0 !important;
+    }
+
+    .article br:last-child,
+    .article br:has(+ br:last-child) {
+        display: none;
+    }
+
+    .article:last-child .article-body {
+        padding-bottom: 0;
+    }
+
     .layout-brand {
         display: flex;
         flex-direction: column;
