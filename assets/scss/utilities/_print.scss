@@ -26,9 +26,19 @@
         overflow: visible !important;
     }
 
-    /* Avoid breaks within articles */
+    /* Keep an article that fits on a page on one page: it starts on the next page when it doesn't fit at the bottom of a page.
+       The articles higher than a page are marked by the print button, and break across pages */
     .article {
-        page-break-inside: avoid;
+        break-inside: avoid;
+
+        &.article--breakable {
+            break-inside: auto;
+        }
+    }
+
+    /* Keep the header of an article with the beginning of its body */
+    .article-header {
+        break-after: avoid;
     }
 
     .layout-brand {
@@ -74,4 +84,13 @@
             margin: 0;
         }
     }
+}
+
+/* Layout of the content on a printed page (A4 width minus the 2 x 20mm margins, padding of the main column),
+   applied by the print button while it measures the height of the articles */
+.print-measuring .layout-main {
+    flex: none !important;
+    width: 170mm !important;
+    max-width: none !important;
+    padding: 16px !important;
 }
