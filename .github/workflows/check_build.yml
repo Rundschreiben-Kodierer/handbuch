@@ -46,8 +46,8 @@ jobs:
       contents: read
       pull-requests: write
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
         with:
           node-version: ${{ needs.read-tool-versions.outputs.nodejs_version }}
       - run: 'npm ci'
@@ -58,7 +58,7 @@ jobs:
           filter_mode: added
           fail_level: warning
           stylelint_config: '.stylelintrc.json'
-          stylelint_input: '**/assets/scss/*.scss'
+          stylelint_input: '"assets/**/*.scss"'
 
   eslintCheck:
     name: Javascript Lint Check
@@ -69,8 +69,8 @@ jobs:
       contents: read
       pull-requests: write
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
         with:
           node-version: ${{ needs.read-tool-versions.outputs.nodejs_version }}
       - run: 'npm ci'
@@ -91,8 +91,8 @@ jobs:
       contents: read
       pull-requests: write
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
         with:
           node-version: ${{ needs.read-tool-versions.outputs.nodejs_version }}
       - run: 'npm ci'
@@ -111,15 +111,9 @@ jobs:
     needs: read-tool-versions
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           submodules: recursive
-
-      - name: Install Go
-        uses: actions/setup-go@v5
-        with:
-          cache: false # to avoid Warning: "Restore cache failed: Dependencies file is not found in /home/runner/work/handbook/handbook. Supported file pattern: go.sum"
-          go-version: ${{ needs.read-tool-versions.outputs.go_version }}
 
       - name: Install Dart Sass
         uses: ./.github/actions/install-dart-sass
@@ -127,7 +121,7 @@ jobs:
           dart_sass_version: ${{ needs.read-tool-versions.outputs.dart_sass_version }}
 
       - name: Setup Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v7
         with:
           node-version: ${{ needs.read-tool-versions.outputs.nodejs_version }}
 
@@ -184,7 +178,7 @@ jobs:
         #     the trigger is automatic (push)
         #     OR the trigger is manual and 'deploymentEnabled' parameter is true
         if: success() && github.event_name != 'pull_request' && (github.event_name != 'workflow_dispatch' || github.event.inputs.deploymentEnabled == 'true')
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: ${{ env.TARGET_BRANCH }}
           build_dir: public

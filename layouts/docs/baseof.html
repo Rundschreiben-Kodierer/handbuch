@@ -2,14 +2,14 @@
 <html
   itemscope
   itemtype="http://schema.org/WebPage"
-  lang="{{ .Site.Language.Lang }}"
+  lang="{{ .Site.Language.Name }}"
   class="no-js"
 >
   <head>
     {{ partial "head.html" . }}
   </head>
   <body
-    class="td-{{ .Kind }}{{ with .Page.Params.body_class }}{{ . }}{{ end }}"
+    class="td-{{ .Kind }}{{ with .Page.Params.body_class }} {{ . }}{{ end }}"
   >
     <div class="viewport">
       <header class="layout-header">
@@ -25,7 +25,7 @@
                 {{ partial "sidebar.html" . }}
               </aside>
               <main
-                class="col-12 col-md-9 col-xl-10 pl-md-5 layout-main"
+                class="col-12 col-md-9 col-xl-10 ps-md-5 layout-main"
                 role="main"
               >
                 {{ partial "version-banner.html" . }}

@@ -1,5 +1,5 @@
 import globals from 'globals';
-import eslint  from '@eslint/js';7;
+import eslint  from '@eslint/js';
 import jsdocPlugin from 'eslint-plugin-jsdoc';
 
 export default [

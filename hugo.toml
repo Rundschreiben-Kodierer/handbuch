@@ -1,6 +1,9 @@
 baseURL = 'https://www.medical-classifications.ch/'
-languageCode = 'de-CH'
+locale = 'de-CH'
 title = 'Rundschreiben Kodierer'
+
+theme = "@docsy/theme"
+themesDir = "node_modules"
 
 # Language settings
 contentDir = "content/"
@@ -45,14 +48,13 @@ blog = "/:section/:year/:month/:day/:slug/"
 # Image processing configuration.
 [imaging]
 resampleFilter = "CatmullRom"
-quality = 75
 anchor = "smart"
 
 # Language configuration
 [languages]
  [languages.de]
-  languageName = "Deutsch"
-  languageCode = "de"
+  label = "Deutsch"
+  locale = "de"
   contentDir = "content/de"
   weight = 1
  [languages.de.params]
@@ -60,8 +62,8 @@ anchor = "smart"
   description = "Anleitungen und Informationen zur Rundschreiben Kodierer"
 
  [languages.fr]
-  languageName = "Français"
-  languageCode = "fr"
+  label = "Français"
+  locale = "fr"
   contentDir = "content/fr"
   weight = 2
  [languages.fr.params]
@@ -69,8 +71,8 @@ anchor = "smart"
   description = "Instructions et informations sur Rundschreiben Kodierer"
 
 [languages.it]
-languageName = "Italian"
-languageCode = "it"
+label = "Italian"
+locale = "it"
 contentDir = "content/it"
 weight = 3
 [languages.it.params]
@@ -80,14 +82,14 @@ description = "Guida e informazioni su Rundschreiben Kodierer"
 # [languages.rm]
 # title = "Manual da plattafurma Rundschreiben Kodierer"
 # description = ""
-# languageName = "Rumantsch"
-# languageCode = "rm"
+# label = "Rumantsch"
+# locale = "rm"
 # contentDir = "content/rm"
 # weight = 4
 
 # [languages.en]
-# languageName = "English"
-# languageCode = "en"
+# label = "English"
+# locale = "en"
 # contentDir = "content/en"
 # weight = 5
 # [languages.en.params]
@@ -137,11 +139,3 @@ sidebar_search_disable = true
 [params.mermaid]
 enable = true
 theme = "base"
-
-[module]
-  [module.hugoVersion]
-    extended = true
-    min = "0.124.0"
-  [[module.imports]]
-    path = "github.com/google/docsy"
-    disable = false

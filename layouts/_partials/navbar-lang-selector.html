@@ -1,8 +1,8 @@
 <ul class="language-switcher">
     {{ $currentPage := .Page }}
-    {{ range $.Site.Languages }}
+    {{ range hugo.Sites }}
         <li>
-			{{ $langCode := .Lang }}
+			{{ $langCode := .Language.Name }}
             {{ $translatedPage := $currentPage }}
             {{ $translationExists := false }}
             <!-- Loop through available translations to find the corresponding one -->

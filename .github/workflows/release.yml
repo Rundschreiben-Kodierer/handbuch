@@ -36,7 +36,7 @@ jobs:
       release_version: ${{ steps.version.outputs.release_version }}
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           sparse-checkout: |
             hugo.toml
@@ -45,7 +45,8 @@ jobs:
       - name: Get current version
         id: version
         run: |
-          current_version=$(grep 'version[[:space:]]*=' hugo.toml | sed 's/version[[:space:]]*=[[:space:]]*"\([^"]*\)"/\1/')
+          # Tolerates leading indentation and trailing content (e.g. a comment) on the version line
+          current_version=$(grep '^[[:space:]]*version[[:space:]]*=' hugo.toml | sed 's/^[[:space:]]*version[[:space:]]*=[[:space:]]*"\([^"]*\)".*/\1/')
 
           # Check whether the version is valid or invalid
           if [[ -z "$current_version" || ! "$current_version" =~ ^[0-9]+(\.[0-9]+){1,2}$ ]]; then
@@ -96,7 +97,7 @@ jobs:
           application_private_key: ${{ secrets.AUTO_COMMIT_AGENT_APP_PRIVATE_KEY }}
 
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           sparse-checkout: |
             hugo.toml
@@ -124,18 +125,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           submodules: recursive
 
       - name: Ensure latest changes are fetched
         run: git pull origin main --ff-only
-
-      - name: Install Go
-        uses: actions/setup-go@v5
-        with:
-          cache: false # to avoid Warning "Restore cache failed: Dependencies file is not found in /home/runner/work/handbook/handbook. Supported file pattern: go.sum"
-          go-version: ${{ needs.read-tool-versions.outputs.go_version }}
 
       - name: Install Dart Sass
         uses: ./.github/actions/install-dart-sass
@@ -144,10 +139,10 @@ jobs:
 
       - name: Setup Pages
         id: pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v6
 
       - name: Setup Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v7
         with:
           node-version: ${{ needs.read-tool-versions.outputs.nodejs_version }}
 
@@ -170,7 +165,7 @@ jobs:
         run: npm run build:ci:production
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v5
         with:
           path: ./public
 
@@ -183,4 +178,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5

@@ -1,5 +1,5 @@
 {{- /* Bettet das Kodierungshandbuch in die Seite ein; die Handbuch-Navigation wandert in die Sidebar */ -}}
-{{- $lang := .Page.Language.Lang -}}
+{{- $lang := .Page.Language.Name -}}
 {{- $datei := printf "static/kdh27/%s/Kodierungshandbuch_2027aktuell.html" $lang -}}
 {{- if fileExists $datei -}}
   {{- $html := readFile $datei -}}
