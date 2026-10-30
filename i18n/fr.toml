@@ -42,6 +42,8 @@ other = "Contact et informations complémentaires"
 other = "Informations complémentaires"
 [contact_block_info_text]
 other = "Vous trouverez des informations complémentaires sur les classifications médicales sur le site web de l'Office fédéral de la statistique :"
+[contact_block_info_link]
+other = "https://statistik.admin.ch/fr/comprendre-donnees-statistiques/nomenclatures/medkk"
 [contact_block_info_link_text]
 other = "Codage médical et classifications"
 [contact_block_info_link_subtitle]
@@ -58,3 +60,5 @@ other = "Contact"
 other = "Office fédéral de la statistique\nSection Santé de la population\nCodage médical et classifications\nEspace de l'Europe 10\nSuisse - CH-2010 Neuchâtel"
 [impressum_text]
 other = "Impressum"
+[impressum_link]
+other = "https://statistik.admin.ch/fr/impressum"
