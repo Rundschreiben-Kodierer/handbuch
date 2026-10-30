@@ -362,6 +362,11 @@ body {
   }
 }
 
+// The main column takes the width left by the sidebar; without min-width: 0, a wide table would make it wider
+.layout-main {
+  min-width: 0;
+}
+
 .td-sidebar {
   background-color: $ob-white;
   white-space: normal;
