@@ -1,5 +1,0 @@
-{{/* Asks search engines not to index the website (e.g. the test environment, see params.noindex in hugo.toml).
-     Docsy's head.html writes "index, follow" in production: search engines apply the more restrictive rule. */ -}}
-{{ if site.Params.noindex -}}
-<meta name="robots" content="noindex, nofollow">
-{{ end -}}
