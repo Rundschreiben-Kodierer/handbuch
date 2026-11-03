@@ -138,6 +138,9 @@ jobs:
           echo "baseName: $baseName"
           sed -i "s|baseName[[:space:]]*=[[:space:]]*'.*'|baseName = '$baseName'|" hugo.toml
 
+          # The test website must not be indexed by search engines
+          sed -i "s|^noindex[[:space:]]*=[[:space:]]*false|noindex = true|" hugo.toml
+
           buildDatetime=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
           echo "buildDatetime: $buildDatetime"
           sed -i "s/buildDatetime[[:space:]]*=[[:space:]]*\".*\"/buildDatetime = \"$buildDatetime\"/" hugo.toml
