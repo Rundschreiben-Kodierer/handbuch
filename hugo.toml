@@ -133,6 +133,10 @@ gitHash = ""
 # E-mail address for questions and feedback, displayed in the contact block of the home page and in the footer
 contactEmail = "codeinfo@bfs.admin.ch"
 
+# Asks search engines not to index the website (noindex meta tag) when true.
+# Intended to be set to true by the CI for the test environment only, LEAVE FALSE HERE!
+noindex = false
+
 [params.ui]
 # Enable to show the side bar menu in its compact state.
 sidebar_menu_compact = true
