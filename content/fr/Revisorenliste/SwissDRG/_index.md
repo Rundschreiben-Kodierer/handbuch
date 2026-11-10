@@ -287,6 +287,18 @@ keywords: []
     <td class="tg-ktyi">21.10.2025</td>
   </tr>
   <tr>
+    <td class="tg-0lax">Combes</td>
+    <td class="tg-ktyi">Emilie</td>
+    <td class="tg-ktyi">48, Pl. Centrale<br>74270 Frangy France</td>
+    <td class="tg-v47d"><a href="mailto:combesemilie.c@gmail.com">combesemilie.c@gmail.com</a></td>
+    <td class="tg-ktyi">0033 6 64 47 14 07</td>
+    <td class="tg-ktyi">Français</td>
+    <td class="tg-0lax">Confirmé</td>
+    <td class="tg-ktyi">Canton de Genève<br>Canton de Vaud</td>
+    <td class="tg-ktyi">Confirmé</td>
+    <td class="tg-ktyi">18.09.2026</td>
+  </tr>
+  <tr>
     <td class="tg-0lax" id="d">De Almeida</td>
     <td class="tg-ktyi">Leopoldina</td>
     <td class="tg-ktyi">Ch. des Dents du midi 31 E<br>1860 - Aigle</td>
@@ -1053,6 +1065,18 @@ keywords: []
     <td class="tg-ktyi">Toute la suisse</td>
     <td class="tg-ktyi">Confirmé</td>
     <td class="tg-ktyi">15.12.2011</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Parreira</td>
+    <td class="tg-ktyi">Silvia</td>
+    <td class="tg-0lax">Route de l'Église 19<br>1891 Vérossaz</td>
+    <td class="tg-v47d"><a href="mailto:silviaesparreira@gmail.com">silviaesparreira@gmail.com</a></td>
+    <td class="tg-ktyi">076 450 930 17</td>
+    <td class="tg-ktyi">Français</td>
+    <td class="tg-ktyi">Confirmé</td>
+    <td class="tg-ktyi">Suisse romandie</td>
+    <td class="tg-ktyi">Confirmé</td>
+    <td class="tg-ktyi">18.09.2026</td>
   </tr>
   <tr>
     <td class="tg-ktyi">Pasqualotto</td>
