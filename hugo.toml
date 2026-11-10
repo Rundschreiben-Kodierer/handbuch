@@ -1,6 +1,6 @@
 baseURL = 'https://www.medical-classifications.ch/'
 locale = 'de-CH'
-title = 'Rundschreiben Kodierer'
+title = 'Medizinische Kodierung und Klassifikationen'
 
 theme = "@docsy/theme"
 themesDir = "node_modules"
