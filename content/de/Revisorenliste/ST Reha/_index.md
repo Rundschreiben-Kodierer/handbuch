@@ -145,6 +145,23 @@ keywords: []
     <td class="tg-ktyi">Bestätigt</td>
     <td class="tg-ktyi">21.10.2025</td>
  </tr>
+
+ </tr>
+    <tr>
+    <td class="tg-0lax" id="c">Combes</td>
+    <td class="tg-ktyi">Emilie</td>
+    <td class="tg-ktyi">48, Pl. Centrale<br> 74270 Frangy France</td>
+    <td class="tg-v47d"><a href="mailto:combesemilie.c@gmail.com">combesemilie.c@gmail.com</a></td>
+    <td class="tg-ktyi">0033 6 64 47 14 07</td>
+    <td class="tg-ktyi">Französisch</td>
+    <td class="tg-0lax">Bestätigt</td>
+    <td class="tg-ktyi">Ja</td>
+    <td class="tg-ktyi">Ja</td>
+    <td class="tg-ktyi">Kanton Genf<br>Kanton Waadt</td>
+    <td class="tg-ktyi">Bestätigt</td>
+    <td class="tg-ktyi">18.09.2026</td>
+ </tr>
+
 <tr>
     <td class="tg-ktyi" id="d">Di Almeida</td>
     <td class="tg-ktyi">Leopoldina</td>
@@ -383,6 +400,22 @@ keywords: []
     <td class="tg-ktyi">Bestätigt</td>
     <td class="tg-ktyi">22.11.2023</td>
   </tr>
+
+  <tr>
+    <td class="tg-0lax" id="p">Parreira</td>
+    <td class="tg-ktyi">Silvia</td>
+    <td class="tg-0lax">Route de l'Église 19<br>1891 Vérossaz</td>
+    <td class="tg-z182"><a href="mailto:silviaesparreira@gmail.com">silviaesparreira@gmail.com</a></td>
+    <td class="tg-0lax">076 450 930 17</td>
+    <td class="tg-0lax">Französisch</td>
+    <td class="tg-0lax">Bestätigt</td>
+    <td class="tg-ktyi"></td>
+    <td class="tg-ktyi">Sì</td>
+    <td class="tg-0lax">Romandie</td>
+    <td class="tg-ktyi">Bestätigt</td>
+    <td class="tg-ktyi">18.09.2026</td>
+  </tr>
+
   <tr>
     <td class="tg-0lax">Pasqualotto</td>
     <td class="tg-ktyi">Annegret</td>

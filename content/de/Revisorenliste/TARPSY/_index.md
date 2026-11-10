@@ -130,8 +130,8 @@ keywords: []
     <td class="tg-ktyi">Bestätigt</td>
     <td class="tg-ktyi">06.03.2026</td>
   </tr>
-    <tr>
-    <td class="tg-0lax" id="d">Chevalier</td>
+  <tr>
+    <td class="tg-0lax" id="c">Chevalier</td>
     <td class="tg-ktyi">Johanne</td>
     <td class="tg-ktyi">Chemin de l’Ancienne Poste 6<br>1081 Montpreveyres</td>
     <td class="tg-v47d"><a href="mailto:johanne.chevalier@chuv.ch">johanne.chevalier@chuv.ch</a></td>
@@ -144,6 +144,23 @@ keywords: []
     <td class="tg-ktyi">Bestätigt</td>
     <td class="tg-ktyi">21.10.2025</td>
   </tr>
+
+  <tr>
+    <td class="tg-0lax">Combes</td>
+    <td class="tg-ktyi">Emilie</td>
+    <td class="tg-ktyi">48, Pl. Centrale<br> 74270 Frangy Frankreich</td>
+    <td class="tg-v47d"><a href="mailto:combesemilie.c@gmail.com">combesemilie.c@gmail.com</a></td>
+    <td class="tg-ktyi">0033 6 64 47 14 07</td>
+    <td class="tg-ktyi">Französisch</td>
+    <td class="tg-0lax">Bestätigt</td>
+    <td class="tg-0lax">Ja</td>
+    <td class="tg-0lax">Ja</td>
+    <td class="tg-ktyi">Kanton Genf<br>Kanton Waadt</td>
+    <td class="tg-ktyi">Bestätigt</td>
+    <td class="tg-ktyi">18.09.2026</td>
+  </tr>
+
+
   <tr>
     <td class="tg-ktyi" id="d">Di Falco</td>
     <td class="tg-ktyi">Calogero</td>

@@ -144,6 +144,23 @@ keywords: []
     <td class="tg-ktyi">Confirmé</td>
     <td class="tg-ktyi">21.10.2025</td>
   </tr>
+
+  <tr>
+    <td class="tg-0lax">Combes</td>
+    <td class="tg-ktyi">Emilie</td>
+    <td class="tg-ktyi">48, Pl. Centrale<br> 74270 Frangy Frankreich</td>
+    <td class="tg-v47d"><a href="mailto:combesemilie.c@gmail.com">combesemilie.c@gmail.com</a></td>
+    <td class="tg-ktyi">0033 6 64 47 14 07</td>
+    <td class="tg-ktyi">Français</td>
+    <td class="tg-0lax">Confirmé</td>
+    <td class="tg-0lax">Oui</td>
+    <td class="tg-0lax">Oui</td>
+    <td class="tg-ktyi">Canton de Genève<br>Canton de Vaud</td>
+    <td class="tg-ktyi">Confirmé</td>
+    <td class="tg-ktyi">18.09.2026</td>
+  </tr>
+
+
   <tr>
     <td class="tg-ktyi" id="d">Di Falco</td>
     <td class="tg-ktyi">Calogero</td>

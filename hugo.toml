@@ -1,6 +1,6 @@
 baseURL = 'https://www.medical-classifications.ch/'
 locale = 'de-CH'
-title = 'Medizinische Kodierung und Klassifikationen'
+title = 'Medical Classifications – BFS'
 
 theme = "@docsy/theme"
 themesDir = "node_modules"
