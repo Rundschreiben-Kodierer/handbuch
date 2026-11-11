@@ -575,7 +575,7 @@ keywords: []
     <col style="width: 400px;">
   </colgroup>
   <tr>
-    <td class="tg-zr06">Quelle: Bundesamt für Statistik, Kodierungssekretariat<br>© BFS - 2025<br>Stand der Daten: 15.12.2025<br><a href="mailto:codeInfo@bfs.admin.ch">codeInfo@bfs.admin.ch</a><br><br>Office fédéral de la statistique, Secrétariat de codage<br>© OFS - 2025<br>Etat des données: 15.12.2025<br><a href="mailto:codeInfo@bfs.admin.ch">codeInfo@bfs.admin.ch</a><br><br>Fonte: Ufficio federale di statistica, Segreteria di codifica<br>© UST - 2025<br>Stato dei dati: 15.12.2025<br><a href="mailto:codeInfo@bfs.admin.ch">codeInfo@bfs.admin.ch</a></td>
+    <td class="tg-zr06">Quelle: Bundesamt für Statistik, Kodierungssekretariat<br>© BFS - 2026<br>Stand der Daten: 13.11.2026<br><a href="mailto:codeInfo@bfs.admin.ch">codeInfo@bfs.admin.ch</a><br><br>Office fédéral de la statistique, Secrétariat de codage<br>© OFS - 2026<br>Etat des données: 13.11.2026<br><a href="mailto:codeInfo@bfs.admin.ch">codeInfo@bfs.admin.ch</a><br><br>Fonte: Ufficio federale di statistica, Segreteria di codifica<br>© UST - 2026<br>Stato dei dati: 13.11.2026<br><a href="mailto:codeInfo@bfs.admin.ch">codeInfo@bfs.admin.ch</a></td>
   </tr></thead>
 </table>
 
