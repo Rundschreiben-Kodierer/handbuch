@@ -130,23 +130,9 @@ keywords: []
     <td class="tg-ktyi">Confirmé</td>
     <td class="tg-ktyi">06.03.2026</td>
   </tr>
-    <tr>
-    <td class="tg-0lax" id="c">Chevalier</td>
-    <td class="tg-ktyi">Johanne</td>
-    <td class="tg-ktyi">Chemin de l’Ancienne Poste 6<br>1081 Montpreveyres</td>
-    <td class="tg-v47d"><a href="mailto:johanne.chevalier@chuv.ch">johanne.chevalier@chuv.ch</a></td>
-    <td class="tg-ktyi">076 320 68 51</td>
-    <td class="tg-ktyi">Français</td>
-    <td class="tg-0lax">Confirmé</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax">Oui</td>
-    <td class="tg-ktyi">Suisse romande</td>
-    <td class="tg-ktyi">Confirmé</td>
-    <td class="tg-ktyi">21.10.2025</td>
-  </tr>
 
   <tr>
-    <td class="tg-0lax">Combes</td>
+    <td class="tg-0lax" id="c">Combes</td>
     <td class="tg-ktyi">Emilie</td>
     <td class="tg-ktyi">48, Pl. Centrale<br> 74270 Frangy Frankreich</td>
     <td class="tg-v47d"><a href="mailto:combesemilie.c@gmail.com">combesemilie.c@gmail.com</a></td>
@@ -413,6 +399,20 @@ keywords: []
     <td class="tg-0lax">05.11.2021</td>
   </tr>
   <tr>
+    <td class="tg-0lax" id="p">Pahud</td>
+    <td class="tg-ktyi">Johanne</td>
+    <td class="tg-ktyi">Chemin de l’Ancienne Poste 6<br>1081 Montpreveyres</td>
+    <td class="tg-v47d"><a href="mailto:johanne.chevalier@chuv.ch">johanne.chevalier@chuv.ch</a></td>
+    <td class="tg-ktyi">076 320 68 51</td>
+    <td class="tg-ktyi">Français</td>
+    <td class="tg-ktyi">Confirmé</td>
+    <td class="tg-ktyi"></td>
+    <td class="tg-ktyi">Oui</td>
+    <td class="tg-ktyi">Suisse romande</td>
+    <td class="tg-ktyi">Confirmé</td>
+    <td class="tg-ktyi">21.10.2025</td>
+  </tr>
+  <tr>
     <td class="tg-0lax" id="p">Pangrazzi</td>
     <td class="tg-ktyi">Cristina</td>
     <td class="tg-0lax">Zelgmatt 65<br>8132 Egg </td>
@@ -621,6 +621,20 @@ keywords: []
     <td class="tg-0lax">Canton de Zurich</td>
     <td class="tg-0lax">Confirmé</td>
     <td class="tg-0lax">10.05.2021</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Wirth</td>
+    <td class="tg-ktyi">François</td>
+    <td class="tg-ktyi">Ch. de l`Eglise 2<br>1059 Peney-le-Jorat</td>
+    <td class="tg-v47d"><a href="mailto:wirth.francois@gmail.com">wirth.francois@gmail.com</a></td>
+    <td class="tg-ktyi">079 917 28 20</td>
+    <td class="tg-ktyi">Français</td>
+    <td class="tg-ktyi">Confirmé</td>
+    <td class="tg-ktyi">Oui</td>
+    <td class="tg-ktyi"></td>
+    <td class="tg-ktyi">Suisse romande</td>
+    <td class="tg-ktyi">Confirmé</td>
+    <td class="tg-ktyi">02.11.2026</td>
   </tr>
   <tr>
     <td class="tg-0lax">Zolkos </td>

@@ -89,6 +89,20 @@ keywords: []
 
 <tbody>
   <tr>
+    <td class="tg-0lax" id="a">Aeschimann</td>
+    <td class="tg-ktyi">Aglaja</td>
+    <td class="tg-ktyi">Aarmühlestrasse 13<br>3800 Interlaken</td>
+    <td class="tg-v47d"><a href="mailto:aglaja.aeschimann@nicecomputing.ch">aglaja.aeschimann@nicecomputing.ch</a></td>
+    <td class="tg-ktyi">078 718 93 94</td>
+    <td class="tg-ktyi">Allemand</td>
+    <td class="tg-ktyi">Confirmé</td>
+    <td class="tg-ktyi">Oui</td>
+    <td class="tg-ktyi"></td>
+    <td class="tg-ktyi"></td>
+    <td class="tg-ktyi">Confirmé</td>
+    <td class="tg-ktyi">01.11.2026</td>
+  </tr>
+  <tr>
     <td class="tg-ktyi" id="a">Allocco</td>
     <td class="tg-ktyi">Cinzia</td>
     <td class="tg-ktyi">Ch. de Maillefer 37<br>CH-1052 Le Mont-sur-Lausanne</td>
@@ -130,21 +144,6 @@ keywords: []
     <td class="tg-ktyi">Suisse romande</td>
     <td class="tg-ktyi">Confirmé</td>
     <td class="tg-ktyi">06.03.2026</td>
- </tr>
-    <tr>
-    <td class="tg-0lax" id="c">Chevalier</td>
-    <td class="tg-ktyi">Johanne</td>
-    <td class="tg-ktyi">Chemin de l’Ancienne Poste 6<br>1081 Montpreveyres</td>
-    <td class="tg-v47d"><a href="mailto:johanne.chevalier@chuv.ch">johanne.chevalier@chuv.ch</a></td>
-    <td class="tg-ktyi">076 320 68 51</td>
-    <td class="tg-ktyi">Français</td>
-    <td class="tg-0lax">Confirmé</td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-ktyi">Oui</td>
-    <td class="tg-ktyi">Suisse romande</td>
-    <td class="tg-ktyi">Confirmé</td>
-    <td class="tg-ktyi">21.10.2025</td>
-
  </tr>
     <tr>
     <td class="tg-0lax" id="c">Combes</td>
@@ -403,6 +402,20 @@ keywords: []
 
 
   <tr>
+    <td class="tg-0lax" id="p">Pahud</td>
+    <td class="tg-ktyi">Johanne</td>
+    <td class="tg-ktyi">Chemin de l’Ancienne Poste 6<br>1081 Montpreveyres</td>
+    <td class="tg-v47d"><a href="mailto:johanne.chevalier@chuv.ch">johanne.chevalier@chuv.ch</a></td>
+    <td class="tg-ktyi">076 320 68 51</td>
+    <td class="tg-ktyi">Français</td>
+    <td class="tg-ktyi">Confirmé</td>
+    <td class="tg-ktyi"></td>
+    <td class="tg-ktyi">Oui</td>
+    <td class="tg-ktyi">Suisse romande</td>
+    <td class="tg-ktyi">Confirmé</td>
+    <td class="tg-ktyi">21.10.2025</td>
+  </tr>
+  <tr>
     <td class="tg-0lax" id="p">Pangrazzi</td>
     <td class="tg-ktyi">Cristina</td>
     <td class="tg-0lax">Zelgmatt 65<br>8132 Egg </td>
@@ -544,6 +557,20 @@ keywords: []
     <td class="tg-0lax">Canton de Zurich</td>
     <td class="tg-ktyi">Confirmé</td>
     <td class="tg-0lax">11.04.2022</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Wirth</td>
+    <td class="tg-ktyi">François</td>
+    <td class="tg-ktyi">Ch. de l`Eglise 2<br>1059 Peney-le-Jorat</td>
+    <td class="tg-v47d"><a href="mailto:wirth.francois@gmail.com">wirth.francois@gmail.com</a></td>
+    <td class="tg-ktyi">079 917 28 20</td>
+    <td class="tg-ktyi">Français</td>
+    <td class="tg-ktyi">Confirmé</td>
+    <td class="tg-ktyi">Oui</td>
+    <td class="tg-ktyi"></td>
+    <td class="tg-ktyi">Suisse romande</td>
+    <td class="tg-ktyi">Confirmé</td>
+    <td class="tg-ktyi">02.11.2026</td>
   </tr>
   <tr>
     <td class="tg-0lax" id="z">Zolkos </td>
