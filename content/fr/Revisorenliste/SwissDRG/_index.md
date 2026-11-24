@@ -275,18 +275,6 @@ keywords: []
     <td class="tg-ktyi">24.03.2021</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Chevalier</td>
-    <td class="tg-ktyi">Johanne</td>
-    <td class="tg-ktyi">Chemin de l’Ancienne Poste 6<br>1081 Montpreveyres</td>
-    <td class="tg-v47d"><a href="mailto:johanne.chevalier@chuv.ch">johanne.chevalier@chuv.ch</a></td>
-    <td class="tg-ktyi">076 320 68 51</td>
-    <td class="tg-ktyi">Français</td>
-    <td class="tg-0lax">Confirmé</td>
-    <td class="tg-ktyi">Suisse romande</td>
-    <td class="tg-ktyi">Confirmé</td>
-    <td class="tg-ktyi">21.10.2025</td>
-  </tr>
-  <tr>
     <td class="tg-0lax">Combes</td>
     <td class="tg-ktyi">Emilie</td>
     <td class="tg-ktyi">48, Pl. Centrale<br>74270 Frangy France</td>
@@ -1053,6 +1041,30 @@ keywords: []
     <td class="tg-ktyi">Suisse alémanique</td>
     <td class="tg-ktyi">Confirmé</td>
     <td class="tg-ktyi">30.06.2014</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" id="p">Pabst</td>
+    <td class="tg-ktyi">Sebastian</td>
+    <td class="tg-ktyi">Badstrasse 9D<br>9410 Heiden</td>
+    <td class="tg-v47d"><a href="mailto:sebastian.pabst@hotmail.com">sebastian.pabst@hotmail.com</a></td>
+    <td class="tg-ktyi">078 613 51 99</td>
+    <td class="tg-ktyi">Allemand</td>
+    <td class="tg-ktyi">Confirmé</td>
+    <td class="tg-ktyi">Suisse alémanique</td>
+    <td class="tg-ktyi">Confirmé</td>
+    <td class="tg-ktyi">02.11.2026</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Pahud</td>
+    <td class="tg-ktyi">Johanne</td>
+    <td class="tg-ktyi">Chemin de l’Ancienne Poste 6<br>1081 Montpreveyres</td>
+    <td class="tg-v47d"><a href="mailto:johanne.chevalier@chuv.ch">johanne.chevalier@chuv.ch</a></td>
+    <td class="tg-ktyi">076 320 68 51</td>
+    <td class="tg-ktyi">Français</td>
+    <td class="tg-ktyi">Confirmé</td>
+    <td class="tg-ktyi">Suisse romande</td>
+    <td class="tg-ktyi">Confirmé</td>
+    <td class="tg-ktyi">21.10.2025</td>
   </tr>
   <tr>
     <td class="tg-ktyi" id="p">Pangrazzi</td>
